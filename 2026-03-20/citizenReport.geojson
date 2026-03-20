@@ -1,0 +1,5671 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 90184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3329938,
+          35.7010994
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای نوپو",
+        "date": 29541390,
+        "description": "",
+        "id": "MzY6N2JjMzk1NDg1NDJm",
+        "publicId": "MzY6N2JjMzk1NDg1NDJm",
+        "sourceId": "7bc39548542f",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای نوپو",
+          "date": 29541390,
+          "description": ""
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T13:44:19.134Z",
+        "updatedAt": "2026-03-14T03:01:37.724Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.403698,
+          35.700199
+        ]
+      },
+      "properties": {
+        "name:fa": " انبار متعلق به سپاه",
+        "date": 29529870,
+        "description": "روی بام این ساختمون پدافند هوایی وجود داره",
+        "id": "MzY6YTUyMzA0OTU4OTI5",
+        "publicId": "MzY6YTUyMzA0OTU4OTI5",
+        "sourceId": "a52304958929",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": " انبار متعلق به سپاه",
+          "date": 29529870,
+          "description": "روی بام این ساختمون پدافند هوایی وجود داره"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T13:45:43.947Z",
+        "updatedAt": "2026-03-14T03:00:52.786Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.389,
+          35.6892
+        ]
+      },
+      "properties": {
+        "name:fa": "شرکت زاگرس توان سپهر غرب - تحرک نیروهای سرکوب",
+        "date": 29525550,
+        "description": "",
+        "id": "MzY6MGM0MGI1OTE5MmIz",
+        "publicId": "MzY6MGM0MGI1OTE5MmIz",
+        "sourceId": "0c40b59192b3",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "شرکت زاگرس توان سپهر غرب - تحرک نیروهای سرکوب",
+          "date": 29525550,
+          "description": ""
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T13:46:26.226Z",
+        "updatedAt": "2026-03-14T03:01:18.019Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.49953911222818,
+          35.74634975601025
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 29552910,
+        "description": "ایست بازرسی در میدان رسالت خیابان هنگام منطقه ۴. بالاتر از آن میدان الغدیر است که هر شب مراسم برگزار می شود و مزدوران و سرکوب گرها در آنجا حضور دارند. ماشین های ضد شورش پشت پارکینگ بیمارستان الغدیر قرار دارند.",
+        "id": "MzY6ODBiZTFlOGQxMzEz",
+        "publicId": "MzY6ODBiZTFlOGQxMzEz",
+        "sourceId": "80be1e8d1313",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 29552910,
+          "description": "ایست بازرسی در میدان رسالت خیابان هنگام منطقه ۴. بالاتر از آن میدان الغدیر است که هر شب مراسم برگزار می شود و مزدوران و سرکوب گرها در آنجا حضور دارند. ماشین های ضد شورش پشت پارکینگ بیمارستان الغدیر قرار دارند."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-13T13:47:59.396Z",
+        "updatedAt": "2026-03-14T02:58:52.126Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.388788,
+          31.823491
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "date": 29555790,
+        "description": "دبیرستان دوره اول پسرانه سیدالشهدا در بلوار پاسداران شهر یزد، محل استقرار ماشین شخصی‌های یگان ویژه شده و اطراف محوطه فنس‌کشی شده است. گزارش‌های مملکتی و اینترنشنال از این استقرار نیز موجود است.  📍 دبیرستان دوره اول پسرانه سیدالشهدا در بلوار پاسداران شهر یزد، نبش خیابان یاسین به سمت کوچه ۱۹ بلوار پاسداران",
+        "id": "MzY6NWY3N2ZhMWJiMGFj",
+        "publicId": "MzY6NWY3N2ZhMWJiMGFj",
+        "sourceId": "5f77fa1bb0ac",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای سرکوب",
+          "date": 29555790,
+          "description": "دبیرستان دوره اول پسرانه سیدالشهدا در بلوار پاسداران شهر یزد، محل استقرار ماشین شخصی‌های یگان ویژه شده و اطراف محوطه فنس‌کشی شده است. گزارش‌های مملکتی و اینترنشنال از این استقرار نیز موجود است.  📍 دبیرستان دوره اول پسرانه سیدالشهدا در بلوار پاسداران شهر یزد، نبش خیابان یاسین به سمت کوچه ۱۹ بلوار پاسداران"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T13:49:02.369Z",
+        "updatedAt": "2026-03-14T03:08:30.603Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.434851,
+          36.649824
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج و ایست بازرسی",
+        "date": 29552910,
+        "description": "گزارش شامل مختصات و توضیحات مربوط به موقعیت‌های مکانی مختلف در چالوس است، از جمله بسیج چالوس، ایست بازرسی بین نوشهر و چالوس، درب ورودی سپاه چالوس، خونه امن اطلاعات سپاه چالوس (محل بازجویی)، و اداره آگاهی و اطلاعات چالوس. همچنین اشاره شده که در ایست بازرسی، افراد صورت‌های خود را می‌پوشانند.  📍 بسیج چالوس: خیابان ۱۷ شهریور جنب دانشگاه آزاد اسلامی، ایست بازرسی بین نوشهر و چالوس جلو کوچه قبل از هتل ملک، درب ورودی سپاه چالوس، خونه امن اطلاعات سپاه چالوس که محل بازجویی هست، خیابان استاد مطهری،کمی پایینتر از درب ورودی سپاه سمت روبرو آن طرف خیابون،درب مشکی، اداره آگاهی و اطلاعات چالوس",
+        "id": "MzY6YjEyNjJkM2FiZjNm",
+        "publicId": "MzY6YjEyNjJkM2FiZjNm",
+        "sourceId": "b1262d3abf3f",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "بسیج و ایست بازرسی",
+          "date": 29552910,
+          "description": "گزارش شامل مختصات و توضیحات مربوط به موقعیت‌های مکانی مختلف در چالوس است، از جمله بسیج چالوس، ایست بازرسی بین نوشهر و چالوس، درب ورودی سپاه چالوس، خونه امن اطلاعات سپاه چالوس (محل بازجویی)، و اداره آگاهی و اطلاعات چالوس. همچنین اشاره شده که در ایست بازرسی، افراد صورت‌های خود را می‌پوشانند.  📍 بسیج چالوس: خیابان ۱۷ شهریور جنب دانشگاه آزاد اسلامی، ایست بازرسی بین نوشهر و چالوس جلو کوچه قبل از هتل ملک، درب ورودی سپاه چالوس، خونه امن اطلاعات سپاه چالوس که محل بازجویی هست، خیابان استاد مطهری،کمی پایینتر از درب ورودی سپاه سمت روبرو آن طرف خیابون،درب مشکی، اداره آگاهی و اطلاعات چالوس"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T13:50:45.565Z",
+        "updatedAt": "2026-03-14T03:05:23.394Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.20547915479173,
+          35.761224676123476
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 29539950,
+        "description": "مسجد شهرک شهید باقری که محل ایست بازرسی و تجمع عوامل حکومتی میباشد",
+        "id": "MzY6NmU5MTE0ODVmNjEx",
+        "publicId": "MzY6NmU5MTE0ODVmNjEx",
+        "sourceId": "6e911485f611",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 29539950,
+          "description": "مسجد شهرک شهید باقری که محل ایست بازرسی و تجمع عوامل حکومتی میباشد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T20:40:00.903Z",
+        "updatedAt": "2026-03-14T03:03:57.916Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.24704222494742,
+          35.76036052270652
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 29552910,
+        "description": "",
+        "id": "MzY6ZDQ1NjhlYTA2MDE3",
+        "publicId": "MzY6ZDQ1NjhlYTA2MDE3",
+        "sourceId": "d4568ea06017",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 29552910,
+          "description": ""
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T20:45:35.136Z",
+        "updatedAt": "2026-03-14T03:03:27.417Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38268934252929,
+          35.77050441157408
+        ]
+      },
+      "properties": {
+        "name:fa": "اسکان نیرو های سرکوب در دانشگاه",
+        "date": 29529870,
+        "description": "",
+        "id": "MzY6MWQxZTgyNmFhNjIz",
+        "publicId": "MzY6MWQxZTgyNmFhNjIz",
+        "sourceId": "1d1e826aa623",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اسکان نیرو های سرکوب در دانشگاه",
+          "date": 29529870,
+          "description": ""
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T20:53:20.149Z",
+        "updatedAt": "2026-03-14T03:02:14.554Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.325821224778934,
+          35.76282322698823
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 29547150,
+        "description": "",
+        "id": "MzY6NTc3NDdlNTQwNDhk",
+        "publicId": "MzY6NTc3NDdlNTQwNDhk",
+        "sourceId": "57747e54048d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 29547150,
+          "description": ""
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T20:55:29.489Z",
+        "updatedAt": "2026-03-14T03:02:44.220Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.62602220001901,
+          33.52630417897139
+        ]
+      },
+      "properties": {
+        "name:fa": "انفجار یا حمله موشکی حوالی ساعت 3 بامداد",
+        "date": 29545710,
+        "description": "انفجار یا حمله موشکی حوالی ساعت 3 بامداد",
+        "id": "MzY6NjBiYTQ3OWY4YjRk",
+        "publicId": "MzY6NjBiYTQ3OWY4YjRk",
+        "sourceId": "60ba479f8b4d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "انفجار یا حمله موشکی حوالی ساعت 3 بامداد",
+          "date": 29545710,
+          "description": "انفجار یا حمله موشکی حوالی ساعت 3 بامداد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T21:32:48.792Z",
+        "updatedAt": "2026-03-14T03:08:58.621Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.67715712233874,
+          36.55635378352726
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوبگر در مدرسه",
+        "id": "MzY6YjE0YjQ4ZThmM2E3",
+        "publicId": "MzY6YjE0YjQ4ZThmM2E3",
+        "sourceId": "b14b48e8f3a7",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای سرکوبگر در مدرسه"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T22:05:34.706Z",
+        "updatedAt": "2026-03-13T22:08:21.647Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.335861256084826,
+          35.777539277168955
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی",
+        "date": 29535630,
+        "description": "",
+        "id": "MzY6M2YxMDNjNjViYjUz",
+        "publicId": "MzY6M2YxMDNjNjViYjUz",
+        "sourceId": "3f103c65bb53",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست و بازرسی",
+          "date": 29535630,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T00:45:29.302Z",
+        "updatedAt": "2026-03-14T03:03:00.879Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31469811190405,
+          35.769461455895595
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی بسیج",
+        "date": 29555790,
+        "description": "",
+        "id": "MzY6OTJhMDE1OGNiOWYw",
+        "publicId": "MzY6OTJhMDE1OGNiOWYw",
+        "sourceId": "92a0158cb9f0",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی بسیج",
+          "date": 29555790,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T00:51:25.732Z",
+        "updatedAt": "2026-03-14T03:03:15.754Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.28631324148233,
+          35.65026976921615
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی",
+        "date": 29555790,
+        "description": "",
+        "id": "MzY6MTY4ZTNhZTMyNzNk",
+        "publicId": "MzY6MTY4ZTNhZTMyNzNk",
+        "sourceId": "168e3ae3273d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست و بازرسی",
+          "date": 29555790,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T00:55:22.027Z",
+        "updatedAt": "2026-03-14T03:02:01.516Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.990005802394165,
+          35.759623100115206
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی",
+        "date": 29555790,
+        "description": "ساختمان قدیم شهرداری الان تغییر کاربری داده و شده محل حفاظت اطلاعات استان البرز",
+        "id": "MzY6MzU4MDBkOGIwNzY3",
+        "publicId": "MzY6MzU4MDBkOGIwNzY3",
+        "sourceId": "35800d8b0767",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست و بازرسی",
+          "date": 29555790,
+          "description": "ساختمان قدیم شهرداری الان تغییر کاربری داده و شده محل حفاظت اطلاعات استان البرز"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T01:01:06.681Z",
+        "updatedAt": "2026-03-14T03:04:17.245Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.45801160837138,
+          35.6904821956295
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی پیروزی تقاطع امام علی",
+        "id": "MzY6YTNhMTQzOGU4MjFi",
+        "publicId": "MzY6YTNhMTQzOGU4MjFi",
+        "sourceId": "a3a1438e821b",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی پیروزی تقاطع امام علی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T10:08:50.813Z",
+        "updatedAt": "2026-03-14T10:08:50.813Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.201396507714804,
+          35.68416166964687
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاە انجیران",
+        "date": 29539950,
+        "description": "",
+        "id": "MzY6NTI2NmEzOTQ1N2Vl",
+        "publicId": "MzY6NTI2NmEzOTQ1N2Vl",
+        "sourceId": "5266a39457ee",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پاسگاە انجیران",
+          "date": 29539950,
+          "description": ""
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-14T12:51:27.908Z",
+        "updatedAt": "2026-03-14T12:51:27.908Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.39462641705964,
+          35.863330994468015
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاەروستای بسطام",
+        "date": "",
+        "description": "",
+        "id": "MzY6ZTFlOTVkOTA1YmM5",
+        "publicId": "MzY6ZTFlOTVkOTA1YmM5",
+        "sourceId": "e1e95d905bc9",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پاسگاەروستای بسطام",
+          "date": "",
+          "description": ""
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-14T13:01:58.794Z",
+        "updatedAt": "2026-03-14T13:01:58.794Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.51369291151434,
+          35.72006199728712
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "محل ایست بازرسی با خودروهای تویوتا مشکی و سفید و تیربار سوار شده روی خودروهای زرهی آماده شلیک",
+        "id": "MzY6Zjc0ZDBiNDEzZjI0",
+        "publicId": "MzY6Zjc0ZDBiNDEzZjI0",
+        "sourceId": "f74d0b413f24",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "محل ایست بازرسی با خودروهای تویوتا مشکی و سفید و تیربار سوار شده روی خودروهای زرهی آماده شلیک"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T16:48:43.689Z",
+        "updatedAt": "2026-03-14T16:48:43.689Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.334642903779894,
+          35.70094273938352
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی در ضلع غربی میدان آزادی. ماشین های ضد شورش پایین میدان پارک کردن.",
+        "id": "MzY6MjA1ZWJlNzllNDdj",
+        "publicId": "MzY6MjA1ZWJlNzllNDdj",
+        "sourceId": "205ebe79e47c",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی در ضلع غربی میدان آزادی. ماشین های ضد شورش پایین میدان پارک کردن."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T16:49:36.094Z",
+        "updatedAt": "2026-03-14T16:49:36.094Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.48486966854489,
+          35.63337342333229
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "نیروهای نظامی و بسیجی ایست بازرسی چند شب پشت هم گذاشتن",
+        "id": "MzY6NDdlMGQxNzMyNTg5",
+        "publicId": "MzY6NDdlMGQxNzMyNTg5",
+        "sourceId": "47e0d1732589",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "نیروهای نظامی و بسیجی ایست بازرسی چند شب پشت هم گذاشتن"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T16:54:29.077Z",
+        "updatedAt": "2026-03-14T16:54:29.077Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.48883575312729,
+          35.66067697776862
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی بسیج",
+        "date": "",
+        "description": "بلوار زمزم",
+        "id": "MzY6NjkwZThlMDM0YjNh",
+        "publicId": "MzY6NjkwZThlMDM0YjNh",
+        "sourceId": "690e8e034b3a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی بسیج",
+          "date": "",
+          "description": "بلوار زمزم"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T16:55:38.574Z",
+        "updatedAt": "2026-03-14T16:55:38.574Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.12564096451695,
+          35.72032224448182
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "بلوار انقلاب",
+        "id": "MzY6YWI2MmMyY2M1YTBh",
+        "publicId": "MzY6YWI2MmMyY2M1YTBh",
+        "sourceId": "ab62c2cc5a0a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "بلوار انقلاب"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T16:57:15.295Z",
+        "updatedAt": "2026-03-14T16:57:15.295Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.855650328039076,
+          34.60294475828306
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان ویژه",
+        "date": "",
+        "description": "محل استقرار یگان ویژه",
+        "id": "MzY6OTQ0ZjgzNTA4OWY0",
+        "publicId": "MzY6OTQ0ZjgzNTA4OWY0",
+        "sourceId": "944f835089f4",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "یگان ویژه",
+          "date": "",
+          "description": "محل استقرار یگان ویژه"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T16:58:11.744Z",
+        "updatedAt": "2026-03-14T16:58:11.744Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90289,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.859541568650656,
+          34.61953584358348
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "date": "",
+        "description": "محل جمع شدن بسیجی ها و یگان ویژه",
+        "id": "MzY6OGJkMDlhMzQ5Y2Rl",
+        "publicId": "MzY6OGJkMDlhMzQ5Y2Rl",
+        "sourceId": "8bd09a349cde",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای سرکوب",
+          "date": "",
+          "description": "محل جمع شدن بسیجی ها و یگان ویژه"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T17:01:42.419Z",
+        "updatedAt": "2026-03-14T17:01:42.419Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90290,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.853908205356106,
+          34.618304880568544
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی و محل تجمع بسیجی ها",
+        "id": "MzY6YmQ5YjIzM2IzODM3",
+        "publicId": "MzY6YmQ5YjIzM2IzODM3",
+        "sourceId": "bd9b233b3837",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی و محل تجمع بسیجی ها"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T17:02:29.519Z",
+        "updatedAt": "2026-03-14T17:02:29.519Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.343957,
+          35.66503
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی و کمین در سعیدی",
+        "id": "MzY6NWNjOWMwNzk1ZWE4",
+        "publicId": "MzY6NWNjOWMwNzk1ZWE4",
+        "sourceId": "5cc9c0795ea8",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی و کمین در سعیدی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T17:20:25.483Z",
+        "updatedAt": "2026-03-14T17:20:25.483Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.307654031846994,
+          35.742068891471106
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی پژوهنده",
+        "id": "MzY6MjQxNzY0YjFiODlh",
+        "publicId": "MzY6MjQxNzY0YjFiODlh",
+        "sourceId": "241764b1b89a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی پژوهنده"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T17:25:26.198Z",
+        "updatedAt": "2026-03-14T17:25:26.198Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.471931408199424,
+          35.799302608635145
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی بلوار لواسانی",
+        "id": "MzY6ZmIyNzM4MDIwZGRm",
+        "publicId": "MzY6ZmIyNzM4MDIwZGRm",
+        "sourceId": "fb2738020ddf",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی بلوار لواسانی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T17:27:14.865Z",
+        "updatedAt": "2026-03-14T17:27:14.865Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.09142641292203,
+          34.3619180607476
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی خیابان پرواز",
+        "id": "MzY6NDZhNjY4NmRmZGRk",
+        "publicId": "MzY6NDZhNjY4NmRmZGRk",
+        "sourceId": "46a6686dfddd",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی خیابان پرواز"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-14T18:22:10.238Z",
+        "updatedAt": "2026-03-14T18:22:10.238Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.98249518423938,
+          35.85496623462822
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع نیروهای بسیج",
+        "date": 29558670,
+        "description": "",
+        "id": "MzY6ZWRhYzlhNzE5ZTM5",
+        "publicId": "MzY6ZWRhYzlhNzE5ZTM5",
+        "sourceId": "edac9a719e39",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل تجمع نیروهای بسیج",
+          "date": 29558670,
+          "description": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T08:33:44.841Z",
+        "updatedAt": "2026-03-15T08:33:44.841Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.94401068610688,
+          34.908536769995266
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه هوایی سپاه و دکل تلویزیونی",
+        "date": -49388746200,
+        "description": "",
+        "id": "MzY6YTJlYmYwMmIxOTBm",
+        "publicId": "MzY6YTJlYmYwMmIxOTBm",
+        "sourceId": "a2ebf02b190f",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه هوایی سپاه و دکل تلویزیونی",
+          "date": -49388746200,
+          "description": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T09:57:28.709Z",
+        "updatedAt": "2026-03-15T09:57:28.709Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.47943406696652,
+          35.63930969043541
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 1772656200,
+        "description": "ایست بازرسی توسط نیرو های نظامی و سرکوب به صورت شبانه روزی",
+        "id": "MzY6MzA3ZDhiYWNhNTg3",
+        "publicId": "MzY6MzA3ZDhiYWNhNTg3",
+        "sourceId": "307d8baca587",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 1772656200,
+          "description": "ایست بازرسی توسط نیرو های نظامی و سرکوب به صورت شبانه روزی"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:20:16.699Z",
+        "updatedAt": "2026-03-15T12:20:16.699Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.49304989899795,
+          35.63889174108907
+        ]
+      },
+      "properties": {
+        "name:fa": "مدرسه",
+        "date": 1772569800,
+        "description": "ماشین و موتور نیرو و تجهیزات نظامی گروه های تروریستی سپاه در این مدرسه مستقر هستند",
+        "id": "MzY6NGM0N2QwOTI4OWMz",
+        "publicId": "MzY6NGM0N2QwOTI4OWMz",
+        "sourceId": "4c47d09289c3",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مدرسه",
+          "date": 1772569800,
+          "description": "ماشین و موتور نیرو و تجهیزات نظامی گروه های تروریستی سپاه در این مدرسه مستقر هستند"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:21:08.858Z",
+        "updatedAt": "2026-03-15T12:24:13.177Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.487688487352955,
+          35.63089535964468
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 1772656200,
+        "description": "ایست بازرسی شبانه روزی نیروهای تروریستی سپاه و ارتش با اسلحه جنگی و ماشین های زره ای",
+        "id": "MzY6YWIzZjAzMjhmZGM3",
+        "publicId": "MzY6YWIzZjAzMjhmZGM3",
+        "sourceId": "ab3f0328fdc7",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 1772656200,
+          "description": "ایست بازرسی شبانه روزی نیروهای تروریستی سپاه و ارتش با اسلحه جنگی و ماشین های زره ای"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:23:44.368Z",
+        "updatedAt": "2026-03-15T12:23:44.368Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.491332491113866,
+          35.62673493672423
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 1772656200,
+        "description": "استقرار نیروهای انتظامی و اگاهی با ماشین های یگان ویژه که داخل هر ماشین ۴ نفر هستن",
+        "id": "MzY6MTVmOGJjMTU4N2Zk",
+        "publicId": "MzY6MTVmOGJjMTU4N2Zk",
+        "sourceId": "15f8bc1587fd",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 1772656200,
+          "description": "استقرار نیروهای انتظامی و اگاهی با ماشین های یگان ویژه که داخل هر ماشین ۴ نفر هستن"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:29:25.408Z",
+        "updatedAt": "2026-03-15T12:29:25.408Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50113257683813,
+          35.65941392518248
+        ]
+      },
+      "properties": {
+        "name:fa": "مدرسه",
+        "date": 1772656200,
+        "description": "در این سه مدرسه که کنار هم هستن نیرو و ماشین های گروه تروریستی سپاه و ارتش از تختی به این محل انتقال شده است",
+        "id": "MzY6ZDlhMWY5MzU5MjFl",
+        "publicId": "MzY6ZDlhMWY5MzU5MjFl",
+        "sourceId": "d9a1f935921e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مدرسه",
+          "date": 1772656200,
+          "description": "در این سه مدرسه که کنار هم هستن نیرو و ماشین های گروه تروریستی سپاه و ارتش از تختی به این محل انتقال شده است"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:30:39.486Z",
+        "updatedAt": "2026-03-15T12:30:39.486Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.47779625525584,
+          35.650155574358635
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 1773261000,
+        "description": "اتوبوس یگان ویژه",
+        "id": "MzY6NGVjZmEwOGIzZjlm",
+        "publicId": "MzY6NGVjZmEwOGIzZjlm",
+        "sourceId": "4ecfa08b3f9f",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 1773261000,
+          "description": "اتوبوس یگان ویژه"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:34:49.202Z",
+        "updatedAt": "2026-03-15T12:34:49.202Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46470817388243,
+          35.63194762540388
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 1773261000,
+        "description": "ایست بازرسی بسیج",
+        "id": "MzY6ZTcwMTJiNDc0NjQ4",
+        "publicId": "MzY6ZTcwMTJiNDc0NjQ4",
+        "sourceId": "e7012b474648",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 1773261000,
+          "description": "ایست بازرسی بسیج"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:36:07.766Z",
+        "updatedAt": "2026-03-15T12:36:07.766Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.469788083931576,
+          35.63527324846743
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 1771446600,
+        "description": "پایگاه سرکوب بسیج برگزاری ایست بازرسی در مناطق شهرک بروجردی و کیانشهر حضور در فعال در سرکوب اعتراض مردمی افسریه",
+        "id": "MzY6ZWZhYzBiM2RkYTQ3",
+        "publicId": "MzY6ZWZhYzBiM2RkYTQ3",
+        "sourceId": "efac0b3dda47",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 1771446600,
+          "description": "پایگاه سرکوب بسیج برگزاری ایست بازرسی در مناطق شهرک بروجردی و کیانشهر حضور در فعال در سرکوب اعتراض مردمی افسریه"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:38:15.967Z",
+        "updatedAt": "2026-03-15T12:38:15.967Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46543575814408,
+          35.640369431921116
+        ]
+      },
+      "properties": {
+        "name:fa": "تردد مشکوک",
+        "date": 1771446600,
+        "description": "تردد مشکوک شبانه تریلی های ایوکو بدون پلاک و جابجایی متعدد کانتینر هایی با علامت دنجر حضور نیروهای کاملا مسلح سپاه",
+        "id": "MzY6MDlmNmMxODc5MjAy",
+        "publicId": "MzY6MDlmNmMxODc5MjAy",
+        "sourceId": "09f6c1879202",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تردد مشکوک",
+          "date": 1771446600,
+          "description": "تردد مشکوک شبانه تریلی های ایوکو بدون پلاک و جابجایی متعدد کانتینر هایی با علامت دنجر حضور نیروهای کاملا مسلح سپاه"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:38:56.011Z",
+        "updatedAt": "2026-03-15T12:38:56.011Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.45249493519964,
+          35.59108797747318
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 1773433800,
+        "description": "ایست بازرسی یگان ویژه ۲۴ اسفند ۹ صبح",
+        "id": "MzY6YTdjMmFjZTQ5ZTJm",
+        "publicId": "MzY6YTdjMmFjZTQ5ZTJm",
+        "sourceId": "a7c2ace49e2f",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 1773433800,
+          "description": "ایست بازرسی یگان ویژه ۲۴ اسفند ۹ صبح"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:43:16.637Z",
+        "updatedAt": "2026-03-15T12:43:16.637Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46812793381676,
+          35.811245281695676
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی نیاوران",
+        "id": "MzY6NmU1ZTQzZWI0Mzk3",
+        "publicId": "MzY6NmU1ZTQzZWI0Mzk3",
+        "sourceId": "6e5e43eb4397",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی نیاوران"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T12:39:26.935Z",
+        "updatedAt": "2026-03-16T12:39:26.935Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.33625889107091,
+          35.71217154628421
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی",
+        "date": "",
+        "description": "ایست بازرسی سپاه",
+        "id": "MzY6NjE2NTJmOTI0MTc0",
+        "publicId": "MzY6NjE2NTJmOTI0MTc0",
+        "sourceId": "61652f924174",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست و بازرسی",
+          "date": "",
+          "description": "ایست بازرسی سپاه"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T12:48:11.099Z",
+        "updatedAt": "2026-03-16T12:48:11.099Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90350,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.53815178757233,
+          35.733908492944195
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی شاهد",
+        "id": "MzY6ZTY4MzA3MjY1NGFi",
+        "publicId": "MzY6ZTY4MzA3MjY1NGFi",
+        "sourceId": "e683072654ab",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی شاهد"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T12:49:27.462Z",
+        "updatedAt": "2026-03-16T12:49:27.462Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90351,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.40374644183109,
+          35.75711869854588
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی زیر پل کردستان ملاصدرا",
+        "id": "MzY6MWI4YzAzMGZlYTFj",
+        "publicId": "MzY6MWI4YzAzMGZlYTFj",
+        "sourceId": "1b8c030fea1c",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی زیر پل کردستان ملاصدرا"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T12:55:57.868Z",
+        "updatedAt": "2026-03-16T12:55:57.868Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.345527187518115,
+          35.77125134625625
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی زیر پل یادگار",
+        "id": "MzY6ZWQzN2UyNGYwOWE1",
+        "publicId": "MzY6ZWQzN2UyNGYwOWE1",
+        "sourceId": "ed37e24f09a5",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی زیر پل یادگار"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T12:56:38.724Z",
+        "updatedAt": "2026-03-16T12:56:38.724Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90353,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.436051531337995,
+          35.78396209664825
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی مسلح زیر پل قایم شدن اونور هم چادر زدن",
+        "id": "MzY6NTI4MDg2MzVhZmE2",
+        "publicId": "MzY6NTI4MDg2MzVhZmE2",
+        "sourceId": "52808635afa6",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی مسلح زیر پل قایم شدن اونور هم چادر زدن"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T13:10:06.216Z",
+        "updatedAt": "2026-03-16T13:10:06.216Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4495561570983,
+          35.69039736698247
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج ",
+        "date": "",
+        "description": "پایگاه بسیج جنب اداره برق",
+        "id": "MzY6NDEyMjQxYTQxOTE5",
+        "publicId": "MzY6NDEyMjQxYTQxOTE5",
+        "sourceId": "412241a41919",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج ",
+          "date": "",
+          "description": "پایگاه بسیج جنب اداره برق"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T13:41:19.065Z",
+        "updatedAt": "2026-03-16T13:41:19.065Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90357,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.47715053753498,
+          29.620561038512946
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز تجمع نیروهای سرکوب",
+        "date": "",
+        "description": "مرکز تجمع بسیجیان قاتل . در این محل قبلا بمبگذاری شده سالهای گذشته . بسیار مهم",
+        "id": "MzY6ZDRjNjkwZTc0OTdh",
+        "publicId": "MzY6ZDRjNjkwZTc0OTdh",
+        "sourceId": "d4c690e7497a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز تجمع نیروهای سرکوب",
+          "date": "",
+          "description": "مرکز تجمع بسیجیان قاتل . در این محل قبلا بمبگذاری شده سالهای گذشته . بسیار مهم"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T14:05:22.630Z",
+        "updatedAt": "2026-03-16T14:05:22.630Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90371,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.4515874163215,
+          31.707325899078015
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "چند عدد ساختمان هست مثلا به اسم راهنمایی رانندگی ولی ایست بسیج زدن اینجا",
+        "id": "MzY6MjhlNGY1OWViZjkx",
+        "publicId": "MzY6MjhlNGY1OWViZjkx",
+        "sourceId": "28e4f59ebf91",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "چند عدد ساختمان هست مثلا به اسم راهنمایی رانندگی ولی ایست بسیج زدن اینجا"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:15:20.160Z",
+        "updatedAt": "2026-03-16T22:15:20.160Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.42549030252894,
+          31.56129055273057
+        ]
+      },
+      "properties": {
+        "name:fa": "پرتابگر موشک",
+        "date": "",
+        "description": "دو لانچر سپاه آوردن داخل سالن تنیس قایم کردن",
+        "id": "MzY6YjZhMTNkZDc4ZDhj",
+        "publicId": "MzY6YjZhMTNkZDc4ZDhj",
+        "sourceId": "b6a13dd78d8c",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پرتابگر موشک",
+          "date": "",
+          "description": "دو لانچر سپاه آوردن داخل سالن تنیس قایم کردن"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:34:46.917Z",
+        "updatedAt": "2026-03-16T22:34:46.917Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90373,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.449673733031204,
+          35.70646289782435
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع صفا ",
+        "date": "",
+        "description": "مسجد جامع صفا بعنوان سر پایگاه و فرماندهی مساجد در شرق تهران. بیش از ده طبقه روی زمین و پنج طبقه زیر زمین یکی از بزرگترین مراکز سرکوب با دو هزار نیروی بسیج فعال و دپوی عظیم اسلحه های سبک و نیمه سنگین",
+        "id": "MzY6YmUyOWRiMTRmNWNh",
+        "publicId": "MzY6YmUyOWRiMTRmNWNh",
+        "sourceId": "be29db14f5ca",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مسجد جامع صفا ",
+          "date": "",
+          "description": "مسجد جامع صفا بعنوان سر پایگاه و فرماندهی مساجد در شرق تهران. بیش از ده طبقه روی زمین و پنج طبقه زیر زمین یکی از بزرگترین مراکز سرکوب با دو هزار نیروی بسیج فعال و دپوی عظیم اسلحه های سبک و نیمه سنگین"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:35:26.843Z",
+        "updatedAt": "2026-03-16T22:35:26.843Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90374,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.176147,
+          35.656251
+        ]
+      },
+      "properties": {
+        "name:fa": "تردد مشکوک - اطلاعات سپاه",
+        "date": "",
+        "description": "گزارش شامل مشاهده رفت و آمد ماشین های سنگین با پلاک نظامی و افراد سپاهی در ۳ سال گذشته است. همچنین، به دقت به پلاک ۵۴۱ توجه شده است.",
+        "id": "MzY6YmYxODA5MWI4NzEw",
+        "publicId": "MzY6YmYxODA5MWI4NzEw",
+        "sourceId": "bf18091b8710",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تردد مشکوک - اطلاعات سپاه",
+          "date": "",
+          "description": "گزارش شامل مشاهده رفت و آمد ماشین های سنگین با پلاک نظامی و افراد سپاهی در ۳ سال گذشته است. همچنین، به دقت به پلاک ۵۴۱ توجه شده است."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:41:07.565Z",
+        "updatedAt": "2026-03-16T22:41:07.565Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90375,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.62165343199385,
+          37.327013030277286
+        ]
+      },
+      "properties": {
+        "name:fa": "هوا فضای سپاه",
+        "date": "",
+        "description": "پادگان هواوفضا سپاه",
+        "id": "MzY6NGJjMjE3NWRlYTMy",
+        "publicId": "MzY6NGJjMjE3NWRlYTMy",
+        "sourceId": "4bc2175dea32",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "هوا فضای سپاه",
+          "date": "",
+          "description": "پادگان هواوفضا سپاه"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:42:22.168Z",
+        "updatedAt": "2026-03-16T22:42:22.168Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90376,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.87140224201144,
+          35.8665367121211
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی ",
+        "date": "",
+        "description": "ایست و بازرسی کاملشهر",
+        "id": "MzY6N2RmMmFlMTNiMzEw",
+        "publicId": "MzY6N2RmMmFlMTNiMzEw",
+        "sourceId": "7df2ae13b310",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست و بازرسی ",
+          "date": "",
+          "description": "ایست و بازرسی کاملشهر"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:43:57.935Z",
+        "updatedAt": "2026-03-16T22:43:57.935Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.402093041057526,
+          35.743603177191304
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی کردستان حکیم",
+        "id": "MzY6MmNjODg0NDJiOTY2",
+        "publicId": "MzY6MmNjODg0NDJiOTY2",
+        "sourceId": "2cc88442b966",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی کردستان حکیم"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:45:23.670Z",
+        "updatedAt": "2026-03-16T22:45:23.670Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.308728072110995,
+          35.71233748891794
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرستی ستاری",
+        "id": "MzY6YmFlNjVhOTcwMzJk",
+        "publicId": "MzY6YmFlNjVhOTcwMzJk",
+        "sourceId": "bae65a97032d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرستی ستاری"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:46:11.186Z",
+        "updatedAt": "2026-03-16T22:46:11.186Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3099755527721,
+          35.72580175828877
+        ]
+      },
+      "properties": {
+        "name:fa": "نیروهای سرکوب",
+        "date": "",
+        "description": "تجمع نیروهای سرکوب",
+        "id": "MzY6MDgyM2U2ZjM0MGRm",
+        "publicId": "MzY6MDgyM2U2ZjM0MGRm",
+        "sourceId": "0823e6f340df",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "نیروهای سرکوب",
+          "date": "",
+          "description": "تجمع نیروهای سرکوب"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:48:29.700Z",
+        "updatedAt": "2026-03-16T22:48:29.700Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46064887645244,
+          35.80148162490451
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": " دو سمت اندرزگو - تقاطع فرمانیه ایست بازرسی بود.",
+        "id": "MzY6YTZkMzk5NDNjNDZl",
+        "publicId": "MzY6YTZkMzk5NDNjNDZl",
+        "sourceId": "a6d39943c46e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": " دو سمت اندرزگو - تقاطع فرمانیه ایست بازرسی بود."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:58:50.088Z",
+        "updatedAt": "2026-03-16T22:59:02.285Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.421727156753946,
+          35.76145511327515
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی",
+        "id": "MzY6OWJlMmI0MGQ2YTIw",
+        "publicId": "MzY6OWJlMmI0MGQ2YTIw",
+        "sourceId": "9be2b40d6a20",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:59:31.206Z",
+        "updatedAt": "2026-03-16T22:59:31.206Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.55676158130612,
+          35.46195687844234
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی یگان ویژه ۲۴ اسفند",
+        "id": "MzY6OWQ5ZjVkMjBlMzUx",
+        "publicId": "MzY6OWQ5ZjVkMjBlMzUx",
+        "sourceId": "9d9f5d20e351",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی یگان ویژه ۲۴ اسفند"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T23:00:26.690Z",
+        "updatedAt": "2026-03-16T23:00:26.690Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90385,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.399425,
+          35.637443
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "نبش خیابان بازار دوم (بابایی) و خیابان پیروز، از حدود ساعت ۲۰:۰۰ ایست بازرسی بسیجها برقرار است. 📍",
+        "id": "MzY6N2YyNWVhY2QzM2U3",
+        "publicId": "MzY6N2YyNWVhY2QzM2U3",
+        "sourceId": "7f25eacd33e7",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "نبش خیابان بازار دوم (بابایی) و خیابان پیروز، از حدود ساعت ۲۰:۰۰ ایست بازرسی بسیجها برقرار است. 📍"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T23:01:22.588Z",
+        "updatedAt": "2026-03-16T23:01:22.588Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90386,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39990670245368,
+          35.64957505798708
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "از هنرستان به عنوان پایگاه و ایست و بازرسی استفاده میکنند.",
+        "id": "MzY6YWUzY2U1M2YyZWQz",
+        "publicId": "MzY6YWUzY2U1M2YyZWQz",
+        "sourceId": "ae3ce53f2ed3",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "از هنرستان به عنوان پایگاه و ایست و بازرسی استفاده میکنند."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T23:05:20.902Z",
+        "updatedAt": "2026-03-16T23:05:20.902Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90387,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.399921335070644,
+          35.64957260644553
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "از هنرستان به عنوان پایگاه و ایست و بازرسی استفاده میکنند.",
+        "id": "MzY6ZmZjNGFkYWQ1Y2Nj",
+        "publicId": "MzY6ZmZjNGFkYWQ1Y2Nj",
+        "sourceId": "ffc4adad5ccc",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "از هنرستان به عنوان پایگاه و ایست و بازرسی استفاده میکنند."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T23:06:42.458Z",
+        "updatedAt": "2026-03-16T23:06:42.458Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90388,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.14874285640707,
+          35.75859044558892
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی خرازی",
+        "id": "MzY6MGQxNGIyZmJkYjRl",
+        "publicId": "MzY6MGQxNGIyZmJkYjRl",
+        "sourceId": "0d14b2fbdb4e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی خرازی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T23:10:30.079Z",
+        "updatedAt": "2026-03-16T23:10:30.079Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90390,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.536298701582126,
+          35.773563510393316
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی",
+        "date": "",
+        "description": "ایست و بازرسی مسلح",
+        "id": "MzY6Zjk1YTVhODY5NWJj",
+        "publicId": "MzY6Zjk1YTVhODY5NWJj",
+        "sourceId": "f95a5a8695bc",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست و بازرسی",
+          "date": "",
+          "description": "ایست و بازرسی مسلح"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T23:13:57.241Z",
+        "updatedAt": "2026-03-16T23:13:57.241Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90391,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6215585146071,
+          35.74085369781616
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی",
+        "date": "",
+        "description": "ایست و بازرسی با ماشین های نظامی و رگبار و اسلحه داخل ماشین ها",
+        "id": "MzY6YzI4ZGI5OGEwMzMx",
+        "publicId": "MzY6YzI4ZGI5OGEwMzMx",
+        "sourceId": "c28db98a0331",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست و بازرسی",
+          "date": "",
+          "description": "ایست و بازرسی با ماشین های نظامی و رگبار و اسلحه داخل ماشین ها"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T23:14:46.514Z",
+        "updatedAt": "2026-03-16T23:14:46.514Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90395,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37055411483885,
+          35.759055902571205
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 1773174600,
+        "description": "محل استقرار لباس شخصی در کانتینر",
+        "id": "MzY6YzhhM2I5ZTY5NGFk",
+        "publicId": "MzY6YzhhM2I5ZTY5NGFk",
+        "sourceId": "c8a3b9e694ad",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 1773174600,
+          "description": "محل استقرار لباس شخصی در کانتینر"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T03:13:11.961Z",
+        "updatedAt": "2026-03-17T03:13:11.961Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90396,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36018963585428,
+          35.75747923336394
+        ]
+      },
+      "properties": {
+        "name:fa": "نوپو",
+        "date": 1772915400,
+        "description": "اینجا پلیس Nopo هست و من دیدم که در اعتراضات ماشینها اینجا جمع میشن و چندین سوله دارد که در سرکوب اعتراضات سهم بسزایی دارد",
+        "id": "MzY6N2ZlZjE2NDRhYTVk",
+        "publicId": "MzY6N2ZlZjE2NDRhYTVk",
+        "sourceId": "7fef1644aa5d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "نوپو",
+          "date": 1772915400,
+          "description": "اینجا پلیس Nopo هست و من دیدم که در اعتراضات ماشینها اینجا جمع میشن و چندین سوله دارد که در سرکوب اعتراضات سهم بسزایی دارد"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T03:14:01.560Z",
+        "updatedAt": "2026-03-17T03:14:01.560Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90397,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35265847874982,
+          35.75368600347099
+        ]
+      },
+      "properties": {
+        "name:fa": "دپو تجهیزات",
+        "date": 1773088200,
+        "description": "کل این منطقه و سوله علامت گذاری شده محل دپوی تجهیزات صدا و سیما میباشد .",
+        "id": "MzY6NDdjY2JmZDRhNDM1",
+        "publicId": "MzY6NDdjY2JmZDRhNDM1",
+        "sourceId": "47ccbfd4a435",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "دپو تجهیزات",
+          "date": 1773088200,
+          "description": "کل این منطقه و سوله علامت گذاری شده محل دپوی تجهیزات صدا و سیما میباشد ."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T03:14:57.604Z",
+        "updatedAt": "2026-03-17T03:14:57.604Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90398,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35538647077456,
+          35.74754589513503
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 1773174600,
+        "description": "چندین بار از این منطقه عبور کرده‌ام. در چند نوبت مشاهده کردم که چند سرباز در آنجا حضور دارند و به نظر می‌رسد یک مسلسل ضدهوایی به‌صورت استتار شده در محل مستقر شده باشد.",
+        "id": "MzY6NTg1MjQ2NzBmM2Zi",
+        "publicId": "MzY6NTg1MjQ2NzBmM2Zi",
+        "sourceId": "58524670f3fb",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 1773174600,
+          "description": "چندین بار از این منطقه عبور کرده‌ام. در چند نوبت مشاهده کردم که چند سرباز در آنجا حضور دارند و به نظر می‌رسد یک مسلسل ضدهوایی به‌صورت استتار شده در محل مستقر شده باشد."
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T03:15:27.951Z",
+        "updatedAt": "2026-03-17T03:15:27.951Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.197804901550825,
+          35.50309019081416
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع نیروهای سرکوبگر",
+        "date": 1773693000,
+        "description": "نیروهای سرکوبگر حدود ۲۰۰ نفر و نزدیک بە پنجاە چادر در این مکان مستقر شدن",
+        "id": "MzY6YTJjNTMxZmMyMDUw",
+        "publicId": "MzY6YTJjNTMxZmMyMDUw",
+        "sourceId": "a2c531fc2050",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل تجمع نیروهای سرکوبگر",
+          "date": 1773693000,
+          "description": "نیروهای سرکوبگر حدود ۲۰۰ نفر و نزدیک بە پنجاە چادر در این مکان مستقر شدن"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T09:20:18.430Z",
+        "updatedAt": "2026-03-17T09:22:47.487Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.33497850063469,
+          35.18442756775565
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6N2MzNjc3OTNlZWZl",
+        "publicId": "MzY6N2MzNjc3OTNlZWZl",
+        "sourceId": "7c367793eefe",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T09:46:28.491Z",
+        "updatedAt": "2026-03-17T09:46:28.491Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.33392437204512,
+          35.271528401642286
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە سپاە پاسداران رژیم",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6NmE0ZTk3YmMyMGM1",
+        "publicId": "MzY6NmE0ZTk3YmMyMGM1",
+        "sourceId": "6a4e97bc20c5",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە سپاە پاسداران رژیم",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T09:50:55.063Z",
+        "updatedAt": "2026-03-17T09:59:11.082Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.17683030351648,
+          35.52252191418208
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاە",
+        "date": 1772397000,
+        "description": "",
+        "id": "MzY6ZGQ5MWQxZjQ4NjQ2",
+        "publicId": "MzY6ZGQ5MWQxZjQ4NjQ2",
+        "sourceId": "dd91d1f48646",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاە",
+          "date": 1772397000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T10:14:37.760Z",
+        "updatedAt": "2026-03-17T10:14:48.542Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90411,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.02398049048688,
+          35.60947804620328
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6ZTYwMmM2OTFlNTlj",
+        "publicId": "MzY6ZTYwMmM2OTFlNTlj",
+        "sourceId": "e602c691e59c",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T12:46:26.021Z",
+        "updatedAt": "2026-03-17T12:46:26.021Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90412,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.08806722843971,
+          35.69377481497325
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6Y2MxNDIzMTAxMGVi",
+        "publicId": "MzY6Y2MxNDIzMTAxMGVi",
+        "sourceId": "cc14231010eb",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:03:44.115Z",
+        "updatedAt": "2026-03-17T13:03:44.115Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90413,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31426134903276,
+          35.77803808433782
+        ]
+      },
+      "properties": {
+        "name:fa": "صالحین",
+        "date": 1772224200,
+        "description": "مجل استقرار قرارگاه ثارالله در زمان های بحران",
+        "id": "MzY6MWJiNjE0MDgyYmY4",
+        "publicId": "MzY6MWJiNjE0MDgyYmY4",
+        "sourceId": "1bb614082bf8",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "صالحین",
+          "date": 1772224200,
+          "description": "مجل استقرار قرارگاه ثارالله در زمان های بحران"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:04:57.669Z",
+        "updatedAt": "2026-03-17T13:04:57.669Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.08699541261481,
+          35.691050633646924
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6NmI0NDVkNTYyOWE4",
+        "publicId": "MzY6NmI0NDVkNTYyOWE4",
+        "sourceId": "6b445d5629a8",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:07:14.130Z",
+        "updatedAt": "2026-03-17T13:07:14.130Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90415,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.10288035647318,
+          35.68781465605841
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6M2E1YTUxZjI4Yzg0",
+        "publicId": "MzY6M2E1YTUxZjI4Yzg0",
+        "sourceId": "3a5a51f28c84",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:09:24.836Z",
+        "updatedAt": "2026-03-17T13:09:24.836Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90416,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.140911726185465,
+          35.69768797752104
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": "",
+        "description": "",
+        "id": "MzY6ZjZhODRiMzBkYjll",
+        "publicId": "MzY6ZjZhODRiMzBkYjll",
+        "sourceId": "f6a84b30db9e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": "",
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:12:58.609Z",
+        "updatedAt": "2026-03-17T13:12:58.609Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1299241162767,
+          35.69539268967536
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": "",
+        "description": "",
+        "id": "MzY6MTkzNGZjZWVlNWU0",
+        "publicId": "MzY6MTkzNGZjZWVlNWU0",
+        "sourceId": "1934fceee5e4",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": "",
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:13:58.156Z",
+        "updatedAt": "2026-03-17T13:13:58.156Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.04579607610114,
+          35.67264649447982
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6Yjk1NzFjYmRlNmM1",
+        "publicId": "MzY6Yjk1NzFjYmRlNmM1",
+        "sourceId": "b9571cbde6c5",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:25:49.781Z",
+        "updatedAt": "2026-03-17T13:25:49.781Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90419,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.03784403216821,
+          35.69911120250494
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6YjhiODU0MzNkZDQ5",
+        "publicId": "MzY6YjhiODU0MzNkZDQ5",
+        "sourceId": "b8b85433dd49",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:39:40.876Z",
+        "updatedAt": "2026-03-17T13:39:40.876Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.021788419276845,
+          35.684074035255065
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6NzgzODBhZWU1ODk1",
+        "publicId": "MzY6NzgzODBhZWU1ODk1",
+        "sourceId": "78380aee5895",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:44:36.952Z",
+        "updatedAt": "2026-03-17T13:44:36.952Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.02375683596793,
+          35.59579975014914
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6NDA5M2U2M2M2Y2Yx",
+        "publicId": "MzY6NDA5M2U2M2M2Y2Yx",
+        "sourceId": "4093e63c6cf1",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:47:53.882Z",
+        "updatedAt": "2026-03-17T13:47:53.882Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.02484236021854,
+          35.588503901395924
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6YTkzMTMzODQ2Yjg2",
+        "publicId": "MzY6YTkzMTMzODQ2Yjg2",
+        "sourceId": "a93133846b86",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:49:21.217Z",
+        "updatedAt": "2026-03-17T13:49:21.217Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.01528904931399,
+          35.59447377231069
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6OTNkNTE2ZTIxMjFl",
+        "publicId": "MzY6OTNkNTE2ZTIxMjFl",
+        "sourceId": "93d516e2121e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:52:13.148Z",
+        "updatedAt": "2026-03-17T13:52:13.148Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90424,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.03008573679597,
+          35.57718005002803
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6MzE2ZDk5NTJhZmFj",
+        "publicId": "MzY6MzE2ZDk5NTJhZmFj",
+        "sourceId": "316d9952afac",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:54:10.675Z",
+        "updatedAt": "2026-03-17T13:54:10.675Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90425,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0139492273544,
+          35.57350325900579
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6ZDllZTAxNTQ5MTY1",
+        "publicId": "MzY6ZDllZTAxNTQ5MTY1",
+        "sourceId": "d9ee01549165",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:56:37.771Z",
+        "updatedAt": "2026-03-17T13:56:37.771Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0037588438027,
+          35.56497134450828
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6NTFlYTZlNjAxZjNi",
+        "publicId": "MzY6NTFlYTZlNjAxZjNi",
+        "sourceId": "51ea6e601f3b",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:58:58.152Z",
+        "updatedAt": "2026-03-17T13:58:58.152Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.00427281228377,
+          35.55570859179551
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6NGFlOTQ1ZDkxOTI5",
+        "publicId": "MzY6NGFlOTQ1ZDkxOTI5",
+        "sourceId": "4ae945d91929",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:00:23.715Z",
+        "updatedAt": "2026-03-17T14:00:23.715Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.99870809046925,
+          35.54262807572141
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6MDE0YzU5YTg0MTA5",
+        "publicId": "MzY6MDE0YzU5YTg0MTA5",
+        "sourceId": "014c59a84109",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:02:35.365Z",
+        "updatedAt": "2026-03-17T14:02:35.365Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.99674820849225,
+          35.53423110234907
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6ZGUzNzRjZTQ4NDg5",
+        "publicId": "MzY6ZGUzNzRjZTQ4NDg5",
+        "sourceId": "de374ce48489",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:04:05.679Z",
+        "updatedAt": "2026-03-17T14:04:05.679Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.018752367461445,
+          35.519138322828724
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6MjkwMzgwNDIxNGE3",
+        "publicId": "MzY6MjkwMzgwNDIxNGE3",
+        "sourceId": "2903804214a7",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:05:44.927Z",
+        "updatedAt": "2026-03-17T14:05:44.927Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.02052023221867,
+          35.511581103582216
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6Y2Y2NTAyYjc5YTI4",
+        "publicId": "MzY6Y2Y2NTAyYjc5YTI4",
+        "sourceId": "cf6502b79a28",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:07:43.989Z",
+        "updatedAt": "2026-03-17T14:07:43.989Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90432,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.027666111258696,
+          35.47917562772659
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6Mzg5ODIzNDcwZDI3",
+        "publicId": "MzY6Mzg5ODIzNDcwZDI3",
+        "sourceId": "389823470d27",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:10:15.981Z",
+        "updatedAt": "2026-03-17T14:10:15.981Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90433,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.07391365241489,
+          35.52601027728913
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6OGRmNmU0NTg3ODBh",
+        "publicId": "MzY6OGRmNmU0NTg3ODBh",
+        "sourceId": "8df6e458780a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:13:20.800Z",
+        "updatedAt": "2026-03-17T14:13:20.800Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90434,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.02355908695844,
+          35.49404614227717
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": "",
+        "description": "",
+        "id": "MzY6ZDljZDRhNjJiNDdm",
+        "publicId": "MzY6ZDljZDRhNjJiNDdm",
+        "sourceId": "d9cd4a62b47f",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": "",
+          "description": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:19:14.557Z",
+        "updatedAt": "2026-03-17T14:19:14.557Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90435,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.08071571165641,
+          35.449852335980694
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6N2MwMmEzMmVlOTFi",
+        "publicId": "MzY6N2MwMmEzMmVlOTFi",
+        "sourceId": "7c02a32ee91b",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:21:52.492Z",
+        "updatedAt": "2026-03-17T14:21:52.492Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90436,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.119841466068124,
+          35.369250333955975
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6M2FmZWRhN2UwZDM0",
+        "publicId": "MzY6M2FmZWRhN2UwZDM0",
+        "sourceId": "3afeda7e0d34",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:26:33.820Z",
+        "updatedAt": "2026-03-17T14:26:33.820Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90437,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.14415468702714,
+          35.242845168587635
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه هنگ مرزی",
+        "date": 1773347400,
+        "description": "",
+        "id": "MzY6MmY4NzA2MzBjYWJh",
+        "publicId": "MzY6MmY4NzA2MzBjYWJh",
+        "sourceId": "2f870630caba",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پاسگاه هنگ مرزی",
+          "date": 1773347400,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:29:18.203Z",
+        "updatedAt": "2026-03-17T14:29:18.203Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90438,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.129675339939524,
+          35.32640490838875
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773606600,
+        "description": "",
+        "id": "MzY6MzdkNDRiOGQ2M2E0",
+        "publicId": "MzY6MzdkNDRiOGQ2M2E0",
+        "sourceId": "37d44b8d63a4",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773606600,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:31:48.326Z",
+        "updatedAt": "2026-03-17T14:31:48.326Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.12851899345361,
+          35.33826180065974
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6YmZkMDRiYTQ0NmVl",
+        "publicId": "MzY6YmZkMDRiYTQ0NmVl",
+        "sourceId": "bfd04ba446ee",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:34:12.875Z",
+        "updatedAt": "2026-03-17T14:34:12.875Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.15430513457764,
+          35.31163087258693
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6MjJkMzc4NzM3MDYy",
+        "publicId": "MzY6MjJkMzc4NzM3MDYy",
+        "sourceId": "22d378737062",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برجک",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:37:03.247Z",
+        "updatedAt": "2026-03-17T14:37:03.247Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90441,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.16438389484418,
+          35.296002888583374
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە نظامی",
+        "date": 1773693000,
+        "description": "",
+        "id": "MzY6MzY3MTVmNDk0NWVh",
+        "publicId": "MzY6MzY3MTVmNDk0NWVh",
+        "sourceId": "36715f4945ea",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە نظامی",
+          "date": 1773693000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:42:32.972Z",
+        "updatedAt": "2026-03-17T14:42:32.972Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.43045610241518,
+          36.91422397386516
+        ]
+      },
+      "properties": {
+        "name:fa": "محل استقرار نیروی سرکوب",
+        "date": 1773693000,
+        "description": "این محل، محل استقرار نیروهای سرکوب، بسیج و نیروهای اطلاعاتی حومه نقده است. همچنین از آن به‌عنوان انبار مهمات جنگی ویژه سرکوب و محل تجمع شبانه بسیجیان استفاده می‌شود.",
+        "id": "MzY6NTg5OWVjMjI5ODJh",
+        "publicId": "MzY6NTg5OWVjMjI5ODJh",
+        "sourceId": "5899ec22982a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل استقرار نیروی سرکوب",
+          "date": 1773693000,
+          "description": "این محل، محل استقرار نیروهای سرکوب، بسیج و نیروهای اطلاعاتی حومه نقده است. همچنین از آن به‌عنوان انبار مهمات جنگی ویژه سرکوب و محل تجمع شبانه بسیجیان استفاده می‌شود."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T04:03:50.121Z",
+        "updatedAt": "2026-03-18T04:07:13.536Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90446,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.43215021506634,
+          36.91519566109865
+        ]
+      },
+      "properties": {
+        "name:fa": "(انبار مهمات) دهیاری",
+        "date": 1773693000,
+        "description": "این مکان به‌ظاهر دهیاری روستای خلیفان است، اما زیر نظر بهمن رستمنژاد، از فرماندهان فعال بسیج نقده، اداره می‌شود. او در سرکوب مردم نقده و اطراف نقش کلیدی داشته است. این محل برای برگزاری نشست‌های مرتبط با سرکوب و همچنین انبار مهمات و سلاح‌های جنگی در صورت خیزش احتمالی استفاده می‌شود.",
+        "id": "MzY6YWZmOGQ5NmI2MDBl",
+        "publicId": "MzY6YWZmOGQ5NmI2MDBl",
+        "sourceId": "aff8d96b600e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "(انبار مهمات) دهیاری",
+          "date": 1773693000,
+          "description": "این مکان به‌ظاهر دهیاری روستای خلیفان است، اما زیر نظر بهمن رستمنژاد، از فرماندهان فعال بسیج نقده، اداره می‌شود. او در سرکوب مردم نقده و اطراف نقش کلیدی داشته است. این محل برای برگزاری نشست‌های مرتبط با سرکوب و همچنین انبار مهمات و سلاح‌های جنگی در صورت خیزش احتمالی استفاده می‌شود."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T04:05:38.084Z",
+        "updatedAt": "2026-03-18T04:05:38.084Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.07172061782151,
+          37.512372349018364
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزە ٤ مالک اشتر پایگاە بسیج",
+        "date": 1772656200,
+        "description": "",
+        "id": "MzY6MmU5YWY1N2U2MWFk",
+        "publicId": "MzY6MmU5YWY1N2U2MWFk",
+        "sourceId": "2e9af57e61ad",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "حوزە ٤ مالک اشتر پایگاە بسیج",
+          "date": 1772656200,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T09:32:14.624Z",
+        "updatedAt": "2026-03-18T09:32:14.624Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1072486017257,
+          34.316657372687615
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع نیروهای حکومتی",
+        "date": "",
+        "description": "",
+        "id": "MzY6ZGNmZGM4ZTA4MDRk",
+        "publicId": "MzY6ZGNmZGM4ZTA4MDRk",
+        "sourceId": "dcfdc8e0804d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل تجمع نیروهای حکومتی",
+          "date": "",
+          "description": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T11:55:42.093Z",
+        "updatedAt": "2026-03-18T11:55:42.093Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0766108527466,
+          34.32625935146375
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع نیروی سرکوب",
+        "date": "",
+        "description": "",
+        "id": "MzY6OWIyNDM1ZjQwN2M0",
+        "publicId": "MzY6OWIyNDM1ZjQwN2M0",
+        "sourceId": "9b2435f407c4",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل تجمع نیروی سرکوب",
+          "date": "",
+          "description": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:08:15.765Z",
+        "updatedAt": "2026-03-18T12:08:15.765Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.07462358116919,
+          34.32630908310986
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع نیروی سرکوب",
+        "date": "",
+        "description": "",
+        "id": "MzY6YTI4NWYzOGIyZWI3",
+        "publicId": "MzY6YTI4NWYzOGIyZWI3",
+        "sourceId": "a285f38b2eb7",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل تجمع نیروی سرکوب",
+          "date": "",
+          "description": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:08:47.855Z",
+        "updatedAt": "2026-03-18T12:08:47.855Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.13585963860524,
+          35.71687135377299
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "",
+        "id": "MzY6Nzc2YmZhZjE3MWFh",
+        "publicId": "MzY6Nzc2YmZhZjE3MWFh",
+        "sourceId": "776bfaf171aa",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:32:51.918Z",
+        "updatedAt": "2026-03-18T12:32:51.918Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31075574672954,
+          35.75146615045607
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "محل ایست بازرسی",
+        "id": "MzY6MTFlY2QyMTk3MzFk",
+        "publicId": "MzY6MTFlY2QyMTk3MzFk",
+        "sourceId": "11ecd219731d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "محل ایست بازرسی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:33:16.422Z",
+        "updatedAt": "2026-03-18T12:33:16.422Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36214253057665,
+          35.77036181044667
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی بسیج",
+        "id": "MzY6YWM1OTllZTQ2YWNl",
+        "publicId": "MzY6YWM1OTllZTQ2YWNl",
+        "sourceId": "ac599ee46ace",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی بسیج"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:33:51.589Z",
+        "updatedAt": "2026-03-18T12:33:51.589Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36550244399797,
+          35.768440699280674
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی نیروهای نوپو",
+        "id": "MzY6ZjBmNjQ3MDczNWVk",
+        "publicId": "MzY6ZjBmNjQ3MDczNWVk",
+        "sourceId": "f0f6470735ed",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی نیروهای نوپو"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:34:19.921Z",
+        "updatedAt": "2026-03-18T12:34:19.921Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.26484722173663,
+          35.75039952880991
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی بسیج دهکده المپیک",
+        "id": "MzY6ZTBhZDVhMmRmZjY4",
+        "publicId": "MzY6ZTBhZDVhMmRmZjY4",
+        "sourceId": "e0ad5a2dff68",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی بسیج دهکده المپیک"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:34:45.247Z",
+        "updatedAt": "2026-03-18T12:34:45.247Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.26002600170551,
+          36.15974857383378
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی",
+        "id": "MzY6ZWQ4ZjBlZTFlMDcw",
+        "publicId": "MzY6ZWQ4ZjBlZTFlMDcw",
+        "sourceId": "ed8f0ee1e070",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:35:13.345Z",
+        "updatedAt": "2026-03-18T12:35:13.345Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.26448126216215,
+          36.16415394943127
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی",
+        "id": "MzY6NjFlOTZlMmQ2ZTAx",
+        "publicId": "MzY6NjFlOTZlMmQ2ZTAx",
+        "sourceId": "61e96e2d6e01",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:35:34.153Z",
+        "updatedAt": "2026-03-18T12:35:34.153Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.22356035806868,
+          36.1480729097476
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی جلوی مخابرات",
+        "id": "MzY6ZGQ1ZDU5MWYzOTUw",
+        "publicId": "MzY6ZGQ1ZDU5MWYzOTUw",
+        "sourceId": "dd5d591f3950",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی جلوی مخابرات"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:36:31.571Z",
+        "updatedAt": "2026-03-18T12:36:31.571Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56754428311177,
+          36.29870018321411
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازررسی های شبانه معمولا ساعت های ۸ شب تا ۱۲ شب",
+        "id": "MzY6MWExMGYzMmY5OTYy",
+        "publicId": "MzY6MWExMGYzMmY5OTYy",
+        "sourceId": "1a10f32f9962",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازررسی های شبانه معمولا ساعت های ۸ شب تا ۱۲ شب"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:36:56.325Z",
+        "updatedAt": "2026-03-18T12:36:56.325Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.57235061654893,
+          35.80501538708711
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "چندین بار تو این نقطه ایست بازرسی بوده. آخرین بار جمعه ۲۲ اسفند از اونجا رد شدم و همچنان اونجا بودن. احتمالاً به خاطر نزدیکی به دانشگاه امام حسین و دانشگاه عالی دفاع. تعدادشون ولی خیلی متغیره روزها و ساعت‌های مختلف.",
+        "id": "MzY6ODNlZjc2M2E1ZWNh",
+        "publicId": "MzY6ODNlZjc2M2E1ZWNh",
+        "sourceId": "83ef763a5eca",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "چندین بار تو این نقطه ایست بازرسی بوده. آخرین بار جمعه ۲۲ اسفند از اونجا رد شدم و همچنان اونجا بودن. احتمالاً به خاطر نزدیکی به دانشگاه امام حسین و دانشگاه عالی دفاع. تعدادشون ولی خیلی متغیره روزها و ساعت‌های مختلف."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:37:16.608Z",
+        "updatedAt": "2026-03-18T12:37:16.608Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4586525,
+          35.7368399
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع سرکوبگران",
+        "date": "",
+        "description": "ورزشگاه شهید موگویی در تهران توسط نیروهای سرکوب تصرف شده است. از این مکان برای اعزام به دو ایست بازرسی نزدیک میدان سبلان استفاده می‌شود. یکی از ایست‌های بازرسی دم مسجد صاحب الزمان قبل از میدان امام رضا و دیگری قبل یا بعد از میدان سبلان برقرار می‌شود.",
+        "id": "MzY6MmI5MGI0MzEyMmVj",
+        "publicId": "MzY6MmI5MGI0MzEyMmVj",
+        "sourceId": "2b90b43122ec",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع سرکوبگران",
+          "date": "",
+          "description": "ورزشگاه شهید موگویی در تهران توسط نیروهای سرکوب تصرف شده است. از این مکان برای اعزام به دو ایست بازرسی نزدیک میدان سبلان استفاده می‌شود. یکی از ایست‌های بازرسی دم مسجد صاحب الزمان قبل از میدان امام رضا و دیگری قبل یا بعد از میدان سبلان برقرار می‌شود."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:37:47.830Z",
+        "updatedAt": "2026-03-18T12:37:47.830Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4255338577542,
+          35.71552917985309
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی",
+        "id": "MzY6MjYwZjJkOTgzZTU0",
+        "publicId": "MzY6MjYwZjJkOTgzZTU0",
+        "sourceId": "260f2d983e54",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:38:28.315Z",
+        "updatedAt": "2026-03-18T12:38:28.315Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.42687403594647,
+          35.7169689694216
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی",
+        "id": "MzY6MzI5MTFhZTlhNDc1",
+        "publicId": "MzY6MzI5MTFhZTlhNDc1",
+        "sourceId": "32911ae9a475",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:38:51.729Z",
+        "updatedAt": "2026-03-18T12:38:51.729Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.34307,
+          35.648726
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع سرکوبگران",
+        "date": "",
+        "description": "در این محدوده سه ماشین زرهی سرکوب وجود دارد که دو تای آن‌ها قفس بازداشت دارند و یکی دوشکا دارد. شب‌ها در آنجا می‌خوابند و گاهی موتور سرکوب‌گران کنارشان می‌ایستد. با فاصله 10 متر از هم ایستاده‌اند و سرکوب‌گران دور اطرافشان هستند.",
+        "id": "MzY6MGZiOGEyZjUwNjA3",
+        "publicId": "MzY6MGZiOGEyZjUwNjA3",
+        "sourceId": "0fb8a2f50607",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع سرکوبگران",
+          "date": "",
+          "description": "در این محدوده سه ماشین زرهی سرکوب وجود دارد که دو تای آن‌ها قفس بازداشت دارند و یکی دوشکا دارد. شب‌ها در آنجا می‌خوابند و گاهی موتور سرکوب‌گران کنارشان می‌ایستد. با فاصله 10 متر از هم ایستاده‌اند و سرکوب‌گران دور اطرافشان هستند."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:39:20.466Z",
+        "updatedAt": "2026-03-18T12:39:20.466Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.533910419125334,
+          35.7431716853353
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع سرکوبگران و ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی نیروهای سرکوب که در چادر میخوابند",
+        "id": "MzY6Y2E5ZTMyMzc4ZGNk",
+        "publicId": "MzY6Y2E5ZTMyMzc4ZGNk",
+        "sourceId": "ca9e32378dcd",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع سرکوبگران و ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی نیروهای سرکوب که در چادر میخوابند"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:39:48.966Z",
+        "updatedAt": "2026-03-18T12:39:48.966Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.22807230614714,
+          35.54520082857452
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع سرکوبگران",
+        "date": "",
+        "description": "مسجد مهدیه مقر اصلی بیسجیان منطقه برای سرکوب معترضین و انجام عملیات های همچون ایست بازرسی",
+        "id": "MzY6NGQzODhiZmI0ZDk5",
+        "publicId": "MzY6NGQzODhiZmI0ZDk5",
+        "sourceId": "4d388bfb4d99",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع سرکوبگران",
+          "date": "",
+          "description": "مسجد مهدیه مقر اصلی بیسجیان منطقه برای سرکوب معترضین و انجام عملیات های همچون ایست بازرسی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:44:26.558Z",
+        "updatedAt": "2026-03-18T12:44:26.558Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.04422495334171,
+          35.83562341534467
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی و محل اختفا نیروی های بسیج",
+        "id": "MzY6Zjg3YmM1NTcyYTgy",
+        "publicId": "MzY6Zjg3YmM1NTcyYTgy",
+        "sourceId": "f87bc5572a82",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی و محل اختفا نیروی های بسیج"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:45:33.930Z",
+        "updatedAt": "2026-03-18T12:45:33.930Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43663419245394,
+          35.77505957759355
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست و بازرسی مسلح",
+        "id": "MzY6Mjc3M2VhMmJmMGM5",
+        "publicId": "MzY6Mjc3M2VhMmJmMGM5",
+        "sourceId": "2773ea2bf0c9",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست و بازرسی مسلح"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:46:59.717Z",
+        "updatedAt": "2026-03-18T12:46:59.717Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43677105911695,
+          35.77441501374716
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "date": "",
+        "description": "مسجد قلهک زیر زمینی بسیار بزرگ دارد که پایگاه بسیجی ها و مهمات انها هست",
+        "id": "MzY6ODhmNzYzZTA5NzI2",
+        "publicId": "MzY6ODhmNzYzZTA5NzI2",
+        "sourceId": "88f763e09726",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای سرکوب",
+          "date": "",
+          "description": "مسجد قلهک زیر زمینی بسیار بزرگ دارد که پایگاه بسیجی ها و مهمات انها هست"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:47:57.379Z",
+        "updatedAt": "2026-03-18T12:47:57.379Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90515,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.06604343215733,
+          36.313289783453655
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "",
+        "id": "MzY6YzA1MTJmODdiYzc0",
+        "publicId": "MzY6YzA1MTJmODdiYzc0",
+        "sourceId": "c0512f87bc74",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:50:49.836Z",
+        "updatedAt": "2026-03-18T12:50:49.836Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90516,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.29096598312785,
+          35.76816006089166
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی ثابت در این موقعیت. همین الان تجمع قابل توجه مزدوران رژیم در این نقطه.",
+        "id": "MzY6M2YzMDQyYjNiMTM5",
+        "publicId": "MzY6M2YzMDQyYjNiMTM5",
+        "sourceId": "3f3042b3b139",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی ثابت در این موقعیت. همین الان تجمع قابل توجه مزدوران رژیم در این نقطه."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:56:37.023Z",
+        "updatedAt": "2026-03-18T12:56:37.023Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.29100693610289,
+          35.76780096984294
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوبگر",
+        "date": "",
+        "description": "این مسجد لانه فساده. همیشه ایست بازرسی در مقابلش می زنند و نیروی سرکوب هم از همین جا روانه میشه. دارای اسلحه و تفنگ جنگی هستند داخل این کثافت دانی. بزنید بترکونیدش.",
+        "id": "MzY6MTJhZDU1ZmFkMWMx",
+        "publicId": "MzY6MTJhZDU1ZmFkMWMx",
+        "sourceId": "12ad55fad1c1",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای سرکوبگر",
+          "date": "",
+          "description": "این مسجد لانه فساده. همیشه ایست بازرسی در مقابلش می زنند و نیروی سرکوب هم از همین جا روانه میشه. دارای اسلحه و تفنگ جنگی هستند داخل این کثافت دانی. بزنید بترکونیدش."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:57:25.559Z",
+        "updatedAt": "2026-03-18T12:57:25.559Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37352358360357,
+          35.672682590258034
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "date": "",
+        "description": "اینجا پایگاه بسیج گروهان تکاور امنیتی یگان امام رضا هست ، خیابون عرب پایین تر از خیابان فرد ، هر شب هم میان تو میدون بریانک ایست بازرسی میذارن و نوحه پخش میکنن",
+        "id": "MzY6NjQyZTY5MDY1MWYz",
+        "publicId": "MzY6NjQyZTY5MDY1MWYz",
+        "sourceId": "642e690651f3",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای سرکوب",
+          "date": "",
+          "description": "اینجا پایگاه بسیج گروهان تکاور امنیتی یگان امام رضا هست ، خیابون عرب پایین تر از خیابان فرد ، هر شب هم میان تو میدون بریانک ایست بازرسی میذارن و نوحه پخش میکنن"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:59:21.750Z",
+        "updatedAt": "2026-03-18T12:59:21.750Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90520,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37157611311801,
+          35.67399777200741
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "date": "",
+        "description": "مسجد المهدی محل تجمع نیروهای مسلح بسیج از چندین ناحیه و مساجد منطقه افراد مستقر در این مکان در تمام روزهای اعتراضات بسمت مردم شلیک کردند و منطقه را در دست گرفتند و قلدری می کنند . تا دیشب اطلاع دقیق دارم که نیروها در این مسجد مستقر بودند .",
+        "id": "MzY6ZmViN2NlZGI0MTk3",
+        "publicId": "MzY6ZmViN2NlZGI0MTk3",
+        "sourceId": "feb7cedb4197",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای سرکوب",
+          "date": "",
+          "description": "مسجد المهدی محل تجمع نیروهای مسلح بسیج از چندین ناحیه و مساجد منطقه افراد مستقر در این مکان در تمام روزهای اعتراضات بسمت مردم شلیک کردند و منطقه را در دست گرفتند و قلدری می کنند . تا دیشب اطلاع دقیق دارم که نیروها در این مسجد مستقر بودند ."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T12:59:45.929Z",
+        "updatedAt": "2026-03-18T12:59:45.929Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54055090381166,
+          36.31577573641951
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "date": "",
+        "description": "محل قرارگیری نیروی یگان ویژه سرکوب",
+        "id": "MzY6ZWU3MGFkZTQ3YTli",
+        "publicId": "MzY6ZWU3MGFkZTQ3YTli",
+        "sourceId": "ee70ade47a9b",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تجمع نیروهای سرکوب",
+          "date": "",
+          "description": "محل قرارگیری نیروی یگان ویژه سرکوب"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T13:00:16.627Z",
+        "updatedAt": "2026-03-18T13:00:16.627Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5734226716788,
+          35.884017223601276
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازررسی شدید توسط ماموران سپاه و آگاهی تمام مسلح اکثر اوقات هستند ولی بیشترین تایم حضورشون غروب هست",
+        "id": "MzY6NTZlMzNjNmRjMzk0",
+        "publicId": "MzY6NTZlMzNjNmRjMzk0",
+        "sourceId": "56e33c6dc394",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازررسی شدید توسط ماموران سپاه و آگاهی تمام مسلح اکثر اوقات هستند ولی بیشترین تایم حضورشون غروب هست"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T13:01:39.796Z",
+        "updatedAt": "2026-03-18T13:01:39.796Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.21227336250456,
+          36.19178925124724
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی (ثابت)",
+        "id": "MzY6ODFmYTJiYTUzMzgw",
+        "publicId": "MzY6ODFmYTJiYTUzMzgw",
+        "sourceId": "81fa2ba53380",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی (ثابت)"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T13:02:02.544Z",
+        "updatedAt": "2026-03-18T13:02:02.544Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.16299089421153,
+          36.2450726029999
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی (ثابت) - جدیدا کانکس هم اضافه کردن",
+        "id": "MzY6YjQwMzYxZjAwOTJh",
+        "publicId": "MzY6YjQwMzYxZjAwOTJh",
+        "sourceId": "b40361f0092a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی (ثابت) - جدیدا کانکس هم اضافه کردن"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T13:02:20.227Z",
+        "updatedAt": "2026-03-18T13:02:20.227Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.080631549178776,
+          36.3082687003658
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی (متغیر) - همیشگی نیست",
+        "id": "MzY6OGI0NWZlZTg4Y2E5",
+        "publicId": "MzY6OGI0NWZlZTg4Y2E5",
+        "sourceId": "8b45fee88ca9",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی (متغیر) - همیشگی نیست"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T13:02:39.557Z",
+        "updatedAt": "2026-03-18T13:02:39.557Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.490193892128985,
+          36.36618333420347
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی ",
+        "date": "",
+        "description": "ایست بازرسی ",
+        "id": "MzY6MjcxNmM1ODM1ZGU2",
+        "publicId": "MzY6MjcxNmM1ODM1ZGU2",
+        "sourceId": "2716c5835de6",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی ",
+          "date": "",
+          "description": "ایست بازرسی "
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T16:42:56.757Z",
+        "updatedAt": "2026-03-18T16:42:56.757Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.79762597415271,
+          35.7423095057226
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی ",
+        "date": "",
+        "description": "ایست بازرسی ورودی پردیس",
+        "id": "MzY6MDFjMmM5ZWJkZGRl",
+        "publicId": "MzY6MDFjMmM5ZWJkZGRl",
+        "sourceId": "01c2c9ebddde",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی ",
+          "date": "",
+          "description": "ایست بازرسی ورودی پردیس"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T16:43:32.945Z",
+        "updatedAt": "2026-03-18T16:43:32.945Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.363055087417536,
+          35.699337025301915
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 1773347400,
+        "description": "",
+        "id": "MzY6NTliMzNlZWMyNzc5",
+        "publicId": "MzY6NTliMzNlZWMyNzc5",
+        "sourceId": "59b33eec2779",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 1773347400,
+          "description": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T17:23:06.557Z",
+        "updatedAt": "2026-03-18T17:23:06.557Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.52996327135935,
+          36.69336863619884
+        ]
+      },
+      "properties": {
+        "name:fa": "دکل صدا و سیما",
+        "date": "",
+        "description": "ایستگاه دکل فرستنده صدا و سیما زنجان.شاید کاربرد دیگه ای هم داشته باشه. از خیلی سال های پیش تابلوی \"منطقه نظامی - عکس برداری ممنوع\" داشت. در طول جنگ ۱۲ روزه هم ورودی مراکز تفریحی اطرافش توسط پلیس بسته بود.",
+        "id": "MzY6ZTViZWZhNmFmNzQ0",
+        "publicId": "MzY6ZTViZWZhNmFmNzQ0",
+        "sourceId": "e5befa6af744",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "دکل صدا و سیما",
+          "date": "",
+          "description": "ایستگاه دکل فرستنده صدا و سیما زنجان.شاید کاربرد دیگه ای هم داشته باشه. از خیلی سال های پیش تابلوی \"منطقه نظامی - عکس برداری ممنوع\" داشت. در طول جنگ ۱۲ روزه هم ورودی مراکز تفریحی اطرافش توسط پلیس بسته بود."
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T17:29:33.747Z",
+        "updatedAt": "2026-03-18T17:29:33.747Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.405892669546546,
+          35.720149109665925
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی",
+        "id": "MzY6MGVmZDFiN2M2NDdk",
+        "publicId": "MzY6MGVmZDFiN2M2NDdk",
+        "sourceId": "0efd1b7c647d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T17:30:36.513Z",
+        "updatedAt": "2026-03-18T17:30:36.513Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.05766262531944,
+          35.46573305238542
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی سپاه و بسیج",
+        "id": "MzY6MTA4MTAwODQ1NDM0",
+        "publicId": "MzY6MTA4MTAwODQ1NDM0",
+        "sourceId": "108100845434",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی سپاه و بسیج"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T17:32:23.833Z",
+        "updatedAt": "2026-03-18T17:32:23.833Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.96764013187038,
+          35.45900485000979
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی سپاه",
+        "id": "MzY6MzA0NzFlZTEyMWZk",
+        "publicId": "MzY6MzA0NzFlZTEyMWZk",
+        "sourceId": "30471ee121fd",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی سپاه"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T17:35:11.707Z",
+        "updatedAt": "2026-03-18T17:35:11.707Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.429335460740305,
+          35.73080447531302
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی",
+        "id": "MzY6OTY2ZjVlYWVjNzky",
+        "publicId": "MzY6OTY2ZjVlYWVjNzky",
+        "sourceId": "966f5eaec792",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T17:37:23.785Z",
+        "updatedAt": "2026-03-18T17:37:23.785Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.214722919035665,
+          38.68629122066952
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "پادگان و ایست بازرسی سه راهی خوی",
+        "id": "MzY6YTk0MjBmZjAzN2U5",
+        "publicId": "MzY6YTk0MjBmZjAzN2U5",
+        "sourceId": "a9420ff037e9",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "پادگان و ایست بازرسی سه راهی خوی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T17:37:58.714Z",
+        "updatedAt": "2026-03-18T17:38:14.504Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.51442620152679,
+          35.73774932956668
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی",
+        "id": "MzY6MTY5NmQwYjRiZjA4",
+        "publicId": "MzY6MTY5NmQwYjRiZjA4",
+        "sourceId": "1696d0b4bf08",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T17:38:57.856Z",
+        "updatedAt": "2026-03-18T17:38:57.856Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43967108051464,
+          35.716576621128254
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز اطلاعات",
+        "date": "",
+        "description": "این ساختمون مال سپاهه، بدون هیچ تابلویی، ماشینهای با پلاک سپاه و شیشه‌های دودی همیشه بهش وارد و خارج میشدن، به علاوه تعداد زیادی آخوند. و لباس شخصی، همیشه هم سربازهای وظیفه به عنوان دربان اونجا بودن، دو تا در داره، یکی توی کوچه و یکی دقیقا چسبیده به ایستگاه متروی بهار شیراز",
+        "id": "MzY6NWMzMTE5OTUxN2Fm",
+        "publicId": "MzY6NWMzMTE5OTUxN2Fm",
+        "sourceId": "5c31199517af",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز اطلاعات",
+          "date": "",
+          "description": "این ساختمون مال سپاهه، بدون هیچ تابلویی، ماشینهای با پلاک سپاه و شیشه‌های دودی همیشه بهش وارد و خارج میشدن، به علاوه تعداد زیادی آخوند. و لباس شخصی، همیشه هم سربازهای وظیفه به عنوان دربان اونجا بودن، دو تا در داره، یکی توی کوچه و یکی دقیقا چسبیده به ایستگاه متروی بهار شیراز"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T17:39:36.390Z",
+        "updatedAt": "2026-03-18T17:39:36.390Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.00114559300715,
+          35.47083829190109
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی سپاه",
+        "id": "MzY6YjM2NmI4Y2UwMmJm",
+        "publicId": "MzY6YjM2NmI4Y2UwMmJm",
+        "sourceId": "b366b8ce02bf",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی سپاه"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T17:40:43.887Z",
+        "updatedAt": "2026-03-18T17:40:43.887Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90544,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.28981711133363,
+          35.758116155736445
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "محل ایست بازرسی نیروهای تروریستی سپاهی",
+        "id": "MzY6YzNkYmUxMmJjOTBh",
+        "publicId": "MzY6YzNkYmUxMmJjOTBh",
+        "sourceId": "c3dbe12bc90a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "محل ایست بازرسی نیروهای تروریستی سپاهی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T17:42:42.465Z",
+        "updatedAt": "2026-03-18T17:42:42.465Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.33874390669919,
+          35.76325469596081
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "date": "",
+        "description": "مرکز اجتماع نظامیان وابسته به سپاه",
+        "id": "MzY6ZDZiYzMzMmZjNTBk",
+        "publicId": "MzY6ZDZiYzMzMmZjNTBk",
+        "sourceId": "d6bc332fc50d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "",
+          "date": "",
+          "description": "مرکز اجتماع نظامیان وابسته به سپاه"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T06:42:16.409Z",
+        "updatedAt": "2026-03-19T06:42:16.409Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36487074710274,
+          35.76870442401807
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "date": "",
+        "description": "محل استقرار خودرو های سرکوب",
+        "id": "MzY6NzkwZTFhOTNjZmRm",
+        "publicId": "MzY6NzkwZTFhOTNjZmRm",
+        "sourceId": "790e1a93cfdf",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "",
+          "date": "",
+          "description": "محل استقرار خودرو های سرکوب"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T06:54:37.379Z",
+        "updatedAt": "2026-03-19T06:54:37.379Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.33487346000862,
+          35.76024274601869
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "date": "",
+        "description": "حضور خودروهای سرکوب بسیج مستقر در ورودی پاساژ بوستان",
+        "id": "MzY6MTk5OGQzNDM3ZGZm",
+        "publicId": "MzY6MTk5OGQzNDM3ZGZm",
+        "sourceId": "1998d3437dff",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "",
+          "date": "",
+          "description": "حضور خودروهای سرکوب بسیج مستقر در ورودی پاساژ بوستان"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T07:02:43.997Z",
+        "updatedAt": "2026-03-19T07:02:43.997Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90616,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.45903583014001,
+          35.20841457548484
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه پاسداران",
+        "date": 1772137800,
+        "description": "",
+        "id": "MzY6ZTc5YmZlYWFiNjll",
+        "publicId": "MzY6ZTc5YmZlYWFiNjll",
+        "sourceId": "e79bfeaab69e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه سپاه پاسداران",
+          "date": 1772137800,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T14:08:57.397Z",
+        "updatedAt": "2026-03-19T14:08:57.397Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90617,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.53018753612082,
+          34.840256990253025
+        ]
+      },
+      "properties": {
+        "name:fa": "منطقه ی نظامی سپاه.",
+        "date": 1772483400,
+        "description": "",
+        "id": "MzY6NzdhNWFjY2ZkMTZk",
+        "publicId": "MzY6NzdhNWFjY2ZkMTZk",
+        "sourceId": "77a5accfd16d",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "منطقه ی نظامی سپاه.",
+          "date": 1772483400,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T14:10:42.170Z",
+        "updatedAt": "2026-03-19T14:10:42.170Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.08438814029981,
+          35.66530061306764
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه",
+        "date": 1772137800,
+        "description": "",
+        "id": "MzY6M2VlNDQwNjkzOGFm",
+        "publicId": "MzY6M2VlNDQwNjkzOGFm",
+        "sourceId": "3ee4406938af",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه سپاه",
+          "date": 1772137800,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T14:12:15.907Z",
+        "updatedAt": "2026-03-19T14:12:15.907Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.96686277103018,
+          35.87294620322727
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "رو به روی درمانگاه و داروخانه ستوده . ایست بازرسی با لباس شخصی و وانت غیر نظامی ولی مسلح بودن و صورت پوشوندرو به روی درمانگاه و داروخانه ستوده . ایست بازرسی با لباس شخصی و وانت غیر نظامی ولی مسلح بودن و صورت پوشونده بودن.۲۸ اسفنده بودن.۲۸ اسفنا",
+        "id": "MzY6MGY0NDc1ODU2NmVi",
+        "publicId": "MzY6MGY0NDc1ODU2NmVi",
+        "sourceId": "0f44758566eb",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "رو به روی درمانگاه و داروخانه ستوده . ایست بازرسی با لباس شخصی و وانت غیر نظامی ولی مسلح بودن و صورت پوشوندرو به روی درمانگاه و داروخانه ستوده . ایست بازرسی با لباس شخصی و وانت غیر نظامی ولی مسلح بودن و صورت پوشونده بودن.۲۸ اسفنده بودن.۲۸ اسفنا"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T14:35:33.362Z",
+        "updatedAt": "2026-03-19T14:35:33.362Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90622,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.49012941524143,
+          35.71337345965162
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "هر روز دور تا دور میدون ایست بازرسی هست و نیرو ها وسط میدون در فضای سبز هستن",
+        "id": "MzY6MWQ0OTRiZjlmYjQ2",
+        "publicId": "MzY6MWQ0OTRiZjlmYjQ2",
+        "sourceId": "1d494bf9fb46",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "هر روز دور تا دور میدون ایست بازرسی هست و نیرو ها وسط میدون در فضای سبز هستن"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T14:36:39.565Z",
+        "updatedAt": "2026-03-19T14:36:39.565Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50152099996316,
+          35.65953999332163
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "هر دو سمت خیابون ایست بازرسی هر روز هستن بغل مدرسه که نیرو ها داخل مدرسه مستقر هستن",
+        "id": "MzY6NzExNjgwMzA4MzAw",
+        "publicId": "MzY6NzExNjgwMzA4MzAw",
+        "sourceId": "711680308300",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "هر دو سمت خیابون ایست بازرسی هر روز هستن بغل مدرسه که نیرو ها داخل مدرسه مستقر هستن"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T14:37:19.385Z",
+        "updatedAt": "2026-03-19T14:37:19.385Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90625,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.45902998516152,
+          35.20839487181763
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه پاسداران",
+        "date": 1772137800,
+        "description": "",
+        "id": "MzY6OTdjOTBhNGYwZGQ0",
+        "publicId": "MzY6OTdjOTBhNGYwZGQ0",
+        "sourceId": "97c90a4f0dd4",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه سپاه پاسداران",
+          "date": 1772137800,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T14:38:02.569Z",
+        "updatedAt": "2026-03-19T14:38:02.569Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90626,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.502175123209696,
+          35.718359931355934
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی",
+        "id": "MzY6ZGM1MzI5ODQxMjRl",
+        "publicId": "MzY6ZGM1MzI5ODQxMjRl",
+        "sourceId": "dc532984124e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T14:38:16.585Z",
+        "updatedAt": "2026-03-19T14:38:16.585Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.442504655187065,
+          35.02773089433242
+        ]
+      },
+      "properties": {
+        "name:fa": " 30 m گزارش #1739 🌐 وبسایت در انتظار پایگاه های تازه تاسیس سپاه در چند سال اخیر",
+        "date": 1772483400,
+        "description": "",
+        "id": "MzY6NGNhZTIzMzMxZGJi",
+        "publicId": "MzY6NGNhZTIzMzMxZGJi",
+        "sourceId": "4cae23331dbb",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": " 30 m گزارش #1739 🌐 وبسایت در انتظار پایگاه های تازه تاسیس سپاه در چند سال اخیر",
+          "date": 1772483400,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T14:39:26.002Z",
+        "updatedAt": "2026-03-19T14:39:26.002Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90628,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4472027751637,
+          35.04264118993916
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه جدیدا احداث شده سپاه در کوهستان شاهو",
+        "date": 1772483400,
+        "description": "",
+        "id": "MzY6YjllMWExY2Q4YmE2",
+        "publicId": "MzY6YjllMWExY2Q4YmE2",
+        "sourceId": "b9e1a1cd8ba6",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه جدیدا احداث شده سپاه در کوهستان شاهو",
+          "date": 1772483400,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T14:40:24.045Z",
+        "updatedAt": "2026-03-19T14:40:24.045Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.355602104700466,
+          35.04324277219156
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "date": 1772656200,
+        "description": "",
+        "id": "MzY6ZTMzNTU3NmM1NjNl",
+        "publicId": "MzY6ZTMzNTU3NmM1NjNl",
+        "sourceId": "e335576c563e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "date": 1772656200,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T14:43:34.913Z",
+        "updatedAt": "2026-03-19T14:43:34.913Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.982369798159255,
+          35.235598200053175
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه قدس",
+        "date": 1772829000,
+        "description": "",
+        "id": "MzY6MTgzMGE1MjZkZWQy",
+        "publicId": "MzY6MTgzMGE1MjZkZWQy",
+        "sourceId": "1830a526ded2",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه سپاه قدس",
+          "date": 1772829000,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T18:24:12.104Z",
+        "updatedAt": "2026-03-19T18:24:12.104Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.11652425385884,
+          36.39535106841771
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات شهرستان تکاب",
+        "date": 1773347400,
+        "description": "",
+        "id": "MzY6ZDljN2FjYTNkYmMz",
+        "publicId": "MzY6ZDljN2FjYTNkYmMz",
+        "sourceId": "d9c7aca3dbc3",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات شهرستان تکاب",
+          "date": 1773347400,
+          "description": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T19:26:44.635Z",
+        "updatedAt": "2026-03-19T19:26:44.635Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.82632002656143,
+          37.85008388127909
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه",
+        "date": 1771792200,
+        "description": "",
+        "id": "MzY6ODFjZmY1OThjNzJm",
+        "publicId": "MzY6ODFjZmY1OThjNzJm",
+        "sourceId": "81cff598c72f",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه سپاه",
+          "date": 1771792200,
+          "description": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T19:33:17.984Z",
+        "updatedAt": "2026-03-19T19:33:17.984Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.57284729805582,
+          37.98703605351068
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز نظامی و موشکی",
+        "date": 1773001800,
+        "description": "",
+        "id": "MzY6OWE1MjI3ZDRmMTYw",
+        "publicId": "MzY6OWE1MjI3ZDRmMTYw",
+        "sourceId": "9a5227d4f160",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز نظامی و موشکی",
+          "date": 1773001800,
+          "description": ""
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T19:35:40.199Z",
+        "updatedAt": "2026-03-19T19:35:40.199Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.57103869900507,
+          38.00409086346818
+        ]
+      },
+      "properties": {
+        "name:fa": " لانچر ",
+        "date": 1771533000,
+        "description": "محل قرار گیری لانچر ها",
+        "id": "MzY6MDk3MWRlMDZhOWNh",
+        "publicId": "MzY6MDk3MWRlMDZhOWNh",
+        "sourceId": "0971de06a9ca",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": " لانچر ",
+          "date": 1771533000,
+          "description": "محل قرار گیری لانچر ها"
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T19:37:46.479Z",
+        "updatedAt": "2026-03-19T19:37:46.479Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.00064019338359,
+          35.696057958109776
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": "",
+        "description": "ایست بازرسی",
+        "id": "MzY6YTdmNDFlMzk4NmUw",
+        "publicId": "MzY6YTdmNDFlMzk4NmUw",
+        "sourceId": "a7f41e3986e0",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": "",
+          "description": "ایست بازرسی"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T23:28:37.757Z",
+        "updatedAt": "2026-03-19T23:28:37.757Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50161269496667,
+          35.74778700032972
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "date": 1773779400,
+        "description": "ایست و بازرسی دلاوران",
+        "id": "MzY6NjVmY2Y5MjE5YTRl",
+        "publicId": "MzY6NjVmY2Y5MjE5YTRl",
+        "sourceId": "65fcf9219a4e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی",
+          "date": 1773779400,
+          "description": "ایست و بازرسی دلاوران"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-20T01:38:50.563Z",
+        "updatedAt": "2026-03-20T01:46:10.681Z"
+      }
+    }
+  ],
+  "metadata": {
+    "total": 177,
+    "layerId": 36,
+    "clustered": false,
+    "simplified": false
+  }
+}
