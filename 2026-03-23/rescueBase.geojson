@@ -1,0 +1,7061 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 59223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.674901,
+          36.2277713
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzgxMTQ",
+        "name:fa": "بیمارستان امداد شهید دکتر بهشتی",
+        "publicId": "Mjk6MzgxMTQ",
+        "sourceId": "38114",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 38114,
+          "name:fa": "بیمارستان امداد شهید دکتر بهشتی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.249Z",
+        "updatedAt": "2026-03-11T20:58:24.249Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5387691,
+          36.2779655
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTg5MTQ",
+        "name:fa": "بیمارستان امداد و نجات مشهد",
+        "publicId": "Mjk6MTg5MTQ",
+        "sourceId": "18914",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 18914,
+          "name:fa": "بیمارستان امداد و نجات مشهد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.250Z",
+        "updatedAt": "2026-03-11T20:58:24.250Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.233297,
+          36.153006
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTkzNTM",
+        "name:fa": "بیمارستان امدادی",
+        "publicId": "Mjk6MTkzNTM",
+        "sourceId": "19353",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 19353,
+          "name:fa": "بیمارستان امدادی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.251Z",
+        "updatedAt": "2026-03-11T20:58:24.251Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6086581,
+          36.2692444
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mzg3MTg",
+        "name:fa": "بیمارستان امدادی شهید کامیاب",
+        "publicId": "Mjk6Mzg3MTg",
+        "sourceId": "38718",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 38718,
+          "name:fa": "بیمارستان امدادی شهید کامیاب"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.252Z",
+        "updatedAt": "2026-03-11T20:58:24.252Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.30302,
+          38.065173
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mzg4MTE",
+        "name:fa": "بیمارستان خصوصی نجات",
+        "publicId": "Mjk6Mzg4MTE",
+        "sourceId": "38811",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 38811,
+          "name:fa": "بیمارستان خصوصی نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.253Z",
+        "updatedAt": "2026-03-11T20:58:24.253Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3031794,
+          38.0614708
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTQ2MjI",
+        "name:fa": "بیمارستان نور نجات",
+        "publicId": "Mjk6MTQ2MjI",
+        "sourceId": "14622",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 14622,
+          "name:fa": "بیمارستان نور نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.253Z",
+        "updatedAt": "2026-03-11T20:58:24.253Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.302875,
+          38.0698437
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTQ0ODc",
+        "name:fa": "دکتر احمد شیخلو(بیمارستان نور نجات)",
+        "publicId": "Mjk6MTQ0ODc",
+        "sourceId": "14487",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 14487,
+          "name:fa": "دکتر احمد شیخلو(بیمارستان نور نجات)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.254Z",
+        "updatedAt": "2026-03-11T20:58:24.254Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6414607,
+          32.6206985
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjgyMDE",
+        "name:fa": "محل فرود بالگردهای امدادی در بیمارستان ارتش",
+        "publicId": "Mjk6MjgyMDE",
+        "sourceId": "28201",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 28201,
+          "name:fa": "محل فرود بالگردهای امدادی در بیمارستان ارتش"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.254Z",
+        "updatedAt": "2026-03-11T20:58:24.254Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5104851,
+          33.8576982
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA1NTM",
+        "name:fa": "امداد جاده ۱۱۵",
+        "publicId": "Mjk6NDA1NTM",
+        "sourceId": "40553",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40553,
+          "name:fa": "امداد جاده ۱۱۵"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.255Z",
+        "updatedAt": "2026-03-11T20:58:24.255Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8663024,
+          31.1525051
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzAwNTA",
+        "name:fa": "ایستگاه ۱۱۵ امداد",
+        "publicId": "Mjk6MzAwNTA",
+        "sourceId": "30050",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 30050,
+          "name:fa": "ایستگاه ۱۱۵ امداد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.256Z",
+        "updatedAt": "2026-03-11T20:58:24.256Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5095431,
+          36.0411821
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTk0NjA",
+        "name:fa": "فوریت های امداد و نجات ۱۱۲ کرسف",
+        "publicId": "Mjk6MTk0NjA",
+        "sourceId": "19460",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 19460,
+          "name:fa": "فوریت های امداد و نجات ۱۱۲ کرسف"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.257Z",
+        "updatedAt": "2026-03-11T20:58:24.257Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.141847,
+          33.0770878
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjczNDM",
+        "name:fa": "پایگاه امداد جاده ای ۱۱۵",
+        "publicId": "Mjk6MjczNDM",
+        "sourceId": "27343",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27343,
+          "name:fa": "پایگاه امداد جاده ای ۱۱۵"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.257Z",
+        "updatedAt": "2026-03-11T20:58:24.257Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0745621,
+          36.9685113
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTY0NTE",
+        "name:fa": "پایگاه امداد جاده ای ۱۱۵ شهر درق",
+        "publicId": "Mjk6MTY0NTE",
+        "sourceId": "16451",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16451,
+          "name:fa": "پایگاه امداد جاده ای ۱۱۵ شهر درق"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.259Z",
+        "updatedAt": "2026-03-11T20:58:24.259Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4385757,
+          35.7120683
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjIyODg",
+        "name:fa": "امبولانس خصوصی امداد ماهان سلامت",
+        "publicId": "Mjk6MjIyODg",
+        "sourceId": "22288",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 22288,
+          "name:fa": "امبولانس خصوصی امداد ماهان سلامت"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.259Z",
+        "updatedAt": "2026-03-11T20:58:24.259Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5979339,
+          37.2970076
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTU3NTc",
+        "name:fa": "امداد",
+        "publicId": "Mjk6MTU3NTc",
+        "sourceId": "15757",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15757,
+          "name:fa": "امداد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.260Z",
+        "updatedAt": "2026-03-11T20:58:24.260Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7967192,
+          35.6761214
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjI4Njc",
+        "name:fa": "امداد جاده ای",
+        "publicId": "Mjk6MjI4Njc",
+        "sourceId": "22867",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 22867,
+          "name:fa": "امداد جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.260Z",
+        "updatedAt": "2026-03-11T20:58:24.260Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.9676012,
+          30.3201404
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzA3NzA",
+        "name:fa": "امداد جاده ای",
+        "publicId": "Mjk6MzA3NzA",
+        "sourceId": "30770",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 30770,
+          "name:fa": "امداد جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.261Z",
+        "updatedAt": "2026-03-11T20:58:24.261Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3346639,
+          29.7421449
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4MzQ",
+        "name:fa": "امداد جاده ای بینک",
+        "publicId": "Mjk6NDA4MzQ",
+        "sourceId": "40834",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40834,
+          "name:fa": "امداد جاده ای بینک"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.261Z",
+        "updatedAt": "2026-03-11T20:58:24.261Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.493679,
+          29.8072753
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4MzU",
+        "name:fa": "امداد جاده ای شول",
+        "publicId": "Mjk6NDA4MzU",
+        "sourceId": "40835",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40835,
+          "name:fa": "امداد جاده ای شول"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.262Z",
+        "updatedAt": "2026-03-11T20:58:24.262Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3477573,
+          31.8686185
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjkyMjY",
+        "name:fa": "امداد سلامت",
+        "publicId": "Mjk6MjkyMjY",
+        "sourceId": "29226",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 29226,
+          "name:fa": "امداد سلامت"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.262Z",
+        "updatedAt": "2026-03-11T20:58:24.262Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.363333,
+          35.6986713
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjI1Njg",
+        "name:fa": "امداد طاهر",
+        "publicId": "Mjk6MjI1Njg",
+        "sourceId": "22568",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 22568,
+          "name:fa": "امداد طاهر"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.263Z",
+        "updatedAt": "2026-03-11T20:58:24.263Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5169593,
+          30.6730486
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzAzNjA",
+        "name:fa": "امداد نجات بین شهری شهید بهروز رضویان",
+        "publicId": "Mjk6MzAzNjA",
+        "sourceId": "30360",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 30360,
+          "name:fa": "امداد نجات بین شهری شهید بهروز رضویان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.263Z",
+        "updatedAt": "2026-03-11T20:58:24.263Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0508443,
+          37.2373978
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4MzY",
+        "name:fa": "امداد نجات جاده ای",
+        "publicId": "Mjk6NDA4MzY",
+        "sourceId": "40836",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40836,
+          "name:fa": "امداد نجات جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.264Z",
+        "updatedAt": "2026-03-11T20:58:24.264Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59246,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4608904,
+          37.4807627
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTUzMDE",
+        "name:fa": "امداد و نجات دریایی",
+        "publicId": "Mjk6MTUzMDE",
+        "sourceId": "15301",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15301,
+          "name:fa": "امداد و نجات دریایی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.264Z",
+        "updatedAt": "2026-03-11T20:58:24.264Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1747894,
+          38.9503937
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4Mzc",
+        "name:fa": "امداد و نجات کلان",
+        "publicId": "Mjk6NDA4Mzc",
+        "sourceId": "40837",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40837,
+          "name:fa": "امداد و نجات کلان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.265Z",
+        "updatedAt": "2026-03-11T20:58:24.265Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3885069,
+          29.4642555
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzE5MjA",
+        "name:fa": "امداد ونجات جاده ای",
+        "publicId": "Mjk6MzE5MjA",
+        "sourceId": "31920",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 31920,
+          "name:fa": "امداد ونجات جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.266Z",
+        "updatedAt": "2026-03-11T20:58:24.266Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.964124,
+          29.6454299
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4Mzg",
+        "name:fa": "امداد ونجات جاده ای",
+        "publicId": "Mjk6NDA4Mzg",
+        "sourceId": "40838",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40838,
+          "name:fa": "امداد ونجات جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.266Z",
+        "updatedAt": "2026-03-11T20:58:24.266Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1387157,
+          34.338154
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjU5MjU",
+        "name:fa": "امدادگر جاده",
+        "publicId": "Mjk6MjU5MjU",
+        "sourceId": "25925",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 25925,
+          "name:fa": "امدادگر جاده"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.267Z",
+        "updatedAt": "2026-03-11T20:58:24.267Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1387163,
+          34.3351101
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4Mzk",
+        "name:fa": "امدادگر جاده",
+        "publicId": "Mjk6NDA4Mzk",
+        "sourceId": "40839",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40839,
+          "name:fa": "امدادگر جاده"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.267Z",
+        "updatedAt": "2026-03-11T20:58:24.267Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8518531,
+          36.4544884
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTc5MTQ",
+        "name:fa": "انجمن امداد بیماران سرطانی",
+        "publicId": "Mjk6MTc5MTQ",
+        "sourceId": "17914",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 17914,
+          "name:fa": "انجمن امداد بیماران سرطانی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.268Z",
+        "updatedAt": "2026-03-11T20:58:24.268Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5716935,
+          31.7813178
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjkzNzk",
+        "name:fa": "ایستگاه امداد و نجات",
+        "publicId": "Mjk6MjkzNzk",
+        "sourceId": "29379",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 29379,
+          "name:fa": "ایستگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.268Z",
+        "updatedAt": "2026-03-11T20:58:24.268Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2193941,
+          30.9124127
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NDA",
+        "name:fa": "ایستگاه امداد و نجات جاده ای",
+        "publicId": "Mjk6NDA4NDA",
+        "sourceId": "40840",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40840,
+          "name:fa": "ایستگاه امداد و نجات جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.269Z",
+        "updatedAt": "2026-03-11T20:58:24.269Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9675476,
+          35.6975582
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjI0MjY",
+        "name:fa": "بامداد",
+        "publicId": "Mjk6MjI0MjY",
+        "sourceId": "22426",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 22426,
+          "name:fa": "بامداد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.269Z",
+        "updatedAt": "2026-03-11T20:58:24.269Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4748606,
+          35.7411351
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjE2OTc",
+        "name:fa": "درمانگاه امدادگران",
+        "publicId": "Mjk6MjE2OTc",
+        "sourceId": "21697",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 21697,
+          "name:fa": "درمانگاه امدادگران"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.270Z",
+        "updatedAt": "2026-03-11T20:58:24.270Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7586398,
+          37.3725329
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTU1NjU",
+        "name:fa": "درمانگاه دکتر نجاتی",
+        "publicId": "Mjk6MTU1NjU",
+        "sourceId": "15565",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15565,
+          "name:fa": "درمانگاه دکتر نجاتی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.270Z",
+        "updatedAt": "2026-03-11T20:58:24.270Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3871057,
+          38.0571298
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTQ3MjE",
+        "name:fa": "درمانگاه شبانه روزی فرشتگان نجات",
+        "publicId": "Mjk6MTQ3MjE",
+        "sourceId": "14721",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 14721,
+          "name:fa": "درمانگاه شبانه روزی فرشتگان نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.271Z",
+        "updatedAt": "2026-03-11T20:58:24.271Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8397362,
+          36.4668481
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTc4NTI",
+        "name:fa": "درمانگاه شبانه روزی نجات",
+        "publicId": "Mjk6MTc4NTI",
+        "sourceId": "17852",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 17852,
+          "name:fa": "درمانگاه شبانه روزی نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.272Z",
+        "updatedAt": "2026-03-11T20:58:24.272Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6516704,
+          36.6963274
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTY5OTU",
+        "name:fa": "درمانگاه نجات",
+        "publicId": "Mjk6MTY5OTU",
+        "sourceId": "16995",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16995,
+          "name:fa": "درمانگاه نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.272Z",
+        "updatedAt": "2026-03-11T20:58:24.272Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3023773,
+          38.2412116
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTQxNDY",
+        "name:fa": "درمانگاه نجات",
+        "publicId": "Mjk6MTQxNDY",
+        "sourceId": "14146",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 14146,
+          "name:fa": "درمانگاه نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.273Z",
+        "updatedAt": "2026-03-11T20:58:24.273Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.670981,
+          36.5428441
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTc1OTc",
+        "name:fa": "درمانگاه نجات",
+        "publicId": "Mjk6MTc1OTc",
+        "sourceId": "17597",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 17597,
+          "name:fa": "درمانگاه نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.273Z",
+        "updatedAt": "2026-03-11T20:58:24.273Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.419874,
+          35.7603888
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjExODM",
+        "name:fa": "دکتر امداد",
+        "publicId": "Mjk6MjExODM",
+        "sourceId": "21183",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 21183,
+          "name:fa": "دکتر امداد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.274Z",
+        "updatedAt": "2026-03-11T20:58:24.274Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7168509,
+          36.762494
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mzc4MzQ",
+        "name:fa": "دکتر بامداد",
+        "publicId": "Mjk6Mzc4MzQ",
+        "sourceId": "37834",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 37834,
+          "name:fa": "دکتر بامداد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.274Z",
+        "updatedAt": "2026-03-11T20:58:24.274Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8705243,
+          35.9988082
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTk1MDM",
+        "name:fa": "دکتر سعید نجاتی صفا متخصص قلب و عروق",
+        "publicId": "Mjk6MTk1MDM",
+        "sourceId": "19503",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 19503,
+          "name:fa": "دکتر سعید نجاتی صفا متخصص قلب و عروق"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.275Z",
+        "updatedAt": "2026-03-11T20:58:24.275Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4338029,
+          32.149856
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjg4ODc",
+        "name:fa": "ساختمان امدادجاده وامبولانس میانرود",
+        "publicId": "Mjk6Mjg4ODc",
+        "sourceId": "28887",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 28887,
+          "name:fa": "ساختمان امدادجاده وامبولانس میانرود"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.275Z",
+        "updatedAt": "2026-03-11T20:58:24.275Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6695796,
+          32.6620815
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjc4NDk",
+        "name:fa": "مراکز امداد",
+        "publicId": "Mjk6Mjc4NDk",
+        "sourceId": "27849",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27849,
+          "name:fa": "مراکز امداد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.276Z",
+        "updatedAt": "2026-03-11T20:58:24.276Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3961202,
+          33.6307774
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NDM",
+        "name:fa": "مرکز امبولانس ایلام نجات",
+        "publicId": "Mjk6NDA4NDM",
+        "sourceId": "40843",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40843,
+          "name:fa": "مرکز امبولانس ایلام نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.276Z",
+        "updatedAt": "2026-03-11T20:58:24.276Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7814331,
+          29.6979763
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzEyNzE",
+        "name:fa": "مرکز امداد جاده ای ابوالحیات",
+        "publicId": "Mjk6MzEyNzE",
+        "sourceId": "31271",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 31271,
+          "name:fa": "مرکز امداد جاده ای ابوالحیات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.277Z",
+        "updatedAt": "2026-03-11T20:58:24.277Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7814437,
+          29.7019926
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NDQ",
+        "name:fa": "مرکز امداد جاده ای ابوالحیات",
+        "publicId": "Mjk6NDA4NDQ",
+        "sourceId": "40844",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40844,
+          "name:fa": "مرکز امداد جاده ای ابوالحیات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.277Z",
+        "updatedAt": "2026-03-11T20:58:24.277Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.9293636,
+          33.6107001
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzcyMTg",
+        "name:fa": "مرکز امداد و نجات",
+        "publicId": "Mjk6MzcyMTg",
+        "sourceId": "37218",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 37218,
+          "name:fa": "مرکز امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.278Z",
+        "updatedAt": "2026-03-11T20:58:24.278Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.391515,
+          35.6919566
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjMwMjA",
+        "name:fa": "مرکز بهداشت و امداد آمادگاه 501 ارتش",
+        "publicId": "Mjk6MjMwMjA",
+        "sourceId": "23020",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 23020,
+          "name:fa": "مرکز بهداشت و امداد آمادگاه 501 ارتش"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.278Z",
+        "updatedAt": "2026-03-11T20:58:24.278Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7090082,
+          32.625847
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NDU",
+        "name:fa": "مرکز تحقیقات تنفس و خواب بامداد",
+        "publicId": "Mjk6NDA4NDU",
+        "sourceId": "40845",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40845,
+          "name:fa": "مرکز تحقیقات تنفس و خواب بامداد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.279Z",
+        "updatedAt": "2026-03-11T20:58:24.279Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8842207,
+          34.6103342
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjU2MTI",
+        "name:fa": "مرکز سلامت جامع نجاتی",
+        "publicId": "Mjk6MjU2MTI",
+        "sourceId": "25612",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 25612,
+          "name:fa": "مرکز سلامت جامع نجاتی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.279Z",
+        "updatedAt": "2026-03-11T20:58:24.279Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7064882,
+          30.7586181
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NDY",
+        "name:fa": "معاونت امداد درمان انتظامی ا",
+        "publicId": "Mjk6NDA4NDY",
+        "sourceId": "40846",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40846,
+          "name:fa": "معاونت امداد درمان انتظامی ا"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.280Z",
+        "updatedAt": "2026-03-11T20:58:24.280Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5085768,
+          36.3968142
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTgwNjA",
+        "name:fa": "معاونت امداد و نجات",
+        "publicId": "Mjk6MTgwNjA",
+        "sourceId": "18060",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 18060,
+          "name:fa": "معاونت امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.281Z",
+        "updatedAt": "2026-03-11T20:58:24.281Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.02543,
+          37.4044782
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTU0Nzc",
+        "name:fa": "پایگاه امداد امام علی",
+        "publicId": "Mjk6MTU0Nzc",
+        "sourceId": "15477",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15477,
+          "name:fa": "پایگاه امداد امام علی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.281Z",
+        "updatedAt": "2026-03-11T20:58:24.281Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.7613179,
+          35.5882041
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjM4Mzk",
+        "name:fa": "پایگاه امداد جاده ای",
+        "publicId": "Mjk6MjM4Mzk",
+        "sourceId": "23839",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 23839,
+          "name:fa": "پایگاه امداد جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.282Z",
+        "updatedAt": "2026-03-11T20:58:24.282Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5985493,
+          35.5446942
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjQxMTA",
+        "name:fa": "پایگاه امداد جاده ای",
+        "publicId": "Mjk6MjQxMTA",
+        "sourceId": "24110",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 24110,
+          "name:fa": "پایگاه امداد جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.282Z",
+        "updatedAt": "2026-03-11T20:58:24.282Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5848238,
+          29.7597133
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzU5NjY",
+        "name:fa": "پایگاه امداد جاده ای",
+        "publicId": "Mjk6MzU5NjY",
+        "sourceId": "35966",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 35966,
+          "name:fa": "پایگاه امداد جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.283Z",
+        "updatedAt": "2026-03-11T20:58:24.283Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8528201,
+          29.9244519
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NDc",
+        "name:fa": "پایگاه امداد جاده ای",
+        "publicId": "Mjk6NDA4NDc",
+        "sourceId": "40847",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40847,
+          "name:fa": "پایگاه امداد جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.283Z",
+        "updatedAt": "2026-03-11T20:58:24.283Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.4683345,
+          33.7410854
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NDg",
+        "name:fa": "پایگاه امداد جاده ای",
+        "publicId": "Mjk6NDA4NDg",
+        "sourceId": "40848",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40848,
+          "name:fa": "پایگاه امداد جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.284Z",
+        "updatedAt": "2026-03-11T20:58:24.284Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2279293,
+          37.7136076
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NDk",
+        "name:fa": "پایگاه امداد جاده ای",
+        "publicId": "Mjk6NDA4NDk",
+        "sourceId": "40849",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40849,
+          "name:fa": "پایگاه امداد جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.285Z",
+        "updatedAt": "2026-03-11T20:58:24.285Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.9011998,
+          35.3751155
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NTA",
+        "name:fa": "پایگاه امداد جاده ای",
+        "publicId": "Mjk6NDA4NTA",
+        "sourceId": "40850",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40850,
+          "name:fa": "پایگاه امداد جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.285Z",
+        "updatedAt": "2026-03-11T20:58:24.285Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3627512,
+          30.410569
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzA2MjM",
+        "name:fa": "پایگاه امداد جاده ای امام حسین ع",
+        "publicId": "Mjk6MzA2MjM",
+        "sourceId": "30623",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 30623,
+          "name:fa": "پایگاه امداد جاده ای امام حسین ع"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.286Z",
+        "updatedAt": "2026-03-11T20:58:24.286Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9679609,
+          32.8166431
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjc1MDM",
+        "name:fa": "پایگاه امداد جاده ای بیشه دراز",
+        "publicId": "Mjk6Mjc1MDM",
+        "sourceId": "27503",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27503,
+          "name:fa": "پایگاه امداد جاده ای بیشه دراز"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.286Z",
+        "updatedAt": "2026-03-11T20:58:24.286Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5080176,
+          33.7568625
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjY3OTI",
+        "name:fa": "پایگاه امداد جاده ای بین شهری",
+        "publicId": "Mjk6MjY3OTI",
+        "sourceId": "26792",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 26792,
+          "name:fa": "پایگاه امداد جاده ای بین شهری"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.287Z",
+        "updatedAt": "2026-03-11T20:58:24.287Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59288,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.7977315,
+          29.9345517
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzExMjM",
+        "name:fa": "پایگاه امداد جاده ای بین شهری فتح آباد",
+        "publicId": "Mjk6MzExMjM",
+        "sourceId": "31123",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 31123,
+          "name:fa": "پایگاه امداد جاده ای بین شهری فتح آباد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.287Z",
+        "updatedAt": "2026-03-11T20:58:24.287Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59289,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.215907,
+          36.6096715
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTcyOTY",
+        "name:fa": "پایگاه امداد جاده ای تخت سلیمان",
+        "publicId": "Mjk6MTcyOTY",
+        "sourceId": "17296",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 17296,
+          "name:fa": "پایگاه امداد جاده ای تخت سلیمان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.288Z",
+        "updatedAt": "2026-03-11T20:58:24.288Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59290,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5650568,
+          34.4692792
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjU3NTM",
+        "name:fa": "پایگاه امداد جاده ای سه راهی خیرآباد",
+        "publicId": "Mjk6MjU3NTM",
+        "sourceId": "25753",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 25753,
+          "name:fa": "پایگاه امداد جاده ای سه راهی خیرآباد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.288Z",
+        "updatedAt": "2026-03-11T20:58:24.288Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0786274,
+          34.7119528
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjUzNTg",
+        "name:fa": "پایگاه امداد جاده ای شهید عمادی",
+        "publicId": "Mjk6MjUzNTg",
+        "sourceId": "25358",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 25358,
+          "name:fa": "پایگاه امداد جاده ای شهید عمادی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.289Z",
+        "updatedAt": "2026-03-11T20:58:24.289Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5048868,
+          37.4851856
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTUyODU",
+        "name:fa": "پایگاه امداد جاده ای عجمی",
+        "publicId": "Mjk6MTUyODU",
+        "sourceId": "15285",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15285,
+          "name:fa": "پایگاه امداد جاده ای عجمی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.289Z",
+        "updatedAt": "2026-03-11T20:58:24.289Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1353372,
+          37.1680564
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NTE",
+        "name:fa": "پایگاه امداد جاده ای عین الروم",
+        "publicId": "Mjk6NDA4NTE",
+        "sourceId": "40851",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40851,
+          "name:fa": "پایگاه امداد جاده ای عین الروم"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.290Z",
+        "updatedAt": "2026-03-11T20:58:24.290Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9384165,
+          38.0082057
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTQ4MDI",
+        "name:fa": "پایگاه امداد جاده ای قوشچی",
+        "publicId": "Mjk6MTQ4MDI",
+        "sourceId": "14802",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 14802,
+          "name:fa": "پایگاه امداد جاده ای قوشچی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.290Z",
+        "updatedAt": "2026-03-11T20:58:24.290Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5483387,
+          36.9825574
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTY0MjQ",
+        "name:fa": "پایگاه امداد جاده ای محمدیار",
+        "publicId": "Mjk6MTY0MjQ",
+        "sourceId": "16424",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16424,
+          "name:fa": "پایگاه امداد جاده ای محمدیار"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.291Z",
+        "updatedAt": "2026-03-11T20:58:24.291Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1487257,
+          36.7201538
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTY5MDc",
+        "name:fa": "پایگاه امداد جاده ای ملالر(محمد رسول اللّه ص)",
+        "publicId": "Mjk6MTY5MDc",
+        "sourceId": "16907",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16907,
+          "name:fa": "پایگاه امداد جاده ای ملالر(محمد رسول اللّه ص)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.291Z",
+        "updatedAt": "2026-03-11T20:58:24.291Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8997677,
+          36.9196059
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NTI",
+        "name:fa": "پایگاه امداد جاده ای مکریان",
+        "publicId": "Mjk6NDA4NTI",
+        "sourceId": "40852",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40852,
+          "name:fa": "پایگاه امداد جاده ای مکریان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.292Z",
+        "updatedAt": "2026-03-11T20:58:24.292Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3162817,
+          36.1632233
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTkzMTM",
+        "name:fa": "پایگاه امداد جاده ای کندوان چالوس",
+        "publicId": "Mjk6MTkzMTM",
+        "sourceId": "19313",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 19313,
+          "name:fa": "پایگاه امداد جاده ای کندوان چالوس"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.292Z",
+        "updatedAt": "2026-03-11T20:58:24.292Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.2921025,
+          28.2391923
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NTM",
+        "name:fa": "پایگاه امداد جاده ای گلستان",
+        "publicId": "Mjk6NDA4NTM",
+        "sourceId": "40853",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40853,
+          "name:fa": "پایگاه امداد جاده ای گلستان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.293Z",
+        "updatedAt": "2026-03-11T20:58:24.293Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7295059,
+          37.7223032
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTQ5NzY",
+        "name:fa": "پایگاه امداد جاده ایی سرو",
+        "publicId": "Mjk6MTQ5NzY",
+        "sourceId": "14976",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 14976,
+          "name:fa": "پایگاه امداد جاده ایی سرو"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.293Z",
+        "updatedAt": "2026-03-11T20:58:24.293Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59301,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6683405,
+          34.3949236
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NTQ",
+        "name:fa": "پایگاه امداد جاده‌ای سوم خرداد",
+        "publicId": "Mjk6NDA4NTQ",
+        "sourceId": "40854",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40854,
+          "name:fa": "پایگاه امداد جاده‌ای سوم خرداد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.294Z",
+        "updatedAt": "2026-03-11T20:58:24.294Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4966426,
+          33.7910841
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NTU",
+        "name:fa": "پایگاه امداد جاده‌ای قاناقان",
+        "publicId": "Mjk6NDA4NTU",
+        "sourceId": "40855",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40855,
+          "name:fa": "پایگاه امداد جاده‌ای قاناقان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.294Z",
+        "updatedAt": "2026-03-11T20:58:24.294Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59303,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.011163,
+          35.4698102
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NTY",
+        "name:fa": "پایگاه امداد جاده‌ای پرند",
+        "publicId": "Mjk6NDA4NTY",
+        "sourceId": "40856",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40856,
+          "name:fa": "پایگاه امداد جاده‌ای پرند"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.295Z",
+        "updatedAt": "2026-03-11T20:58:24.295Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59304,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7881999,
+          33.7632089
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjY3NzE",
+        "name:fa": "پایگاه امداد سه راهی بشرویه  شهرستان فردوس",
+        "publicId": "Mjk6MjY3NzE",
+        "sourceId": "26771",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 26771,
+          "name:fa": "پایگاه امداد سه راهی بشرویه  شهرستان فردوس"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.295Z",
+        "updatedAt": "2026-03-11T20:58:24.295Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3523804,
+          34.9147715
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjUwNzE",
+        "name:fa": "پایگاه امداد صالح آباد",
+        "publicId": "Mjk6MjUwNzE",
+        "sourceId": "25071",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 25071,
+          "name:fa": "پایگاه امداد صالح آباد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.296Z",
+        "updatedAt": "2026-03-11T20:58:24.296Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2824018,
+          35.1166904
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NTc",
+        "name:fa": "پایگاه امداد نجات",
+        "publicId": "Mjk6NDA4NTc",
+        "sourceId": "40857",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40857,
+          "name:fa": "پایگاه امداد نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.296Z",
+        "updatedAt": "2026-03-11T20:58:24.296Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9197393,
+          29.0866128
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NTg",
+        "name:fa": "پایگاه امداد نجات",
+        "publicId": "Mjk6NDA4NTg",
+        "sourceId": "40858",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40858,
+          "name:fa": "پایگاه امداد نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.297Z",
+        "updatedAt": "2026-03-11T20:58:24.297Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.3960594,
+          30.6767916
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzAzNDk",
+        "name:fa": "پایگاه امداد نجات زابل زاهدان",
+        "publicId": "Mjk6MzAzNDk",
+        "sourceId": "30349",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 30349,
+          "name:fa": "پایگاه امداد نجات زابل زاهدان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.298Z",
+        "updatedAt": "2026-03-11T20:58:24.298Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.4300681,
+          38.2297896
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTQxNTk",
+        "name:fa": "پایگاه امداد نجات ۱۱۲",
+        "publicId": "Mjk6MTQxNTk",
+        "sourceId": "14159",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 14159,
+          "name:fa": "پایگاه امداد نجات ۱۱۲"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.298Z",
+        "updatedAt": "2026-03-11T20:58:24.298Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8618768,
+          36.7401458
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTY4NjA",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MTY4NjA",
+        "sourceId": "16860",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16860,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.299Z",
+        "updatedAt": "2026-03-11T20:58:24.299Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4000806,
+          35.7312877
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjE1NTI",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MjE1NTI",
+        "sourceId": "21552",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 21552,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.299Z",
+        "updatedAt": "2026-03-11T20:58:24.299Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.9003956,
+          37.5579635
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTUxNTU",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MTUxNTU",
+        "sourceId": "15155",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15155,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.300Z",
+        "updatedAt": "2026-03-11T20:58:24.300Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8272063,
+          36.5783092
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTczNjk",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MTczNjk",
+        "sourceId": "17369",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 17369,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.300Z",
+        "updatedAt": "2026-03-11T20:58:24.300Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.2688665,
+          36.3867095
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTgwNTM",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MTgwNTM",
+        "sourceId": "18053",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 18053,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.301Z",
+        "updatedAt": "2026-03-11T20:58:24.301Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4287387,
+          35.7805257
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjA3NTA",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MjA3NTA",
+        "sourceId": "20750",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 20750,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.301Z",
+        "updatedAt": "2026-03-11T20:58:24.301Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.368739,
+          35.6970724
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjI1Nzc",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MjI1Nzc",
+        "sourceId": "22577",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 22577,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.301Z",
+        "updatedAt": "2026-03-11T20:58:24.301Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.2402205,
+          35.7012012
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjI4NjA",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MjI4NjA",
+        "sourceId": "22860",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 22860,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.302Z",
+        "updatedAt": "2026-03-11T20:58:24.302Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3576172,
+          35.6649432
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjMyOTg",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MjMyOTg",
+        "sourceId": "23298",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 23298,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.302Z",
+        "updatedAt": "2026-03-11T20:58:24.302Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0817523,
+          34.3293167
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjU5NTg",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MjU5NTg",
+        "sourceId": "25958",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 25958,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.303Z",
+        "updatedAt": "2026-03-11T20:58:24.303Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4110028,
+          33.4511663
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjcxMzM",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MjcxMzM",
+        "sourceId": "27133",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27133,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.303Z",
+        "updatedAt": "2026-03-11T20:58:24.303Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5299022,
+          32.6748093
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjc4MDk",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6Mjc4MDk",
+        "sourceId": "27809",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27809,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.304Z",
+        "updatedAt": "2026-03-11T20:58:24.304Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4897911,
+          32.6518677
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjc4OTY",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6Mjc4OTY",
+        "sourceId": "27896",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27896,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.305Z",
+        "updatedAt": "2026-03-11T20:58:24.305Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6917521,
+          32.6223499
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjgxNjI",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MjgxNjI",
+        "sourceId": "28162",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 28162,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.305Z",
+        "updatedAt": "2026-03-11T20:58:24.305Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4173502,
+          32.3304189
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjg2MTU",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6Mjg2MTU",
+        "sourceId": "28615",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 28615,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.306Z",
+        "updatedAt": "2026-03-11T20:58:24.306Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6155936,
+          31.3045266
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjk4NDc",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6Mjk4NDc",
+        "sourceId": "29847",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 29847,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.306Z",
+        "updatedAt": "2026-03-11T20:58:24.306Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6687429,
+          31.2918834
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjk5Mjk",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6Mjk5Mjk",
+        "sourceId": "29929",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 29929,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.307Z",
+        "updatedAt": "2026-03-11T20:58:24.307Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6139843,
+          31.2717526
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjk5NzE",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6Mjk5NzE",
+        "sourceId": "29971",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 29971,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.307Z",
+        "updatedAt": "2026-03-11T20:58:24.307Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2194967,
+          30.9312727
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzAxNjI",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MzAxNjI",
+        "sourceId": "30162",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 30162,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.308Z",
+        "updatedAt": "2026-03-11T20:58:24.308Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2732991,
+          30.8638287
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzAyMjg",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MzAyMjg",
+        "sourceId": "30228",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 30228,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.308Z",
+        "updatedAt": "2026-03-11T20:58:24.308Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5816635,
+          30.6585991
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzAzNzg",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MzAzNzg",
+        "sourceId": "30378",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 30378,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.309Z",
+        "updatedAt": "2026-03-11T20:58:24.309Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59331,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.3431279,
+          28.4260099
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzI1ODM",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MzI1ODM",
+        "sourceId": "32583",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 32583,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.309Z",
+        "updatedAt": "2026-03-11T20:58:24.309Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4099283,
+          27.6510998
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzI4NTA",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MzI4NTA",
+        "sourceId": "32850",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 32850,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.310Z",
+        "updatedAt": "2026-03-11T20:58:24.310Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2733001,
+          30.8604755
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzY1NTY",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6MzY1NTY",
+        "sourceId": "36556",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 36556,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.310Z",
+        "updatedAt": "2026-03-11T20:58:24.310Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5840305,
+          32.6142037
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NTk",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6NDA4NTk",
+        "sourceId": "40859",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40859,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.311Z",
+        "updatedAt": "2026-03-11T20:58:24.311Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59335,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.102589,
+          36.6265666
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NjA",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6NDA4NjA",
+        "sourceId": "40860",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40860,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.311Z",
+        "updatedAt": "2026-03-11T20:58:24.311Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59336,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.144218,
+          38.1149542
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NjE",
+        "name:fa": "پایگاه امداد و نجات",
+        "publicId": "Mjk6NDA4NjE",
+        "sourceId": "40861",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40861,
+          "name:fa": "پایگاه امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.312Z",
+        "updatedAt": "2026-03-11T20:58:24.312Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4187543,
+          33.4549987
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjcxMzc",
+        "name:fa": "پایگاه امداد و نجات اباذر ازنا",
+        "publicId": "Mjk6MjcxMzc",
+        "sourceId": "27137",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27137,
+          "name:fa": "پایگاه امداد و نجات اباذر ازنا"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.312Z",
+        "updatedAt": "2026-03-11T20:58:24.312Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.1562928,
+          26.0920792
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzM2MTM",
+        "name:fa": "پایگاه امداد و نجات بین جاده ای دینار کلک",
+        "publicId": "Mjk6MzM2MTM",
+        "sourceId": "33613",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 33613,
+          "name:fa": "پایگاه امداد و نجات بین جاده ای دینار کلک"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.312Z",
+        "updatedAt": "2026-03-11T20:58:24.312Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.7966008,
+          32.3893424
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzY5NzI",
+        "name:fa": "پایگاه امداد و نجات بین جاده ای سید نورالدین احمد",
+        "publicId": "Mjk6MzY5NzI",
+        "sourceId": "36972",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 36972,
+          "name:fa": "پایگاه امداد و نجات بین جاده ای سید نورالدین احمد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.313Z",
+        "updatedAt": "2026-03-11T20:58:24.313Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9533091,
+          30.5469414
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzA1NDI",
+        "name:fa": "پایگاه امداد و نجات بین جاده ای لار",
+        "publicId": "Mjk6MzA1NDI",
+        "sourceId": "30542",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 30542,
+          "name:fa": "پایگاه امداد و نجات بین جاده ای لار"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.313Z",
+        "updatedAt": "2026-03-11T20:58:24.313Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.160135,
+          26.1010182
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzM2MTE",
+        "name:fa": "پایگاه امداد و نجات بین راهی دینارکلگ",
+        "publicId": "Mjk6MzM2MTE",
+        "sourceId": "33611",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 33611,
+          "name:fa": "پایگاه امداد و نجات بین راهی دینارکلگ"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.314Z",
+        "updatedAt": "2026-03-11T20:58:24.314Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1769772,
+          35.3123729
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjQ2MTc",
+        "name:fa": "پایگاه امداد و نجات بین شهری",
+        "publicId": "Mjk6MjQ2MTc",
+        "sourceId": "24617",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 24617,
+          "name:fa": "پایگاه امداد و نجات بین شهری"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.314Z",
+        "updatedAt": "2026-03-11T20:58:24.314Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.7013958,
+          33.3110168
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjcyNDY",
+        "name:fa": "پایگاه امداد و نجات بین شهری انارک ۱۱۲",
+        "publicId": "Mjk6MjcyNDY",
+        "sourceId": "27246",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27246,
+          "name:fa": "پایگاه امداد و نجات بین شهری انارک ۱۱۲"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.315Z",
+        "updatedAt": "2026-03-11T20:58:24.315Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.0968311,
+          37.5376058
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTUyMzM",
+        "name:fa": "پایگاه امداد و نجات بین شهری بدرانلو",
+        "publicId": "Mjk6MTUyMzM",
+        "sourceId": "15233",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15233,
+          "name:fa": "پایگاه امداد و نجات بین شهری بدرانلو"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.315Z",
+        "updatedAt": "2026-03-11T20:58:24.315Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5808691,
+          37.4642439
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTUzOTQ",
+        "name:fa": "پایگاه امداد و نجات بین شهری تیوان",
+        "publicId": "Mjk6MTUzOTQ",
+        "sourceId": "15394",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15394,
+          "name:fa": "پایگاه امداد و نجات بین شهری تیوان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.315Z",
+        "updatedAt": "2026-03-11T20:58:24.315Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59346,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0246368,
+          37.3271402
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTU2NDk",
+        "name:fa": "پایگاه امداد و نجات بین شهری دشت",
+        "publicId": "Mjk6MTU2NDk",
+        "sourceId": "15649",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15649,
+          "name:fa": "پایگاه امداد و نجات بین شهری دشت"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.316Z",
+        "updatedAt": "2026-03-11T20:58:24.316Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.728501,
+          35.2564253
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjQ3MzE",
+        "name:fa": "پایگاه امداد و نجات بین شهری ده نمک",
+        "publicId": "Mjk6MjQ3MzE",
+        "sourceId": "24731",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 24731,
+          "name:fa": "پایگاه امداد و نجات بین شهری ده نمک"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.316Z",
+        "updatedAt": "2026-03-11T20:58:24.316Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1512383,
+          26.4881385
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NjI",
+        "name:fa": "پایگاه امداد و نجات بین شهری دو راهی سیریک",
+        "publicId": "Mjk6NDA4NjI",
+        "sourceId": "40862",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40862,
+          "name:fa": "پایگاه امداد و نجات بین شهری دو راهی سیریک"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.317Z",
+        "updatedAt": "2026-03-11T20:58:24.317Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7645472,
+          32.4130506
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjg0Njk",
+        "name:fa": "پایگاه امداد و نجات بین شهری سه راهی مبارکه",
+        "publicId": "Mjk6Mjg0Njk",
+        "sourceId": "28469",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 28469,
+          "name:fa": "پایگاه امداد و نجات بین شهری سه راهی مبارکه"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.317Z",
+        "updatedAt": "2026-03-11T20:58:24.317Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59350,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7702298,
+          38.3613139
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTQwNDY",
+        "name:fa": "پایگاه امداد و نجات بین شهری شهید اوهانی مرند",
+        "publicId": "Mjk6MTQwNDY",
+        "sourceId": "14046",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 14046,
+          "name:fa": "پایگاه امداد و نجات بین شهری شهید اوهانی مرند"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.318Z",
+        "updatedAt": "2026-03-11T20:58:24.318Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59351,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.3803465,
+          32.7156699
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzY5NTQ",
+        "name:fa": "پایگاه امداد و نجات بین شهری شهید جمشید مرادی کوهپایه",
+        "publicId": "Mjk6MzY5NTQ",
+        "sourceId": "36954",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 36954,
+          "name:fa": "پایگاه امداد و نجات بین شهری شهید جمشید مرادی کوهپایه"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.318Z",
+        "updatedAt": "2026-03-11T20:58:24.318Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1824288,
+          30.7642559
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzY0NDA",
+        "name:fa": "پایگاه امداد و نجات بین شهری شهید طباطبایی کولی کش",
+        "publicId": "Mjk6MzY0NDA",
+        "sourceId": "36440",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 36440,
+          "name:fa": "پایگاه امداد و نجات بین شهری شهید طباطبایی کولی کش"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.319Z",
+        "updatedAt": "2026-03-11T20:58:24.319Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59353,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8655002,
+          32.7154993
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjc2MTg",
+        "name:fa": "پایگاه امداد و نجات بین شهری ملا احمد",
+        "publicId": "Mjk6Mjc2MTg",
+        "sourceId": "27618",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27618,
+          "name:fa": "پایگاه امداد و نجات بین شهری ملا احمد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.320Z",
+        "updatedAt": "2026-03-11T20:58:24.320Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59354,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6047601,
+          36.0091465
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTk1MTc",
+        "name:fa": "پایگاه امداد و نجات بین شهری نرجه",
+        "publicId": "Mjk6MTk1MTc",
+        "sourceId": "19517",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 19517,
+          "name:fa": "پایگاه امداد و نجات بین شهری نرجه"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.321Z",
+        "updatedAt": "2026-03-11T20:58:24.321Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4337786,
+          32.3403633
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjg2Njc",
+        "name:fa": "پایگاه امداد و نجات بین شهری کرکوند",
+        "publicId": "Mjk6Mjg2Njc",
+        "sourceId": "28667",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 28667,
+          "name:fa": "پایگاه امداد و نجات بین شهری کرکوند"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.321Z",
+        "updatedAt": "2026-03-11T20:58:24.321Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59356,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.571669,
+          35.8054686
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NjM",
+        "name:fa": "پایگاه امداد و نجات بین شهری گردنه قوچک",
+        "publicId": "Mjk6NDA4NjM",
+        "sourceId": "40863",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40863,
+          "name:fa": "پایگاه امداد و نجات بین شهری گردنه قوچک"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.322Z",
+        "updatedAt": "2026-03-11T20:58:24.322Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59357,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7788072,
+          35.7432262
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjE4NTE",
+        "name:fa": "پایگاه امداد و نجات بین شهری یادمان شهدای امدادگر",
+        "publicId": "Mjk6MjE4NTE",
+        "sourceId": "21851",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 21851,
+          "name:fa": "پایگاه امداد و نجات بین شهری یادمان شهدای امدادگر"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.322Z",
+        "updatedAt": "2026-03-11T20:58:24.322Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59358,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.7025872,
+          36.9230695
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTY1MTU",
+        "name:fa": "پایگاه امداد و نجات جاده ای",
+        "publicId": "Mjk6MTY1MTU",
+        "sourceId": "16515",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16515,
+          "name:fa": "پایگاه امداد و نجات جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.323Z",
+        "updatedAt": "2026-03-11T20:58:24.323Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59359,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.2724409,
+          35.5012798
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjQyNDM",
+        "name:fa": "پایگاه امداد و نجات جاده ای",
+        "publicId": "Mjk6MjQyNDM",
+        "sourceId": "24243",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 24243,
+          "name:fa": "پایگاه امداد و نجات جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.324Z",
+        "updatedAt": "2026-03-11T20:58:24.324Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59360,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2194028,
+          30.9156067
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzAxNzY",
+        "name:fa": "پایگاه امداد و نجات جاده ای",
+        "publicId": "Mjk6MzAxNzY",
+        "sourceId": "30176",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 30176,
+          "name:fa": "پایگاه امداد و نجات جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.324Z",
+        "updatedAt": "2026-03-11T20:58:24.324Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59361,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1455554,
+          36.7104891
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTY5MDY",
+        "name:fa": "پایگاه امداد و نجات جاده ای بوکان",
+        "publicId": "Mjk6MTY5MDY",
+        "sourceId": "16906",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16906,
+          "name:fa": "پایگاه امداد و نجات جاده ای بوکان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.325Z",
+        "updatedAt": "2026-03-11T20:58:24.325Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59362,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3346965,
+          29.7440674
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzEyNTY",
+        "name:fa": "پایگاه امداد و نجات جاده ای بینک",
+        "publicId": "Mjk6MzEyNTY",
+        "sourceId": "31256",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 31256,
+          "name:fa": "پایگاه امداد و نجات جاده ای بینک"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.325Z",
+        "updatedAt": "2026-03-11T20:58:24.325Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59363,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9764701,
+          37.0454712
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTYzNDQ",
+        "name:fa": "پایگاه امداد و نجات جاده ای تیر پارک",
+        "publicId": "Mjk6MTYzNDQ",
+        "sourceId": "16344",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16344,
+          "name:fa": "پایگاه امداد و نجات جاده ای تیر پارک"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.326Z",
+        "updatedAt": "2026-03-11T20:58:24.326Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59364,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1655894,
+          35.2489618
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjQ3NDI",
+        "name:fa": "پایگاه امداد و نجات جاده ای خلیل آباد",
+        "publicId": "Mjk6MjQ3NDI",
+        "sourceId": "24742",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 24742,
+          "name:fa": "پایگاه امداد و نجات جاده ای خلیل آباد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.326Z",
+        "updatedAt": "2026-03-11T20:58:24.326Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59365,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.9642712,
+          29.6406398
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzEzNDg",
+        "name:fa": "پایگاه امداد و نجات جاده ای دشت ارژن",
+        "publicId": "Mjk6MzEzNDg",
+        "sourceId": "31348",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 31348,
+          "name:fa": "پایگاه امداد و نجات جاده ای دشت ارژن"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.326Z",
+        "updatedAt": "2026-03-11T20:58:24.326Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59366,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.819404,
+          32.4185551
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzY4Mzg",
+        "name:fa": "پایگاه امداد و نجات جاده ای دشت عباس",
+        "publicId": "Mjk6MzY4Mzg",
+        "sourceId": "36838",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 36838,
+          "name:fa": "پایگاه امداد و نجات جاده ای دشت عباس"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.327Z",
+        "updatedAt": "2026-03-11T20:58:24.327Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59367,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.7490569,
+          36.562107
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NjQ",
+        "name:fa": "پایگاه امداد و نجات جاده ای شمالغرب",
+        "publicId": "Mjk6NDA4NjQ",
+        "sourceId": "40864",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40864,
+          "name:fa": "پایگاه امداد و نجات جاده ای شمالغرب"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.327Z",
+        "updatedAt": "2026-03-11T20:58:24.327Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59368,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.2580054,
+          32.6613341
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjc4MDE",
+        "name:fa": "پایگاه امداد و نجات جاده ای شهدا نجف آباد",
+        "publicId": "Mjk6Mjc4MDE",
+        "sourceId": "27801",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27801,
+          "name:fa": "پایگاه امداد و نجات جاده ای شهدا نجف آباد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.328Z",
+        "updatedAt": "2026-03-11T20:58:24.328Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59369,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.7569363,
+          34.8713899
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mzc0OTE",
+        "name:fa": "پایگاه امداد و نجات جاده ای شهدای مهدی آباد",
+        "publicId": "Mjk6Mzc0OTE",
+        "sourceId": "37491",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 37491,
+          "name:fa": "پایگاه امداد و نجات جاده ای شهدای مهدی آباد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.328Z",
+        "updatedAt": "2026-03-11T20:58:24.328Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59370,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6166302,
+          32.2806292
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjg3MzE",
+        "name:fa": "پایگاه امداد و نجات جاده ای شهدای پردنجان",
+        "publicId": "Mjk6Mjg3MzE",
+        "sourceId": "28731",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 28731,
+          "name:fa": "پایگاه امداد و نجات جاده ای شهدای پردنجان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.329Z",
+        "updatedAt": "2026-03-11T20:58:24.329Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59371,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9922188,
+          33.3481353
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjcyMjM",
+        "name:fa": "پایگاه امداد و نجات جاده ای شهرک ولیعصر",
+        "publicId": "Mjk6MjcyMjM",
+        "sourceId": "27223",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27223,
+          "name:fa": "پایگاه امداد و نجات جاده ای شهرک ولیعصر"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.329Z",
+        "updatedAt": "2026-03-11T20:58:24.329Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9128909,
+          35.6783917
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjI4ODM",
+        "name:fa": "پایگاه امداد و نجات جاده ای شهید اینانلو",
+        "publicId": "Mjk6MjI4ODM",
+        "sourceId": "22883",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 22883,
+          "name:fa": "پایگاه امداد و نجات جاده ای شهید اینانلو"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.329Z",
+        "updatedAt": "2026-03-11T20:58:24.329Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59373,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2115586,
+          28.3347645
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzI2MTU",
+        "name:fa": "پایگاه امداد و نجات جاده ای شهید حسین جوان-فورگ",
+        "publicId": "Mjk6MzI2MTU",
+        "sourceId": "32615",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 32615,
+          "name:fa": "پایگاه امداد و نجات جاده ای شهید حسین جوان-فورگ"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.330Z",
+        "updatedAt": "2026-03-11T20:58:24.330Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59374,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.4580878,
+          37.1064688
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTYyNTM",
+        "name:fa": "پایگاه امداد و نجات جاده ای شهید صمد ذولفقاری",
+        "publicId": "Mjk6MTYyNTM",
+        "sourceId": "16253",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16253,
+          "name:fa": "پایگاه امداد و نجات جاده ای شهید صمد ذولفقاری"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.330Z",
+        "updatedAt": "2026-03-11T20:58:24.330Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59375,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8495347,
+          37.661722
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTUwMDg",
+        "name:fa": "پایگاه امداد و نجات جاده ای شهید یوسف تبار",
+        "publicId": "Mjk6MTUwMDg",
+        "sourceId": "15008",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15008,
+          "name:fa": "پایگاه امداد و نجات جاده ای شهید یوسف تبار"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.331Z",
+        "updatedAt": "2026-03-11T20:58:24.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59376,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1105107,
+          32.675569
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjc3OTg",
+        "name:fa": "پایگاه امداد و نجات جاده ای طلازرین تیران و کرون",
+        "publicId": "Mjk6Mjc3OTg",
+        "sourceId": "27798",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27798,
+          "name:fa": "پایگاه امداد و نجات جاده ای طلازرین تیران و کرون"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.331Z",
+        "updatedAt": "2026-03-11T20:58:24.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59377,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.44708,
+          36.65801
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NjU",
+        "name:fa": "پایگاه امداد و نجات جاده ای عوارضی زنجان-تبریز",
+        "publicId": "Mjk6NDA4NjU",
+        "sourceId": "40865",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40865,
+          "name:fa": "پایگاه امداد و نجات جاده ای عوارضی زنجان-تبریز"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.332Z",
+        "updatedAt": "2026-03-11T20:58:24.332Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3518975,
+          36.1039448
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NjY",
+        "name:fa": "پایگاه امداد و نجات جاده ای قروه",
+        "publicId": "Mjk6NDA4NjY",
+        "sourceId": "40866",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40866,
+          "name:fa": "پایگاه امداد و نجات جاده ای قروه"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.332Z",
+        "updatedAt": "2026-03-11T20:58:24.332Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3384151,
+          26.7888412
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzM0Nzk",
+        "name:fa": "پایگاه امداد و نجات جاده ای مهتابی",
+        "publicId": "Mjk6MzM0Nzk",
+        "sourceId": "33479",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 33479,
+          "name:fa": "پایگاه امداد و نجات جاده ای مهتابی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.333Z",
+        "updatedAt": "2026-03-11T20:58:24.333Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3068926,
+          36.1399217
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTkzNTc",
+        "name:fa": "پایگاه امداد و نجات جاده ای کندوان",
+        "publicId": "Mjk6MTkzNTc",
+        "sourceId": "19357",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 19357,
+          "name:fa": "پایگاه امداد و نجات جاده ای کندوان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.333Z",
+        "updatedAt": "2026-03-11T20:58:24.333Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59381,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.563093,
+          35.2213697
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjQ4MjU",
+        "name:fa": "پایگاه امداد و نجات جاده ای کویر دامغان",
+        "publicId": "Mjk6MjQ4MjU",
+        "sourceId": "24825",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 24825,
+          "name:fa": "پایگاه امداد و نجات جاده ای کویر دامغان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.334Z",
+        "updatedAt": "2026-03-11T20:58:24.334Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6748597,
+          37.5907341
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTUwNjI",
+        "name:fa": "پایگاه امداد و نجات جاده ای گردنه الماس",
+        "publicId": "Mjk6MTUwNjI",
+        "sourceId": "15062",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15062,
+          "name:fa": "پایگاه امداد و نجات جاده ای گردنه الماس"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.334Z",
+        "updatedAt": "2026-03-11T20:58:24.334Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.2537472,
+          27.4190941
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzI5ODQ",
+        "name:fa": "پایگاه امداد و نجات جاده ای یادمان شهید رسول ایزدی",
+        "publicId": "Mjk6MzI5ODQ",
+        "sourceId": "32984",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 32984,
+          "name:fa": "پایگاه امداد و نجات جاده ای یادمان شهید رسول ایزدی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.335Z",
+        "updatedAt": "2026-03-11T20:58:24.335Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.2272071,
+          35.3435075
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4Njc",
+        "name:fa": "پایگاه امداد و نجات جاده ایی",
+        "publicId": "Mjk6NDA4Njc",
+        "sourceId": "40867",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40867,
+          "name:fa": "پایگاه امداد و نجات جاده ایی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.335Z",
+        "updatedAt": "2026-03-11T20:58:24.335Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59385,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6743929,
+          35.3635771
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjQ0NjA",
+        "name:fa": "پایگاه امداد و نجات جاده‌ای",
+        "publicId": "Mjk6MjQ0NjA",
+        "sourceId": "24460",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 24460,
+          "name:fa": "پایگاه امداد و نجات جاده‌ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.336Z",
+        "updatedAt": "2026-03-11T20:58:24.336Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59386,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0650211,
+          26.9459583
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzQzNjM",
+        "name:fa": "پایگاه امداد و نجات جاده‌ای درگهان",
+        "publicId": "Mjk6MzQzNjM",
+        "sourceId": "34363",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 34363,
+          "name:fa": "پایگاه امداد و نجات جاده‌ای درگهان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.336Z",
+        "updatedAt": "2026-03-11T20:58:24.336Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59387,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5758286,
+          33.2691664
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjcyNjU",
+        "name:fa": "پایگاه امداد و نجات خیردرار",
+        "publicId": "Mjk6MjcyNjU",
+        "sourceId": "27265",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27265,
+          "name:fa": "پایگاه امداد و نجات خیردرار"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.337Z",
+        "updatedAt": "2026-03-11T20:58:24.337Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59388,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8488091,
+          37.6585466
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4Njg",
+        "name:fa": "پایگاه امداد و نجات داشکسن",
+        "publicId": "Mjk6NDA4Njg",
+        "sourceId": "40868",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40868,
+          "name:fa": "پایگاه امداد و نجات داشکسن"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.337Z",
+        "updatedAt": "2026-03-11T20:58:24.337Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59389,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2100086,
+          36.5478369
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTc0ODU",
+        "name:fa": "پایگاه امداد و نجات رازمیان",
+        "publicId": "Mjk6MTc0ODU",
+        "sourceId": "17485",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 17485,
+          "name:fa": "پایگاه امداد و نجات رازمیان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.338Z",
+        "updatedAt": "2026-03-11T20:58:24.338Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59390,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2201797,
+          38.5748004
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTM4OTQ",
+        "name:fa": "پایگاه امداد و نجات سامبران",
+        "publicId": "Mjk6MTM4OTQ",
+        "sourceId": "13894",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 13894,
+          "name:fa": "پایگاه امداد و نجات سامبران"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.338Z",
+        "updatedAt": "2026-03-11T20:58:24.338Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59391,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.7946767,
+          33.8041065
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjY3NDQ",
+        "name:fa": "پایگاه امداد و نجات سلمان",
+        "publicId": "Mjk6MjY3NDQ",
+        "sourceId": "26744",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 26744,
+          "name:fa": "پایگاه امداد و نجات سلمان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.338Z",
+        "updatedAt": "2026-03-11T20:58:24.338Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59392,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5640065,
+          32.4639657
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjg0MDQ",
+        "name:fa": "پایگاه امداد و نجات سمسون",
+        "publicId": "Mjk6Mjg0MDQ",
+        "sourceId": "28404",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 28404,
+          "name:fa": "پایگاه امداد و نجات سمسون"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.339Z",
+        "updatedAt": "2026-03-11T20:58:24.339Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59393,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.0239691,
+          31.0989402
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzAwODM",
+        "name:fa": "پایگاه امداد و نجات شهدای عشایر آباده",
+        "publicId": "Mjk6MzAwODM",
+        "sourceId": "30083",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 30083,
+          "name:fa": "پایگاه امداد و نجات شهدای عشایر آباده"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.339Z",
+        "updatedAt": "2026-03-11T20:58:24.339Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59394,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3566893,
+          37.3714969
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTU1NTg",
+        "name:fa": "پایگاه امداد و نجات شهدای چمثقال",
+        "publicId": "Mjk6MTU1NTg",
+        "sourceId": "15558",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15558,
+          "name:fa": "پایگاه امداد و نجات شهدای چمثقال"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.340Z",
+        "updatedAt": "2026-03-11T20:58:24.340Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59395,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.2469666,
+          36.1708247
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTkzMTY",
+        "name:fa": "پایگاه امداد و نجات شهید داداشی",
+        "publicId": "Mjk6MTkzMTY",
+        "sourceId": "19316",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 19316,
+          "name:fa": "پایگاه امداد و نجات شهید داداشی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.340Z",
+        "updatedAt": "2026-03-11T20:58:24.340Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59396,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.4341415,
+          35.0981848
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjQ5NDQ",
+        "name:fa": "پایگاه امداد و نجات شهید رسولی رشتخوار",
+        "publicId": "Mjk6MjQ5NDQ",
+        "sourceId": "24944",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 24944,
+          "name:fa": "پایگاه امداد و نجات شهید رسولی رشتخوار"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.341Z",
+        "updatedAt": "2026-03-11T20:58:24.341Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59397,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3245094,
+          33.5329214
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjY5OTc",
+        "name:fa": "پایگاه امداد و نجات شهید محمد اسماعیل غزنوی",
+        "publicId": "Mjk6MjY5OTc",
+        "sourceId": "26997",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 26997,
+          "name:fa": "پایگاه امداد و نجات شهید محمد اسماعیل غزنوی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.341Z",
+        "updatedAt": "2026-03-11T20:58:24.341Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59398,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5038031,
+          36.4746831
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTc3NDE",
+        "name:fa": "پایگاه امداد و نجات شیرین سو",
+        "publicId": "Mjk6MTc3NDE",
+        "sourceId": "17741",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 17741,
+          "name:fa": "پایگاه امداد و نجات شیرین سو"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.342Z",
+        "updatedAt": "2026-03-11T20:58:24.342Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59399,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.934531,
+          36.2667609
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTg4Njg",
+        "name:fa": "پایگاه امداد و نجات عوارضی ۳",
+        "publicId": "Mjk6MTg4Njg",
+        "sourceId": "18868",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 18868,
+          "name:fa": "پایگاه امداد و نجات عوارضی ۳"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.342Z",
+        "updatedAt": "2026-03-11T20:58:24.342Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.0699877,
+          36.5590129
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTc1NjE",
+        "name:fa": "پایگاه امداد و نجات فیاض بخش",
+        "publicId": "Mjk6MTc1NjE",
+        "sourceId": "17561",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 17561,
+          "name:fa": "پایگاه امداد و نجات فیاض بخش"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.342Z",
+        "updatedAt": "2026-03-11T20:58:24.342Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59401,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.7174673,
+          33.151565
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjczMTY",
+        "name:fa": "پایگاه امداد و نجات قهستان",
+        "publicId": "Mjk6MjczMTY",
+        "sourceId": "27316",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27316,
+          "name:fa": "پایگاه امداد و نجات قهستان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.343Z",
+        "updatedAt": "2026-03-11T20:58:24.343Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3250407,
+          38.7188473
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTM4NzE",
+        "name:fa": "پایگاه امداد و نجات مجید آباد",
+        "publicId": "Mjk6MTM4NzE",
+        "sourceId": "13871",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 13871,
+          "name:fa": "پایگاه امداد و نجات مجید آباد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.343Z",
+        "updatedAt": "2026-03-11T20:58:24.343Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5236784,
+          34.6856812
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjUzODc",
+        "name:fa": "پایگاه امداد و نجات مله ماس دینور",
+        "publicId": "Mjk6MjUzODc",
+        "sourceId": "25387",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 25387,
+          "name:fa": "پایگاه امداد و نجات مله ماس دینور"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.344Z",
+        "updatedAt": "2026-03-11T20:58:24.344Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7562402,
+          27.0570435
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzQ3NzI",
+        "name:fa": "پایگاه امداد و نجات منبع آب",
+        "publicId": "Mjk6MzQ3NzI",
+        "sourceId": "34772",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 34772,
+          "name:fa": "پایگاه امداد و نجات منبع آب"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.344Z",
+        "updatedAt": "2026-03-11T20:58:24.344Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7073197,
+          36.3456933
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTgyMTE",
+        "name:fa": "پایگاه امداد و نجات مهتاب",
+        "publicId": "Mjk6MTgyMTE",
+        "sourceId": "18211",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 18211,
+          "name:fa": "پایگاه امداد و نجات مهتاب"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.345Z",
+        "updatedAt": "2026-03-11T20:58:24.345Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.4422289,
+          36.0897324
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTk0MDc",
+        "name:fa": "پایگاه امداد و نجات میرپنجی",
+        "publicId": "Mjk6MTk0MDc",
+        "sourceId": "19407",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 19407,
+          "name:fa": "پایگاه امداد و نجات میرپنجی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.345Z",
+        "updatedAt": "2026-03-11T20:58:24.345Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2706495,
+          38.4056758
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTQwMTk",
+        "name:fa": "پایگاه امداد و نجات نقدوز",
+        "publicId": "Mjk6MTQwMTk",
+        "sourceId": "14019",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 14019,
+          "name:fa": "پایگاه امداد و نجات نقدوز"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.346Z",
+        "updatedAt": "2026-03-11T20:58:24.346Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.9014656,
+          36.9312366
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4Njk",
+        "name:fa": "پایگاه امداد و نجات هلال",
+        "publicId": "Mjk6NDA4Njk",
+        "sourceId": "40869",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40869,
+          "name:fa": "پایگاه امداد و نجات هلال"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.347Z",
+        "updatedAt": "2026-03-11T20:58:24.347Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59409,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4836784,
+          34.1345705
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjYyMTY",
+        "name:fa": "پایگاه امداد و نجات هلال ابن علی",
+        "publicId": "Mjk6MjYyMTY",
+        "sourceId": "26216",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 26216,
+          "name:fa": "پایگاه امداد و نجات هلال ابن علی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.347Z",
+        "updatedAt": "2026-03-11T20:58:24.347Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9990715,
+          30.2430572
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NzA",
+        "name:fa": "پایگاه امداد و نجات هندیجان",
+        "publicId": "Mjk6NDA4NzA",
+        "sourceId": "40870",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40870,
+          "name:fa": "پایگاه امداد و نجات هندیجان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.348Z",
+        "updatedAt": "2026-03-11T20:58:24.348Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59411,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4643814,
+          32.4294033
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjg0MzE",
+        "name:fa": "پایگاه امداد و نجات و اتش نشانی دزفول",
+        "publicId": "Mjk6Mjg0MzE",
+        "sourceId": "28431",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 28431,
+          "name:fa": "پایگاه امداد و نجات و اتش نشانی دزفول"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.348Z",
+        "updatedAt": "2026-03-11T20:58:24.348Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59412,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3524272,
+          35.5454515
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjQwOTg",
+        "name:fa": "پایگاه امداد و نجات و درمانگاه بین شهری",
+        "publicId": "Mjk6MjQwOTg",
+        "sourceId": "24098",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 24098,
+          "name:fa": "پایگاه امداد و نجات و درمانگاه بین شهری"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.349Z",
+        "updatedAt": "2026-03-11T20:58:24.349Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59413,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.306843,
+          36.1404854
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NzE",
+        "name:fa": "پایگاه امداد و نجات کندوان",
+        "publicId": "Mjk6NDA4NzE",
+        "sourceId": "40871",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40871,
+          "name:fa": "پایگاه امداد و نجات کندوان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.349Z",
+        "updatedAt": "2026-03-11T20:58:24.349Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3828756,
+          35.8312522
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTk5NzU",
+        "name:fa": "پایگاه امداد و نجات کوهستان",
+        "publicId": "Mjk6MTk5NzU",
+        "sourceId": "19975",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 19975,
+          "name:fa": "پایگاه امداد و نجات کوهستان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.350Z",
+        "updatedAt": "2026-03-11T20:58:24.350Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59415,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9552553,
+          35.3022954
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjQ1NzQ",
+        "name:fa": "پایگاه امداد و نجات کوهستان آبیدر",
+        "publicId": "Mjk6MjQ1NzQ",
+        "sourceId": "24574",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 24574,
+          "name:fa": "پایگاه امداد و نجات کوهستان آبیدر"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.350Z",
+        "updatedAt": "2026-03-11T20:58:24.350Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59416,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6237622,
+          32.338741
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzY4ODM",
+        "name:fa": "پایگاه امداد و نجات کوهستان امام جواد(ع) شهرستان اندیکا",
+        "publicId": "Mjk6MzY4ODM",
+        "sourceId": "36883",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 36883,
+          "name:fa": "پایگاه امداد و نجات کوهستان امام جواد(ع) شهرستان اندیکا"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.351Z",
+        "updatedAt": "2026-03-11T20:58:24.351Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3813598,
+          37.5038256
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTUyNzQ",
+        "name:fa": "پایگاه امداد و نجات کوهستان باباموسی",
+        "publicId": "Mjk6MTUyNzQ",
+        "sourceId": "15274",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15274,
+          "name:fa": "پایگاه امداد و نجات کوهستان باباموسی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.351Z",
+        "updatedAt": "2026-03-11T20:58:24.351Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5522409,
+          29.6444011
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzE0Mjk",
+        "name:fa": "پایگاه امداد و نجات کوهستان باباکوهی",
+        "publicId": "Mjk6MzE0Mjk",
+        "sourceId": "31429",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 31429,
+          "name:fa": "پایگاه امداد و نجات کوهستان باباکوهی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.352Z",
+        "updatedAt": "2026-03-11T20:58:24.352Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59419,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0698878,
+          36.7009392
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzgxMDg",
+        "name:fa": "پایگاه امداد و نجات کوهستان جنگل ابر",
+        "publicId": "Mjk6MzgxMDg",
+        "sourceId": "38108",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 38108,
+          "name:fa": "پایگاه امداد و نجات کوهستان جنگل ابر"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.352Z",
+        "updatedAt": "2026-03-11T20:58:24.352Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4225333,
+          29.698151
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzEyNzQ",
+        "name:fa": "پایگاه امداد و نجات کوهستان دراک",
+        "publicId": "Mjk6MzEyNzQ",
+        "sourceId": "31274",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 31274,
+          "name:fa": "پایگاه امداد و نجات کوهستان دراک"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.353Z",
+        "updatedAt": "2026-03-11T20:58:24.353Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8456868,
+          36.6952875
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTY5NzU",
+        "name:fa": "پایگاه امداد و نجات کوهستان دوهزار",
+        "publicId": "Mjk6MTY5NzU",
+        "sourceId": "16975",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16975,
+          "name:fa": "پایگاه امداد و نجات کوهستان دوهزار"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.353Z",
+        "updatedAt": "2026-03-11T20:58:24.353Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.1651915,
+          35.8832795
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTk2OTQ",
+        "name:fa": "پایگاه امداد و نجات کوهستان رینه",
+        "publicId": "Mjk6MTk2OTQ",
+        "sourceId": "19694",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 19694,
+          "name:fa": "پایگاه امداد و نجات کوهستان رینه"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.354Z",
+        "updatedAt": "2026-03-11T20:58:24.354Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.6229613,
+          28.5037659
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzI1NDA",
+        "name:fa": "پایگاه امداد و نجات کوهستان سنگ تراشان",
+        "publicId": "Mjk6MzI1NDA",
+        "sourceId": "32540",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 32540,
+          "name:fa": "پایگاه امداد و نجات کوهستان سنگ تراشان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.354Z",
+        "updatedAt": "2026-03-11T20:58:24.354Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59424,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.771114,
+          33.410296
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzcxNTc",
+        "name:fa": "پایگاه امداد و نجات کوهستان کرکس",
+        "publicId": "Mjk6MzcxNTc",
+        "sourceId": "37157",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 37157,
+          "name:fa": "پایگاه امداد و نجات کوهستان کرکس"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.355Z",
+        "updatedAt": "2026-03-11T20:58:24.355Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59425,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4520364,
+          35.8391868
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTk4MzU",
+        "name:fa": "پایگاه امداد و نجات کوهستان کلکچال",
+        "publicId": "Mjk6MTk4MzU",
+        "sourceId": "19835",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 19835,
+          "name:fa": "پایگاه امداد و نجات کوهستان کلکچال"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.355Z",
+        "updatedAt": "2026-03-11T20:58:24.355Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0706477,
+          36.3405621
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTgyMTY",
+        "name:fa": "پایگاه امداد و نجات کوهستانی فدک",
+        "publicId": "Mjk6MTgyMTY",
+        "sourceId": "18216",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 18216,
+          "name:fa": "پایگاه امداد و نجات کوهستانی فدک"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.356Z",
+        "updatedAt": "2026-03-11T20:58:24.356Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6478082,
+          36.3803017
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTgwNzE",
+        "name:fa": "پایگاه امداد و نجات کوهین",
+        "publicId": "Mjk6MTgwNzE",
+        "sourceId": "18071",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 18071,
+          "name:fa": "پایگاه امداد و نجات کوهین"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.356Z",
+        "updatedAt": "2026-03-11T20:58:24.356Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9351333,
+          34.9067971
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjUwNjg",
+        "name:fa": "پایگاه امداد و نجات گردنه مروارید",
+        "publicId": "Mjk6MjUwNjg",
+        "sourceId": "25068",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 25068,
+          "name:fa": "پایگاه امداد و نجات گردنه مروارید"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.357Z",
+        "updatedAt": "2026-03-11T20:58:24.357Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.4900846,
+          37.1874729
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTYxMjM",
+        "name:fa": "پایگاه امداد ونجات آق قلا",
+        "publicId": "Mjk6MTYxMjM",
+        "sourceId": "16123",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16123,
+          "name:fa": "پایگاه امداد ونجات آق قلا"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.357Z",
+        "updatedAt": "2026-03-11T20:58:24.357Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.7322077,
+          35.7694612
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjA4NjA",
+        "name:fa": "پایگاه امداد ونجات آهوان",
+        "publicId": "Mjk6MjA4NjA",
+        "sourceId": "20860",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 20860,
+          "name:fa": "پایگاه امداد ونجات آهوان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.358Z",
+        "updatedAt": "2026-03-11T20:58:24.358Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8881474,
+          36.3026624
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTg0OTM",
+        "name:fa": "پایگاه امداد ونجات جاده ای",
+        "publicId": "Mjk6MTg0OTM",
+        "sourceId": "18493",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 18493,
+          "name:fa": "پایگاه امداد ونجات جاده ای"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.358Z",
+        "updatedAt": "2026-03-11T20:58:24.358Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59432,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6756617,
+          32.7389525
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjc1NTk",
+        "name:fa": "پایگاه امداد ونجات جاده ای مورموری",
+        "publicId": "Mjk6Mjc1NTk",
+        "sourceId": "27559",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27559,
+          "name:fa": "پایگاه امداد ونجات جاده ای مورموری"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.359Z",
+        "updatedAt": "2026-03-11T20:58:24.359Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59433,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.0743129,
+          36.5869287
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTczMjk",
+        "name:fa": "پایگاه امداد ونجات جاده ای نور",
+        "publicId": "Mjk6MTczMjk",
+        "sourceId": "17329",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 17329,
+          "name:fa": "پایگاه امداد ونجات جاده ای نور"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.360Z",
+        "updatedAt": "2026-03-11T20:58:24.360Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59434,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.9948805,
+          31.7159371
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjk0MTU",
+        "name:fa": "پایگاه امداد ونجات جاویدالاثرمتوسلیان",
+        "publicId": "Mjk6Mjk0MTU",
+        "sourceId": "29415",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 29415,
+          "name:fa": "پایگاه امداد ونجات جاویدالاثرمتوسلیان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.360Z",
+        "updatedAt": "2026-03-11T20:58:24.360Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59435,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4543353,
+          33.6597236
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjY4Mzk",
+        "name:fa": "پایگاه امداد ونجات شهید امیدی",
+        "publicId": "Mjk6MjY4Mzk",
+        "sourceId": "26839",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 26839,
+          "name:fa": "پایگاه امداد ونجات شهید امیدی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.361Z",
+        "updatedAt": "2026-03-11T20:58:24.361Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59436,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5655796,
+          32.2764147
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjg3NDI",
+        "name:fa": "پایگاه امداد ونجات طالخونچه",
+        "publicId": "Mjk6Mjg3NDI",
+        "sourceId": "28742",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 28742,
+          "name:fa": "پایگاه امداد ونجات طالخونچه"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.361Z",
+        "updatedAt": "2026-03-11T20:58:24.361Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59437,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1262093,
+          30.2858999
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzA4OTE",
+        "name:fa": "پایگاه امداد ونجات کوهستان",
+        "publicId": "Mjk6MzA4OTE",
+        "sourceId": "30891",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 30891,
+          "name:fa": "پایگاه امداد ونجات کوهستان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.362Z",
+        "updatedAt": "2026-03-11T20:58:24.362Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59438,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1909518,
+          33.5397236
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjY5NzQ",
+        "name:fa": "پایگاه امداد و‌نجات جاده ای سه راهی جندالله",
+        "publicId": "Mjk6MjY5NzQ",
+        "sourceId": "26974",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 26974,
+          "name:fa": "پایگاه امداد و‌نجات جاده ای سه راهی جندالله"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.362Z",
+        "updatedAt": "2026-03-11T20:58:24.362Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.171669,
+          33.4337396
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzcyNTQ",
+        "name:fa": "پایگاه امدادو نجات جاده ای شادروان یوسفی",
+        "publicId": "Mjk6MzcyNTQ",
+        "sourceId": "37254",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 37254,
+          "name:fa": "پایگاه امدادو نجات جاده ای شادروان یوسفی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.363Z",
+        "updatedAt": "2026-03-11T20:58:24.363Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4472768,
+          32.4907891
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjgzNTg",
+        "name:fa": "پایگاه امدادو نجات شهدای امدادگر مینادشت",
+        "publicId": "Mjk6MjgzNTg",
+        "sourceId": "28358",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 28358,
+          "name:fa": "پایگاه امدادو نجات شهدای امدادگر مینادشت"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.363Z",
+        "updatedAt": "2026-03-11T20:58:24.363Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59441,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1337886,
+          37.176304
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTYxMjU",
+        "name:fa": "پایگاه امدادو نجات عین الروم",
+        "publicId": "Mjk6MTYxMjU",
+        "sourceId": "16125",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16125,
+          "name:fa": "پایگاه امدادو نجات عین الروم"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.364Z",
+        "updatedAt": "2026-03-11T20:58:24.364Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59442,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6854369,
+          34.0614703
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjYzODA",
+        "name:fa": "پایگاه امدادو نجات کوهستان",
+        "publicId": "Mjk6MjYzODA",
+        "sourceId": "26380",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 26380,
+          "name:fa": "پایگاه امدادو نجات کوهستان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.364Z",
+        "updatedAt": "2026-03-11T20:58:24.364Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59443,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6461425,
+          35.5144239
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjQyMzQ",
+        "name:fa": "پایگاه امدادونجات بین شهری شهدای مظفر",
+        "publicId": "Mjk6MjQyMzQ",
+        "sourceId": "24234",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 24234,
+          "name:fa": "پایگاه امدادونجات بین شهری شهدای مظفر"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.365Z",
+        "updatedAt": "2026-03-11T20:58:24.365Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59444,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.470207,
+          32.734835
+        ]
+      },
+      "properties": {
+        "id": "Mjk6Mjc1NjE",
+        "name:fa": "پایگاه امدادونجات بین شهری مهربین",
+        "publicId": "Mjk6Mjc1NjE",
+        "sourceId": "27561",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27561,
+          "name:fa": "پایگاه امدادونجات بین شهری مهربین"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.365Z",
+        "updatedAt": "2026-03-11T20:58:24.365Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5866806,
+          35.7302426
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjEzNDg",
+        "name:fa": "پایگاه امدادونجات بین شهری کوثر اشتهارد",
+        "publicId": "Mjk6MjEzNDg",
+        "sourceId": "21348",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 21348,
+          "name:fa": "پایگاه امدادونجات بین شهری کوثر اشتهارد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.366Z",
+        "updatedAt": "2026-03-11T20:58:24.366Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59446,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0534698,
+          34.8467207
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjUxMDk",
+        "name:fa": "پایگاه امدادونجات جاده ای دره شهدا",
+        "publicId": "Mjk6MjUxMDk",
+        "sourceId": "25109",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 25109,
+          "name:fa": "پایگاه امدادونجات جاده ای دره شهدا"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.366Z",
+        "updatedAt": "2026-03-11T20:58:24.366Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59447,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2738594,
+          34.0945805
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NzI",
+        "name:fa": "پایگاه امدادونجات جاده‌ای شهید هاجری",
+        "publicId": "Mjk6NDA4NzI",
+        "sourceId": "40872",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40872,
+          "name:fa": "پایگاه امدادونجات جاده‌ای شهید هاجری"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.367Z",
+        "updatedAt": "2026-03-11T20:58:24.367Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59448,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4473061,
+          32.4870128
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NzM",
+        "name:fa": "پایگاه امدادونجات شهدای امدادگر مینادشت",
+        "publicId": "Mjk6NDA4NzM",
+        "sourceId": "40873",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40873,
+          "name:fa": "پایگاه امدادونجات شهدای امدادگر مینادشت"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.367Z",
+        "updatedAt": "2026-03-11T20:58:24.367Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59449,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8302152,
+          29.5765853
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzE3MjE",
+        "name:fa": "پایگاه امدادونجات شهیدخدری",
+        "publicId": "Mjk6MzE3MjE",
+        "sourceId": "31721",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 31721,
+          "name:fa": "پایگاه امدادونجات شهیدخدری"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.368Z",
+        "updatedAt": "2026-03-11T20:58:24.368Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59450,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5242805,
+          34.6852037
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjUzODg",
+        "name:fa": "پایگاه امدادونجات ضامن آهو_سنقر",
+        "publicId": "Mjk6MjUzODg",
+        "sourceId": "25388",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 25388,
+          "name:fa": "پایگاه امدادونجات ضامن آهو_سنقر"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.368Z",
+        "updatedAt": "2026-03-11T20:58:24.368Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59451,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5714866,
+          31.7826924
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzY3OTM",
+        "name:fa": "پایگاه امدادی جمعیت حلال احمر",
+        "publicId": "Mjk6MzY3OTM",
+        "sourceId": "36793",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 36793,
+          "name:fa": "پایگاه امدادی جمعیت حلال احمر"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.369Z",
+        "updatedAt": "2026-03-11T20:58:24.369Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59452,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.6874122,
+          38.8336224
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NzQ",
+        "name:fa": "پایگاه امدادی حلال احمر",
+        "publicId": "Mjk6NDA4NzQ",
+        "sourceId": "40874",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40874,
+          "name:fa": "پایگاه امدادی حلال احمر"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.369Z",
+        "updatedAt": "2026-03-11T20:58:24.369Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59453,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1463947,
+          37.3020291
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTU2OTE",
+        "name:fa": "پایگاه امدادی ناصر کیاده",
+        "publicId": "Mjk6MTU2OTE",
+        "sourceId": "15691",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 15691,
+          "name:fa": "پایگاه امدادی ناصر کیاده"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.370Z",
+        "updatedAt": "2026-03-11T20:58:24.370Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59454,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.4322854,
+          35.1064006
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjQ5MzI",
+        "name:fa": "پایگاه امداد‌ و‌ نجات شهید رسولی رشتخوار",
+        "publicId": "Mjk6MjQ5MzI",
+        "sourceId": "24932",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 24932,
+          "name:fa": "پایگاه امداد‌ و‌ نجات شهید رسولی رشتخوار"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.370Z",
+        "updatedAt": "2026-03-11T20:58:24.370Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59455,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4836599,
+          33.5107427
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjcwMDI",
+        "name:fa": "پایگاه جاده ای امداد و نجات",
+        "publicId": "Mjk6MjcwMDI",
+        "sourceId": "27002",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 27002,
+          "name:fa": "پایگاه جاده ای امداد و نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.371Z",
+        "updatedAt": "2026-03-11T20:58:24.371Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59456,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.5391404,
+          27.2341621
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzMxMjk",
+        "name:fa": "پایگاه جادهای امدادونجات شهیدفلک دهواری",
+        "publicId": "Mjk6MzMxMjk",
+        "sourceId": "33129",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 33129,
+          "name:fa": "پایگاه جادهای امدادونجات شهیدفلک دهواری"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.371Z",
+        "updatedAt": "2026-03-11T20:58:24.371Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3630434,
+          27.2105751
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MzQyNjA",
+        "name:fa": "پایگاه مرکزی امداد و نجات بندرعباس",
+        "publicId": "Mjk6MzQyNjA",
+        "sourceId": "34260",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 34260,
+          "name:fa": "پایگاه مرکزی امداد و نجات بندرعباس"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.372Z",
+        "updatedAt": "2026-03-11T20:58:24.372Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59458,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4473747,
+          35.684297
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjMwOTA",
+        "name:fa": "کلینیک ساحل نجات",
+        "publicId": "Mjk6MjMwOTA",
+        "sourceId": "23090",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 23090,
+          "name:fa": "کلینیک ساحل نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.373Z",
+        "updatedAt": "2026-03-11T20:58:24.373Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59459,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.673847,
+          32.6336502
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjgxMzA",
+        "name:fa": "کلینیک فوق تخصصی بیماری‌های تنفسی بامداد",
+        "publicId": "Mjk6MjgxMzA",
+        "sourceId": "28130",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 28130,
+          "name:fa": "کلینیک فوق تخصصی بیماری‌های تنفسی بامداد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.374Z",
+        "updatedAt": "2026-03-11T20:58:24.374Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59460,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4004421,
+          32.481017
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDA4NzU",
+        "name:fa": "کلینیک مشاوره و روانشناختی بامداد روشن",
+        "publicId": "Mjk6NDA4NzU",
+        "sourceId": "40875",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 40875,
+          "name:fa": "کلینیک مشاوره و روانشناختی بامداد روشن"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.374Z",
+        "updatedAt": "2026-03-11T20:58:24.374Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2917489,
+          37.1303118
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MTYyMTE",
+        "name:fa": "کلینیک نجات",
+        "publicId": "Mjk6MTYyMTE",
+        "sourceId": "16211",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 16211,
+          "name:fa": "کلینیک نجات"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.375Z",
+        "updatedAt": "2026-03-11T20:58:24.375Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4080079,
+          35.7255383
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjIxNjU",
+        "name:fa": "کیلینیک بامداد سلامت",
+        "publicId": "Mjk6MjIxNjU",
+        "sourceId": "22165",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 22165,
+          "name:fa": "کیلینیک بامداد سلامت"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.375Z",
+        "updatedAt": "2026-03-11T20:58:24.375Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59463,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5717259,
+          35.8077055
+        ]
+      },
+      "properties": {
+        "id": "Mjk6MjAyMTM",
+        "name:fa": "پایگاه امداد و نجات هلال‌ احمر",
+        "publicId": "Mjk6MjAyMTM",
+        "sourceId": "20213",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 20213,
+          "name:fa": "پایگاه امداد و نجات هلال‌ احمر"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.376Z",
+        "updatedAt": "2026-03-11T20:58:24.376Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59464,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9493729,
+          35.8285534
+        ]
+      },
+      "properties": {
+        "id": "Mjk6NDUzODM",
+        "name:fa": "کلینیک کاردرمانی و گفتاردرمانی بامداد",
+        "publicId": "Mjk6NDUzODM",
+        "sourceId": "45383",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": 45383,
+          "name:fa": "کلینیک کاردرمانی و گفتاردرمانی بامداد"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:58:24.376Z",
+        "updatedAt": "2026-03-11T20:58:24.376Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.32519464476263,
+          38.284788311742545
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "id": "Mjk6YjlkYTUwODU4ZTY2",
+        "publicId": "Mjk6YjlkYTUwODU4ZTY2",
+        "sourceId": "b9da50858e66",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "",
+          "description": "",
+          "date": ""
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T22:24:31.888Z",
+        "updatedAt": "2026-03-21T22:24:31.888Z"
+      }
+    }
+  ],
+  "metadata": {
+    "total": 243,
+    "layerId": 29,
+    "clustered": false,
+    "simplified": false
+  }
+}
