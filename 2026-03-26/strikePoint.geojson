@@ -1,0 +1,1251 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 81762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6892737484,
+          34.0923311038
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE2MA",
+        "date": "1767862845",
+        "name:fa": "اراک (روز دوازدهم)",
+        "publicId": "MTk6OTE2MA",
+        "sourceId": "9160",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9160",
+          "date": "1767862845",
+          "name:fa": "اراک (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.576Z",
+        "updatedAt": "2026-03-11T21:00:47.576Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.29709998131,
+          38.25159458494
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE1MA",
+        "date": "1767862845",
+        "name:fa": "اردبیل (روز دوازدهم)",
+        "publicId": "MTk6OTE1MA",
+        "sourceId": "9150",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9150",
+          "date": "1767862845",
+          "name:fa": "اردبیل (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.576Z",
+        "updatedAt": "2026-03-11T21:00:47.576Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.18377668381,
+          35.52132933165
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE3Ng",
+        "date": "1767862845",
+        "name:fa": "مریوان (روز دوازدهم)",
+        "publicId": "MTk6OTE3Ng",
+        "sourceId": "9176",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9176",
+          "date": "1767862845",
+          "name:fa": "مریوان (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.577Z",
+        "updatedAt": "2026-03-11T21:00:47.577Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.65020461559,
+          29.61969155984
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE0NA",
+        "date": "1767862845",
+        "name:fa": "کازرون (روز دوازدهم)",
+        "publicId": "MTk6OTE0NA",
+        "sourceId": "9144",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9144",
+          "date": "1767862845",
+          "name:fa": "کازرون (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.577Z",
+        "updatedAt": "2026-03-11T21:00:47.577Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.78955832481,
+          36.21187028546
+        ]
+      },
+      "properties": {
+        "date": "1767862845",
+        "name:fa": "نیشابور (روز دوازدهم)",
+        "id": "MTk6OTE0Nw",
+        "publicId": "MTk6OTE0Nw",
+        "sourceId": "9147",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "date": "1767862845",
+          "name:fa": "نیشابور (روز دوازدهم)",
+          "id": "9147"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.578Z",
+        "updatedAt": "2026-03-11T21:00:47.578Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81767,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.53139110088,
+          34.11063204227
+        ]
+      },
+      "properties": {
+        "name:fa": "اسلام‌آباد غرب (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE2NQ",
+        "publicId": "MTk6OTE2NQ",
+        "sourceId": "9165",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اسلام‌آباد غرب (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9165"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.578Z",
+        "updatedAt": "2026-03-11T21:00:47.578Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81768,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.35603896141,
+          35.04503553187
+        ]
+      },
+      "properties": {
+        "name:fa": "پاوه (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE3Mw",
+        "publicId": "MTk6OTE3Mw",
+        "sourceId": "9173",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پاوه (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9173"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.578Z",
+        "updatedAt": "2026-03-11T21:00:47.578Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39833433151,
+          35.71474064305
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE1NA",
+        "date": "1767862845",
+        "name:fa": "تهران (روز دوازدهم)",
+        "publicId": "MTk6OTE1NA",
+        "sourceId": "9154",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9154",
+          "date": "1767862845",
+          "name:fa": "تهران (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.579Z",
+        "updatedAt": "2026-03-11T21:00:47.579Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81770,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.09939455509,
+          37.0398321311
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE1Ng",
+        "date": "1767862845",
+        "name:fa": "اشنویه (روز دوازدهم)",
+        "publicId": "MTk6OTE1Ng",
+        "sourceId": "9156",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9156",
+          "date": "1767862845",
+          "name:fa": "اشنویه (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.579Z",
+        "updatedAt": "2026-03-11T21:00:47.579Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.74865523338,
+          33.89542605405
+        ]
+      },
+      "properties": {
+        "name:fa": "بروجرد (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE2MQ",
+        "publicId": "MTk6OTE2MQ",
+        "sourceId": "9161",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "بروجرد (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9161"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.580Z",
+        "updatedAt": "2026-03-11T21:00:47.580Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.65194032431,
+          34.71545949866
+        ]
+      },
+      "properties": {
+        "name:fa": "روانسر (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE3MQ",
+        "publicId": "MTk6OTE3MQ",
+        "sourceId": "9171",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "روانسر (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9171"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.580Z",
+        "updatedAt": "2026-03-11T21:00:47.580Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.95870954514,
+          35.8442563424
+        ]
+      },
+      "properties": {
+        "name:fa": "کرج (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE1Mw",
+        "publicId": "MTk6OTE1Mw",
+        "sourceId": "9153",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "کرج (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9153"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.580Z",
+        "updatedAt": "2026-03-11T21:00:47.580Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.29261008263,
+          38.07397395979
+        ]
+      },
+      "properties": {
+        "name:fa": "تبریز (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE1MQ",
+        "publicId": "MTk6OTE1MQ",
+        "sourceId": "9151",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "تبریز (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9151"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.581Z",
+        "updatedAt": "2026-03-11T21:00:47.581Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.34624854088,
+          36.47216722186
+        ]
+      },
+      "properties": {
+        "name:fa": "آمل (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE0OQ",
+        "publicId": "MTk6OTE0OQ",
+        "sourceId": "9149",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "آمل (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9149"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.581Z",
+        "updatedAt": "2026-03-11T21:00:47.581Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81776,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.20907774925,
+          29.26955401751
+        ]
+      },
+      "properties": {
+        "name:fa": "برازجان (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE0Mw",
+        "publicId": "MTk6OTE0Mw",
+        "sourceId": "9143",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "برازجان (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9143"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.582Z",
+        "updatedAt": "2026-03-11T21:00:47.582Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.06390356541,
+          37.54682309997
+        ]
+      },
+      "properties": {
+        "name:fa": "ارومیه (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE1NQ",
+        "publicId": "MTk6OTE1NQ",
+        "sourceId": "9155",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ارومیه (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9155"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.582Z",
+        "updatedAt": "2026-03-11T21:00:47.582Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.88525763512,
+          35.99661875782
+        ]
+      },
+      "properties": {
+        "name:fa": "بانه (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE3OQ",
+        "publicId": "MTk6OTE3OQ",
+        "sourceId": "9179",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "بانه (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9179"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.583Z",
+        "updatedAt": "2026-03-11T21:00:47.583Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.20961180687,
+          36.52136312787
+        ]
+      },
+      "properties": {
+        "name:fa": "بوکان (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE1OQ",
+        "publicId": "MTk6OTE1OQ",
+        "sourceId": "9159",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "بوکان (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9159"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.583Z",
+        "updatedAt": "2026-03-11T21:00:47.583Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9364261198,
+          34.79741791383
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE3Mg",
+        "date": "1767862845",
+        "name:fa": "کامیاران (روز دوازدهم)",
+        "publicId": "MTk6OTE3Mg",
+        "sourceId": "9172",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9172",
+          "date": "1767862845",
+          "name:fa": "کامیاران (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.583Z",
+        "updatedAt": "2026-03-11T21:00:47.583Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.26892081261,
+          36.2425426658
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE3OA",
+        "date": "1767862845",
+        "name:fa": "سقز (روز دوازدهم)",
+        "publicId": "MTk6OTE3OA",
+        "sourceId": "9178",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9178",
+          "date": "1767862845",
+          "name:fa": "سقز (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.584Z",
+        "updatedAt": "2026-03-11T21:00:47.584Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81782,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50660987377,
+          32.69771911677
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE0Ng",
+        "name:fa": "خمینی‌شهر (روز دوازدهم)",
+        "date": "1767862845",
+        "publicId": "MTk6OTE0Ng",
+        "sourceId": "9146",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9146",
+          "name:fa": "خمینی‌شهر (روز دوازدهم)",
+          "date": "1767862845"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.584Z",
+        "updatedAt": "2026-03-11T21:00:47.584Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81783,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.80097720861,
+          35.16782708477
+        ]
+      },
+      "properties": {
+        "name:fa": "قروه (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE2Nw",
+        "publicId": "MTk6OTE2Nw",
+        "sourceId": "9167",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "قروه (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9167"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.584Z",
+        "updatedAt": "2026-03-11T21:00:47.584Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81784,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.85132240176,
+          34.51083567078
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE3MA",
+        "date": "1767862845",
+        "name:fa": "سرابله (روز دوازدهم)",
+        "publicId": "MTk6OTE3MA",
+        "sourceId": "9170",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9170",
+          "date": "1767862845",
+          "name:fa": "سرابله (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.585Z",
+        "updatedAt": "2026-03-11T21:00:47.585Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.40727988243,
+          33.63491674825
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE2NA",
+        "date": "1767862845",
+        "name:fa": "ایلام (روز دوازدهم)",
+        "publicId": "MTk6OTE2NA",
+        "sourceId": "9164",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9164",
+          "date": "1767862845",
+          "name:fa": "ایلام (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.585Z",
+        "updatedAt": "2026-03-11T21:00:47.585Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81786,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.72662114024,
+          36.76602248084
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE1OA",
+        "date": "1767862845",
+        "name:fa": "مهاباد (روز دوازدهم)",
+        "publicId": "MTk6OTE1OA",
+        "sourceId": "9158",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9158",
+          "date": "1767862845",
+          "name:fa": "مهاباد (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.586Z",
+        "updatedAt": "2026-03-11T21:00:47.586Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81787,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.67620559216,
+          36.21259738774
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE0OA",
+        "name:fa": "سبزوار (روز دوازدهم)",
+        "date": "1767862845",
+        "publicId": "MTk6OTE0OA",
+        "sourceId": "9148",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9148",
+          "name:fa": "سبزوار (روز دوازدهم)",
+          "date": "1767862845"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.586Z",
+        "updatedAt": "2026-03-11T21:00:47.586Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.57832709312,
+          34.51645826973
+        ]
+      },
+      "properties": {
+        "name:fa": "قصر شیرین (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE2OQ",
+        "publicId": "MTk6OTE2OQ",
+        "sourceId": "9169",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "قصر شیرین (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9169"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.587Z",
+        "updatedAt": "2026-03-11T21:00:47.587Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81789,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6016139555,
+          35.87291610753
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE2OA",
+        "date": "1767862845",
+        "name:fa": "بیجار (روز دوازدهم)",
+        "publicId": "MTk6OTE2OA",
+        "sourceId": "9168",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9168",
+          "date": "1767862845",
+          "name:fa": "بیجار (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.587Z",
+        "updatedAt": "2026-03-11T21:00:47.587Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81790,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.06903440475,
+          35.32520996575
+        ]
+      },
+      "properties": {
+        "name:fa": "نایسر (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE3NQ",
+        "publicId": "MTk6OTE3NQ",
+        "sourceId": "9175",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "نایسر (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9175"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.588Z",
+        "updatedAt": "2026-03-11T21:00:47.588Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81791,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48918897629,
+          36.67571630376
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE1Mg",
+        "date": "1767862845",
+        "name:fa": "زنجان (روز دوازدهم)",
+        "publicId": "MTk6OTE1Mg",
+        "sourceId": "9152",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9152",
+          "date": "1767862845",
+          "name:fa": "زنجان (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.588Z",
+        "updatedAt": "2026-03-11T21:00:47.588Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.64930326462,
+          32.6739164996
+        ]
+      },
+      "properties": {
+        "date": "1767862845",
+        "name:fa": "اصفهان (روز دوازدهم)",
+        "id": "MTk6OTE0NQ",
+        "publicId": "MTk6OTE0NQ",
+        "sourceId": "9145",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "date": "1767862845",
+          "name:fa": "اصفهان (روز دوازدهم)",
+          "id": "9145"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.589Z",
+        "updatedAt": "2026-03-11T21:00:47.589Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.27853868246,
+          27.1923308424
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE0Mg",
+        "name:fa": "بندرعباس (روز دوازدهم)",
+        "date": "1767862845",
+        "publicId": "MTk6OTE0Mg",
+        "sourceId": "9142",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9142",
+          "name:fa": "بندرعباس (روز دوازدهم)",
+          "date": "1767862845"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.589Z",
+        "updatedAt": "2026-03-11T21:00:47.589Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.07186690331,
+          34.32713493899
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE2Ng",
+        "date": "1767862845",
+        "name:fa": "کرمانشاه (روز دوازدهم)",
+        "publicId": "MTk6OTE2Ng",
+        "sourceId": "9166",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9166",
+          "date": "1767862845",
+          "name:fa": "کرمانشاه (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.590Z",
+        "updatedAt": "2026-03-11T21:00:47.590Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.32685323238,
+          37.47930262012
+        ]
+      },
+      "properties": {
+        "date": "1767862845",
+        "name:fa": "بجنورد (روز دوازدهم)",
+        "id": "MTk6OTE4MQ",
+        "publicId": "MTk6OTE4MQ",
+        "sourceId": "9181",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "date": "1767862845",
+          "name:fa": "بجنورد (روز دوازدهم)",
+          "id": "9181"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.590Z",
+        "updatedAt": "2026-03-11T21:00:47.590Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.10544012904,
+          34.71602390394
+        ]
+      },
+      "properties": {
+        "name:fa": "دهگلان (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE2Mw",
+        "publicId": "MTk6OTE2Mw",
+        "sourceId": "9163",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "دهگلان (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9163"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.591Z",
+        "updatedAt": "2026-03-11T21:00:47.591Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.99882490158,
+          35.30545970842
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE3NA",
+        "date": "1767862845",
+        "name:fa": "سنندج (روز دوازدهم)",
+        "publicId": "MTk6OTE3NA",
+        "sourceId": "9174",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9174",
+          "date": "1767862845",
+          "name:fa": "سنندج (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.591Z",
+        "updatedAt": "2026-03-11T21:00:47.591Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.14037604809,
+          36.69657149585
+        ]
+      },
+      "properties": {
+        "name:fa": "پیرانشهر (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE1Nw",
+        "publicId": "MTk6OTE1Nw",
+        "sourceId": "9157",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پیرانشهر (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9157"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.591Z",
+        "updatedAt": "2026-03-11T21:00:47.591Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51277110815,
+          34.79835177755
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE2Mg",
+        "date": "1767862845",
+        "name:fa": "همدان (روز دوازدهم)",
+        "publicId": "MTk6OTE2Mg",
+        "sourceId": "9162",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9162",
+          "date": "1767862845",
+          "name:fa": "همدان (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.592Z",
+        "updatedAt": "2026-03-11T21:00:47.592Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81800,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.02753539562,
+          35.91585172308
+        ]
+      },
+      "properties": {
+        "name:fa": "دیواندره (روز دوازدهم)",
+        "date": "1767862845",
+        "id": "MTk6OTE3Nw",
+        "publicId": "MTk6OTE3Nw",
+        "sourceId": "9177",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "دیواندره (روز دوازدهم)",
+          "date": "1767862845",
+          "id": "9177"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.592Z",
+        "updatedAt": "2026-03-11T21:00:47.592Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81801,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.47756177902,
+          36.15631098141
+        ]
+      },
+      "properties": {
+        "id": "MTk6OTE4MA",
+        "date": "1767862845",
+        "name:fa": "سردشت (روز دوازدهم)",
+        "publicId": "MTk6OTE4MA",
+        "sourceId": "9180",
+        "layerId": 19,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "id": "9180",
+          "date": "1767862845",
+          "name:fa": "سردشت (روز دوازدهم)"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:47.593Z",
+        "updatedAt": "2026-03-11T21:00:47.593Z"
+      }
+    }
+  ],
+  "metadata": {
+    "total": 40,
+    "layerId": 19,
+    "clustered": false,
+    "simplified": false
+  }
+}
