@@ -37258,8 +37258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.994683,
-          35.798485
+          50.994648812260124,
+          35.79837614702544
         ]
       },
       "properties": {
@@ -37278,7 +37278,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:52:52.895Z",
-        "updatedAt": "2026-03-11T20:52:52.895Z"
+        "updatedAt": "2026-03-27T02:23:59.435Z"
       }
     },
     {
@@ -43435,8 +43435,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.029114,
-          35.69638
+          51.02929180214386,
+          35.69621242911103
         ]
       },
       "properties": {
@@ -43455,7 +43455,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:52:52.983Z",
-        "updatedAt": "2026-03-11T20:52:52.983Z"
+        "updatedAt": "2026-03-27T02:25:08.898Z"
       }
     },
     {
@@ -65772,10 +65772,810 @@
         "createdAt": "2026-03-25T09:56:13.193Z",
         "updatedAt": "2026-03-26T02:09:29.743Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 92003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.07079501541568,
+          39.340740875996545
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه بسیج پلدشت",
+        "description": "حوزه بسیج پلدشت",
+        "date": 1774554182,
+        "id": "MTo0N2UzMzE0M2FlNTk",
+        "publicId": "MTo0N2UzMzE0M2FlNTk",
+        "sourceId": "47e33143ae59",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "حوزه بسیج پلدشت",
+          "description": "حوزه بسیج پلدشت",
+          "date": 1774554182
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-26T19:43:02.892Z",
+        "updatedAt": "2026-03-27T02:57:03.919Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54463668807375,
+          36.3189344997636
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج مسجد",
+        "description": "پایگاه بسیج مسجد سجاد",
+        "date": 1774474503,
+        "id": "MTphZDNjNGMyYmIxNjU",
+        "publicId": "MTphZDNjNGMyYmIxNjU",
+        "sourceId": "ad3c4c2bb165",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج مسجد",
+          "description": "پایگاه بسیج مسجد سجاد",
+          "date": 1774474503
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-25T21:35:03.786Z",
+        "updatedAt": "2026-03-27T02:57:03.929Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.396176763260684,
+          35.75347508153442
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج داخل",
+        "description": "پایگاه بسیج داخل مسجد",
+        "date": 1774344977,
+        "id": "MTo4MGJmNmYzMDUwMjY",
+        "publicId": "MTo4MGJmNmYzMDUwMjY",
+        "sourceId": "80bf6f305026",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج داخل",
+          "description": "پایگاه بسیج داخل مسجد",
+          "date": 1774344977
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-24T09:36:17.209Z",
+        "updatedAt": "2026-03-27T02:57:03.931Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3956928392856,
+          35.752989589132696
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1774344952,
+        "id": "MTozN2M5ZDVlNDk4ZTY",
+        "publicId": "MTozN2M5ZDVlNDk4ZTY",
+        "sourceId": "37c9d5e498e6",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج",
+          "description": "پایگاه بسیج",
+          "date": 1774344952
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-24T09:35:52.863Z",
+        "updatedAt": "2026-03-27T02:57:03.933Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39568664872877,
+          35.75321549568925
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه بسیج",
+        "description": "جدیدا پدافند نصب کردن همین الان صداش اومد اینجا حوزه بسیج و یکی از پایگاه های اصلی هست که یک طرف هتل تاج محل و یک طرف دیگه بیمارستان هست",
+        "date": 1774344919,
+        "id": "MTplODRjMjAzMGYxODI",
+        "publicId": "MTplODRjMjAzMGYxODI",
+        "sourceId": "e84c2030f182",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "حوزه بسیج",
+          "description": "جدیدا پدافند نصب کردن همین الان صداش اومد اینجا حوزه بسیج و یکی از پایگاه های اصلی هست که یک طرف هتل تاج محل و یک طرف دیگه بیمارستان هست",
+          "date": 1774344919
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-24T09:35:19.227Z",
+        "updatedAt": "2026-03-27T02:57:03.934Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.30007933064775,
+          38.09479894223119
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "بسیج",
+        "date": 1774308173,
+        "id": "MTpiNjJkOGY3YjNlNzY",
+        "publicId": "MTpiNjJkOGY3YjNlNzY",
+        "sourceId": "b62d8f7b3e76",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج",
+          "description": "بسیج",
+          "date": 1774308173
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-23T23:22:53.383Z",
+        "updatedAt": "2026-03-27T02:57:03.936Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.297984341638255,
+          35.754332034997645
+        ]
+      },
+      "properties": {
+        "name:fa": "ناحیه مقاومت بسیج قدس",
+        "description": "ناحیه مقاومت بسیج قدس منطقه 5",
+        "date": 1774020031,
+        "id": "MTpjYzA2OWI4NzVhY2Q",
+        "publicId": "MTpjYzA2OWI4NzVhY2Q",
+        "sourceId": "cc069b875acd",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ناحیه مقاومت بسیج قدس",
+          "description": "ناحیه مقاومت بسیج قدس منطقه 5",
+          "date": 1774020031
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-20T15:20:31.200Z",
+        "updatedAt": "2026-03-27T02:57:03.937Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.976331770706736,
+          35.8519357421263
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج گوهردشت",
+        "description": "پایگاه بسیج گوهردشت مرکز سرکوب مردم گوهردشت",
+        "date": 1773446104,
+        "id": "MTpkMWY1MWRhNzNmNDQ",
+        "publicId": "MTpkMWY1MWRhNzNmNDQ",
+        "sourceId": "d1f51da73f44",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج گوهردشت",
+          "description": "پایگاه بسیج گوهردشت مرکز سرکوب مردم گوهردشت",
+          "date": 1773446104
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-13T23:55:04.025Z",
+        "updatedAt": "2026-03-27T02:57:03.939Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38162482758719,
+          35.63081490931431
+        ]
+      },
+      "properties": {
+        "name:fa": "ناحیه مقاومت بسیج ابوذر",
+        "description": "ناحیه مقاومت بسیج ابوذر",
+        "date": 1773411413,
+        "id": "MTplNmI3ZmUxZTcxNzk",
+        "publicId": "MTplNmI3ZmUxZTcxNzk",
+        "sourceId": "e6b7fe1e7179",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ناحیه مقاومت بسیج ابوذر",
+          "description": "ناحیه مقاومت بسیج ابوذر",
+          "date": 1773411413
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-13T14:16:53.530Z",
+        "updatedAt": "2026-03-27T02:57:03.940Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92012,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.367817373125376,
+          35.66920272410145
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "مسجد بتونی باب الحوائج که در زیر زمین آن بسیجیان بسیاری مستقر میباشند .",
+        "date": 1773133804,
+        "id": "MTowMzFmMTBjMTJkN2Y",
+        "publicId": "MTowMzFmMTBjMTJkN2Y",
+        "sourceId": "031f10c12d7f",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج",
+          "description": "مسجد بتونی باب الحوائج که در زیر زمین آن بسیجیان بسیاری مستقر میباشند .",
+          "date": 1773133804
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-10T09:10:04.873Z",
+        "updatedAt": "2026-03-27T02:57:03.942Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.87056094675958,
+          34.63955278236901
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه اصلی بسیج یگان ویژه",
+        "date": 1773111891,
+        "id": "MToyNDljYTUzOTcxNzM",
+        "publicId": "MToyNDljYTUzOTcxNzM",
+        "sourceId": "249ca5397173",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج",
+          "description": "پایگاه اصلی بسیج یگان ویژه",
+          "date": 1773111891
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-10T03:04:51.562Z",
+        "updatedAt": "2026-03-27T02:57:03.943Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92014,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.09225712695326,
+          26.585160797406346
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج گروگ",
+        "description": "پایگاه بسیج گروگ",
+        "date": 1772886641,
+        "id": "MTphZGM0MGYxODI5ZTg",
+        "publicId": "MTphZGM0MGYxODI5ZTg",
+        "sourceId": "adc40f1829e8",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج گروگ",
+          "description": "پایگاه بسیج گروگ",
+          "date": 1772886641
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-07T12:30:41.010Z",
+        "updatedAt": "2026-03-27T02:57:03.945Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92015,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.22544510407286,
+          32.84378905270928
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "ساختمان شماره ۲ بسیج فهمیده",
+        "date": 1772765177,
+        "id": "MTo2ODM1NTk1YjU2ZGI",
+        "publicId": "MTo2ODM1NTk1YjU2ZGI",
+        "sourceId": "6835595b56db",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج",
+          "description": "ساختمان شماره ۲ بسیج فهمیده",
+          "date": 1772765177
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-06T02:46:17.971Z",
+        "updatedAt": "2026-03-27T02:57:03.947Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92016,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.478191536387584,
+          29.630735952410603
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه مقاوت بسیج و سرکوب",
+        "date": 1772750877,
+        "id": "MTo5MTA1MDY4ZjBlZmQ",
+        "publicId": "MTo5MTA1MDY4ZjBlZmQ",
+        "sourceId": "9105068f0efd",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج",
+          "description": "پایگاه مقاوت بسیج و سرکوب",
+          "date": 1772750877
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T22:47:57.462Z",
+        "updatedAt": "2026-03-27T02:57:03.948Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92017,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.95529171094611,
+          35.73347703969017
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج خیبر",
+        "description": "پایگاه بسیج خیبر",
+        "date": 1772666070,
+        "id": "MTo4ZDEyZTA5OWE5NDg",
+        "publicId": "MTo4ZDEyZTA5OWE5NDg",
+        "sourceId": "8d12e099a948",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج خیبر",
+          "description": "پایگاه بسیج خیبر",
+          "date": 1772666070
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-04T23:14:30.229Z",
+        "updatedAt": "2026-03-27T02:57:03.950Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92018,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44597660494358,
+          35.79841427577661
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه نیروهای بسیجی",
+        "date": 1772630774,
+        "id": "MTo2NDVmYjA4Y2E4N2Q",
+        "publicId": "MTo2NDVmYjA4Y2E4N2Q",
+        "sourceId": "645fb08ca87d",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج",
+          "description": "پایگاه نیروهای بسیجی",
+          "date": 1772630774
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-04T13:26:14.004Z",
+        "updatedAt": "2026-03-27T02:57:03.951Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92019,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.65279975763184,
+          32.719280762207674
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "مسجد و پایگاه بسیج",
+        "date": 1772629069,
+        "id": "MTozODcyYTcxZDY2NmQ",
+        "publicId": "MTozODcyYTcxZDY2NmQ",
+        "sourceId": "3872a71d666d",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج",
+          "description": "مسجد و پایگاه بسیج",
+          "date": 1772629069
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-04T12:57:49.103Z",
+        "updatedAt": "2026-03-27T02:57:03.953Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92020,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.56633051760184,
+          29.614162329361307
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1772578008,
+        "id": "MTplMjg0MmE2MDFjYWY",
+        "publicId": "MTplMjg0MmE2MDFjYWY",
+        "sourceId": "e2842a601caf",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج",
+          "description": "پایگاه بسیج",
+          "date": 1772578008
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-03T22:46:48.623Z",
+        "updatedAt": "2026-03-27T02:57:03.954Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.76776711706066,
+          33.896441179670276
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مقاومت بسیج مسجد",
+        "description": "پایگاه مقاومت بسیج مسجد آیت الله شریعتمداری",
+        "date": 1772551740,
+        "id": "MTo1MDRmNWM1MDljMmQ",
+        "publicId": "MTo1MDRmNWM1MDljMmQ",
+        "sourceId": "504f5c509c2d",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه مقاومت بسیج مسجد",
+          "description": "پایگاه مقاومت بسیج مسجد آیت الله شریعتمداری",
+          "date": 1772551740
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-03T15:29:00.516Z",
+        "updatedAt": "2026-03-27T02:57:03.956Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92022,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.426396616893214,
+          29.75391375143643
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهرک",
+        "description": "پایگاه بسیج شهرک گلستان",
+        "date": 1772474952,
+        "id": "MTo5MjBhNzY3NmI5ODc",
+        "publicId": "MTo5MjBhNzY3NmI5ODc",
+        "sourceId": "920a7676b987",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج شهرک",
+          "description": "پایگاه بسیج شهرک گلستان",
+          "date": 1772474952
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-02T18:09:12.118Z",
+        "updatedAt": "2026-03-27T02:57:03.957Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.95134399565177,
+          35.81254395549372
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "مسجد و پایگاه بسیج",
+        "date": 1772442131,
+        "id": "MTpmODQxNjhmMDcwZjI",
+        "publicId": "MTpmODQxNjhmMDcwZjI",
+        "sourceId": "f84168f070f2",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج",
+          "description": "مسجد و پایگاه بسیج",
+          "date": 1772442131
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-02T09:02:11.746Z",
+        "updatedAt": "2026-03-27T02:57:03.959Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.2632230763904,
+          31.133086102353232
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج مسجد",
+        "description": "پایگاه بسیج مسجد کوثر",
+        "date": 1771938575,
+        "id": "MTo2MTgxOWRmNGMyN2I",
+        "publicId": "MTo2MTgxOWRmNGMyN2I",
+        "sourceId": "61819df4c27b",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج مسجد",
+          "description": "پایگاه بسیج مسجد کوثر",
+          "date": 1771938575
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-24T13:09:35.618Z",
+        "updatedAt": "2026-03-27T02:57:03.960Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92025,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.50931730119572,
+          36.6583049705017
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی بسیج",
+        "description": "فرماندهی بسیج دانش آموزی زنجان به همراه دو ساختمان بالا و پایین",
+        "date": 1771804826,
+        "id": "MTpjMWM0YTU4OTdmOGQ",
+        "publicId": "MTpjMWM0YTU4OTdmOGQ",
+        "sourceId": "c1c4a5897f8d",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "فرماندهی بسیج",
+          "description": "فرماندهی بسیج دانش آموزی زنجان به همراه دو ساختمان بالا و پایین",
+          "date": 1771804826
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-23T00:00:26.862Z",
+        "updatedAt": "2026-03-27T02:57:03.962Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92026,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.58905980933716,
+          35.40381559255228
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "بسیج برادران",
+        "date": 1771183562,
+        "id": "MTphYTM0MzE0NmFiODY",
+        "publicId": "MTphYTM0MzE0NmFiODY",
+        "sourceId": "aa343146ab86",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج",
+          "description": "بسیج برادران",
+          "date": 1771183562
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-15T19:26:02.299Z",
+        "updatedAt": "2026-03-27T02:57:03.963Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92027,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.52648558251806,
+          34.770773762512135
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج مسجد",
+        "description": "پایگاه بسیج مسجد ولایت",
+        "date": 1771111255,
+        "id": "MTo4YzE3MDc4NzBlODY",
+        "publicId": "MTo4YzE3MDc4NzBlODY",
+        "sourceId": "8c1707870e86",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه بسیج مسجد",
+          "description": "پایگاه بسیج مسجد ولایت",
+          "date": 1771111255
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-14T23:20:55.786Z",
+        "updatedAt": "2026-03-27T02:57:03.965Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1996,
+    "total": 2021,
     "layerId": 1,
     "clustered": false,
     "simplified": false

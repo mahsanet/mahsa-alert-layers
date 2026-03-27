@@ -9478,10 +9478,266 @@
         "createdAt": "2026-03-26T22:58:02.962Z",
         "updatedAt": "2026-03-26T22:58:02.962Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 91995,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.11526626551958,
+          37.18174244778754
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع بسیج",
+        "description": "۶.۱.۱۴۰۵ ساعت ۱۴:۰۰ لنگرود. روستای دیوشل.حوزه مقاومت حضرت قائم محل تجمع بسیجی ها.  محل جلسات بسیجی ها محلات مختلف محل برنامه ریزی سرکوب ۱۸ و ۱۹ دی باعث ایجاد خفقان شدید در منطقه با بی‌رحمی و شکنجه شدید و ایجاد رعب و وحشت زیاد",
+        "date": 1774522742,
+        "id": "MzY6YTkwOTFhZWI3OTIz",
+        "publicId": "MzY6YTkwOTFhZWI3OTIz",
+        "sourceId": "a9091aeb7923",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل تجمع بسیج",
+          "description": "۶.۱.۱۴۰۵ ساعت ۱۴:۰۰ لنگرود. روستای دیوشل.حوزه مقاومت حضرت قائم محل تجمع بسیجی ها.  محل جلسات بسیجی ها محلات مختلف محل برنامه ریزی سرکوب ۱۸ و ۱۹ دی باعث ایجاد خفقان شدید در منطقه با بی‌رحمی و شکنجه شدید و ایجاد رعب و وحشت زیاد",
+          "date": 1774522742
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-26T10:59:02.780Z",
+        "updatedAt": "2026-03-27T02:53:37.254Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.261030924727066,
+          35.750389272879985
+        ]
+      },
+      "properties": {
+        "name:fa": "محل استقرار بسیج",
+        "description": "محل استقرار بسیج",
+        "date": 1774447785,
+        "id": "MzY6OWM4OWQwYjkzYzk5",
+        "publicId": "MzY6OWM4OWQwYjkzYzk5",
+        "sourceId": "9c89d0b93c99",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل استقرار بسیج",
+          "description": "محل استقرار بسیج",
+          "date": 1774447785
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-25T14:09:45.916Z",
+        "updatedAt": "2026-03-27T02:53:37.264Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.04817102833468,
+          33.49468865933058
+        ]
+      },
+      "properties": {
+        "name:fa": "مخفیگاه بسیج",
+        "description": "بسیجی ها در یک خانه قایم شده بودن",
+        "date": 1774374490,
+        "id": "MzY6ZGMxYzE1YTJiYzQ4",
+        "publicId": "MzY6ZGMxYzE1YTJiYzQ4",
+        "sourceId": "dc1c15a2bc48",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مخفیگاه بسیج",
+          "description": "بسیجی ها در یک خانه قایم شده بودن",
+          "date": 1774374490
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-24T17:48:10.094Z",
+        "updatedAt": "2026-03-27T02:53:37.265Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37947064534748,
+          35.7265991127543
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی بسیج",
+        "description": "ایست بازرسی بسیج الان",
+        "date": 1774338236,
+        "id": "MzY6MGRlODJiNWUwYWQ3",
+        "publicId": "MzY6MGRlODJiNWUwYWQ3",
+        "sourceId": "0de82b5e0ad7",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ایست بازرسی بسیج",
+          "description": "ایست بازرسی بسیج الان",
+          "date": 1774338236
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-24T07:43:56.502Z",
+        "updatedAt": "2026-03-27T02:53:37.267Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.863427973897615,
+          34.630268306165874
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع بسیج",
+        "description": "محل جمع شدن بسیجی ها",
+        "date": 1773505053,
+        "id": "MzY6MTkxYzkzMjhlYzk2",
+        "publicId": "MzY6MTkxYzkzMjhlYzk2",
+        "sourceId": "191c9328ec96",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل تجمع بسیج",
+          "description": "محل جمع شدن بسیجی ها",
+          "date": 1773505053
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T16:17:33.046Z",
+        "updatedAt": "2026-03-27T02:53:37.268Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.76121430236162,
+          35.761379957044525
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع بسیج",
+        "description": "پایکاه بسیج فعال شهرک ولی غصر ، محل تجمع لباس شخصی ها",
+        "date": 1771704400,
+        "id": "MzY6ZTM5ZWI4NDg0YWM2",
+        "publicId": "MzY6ZTM5ZWI4NDg0YWM2",
+        "sourceId": "e39eb8484ac6",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل تجمع بسیج",
+          "description": "پایکاه بسیج فعال شهرک ولی غصر ، محل تجمع لباس شخصی ها",
+          "date": 1771704400
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-21T20:06:40.675Z",
+        "updatedAt": "2026-03-27T02:53:37.271Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.774668369929884,
+          35.75025742610478
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع بسیج",
+        "description": "پایگاه بسیج راه اهن فیروزکوه محل تجمع سرکوبگران در تجمعات دی ماه 1404",
+        "date": 1771704067,
+        "id": "MzY6Mzc1MDQwMzAzZmNm",
+        "publicId": "MzY6Mzc1MDQwMzAzZmNm",
+        "sourceId": "375040303fcf",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "محل تجمع بسیج",
+          "description": "پایگاه بسیج راه اهن فیروزکوه محل تجمع سرکوبگران در تجمعات دی ماه 1404",
+          "date": 1771704067
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-21T20:01:07.307Z",
+        "updatedAt": "2026-03-27T02:53:37.273Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41942887463088,
+          35.70231946658315
+        ]
+      },
+      "properties": {
+        "name:fa": "مکان مخفی بسیج",
+        "description": "مکان مخفی بسیج در م فردوسی",
+        "date": 1771239869,
+        "id": "MzY6ODEzNmVhMWIyYTI5",
+        "publicId": "MzY6ODEzNmVhMWIyYTI5",
+        "sourceId": "8136ea1b2a29",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مکان مخفی بسیج",
+          "description": "مکان مخفی بسیج در م فردوسی",
+          "date": 1771239869
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-16T11:04:29.659Z",
+        "updatedAt": "2026-03-27T02:53:37.275Z"
+      }
     }
   ],
   "metadata": {
-    "total": 265,
+    "total": 273,
     "layerId": 36,
     "clustered": false,
     "simplified": false

@@ -7425,10 +7425,3594 @@
         "createdAt": "2026-03-26T22:53:14.906Z",
         "updatedAt": "2026-03-26T22:53:14.906Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 91883,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.412170044424585,
+          35.73791675503017
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس امنیت",
+        "description": "پلیس امنیت وزرا، محل کشته شدن مهسا امینی",
+        "date": 1774571854,
+        "id": "MjpkMmUxODQ3OWQ0OWE",
+        "publicId": "MjpkMmUxODQ3OWQ0OWE",
+        "sourceId": "d2e18479d49a",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پلیس امنیت",
+          "description": "پلیس امنیت وزرا، محل کشته شدن مهسا امینی",
+          "date": 1774571854
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-27T00:37:34.273Z",
+        "updatedAt": "2026-03-27T02:17:41.247Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91884,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.91847864935622,
+          33.51136287276063
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اطلاعات نظنز- گزارش محلی",
+        "date": 1774182384,
+        "id": "Mjo4ZGMxOTdjMDAyMjg",
+        "publicId": "Mjo4ZGMxOTdjMDAyMjg",
+        "sourceId": "8dc197c00228",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اطلاعات نظنز- گزارش محلی",
+          "date": 1774182384
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-22T12:26:24.162Z",
+        "updatedAt": "2026-03-27T02:17:41.266Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.98818922493848,
+          33.689443522522595
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "محل جلسه بسیج و سران سپاه شبانه . اطلاعات محلی",
+        "date": 1774181190,
+        "id": "MjowOTU2YjlhOTE0ZTM",
+        "publicId": "MjowOTU2YjlhOTE0ZTM",
+        "sourceId": "0956b9a914e3",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "محل جلسه بسیج و سران سپاه شبانه . اطلاعات محلی",
+          "date": 1774181190
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-22T12:06:30.484Z",
+        "updatedAt": "2026-03-27T02:17:41.268Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91886,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.187022045200706,
+          30.55004845099033
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "سازمان اطلاعات بندر مندر ماهشهر",
+        "date": 1774164997,
+        "id": "Mjo4NzY2OTNmZjI4ZmE",
+        "publicId": "Mjo4NzY2OTNmZjI4ZmE",
+        "sourceId": "876693ff28fa",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "سازمان اطلاعات بندر مندر ماهشهر",
+          "date": 1774164997
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-22T07:36:37.145Z",
+        "updatedAt": "2026-03-27T02:17:41.269Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46910864237674,
+          35.690508197370306
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "حفاظت اطلاعات نهاجا",
+        "date": 1773692746,
+        "id": "MjowZDVlZWExNDdmZmY",
+        "publicId": "MjowZDVlZWExNDdmZmY",
+        "sourceId": "0d5eea147fff",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "حفاظت اطلاعات نهاجا",
+          "date": 1773692746
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T20:25:46.406Z",
+        "updatedAt": "2026-03-27T02:17:41.271Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.47937039692482,
+          35.70339085647876
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "فرماندهی اطلاعات شناسایی نهاجا",
+        "date": 1773692654,
+        "id": "MjoyOGEwZGNjZmZmZDM",
+        "publicId": "MjoyOGEwZGNjZmZmZDM",
+        "sourceId": "28a0dccfffd3",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "فرماندهی اطلاعات شناسایی نهاجا",
+          "date": 1773692654
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T20:24:14.623Z",
+        "updatedAt": "2026-03-27T02:17:41.272Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.698979984034025,
+          32.737503625425546
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "بازداشتگاه و زندان انفرادی اطلاعات سپاه",
+        "date": 1773681240,
+        "id": "MjphYzNjZDBlODcwY2M",
+        "publicId": "MjphYzNjZDBlODcwY2M",
+        "sourceId": "ac3cd0e870cc",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "بازداشتگاه و زندان انفرادی اطلاعات سپاه",
+          "date": 1773681240
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T17:14:00.823Z",
+        "updatedAt": "2026-03-27T02:17:41.274Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.46256680032505,
+          36.32433318746615
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "اطلاعات سپاه",
+        "date": 1773649212,
+        "id": "MjoyMGI0Y2Q3NmYxY2I",
+        "publicId": "MjoyMGI0Y2Q3NmYxY2I",
+        "sourceId": "20b4cd76f1cb",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "اطلاعات سپاه",
+          "date": 1773649212
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T08:20:12.282Z",
+        "updatedAt": "2026-03-27T02:17:41.275Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.97235520166754,
+          35.82648437237374
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "طبق یک صحبت کوتاه با یکی از دوستان در ایران که ساکن همین منطقه هست و از محل کارش داخل مجموعه ورزشی سپاه رو میبیند ،متوجه شدم که داخل این محوطه تجهیزاتی نگهداری میشه که روی آنها با کاور پوشانده شده. اما از اینکه اون تجهیزات چی هستند و کی منتقل شدند و… هیچ اطلاعاتی نداریم. تاریخ ۱۵.۰۳.۲۰۲۶",
+        "date": 1773589507,
+        "id": "Mjo5ZjlhMzA1YWY4OTM",
+        "publicId": "Mjo5ZjlhMzA1YWY4OTM",
+        "sourceId": "9f9a305af893",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "طبق یک صحبت کوتاه با یکی از دوستان در ایران که ساکن همین منطقه هست و از محل کارش داخل مجموعه ورزشی سپاه رو میبیند ،متوجه شدم که داخل این محوطه تجهیزاتی نگهداری میشه که روی آنها با کاور پوشانده شده. اما از اینکه اون تجهیزات چی هستند و کی منتقل شدند و… هیچ اطلاعاتی نداریم. تاریخ ۱۵.۰۳.۲۰۲۶",
+          "date": 1773589507
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T15:45:07.644Z",
+        "updatedAt": "2026-03-27T02:17:41.277Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.42923909174422,
+          35.71829618629127
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "نقشه دقیق نمیزاره مشخص کنم ساختمون رو  ، انتهای بن بست سینا ، یه خونه امن اطلاعات هست که  به درب از سینا داره یه درب از خ بهار شیراز بغل اداره پست . و این مکان به مجتمع بلس و منبع ابی که همونجاست.",
+        "date": 1773578665,
+        "id": "MjowY2Y4NjNiNGNmNmI",
+        "publicId": "MjowY2Y4NjNiNGNmNmI",
+        "sourceId": "0cf863b4cf6b",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "نقشه دقیق نمیزاره مشخص کنم ساختمون رو  ، انتهای بن بست سینا ، یه خونه امن اطلاعات هست که  به درب از سینا داره یه درب از خ بهار شیراز بغل اداره پست . و این مکان به مجتمع بلس و منبع ابی که همونجاست.",
+          "date": 1773578665
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:44:25.130Z",
+        "updatedAt": "2026-03-27T02:17:41.280Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91893,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38213780472702,
+          35.63209681817422
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز امنیتی",
+        "description": "یگان امنیتی موتور سواران بسیج هست پشت ناحیه بسیج ابوذر تابلو هم داره سردرش",
+        "date": 1773513247,
+        "id": "Mjo3Mjk3NjcyNGNjNzI",
+        "publicId": "Mjo3Mjk3NjcyNGNjNzI",
+        "sourceId": "72976724cc72",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز امنیتی",
+          "description": "یگان امنیتی موتور سواران بسیج هست پشت ناحیه بسیج ابوذر تابلو هم داره سردرش",
+          "date": 1773513247
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T18:34:07.580Z",
+        "updatedAt": "2026-03-27T02:17:41.282Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91894,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.69931181952211,
+          37.44164823549515
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اداره اطلاعات",
+        "date": 1773477876,
+        "id": "Mjo4NDQxMzc3MjQwN2M",
+        "publicId": "Mjo4NDQxMzc3MjQwN2M",
+        "sourceId": "84413772407c",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اداره اطلاعات",
+          "date": 1773477876
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T08:44:36.055Z",
+        "updatedAt": "2026-03-27T02:17:41.283Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.68666063365387,
+          38.39453357203098
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "خانه امن اطلاعات سپاه که تحت عنوان (امر به معروف و نهی از منکر) در بین مردم مشگین شهر شناخته میشه. محلی برای بازجویی و شکنجه بازداشتیهاییه که اسمشون در هیچ پرونده و دادگاهی ثبت نشده",
+        "date": 1773457126,
+        "id": "MjpiOTJjOWU1YzRhZDg",
+        "publicId": "MjpiOTJjOWU1YzRhZDg",
+        "sourceId": "b92c9e5c4ad8",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "خانه امن اطلاعات سپاه که تحت عنوان (امر به معروف و نهی از منکر) در بین مردم مشگین شهر شناخته میشه. محلی برای بازجویی و شکنجه بازداشتیهاییه که اسمشون در هیچ پرونده و دادگاهی ثبت نشده",
+          "date": 1773457126
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T02:58:46.770Z",
+        "updatedAt": "2026-03-27T02:17:41.285Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.68217173019562,
+          38.411690522315155
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه مشگین",
+        "description": "بازداشتگاه مخفی اطلاعات سپاه مشگین‌شهر که بازداشتی های اخیر خیزش اردبیل و مشگین رو در این مکان شکنجه و به زور متهم میکردن که چندساله فعاله و الان هم فعاله",
+        "date": 1773456510,
+        "id": "MjpjNDU2ZmVhNjNjZTY",
+        "publicId": "MjpjNDU2ZmVhNjNjZTY",
+        "sourceId": "c456fea63ce6",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه مشگین",
+          "description": "بازداشتگاه مخفی اطلاعات سپاه مشگین‌شهر که بازداشتی های اخیر خیزش اردبیل و مشگین رو در این مکان شکنجه و به زور متهم میکردن که چندساله فعاله و الان هم فعاله",
+          "date": 1773456510
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T02:48:30.726Z",
+        "updatedAt": "2026-03-27T02:17:41.286Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.683641540137614,
+          38.39829450802972
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه مشگین",
+        "description": "مرکز مخفی رصد سایبری اطلاعات سپاه مشگین شهر که توسط دو نفر در پوشش فروشنده فروشگاه کامپیوتری، اقدام به نصب نرم افزار روی لپتاپ و کامپیوتر و اپلیکیشن روی موبایل تبلت و تلویزیون های هوشمند مردم مشگین شهر میکنن و از طریق اون اپلیکیشن ها به دیتاهای تبادل شده دست پیدا کرده و همچنین با ضبط مخفی و شنود مردم از طریق موبایل یا تلویزیون هاشون، اقدام به دستگیر کردن مردم بیچاره میکنن. در جریان خیزشهای اخیر مردم مشگین شهر، بسیاری از جوانان و مردم توسط این مرکز شناسایی و دستگیر شدن",
+        "date": 1773456342,
+        "id": "MjpkOWU3ZTVkZmQ0OGQ",
+        "publicId": "MjpkOWU3ZTVkZmQ0OGQ",
+        "sourceId": "d9e7e5dfd48d",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه مشگین",
+          "description": "مرکز مخفی رصد سایبری اطلاعات سپاه مشگین شهر که توسط دو نفر در پوشش فروشنده فروشگاه کامپیوتری، اقدام به نصب نرم افزار روی لپتاپ و کامپیوتر و اپلیکیشن روی موبایل تبلت و تلویزیون های هوشمند مردم مشگین شهر میکنن و از طریق اون اپلیکیشن ها به دیتاهای تبادل شده دست پیدا کرده و همچنین با ضبط مخفی و شنود مردم از طریق موبایل یا تلویزیون هاشون، اقدام به دستگیر کردن مردم بیچاره میکنن. در جریان خیزشهای اخیر مردم مشگین شهر، بسیاری از جوانان و مردم توسط این مرکز شناسایی و دستگیر شدن",
+          "date": 1773456342
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T02:45:42.018Z",
+        "updatedAt": "2026-03-27T02:17:41.288Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.461392150987336,
+          35.73293556098511
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "ساختمان اطلاعات . بازداشتگاه مخفی اطلاعات سپاه",
+        "date": 1773441098,
+        "id": "MjoxOWQ5NzMzM2Y4YjI",
+        "publicId": "MjoxOWQ5NzMzM2Y4YjI",
+        "sourceId": "19d97333f8b2",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "ساختمان اطلاعات . بازداشتگاه مخفی اطلاعات سپاه",
+          "date": 1773441098
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-13T22:31:38.050Z",
+        "updatedAt": "2026-03-27T02:17:41.289Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2865642156662,
+          37.156227492778854
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "یک مکان فوق امنیتی که به جز چند کارمند اطلاعاتی. هیچ کس حتی اطلاعاتی های شهر هم واردش نمیشن. به ظاهر دوتا خونه کوچیکه اما گاهی از استان  یا پلاک تهران تعدادی ماشین میان و میرن. هرچیزی هست زیرشه و فقط برای افراد رده بالاست. امنیتی ترین مکان شهر رودسر",
+        "date": 1773429393,
+        "id": "Mjo1NDViZTgzZmUwZjM",
+        "publicId": "Mjo1NDViZTgzZmUwZjM",
+        "sourceId": "545be83fe0f3",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "یک مکان فوق امنیتی که به جز چند کارمند اطلاعاتی. هیچ کس حتی اطلاعاتی های شهر هم واردش نمیشن. به ظاهر دوتا خونه کوچیکه اما گاهی از استان  یا پلاک تهران تعدادی ماشین میان و میرن. هرچیزی هست زیرشه و فقط برای افراد رده بالاست. امنیتی ترین مکان شهر رودسر",
+          "date": 1773429393
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-13T19:16:33.499Z",
+        "updatedAt": "2026-03-27T02:17:41.291Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.414507967449424,
+          35.70367617512872
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اطلاعات قوه قضاییه",
+        "date": 1773423368,
+        "id": "MjoxY2EyNWQ5M2JkZDk",
+        "publicId": "MjoxY2EyNWQ5M2JkZDk",
+        "sourceId": "1ca25d93bdd9",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اطلاعات قوه قضاییه",
+          "date": 1773423368
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-13T17:36:08.558Z",
+        "updatedAt": "2026-03-27T02:17:41.292Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.988305877174156,
+          35.7593109266479
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "ساختمان قدیم شهرداری الان تغییر کاربری داده و شده محل حفاظت اطلاعات استان البرز",
+        "date": 1773406590,
+        "id": "Mjo0NzExYjE1ZjRlYWQ",
+        "publicId": "Mjo0NzExYjE1ZjRlYWQ",
+        "sourceId": "4711b15f4ead",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "ساختمان قدیم شهرداری الان تغییر کاربری داده و شده محل حفاظت اطلاعات استان البرز",
+          "date": 1773406590
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-13T12:56:30.322Z",
+        "updatedAt": "2026-03-27T02:17:41.294Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.22072604122977,
+          29.268351530006285
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه امن اطلاعات",
+        "description": "سلام وقت بخیر، اینجا خانه امن اطلاعات، یک اداره خیلی بزرگ که روی هیچ نقشه ای هم متاسفانه نیست. لطفاً اضافه ش کنید",
+        "date": 1773390694,
+        "id": "Mjo1MTQ1MWJmNTYwMDI",
+        "publicId": "Mjo1MTQ1MWJmNTYwMDI",
+        "sourceId": "51451bf56002",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "خانه امن اطلاعات",
+          "description": "سلام وقت بخیر، اینجا خانه امن اطلاعات، یک اداره خیلی بزرگ که روی هیچ نقشه ای هم متاسفانه نیست. لطفاً اضافه ش کنید",
+          "date": 1773390694
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-13T08:31:34.006Z",
+        "updatedAt": "2026-03-27T02:17:41.295Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58457590060934,
+          36.286723702271786
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه امن اطلاعات",
+        "description": "موسسه اوج، عملا به نظر یک خانه امن اطلاعات است.",
+        "date": 1773385883,
+        "id": "Mjo1ZWUyODFhYTZmZGE",
+        "publicId": "Mjo1ZWUyODFhYTZmZGE",
+        "sourceId": "5ee281aa6fda",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "خانه امن اطلاعات",
+          "description": "موسسه اوج، عملا به نظر یک خانه امن اطلاعات است.",
+          "date": 1773385883
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-13T07:11:23.654Z",
+        "updatedAt": "2026-03-27T02:17:41.297Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.038506445475804,
+          36.5534253658103
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه امن اطلاعات",
+        "description": "خانه امن اطلاعات",
+        "date": 1773381998,
+        "id": "MjplM2MzMWI3N2MzYTQ",
+        "publicId": "MjplM2MzMWI3N2MzYTQ",
+        "sourceId": "e3c31b77c3a4",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "خانه امن اطلاعات",
+          "description": "خانه امن اطلاعات",
+          "date": 1773381998
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-13T06:06:38.446Z",
+        "updatedAt": "2026-03-27T02:17:41.298Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.037342716729796,
+          36.554991330477606
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اطلاعات استان مازندران",
+        "date": 1773381340,
+        "id": "MjoyZDczOTExOTI4ZjQ",
+        "publicId": "MjoyZDczOTExOTI4ZjQ",
+        "sourceId": "2d73911928f4",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اطلاعات استان مازندران",
+          "date": 1773381340
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-13T05:55:40.285Z",
+        "updatedAt": "2026-03-27T02:17:41.300Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91906,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.87488346586221,
+          32.32430006394023
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "خانه ی سرکوبگر.اطلاعاتی.مخبر",
+        "date": 1773344882,
+        "id": "Mjo5MDhiMDA0YmIyY2M",
+        "publicId": "Mjo5MDhiMDA0YmIyY2M",
+        "sourceId": "908b004bb2cc",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "خانه ی سرکوبگر.اطلاعاتی.مخبر",
+          "date": 1773344882
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-12T19:48:02.051Z",
+        "updatedAt": "2026-03-27T02:17:41.301Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.223470760443746,
+          29.266962902570185
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "ساختمان اطلاعات  برخورد موشک الآن",
+        "date": 1773331726,
+        "id": "MjoyYmI0MmE4NjU3NjM",
+        "publicId": "MjoyYmI0MmE4NjU3NjM",
+        "sourceId": "2bb42a865763",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "ساختمان اطلاعات  برخورد موشک الآن",
+          "date": 1773331726
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-12T16:08:46.335Z",
+        "updatedAt": "2026-03-27T02:17:41.303Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.869600898380384,
+          34.45843075745013
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اداره اطلاعات و شکنجه گاه افراد سیاسی و ضد این رژیم و دارای بازداشتگاه زیر زمین و ترسناک",
+        "date": 1773304967,
+        "id": "MjphYWFlODA0N2RlMWQ",
+        "publicId": "MjphYWFlODA0N2RlMWQ",
+        "sourceId": "aaae8047de1d",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اداره اطلاعات و شکنجه گاه افراد سیاسی و ضد این رژیم و دارای بازداشتگاه زیر زمین و ترسناک",
+          "date": 1773304967
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-12T08:42:47.730Z",
+        "updatedAt": "2026-03-27T02:17:41.305Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.03799013003095,
+          36.55491467842883
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "مرکز اطلاعات مازندران",
+        "date": 1773243000,
+        "id": "MjoxYmVjOTkzMDgwZDE",
+        "publicId": "MjoxYmVjOTkzMDgwZDE",
+        "sourceId": "1bec993080d1",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "مرکز اطلاعات مازندران",
+          "date": 1773243000
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-11T15:30:00.444Z",
+        "updatedAt": "2026-03-27T02:17:41.306Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91910,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.639377728245705,
+          33.88817839263555
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه ارشد",
+        "description": "درود این مکان از ساختمانهای اطلاعات برون مرزی و و سپاه قدس و خیلی مهم است و این بلوک همه مال سپاه است مخصوصا ساختمان وسطی که مقامات اطلاعات سپاه ارشد نقشه میریزند من دیدم خودم",
+        "date": 1773234142,
+        "id": "MjozMDMwNzU5NGVjMDk",
+        "publicId": "MjozMDMwNzU5NGVjMDk",
+        "sourceId": "30307594ec09",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه ارشد",
+          "description": "درود این مکان از ساختمانهای اطلاعات برون مرزی و و سپاه قدس و خیلی مهم است و این بلوک همه مال سپاه است مخصوصا ساختمان وسطی که مقامات اطلاعات سپاه ارشد نقشه میریزند من دیدم خودم",
+          "date": 1773234142
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-11T13:02:22.734Z",
+        "updatedAt": "2026-03-27T02:17:41.308Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91911,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.101917329658164,
+          26.522637232895377
+        ]
+      },
+      "properties": {
+        "name:fa": "امنیت اخلاقی",
+        "description": "امنیت اخلاقی",
+        "date": 1773232942,
+        "id": "MjpmYWViZDRmMjgyZTU",
+        "publicId": "MjpmYWViZDRmMjgyZTU",
+        "sourceId": "faebd4f282e5",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "امنیت اخلاقی",
+          "description": "امنیت اخلاقی",
+          "date": 1773232942
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-11T12:42:22.638Z",
+        "updatedAt": "2026-03-27T02:17:41.309Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.11969388157215,
+          26.524794068753906
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "سالن ورزشی جهت استفاده شکنجه مردم و نگهداری اسناد و مدارک و اتاق هایی داره که برای اطلاعات و شکنجه استفاده میشه",
+        "date": 1773232763,
+        "id": "MjpmNWEzY2E5NjViZWM",
+        "publicId": "MjpmNWEzY2E5NjViZWM",
+        "sourceId": "f5a3ca965bec",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "سالن ورزشی جهت استفاده شکنجه مردم و نگهداری اسناد و مدارک و اتاق هایی داره که برای اطلاعات و شکنجه استفاده میشه",
+          "date": 1773232763
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-11T12:39:23.441Z",
+        "updatedAt": "2026-03-27T02:17:41.311Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.11989093141446,
+          26.525767465588686
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "ساختمان اطلاعات و عملیات",
+        "date": 1773232702,
+        "id": "MjowYWY1MjY3ODk0NTY",
+        "publicId": "MjowYWY1MjY3ODk0NTY",
+        "sourceId": "0af526789456",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "ساختمان اطلاعات و عملیات",
+          "date": 1773232702
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-11T12:38:22.842Z",
+        "updatedAt": "2026-03-27T02:17:41.312Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.60970520445369,
+          37.28427989214164
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "ورودی و کوچه منتهی به سازمان اطلاعات سپاه",
+        "date": 1773223743,
+        "id": "MjphZWYzNTc5YWRiYmQ",
+        "publicId": "MjphZWYzNTc5YWRiYmQ",
+        "sourceId": "aef3579adbbd",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "ورودی و کوچه منتهی به سازمان اطلاعات سپاه",
+          "date": 1773223743
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-11T10:09:03.272Z",
+        "updatedAt": "2026-03-27T02:17:41.314Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.609299723641726,
+          37.284755956796914
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "مدرسه کنار سازمان اطلاعات سپاه",
+        "date": 1773223526,
+        "id": "MjphOTY4ZGRkY2I4Yzc",
+        "publicId": "MjphOTY4ZGRkY2I4Yzc",
+        "sourceId": "a968dddcb8c7",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "مدرسه کنار سازمان اطلاعات سپاه",
+          "date": 1773223526
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-11T10:05:26.234Z",
+        "updatedAt": "2026-03-27T02:17:41.315Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91916,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.16048630531256,
+          30.217814017250163
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز امنیتی",
+        "description": "مخفیگاه نیرو های امنیتی در زمان اعتراضات",
+        "date": 1773148149,
+        "id": "MjowNmQ2YWRhYjllNmQ",
+        "publicId": "MjowNmQ2YWRhYjllNmQ",
+        "sourceId": "06d6adab9e6d",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز امنیتی",
+          "description": "مخفیگاه نیرو های امنیتی در زمان اعتراضات",
+          "date": 1773148149
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-10T13:09:09.438Z",
+        "updatedAt": "2026-03-27T02:17:41.317Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.384336587104855,
+          35.68427192181842
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "مخفیگاه اطلاعات سپاه و محل شکنجه و بازجویی",
+        "date": 1773131999,
+        "id": "MjpmOTU2ZjBmN2VlODc",
+        "publicId": "MjpmOTU2ZjBmN2VlODc",
+        "sourceId": "f956f0f7ee87",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "مخفیگاه اطلاعات سپاه و محل شکنجه و بازجویی",
+          "date": 1773131999
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-10T08:39:59.975Z",
+        "updatedAt": "2026-03-27T02:17:41.318Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91918,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.86477916865448,
+          34.62863677523207
+        ]
+      },
+      "properties": {
+        "name:fa": "وزارت اطلاعات قم",
+        "description": "ساختمان مخفی وزارت اطلاعات قم - آموزش عقیدتی سیاسی طلاب حوزه علمیه بسیار مهم",
+        "date": 1773109988,
+        "id": "MjowNDRiZTVmZDNmODM",
+        "publicId": "MjowNDRiZTVmZDNmODM",
+        "sourceId": "044be5fd3f83",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "وزارت اطلاعات قم",
+          "description": "ساختمان مخفی وزارت اطلاعات قم - آموزش عقیدتی سیاسی طلاب حوزه علمیه بسیار مهم",
+          "date": 1773109988
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-10T02:33:08.343Z",
+        "updatedAt": "2026-03-27T02:17:41.320Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91919,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.87337392614822,
+          34.639040725350256
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه پاسداران استان",
+        "description": "ساختمان ستاد خبری حفاظت اطلاعات سپاه پاسداران استان قم",
+        "date": 1773109245,
+        "id": "MjphY2QzY2Y5NGIzZjk",
+        "publicId": "MjphY2QzY2Y5NGIzZjk",
+        "sourceId": "acd3cf94b3f9",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه پاسداران استان",
+          "description": "ساختمان ستاد خبری حفاظت اطلاعات سپاه پاسداران استان قم",
+          "date": 1773109245
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-10T02:20:45.645Z",
+        "updatedAt": "2026-03-27T02:17:41.321Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91920,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.20601295274679,
+          36.5033388389205
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "مدرسه شبانه روزی دخترانه فاطمه  ( در حال حاضر نیروهای سپاه پاسداران و اطلاعات در این ساختمان پناه گرفتن)",
+        "date": 1773098804,
+        "id": "Mjo5NGQzMDczNGZmNjg",
+        "publicId": "Mjo5NGQzMDczNGZmNjg",
+        "sourceId": "94d30734ff68",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "مدرسه شبانه روزی دخترانه فاطمه  ( در حال حاضر نیروهای سپاه پاسداران و اطلاعات در این ساختمان پناه گرفتن)",
+          "date": 1773098804
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-09T23:26:44.337Z",
+        "updatedAt": "2026-03-27T02:17:41.323Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.69894206125551,
+          32.73763741827487
+        ]
+      },
+      "properties": {
+        "name:fa": "سازمان اطلاعات سپاه انفرادی",
+        "description": "بازداشتگاه سازمان اطلاعات سپاه انفرادی بازداشت شدگان امنیتی و سیاسی (متمایز از زندان کانون و زنان و مالی است.)",
+        "date": 1773048266,
+        "id": "MjoyMzI5MmFhYmRjMzk",
+        "publicId": "MjoyMzI5MmFhYmRjMzk",
+        "sourceId": "23292aabdc39",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "سازمان اطلاعات سپاه انفرادی",
+          "description": "بازداشتگاه سازمان اطلاعات سپاه انفرادی بازداشت شدگان امنیتی و سیاسی (متمایز از زندان کانون و زنان و مالی است.)",
+          "date": 1773048266
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-09T09:24:26.273Z",
+        "updatedAt": "2026-03-27T02:17:41.324Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.96684795635218,
+          34.50129605612071
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اطلاعات کنگاور",
+        "date": 1773001144,
+        "id": "Mjo2Yjk3NmQ3MWQzNjQ",
+        "publicId": "Mjo2Yjk3NmQ3MWQzNjQ",
+        "sourceId": "6b976d71d364",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اطلاعات کنگاور",
+          "date": 1773001144
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-08T20:19:04.141Z",
+        "updatedAt": "2026-03-27T02:17:41.326Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.49379419120007,
+          36.68722498978525
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات استان هست،",
+        "description": "کل این محوطه با اون محوطه زرد رنگی که مشخص کردین مجموعه اداره اطلاعات استان هست، که از غرب به دادگستری و از شرق به دادسرا هم چسبیده و راه داره. اگر لازم باشه مردم مراجعه کنند (برای ارائه توضیحات) باید از این درب مشرف به اتوبان ۲۲ بهمن مراجعه کنند، اون درب که شمال مجموعه هست و روبروی مرکز آتش‌نشانی درب کارمندان هست.",
+        "date": 1772981769,
+        "id": "MjpjNjRkOTg0Njc0MzE",
+        "publicId": "MjpjNjRkOTg0Njc0MzE",
+        "sourceId": "c64d98467431",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات استان هست،",
+          "description": "کل این محوطه با اون محوطه زرد رنگی که مشخص کردین مجموعه اداره اطلاعات استان هست، که از غرب به دادگستری و از شرق به دادسرا هم چسبیده و راه داره. اگر لازم باشه مردم مراجعه کنند (برای ارائه توضیحات) باید از این درب مشرف به اتوبان ۲۲ بهمن مراجعه کنند، اون درب که شمال مجموعه هست و روبروی مرکز آتش‌نشانی درب کارمندان هست.",
+          "date": 1772981769
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-08T14:56:09.364Z",
+        "updatedAt": "2026-03-27T02:17:41.328Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0632777077538,
+          38.4681731014808
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه شهرستان",
+        "description": "حفاظت اطلاعات سپاه شهرستان اهر",
+        "date": 1772908741,
+        "id": "MjphMzM0ODg1YjllYjM",
+        "publicId": "MjphMzM0ODg1YjllYjM",
+        "sourceId": "a334885b9eb3",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه شهرستان",
+          "description": "حفاظت اطلاعات سپاه شهرستان اهر",
+          "date": 1772908741
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-07T18:39:01.761Z",
+        "updatedAt": "2026-03-27T02:17:41.329Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.67109701211865,
+          32.6445658582699
+        ]
+      },
+      "properties": {
+        "name:fa": "وزارت اطلاعات",
+        "description": "مهمانسرای وزارت اطلاعات و سپاه که در زمان دعوت از سران کشور از آن استفاده می شود. کاملا محافظت شده و در قلب مجموعه ای از پایگاه های بسیج و سپاه پاسداران انقلاب اسلامی",
+        "date": 1772894633,
+        "id": "MjpjZjk5YmJjZTcyYjA",
+        "publicId": "MjpjZjk5YmJjZTcyYjA",
+        "sourceId": "cf99bbce72b0",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "وزارت اطلاعات",
+          "description": "مهمانسرای وزارت اطلاعات و سپاه که در زمان دعوت از سران کشور از آن استفاده می شود. کاملا محافظت شده و در قلب مجموعه ای از پایگاه های بسیج و سپاه پاسداران انقلاب اسلامی",
+          "date": 1772894633
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-07T14:43:53.776Z",
+        "updatedAt": "2026-03-27T02:17:41.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91926,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.873832198343024,
+          32.015186012282726
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "اطلاعات سپاه",
+        "date": 1772887652,
+        "id": "MjphMzljNjc5MTM2MDg",
+        "publicId": "MjphMzljNjc5MTM2MDg",
+        "sourceId": "a39c67913608",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "اطلاعات سپاه",
+          "date": 1772887652
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-07T12:47:32.631Z",
+        "updatedAt": "2026-03-27T02:17:41.332Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35016391285521,
+          33.49514241802436
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اداره اطلاعات",
+        "date": 1772872297,
+        "id": "MjowNjgxOWMwYTk2ZmM",
+        "publicId": "MjowNjgxOWMwYTk2ZmM",
+        "sourceId": "06819c0a96fc",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اداره اطلاعات",
+          "date": 1772872297
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-07T08:31:37.554Z",
+        "updatedAt": "2026-03-27T02:17:41.334Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91928,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.97999968848276,
+          35.84488669883676
+        ]
+      },
+      "properties": {
+        "name:fa": "وزارت اطلاعات به",
+        "description": "یکی از مکان های وزارت اطلاعات به نام دفتر پیگیری",
+        "date": 1772842580,
+        "id": "MjoxNzM5MzQwM2M1MDA",
+        "publicId": "MjoxNzM5MzQwM2M1MDA",
+        "sourceId": "17393403c500",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "وزارت اطلاعات به",
+          "description": "یکی از مکان های وزارت اطلاعات به نام دفتر پیگیری",
+          "date": 1772842580
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-07T00:16:20.012Z",
+        "updatedAt": "2026-03-27T02:17:41.335Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91929,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.03815186448372,
+          36.55407118084436
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اطلاعات استان مازندران",
+        "date": 1772829641,
+        "id": "Mjo0OGJkMmQwZjdkZTg",
+        "publicId": "Mjo0OGJkMmQwZjdkZTg",
+        "sourceId": "48bd2d0f7de8",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اطلاعات استان مازندران",
+          "date": 1772829641
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-06T20:40:41.499Z",
+        "updatedAt": "2026-03-27T02:17:41.337Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91930,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.60259344007008,
+          30.65282546785123
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "دوربین اداره اطلاعات",
+        "date": 1772754274,
+        "id": "MjozN2UwNzI4ZTM3Mjc",
+        "publicId": "MjozN2UwNzI4ZTM3Mjc",
+        "sourceId": "37e0728e3727",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "دوربین اداره اطلاعات",
+          "date": 1772754274
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T23:44:34.673Z",
+        "updatedAt": "2026-03-27T02:17:41.339Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.993723561665604,
+          35.844161356895455
+        ]
+      },
+      "properties": {
+        "name:fa": "امنیت اخلاقی",
+        "description": "اینجا امنیت اخلاقیه دوره اعتراضاتم خیلیارو میاوردند اینجا و بعد با اتوبوس یا مینی بوس منتقل میکردن مکان های دگ که مشخص نیست کجا",
+        "date": 1772752925,
+        "id": "MjowZjcyMjM5NzgwZTI",
+        "publicId": "MjowZjcyMjM5NzgwZTI",
+        "sourceId": "0f72239780e2",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "امنیت اخلاقی",
+          "description": "اینجا امنیت اخلاقیه دوره اعتراضاتم خیلیارو میاوردند اینجا و بعد با اتوبوس یا مینی بوس منتقل میکردن مکان های دگ که مشخص نیست کجا",
+          "date": 1772752925
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T23:22:05.127Z",
+        "updatedAt": "2026-03-27T02:17:41.340Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.432373411889586,
+          35.724535989819714
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اطلاعات دولتی",
+        "date": 1772749419,
+        "id": "MjpmNjZmNjM1ZWM1OWU",
+        "publicId": "MjpmNjZmNjM1ZWM1OWU",
+        "sourceId": "f66f635ec59e",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اطلاعات دولتی",
+          "date": 1772749419
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T22:23:39.825Z",
+        "updatedAt": "2026-03-27T02:17:41.342Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.368365032285595,
+          35.732096330099296
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "مرکز اطلاعات ناجا",
+        "date": 1772748611,
+        "id": "MjoyZjljZjg5ZjdiYTY",
+        "publicId": "MjoyZjljZjg5ZjdiYTY",
+        "sourceId": "2f9cf89f7ba6",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "مرکز اطلاعات ناجا",
+          "date": 1772748611
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T22:10:11.575Z",
+        "updatedAt": "2026-03-27T02:17:41.344Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.367942867038266,
+          35.732801763766446
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "مرکز اطلاعات ناجا",
+        "date": 1772748538,
+        "id": "MjpjYjlhODMyZDAxNzg",
+        "publicId": "MjpjYjlhODMyZDAxNzg",
+        "sourceId": "cb9a832d0178",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "مرکز اطلاعات ناجا",
+          "date": 1772748538
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T22:08:58.040Z",
+        "updatedAt": "2026-03-27T02:17:41.345Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.34445522964646,
+          35.7012684522152
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "مقر مرکزی اطلاعات آزادی",
+        "date": 1772747922,
+        "id": "MjoyZGFmYTYyZmM4ZmQ",
+        "publicId": "MjoyZGFmYTYyZmM4ZmQ",
+        "sourceId": "2dafa62fc8fd",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "مقر مرکزی اطلاعات آزادی",
+          "date": 1772747922
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T21:58:42.267Z",
+        "updatedAt": "2026-03-27T02:17:41.347Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.26572885147809,
+          35.678705004066515
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "معاونت فناوری اطلاعات ناجا (مجتمع امام حسین)",
+        "date": 1772727674,
+        "id": "MjplNjA2YzVmZjExYjc",
+        "publicId": "MjplNjA2YzVmZjExYjc",
+        "sourceId": "e606c5ff11b7",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "معاونت فناوری اطلاعات ناجا (مجتمع امام حسین)",
+          "date": 1772727674
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T16:21:14.555Z",
+        "updatedAt": "2026-03-27T02:17:41.349Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50375889832878,
+          36.30333719645971
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه پاسداران انقلاب",
+        "description": "خانه امن اطلاعات سپاه پاسداران انقلاب اسلامی",
+        "date": 1772724716,
+        "id": "MjozMGJhZDEwYTUyYmM",
+        "publicId": "MjozMGJhZDEwYTUyYmM",
+        "sourceId": "30bad10a52bc",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه پاسداران انقلاب",
+          "description": "خانه امن اطلاعات سپاه پاسداران انقلاب اسلامی",
+          "date": 1772724716
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T15:31:56.268Z",
+        "updatedAt": "2026-03-27T02:17:41.350Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.404309633093845,
+          35.70186514839493
+        ]
+      },
+      "properties": {
+        "name:fa": "وزارت اطلاعات",
+        "description": "اینجا دفتر وزارت اطلاعات هست. من رو سال ۱۳۹۳ اونجا برن و بازجویی کردن. یه در بزرگ فلزی داره درست پشت بازار رضا  در خیابان برادران مظفر. بدون پلاک. فقط یک تابلوی کوچک بود که نوشته بود “ دفتر پیگیری”",
+        "date": 1772710805,
+        "id": "MjphNTJmZDNiMTA2Mzc",
+        "publicId": "MjphNTJmZDNiMTA2Mzc",
+        "sourceId": "a52fd3b10637",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "وزارت اطلاعات",
+          "description": "اینجا دفتر وزارت اطلاعات هست. من رو سال ۱۳۹۳ اونجا برن و بازجویی کردن. یه در بزرگ فلزی داره درست پشت بازار رضا  در خیابان برادران مظفر. بدون پلاک. فقط یک تابلوی کوچک بود که نوشته بود “ دفتر پیگیری”",
+          "date": 1772710805
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T11:40:05.114Z",
+        "updatedAt": "2026-03-27T02:17:41.352Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91939,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.331583309398354,
+          37.456041909944844
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "اطلاعات سپاه",
+        "date": 1772701398,
+        "id": "MjozMWJkZWExMzkyMjE",
+        "publicId": "MjozMWJkZWExMzkyMjE",
+        "sourceId": "31bdea139221",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "اطلاعات سپاه",
+          "date": 1772701398
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T09:03:18.113Z",
+        "updatedAt": "2026-03-27T02:17:41.353Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91940,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.5386852980169,
+          36.69102697747188
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اینجا هم ساختمون اطلاعات بهشهر",
+        "date": 1772689968,
+        "id": "Mjo3MmJjYmNkMDI0MDI",
+        "publicId": "Mjo3MmJjYmNkMDI0MDI",
+        "sourceId": "72bcbcd02402",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اینجا هم ساختمون اطلاعات بهشهر",
+          "date": 1772689968
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T05:52:48.477Z",
+        "updatedAt": "2026-03-27T02:17:41.355Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.38648274830999,
+          36.841026739619
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "بازداشتگاه اطلاعات",
+        "date": 1772682329,
+        "id": "MjplZjk0Y2ZiYzYyNTA",
+        "publicId": "MjplZjk0Y2ZiYzYyNTA",
+        "sourceId": "ef94cfbc6250",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "بازداشتگاه اطلاعات",
+          "date": 1772682329
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T03:45:29.438Z",
+        "updatedAt": "2026-03-27T02:17:41.356Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.59305274138268,
+          30.657752194494293
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "بازداشتگاههای اداره اطلاعات",
+        "date": 1772664380,
+        "id": "MjowODk2Mzc3MWE4N2U",
+        "publicId": "MjowODk2Mzc3MWE4N2U",
+        "sourceId": "08963771a87e",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "بازداشتگاههای اداره اطلاعات",
+          "date": 1772664380
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-04T22:46:20.441Z",
+        "updatedAt": "2026-03-27T02:17:41.358Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.504222179420395,
+          30.72750470798799
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات استان",
+        "description": "کارخانجات اداره اطلاعات استان",
+        "date": 1772663088,
+        "id": "MjpmNGY4NzA1MjllY2I",
+        "publicId": "MjpmNGY4NzA1MjllY2I",
+        "sourceId": "f4f870529ecb",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات استان",
+          "description": "کارخانجات اداره اطلاعات استان",
+          "date": 1772663088
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-04T22:24:48.826Z",
+        "updatedAt": "2026-03-27T02:17:54.009Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50192954679062,
+          36.33329256123574
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز امنیتی",
+        "description": "مرکز امنیتی نظامی  - حالت مخفی (بدون تابلو ، با دیوار بلندپایه سیم خاردار  و پوشش دوربین در بیرون)",
+        "date": 1772658459,
+        "id": "MjphOGYxNTAzNDVkZjM",
+        "publicId": "MjphOGYxNTAzNDVkZjM",
+        "sourceId": "a8f150345df3",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز امنیتی",
+          "description": "مرکز امنیتی نظامی  - حالت مخفی (بدون تابلو ، با دیوار بلندپایه سیم خاردار  و پوشش دوربین در بیرون)",
+          "date": 1772658459
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-04T21:07:39.201Z",
+        "updatedAt": "2026-03-27T02:17:54.023Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.01090478085965,
+          30.276978775080067
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اداره کل اطلاعات کرمان",
+        "date": 1772635169,
+        "id": "Mjo3YThmZDYxODhiMTA",
+        "publicId": "Mjo3YThmZDYxODhiMTA",
+        "sourceId": "7a8fd6188b10",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اداره کل اطلاعات کرمان",
+          "date": 1772635169
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-04T14:39:29.259Z",
+        "updatedAt": "2026-03-27T02:17:54.025Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91946,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.089111528855085,
+          33.630687721271215
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "مقر اطلاعات",
+        "date": 1772608707,
+        "id": "Mjo1MzlhMmRkODI2Y2U",
+        "publicId": "Mjo1MzlhMmRkODI2Y2U",
+        "sourceId": "539a2dd826ce",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "مقر اطلاعات",
+          "date": 1772608707
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-04T07:18:27.856Z",
+        "updatedAt": "2026-03-27T02:17:54.027Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.50544675846044,
+          37.46189128068167
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "مقر اطلاعات سپاه",
+        "date": 1772605542,
+        "id": "Mjo0YmZhMWMxNDkwOTY",
+        "publicId": "Mjo0YmZhMWMxNDkwOTY",
+        "sourceId": "4bfa1c149096",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "مقر اطلاعات سپاه",
+          "date": 1772605542
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-04T06:25:42.084Z",
+        "updatedAt": "2026-03-27T02:17:54.028Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.53259448379271,
+          29.648538078233102
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اداره کل اطلاعات استان فارس",
+        "date": 1772587268,
+        "id": "Mjo5NTZmNTlmZTljZDA",
+        "publicId": "Mjo5NTZmNTlmZTljZDA",
+        "sourceId": "956f59fe9cd0",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اداره کل اطلاعات استان فارس",
+          "date": 1772587268
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-04T01:21:08.256Z",
+        "updatedAt": "2026-03-27T02:17:54.030Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.86866726442207,
+          29.48671378741504
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "رادار رادیویی اطلاعات زاهدان",
+        "date": 1772563065,
+        "id": "Mjo0NDg2ZDRhYWY5ZmY",
+        "publicId": "Mjo0NDg2ZDRhYWY5ZmY",
+        "sourceId": "4486d4aaf9ff",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "رادار رادیویی اطلاعات زاهدان",
+          "date": 1772563065
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-03T18:37:45.300Z",
+        "updatedAt": "2026-03-27T02:17:54.031Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.86453,
+          36.46582
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "در خیابان امام خمینی قائمشهر بین تالار ۲۵ و ۲۵/۱ پایگاه بسیج و سرکوب وجود دارد. خیابان مدرس سمت راست سپاه، اطلاعات قائمشهر قرار دارد و سقف مرکز اطلاعات با تصویر ماهواره ای آبی رنگ است. اطلاعات و سپاه قائمشهر به هم چسبیده هستند.",
+        "date": 1772556301,
+        "id": "MjpmODhmMTNmZmQ2MjU",
+        "publicId": "MjpmODhmMTNmZmQ2MjU",
+        "sourceId": "f88f13ffd625",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "در خیابان امام خمینی قائمشهر بین تالار ۲۵ و ۲۵/۱ پایگاه بسیج و سرکوب وجود دارد. خیابان مدرس سمت راست سپاه، اطلاعات قائمشهر قرار دارد و سقف مرکز اطلاعات با تصویر ماهواره ای آبی رنگ است. اطلاعات و سپاه قائمشهر به هم چسبیده هستند.",
+          "date": 1772556301
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-03T16:45:01.805Z",
+        "updatedAt": "2026-03-27T02:17:54.033Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.02431388913183,
+          35.7215936687944
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز امنیتی",
+        "description": "یگان امنیت اندیشه فاز ۵",
+        "date": 1772555311,
+        "id": "Mjo5MTAwNTUxZmVhMTY",
+        "publicId": "Mjo5MTAwNTUxZmVhMTY",
+        "sourceId": "9100551fea16",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز امنیتی",
+          "description": "یگان امنیت اندیشه فاز ۵",
+          "date": 1772555311
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-03T16:28:31.816Z",
+        "updatedAt": "2026-03-27T02:17:54.035Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91952,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39948771634869,
+          35.75169975229797
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "اطلاعات سپاه",
+        "date": 1772515771,
+        "id": "MjphMzFlYWUyMDE0Yjg",
+        "publicId": "MjphMzFlYWUyMDE0Yjg",
+        "sourceId": "a31eae2014b8",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "اطلاعات سپاه",
+          "date": 1772515771
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-03T05:29:31.120Z",
+        "updatedAt": "2026-03-27T02:17:54.036Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91953,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2724372329256,
+          38.22504848140977
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اداره کل اطلاعات استان اردبیل",
+        "date": 1772488430,
+        "id": "MjoxZTI1NzJmOWUwZmQ",
+        "publicId": "MjoxZTI1NzJmOWUwZmQ",
+        "sourceId": "1e2572f9e0fd",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اداره کل اطلاعات استان اردبیل",
+          "date": 1772488430
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-02T21:53:50.940Z",
+        "updatedAt": "2026-03-27T02:17:54.038Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.838635078169375,
+          28.947607480303617
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اطلاعات بوشهر",
+        "date": 1772487753,
+        "id": "MjpjM2ZhYWI2ZjBhOTc",
+        "publicId": "MjpjM2ZhYWI2ZjBhOTc",
+        "sourceId": "c3faab6f0a97",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اطلاعات بوشهر",
+          "date": 1772487753
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-02T21:42:33.977Z",
+        "updatedAt": "2026-03-27T02:17:54.039Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5365773158658,
+          29.627331678090997
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه امن اطلاعات",
+        "description": "خانه امن سازمان اطلاعات شیراز",
+        "date": 1772484935,
+        "id": "MjpjOGVjNjJiNGJlOGI",
+        "publicId": "MjpjOGVjNjJiNGJlOGI",
+        "sourceId": "c8ec62b4be8b",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "خانه امن اطلاعات",
+          "description": "خانه امن سازمان اطلاعات شیراز",
+          "date": 1772484935
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-02T20:55:35.767Z",
+        "updatedAt": "2026-03-27T02:17:54.041Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91956,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.866464944194604,
+          34.62193149746513
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "ستاد خبری اطلاعات",
+        "date": 1772482995,
+        "id": "Mjo0N2U2NmYwMmY5Yjc",
+        "publicId": "Mjo0N2U2NmYwMmY5Yjc",
+        "sourceId": "47e66f02f9b7",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "ستاد خبری اطلاعات",
+          "date": 1772482995
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-02T20:23:15.803Z",
+        "updatedAt": "2026-03-27T02:17:54.042Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.11269438465163,
+          34.37257752855439
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز امنیتی",
+        "description": "گردان ۶ امنیت امام علی",
+        "date": 1772472835,
+        "id": "Mjo0ZDlkNGNhOWQwN2E",
+        "publicId": "Mjo0ZDlkNGNhOWQwN2E",
+        "sourceId": "4d9d4ca9d07a",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز امنیتی",
+          "description": "گردان ۶ امنیت امام علی",
+          "date": 1772472835
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-02T17:33:55.983Z",
+        "updatedAt": "2026-03-27T02:17:54.044Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91958,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.986029898795636,
+          35.83231303637646
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "تفرجگاه خانوادگی اطلاعات و سال تجمیع",
+        "date": 1772421139,
+        "id": "Mjo1NDBhYTg4NzAwMmI",
+        "publicId": "Mjo1NDBhYTg4NzAwMmI",
+        "sourceId": "540aa887002b",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "تفرجگاه خانوادگی اطلاعات و سال تجمیع",
+          "date": 1772421139
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-02T03:12:19.059Z",
+        "updatedAt": "2026-03-27T02:17:54.045Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91959,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.34884957437967,
+          33.49489344426459
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات لرستان",
+        "description": "تمام این منطقه اداره اطلاعات لرستان(خرم اباد) هستش که در اون بازداشتگاه و خود اداره اطلاعات هستش",
+        "date": 1772415969,
+        "id": "MjowNzU1NGQ0YWIxMWY",
+        "publicId": "MjowNzU1NGQ0YWIxMWY",
+        "sourceId": "07554d4ab11f",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات لرستان",
+          "description": "تمام این منطقه اداره اطلاعات لرستان(خرم اباد) هستش که در اون بازداشتگاه و خود اداره اطلاعات هستش",
+          "date": 1772415969
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-02T01:46:09.134Z",
+        "updatedAt": "2026-03-27T02:17:54.047Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.48125614284396,
+          35.775780682072025
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "ساختمان  مخفی بدون هیچ تابلویی و مربوط به سازمان اطلاعات",
+        "date": 1772368228,
+        "id": "MjpmNGNmMWE0MzE4MzI",
+        "publicId": "MjpmNGNmMWE0MzE4MzI",
+        "sourceId": "f4cf1a431832",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "ساختمان  مخفی بدون هیچ تابلویی و مربوط به سازمان اطلاعات",
+          "date": 1772368228
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-01T12:30:28.128Z",
+        "updatedAt": "2026-03-27T02:17:54.048Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46109514532583,
+          35.755387865084685
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "از مقرهای اصلی وزرات اطلاعات",
+        "date": 1772304644,
+        "id": "Mjo1NzAzNjM4YzVkZmY",
+        "publicId": "Mjo1NzAzNjM4YzVkZmY",
+        "sourceId": "5703638c5dff",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "از مقرهای اصلی وزرات اطلاعات",
+          "date": 1772304644
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-28T18:50:44.837Z",
+        "updatedAt": "2026-03-27T02:17:54.050Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46043308413911,
+          35.75728974175243
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "ادامه‌ی بخش بالایی محوطه و خانه‌های وزرارت اطلاعات در مساحت بین شهید عراقی و ربانی و گلرومفرد و زین‌الدین",
+        "date": 1772304584,
+        "id": "MjoyNWY0OTBiYTQ3OWQ",
+        "publicId": "MjoyNWY0OTBiYTQ3OWQ",
+        "sourceId": "25f490ba479d",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "ادامه‌ی بخش بالایی محوطه و خانه‌های وزرارت اطلاعات در مساحت بین شهید عراقی و ربانی و گلرومفرد و زین‌الدین",
+          "date": 1772304584
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-28T18:49:44.642Z",
+        "updatedAt": "2026-03-27T02:17:54.051Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37781057958691,
+          32.3973731454178
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "پارکینگ آمبولانس بدون پلاک اطلاعات زرین‌شهر",
+        "date": 1772259622,
+        "id": "MjpiMmE4NDlmMDdkYzc",
+        "publicId": "MjpiMmE4NDlmMDdkYzc",
+        "sourceId": "b2a849f07dc7",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "پارکینگ آمبولانس بدون پلاک اطلاعات زرین‌شهر",
+          "date": 1772259622
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-28T06:20:22.638Z",
+        "updatedAt": "2026-03-27T02:17:54.053Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.377099256694606,
+          32.39719889163116
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "ساختمان شیطانی اطلاعات زرین‌شهر",
+        "date": 1772259323,
+        "id": "MjoxZmQxMTE3YjNlYjU",
+        "publicId": "MjoxZmQxMTE3YjNlYjU",
+        "sourceId": "1fd1117b3eb5",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "ساختمان شیطانی اطلاعات زرین‌شهر",
+          "date": 1772259323
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-28T06:15:23.064Z",
+        "updatedAt": "2026-03-27T02:17:54.054Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37759345962698,
+          32.39735809819253
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "ساختمان شیطانی اطلاعات زرین‌شهر",
+        "date": 1772259272,
+        "id": "Mjo2ZGMwNzM3OThiMmY",
+        "publicId": "Mjo2ZGMwNzM3OThiMmY",
+        "sourceId": "6dc073798b2f",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "ساختمان شیطانی اطلاعات زرین‌شهر",
+          "date": 1772259272
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-28T06:14:32.566Z",
+        "updatedAt": "2026-03-27T02:17:54.056Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91966,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.99506612136639,
+          36.4371330427834
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "حفاظت اطلاعات سپاه",
+        "date": 1772258248,
+        "id": "Mjo2NmNkMGI2MGQwYmI",
+        "publicId": "Mjo2NmNkMGI2MGQwYmI",
+        "sourceId": "66cd0b60d0bb",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "حفاظت اطلاعات سپاه",
+          "date": 1772258248
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-28T05:57:28.247Z",
+        "updatedAt": "2026-03-27T02:17:54.057Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91967,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.93462006363586,
+          36.57139190409882
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "ساختمان بازداشتگاه اطلاعات سپاه",
+        "date": 1772242067,
+        "id": "MjoyY2ZlMDZiMDlmYjU",
+        "publicId": "MjoyY2ZlMDZiMDlmYjU",
+        "sourceId": "2cfe06b09fb5",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "ساختمان بازداشتگاه اطلاعات سپاه",
+          "date": 1772242067
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-28T01:27:47.074Z",
+        "updatedAt": "2026-03-27T02:17:54.059Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91968,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.45813291732506,
+          34.002771064780234
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "این مکان پایش تصویریه کاشانه که در اعتراضات اطلاعات برای شناسایی و رهگیری مردم استفاده میکرد",
+        "date": 1772233471,
+        "id": "MjpkZmE5MWI0MmZiOWY",
+        "publicId": "MjpkZmE5MWI0MmZiOWY",
+        "sourceId": "dfa91b42fb9f",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "این مکان پایش تصویریه کاشانه که در اعتراضات اطلاعات برای شناسایی و رهگیری مردم استفاده میکرد",
+          "date": 1772233471
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-27T23:04:31.800Z",
+        "updatedAt": "2026-03-27T02:17:54.060Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91969,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.655017738118886,
+          32.64552260124812
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز امنیتی",
+        "description": "ورودی حوزه علمیه در دو هفته اخیر درب نرده ای ورودی با درب یکپارچه فولادی تغویض شده و چندین دوربین نظارتی نصب شده. با پاک کردن حروف روی تابلوی ورودی ظاهرا کاربری آن از لحاظ امنیتی ازتقا یافته است.",
+        "date": 1772226533,
+        "id": "Mjo2NDdkNWFkNjQ3M2I",
+        "publicId": "Mjo2NDdkNWFkNjQ3M2I",
+        "sourceId": "647d5ad6473b",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز امنیتی",
+          "description": "ورودی حوزه علمیه در دو هفته اخیر درب نرده ای ورودی با درب یکپارچه فولادی تغویض شده و چندین دوربین نظارتی نصب شده. با پاک کردن حروف روی تابلوی ورودی ظاهرا کاربری آن از لحاظ امنیتی ازتقا یافته است.",
+          "date": 1772226533
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-27T21:08:53.610Z",
+        "updatedAt": "2026-03-27T02:17:54.062Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91970,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.457700396908564,
+          35.753990282001425
+        ]
+      },
+      "properties": {
+        "name:fa": "وزارت اطلاعات",
+        "description": "وزارت اطلاعات",
+        "date": 1772219845,
+        "id": "MjpmNTU5ZTQ4NTE4ODA",
+        "publicId": "MjpmNTU5ZTQ4NTE4ODA",
+        "sourceId": "f559e4851880",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "وزارت اطلاعات",
+          "description": "وزارت اطلاعات",
+          "date": 1772219845
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-27T19:17:25.412Z",
+        "updatedAt": "2026-03-27T02:17:54.064Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91971,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.15276269647916,
+          35.73254380517301
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "مجتمع سایبری اطلاعات که 400نفر‌تحت عنوان مرکز تماس فعالیت میکنند",
+        "date": 1772216747,
+        "id": "Mjo1ODZmZDUyMzgyMzA",
+        "publicId": "Mjo1ODZmZDUyMzgyMzA",
+        "sourceId": "586fd5238230",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "مجتمع سایبری اطلاعات که 400نفر‌تحت عنوان مرکز تماس فعالیت میکنند",
+          "date": 1772216747
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-27T18:25:47.445Z",
+        "updatedAt": "2026-03-27T02:17:54.065Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91972,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.43342306580803,
+          36.83909680687536
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه دادن",
+        "description": "درمانگاه امام جعفر صادق متعلق به سپاه هستش ؛ لطفا هشدار بدید که به هیچ عنوان در زمان اضطرار به این مکان مراجعه نکنن ؛ در ۱۸ و ۱۹ دی خیلی هارو اینجا تحویل اطلاعات سپاه دادن و حتی شرف پزشکی رو کنار گذاشتن و اگه کاری از دستشون بر میومد برای جاویدنام هایی که اینجا اومدن از جمله سینا حق شناس نکردن تا تموم کنه",
+        "date": 1772190508,
+        "id": "Mjo4ZDAzNGI2YWJlZDM",
+        "publicId": "Mjo4ZDAzNGI2YWJlZDM",
+        "sourceId": "8d034b6abed3",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه دادن",
+          "description": "درمانگاه امام جعفر صادق متعلق به سپاه هستش ؛ لطفا هشدار بدید که به هیچ عنوان در زمان اضطرار به این مکان مراجعه نکنن ؛ در ۱۸ و ۱۹ دی خیلی هارو اینجا تحویل اطلاعات سپاه دادن و حتی شرف پزشکی رو کنار گذاشتن و اگه کاری از دستشون بر میومد برای جاویدنام هایی که اینجا اومدن از جمله سینا حق شناس نکردن تا تموم کنه",
+          "date": 1772190508
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-27T11:08:28.971Z",
+        "updatedAt": "2026-03-27T02:17:54.067Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91973,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.434120570514665,
+          36.834029668176015
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "این مکان منسوب به اطلاعات استان گلستان هستش و حداقل چهار ورودی داره ؛ یکی از در ها به پشت بیمارستان ۵ آذر ختم میشه که توی ۱۸ و ۱۹ دی راحت ازونجا وارد بیمارستان میشدن و جنایتشونو میکردن",
+        "date": 1772190063,
+        "id": "MjpkYWMxMDNiZjRkNWU",
+        "publicId": "MjpkYWMxMDNiZjRkNWU",
+        "sourceId": "dac103bf4d5e",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "این مکان منسوب به اطلاعات استان گلستان هستش و حداقل چهار ورودی داره ؛ یکی از در ها به پشت بیمارستان ۵ آذر ختم میشه که توی ۱۸ و ۱۹ دی راحت ازونجا وارد بیمارستان میشدن و جنایتشونو میکردن",
+          "date": 1772190063
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-27T11:01:03.299Z",
+        "updatedAt": "2026-03-27T02:17:54.068Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.608254330654376,
+          35.817536473958455
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اطلاعات لواسانات",
+        "date": 1772148411,
+        "id": "Mjo3OWIzMDMzOGEyNmQ",
+        "publicId": "Mjo3OWIzMDMzOGEyNmQ",
+        "sourceId": "79b30338a26d",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اطلاعات لواسانات",
+          "date": 1772148411
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-26T23:26:51.340Z",
+        "updatedAt": "2026-03-27T02:17:54.070Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.02646087019204,
+          35.679684399747345
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اطلاعات دماوند",
+        "date": 1772148332,
+        "id": "MjpmNjNlY2E1ZjNkMGU",
+        "publicId": "MjpmNjNlY2E1ZjNkMGU",
+        "sourceId": "f63eca5f3d0e",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اطلاعات دماوند",
+          "date": 1772148332
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-26T23:25:32.656Z",
+        "updatedAt": "2026-03-27T02:17:54.071Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.02659353922357,
+          35.6796511013259
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اداره کل اطلاعات شرق استان تهران",
+        "date": 1772148315,
+        "id": "Mjo5MDllMWNkYWZkOWM",
+        "publicId": "Mjo5MDllMWNkYWZkOWM",
+        "sourceId": "909e1cdafd9c",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اداره کل اطلاعات شرق استان تهران",
+          "date": 1772148315
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-26T23:25:15.367Z",
+        "updatedAt": "2026-03-27T02:17:54.073Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8786730266788,
+          26.547125815921234
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "ساختمان اطلاعات بندرلنگه",
+        "date": 1772140625,
+        "id": "Mjo1ZjRmZmY4MzhkY2I",
+        "publicId": "Mjo1ZjRmZmY4MzhkY2I",
+        "sourceId": "5f4fff838dcb",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "ساختمان اطلاعات بندرلنگه",
+          "date": 1772140625
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-26T21:17:05.734Z",
+        "updatedAt": "2026-03-27T02:17:54.074Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91978,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.4341604818286,
+          36.83391622190054
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اطلاعات استان گلستان",
+        "date": 1772107082,
+        "id": "MjphMTI1MWM1ZjE1ZGI",
+        "publicId": "MjphMTI1MWM1ZjE1ZGI",
+        "sourceId": "a1251c5f15db",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اطلاعات استان گلستان",
+          "date": 1772107082
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-26T11:58:02.971Z",
+        "updatedAt": "2026-03-27T02:17:54.076Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91979,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.53322727461827,
+          35.7397684738976
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز امنیتی",
+        "description": "توضیح راجب امنیت منطقه",
+        "date": 1772040529,
+        "id": "MjowMDE2MmRhMzYyNDU",
+        "publicId": "MjowMDE2MmRhMzYyNDU",
+        "sourceId": "00162da36245",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز امنیتی",
+          "description": "توضیح راجب امنیت منطقه",
+          "date": 1772040529
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-25T17:28:49.345Z",
+        "updatedAt": "2026-03-27T02:17:54.077Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91980,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59323862914428,
+          36.300132017764284
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "اطلاعات سپاه",
+        "date": 1771974477,
+        "id": "Mjo3N2U1MmVhMzRhMjM",
+        "publicId": "Mjo3N2U1MmVhMzRhMjM",
+        "sourceId": "77e52ea34a23",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "اطلاعات سپاه",
+          "date": 1771974477
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-24T23:07:57.726Z",
+        "updatedAt": "2026-03-27T02:17:54.079Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91981,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.02299106327405,
+          34.691570058209194
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اداره اطلاعات",
+        "date": 1771810899,
+        "id": "Mjo2NDU5ZDNkYmVjMTU",
+        "publicId": "Mjo2NDU5ZDNkYmVjMTU",
+        "sourceId": "6459d3dbec15",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اداره اطلاعات",
+          "date": 1771810899
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-23T01:41:39.844Z",
+        "updatedAt": "2026-03-27T02:17:54.080Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.03835595261191,
+          34.68402792963977
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "اطلاعات سپاه",
+        "date": 1771810772,
+        "id": "MjoyMmQ0OTgyYWJmNDE",
+        "publicId": "MjoyMmQ0OTgyYWJmNDE",
+        "sourceId": "22d4982abf41",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "اطلاعات سپاه",
+          "date": 1771810772
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-23T01:39:32.517Z",
+        "updatedAt": "2026-03-27T02:17:54.082Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.377388893460676,
+          32.396775838329575
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اینجا مرکز اطلاعات زرین شهر است فک کن مال کل منطقه لنجان باشه تازگی ها هم در ان را عوض کردن و یک در بسیار بزرگ و با امیر بالا براش گذاشتن",
+        "date": 1771777832,
+        "id": "MjphY2U4ZmUzMWE5Yzk",
+        "publicId": "MjphY2U4ZmUzMWE5Yzk",
+        "sourceId": "ace8fe31a9c9",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اینجا مرکز اطلاعات زرین شهر است فک کن مال کل منطقه لنجان باشه تازگی ها هم در ان را عوض کردن و یک در بسیار بزرگ و با امیر بالا براش گذاشتن",
+          "date": 1771777832
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-22T16:30:32.889Z",
+        "updatedAt": "2026-03-27T02:17:54.083Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.32148282783925,
+          35.66789044858103
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز امنیتی",
+        "description": "گردان امنیتی امام علی",
+        "date": 1771681782,
+        "id": "MjpiYWMwN2E2N2FkODQ",
+        "publicId": "MjpiYWMwN2E2N2FkODQ",
+        "sourceId": "bac07a67ad84",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز امنیتی",
+          "description": "گردان امنیتی امام علی",
+          "date": 1771681782
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-21T13:49:42.815Z",
+        "updatedAt": "2026-03-27T02:17:54.085Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44595013303106,
+          35.73065382630364
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "حفاظت اطلاعات ارتش",
+        "date": 1771596470,
+        "id": "MjozNTAxMGU0ODU0NzU",
+        "publicId": "MjozNTAxMGU0ODU0NzU",
+        "sourceId": "35010e485475",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "حفاظت اطلاعات ارتش",
+          "date": 1771596470
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-20T14:07:50.910Z",
+        "updatedAt": "2026-03-27T02:17:54.086Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91986,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.529124252674194,
+          29.62165143989509
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "در ظاهر پارکینک عمومی،اما در طبقات بالای پارکینگ محل اصلی رسد دوربین های اطلاعات سپاه و نیروهای انتظامی برای کنترل شهری!بدون تابلو و نشان،بسیار استراتژیک،دو طبقه بالای ساختمان امنیتی",
+        "date": 1771574712,
+        "id": "MjoyNmIyZDdhN2ZmYzE",
+        "publicId": "MjoyNmIyZDdhN2ZmYzE",
+        "sourceId": "26b2d7a7ffc1",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "در ظاهر پارکینک عمومی،اما در طبقات بالای پارکینگ محل اصلی رسد دوربین های اطلاعات سپاه و نیروهای انتظامی برای کنترل شهری!بدون تابلو و نشان،بسیار استراتژیک،دو طبقه بالای ساختمان امنیتی",
+          "date": 1771574712
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-20T08:05:12.140Z",
+        "updatedAt": "2026-03-27T02:17:54.088Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.874177341882955,
+          32.01492005999377
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اینجا ساختمان حفاظت اطلاعات هست",
+        "date": 1771569323,
+        "id": "MjplMGU1Zjk1Y2VjOTA",
+        "publicId": "MjplMGU1Zjk1Y2VjOTA",
+        "sourceId": "e0e5f95cec90",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اینجا ساختمان حفاظت اطلاعات هست",
+          "date": 1771569323
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-20T06:35:23.317Z",
+        "updatedAt": "2026-03-27T02:17:54.089Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56439599197654,
+          36.28601169844707
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز امنیتی",
+        "description": "دفتر پژوهش دین و تمدن از مراکز مخفی جلسات امنیتی",
+        "date": 1771564202,
+        "id": "MjozNTE0NDUzMGIxN2Y",
+        "publicId": "MjozNTE0NDUzMGIxN2Y",
+        "sourceId": "35144530b17f",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز امنیتی",
+          "description": "دفتر پژوهش دین و تمدن از مراکز مخفی جلسات امنیتی",
+          "date": 1771564202
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-20T05:10:02.607Z",
+        "updatedAt": "2026-03-27T02:17:54.091Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38868103476136,
+          35.72756208621135
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اطلاعات سباه.",
+        "date": 1771552459,
+        "id": "MjpmYTZhMzg0MGMxNmQ",
+        "publicId": "MjpmYTZhMzg0MGMxNmQ",
+        "sourceId": "fa6a3840c16d",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "اطلاعات سباه.",
+          "date": 1771552459
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-20T01:54:19.046Z",
+        "updatedAt": "2026-03-27T02:17:54.092Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.559109369368485,
+          36.2790358957909
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "مکان حفاظت اطلاعات سپاه",
+        "date": 1771543880,
+        "id": "MjpkZGJhNjczNTVlNjE",
+        "publicId": "MjpkZGJhNjczNTVlNjE",
+        "sourceId": "ddba67355e61",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "مکان حفاظت اطلاعات سپاه",
+          "date": 1771543880
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-19T23:31:20.779Z",
+        "updatedAt": "2026-03-27T02:17:54.094Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41527360143212,
+          35.703720936175884
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "مرکز اطلاعات سپاه",
+        "date": 1771495492,
+        "id": "MjoyMGRmMDlhNjA3ZjI",
+        "publicId": "MjoyMGRmMDlhNjA3ZjI",
+        "sourceId": "20df09a607f2",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "مرکز اطلاعات سپاه",
+          "date": 1771495492
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-19T10:04:52.388Z",
+        "updatedAt": "2026-03-27T02:17:54.095Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35293084499034,
+          33.48254113581409
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "مرکز اطلاعات",
+        "date": 1771462656,
+        "id": "MjozODI4NWE2OGY5OWE",
+        "publicId": "MjozODI4NWE2OGY5OWE",
+        "sourceId": "38285a68f99a",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "مرکز اطلاعات",
+          "date": 1771462656
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-19T00:57:36.557Z",
+        "updatedAt": "2026-03-27T02:17:54.097Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.80009508274952,
+          29.878821392669664
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "حمید خاموشی نیروی اطلاعات سپاه",
+        "date": 1771287925,
+        "id": "MjoxMTFiMzYxZjQ3NDE",
+        "publicId": "MjoxMTFiMzYxZjQ3NDE",
+        "sourceId": "111b361f4741",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اطلاعات سپاه",
+          "description": "حمید خاموشی نیروی اطلاعات سپاه",
+          "date": 1771287925
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-17T00:25:25.333Z",
+        "updatedAt": "2026-03-27T02:17:54.098Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91994,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43255409488475,
+          35.5854691380206
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "سازمان اطلاعات مخفی شهرری  تحت پوشش هلال احمر",
+        "date": 1771046538,
+        "id": "MjozYzYwMDE4YmVmMjc",
+        "publicId": "MjozYzYwMDE4YmVmMjc",
+        "sourceId": "3c60018bef27",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "اداره اطلاعات",
+          "description": "سازمان اطلاعات مخفی شهرری  تحت پوشش هلال احمر",
+          "date": 1771046538
+        },
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-14T05:22:18.624Z",
+        "updatedAt": "2026-03-27T02:17:54.100Z"
+      }
     }
   ],
   "metadata": {
-    "total": 157,
+    "total": 269,
     "layerId": 2,
     "clustered": false,
     "simplified": false
