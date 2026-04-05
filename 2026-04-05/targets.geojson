@@ -1,0 +1,2551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 81947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.97496119499,
+          34.14807454476
+        ]
+      },
+      "properties": {
+        "id": "MTM6NjkxMTA",
+        "date": "1772274645",
+        "status": "active",
+        "name:fa": "خیرآباد",
+        "accurate": "no",
+        "sources": "https://x.com/Vahid/status/2027729455146221681",
+        "publicId": "MTM6NjkxMTA",
+        "sourceId": "69110",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "id": "69110",
+          "date": "1772274645",
+          "status": "در حال بررسی",
+          "name:fa": "خیرآباد",
+          "accurate": "no",
+          "sources": "https://x.com/Vahid/status/2027729455146221681"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.054Z",
+        "updatedAt": "2026-03-11T21:01:42.054Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.19654416502,
+          38.01509494475
+        ]
+      },
+      "properties": {
+        "id": "MTM6NjkwOTc",
+        "status": "active",
+        "date": "1772266845",
+        "name:fa": "تبریز",
+        "accurate": "no",
+        "publicId": "MTM6NjkwOTc",
+        "sourceId": "69097",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "id": "69097",
+          "status": "در حال بررسی",
+          "date": "1772266845",
+          "name:fa": "تبریز",
+          "accurate": "no"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.055Z",
+        "updatedAt": "2026-03-11T21:01:42.055Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25068655968,
+          26.95757368915
+        ]
+      },
+      "properties": {
+        "date": "1772296200",
+        "name:fa": "رادار قشم",
+        "accurate": "no",
+        "status": "active",
+        "id": "MTM6NjkxMjg",
+        "publicId": "MTM6NjkxMjg",
+        "sourceId": "69128",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "date": "1772296200",
+          "name:fa": "رادار قشم",
+          "accurate": "no",
+          "status": "در حال بررسی",
+          "id": "69128"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.056Z",
+        "updatedAt": "2026-03-11T21:01:42.056Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.59309764385,
+          29.53806729509
+        ]
+      },
+      "properties": {
+        "date": "1772274945",
+        "id": "MTM6NjkxMDc",
+        "name:fa": "پایگاه هفتم شکاری",
+        "status": "active",
+        "accurate": "no",
+        "publicId": "MTM6NjkxMDc",
+        "sourceId": "69107",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "date": "1772274945",
+          "id": "69107",
+          "name:fa": "پایگاه هفتم شکاری",
+          "status": "در حال بررسی",
+          "accurate": "no"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.056Z",
+        "updatedAt": "2026-03-11T21:01:42.056Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.85845938683,
+          28.98118920056
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "status": "active",
+        "id": "MTM6NjkxMjE",
+        "date": "1772289045",
+        "name:fa": "حوالی کشتی‌سازی صدرا",
+        "publicId": "MTM6NjkxMjE",
+        "sourceId": "69121",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "status": "در حال بررسی",
+          "id": "69121",
+          "date": "1772289045",
+          "name:fa": "حوالی کشتی‌سازی صدرا"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.057Z",
+        "updatedAt": "2026-03-11T21:01:42.057Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81952,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3749026823,
+          35.51507673387
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "status": "active",
+        "id": "MTM6NjkxMTk",
+        "date": "1772267445",
+        "name:fa": "پدافند کهریزک",
+        "sources": "https://x.com/Vahid/status/2027667288292311473",
+        "geolocates": "https://x.com/ayatsubzero/status/2027645116131758213",
+        "publicId": "MTM6NjkxMTk",
+        "sourceId": "69119",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "status": "در حال بررسی",
+          "id": "69119",
+          "date": "1772267445",
+          "name:fa": "پدافند کهریزک",
+          "sources": "https://x.com/Vahid/status/2027667288292311473",
+          "geolocates": "https://x.com/ayatsubzero/status/2027645116131758213"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.057Z",
+        "updatedAt": "2026-03-11T21:01:42.057Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81953,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.31294627667,
+          27.79874842764
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "accurate": "yes",
+        "id": "MTM6NjkwOTM",
+        "name:fa": "پادگان موشکی جم",
+        "date": "1772265045",
+        "sources": "https://x.com/mamlekate/status/2027729132709179522",
+        "geolocates": "https://x.com/MiddleEastBuka/status/2027815524814536926",
+        "publicId": "MTM6NjkwOTM",
+        "sourceId": "69093",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "accurate": "yes",
+          "id": "69093",
+          "name:fa": "پادگان موشکی جم",
+          "date": "1772265045",
+          "sources": "https://x.com/mamlekate/status/2027729132709179522",
+          "geolocates": "https://x.com/MiddleEastBuka/status/2027815524814536926"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.058Z",
+        "updatedAt": "2026-03-11T21:01:42.058Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0293778944,
+          36.29361346652
+        ]
+      },
+      "properties": {
+        "name:fa": "لشکر ۱۶ قزوین",
+        "accurate": "no",
+        "status": "active",
+        "id": "MTM6NjkxMjU",
+        "date": "1772274645",
+        "publicId": "MTM6NjkxMjU",
+        "sourceId": "69125",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "لشکر ۱۶ قزوین",
+          "accurate": "no",
+          "status": "در حال بررسی",
+          "id": "69125",
+          "date": "1772274645"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.058Z",
+        "updatedAt": "2026-03-11T21:01:42.058Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41842960238,
+          35.68072512242
+        ]
+      },
+      "properties": {
+        "name:fa": "دیوان عالی کشور",
+        "status": "active",
+        "accurate": "no",
+        "id": "MTM6NjkwOTA",
+        "date": "1772259165",
+        "publicId": "MTM6NjkwOTA",
+        "sourceId": "69090",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "دیوان عالی کشور",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "id": "69090",
+          "date": "1772259165"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.058Z",
+        "updatedAt": "2026-03-11T21:01:42.058Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81956,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.75973031759,
+          38.51279767517
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "status": "active",
+        "name:fa": "شهرک صنعتی مرند",
+        "id": "MTM6NjkxMTU",
+        "date": "1772280045",
+        "sources": "https://x.com/hey_itsmyturn/status/2027728115942781308",
+        "publicId": "MTM6NjkxMTU",
+        "sourceId": "69115",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "status": "در حال بررسی",
+          "name:fa": "شهرک صنعتی مرند",
+          "id": "69115",
+          "date": "1772280045",
+          "sources": "https://x.com/hey_itsmyturn/status/2027728115942781308"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.059Z",
+        "updatedAt": "2026-03-11T21:01:42.059Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.09659095287,
+          30.35443486332
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "name:fa": "کرمان",
+        "date": "1772266845",
+        "status": "active",
+        "id": "MTM6NjkwOTg",
+        "publicId": "MTM6NjkwOTg",
+        "sourceId": "69098",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "name:fa": "کرمان",
+          "date": "1772266845",
+          "status": "در حال بررسی",
+          "id": "69098"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.059Z",
+        "updatedAt": "2026-03-11T21:01:42.059Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81958,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.82537169933,
+          28.9410120311
+        ]
+      },
+      "properties": {
+        "date": "1772276445",
+        "id": "MTM6NjkxMTQ",
+        "name:fa": "پایگاه ششم شکاری",
+        "status": "active",
+        "accurate": "no",
+        "publicId": "MTM6NjkxMTQ",
+        "sourceId": "69114",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "date": "1772276445",
+          "id": "69114",
+          "name:fa": "پایگاه ششم شکاری",
+          "status": "در حال بررسی",
+          "accurate": "no"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.060Z",
+        "updatedAt": "2026-03-11T21:01:42.060Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81959,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.71291724205,
+          29.39107476901
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "name:fa": "حوالی بید زرد",
+        "status": "active",
+        "date": "1772274645",
+        "id": "MTM6NjkxMDk",
+        "publicId": "MTM6NjkxMDk",
+        "sourceId": "69109",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "name:fa": "حوالی بید زرد",
+          "status": "در حال بررسی",
+          "date": "1772274645",
+          "id": "69109"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.060Z",
+        "updatedAt": "2026-03-11T21:01:42.060Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.48450842857,
+          35.64732301837
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "name:fa": "افسریه",
+        "date": "1772266845",
+        "status": "active",
+        "id": "MTM6NjkwOTY",
+        "publicId": "MTM6NjkwOTY",
+        "sourceId": "69096",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "name:fa": "افسریه",
+          "date": "1772266845",
+          "status": "در حال بررسی",
+          "id": "69096"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.060Z",
+        "updatedAt": "2026-03-11T21:01:42.060Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.14334769726,
+          30.54588924089
+        ]
+      },
+      "properties": {
+        "id": "MTM6NjkxMDM",
+        "status": "active",
+        "date": "1772271045",
+        "name:fa": "ماهشهر",
+        "accurate": "no",
+        "publicId": "MTM6NjkxMDM",
+        "sourceId": "69103",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "id": "69103",
+          "status": "در حال بررسی",
+          "date": "1772271045",
+          "name:fa": "ماهشهر",
+          "accurate": "no"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.061Z",
+        "updatedAt": "2026-03-11T21:01:42.061Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.93963621974,
+          28.32446122288
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "status": "active",
+        "name:fa": "پایگاه موشکی حاجی‌آباد",
+        "id": "MTM6NjkxMDg",
+        "date": "1772274645",
+        "sources": "https://x.com/Vahid/status/2027701647548252542",
+        "publicId": "MTM6NjkxMDg",
+        "sourceId": "69108",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "status": "در حال بررسی",
+          "name:fa": "پایگاه موشکی حاجی‌آباد",
+          "id": "69108",
+          "date": "1772274645",
+          "sources": "https://x.com/Vahid/status/2027701647548252542"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.061Z",
+        "updatedAt": "2026-03-11T21:01:42.061Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.9898741138,
+          26.53365440547
+        ]
+      },
+      "properties": {
+        "sources": "https://x.com/Vahid/status/2027714740949074080",
+        "geolocates": "https://x.com/A_z_im/status/2027717590416552288",
+        "id": "MTM6NjkxMTI",
+        "date": "1772279025",
+        "status": "active",
+        "accurate": "no",
+        "name:fa": "رادار کیش",
+        "publicId": "MTM6NjkxMTI",
+        "sourceId": "69112",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "sources": "https://x.com/Vahid/status/2027714740949074080",
+          "geolocates": "https://x.com/A_z_im/status/2027717590416552288",
+          "id": "69112",
+          "date": "1772279025",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "name:fa": "رادار کیش"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.062Z",
+        "updatedAt": "2026-03-11T21:01:42.062Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.42941740036,
+          25.29948853293
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "accurate": "yes",
+        "date": "1772265045",
+        "id": "MTM6NjkwOTU",
+        "name:fa": "ناو کلاس الوند",
+        "sources": "https://x.com/byjepstein/status/2027808902901883306",
+        "publicId": "MTM6NjkwOTU",
+        "sourceId": "69095",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "accurate": "yes",
+          "date": "1772265045",
+          "id": "69095",
+          "name:fa": "ناو کلاس الوند",
+          "sources": "https://x.com/byjepstein/status/2027808902901883306"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.062Z",
+        "updatedAt": "2026-03-11T21:01:42.062Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.68350948334,
+          31.318741385
+        ]
+      },
+      "properties": {
+        "id": "MTM6NjkxMDE",
+        "status": "active",
+        "date": "1772269245",
+        "name:fa": "اهواز",
+        "accurate": "no",
+        "publicId": "MTM6NjkxMDE",
+        "sourceId": "69101",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "id": "69101",
+          "status": "در حال بررسی",
+          "date": "1772269245",
+          "name:fa": "اهواز",
+          "accurate": "no"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.062Z",
+        "updatedAt": "2026-03-11T21:01:42.062Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81966,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.48743748397,
+          35.72628187751
+        ]
+      },
+      "properties": {
+        "name:fa": "میدان ۷۲ نارمک",
+        "sources": "https://x.com/bbcpersian/status/2027704159672148348",
+        "accurate": "yes",
+        "status": "active",
+        "date": "1772276445",
+        "id": "MTM6NjkxMTM",
+        "geolocates": "https://x.com/factnameh/status/2027714153293533437",
+        "publicId": "MTM6NjkxMTM",
+        "sourceId": "69113",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "میدان ۷۲ نارمک",
+          "sources": "https://x.com/bbcpersian/status/2027704159672148348",
+          "accurate": "yes",
+          "status": "تایید شده",
+          "date": "1772276445",
+          "id": "69113",
+          "geolocates": "https://x.com/factnameh/status/2027714153293533437"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.063Z",
+        "updatedAt": "2026-03-11T21:01:42.063Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81967,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.07895846844,
+          35.70609865878
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "name:fa": "گرمدره",
+        "date": "1772269245",
+        "status": "active",
+        "id": "MTM6NjkxMDI",
+        "publicId": "MTM6NjkxMDI",
+        "sourceId": "69102",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "name:fa": "گرمدره",
+          "date": "1772269245",
+          "status": "در حال بررسی",
+          "id": "69102"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.063Z",
+        "updatedAt": "2026-03-11T21:01:42.063Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81968,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.70300657272,
+          30.76248916576
+        ]
+      },
+      "properties": {
+        "name:fa": "امیدیه",
+        "date": "1772281845",
+        "id": "MTM6NjkxMjQ",
+        "status": "active",
+        "accurate": "no",
+        "publicId": "MTM6NjkxMjQ",
+        "sourceId": "69124",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "امیدیه",
+          "date": "1772281845",
+          "id": "69124",
+          "status": "در حال بررسی",
+          "accurate": "no"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.064Z",
+        "updatedAt": "2026-03-11T21:01:42.064Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81969,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3047122097,
+          33.65185139776
+        ]
+      },
+      "properties": {
+        "name:fa": "منطقه ششدار",
+        "status": "active",
+        "accurate": "no",
+        "date": "1772265045",
+        "id": "MTM6NjkwOTQ",
+        "publicId": "MTM6NjkwOTQ",
+        "sourceId": "69094",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "منطقه ششدار",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "date": "1772265045",
+          "id": "69094"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.064Z",
+        "updatedAt": "2026-03-11T21:01:42.064Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81970,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.142980088,
+          35.6863546954
+        ]
+      },
+      "properties": {
+        "id": "MTM6NjkxMjk",
+        "status": "active",
+        "accurate": "no",
+        "name:fa": "پایگاه موشکی",
+        "date": "1772278245",
+        "sources": "https://x.com/BenTzionMacales/status/2027821784964239721",
+        "publicId": "MTM6NjkxMjk",
+        "sourceId": "69129",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "id": "69129",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "name:fa": "پایگاه موشکی",
+          "date": "1772278245",
+          "sources": "https://x.com/BenTzionMacales/status/2027821784964239721"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.065Z",
+        "updatedAt": "2026-03-11T21:01:42.065Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81971,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.56218520164,
+          32.92736456248
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "name:fa": "هسا",
+        "date": "1772268345",
+        "status": "active",
+        "id": "MTM6NjkxMDA",
+        "publicId": "MTM6NjkxMDA",
+        "sourceId": "69100",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "name:fa": "هسا",
+          "date": "1772268345",
+          "status": "در حال بررسی",
+          "id": "69100"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.065Z",
+        "updatedAt": "2026-03-11T21:01:42.065Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81972,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.12747158051,
+          38.2505837379
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "status": "active",
+        "sources": "https://x.com/IDFFarsi/status/2027791217661010035",
+        "id": "MTM6NjkxMzA",
+        "name:fa": "پایگاه موشکی",
+        "date": "1772278245",
+        "publicId": "MTM6NjkxMzA",
+        "sourceId": "69130",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "status": "در حال بررسی",
+          "sources": "https://x.com/IDFFarsi/status/2027791217661010035",
+          "id": "69130",
+          "name:fa": "پایگاه موشکی",
+          "date": "1772278245"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.066Z",
+        "updatedAt": "2026-03-11T21:01:42.066Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81973,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.47923244476,
+          36.67475269374
+        ]
+      },
+      "properties": {
+        "date": "1772273445",
+        "id": "MTM6NjkxMjY",
+        "status": "active",
+        "accurate": "no",
+        "name:fa": "زنجان",
+        "publicId": "MTM6NjkxMjY",
+        "sourceId": "69126",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "date": "1772273445",
+          "id": "69126",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "name:fa": "زنجان"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.066Z",
+        "updatedAt": "2026-03-11T21:01:42.066Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44691465139,
+          35.74194935067
+        ]
+      },
+      "properties": {
+        "id": "MTM6NjkwODk",
+        "status": "active",
+        "accurate": "no",
+        "name:fa": "سید خندان",
+        "date": "1772259165",
+        "publicId": "MTM6NjkwODk",
+        "sourceId": "69089",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "id": "69089",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "name:fa": "سید خندان",
+          "date": "1772259165"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.067Z",
+        "updatedAt": "2026-03-11T21:01:42.067Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.20032865524,
+          37.64155840979
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "status": "active",
+        "id": "MTM6NjkxMjM",
+        "date": "1772263845",
+        "name:fa": "پادگان المهدی",
+        "publicId": "MTM6NjkxMjM",
+        "sourceId": "69123",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "status": "در حال بررسی",
+          "id": "69123",
+          "date": "1772263845",
+          "name:fa": "پادگان المهدی"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.067Z",
+        "updatedAt": "2026-03-11T21:01:42.067Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.19448831558,
+          27.17009389095
+        ]
+      },
+      "properties": {
+        "id": "MTM6NjkwOTk",
+        "status": "active",
+        "date": "1772267445",
+        "name:fa": "رادار بندرعباس",
+        "accurate": "yes",
+        "publicId": "MTM6NjkwOTk",
+        "sourceId": "69099",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "id": "69099",
+          "status": "تایید شده",
+          "date": "1772267445",
+          "name:fa": "رادار بندرعباس",
+          "accurate": "yes"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.068Z",
+        "updatedAt": "2026-03-11T21:01:42.068Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.48805974841,
+          35.7368113825
+        ]
+      },
+      "properties": {
+        "name:fa": "میدان رسالت",
+        "id": "MTM6NjkwODg",
+        "status": "active",
+        "accurate": "no",
+        "date": "1772259165",
+        "publicId": "MTM6NjkwODg",
+        "sourceId": "69088",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "میدان رسالت",
+          "id": "69088",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "date": "1772259165"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.068Z",
+        "updatedAt": "2026-03-11T21:01:42.068Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81978,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.45687094688,
+          35.75222432711
+        ]
+      },
+      "properties": {
+        "name:fa": "وزارت اطلاعات",
+        "accurate": "no",
+        "status": "active",
+        "date": "1772263845",
+        "id": "MTM6NjkxMTE",
+        "sources": "https://x.com/bbcpersian/status/2027661340974756347",
+        "geolocates": "https://x.com/factnameh/status/2027691198995927432",
+        "publicId": "MTM6NjkxMTE",
+        "sourceId": "69111",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "وزارت اطلاعات",
+          "accurate": "no",
+          "status": "در حال بررسی",
+          "date": "1772263845",
+          "id": "69111",
+          "sources": "https://x.com/bbcpersian/status/2027661340974756347",
+          "geolocates": "https://x.com/factnameh/status/2027691198995927432"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.069Z",
+        "updatedAt": "2026-03-11T21:01:42.069Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81979,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83837500572,
+          28.94108718064
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه ششم شکاری",
+        "date": "1772289045",
+        "id": "MTM6NjkxMjI",
+        "status": "active",
+        "accurate": "no",
+        "publicId": "MTM6NjkxMjI",
+        "sourceId": "69122",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه ششم شکاری",
+          "date": "1772289045",
+          "id": "69122",
+          "status": "در حال بررسی",
+          "accurate": "no"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.069Z",
+        "updatedAt": "2026-03-11T21:01:42.069Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81980,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.63930411816,
+          32.59466074434
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "status": "active",
+        "name:fa": "کوه صفه",
+        "id": "MTM6NjkxMDY",
+        "date": "1772270145",
+        "publicId": "MTM6NjkxMDY",
+        "sourceId": "69106",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "status": "در حال بررسی",
+          "name:fa": "کوه صفه",
+          "id": "69106",
+          "date": "1772270145"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.070Z",
+        "updatedAt": "2026-03-11T21:01:42.070Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81981,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.39774695396,
+          29.57002323617
+        ]
+      },
+      "properties": {
+        "name:fa": "گروه چهارم پدافند هوایی سپاه",
+        "date": "1772285445",
+        "id": "MTM6NjkxMTg",
+        "status": "active",
+        "accurate": "no",
+        "publicId": "MTM6NjkxMTg",
+        "sourceId": "69118",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "گروه چهارم پدافند هوایی سپاه",
+          "date": "1772285445",
+          "id": "69118",
+          "status": "در حال بررسی",
+          "accurate": "no"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.070Z",
+        "updatedAt": "2026-03-11T21:01:42.070Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.17104430676,
+          34.34775893422
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "name:fa": "هوانیروز",
+        "date": "1772271945",
+        "status": "active",
+        "id": "MTM6NjkxMDQ",
+        "publicId": "MTM6NjkxMDQ",
+        "sourceId": "69104",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "name:fa": "هوانیروز",
+          "date": "1772271945",
+          "status": "در حال بررسی",
+          "id": "69104"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.071Z",
+        "updatedAt": "2026-03-11T21:01:42.071Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.29851332664,
+          35.69153082433
+        ]
+      },
+      "properties": {
+        "name:fa": "مهرآباد",
+        "status": "active",
+        "accurate": "no",
+        "id": "MTM6NjkwOTI",
+        "date": "1772259165",
+        "publicId": "MTM6NjkwOTI",
+        "sourceId": "69092",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "مهرآباد",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "id": "69092",
+          "date": "1772259165"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.071Z",
+        "updatedAt": "2026-03-11T21:01:42.071Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.17485037804,
+          37.97512398819
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه موشکی تبریز",
+        "sources": "https://x.com/Vahid/status/2027726848608669961",
+        "date": "1772280045",
+        "id": "MTM6NjkxMTY",
+        "status": "active",
+        "accurate": "no",
+        "publicId": "MTM6NjkxMTY",
+        "sourceId": "69116",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه موشکی تبریز",
+          "sources": "https://x.com/Vahid/status/2027726848608669961",
+          "date": "1772280045",
+          "id": "69116",
+          "status": "در حال بررسی",
+          "accurate": "no"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.071Z",
+        "updatedAt": "2026-03-11T21:01:42.071Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.44671342611,
+          29.70371001091
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "status": "active",
+        "id": "MTM6NjkxMTc",
+        "date": "1772288145",
+        "name:fa": "صنایع الکترونیک شیراز",
+        "publicId": "MTM6NjkxMTc",
+        "sourceId": "69117",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "accurate": "no",
+          "status": "در حال بررسی",
+          "id": "69117",
+          "date": "1772288145",
+          "name:fa": "صنایع الکترونیک شیراز"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.072Z",
+        "updatedAt": "2026-03-11T21:01:42.072Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81986,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39892456769,
+          35.6920143774
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "accurate": "yes",
+        "name:fa": "بیت رهبری جمهوری اسلامی",
+        "id": "MTM6NjkwOTE",
+        "date": "1772259165",
+        "sources": "https://x.com/trbrtc/status/2027703248887427576",
+        "publicId": "MTM6NjkwOTE",
+        "sourceId": "69091",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "status": "تایید شده",
+          "accurate": "yes",
+          "name:fa": "بیت رهبری جمهوری اسلامی",
+          "id": "69091",
+          "date": "1772259165",
+          "sources": "https://x.com/trbrtc/status/2027703248887427576"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.072Z",
+        "updatedAt": "2026-03-11T21:01:42.072Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.04340576053,
+          29.61719190595
+        ]
+      },
+      "properties": {
+        "name:fa": "رادار دشت‌ارژن",
+        "date": "1772281845",
+        "id": "MTM6NjkxMjA",
+        "status": "active",
+        "accurate": "no",
+        "publicId": "MTM6NjkxMjA",
+        "sourceId": "69120",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "رادار دشت‌ارژن",
+          "date": "1772281845",
+          "id": "69120",
+          "status": "در حال بررسی",
+          "accurate": "no"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.073Z",
+        "updatedAt": "2026-03-11T21:01:42.073Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4803133,
+          35.7928843
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرک شهید چمران",
+        "date": "1772326402",
+        "id": "MTM6NjkxMzE",
+        "status": "active",
+        "accurate": "no",
+        "sources": "https://x.com/hey_itsmyturn/status/2027910028523438240",
+        "publicId": "MTM6NjkxMzE",
+        "sourceId": "69131",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "شهرک شهید چمران",
+          "date": "1772326402",
+          "id": "69131",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "sources": "https://x.com/hey_itsmyturn/status/2027910028523438240"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.074Z",
+        "updatedAt": "2026-03-11T21:01:42.074Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.725,
+          33.725
+        ]
+      },
+      "properties": {
+        "name:fa": "تاسیسات غنی‌سازی نطنز",
+        "date": "1772467153",
+        "id": "MTM6NjkxMzI",
+        "status": "active",
+        "accurate": "no",
+        "sources": "https://x.com/BenTzionMacales/status/2028500382872158587",
+        "publicId": "MTM6NjkxMzI",
+        "sourceId": "69132",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "تاسیسات غنی‌سازی نطنز",
+          "date": "1772467153",
+          "id": "69132",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "sources": "https://x.com/BenTzionMacales/status/2028500382872158587"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.074Z",
+        "updatedAt": "2026-03-11T21:01:42.074Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3909769,
+          35.6909892
+        ]
+      },
+      "properties": {
+        "name:fa": "حوالی خیابان پاستور",
+        "date": "1772484614",
+        "id": "MTM6NjkxMzM",
+        "status": "active",
+        "accurate": "no",
+        "sources": "https://x.com/hey_itsmyturn/status/2028573617282240946",
+        "publicId": "MTM6NjkxMzM",
+        "sourceId": "69133",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "حوالی خیابان پاستور",
+          "date": "1772484614",
+          "id": "69133",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "sources": "https://x.com/hey_itsmyturn/status/2028573617282240946"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.074Z",
+        "updatedAt": "2026-03-11T21:01:42.074Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4066,
+          35.6864
+        ]
+      },
+      "properties": {
+        "name:fa": "خیابان امام خمینی",
+        "date": "1772486431",
+        "id": "MTM6NjkxMzQ",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/hey_itsmyturn/status/2028581238345240742",
+        "publicId": "MTM6NjkxMzQ",
+        "sourceId": "69134",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "خیابان امام خمینی",
+          "date": "1772486431",
+          "id": "69134",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/hey_itsmyturn/status/2028581238345240742"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.075Z",
+        "updatedAt": "2026-03-11T21:01:42.075Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4168,
+          35.7907
+        ]
+      },
+      "properties": {
+        "name:fa": "مجموعه صداوسیما",
+        "date": "1772488432",
+        "id": "MTM6NjkxMzU",
+        "status": "active",
+        "accurate": "no",
+        "sources": "https://x.com/hey_itsmyturn/status/2028589631260799373",
+        "geolocates": "https://x.com/zarGEOINT/status/2028591547902476531, https://x.com/zarGEOINT/status/2028592134161346657",
+        "publicId": "MTM6NjkxMzU",
+        "sourceId": "69135",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "مجموعه صداوسیما",
+          "date": "1772488432",
+          "id": "69135",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "sources": "https://x.com/hey_itsmyturn/status/2028589631260799373",
+          "geolocates": "https://x.com/zarGEOINT/status/2028591547902476531, https://x.com/zarGEOINT/status/2028592134161346657"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.075Z",
+        "updatedAt": "2026-03-11T21:01:42.075Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2555,
+          27.64002
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه موشکی لار",
+        "date": "1772491103",
+        "id": "MTM6NjkxMzY",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/hey_itsmyturn/status/2028600833789558872",
+        "publicId": "MTM6NjkxMzY",
+        "sourceId": "69136",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه موشکی لار",
+          "date": "1772491103",
+          "id": "69136",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/hey_itsmyturn/status/2028600833789558872"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.076Z",
+        "updatedAt": "2026-03-11T21:01:42.076Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81994,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42,
+          33.6374
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر استانی وزارت اطلاعات ایلام",
+        "date": "1772496701",
+        "id": "MTM6NjkxMzc",
+        "status": "active",
+        "accurate": "no",
+        "sources": "https://x.com/hey_itsmyturn/status/2028624313796952136",
+        "publicId": "MTM6NjkxMzc",
+        "sourceId": "69137",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "مقر استانی وزارت اطلاعات ایلام",
+          "date": "1772496701",
+          "id": "69137",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "sources": "https://x.com/hey_itsmyturn/status/2028624313796952136"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.076Z",
+        "updatedAt": "2026-03-11T21:01:42.076Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81995,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.49,
+          35.7842
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز تحقیقات دفاعی تقاطع بابایی و امام علی",
+        "date": "1772484071",
+        "id": "MTM6NjkxMzg",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/Vahid/status/2028571341503271353",
+        "publicId": "MTM6NjkxMzg",
+        "sourceId": "69138",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "مرکز تحقیقات دفاعی تقاطع بابایی و امام علی",
+          "date": "1772484071",
+          "id": "69138",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/Vahid/status/2028571341503271353"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.077Z",
+        "updatedAt": "2026-03-11T21:01:42.077Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8725,
+          35.62444
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه موشکی بیدگانه ملارد",
+        "date": "1772460239",
+        "id": "MTM6NjkxMzk",
+        "status": "active",
+        "accurate": "no",
+        "sources": "https://x.com/Vahid/status/2028471383546597762",
+        "publicId": "MTM6NjkxMzk",
+        "sourceId": "69139",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه موشکی بیدگانه ملارد",
+          "date": "1772460239",
+          "id": "69139",
+          "status": "در حال بررسی",
+          "accurate": "no",
+          "sources": "https://x.com/Vahid/status/2028471383546597762"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.077Z",
+        "updatedAt": "2026-03-11T21:01:42.077Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.220321,
+          35.754583
+        ]
+      },
+      "properties": {
+        "name:fa": "حوالی رزمال",
+        "date": "1772410959",
+        "id": "MTM6NjkxNDA",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/Wolltigerhueter/status/2028264686370574587",
+        "geolocates": "https://x.com/GeoConfirmed/status/2028633815460315497",
+        "publicId": "MTM6NjkxNDA",
+        "sourceId": "69140",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "حوالی رزمال",
+          "date": "1772410959",
+          "id": "69140",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/Wolltigerhueter/status/2028264686370574587",
+          "geolocates": "https://x.com/GeoConfirmed/status/2028633815460315497"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.077Z",
+        "updatedAt": "2026-03-11T21:01:42.077Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.287024,
+          35.752237
+        ]
+      },
+      "properties": {
+        "name:fa": "ضربات تهران (دود)",
+        "date": "1772498675",
+        "id": "MTM6NjkxNDE",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/GhonchehAzad/status/2028632595156598874",
+        "publicId": "MTM6NjkxNDE",
+        "sourceId": "69141",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "ضربات تهران (دود)",
+          "date": "1772498675",
+          "id": "69141",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/GhonchehAzad/status/2028632595156598874"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.078Z",
+        "updatedAt": "2026-03-11T21:01:42.078Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.204141,
+          27.14371
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه دریایی بندرعباس",
+        "date": "1772498196",
+        "id": "MTM6NjkxNDI",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/GeoConfirmed/status/2028630587586535756",
+        "geolocates": "https://x.com/JosephHDempsey/status/2028518101562581115",
+        "publicId": "MTM6NjkxNDI",
+        "sourceId": "69142",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه دریایی بندرعباس",
+          "date": "1772498196",
+          "id": "69142",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/GeoConfirmed/status/2028630587586535756",
+          "geolocates": "https://x.com/JosephHDempsey/status/2028518101562581115"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.078Z",
+        "updatedAt": "2026-03-11T21:01:42.078Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.33518,
+          35.748167
+        ]
+      },
+      "properties": {
+        "name:fa": "حوالی دانشگاه علم و فرهنگ",
+        "date": "1772495662",
+        "id": "MTM6NjkxNDM",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/Shayan86/status/2028619958398165033",
+        "publicId": "MTM6NjkxNDM",
+        "sourceId": "69143",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "حوالی دانشگاه علم و فرهنگ",
+          "date": "1772495662",
+          "id": "69143",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/Shayan86/status/2028619958398165033"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.079Z",
+        "updatedAt": "2026-03-11T21:01:42.079Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.06012,
+          35.63299
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی غرب تهران",
+        "date": "1772483302",
+        "id": "MTM6NjkxNDQ",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/zarGEOINT/status/2028568117606015115",
+        "publicId": "MTM6NjkxNDQ",
+        "sourceId": "69144",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "فرماندهی انتظامی غرب تهران",
+          "date": "1772483302",
+          "id": "69144",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/zarGEOINT/status/2028568117606015115"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.079Z",
+        "updatedAt": "2026-03-11T21:01:42.079Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.01543,
+          35.25335
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مرزبانی سنندج",
+        "date": "1772480763",
+        "id": "MTM6NjkxNDU",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/zarGEOINT/status/2028557465353343125",
+        "publicId": "MTM6NjkxNDU",
+        "sourceId": "69145",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاه مرزبانی سنندج",
+          "date": "1772480763",
+          "id": "69145",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/zarGEOINT/status/2028557465353343125"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.079Z",
+        "updatedAt": "2026-03-11T21:01:42.079Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4978,
+          35.6937
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد فرماندهی کل سپاه، میدان کلاهدوز",
+        "date": "1772476828",
+        "id": "MTM6NjkxNDY",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/Vahid/status/2028540963912573092",
+        "publicId": "MTM6NjkxNDY",
+        "sourceId": "69146",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "ستاد فرماندهی کل سپاه، میدان کلاهدوز",
+          "date": "1772476828",
+          "id": "69146",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/Vahid/status/2028540963912573092"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.080Z",
+        "updatedAt": "2026-03-11T21:01:42.080Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.514,
+          35.785
+        ]
+      },
+      "properties": {
+        "name:fa": "جهاد خودکفایی نزاجا، ازگل",
+        "date": "1772418642",
+        "id": "MTM6NjkxNDc",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/Vahid/status/2028296912957288533",
+        "publicId": "MTM6NjkxNDc",
+        "sourceId": "69147",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "جهاد خودکفایی نزاجا، ازگل",
+          "date": "1772418642",
+          "id": "69147",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/Vahid/status/2028296912957288533"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.080Z",
+        "updatedAt": "2026-03-11T21:01:42.080Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4449,
+          35.7507
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان ویران‌شده ضربات تهران (بعد از شریعتی، بزرگراه همت)",
+        "date": "1772498235",
+        "id": "MTM6NjkxNDg",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/GeoConfirmed/status/2028630751689003177, https://x.com/Vahid/status/2028523954302841322",
+        "geolocates": "https://x.com/Wolltigerhueter/status/2028526770987905383",
+        "publicId": "MTM6NjkxNDg",
+        "sourceId": "69148",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "ساختمان ویران‌شده ضربات تهران (بعد از شریعتی، بزرگراه همت)",
+          "date": "1772498235",
+          "id": "69148",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/GeoConfirmed/status/2028630751689003177, https://x.com/Vahid/status/2028523954302841322",
+          "geolocates": "https://x.com/Wolltigerhueter/status/2028526770987905383"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.081Z",
+        "updatedAt": "2026-03-11T21:01:42.081Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.00757,
+          35.28896
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی سنندج",
+        "date": "1772450463",
+        "id": "MTM6NjkxNDk",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/zarGEOINT/status/2028430378793304473",
+        "publicId": "MTM6NjkxNDk",
+        "sourceId": "69149",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "فرماندهی انتظامی سنندج",
+          "date": "1772450463",
+          "id": "69149",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/zarGEOINT/status/2028430378793304473"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.081Z",
+        "updatedAt": "2026-03-11T21:01:42.081Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4371878,
+          34.8670998
+        ]
+      },
+      "properties": {
+        "name:fa": "شکست موشک سپاه شمال همدان",
+        "date": "1772448983",
+        "id": "MTM6NjkxNTA",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/MiddleEastBuka/status/2028424171500310549, https://x.com/MohamadAhwaze/status/2028400216982884748",
+        "geolocates": "https://x.com/MiddleEastBuka/status/2028424171500310549",
+        "publicId": "MTM6NjkxNTA",
+        "sourceId": "69150",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "شکست موشک سپاه شمال همدان",
+          "date": "1772448983",
+          "id": "69150",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/MiddleEastBuka/status/2028424171500310549, https://x.com/MohamadAhwaze/status/2028400216982884748",
+          "geolocates": "https://x.com/MiddleEastBuka/status/2028424171500310549"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.082Z",
+        "updatedAt": "2026-03-11T21:01:42.082Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4560226,
+          36.6821028
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار مهمات سپاه زنجان",
+        "date": "1772437152",
+        "id": "MTM6NjkxNTE",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/MiddleEastBuka/status/2028374548593119570, https://x.com/mamlekate/status/2028202059674050968",
+        "geolocates": "https://x.com/MiddleEastBuka/status/2028374548593119570",
+        "publicId": "MTM6NjkxNTE",
+        "sourceId": "69151",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "انبار مهمات سپاه زنجان",
+          "date": "1772437152",
+          "id": "69151",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/MiddleEastBuka/status/2028374548593119570, https://x.com/mamlekate/status/2028202059674050968",
+          "geolocates": "https://x.com/MiddleEastBuka/status/2028374548593119570"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.082Z",
+        "updatedAt": "2026-03-11T21:01:42.082Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.121489,
+          35.418573
+        ]
+      },
+      "properties": {
+        "name:fa": "گنبد رادار فرودگاه امام خمینی",
+        "date": "1772498897",
+        "id": "MTM6NjkxNTI",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/GeoConfirmed/status/2028633524505321480, https://x.com/geo27752/status/2028455498014466158",
+        "geolocates": "https://x.com/geo27752/status/2028455498014466158",
+        "publicId": "MTM6NjkxNTI",
+        "sourceId": "69152",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "گنبد رادار فرودگاه امام خمینی",
+          "date": "1772498897",
+          "id": "69152",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/GeoConfirmed/status/2028633524505321480, https://x.com/geo27752/status/2028455498014466158",
+          "geolocates": "https://x.com/geo27752/status/2028455498014466158"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.083Z",
+        "updatedAt": "2026-03-11T21:01:42.083Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4233892,
+          35.6770044
+        ]
+      },
+      "properties": {
+        "name:fa": "خسارت بازار بزرگ تهران (نزدیک مجتمع قضایی)",
+        "date": "1772503410",
+        "id": "MTM6NjkxNTM",
+        "status": "active",
+        "accurate": "yes",
+        "sources": "https://x.com/Shayan86/status/2028652453193826635",
+        "publicId": "MTM6NjkxNTM",
+        "sourceId": "69153",
+        "layerId": 13,
+        "type": "location",
+        "urgency": null,
+        "info": {
+          "name:fa": "خسارت بازار بزرگ تهران (نزدیک مجتمع قضایی)",
+          "date": "1772503410",
+          "id": "69153",
+          "status": "در حال بررسی",
+          "accurate": "yes",
+          "sources": "https://x.com/Shayan86/status/2028652453193826635"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:01:42.083Z",
+        "updatedAt": "2026-03-11T21:01:42.083Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.17580632583616,
+          35.49564904435172
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1773174600,
+        "geolocates": "",
+        "sources": "https://t.me/VahidOnline/72374?single , https://www.instagram.com/reel/DVvjynkF34U/?igsh=dXlvZHltcTVka2R0",
+        "id": "MTM6NDdkYzE4NDQ5Yjc0",
+        "publicId": "MTM6NDdkYzE4NDQ5Yjc0",
+        "sourceId": "47dc18449b74",
+        "layerId": 13,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "",
+          "unofficial_name:fa": "",
+          "date": 1773174600,
+          "geolocates": "",
+          "sources": "https://t.me/VahidOnline/72374?single , https://www.instagram.com/reel/DVvjynkF34U/?igsh=dXlvZHltcTVka2R0"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T20:32:06.824Z",
+        "updatedAt": "2026-03-13T20:32:06.824Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.26658454111259,
+          33.862734403980696
+        ]
+      },
+      "properties": {
+        "name:fa": "فرمانهی پلیس الشتر لرستان",
+        "unofficial_name:fa": "",
+        "date": "2026-03-08T10:56:50.000Z",
+        "geolocates": "",
+        "sources": "https://x.com/hey_itsmyturn/status/2032566238707159480",
+        "id": "MTM6NWFjNzdiNWY0ZTJm",
+        "publicId": "MTM6NWFjNzdiNWY0ZTJm",
+        "sourceId": "5ac77b5f4e2f",
+        "layerId": 13,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "فرمانهی پلیس الشتر لرستان",
+          "unofficial_name:fa": "",
+          "date": "2026-03-08T10:56:50.000Z",
+          "geolocates": "",
+          "sources": "https://x.com/hey_itsmyturn/status/2032566238707159480"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T21:27:43.461Z",
+        "updatedAt": "2026-03-13T21:27:43.461Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.44462072598509,
+          35.77821244004464
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاە آگجە",
+        "unofficial_name:fa": "",
+        "date": 29552910,
+        "geolocates": "",
+        "sources": "",
+        "id": "MTM6MTMxMjAzMDkxYTE0",
+        "publicId": "MTM6MTMxMjAzMDkxYTE0",
+        "sourceId": "131203091a14",
+        "layerId": 13,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پایگاە آگجە",
+          "unofficial_name:fa": "",
+          "date": 29552910,
+          "geolocates": "",
+          "sources": ""
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-14T13:06:41.589Z",
+        "updatedAt": "2026-03-14T13:06:41.589Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.303642492551546,
+          33.83351545251827
+        ]
+      },
+      "properties": {
+        "name:fa": "ترور هدفمند - ایوان ایلام",
+        "unofficial_name:fa": "",
+        "date": 29031960,
+        "geolocates": "",
+        "sources": "https://x.com/Vahid/status/2032822946834559076",
+        "id": "MTM6ZWM2OTJkYTkwNTA0",
+        "publicId": "MTM6ZWM2OTJkYTkwNTA0",
+        "sourceId": "ec692da90504",
+        "layerId": 13,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ترور هدفمند - ایوان ایلام",
+          "unofficial_name:fa": "",
+          "date": 29031960,
+          "geolocates": "",
+          "sources": "https://x.com/Vahid/status/2032822946834559076"
+        },
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-14T18:37:18.118Z",
+        "updatedAt": "2026-03-14T18:37:18.118Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.240881767940664,
+          35.694050387798086
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان آماد و پشتیبانی شهید بروجردی سپاه پاسداران",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "sources": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTM6MjEyOTFkNDEzNTdm",
+        "publicId": "MTM6MjEyOTFkNDEzNTdm",
+        "sourceId": "21291d41357f",
+        "layerId": 13,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "پادگان آماد و پشتیبانی شهید بروجردی سپاه پاسداران",
+          "unofficial_name:fa": "",
+          "date": "",
+          "geolocates": "",
+          "sources": "",
+          "city": "تهران",
+          "province": "استان تهران"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T07:38:11.982Z",
+        "updatedAt": "2026-03-26T02:08:20.612Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.98964982209188,
+          35.719784292634415
+        ]
+      },
+      "properties": {
+        "name:fa": "مجموعه تولید موشک های بالستیک",
+        "unofficial_name:fa": "",
+        "date": 1774081800,
+        "geolocates": "",
+        "sources": "https://x.com/acceladealer/status/2035812684008988835?s=20",
+        "description": "",
+        "city": "شهرستان دماوند",
+        "province": "استان تهران",
+        "id": "MTM6ZmMzNDg0ZTI3MTI4",
+        "publicId": "MTM6ZmMzNDg0ZTI3MTI4",
+        "sourceId": "fc3484e27128",
+        "layerId": 13,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "مجموعه تولید موشک های بالستیک",
+          "unofficial_name:fa": "",
+          "date": 1774081800,
+          "geolocates": "",
+          "sources": "https://x.com/acceladealer/status/2035812684008988835?s=20",
+          "description": "",
+          "city": "شهرستان دماوند",
+          "province": "استان تهران"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-23T11:13:58.719Z",
+        "updatedAt": "2026-03-26T02:09:00.809Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4645046634771,
+          35.766434424147846
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان امنیتی",
+        "unofficial_name:fa": "",
+        "date": 1750710600,
+        "geolocates": "",
+        "sources": "https://x.com/Vahid/status/1937451759548645853",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTM6ZDQzY2IxNzY4ZGZm",
+        "publicId": "MTM6ZDQzY2IxNzY4ZGZm",
+        "sourceId": "d43cb1768dff",
+        "layerId": 13,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "info": {
+          "name:fa": "ساختمان امنیتی",
+          "unofficial_name:fa": "",
+          "date": 1750710600,
+          "geolocates": "",
+          "sources": "https://x.com/Vahid/status/1937451759548645853",
+          "description": "",
+          "city": "تهران",
+          "province": "استان تهران"
+        },
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T12:39:57.793Z",
+        "updatedAt": "2026-04-02T12:39:57.793Z"
+      }
+    }
+  ],
+  "metadata": {
+    "total": 71,
+    "layerId": 13,
+    "clustered": false,
+    "simplified": false
+  }
+}
