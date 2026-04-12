@@ -7501,34 +7501,6 @@
     },
     {
       "type": "Feature",
-      "id": 90529,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          60.607828140983685,
-          25.44800844485431
-        ]
-      },
-      "properties": {
-        "name": "ایستگاه رادیویی فجر",
-        "description": "",
-        "city": "شهرستان کنارک",
-        "province": "استان سیستان و بلوچستان",
-        "id": "MzU6MWNlZDEwNDZmYmE3",
-        "publicId": "MzU6MWNlZDEwNDZmYmE3",
-        "sourceId": "1ced1046fba7",
-        "layerId": 35,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-18T16:45:23.271Z",
-        "updatedAt": "2026-03-26T02:08:37.574Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 90530,
       "geometry": {
         "type": "Point",
@@ -8050,35 +8022,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-18T22:24:14.597Z",
         "updatedAt": "2026-03-26T02:08:38.878Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 90580,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.2977439426962,
-          35.78065161335411
-        ]
-      },
-      "properties": {
-        "city": "تهران",
-        "name": "",
-        "name:fa": "انبار نفت شهران",
-        "province": "استان تهران",
-        "description": "انبار نفت شهران",
-        "id": "MzU6Y2M3NGVlYTU0NTc1",
-        "publicId": "MzU6Y2M3NGVlYTU0NTc1",
-        "sourceId": "cc74eea54575",
-        "layerId": 35,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-19T06:20:54.140Z",
-        "updatedAt": "2026-04-08T19:39:30.292Z"
       }
     },
     {
@@ -13802,35 +13745,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-21T20:04:18.606Z",
         "updatedAt": "2026-03-26T02:08:55.227Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 90866,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.057767576695454,
-          37.35222832026042
-        ]
-      },
-      "properties": {
-        "name": "دکل مخابرات شهرداری",
-        "description": "",
-        "date": "",
-        "city": "بناب",
-        "province": "استان آذربایجان شرقی",
-        "id": "MzU6OGEwM2IzODdjZGEw",
-        "publicId": "MzU6OGEwM2IzODdjZGEw",
-        "sourceId": "8a03b387cda0",
-        "layerId": 35,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-21T20:04:42.674Z",
-        "updatedAt": "2026-03-26T02:08:55.295Z"
       }
     },
     {
@@ -65679,36 +65593,6 @@
     },
     {
       "type": "Feature",
-      "id": 92714,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.00252068225416,
-          37.56787848696385
-        ]
-      },
-      "properties": {
-        "name": "",
-        "description": "دکل مخابرات. شماره ثبت۵۳۷۳۸",
-        "date": 1774889427,
-        "city": "ارومیه",
-        "province": "استان آذربایجان غربی",
-        "name:fa": "دکل مخابرات",
-        "id": "MzU6ZGI5N2U5ZDRlN2Y5",
-        "publicId": "MzU6ZGI5N2U5ZDRlN2Y5",
-        "sourceId": "db97e9d4e7f9",
-        "layerId": 35,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-30T23:55:29.111Z",
-        "updatedAt": "2026-03-30T23:55:29.111Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92715,
       "geometry": {
         "type": "Point",
@@ -66486,35 +66370,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-31T12:24:33.976Z",
         "updatedAt": "2026-03-31T12:24:33.976Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92742,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          56.92241310258203,
-          30.330054654004712
-        ]
-      },
-      "properties": {
-        "name": "مخابرات",
-        "description": "",
-        "date": "",
-        "city": "اختیار آباد",
-        "province": "استان کرمان",
-        "id": "MzU6N2Q2MmExZWZiNDY3",
-        "publicId": "MzU6N2Q2MmExZWZiNDY3",
-        "sourceId": "7d62a1efb467",
-        "layerId": 35,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-31T12:25:17.914Z",
-        "updatedAt": "2026-03-31T12:25:17.914Z"
       }
     },
     {
@@ -69273,35 +69128,6 @@
     },
     {
       "type": "Feature",
-      "id": 92838,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.530767838452476,
-          36.71669907291803
-        ]
-      },
-      "properties": {
-        "name": "دکل ارتباطات",
-        "description": "",
-        "date": "",
-        "city": "گاوازنگ",
-        "province": "استان زنجان",
-        "id": "MzU6NzQwMGQ5NDgzNzUz",
-        "publicId": "MzU6NzQwMGQ5NDgzNzUz",
-        "sourceId": "7400d9483753",
-        "layerId": 35,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-04-02T13:22:06.863Z",
-        "updatedAt": "2026-04-02T13:22:06.863Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92839,
       "geometry": {
         "type": "Point",
@@ -69719,35 +69545,6 @@
         "expirationDate": null,
         "createdAt": "2026-04-02T18:30:47.954Z",
         "updatedAt": "2026-04-02T18:30:47.954Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92854,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          59.510085108035355,
-          36.349722989747804
-        ]
-      },
-      "properties": {
-        "name": "مرکز رادیویی موج کوتاه خراسان",
-        "description": "",
-        "date": "",
-        "city": "مشهد",
-        "province": "استان خراسان رضوی",
-        "id": "MzU6YjVhZDg0ZmQwNTAz",
-        "publicId": "MzU6YjVhZDg0ZmQwNTAz",
-        "sourceId": "b5ad84fd0503",
-        "layerId": 35,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-04-02T18:31:32.607Z",
-        "updatedAt": "2026-04-02T18:31:32.607Z"
       }
     },
     {
@@ -73917,7 +73714,7 @@
     }
   ],
   "metadata": {
-    "total": 2506,
+    "total": 2499,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
