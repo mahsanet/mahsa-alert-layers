@@ -1,0 +1,3926 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 81802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1974155876,
+          32.66627123041
+        ]
+      },
+      "properties": {
+        "name:fa": "رحیم حیدری",
+        "id": "MjI6MTIxNDM",
+        "date": "1771497035",
+        "accurate": "yes",
+        "publicId": "MjI6MTIxNDM",
+        "sourceId": "12143",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.122Z",
+        "updatedAt": "2026-03-11T21:00:54.122Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38535260886,
+          35.53212582325
+        ]
+      },
+      "properties": {
+        "name:fa": "آیدا حیدری",
+        "id": "MjI6MTIxMzM",
+        "date": "1770966035",
+        "accurate": "yes",
+        "publicId": "MjI6MTIxMzM",
+        "sourceId": "12133",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.123Z",
+        "updatedAt": "2026-03-11T21:00:54.123Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.33174846411,
+          36.79543659021
+        ]
+      },
+      "properties": {
+        "id": "MjI6MTI4NjY",
+        "name:fa": "مهدی ساوری",
+        "date": "1770960645",
+        "accurate": "no",
+        "publicId": "MjI6MTI4NjY",
+        "sourceId": "12866",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.123Z",
+        "updatedAt": "2026-03-11T21:00:54.123Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.30349695146,
+          32.62821424289
+        ]
+      },
+      "properties": {
+        "accurate": "yes",
+        "date": "1770960635",
+        "id": "MjI6MTIxNDI",
+        "name:fa": "مصطفی آدگار صالحی",
+        "publicId": "MjI6MTIxNDI",
+        "sourceId": "12142",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.124Z",
+        "updatedAt": "2026-03-11T21:00:54.124Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.55800103605,
+          35.3423341951
+        ]
+      },
+      "properties": {
+        "accurate": "yes",
+        "date": "1771497035",
+        "name:fa": "علا قشقایی",
+        "id": "MjI6MTI4NTk",
+        "publicId": "MjI6MTI4NTk",
+        "sourceId": "12859",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.124Z",
+        "updatedAt": "2026-03-11T21:00:54.124Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38617336616,
+          35.52252112838
+        ]
+      },
+      "properties": {
+        "name:fa": "امیر احمدوند",
+        "id": "MjI6MTIxNDE",
+        "date": "1770964235",
+        "accurate": "yes",
+        "publicId": "MjI6MTIxNDE",
+        "sourceId": "12141",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.124Z",
+        "updatedAt": "2026-03-11T21:00:54.124Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.67072903842,
+          34.10801370205
+        ]
+      },
+      "properties": {
+        "date": "1770967835",
+        "id": "MjI6MTIxMzg",
+        "name:fa": "امیرحسین دولت‌آبادی",
+        "accurate": "yes",
+        "publicId": "MjI6MTIxMzg",
+        "sourceId": "12138",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.125Z",
+        "updatedAt": "2026-03-11T21:00:54.125Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.03892922133,
+          35.79311923522
+        ]
+      },
+      "properties": {
+        "accurate": "yes",
+        "date": "1770885035",
+        "id": "MjI6MTIxNDQ",
+        "name:fa": "محمد جباری",
+        "publicId": "MjI6MTIxNDQ",
+        "sourceId": "12144",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.125Z",
+        "updatedAt": "2026-03-11T21:00:54.125Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.10515319765,
+          34.3035013685
+        ]
+      },
+      "properties": {
+        "name:fa": "رضا کدیوریان",
+        "id": "MjI6MTIxMzc",
+        "date": "1770888635",
+        "accurate": "yes",
+        "publicId": "MjI6MTIxMzc",
+        "sourceId": "12137",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.126Z",
+        "updatedAt": "2026-03-11T21:00:54.126Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.44214581907,
+          37.47868105722
+        ]
+      },
+      "properties": {
+        "accurate": "yes",
+        "date": "1771241435",
+        "id": "MjI6MTIxNDg",
+        "name:fa": "میلاد میانه‌خواه منفردی",
+        "publicId": "MjI6MTIxNDg",
+        "sourceId": "12148",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.126Z",
+        "updatedAt": "2026-03-11T21:00:54.126Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36716454953,
+          32.64896454628
+        ]
+      },
+      "properties": {
+        "id": "MjI6MTI4NjI",
+        "name:fa": "محمد‌مهدی مجیدی",
+        "date": "1771324235",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4NjI",
+        "sourceId": "12862",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.127Z",
+        "updatedAt": "2026-03-11T21:00:54.127Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48217784822,
+          36.70144462928
+        ]
+      },
+      "properties": {
+        "id": "MjI6MTIxMzI",
+        "name:fa": "محمدامین امیری",
+        "date": "1770892235",
+        "accurate": "yes",
+        "publicId": "MjI6MTIxMzI",
+        "sourceId": "12132",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.127Z",
+        "updatedAt": "2026-03-11T21:00:54.127Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3873560375,
+          31.93101281337
+        ]
+      },
+      "properties": {
+        "name:fa": "دانیال کارشناس",
+        "id": "MjI6MTI4NTY",
+        "date": "1771327835",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4NTY",
+        "sourceId": "12856",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.127Z",
+        "updatedAt": "2026-03-11T21:00:54.127Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50500056982,
+          35.39457762096
+        ]
+      },
+      "properties": {
+        "id": "MjI6MTI4NjA",
+        "name:fa": "لیلا شکری",
+        "date": "1771241435",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4NjA",
+        "sourceId": "12860",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.128Z",
+        "updatedAt": "2026-03-11T21:00:54.128Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.42788421571,
+          36.85134205502
+        ]
+      },
+      "properties": {
+        "accurate": "yes",
+        "date": "1771065035",
+        "name:fa": "رضا اسدی",
+        "id": "MjI6MTI4NjM",
+        "publicId": "MjI6MTI4NjM",
+        "sourceId": "12863",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.128Z",
+        "updatedAt": "2026-03-11T21:00:54.128Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.55647217691,
+          35.4245619295
+        ]
+      },
+      "properties": {
+        "id": "MjI6MTI4NTg",
+        "name:fa": "حسن باهو",
+        "date": "1770982235",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4NTg",
+        "sourceId": "12858",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.129Z",
+        "updatedAt": "2026-03-11T21:00:54.129Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43209278047,
+          36.65881011268
+        ]
+      },
+      "properties": {
+        "name:fa": "سیده افسانه رضویان‌پول",
+        "id": "MjI6MTIxMzU",
+        "date": "1770895835",
+        "accurate": "yes",
+        "publicId": "MjI6MTIxMzU",
+        "sourceId": "12135",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.129Z",
+        "updatedAt": "2026-03-11T21:00:54.129Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.28930280447,
+          34.27904562296
+        ]
+      },
+      "properties": {
+        "accurate": "no",
+        "date": "1770892245",
+        "id": "MjI6MTI4NTc",
+        "name:fa": "رضا رحمتی",
+        "publicId": "MjI6MTI4NTc",
+        "sourceId": "12857",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.130Z",
+        "updatedAt": "2026-03-11T21:00:54.130Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50486379594,
+          35.39446828107
+        ]
+      },
+      "properties": {
+        "accurate": "yes",
+        "date": "1770883235",
+        "name:fa": "محمد فرهادی",
+        "id": "MjI6MTI4NjU",
+        "publicId": "MjI6MTI4NjU",
+        "sourceId": "12865",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.130Z",
+        "updatedAt": "2026-03-11T21:00:54.130Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.59955142856,
+          33.37201319509
+        ]
+      },
+      "properties": {
+        "name:fa": "مهدی امامی‌پور",
+        "id": "MjI6MTIxMzE",
+        "date": "1770892245",
+        "accurate": "no",
+        "publicId": "MjI6MTIxMzE",
+        "sourceId": "12131",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.130Z",
+        "updatedAt": "2026-03-11T21:00:54.130Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.10506200522,
+          34.30352352304
+        ]
+      },
+      "properties": {
+        "date": "1770888635",
+        "id": "MjI6MTIxMzY",
+        "name:fa": "رسول کدیوریان",
+        "accurate": "yes",
+        "publicId": "MjI6MTIxMzY",
+        "sourceId": "12136",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.131Z",
+        "updatedAt": "2026-03-11T21:00:54.131Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.97878068417,
+          32.28716664724
+        ]
+      },
+      "properties": {
+        "accurate": "yes",
+        "date": "1770978635",
+        "name:fa": "علیرضا سدیان",
+        "id": "MjI6MTI4NjE",
+        "publicId": "MjI6MTI4NjE",
+        "sourceId": "12861",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.131Z",
+        "updatedAt": "2026-03-11T21:00:54.131Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.50514560804,
+          36.67041110274
+        ]
+      },
+      "properties": {
+        "accurate": "yes",
+        "date": "1771066835",
+        "id": "MjI6MTIxNDY",
+        "name:fa": "عرشیا براری",
+        "publicId": "MjI6MTIxNDY",
+        "sourceId": "12146",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.132Z",
+        "updatedAt": "2026-03-11T21:00:54.132Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8965146488,
+          32.00930870305
+        ]
+      },
+      "properties": {
+        "name:fa": "مجید جمشیدی گهروئی",
+        "id": "MjI6MTIxMzk",
+        "date": "1770892235",
+        "accurate": "yes",
+        "publicId": "MjI6MTIxMzk",
+        "sourceId": "12139",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.132Z",
+        "updatedAt": "2026-03-11T21:00:54.132Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.67785286367,
+          29.62414033487
+        ]
+      },
+      "properties": {
+        "name:fa": "ایمان میرشکاری‌زاده",
+        "id": "MjI6MTIxNDc",
+        "date": "1770897635",
+        "accurate": "yes",
+        "publicId": "MjI6MTIxNDc",
+        "sourceId": "12147",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.132Z",
+        "updatedAt": "2026-03-11T21:00:54.132Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36720477998,
+          35.53422124221
+        ]
+      },
+      "properties": {
+        "date": "1770966035",
+        "id": "MjI6MTIxMzQ",
+        "name:fa": "دانیال مرادی‌زاده",
+        "accurate": "yes",
+        "publicId": "MjI6MTIxMzQ",
+        "sourceId": "12134",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.133Z",
+        "updatedAt": "2026-03-11T21:00:54.133Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.49301799998,
+          36.66303051735
+        ]
+      },
+      "properties": {
+        "name:fa": "جاوید رضایی",
+        "id": "MjI6MTIxNDU",
+        "date": "1770966035",
+        "accurate": "yes",
+        "publicId": "MjI6MTIxNDU",
+        "sourceId": "12145",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.133Z",
+        "updatedAt": "2026-03-11T21:00:54.133Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.43376898229,
+          36.83680171566
+        ]
+      },
+      "properties": {
+        "id": "MjI6MTI4NjQ",
+        "name:fa": "آتنا حسینیان",
+        "date": "1770980435",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4NjQ",
+        "sourceId": "12864",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.134Z",
+        "updatedAt": "2026-03-11T21:00:54.134Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81830,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.480129,
+          35.755619
+        ]
+      },
+      "properties": {
+        "name:fa": "علی روزبهانی",
+        "id": "MjI6MTI4Njc",
+        "date": "1771592400",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4Njc",
+        "sourceId": "12867",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.134Z",
+        "updatedAt": "2026-03-11T21:00:54.134Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.431762,
+          36.658819
+        ]
+      },
+      "properties": {
+        "name:fa": "سیده افسانه رضویان پول",
+        "id": "MjI6MTI4Njg",
+        "date": "1770895800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4Njg",
+        "sourceId": "12868",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.134Z",
+        "updatedAt": "2026-03-11T21:00:54.134Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81832,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.689931,
+          34.50304
+        ]
+      },
+      "properties": {
+        "name:fa": "کربلایی رضا علی المؤمنی",
+        "id": "MjI6MTI4Njk",
+        "date": "1773855000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4Njk",
+        "sourceId": "12869",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.135Z",
+        "updatedAt": "2026-03-11T21:00:54.135Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81833,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.45984,
+          35.814155
+        ]
+      },
+      "properties": {
+        "name:fa": "مهندس مصطفی سرافراز اردکانی",
+        "id": "MjI6MTI4NzA",
+        "date": "1771416000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4NzA",
+        "sourceId": "12870",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.135Z",
+        "updatedAt": "2026-03-11T21:00:54.135Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81834,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.564536,
+          33.766365
+        ]
+      },
+      "properties": {
+        "name:fa": "امیر علی حیدری جعفر آبادی",
+        "id": "MjI6MTI4NzE",
+        "date": "1771324200",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4NzE",
+        "sourceId": "12871",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.136Z",
+        "updatedAt": "2026-03-11T21:00:54.136Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.237863,
+          34.276536
+        ]
+      },
+      "properties": {
+        "name:fa": "ملیکا دستیاب",
+        "id": "MjI6MTI4NzI",
+        "date": "1771408800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4NzI",
+        "sourceId": "12872",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.136Z",
+        "updatedAt": "2026-03-11T21:00:54.136Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81836,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.793207,
+          34.068512
+        ]
+      },
+      "properties": {
+        "name:fa": "دکتر سجاد کیانی",
+        "id": "MjI6MTI4NzM",
+        "date": "1771326000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4NzM",
+        "sourceId": "12873",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.136Z",
+        "updatedAt": "2026-03-11T21:00:54.136Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.534316,
+          34.084807
+        ]
+      },
+      "properties": {
+        "name:fa": "هلاکو ایوانی",
+        "id": "MjI6MTI4NzQ",
+        "date": "1771495200",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4NzQ",
+        "sourceId": "12874",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.137Z",
+        "updatedAt": "2026-03-11T21:00:54.137Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81838,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.564536,
+          33.766365
+        ]
+      },
+      "properties": {
+        "name:fa": "امیر علی حیدری جعفر آبادی",
+        "id": "MjI6MTI4NzU",
+        "date": "1771324200",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4NzU",
+        "sourceId": "12875",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.137Z",
+        "updatedAt": "2026-03-11T21:00:54.137Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.694607,
+          36.164073
+        ]
+      },
+      "properties": {
+        "name:fa": "مهدی نجفی",
+        "id": "MjI6MTI4NzY",
+        "date": "1771324200",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4NzY",
+        "sourceId": "12876",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.138Z",
+        "updatedAt": "2026-03-11T21:00:54.138Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81840,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.376324,
+          35.53039
+        ]
+      },
+      "properties": {
+        "name:fa": "زهره شماعی زاده",
+        "id": "MjI6MTI4Nzc",
+        "date": "1771325220",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4Nzc",
+        "sourceId": "12877",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.138Z",
+        "updatedAt": "2026-03-11T21:00:54.138Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81841,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.758466,
+          36.222659
+        ]
+      },
+      "properties": {
+        "name:fa": "علی حاتمی",
+        "id": "MjI6MTI4Nzg",
+        "date": "1771327800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4Nzg",
+        "sourceId": "12878",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.138Z",
+        "updatedAt": "2026-03-11T21:00:54.138Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.237863,
+          34.276536
+        ]
+      },
+      "properties": {
+        "name:fa": "ملیکا دستیاب",
+        "id": "MjI6MTI4Nzk",
+        "date": "1771408800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4Nzk",
+        "sourceId": "12879",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.139Z",
+        "updatedAt": "2026-03-11T21:00:54.139Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.917927,
+          37.816564
+        ]
+      },
+      "properties": {
+        "name:fa": "متین خسروی",
+        "id": "MjI6MTI4ODA",
+        "date": "1771326000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4ODA",
+        "sourceId": "12880",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.139Z",
+        "updatedAt": "2026-03-11T21:00:54.139Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81844,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.351952,
+          33.44156
+        ]
+      },
+      "properties": {
+        "name:fa": "محمد حسین پرنون",
+        "id": "MjI6MTI4ODE",
+        "date": "1771497240",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4ODE",
+        "sourceId": "12881",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.140Z",
+        "updatedAt": "2026-03-11T21:00:54.140Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81845,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.609728,
+          29.590546
+        ]
+      },
+      "properties": {
+        "name:fa": "سید آرمان موسوی",
+        "id": "MjI6MTI4ODI",
+        "date": "1771329600",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4ODI",
+        "sourceId": "12882",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.140Z",
+        "updatedAt": "2026-03-11T21:00:54.140Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.605091,
+          34.513061
+        ]
+      },
+      "properties": {
+        "name:fa": "دکتر پدرام ارغا",
+        "id": "MjI6MTI4ODM",
+        "date": "1771502400",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4ODM",
+        "sourceId": "12883",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.141Z",
+        "updatedAt": "2026-03-11T21:00:54.141Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6,
+          36.855
+        ]
+      },
+      "properties": {
+        "name:fa": "مهندس حبیب خوبی پور",
+        "id": "MjI6MTI4ODQ",
+        "date": "1771324200",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4ODQ",
+        "sourceId": "12884",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.141Z",
+        "updatedAt": "2026-03-11T21:00:54.141Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.665919,
+          35.949642
+        ]
+      },
+      "properties": {
+        "name:fa": "مهران سلیمی",
+        "id": "MjI6MTI4ODU",
+        "date": "1771327800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4ODU",
+        "sourceId": "12885",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.142Z",
+        "updatedAt": "2026-03-11T21:00:54.142Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.376324,
+          35.53039
+        ]
+      },
+      "properties": {
+        "name:fa": "ابو الفضل وحیدی",
+        "id": "MjI6MTI4ODY",
+        "date": "1771412400",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4ODY",
+        "sourceId": "12886",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.142Z",
+        "updatedAt": "2026-03-11T21:00:54.142Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81850,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.07457,
+          35.640208
+        ]
+      },
+      "properties": {
+        "name:fa": "رسول یزدانی",
+        "id": "MjI6MTI4ODc",
+        "date": "1771498800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4ODc",
+        "sourceId": "12887",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.143Z",
+        "updatedAt": "2026-03-11T21:00:54.143Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81851,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.200766,
+          35.484209
+        ]
+      },
+      "properties": {
+        "name:fa": "سجاد شاقلانی لور",
+        "id": "MjI6MTI4ODg",
+        "date": "1771410600",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4ODg",
+        "sourceId": "12888",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.143Z",
+        "updatedAt": "2026-03-11T21:00:54.143Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81852,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.359714,
+          35.664264
+        ]
+      },
+      "properties": {
+        "name:fa": "نوید میرزایی",
+        "id": "MjI6MTI4ODk",
+        "date": "1771318800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4ODk",
+        "sourceId": "12889",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.144Z",
+        "updatedAt": "2026-03-11T21:00:54.144Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81853,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.094682,
+          34.31632
+        ]
+      },
+      "properties": {
+        "name:fa": "تیام کیانی منش (محمدرضا)",
+        "id": "MjI6MTI4OTA",
+        "date": "1771333200",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4OTA",
+        "sourceId": "12890",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.144Z",
+        "updatedAt": "2026-03-11T21:00:54.144Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.441581,
+          34.392059
+        ]
+      },
+      "properties": {
+        "name:fa": "میثم نظری",
+        "id": "MjI6MTI4OTE",
+        "date": "1771322400",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4OTE",
+        "sourceId": "12891",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.145Z",
+        "updatedAt": "2026-03-11T21:00:54.145Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.459062,
+          35.680401
+        ]
+      },
+      "properties": {
+        "name:fa": "شهید حمید مهدوی",
+        "id": "MjI6MTI4OTI",
+        "date": "1771326000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4OTI",
+        "sourceId": "12892",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.145Z",
+        "updatedAt": "2026-03-11T21:00:54.145Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.431762,
+          36.658819
+        ]
+      },
+      "properties": {
+        "name:fa": "محمد رضا کریمی فر",
+        "id": "MjI6MTI4OTM",
+        "date": "1771504200",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4OTM",
+        "sourceId": "12893",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.145Z",
+        "updatedAt": "2026-03-11T21:00:54.145Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.178831,
+          35.561327
+        ]
+      },
+      "properties": {
+        "name:fa": "جواد کاظمی",
+        "id": "MjI6MTI4OTQ",
+        "date": "1771410600",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4OTQ",
+        "sourceId": "12894",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.146Z",
+        "updatedAt": "2026-03-11T21:00:54.146Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.07457,
+          35.640208
+        ]
+      },
+      "properties": {
+        "name:fa": "کمیل جمشیدی",
+        "id": "MjI6MTI4OTU",
+        "date": "1771497000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4OTU",
+        "sourceId": "12895",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.146Z",
+        "updatedAt": "2026-03-11T21:00:54.146Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.498849,
+          35.626336
+        ]
+      },
+      "properties": {
+        "name:fa": "داود عباسی",
+        "id": "MjI6MTI4OTY",
+        "date": "1771335000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4OTY",
+        "sourceId": "12896",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.147Z",
+        "updatedAt": "2026-03-11T21:00:54.147Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81860,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.417788,
+          35.798039
+        ]
+      },
+      "properties": {
+        "name:fa": "سعید کلوندی",
+        "id": "MjI6MTI4OTc",
+        "date": "1771461660",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4OTc",
+        "sourceId": "12897",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.147Z",
+        "updatedAt": "2026-03-11T21:00:54.147Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81861,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.416586,
+          33.61327
+        ]
+      },
+      "properties": {
+        "name:fa": "امیر حسین صفری گلدسته",
+        "id": "MjI6MTI4OTg",
+        "date": "1771237800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4OTg",
+        "sourceId": "12898",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.147Z",
+        "updatedAt": "2026-03-11T21:00:54.147Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81862,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.777924,
+          37.366925
+        ]
+      },
+      "properties": {
+        "name:fa": "میلاد غلام زاده",
+        "id": "MjI6MTI4OTk",
+        "date": "1771326000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI4OTk",
+        "sourceId": "12899",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.148Z",
+        "updatedAt": "2026-03-11T21:00:54.148Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81863,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.376324,
+          35.53039
+        ]
+      },
+      "properties": {
+        "name:fa": "شهید محمدرضا محسنی",
+        "id": "MjI6MTI5MDA",
+        "date": "1771324200",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MDA",
+        "sourceId": "12900",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.148Z",
+        "updatedAt": "2026-03-11T21:00:54.148Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81864,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.456451,
+          35.658193
+        ]
+      },
+      "properties": {
+        "name:fa": "مهندس محمد شاه پوری",
+        "id": "MjI6MTI5MDE",
+        "date": "1771237800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MDE",
+        "sourceId": "12901",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.149Z",
+        "updatedAt": "2026-03-11T21:00:54.149Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.350361,
+          32.628326
+        ]
+      },
+      "properties": {
+        "name:fa": "حسام قریشی",
+        "id": "MjI6MTI5MDI",
+        "date": "1771410600",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MDI",
+        "sourceId": "12902",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.149Z",
+        "updatedAt": "2026-03-11T21:00:54.149Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.376324,
+          35.53039
+        ]
+      },
+      "properties": {
+        "name:fa": "علی علائی کاشانی",
+        "id": "MjI6MTI5MDM",
+        "date": "1771585200",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MDM",
+        "sourceId": "12903",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.149Z",
+        "updatedAt": "2026-03-11T21:00:54.149Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81867,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.222286,
+          29.272371
+        ]
+      },
+      "properties": {
+        "name:fa": "اسماعیل خروشا",
+        "id": "MjI6MTI5MDQ",
+        "date": "1771241400",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MDQ",
+        "sourceId": "12904",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.150Z",
+        "updatedAt": "2026-03-11T21:00:54.150Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.350361,
+          32.628326
+        ]
+      },
+      "properties": {
+        "name:fa": "مهندس محمد رجایی",
+        "id": "MjI6MTI5MDU",
+        "date": "1771324200",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MDU",
+        "sourceId": "12905",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.150Z",
+        "updatedAt": "2026-03-11T21:00:54.150Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.316875,
+          32.605451
+        ]
+      },
+      "properties": {
+        "name:fa": "الهام آرپناهی",
+        "id": "MjI6MTI5MDY",
+        "date": "1771324200",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MDY",
+        "sourceId": "12906",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.151Z",
+        "updatedAt": "2026-03-11T21:00:54.151Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.447535,
+          34.561524
+        ]
+      },
+      "properties": {
+        "name:fa": "سحر بیات",
+        "id": "MjI6MTI5MDc",
+        "date": "1770895800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MDc",
+        "sourceId": "12907",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.151Z",
+        "updatedAt": "2026-03-11T21:00:54.151Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81871,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.566305,
+          32.899842
+        ]
+      },
+      "properties": {
+        "name:fa": "دکتر مسعود مدبر",
+        "id": "MjI6MTI5MDg",
+        "date": "1771461660",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MDg",
+        "sourceId": "12908",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.152Z",
+        "updatedAt": "2026-03-11T21:00:54.152Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.896261,
+          34.631304
+        ]
+      },
+      "properties": {
+        "name:fa": "مهندس محمد امامی پور",
+        "id": "MjI6MTI5MDk",
+        "date": "1770897600",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MDk",
+        "sourceId": "12909",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.153Z",
+        "updatedAt": "2026-03-11T21:00:54.153Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.376324,
+          35.53039
+        ]
+      },
+      "properties": {
+        "name:fa": "آیدا حیدری",
+        "id": "MjI6MTI5MTA",
+        "date": "1773558000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MTA",
+        "sourceId": "12910",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.153Z",
+        "updatedAt": "2026-03-11T21:00:54.153Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.525052,
+          29.837584
+        ]
+      },
+      "properties": {
+        "name:fa": "کریم حیدری",
+        "id": "MjI6MTI5MTE",
+        "date": "1771326000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MTE",
+        "sourceId": "12911",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.155Z",
+        "updatedAt": "2026-03-11T21:00:54.155Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.373532,
+          35.704185
+        ]
+      },
+      "properties": {
+        "name:fa": "جاوید رضائی",
+        "id": "MjI6MTI5MTI",
+        "date": "1773558000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MTI",
+        "sourceId": "12912",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.155Z",
+        "updatedAt": "2026-03-11T21:00:54.155Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.391514,
+          32.614263
+        ]
+      },
+      "properties": {
+        "name:fa": "مهندس محمد مهدی مجیدی",
+        "id": "MjI6MTI5MTM",
+        "date": "1771324200",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MTM",
+        "sourceId": "12913",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.156Z",
+        "updatedAt": "2026-03-11T21:00:54.156Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.426137,
+          36.851035
+        ]
+      },
+      "properties": {
+        "name:fa": "رضا اسدی",
+        "id": "MjI6MTI5MTQ",
+        "date": "1771070400",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MTQ",
+        "sourceId": "12914",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.156Z",
+        "updatedAt": "2026-03-11T21:00:54.156Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.694607,
+          36.164073
+        ]
+      },
+      "properties": {
+        "name:fa": "علی زنگنه",
+        "id": "MjI6MTI5MTU",
+        "date": "1773905400",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MTU",
+        "sourceId": "12915",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.157Z",
+        "updatedAt": "2026-03-11T21:00:54.157Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81879,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.714189,
+          32.825362
+        ]
+      },
+      "properties": {
+        "name:fa": "مهندس محمد متین رنجکش",
+        "id": "MjI6MTI5MTY",
+        "date": "1771412400",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MTY",
+        "sourceId": "12916",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.157Z",
+        "updatedAt": "2026-03-11T21:00:54.157Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.402614,
+          36.678758
+        ]
+      },
+      "properties": {
+        "name:fa": "مهندس علی پور امام علی",
+        "id": "MjI6MTI5MTc",
+        "date": "1771412400",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MTc",
+        "sourceId": "12917",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.158Z",
+        "updatedAt": "2026-03-11T21:00:54.158Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.390039,
+          36.627172
+        ]
+      },
+      "properties": {
+        "name:fa": "احسان زال نژاد (حسن) و پیام کوهستانی",
+        "id": "MjI6MTI5MTg",
+        "date": "1771502400",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MTg",
+        "sourceId": "12918",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.158Z",
+        "updatedAt": "2026-03-11T21:00:54.158Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.809922,
+          29.883404
+        ]
+      },
+      "properties": {
+        "name:fa": "مهندس علی زارعی",
+        "id": "MjI6MTI5MTk",
+        "date": "1771329600",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MTk",
+        "sourceId": "12919",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.159Z",
+        "updatedAt": "2026-03-11T21:00:54.159Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81883,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.401524,
+          35.534732
+        ]
+      },
+      "properties": {
+        "name:fa": "یاسر جودکی",
+        "id": "MjI6MTI5MjA",
+        "date": "1771498800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MjA",
+        "sourceId": "12920",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.159Z",
+        "updatedAt": "2026-03-11T21:00:54.159Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81884,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.983757,
+          35.795713
+        ]
+      },
+      "properties": {
+        "name:fa": "مسعود رضائی نو",
+        "id": "MjI6MTI5MjE",
+        "date": "1770897600",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MjE",
+        "sourceId": "12921",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.159Z",
+        "updatedAt": "2026-03-11T21:00:54.159Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.370274,
+          32.868156
+        ]
+      },
+      "properties": {
+        "name:fa": "علی خسروی",
+        "id": "MjI6MTI5MjI",
+        "date": "1771498800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MjI",
+        "sourceId": "12922",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.160Z",
+        "updatedAt": "2026-03-11T21:00:54.160Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81886,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.727858,
+          35.823398
+        ]
+      },
+      "properties": {
+        "name:fa": "رضا رضایی",
+        "id": "MjI6MTI5MjM",
+        "date": "1771583400",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MjM",
+        "sourceId": "12923",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.160Z",
+        "updatedAt": "2026-03-11T21:00:54.160Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.990859,
+          35.838065
+        ]
+      },
+      "properties": {
+        "name:fa": "سجاد بیات",
+        "id": "MjI6MTI5MjQ",
+        "date": "1771500600",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MjQ",
+        "sourceId": "12924",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.161Z",
+        "updatedAt": "2026-03-11T21:00:54.161Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.014735,
+          35.65149
+        ]
+      },
+      "properties": {
+        "name:fa": "پژمان نوروز رجبی",
+        "id": "MjI6MTI5MjU",
+        "date": "1771497000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MjU",
+        "sourceId": "12925",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.161Z",
+        "updatedAt": "2026-03-11T21:00:54.161Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.495887,
+          35.814962
+        ]
+      },
+      "properties": {
+        "name:fa": "فرزانه ساسانی پور / علیرضا نادری / بهنود حسن زاده",
+        "id": "MjI6MTI5MjY",
+        "date": "1771498800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MjY",
+        "sourceId": "12926",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.162Z",
+        "updatedAt": "2026-03-11T21:00:54.162Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.425079,
+          36.006843
+        ]
+      },
+      "properties": {
+        "name:fa": "نازنین زهرا اسمی خانی",
+        "id": "MjI6MTI5Mjc",
+        "date": "1771506000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5Mjc",
+        "sourceId": "12927",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.162Z",
+        "updatedAt": "2026-03-11T21:00:54.162Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.406617,
+          35.710877
+        ]
+      },
+      "properties": {
+        "name:fa": "ایلیا اجاقلو",
+        "id": "MjI6MTI5Mjg",
+        "date": "1771326000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5Mjg",
+        "sourceId": "12928",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.163Z",
+        "updatedAt": "2026-03-11T21:00:54.163Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.669476,
+          34.107298
+        ]
+      },
+      "properties": {
+        "name:fa": "محمد رنجبر",
+        "id": "MjI6MTI5Mjk",
+        "date": "1771200000",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5Mjk",
+        "sourceId": "12929",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.163Z",
+        "updatedAt": "2026-03-11T21:00:54.163Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81893,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.402614,
+          36.678758
+        ]
+      },
+      "properties": {
+        "name:fa": "افشین میارکیانی",
+        "id": "MjI6MTI5MzA",
+        "date": "1771327800",
+        "accurate": "yes",
+        "publicId": "MjI6MTI5MzA",
+        "sourceId": "12930",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.164Z",
+        "updatedAt": "2026-03-11T21:00:54.164Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81894,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.413,
+          32.4053
+        ]
+      },
+      "properties": {
+        "name:fa": "رئوف درخشانی مهر",
+        "id": "MjI6MTM2MTg",
+        "date": "1771498800",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MTg",
+        "sourceId": "13618",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.164Z",
+        "updatedAt": "2026-03-11T21:00:54.164Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.728,
+          29.7484
+        ]
+      },
+      "properties": {
+        "name:fa": "عارف براتی",
+        "id": "MjI6MTM2MTk",
+        "date": "1771500600",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MTk",
+        "sourceId": "13619",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.164Z",
+        "updatedAt": "2026-03-11T21:00:54.164Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5971,
+          29.8812
+        ]
+      },
+      "properties": {
+        "name:fa": "جبار پناهی آزاد",
+        "id": "MjI6MTM2MjA",
+        "date": "1771500600",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MjA",
+        "sourceId": "13620",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.165Z",
+        "updatedAt": "2026-03-11T21:00:54.165Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0895,
+          34.3178
+        ]
+      },
+      "properties": {
+        "name:fa": "عرفان جامه شورانی",
+        "id": "MjI6MTM2MjE",
+        "date": "1771237800",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MjE",
+        "sourceId": "13621",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.165Z",
+        "updatedAt": "2026-03-11T21:00:54.165Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.03291,
+          33.50606
+        ]
+      },
+      "properties": {
+        "name:fa": "مهرداد یعقوبی مهر",
+        "id": "MjI6MTM2MjI",
+        "date": "1771500600",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MjI",
+        "sourceId": "13622",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.166Z",
+        "updatedAt": "2026-03-11T21:00:54.166Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1671,
+          33.5282
+        ]
+      },
+      "properties": {
+        "name:fa": "مانی هداوند",
+        "id": "MjI6MTM2MjM",
+        "date": "1771497000",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MjM",
+        "sourceId": "13623",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.166Z",
+        "updatedAt": "2026-03-11T21:00:54.166Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.3692,
+          36.3146
+        ]
+      },
+      "properties": {
+        "name:fa": "حمیدرضا رفیعی",
+        "id": "MjI6MTM2MjQ",
+        "date": "1771414200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MjQ",
+        "sourceId": "13624",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.166Z",
+        "updatedAt": "2026-03-11T21:00:54.166Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1159,
+          28.9472
+        ]
+      },
+      "properties": {
+        "name:fa": "بهروز منصوری",
+        "id": "MjI6MTM2MjU",
+        "date": "1771414200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MjU",
+        "sourceId": "13625",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.167Z",
+        "updatedAt": "2026-03-11T21:00:54.167Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1159,
+          28.9472
+        ]
+      },
+      "properties": {
+        "name:fa": "منصوره حیدری بوشهر",
+        "id": "MjI6MTM2MjY",
+        "date": "1771414200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MjY",
+        "sourceId": "13626",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.167Z",
+        "updatedAt": "2026-03-11T21:00:54.167Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8377,
+          32.6438
+        ]
+      },
+      "properties": {
+        "name:fa": "مهدی صادقی",
+        "id": "MjI6MTM2Mjc",
+        "date": "1771581600",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2Mjc",
+        "sourceId": "13627",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.168Z",
+        "updatedAt": "2026-03-11T21:00:54.168Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6042,
+          32.6202
+        ]
+      },
+      "properties": {
+        "name:fa": "راشد صالح دستجردی",
+        "id": "MjI6MTM2Mjg",
+        "date": "1771498800",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2Mjg",
+        "sourceId": "13628",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.168Z",
+        "updatedAt": "2026-03-11T21:00:54.168Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6447,
+          35.5173
+        ]
+      },
+      "properties": {
+        "name:fa": "رضا اسماعیلی",
+        "id": "MjI6MTM2Mjk",
+        "date": "1771410600",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2Mjk",
+        "sourceId": "13629",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.168Z",
+        "updatedAt": "2026-03-11T21:00:54.168Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81906,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5709,
+          32.5488
+        ]
+      },
+      "properties": {
+        "name:fa": "محمد نعمتی",
+        "id": "MjI6MTM2MzA",
+        "date": "1771497000",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MzA",
+        "sourceId": "13630",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.169Z",
+        "updatedAt": "2026-03-11T21:00:54.169Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3048,
+          31.9984
+        ]
+      },
+      "properties": {
+        "name:fa": "مجید بویری",
+        "id": "MjI6MTM2MzE",
+        "date": "1771495200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MzE",
+        "sourceId": "13631",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.169Z",
+        "updatedAt": "2026-03-11T21:00:54.169Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6618,
+          32.7991
+        ]
+      },
+      "properties": {
+        "name:fa": "محسن چیت ساز",
+        "id": "MjI6MTM2MzI",
+        "date": "1771497000",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MzI",
+        "sourceId": "13632",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.169Z",
+        "updatedAt": "2026-03-11T21:00:54.169Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3863,
+          35.5194
+        ]
+      },
+      "properties": {
+        "name:fa": "پویا درخشان",
+        "id": "MjI6MTM2MzM",
+        "date": "1771497000",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MzM",
+        "sourceId": "13633",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.170Z",
+        "updatedAt": "2026-03-11T21:00:54.170Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81910,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3915,
+          32.6142
+        ]
+      },
+      "properties": {
+        "name:fa": "حسین رادی",
+        "id": "MjI6MTM2MzQ",
+        "date": "1771412400",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MzQ",
+        "sourceId": "13634",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.170Z",
+        "updatedAt": "2026-03-11T21:00:54.170Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81911,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.5365,
+          36.6953
+        ]
+      },
+      "properties": {
+        "name:fa": "عماد عباسی فرد",
+        "id": "MjI6MTM2MzU",
+        "date": "1771327800",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MzU",
+        "sourceId": "13635",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.171Z",
+        "updatedAt": "2026-03-11T21:00:54.171Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8376,
+          32.6435
+        ]
+      },
+      "properties": {
+        "name:fa": "مسیح جلو خانیان",
+        "id": "MjI6MTM2MzY",
+        "date": "1771500600",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2MzY",
+        "sourceId": "13636",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.171Z",
+        "updatedAt": "2026-03-11T21:00:54.171Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3669,
+          35.5297
+        ]
+      },
+      "properties": {
+        "name:fa": "محدثه شهبازی",
+        "id": "MjI6MTM2Mzc",
+        "date": "1771484400",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2Mzc",
+        "sourceId": "13637",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.171Z",
+        "updatedAt": "2026-03-11T21:00:54.171Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5033,
+          34.7703
+        ]
+      },
+      "properties": {
+        "name:fa": "مصطفی زابطی",
+        "id": "MjI6MTM2Mzg",
+        "date": "1771414200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2Mzg",
+        "sourceId": "13638",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.172Z",
+        "updatedAt": "2026-03-11T21:00:54.172Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4111,
+          32.4691
+        ]
+      },
+      "properties": {
+        "name:fa": "مهدی حسینی منجزی",
+        "id": "MjI6MTM2Mzk",
+        "date": "1770643800",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2Mzk",
+        "sourceId": "13639",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.172Z",
+        "updatedAt": "2026-03-11T21:00:54.172Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81916,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5585,
+          34.7942
+        ]
+      },
+      "properties": {
+        "name:fa": "بابک صادقی محسنی",
+        "id": "MjI6MTM2NDA",
+        "date": "1771504200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NDA",
+        "sourceId": "13640",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.173Z",
+        "updatedAt": "2026-03-11T21:00:54.173Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3551,
+          34.2203
+        ]
+      },
+      "properties": {
+        "name:fa": "بهنام درویشی",
+        "id": "MjI6MTM2NDE",
+        "date": "1771407000",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NDE",
+        "sourceId": "13641",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.173Z",
+        "updatedAt": "2026-03-11T21:00:54.173Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81918,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.7322,
+          35.4007
+        ]
+      },
+      "properties": {
+        "name:fa": "یاسر عزتی نصرتیان",
+        "id": "MjI6MTM2NDI",
+        "date": "1771414200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NDI",
+        "sourceId": "13642",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.174Z",
+        "updatedAt": "2026-03-11T21:00:54.174Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81919,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9978,
+          35.8132
+        ]
+      },
+      "properties": {
+        "name:fa": "متین مقیمی ورزنی",
+        "id": "MjI6MTM2NDM",
+        "date": "1771414200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NDM",
+        "sourceId": "13643",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.174Z",
+        "updatedAt": "2026-03-11T21:00:54.174Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81920,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0831,
+          35.9414
+        ]
+      },
+      "properties": {
+        "name:fa": "راهب زاهدی",
+        "id": "MjI6MTM2NDQ",
+        "date": "1771502400",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NDQ",
+        "sourceId": "13644",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.175Z",
+        "updatedAt": "2026-03-11T21:00:54.175Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5382,
+          34.8275
+        ]
+      },
+      "properties": {
+        "name:fa": "احسان شکری",
+        "id": "MjI6MTM2NDU",
+        "date": "1771396200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NDU",
+        "sourceId": "13645",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.175Z",
+        "updatedAt": "2026-03-11T21:00:54.175Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.55805,
+          34.79518
+        ]
+      },
+      "properties": {
+        "name:fa": "امیر محمد ترک ارزانفودی",
+        "id": "MjI6MTM2NDY",
+        "date": "1771324200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NDY",
+        "sourceId": "13646",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.175Z",
+        "updatedAt": "2026-03-11T21:00:54.175Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1101,
+          34.2956
+        ]
+      },
+      "properties": {
+        "name:fa": "محمد مهدی مدری",
+        "id": "MjI6MTM2NDc",
+        "date": "1771324200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NDc",
+        "sourceId": "13647",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.176Z",
+        "updatedAt": "2026-03-11T21:00:54.176Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8425,
+          32.6351
+        ]
+      },
+      "properties": {
+        "name:fa": "بهروز بیگدلی",
+        "id": "MjI6MTM2NDg",
+        "date": "1771497000",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NDg",
+        "sourceId": "13648",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.176Z",
+        "updatedAt": "2026-03-11T21:00:54.176Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5215,
+          32.6983
+        ]
+      },
+      "properties": {
+        "name:fa": "محمد جعفرپور",
+        "id": "MjI6MTM2NDk",
+        "date": "1771414200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NDk",
+        "sourceId": "13649",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.177Z",
+        "updatedAt": "2026-03-11T21:00:54.177Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81926,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8404,
+          32.6357
+        ]
+      },
+      "properties": {
+        "name:fa": "ارمیا لاچیانی",
+        "id": "MjI6MTM2NTA",
+        "date": "1771410600",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NTA",
+        "sourceId": "13650",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.177Z",
+        "updatedAt": "2026-03-11T21:00:54.177Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8108,
+          29.864
+        ]
+      },
+      "properties": {
+        "name:fa": "علیرضا سعیدی فرد",
+        "id": "MjI6MTM2NTE",
+        "date": "1771412400",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NTE",
+        "sourceId": "13651",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.177Z",
+        "updatedAt": "2026-03-11T21:00:54.177Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81928,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5519,
+          37.2637
+        ]
+      },
+      "properties": {
+        "name:fa": "فردین جعفر نژاد",
+        "id": "MjI6MTM2NTI",
+        "date": "1771498800",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NTI",
+        "sourceId": "13652",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.178Z",
+        "updatedAt": "2026-03-11T21:00:54.178Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81929,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5543,
+          32.5757
+        ]
+      },
+      "properties": {
+        "name:fa": "مجتبی وثوق",
+        "id": "MjI6MTM2NTM",
+        "date": "1771495200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NTM",
+        "sourceId": "13653",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.178Z",
+        "updatedAt": "2026-03-11T21:00:54.178Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81930,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8351,
+          32.6466
+        ]
+      },
+      "properties": {
+        "name:fa": "پارسا لوینیان",
+        "id": "MjI6MTM2NTQ",
+        "date": "1771486200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NTQ",
+        "sourceId": "13654",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.178Z",
+        "updatedAt": "2026-03-11T21:00:54.178Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8413,
+          32.6351
+        ]
+      },
+      "properties": {
+        "name:fa": "غزل جانقربان",
+        "id": "MjI6MTM2NTU",
+        "date": "1771587000",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NTU",
+        "sourceId": "13655",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.179Z",
+        "updatedAt": "2026-03-11T21:00:54.179Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8417,
+          32.6404
+        ]
+      },
+      "properties": {
+        "name:fa": "محمد صادق (فیروز) محرابی",
+        "id": "MjI6MTM2NTY",
+        "date": "1771502400",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NTY",
+        "sourceId": "13656",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.179Z",
+        "updatedAt": "2026-03-11T21:00:54.179Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8133,
+          31.7167
+        ]
+      },
+      "properties": {
+        "name:fa": "امیر حسین ابراهیمی",
+        "id": "MjI6MTM2NTc",
+        "date": "1771497000",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NTc",
+        "sourceId": "13657",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.180Z",
+        "updatedAt": "2026-03-11T21:00:54.180Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0389,
+          35.793
+        ]
+      },
+      "properties": {
+        "name:fa": "حمید ابراهیمی",
+        "id": "MjI6MTM2NTg",
+        "date": "1771495200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NTg",
+        "sourceId": "13658",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.180Z",
+        "updatedAt": "2026-03-11T21:00:54.180Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.3827,
+          29.9808
+        ]
+      },
+      "properties": {
+        "name:fa": "حسن ایرانپور مبارکه",
+        "id": "MjI6MTM2NTk",
+        "date": "1771497000",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NTk",
+        "sourceId": "13659",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.180Z",
+        "updatedAt": "2026-03-11T21:00:54.180Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.80947,
+          35.6924
+        ]
+      },
+      "properties": {
+        "name:fa": "کسری وفاپرور",
+        "id": "MjI6MTM2NjA",
+        "date": "1771583400",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NjA",
+        "sourceId": "13660",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.181Z",
+        "updatedAt": "2026-03-11T21:00:54.181Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.83203,
+          32.65029
+        ]
+      },
+      "properties": {
+        "name:fa": "حسین تائبی",
+        "id": "MjI6MTM2NjE",
+        "date": "1771567200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NjE",
+        "sourceId": "13661",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.181Z",
+        "updatedAt": "2026-03-11T21:00:54.181Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.571,
+          34.5074
+        ]
+      },
+      "properties": {
+        "name:fa": "رضا حاجی مرادی",
+        "id": "MjI6MTM2NjI",
+        "date": "1771498800",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NjI",
+        "sourceId": "13662",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.182Z",
+        "updatedAt": "2026-03-11T21:00:54.182Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81939,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3702,
+          35.5429
+        ]
+      },
+      "properties": {
+        "name:fa": "مصطفی عزیزی",
+        "id": "MjI6MTM2NjM",
+        "date": "1771414200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NjM",
+        "sourceId": "13663",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.182Z",
+        "updatedAt": "2026-03-11T21:00:54.182Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81940,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0951,
+          35.5938
+        ]
+      },
+      "properties": {
+        "name:fa": "متین عباسی",
+        "id": "MjI6MTM2NjQ",
+        "date": "1771324200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NjQ",
+        "sourceId": "13664",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.182Z",
+        "updatedAt": "2026-03-11T21:00:54.182Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5045,
+          35.3937
+        ]
+      },
+      "properties": {
+        "name:fa": "مجید پوررستمی",
+        "id": "MjI6MTM2NjU",
+        "date": "1771587000",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NjU",
+        "sourceId": "13665",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.183Z",
+        "updatedAt": "2026-03-11T21:00:54.183Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8403,
+          32.6357
+        ]
+      },
+      "properties": {
+        "name:fa": "امیر رادمان مهر (برچگانی)",
+        "id": "MjI6MTM2NjY",
+        "date": "1771581600",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NjY",
+        "sourceId": "13666",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.183Z",
+        "updatedAt": "2026-03-11T21:00:54.183Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1682,
+          35.5615
+        ]
+      },
+      "properties": {
+        "name:fa": "علی بری نیا",
+        "id": "MjI6MTM2Njc",
+        "date": "1771245000",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2Njc",
+        "sourceId": "13667",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.184Z",
+        "updatedAt": "2026-03-11T21:00:54.184Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.1268,
+          36.502
+        ]
+      },
+      "properties": {
+        "name:fa": "یداله حیدری",
+        "id": "MjI6MTM2Njg",
+        "date": "1771320600",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2Njg",
+        "sourceId": "13668",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.184Z",
+        "updatedAt": "2026-03-11T21:00:54.184Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.08958,
+          34.31244
+        ]
+      },
+      "properties": {
+        "name:fa": "سعید کهراری",
+        "id": "MjI6MTM2Njk",
+        "date": "1771410600",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2Njk",
+        "sourceId": "13669",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.184Z",
+        "updatedAt": "2026-03-11T21:00:54.184Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81946,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.68247,
+          34.08207
+        ]
+      },
+      "properties": {
+        "name:fa": "ستایش سوسن آبادی",
+        "id": "MjI6MTM2NzA",
+        "date": "1771396200",
+        "accurate": "yes",
+        "publicId": "MjI6MTM2NzA",
+        "sourceId": "13670",
+        "layerId": 22,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:00:54.185Z",
+        "updatedAt": "2026-03-11T21:00:54.185Z"
+      }
+    }
+  ],
+  "metadata": {
+    "total": 145,
+    "layerId": 22,
+    "clustered": false,
+    "simplified": false
+  }
+}
