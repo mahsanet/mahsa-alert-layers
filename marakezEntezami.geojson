@@ -157203,10 +157203,68 @@
         "createdAt": "2026-06-05T15:07:19.344Z",
         "updatedAt": "2026-06-05T15:07:19.344Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.512262504547834,
+          35.72871610184875
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۴۷ غربی (گلبرگ)",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzowZGZhM2RiN2JmY2U",
+        "publicId": "MzowZGZhM2RiN2JmY2U",
+        "sourceId": "0dfa3db7bfce",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-07T10:37:01.637Z",
+        "updatedAt": "2026-06-07T10:37:01.637Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.285856153815985,
+          35.24542564352855
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه",
+        "description": "سپاه پاسداران امام رضا",
+        "date": "",
+        "city": "خلیل آباد",
+        "province": "استان خراسان رضوی",
+        "id": "MzpkNWFmOGM1YjAyNzM",
+        "publicId": "MzpkNWFmOGM1YjAyNzM",
+        "sourceId": "d5af8c5b0273",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-07T10:39:14.412Z",
+        "updatedAt": "2026-06-07T10:39:14.412Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6014,
+    "total": 6016,
     "layerId": 3,
     "clustered": false,
     "simplified": false

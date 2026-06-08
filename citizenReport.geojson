@@ -83379,10 +83379,186 @@
         "createdAt": "2026-06-05T18:35:48.983Z",
         "updatedAt": "2026-06-05T18:35:48.983Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.45328056067228,
+          35.72646410127294
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "NDo2YzEwNjk0MDhhZDA",
+        "publicId": "NDo2YzEwNjk0MDhhZDA",
+        "sourceId": "6c1069408ad0",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-07T10:31:39.592Z",
+        "updatedAt": "2026-06-07T10:31:39.592Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.51326900348067,
+          35.728997121140935
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "NDo4Njk2MjAxMDE3OWM",
+        "publicId": "NDo4Njk2MjAxMDE3OWM",
+        "sourceId": "86962010179c",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-07T10:36:26.553Z",
+        "updatedAt": "2026-06-07T10:36:26.553Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.512262504547834,
+          35.72871610184875
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۴۷ غربی (گلبرگ)",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzowZGZhM2RiN2JmY2U",
+        "publicId": "MzowZGZhM2RiN2JmY2U",
+        "sourceId": "0dfa3db7bfce",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-07T10:37:01.637Z",
+        "updatedAt": "2026-06-07T10:37:01.637Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.285856153815985,
+          35.24542564352855
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه",
+        "description": "سپاه پاسداران امام رضا",
+        "date": "",
+        "city": "خلیل آباد",
+        "province": "استان خراسان رضوی",
+        "id": "MzpkNWFmOGM1YjAyNzM",
+        "publicId": "MzpkNWFmOGM1YjAyNzM",
+        "sourceId": "d5af8c5b0273",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-07T10:39:14.412Z",
+        "updatedAt": "2026-06-07T10:39:14.412Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.59634501487017,
+          37.279537120154146
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "رشت",
+        "province": "استان گیلان",
+        "id": "MTpmY2YyZTZkYjRhODY",
+        "publicId": "MTpmY2YyZTZkYjRhODY",
+        "sourceId": "fcf2e6db4a86",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-07T10:40:42.056Z",
+        "updatedAt": "2026-06-07T10:40:42.056Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.59612490609288,
+          37.27752120172764
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "رشت",
+        "province": "استان گیلان",
+        "id": "MTo2M2U3MDI2ZDZiYmU",
+        "publicId": "MTo2M2U3MDI2ZDZiYmU",
+        "sourceId": "63e7026d6bbe",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-07T10:41:02.646Z",
+        "updatedAt": "2026-06-07T10:41:02.646Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2829,
+    "total": 2835,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

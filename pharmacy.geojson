@@ -131203,31 +131203,6 @@
     },
     {
       "type": "Feature",
-      "id": 65649,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.4538348,
-          35.7275415
-        ]
-      },
-      "properties": {
-        "name:fa": "داروخانه دکتر اسکیان",
-        "id": "Mjc6NTI0OQ",
-        "publicId": "Mjc6NTI0OQ",
-        "sourceId": "5249",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.852Z",
-        "updatedAt": "2026-03-11T20:58:47.852Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 65650,
       "geometry": {
         "type": "Point",
@@ -390582,7 +390557,7 @@
     }
   ],
   "metadata": {
-    "total": 15623,
+    "total": 15622,
     "layerId": 27,
     "clustered": false,
     "simplified": false

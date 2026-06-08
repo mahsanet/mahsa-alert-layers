@@ -145106,10 +145106,68 @@
         "createdAt": "2026-05-27T21:08:47.316Z",
         "updatedAt": "2026-05-27T21:08:47.316Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.45328056067228,
+          35.72646410127294
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "NDo2YzEwNjk0MDhhZDA",
+        "publicId": "NDo2YzEwNjk0MDhhZDA",
+        "sourceId": "6c1069408ad0",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-07T10:31:39.592Z",
+        "updatedAt": "2026-06-07T10:31:39.592Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.51326900348067,
+          35.728997121140935
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "NDo4Njk2MjAxMDE3OWM",
+        "publicId": "NDo4Njk2MjAxMDE3OWM",
+        "sourceId": "86962010179c",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-07T10:36:26.553Z",
+        "updatedAt": "2026-06-07T10:36:26.553Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5571,
+    "total": 5573,
     "layerId": 4,
     "clustered": false,
     "simplified": false
