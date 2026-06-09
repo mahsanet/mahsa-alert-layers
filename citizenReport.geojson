@@ -83555,10 +83555,74 @@
         "createdAt": "2026-06-07T10:41:02.646Z",
         "updatedAt": "2026-06-07T10:41:02.646Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.09113272947491,
+          30.49843495443764
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پتروشیمی کارون",
+        "unofficial_name:fa": "",
+        "date": 1780891200,
+        "geolocates": "",
+        "description": "",
+        "city": "بندر امام خمینی",
+        "province": "استان خوزستان",
+        "sources": "https://x.com/hey_itsmyturn/status/2063841602460610718?s=20",
+        "id": "MzI6ZDlhZTllNjc5Njdi",
+        "publicId": "MzI6ZDlhZTllNjc5Njdi",
+        "sourceId": "d9ae9e67967b",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-08T04:48:26.098Z",
+        "updatedAt": "2026-06-08T04:48:26.098Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93409,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.14114536441724,
+          35.30646671668603
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پدافند هوایی",
+        "unofficial_name:fa": "",
+        "date": 1780900200,
+        "geolocates": "",
+        "description": "پدافند هوایی - شهرک شمس آباد",
+        "city": "شهرستان ری",
+        "province": "استان تهران",
+        "sources": "https://x.com/manniefabian/status/2063931548752109885, https://x.com/hey_itsmyturn/status/2063944455049150502?s=20",
+        "id": "MzI6Mjk3NDg5MjFlYWRh",
+        "publicId": "MzI6Mjk3NDg5MjFlYWRh",
+        "sourceId": "29748921eada",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-08T15:44:53.051Z",
+        "updatedAt": "2026-06-08T15:45:18.343Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2835,
+    "total": 2837,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
