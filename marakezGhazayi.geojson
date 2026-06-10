@@ -79244,6 +79244,35 @@
     },
     {
       "type": "Feature",
+      "id": 92188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31638990708268,
+          35.36874400951746
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار سرکوبگران کنار زندان",
+        "description": "محل استقرار سرکوبگران با تعداد 5 خودرو سنگین زرهی صورت جداگانه با فاصله حدود 30-40 متر از یکدیگر در یک قطعه زمین حدود 1000 متر کنار زندان",
+        "date": 1773515419,
+        "city": "شهرستان ری",
+        "province": "استان تهران",
+        "id": "MzQ6MTJhNjk2MjRlYWFj",
+        "publicId": "MzQ6MTJhNjk2MjRlYWFj",
+        "sourceId": "12a69624eaac",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-12T15:30:19.928Z",
+        "updatedAt": "2026-03-27T22:03:39.364Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92218,
       "geometry": {
         "type": "Point",
@@ -79480,6 +79509,64 @@
     },
     {
       "type": "Feature",
+      "id": 92678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.42779755109564,
+          35.718173720043524
+        ]
+      },
+      "properties": {
+        "name:fa": "پارکینگ بازداشتگاه",
+        "description": "توی پارکینگ اینجا ‌سال ۸۸ بازداشتی هارو اینجا نگه داشتن ، زیر اینجا راه داره به منبع اب کوچه بغلی ( کوچه عبدالکریم شریعتی )، زیر زمین تونل هست برای‌ رفت و امدشون",
+        "date": 1773578147,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzQ6MDdiM2UzOGM3ODQ4",
+        "publicId": "MzQ6MDdiM2UzOGM3ODQ4",
+        "sourceId": "07b3e38c7848",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:35:47.990Z",
+        "updatedAt": "2026-03-31T03:40:01.271Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.389890764370904,
+          35.70122031423013
+        ]
+      },
+      "properties": {
+        "name:fa": "بازداشتگاه موقت معترضان",
+        "description": "پایگاه بسیج سیدالشهدا بازداشتگاه موقت معترضان در میدان انقلاب",
+        "date": 1777629177,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzQ6ZmExMTRkNzg2Mjhh",
+        "publicId": "MzQ6ZmExMTRkNzg2Mjhh",
+        "sourceId": "fa114d78628a",
+        "layerId": 34,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:07.770Z",
+        "updatedAt": "2026-05-02T01:00:07.770Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 93206,
       "geometry": {
         "type": "Point",
@@ -79567,7 +79654,7 @@
     }
   ],
   "metadata": {
-    "total": 2700,
+    "total": 2703,
     "layerId": 34,
     "clustered": false,
     "simplified": false

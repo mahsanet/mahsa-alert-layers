@@ -149766,6 +149766,89 @@
     },
     {
       "type": "Feature",
+      "id": 90276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.201396507714804,
+          35.68416166964687
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاە انجیران",
+        "date": 29539950,
+        "description": "",
+        "id": "Mzo1MjY2YTM5NDU3ZWU",
+        "publicId": "Mzo1MjY2YTM5NDU3ZWU",
+        "sourceId": "5266a39457ee",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-14T12:51:27.908Z",
+        "updatedAt": "2026-03-14T12:51:27.908Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.39462641705964,
+          35.863330994468015
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاەروستای بسطام",
+        "date": "",
+        "description": "",
+        "id": "MzplMWU5NWQ5MDViYzk",
+        "publicId": "MzplMWU5NWQ5MDViYzk",
+        "sourceId": "e1e95d905bc9",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-14T13:01:58.794Z",
+        "updatedAt": "2026-03-14T13:01:58.794Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.855650328039076,
+          34.60294475828306
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان ویژه",
+        "date": "",
+        "description": "محل استقرار یگان ویژه",
+        "city": "قم",
+        "province": "استان قم",
+        "id": "Mzo5NDRmODM1MDg5ZjQ",
+        "publicId": "Mzo5NDRmODM1MDg5ZjQ",
+        "sourceId": "944f835089f4",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-14T16:58:11.744Z",
+        "updatedAt": "2026-03-26T02:08:19.975Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 90341,
       "geometry": {
         "type": "Point",
@@ -149846,6 +149929,64 @@
         "expirationDate": null,
         "createdAt": "2026-03-16T23:12:13.097Z",
         "updatedAt": "2026-03-26T02:08:28.205Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90396,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36018963585428,
+          35.75747923336394
+        ]
+      },
+      "properties": {
+        "name:fa": "نوپو",
+        "date": 1772915400,
+        "description": "اینجا پلیس Nopo هست و من دیدم که در اعتراضات ماشینها اینجا جمع میشن و چندین سوله دارد که در سرکوب اعتراضات سهم بسزایی دارد",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "Mzo3ZmVmMTY0NGFhNWQ",
+        "publicId": "Mzo3ZmVmMTY0NGFhNWQ",
+        "sourceId": "7fef1644aa5d",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T03:14:01.560Z",
+        "updatedAt": "2026-03-26T02:08:28.681Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90437,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.14415468702714,
+          35.242845168587635
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه هنگ مرزی",
+        "date": 1773347400,
+        "description": "",
+        "city": "شهرستان پاوه",
+        "province": "استان کرمانشاه",
+        "id": "MzoyZjg3MDYzMGNhYmE",
+        "publicId": "MzoyZjg3MDYzMGNhYmE",
+        "sourceId": "2f870630caba",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T14:29:18.203Z",
+        "updatedAt": "2026-03-26T02:08:32.355Z"
       }
     },
     {
@@ -150130,6 +150271,35 @@
     },
     {
       "type": "Feature",
+      "id": 90826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.00593059024317,
+          35.29038238619596
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان نیروی انتظامی",
+        "date": 1772397000,
+        "description": "ساختمان نیروی انتظامی سه راه شالمان در سنندج رو زدن",
+        "city": "سنندج",
+        "province": "استان کردستان",
+        "id": "MzpkNGZkZDU1MDczMTg",
+        "publicId": "MzpkNGZkZDU1MDczMTg",
+        "sourceId": "d4fdd5507318",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-20T09:08:57.614Z",
+        "updatedAt": "2026-03-26T02:08:52.275Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 90863,
       "geometry": {
         "type": "Point",
@@ -150213,6 +150383,64 @@
         "expirationDate": null,
         "createdAt": "2026-03-21T22:20:47.135Z",
         "updatedAt": "2026-03-26T02:08:59.102Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90930,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44280066971365,
+          35.77671462326195
+        ]
+      },
+      "properties": {
+        "name:fa": "نوپو",
+        "date": 1773433800,
+        "description": "محل اختفا تسلیحات نوپو و سپاه و تحرکات مشکوک بسیج",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzpmYmJjMWVlMmFjZWY",
+        "publicId": "MzpmYmJjMWVlMmFjZWY",
+        "sourceId": "fbbc1ee2acef",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-23T09:41:05.157Z",
+        "updatedAt": "2026-03-26T02:09:00.410Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90953,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.59744608372722,
+          32.624966975887375
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر یگان ویژه",
+        "date": "",
+        "description": "",
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "id": "MzpkZTlkN2I4MThjZGQ",
+        "publicId": "MzpkZTlkN2I4MThjZGQ",
+        "sourceId": "de9d7b818cdd",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-23T18:29:14.049Z",
+        "updatedAt": "2026-03-26T02:09:02.330Z"
       }
     },
     {
@@ -156365,6 +156593,35 @@
     },
     {
       "type": "Feature",
+      "id": 93142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.33970189186971,
+          35.69845667617663
+        ]
+      },
+      "properties": {
+        "name:fa": "دپوی یگان ویژه",
+        "description": "محل دپوی نیروهای یگان ویژه",
+        "date": 1777633999,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzoxMzhiNDk3MzBiZjQ",
+        "publicId": "MzoxMzhiNDk3MzBiZjQ",
+        "sourceId": "138b49730bf4",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:07.144Z",
+        "updatedAt": "2026-05-02T01:00:07.144Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 93161,
       "geometry": {
         "type": "Point",
@@ -157261,10 +157518,39 @@
         "createdAt": "2026-06-07T10:39:14.412Z",
         "updatedAt": "2026-06-07T10:39:14.412Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93412,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.587080270051956,
+          35.3792701732316
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۲ زاویه",
+        "description": "",
+        "date": "",
+        "city": "شهرستان زرندیه",
+        "province": "استان مرکزی",
+        "id": "MzpjZTE3Y2RkMGY1MDM",
+        "publicId": "MzpjZTE3Y2RkMGY1MDM",
+        "sourceId": "ce17cdd0f503",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-09T11:18:16.567Z",
+        "updatedAt": "2026-06-09T11:18:16.567Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6016,
+    "total": 6026,
     "layerId": 3,
     "clustered": false,
     "simplified": false

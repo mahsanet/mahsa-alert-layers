@@ -1882,8 +1882,13 @@
         ]
       },
       "properties": {
-        "id": "ODo2NTY",
+        "name:fa": "",
         "unofficial_name:fa": "پادگان پدافند هوایی",
+        "description": " تیپ پدافند هوایی ده محرم",
+        "date": "",
+        "city": "",
+        "province": "",
+        "id": "ODo2NTY",
         "publicId": "ODo2NTY",
         "sourceId": "656",
         "layerId": 8,
@@ -1893,7 +1898,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:49:08.764Z",
-        "updatedAt": "2026-03-11T20:49:08.764Z"
+        "updatedAt": "2026-06-09T11:19:05.849Z"
       }
     },
     {
@@ -5962,6 +5967,64 @@
     },
     {
       "type": "Feature",
+      "id": 92204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.403170315199645,
+          35.700847069860814
+        ]
+      },
+      "properties": {
+        "name:fa": "ضدهوایی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": "",
+        "description": "روی بام این ساختمون پدافند هوایی وجود داره",
+        "id": "ODpiNDk0YjA4ZDVlOWY",
+        "publicId": "ODpiNDk0YjA4ZDVlOWY",
+        "sourceId": "b494b08d5e9f",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-27T15:19:16.686Z",
+        "updatedAt": "2026-03-31T07:10:46.193Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.848066889359615,
+          34.52697184730923
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند ویس",
+        "city": "شهرستان کرمانشاه",
+        "province": "استان کرمانشاه",
+        "date": "",
+        "description": "",
+        "id": "ODphZDY4YmM1NDFiMGE",
+        "publicId": "ODphZDY4YmM1NDFiMGE",
+        "sourceId": "ad68bc541b0a",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-27T15:22:55.233Z",
+        "updatedAt": "2026-03-31T07:10:46.270Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92206,
       "geometry": {
         "type": "Point",
@@ -6076,6 +6139,36 @@
         "expirationDate": null,
         "createdAt": "2026-04-02T07:14:50.604Z",
         "updatedAt": "2026-04-02T07:14:50.604Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.20082655282499,
+          36.20284464899369
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی",
+        "city": "خرمدره",
+        "province": "استان زنجان",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "ODo5ZGFmMzhjNGUzMTk",
+        "publicId": "ODo5ZGFmMzhjNGUzMTk",
+        "sourceId": "9daf38c4e319",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T18:57:27.154Z",
+        "updatedAt": "2026-04-02T18:57:27.154Z"
       }
     },
     {
@@ -6257,7 +6350,7 @@
     }
   ],
   "metadata": {
-    "total": 92,
+    "total": 95,
     "layerId": 8,
     "clustered": false,
     "simplified": false

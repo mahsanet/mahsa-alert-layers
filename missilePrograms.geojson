@@ -12252,6 +12252,91 @@
     },
     {
       "type": "Feature",
+      "id": 90208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.62602220001901,
+          33.52630417897139
+        ]
+      },
+      "properties": {
+        "date": 29545710,
+        "name:fa": "حمله موشکی",
+        "description": "انفجار یا حمله موشکی حوالی ساعت 3 بامداد",
+        "id": "Nzo2MGJhNDc5ZjhiNGQ",
+        "publicId": "Nzo2MGJhNDc5ZjhiNGQ",
+        "sourceId": "60ba479f8b4d",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T21:32:48.792Z",
+        "updatedAt": "2026-04-08T19:37:27.164Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.42549030252894,
+          31.56129055273057
+        ]
+      },
+      "properties": {
+        "name:fa": "پرتابگر موشک",
+        "date": "",
+        "description": "دو لانچر سپاه آوردن داخل سالن تنیس قایم کردن",
+        "city": "مهریز",
+        "province": "استان یزد",
+        "id": "NzpiNmExM2RkNzhkOGM",
+        "publicId": "NzpiNmExM2RkNzhkOGM",
+        "sourceId": "b6a13dd78d8c",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:34:46.917Z",
+        "updatedAt": "2026-03-26T02:08:26.715Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90375,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.62165343199385,
+          37.327013030277286
+        ]
+      },
+      "properties": {
+        "name:fa": "هوا فضای سپاه",
+        "date": "",
+        "description": "پادگان هواوفضا سپاه",
+        "city": "کلانشهر رشت",
+        "province": "استان گیلان",
+        "id": "Nzo0YmMyMTc1ZGVhMzI",
+        "publicId": "Nzo0YmMyMTc1ZGVhMzI",
+        "sourceId": "4bc2175dea32",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:42:22.168Z",
+        "updatedAt": "2026-03-26T02:08:26.933Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 90488,
       "geometry": {
         "type": "Point",
@@ -12368,6 +12453,64 @@
         "expirationDate": null,
         "createdAt": "2026-03-19T07:22:25.198Z",
         "updatedAt": "2026-04-08T19:39:30.326Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.57284729805582,
+          37.98703605351068
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز نظامی و موشکی",
+        "date": 1773001800,
+        "description": "",
+        "city": "شهرستان بستان آباد",
+        "province": "استان آذربایجان شرقی",
+        "id": "Nzo5YTUyMjdkNGYxNjA",
+        "publicId": "Nzo5YTUyMjdkNGYxNjA",
+        "sourceId": "9a5227d4f160",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T19:35:40.199Z",
+        "updatedAt": "2026-03-26T02:08:44.354Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.57103869900507,
+          38.00409086346818
+        ]
+      },
+      "properties": {
+        "name:fa": " لانچر ",
+        "date": 1771533000,
+        "description": "محل قرار گیری لانچر ها",
+        "city": "شهرستان بستان آباد",
+        "province": "استان آذربایجان شرقی",
+        "id": "NzowOTcxZGUwNmE5Y2E",
+        "publicId": "NzowOTcxZGUwNmE5Y2E",
+        "sourceId": "0971de06a9ca",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T19:37:46.479Z",
+        "updatedAt": "2026-03-26T02:08:44.443Z"
       }
     },
     {
@@ -12518,6 +12661,35 @@
     },
     {
       "type": "Feature",
+      "id": 90827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.449517406276556,
+          36.155259039298016
+        ]
+      },
+      "properties": {
+        "name:fa": "محل پرتاب موشک",
+        "date": 1773088200,
+        "description": "در این مکان موشک پرتاب میشود. اما سکوی موشکی سابت نیست بلکە با لانچر در انجا شلیک میشوند. بیشتر وقت ها ساعت 5صبح و 8شب",
+        "city": "شهرستان سردشت",
+        "province": "استان آذربایجان غربی",
+        "id": "Nzo2NjZhYzRiMThmNGE",
+        "publicId": "Nzo2NjZhYzRiMThmNGE",
+        "sourceId": "666ac4b18f4a",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-20T09:39:02.177Z",
+        "updatedAt": "2026-03-26T02:08:52.545Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 90919,
       "geometry": {
         "type": "Point",
@@ -12545,6 +12717,35 @@
         "expirationDate": null,
         "createdAt": "2026-03-22T19:30:37.106Z",
         "updatedAt": "2026-03-26T02:08:59.540Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.02228093583406,
+          34.42588852572044
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله و انبار جای موشک ",
+        "date": 1774125000,
+        "description": " 10 km نتظار من سرباز ارتش در این منطقه بودم اینها همه سوله و انبار جای موشک هستش",
+        "city": "شهرستان دالاهو",
+        "province": "استان کرمانشاه",
+        "id": "Nzo2MWIxNWQ5YzgyNjY",
+        "publicId": "Nzo2MWIxNWQ5YzgyNjY",
+        "sourceId": "61b15d9c8266",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-25T08:32:42.141Z",
+        "updatedAt": "2026-03-26T02:09:28.649Z"
       }
     },
     {
@@ -12604,6 +12805,64 @@
         "expirationDate": null,
         "createdAt": "2026-03-27T15:04:11.202Z",
         "updatedAt": "2026-03-31T07:10:45.699Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.235996441197244,
+          33.5253690362035
+        ]
+      },
+      "properties": {
+        "name:fa": "پرتاب موشک",
+        "city": "شهرستان گلپایگان",
+        "province": "استان اصفهان",
+        "date": "",
+        "description": "پایگاه موشکی هست بارها موشک ازش شلیک شده",
+        "id": "Nzo4YTI5ZjNjODcxYmQ",
+        "publicId": "Nzo4YTI5ZjNjODcxYmQ",
+        "sourceId": "8a29f3c871bd",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-27T15:42:04.860Z",
+        "updatedAt": "2026-03-31T07:10:46.653Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.12131906369464,
+          34.78281556915918
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر ",
+        "city": "اسدآباد",
+        "province": "",
+        "date": 1772656200,
+        "description": "لانچر گذاشتن اینجا",
+        "id": "NzplNjAwZDMzMjU3MWI",
+        "publicId": "NzplNjAwZDMzMjU3MWI",
+        "sourceId": "e600d332571b",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-27T18:11:34.421Z",
+        "updatedAt": "2026-03-27T18:11:34.421Z"
       }
     },
     {
@@ -13277,6 +13536,151 @@
     },
     {
       "type": "Feature",
+      "id": 92609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.25836756849799,
+          35.37037174014951
+        ]
+      },
+      "properties": {
+        "name:fa": "کارخانه تجهیزات شناسایی و پهپاد",
+        "description": "کارخانه تولید تجهیزات شناسایی وپهباد.تمام کارگرانش هم اتباع هستن واجازه خروج از کارخانه روندارند.",
+        "date": 1773797346,
+        "city": "حسن آباد",
+        "province": "استان تهران",
+        "id": "Nzo5ZWZhMzQ5Zjg3OWQ",
+        "publicId": "Nzo5ZWZhMzQ5Zjg3OWQ",
+        "sourceId": "9efa349f879d",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T01:29:06.455Z",
+        "updatedAt": "2026-03-31T03:39:55.612Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.36967291752836,
+          36.68454048366114
+        ]
+      },
+      "properties": {
+        "name:fa": "محل لانچر موشک",
+        "description": "یه کانتینر سفید گذاشتن الان دوهفته اینجاست بدون کامیون ۹۹٪ لانچر هست",
+        "date": 1774258558,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "NzozYmIzNzViNTk4NDY",
+        "publicId": "NzozYmIzNzViNTk4NDY",
+        "sourceId": "3bb375b59846",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-23T09:35:58.740Z",
+        "updatedAt": "2026-03-31T03:40:02.273Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92692,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.52275666559632,
+          36.70552614992185
+        ]
+      },
+      "properties": {
+        "name:fa": "محل لانچر موشک",
+        "description": "وجود لانچر در این محدوده",
+        "date": 1773263718,
+        "city": "گاوازنگ",
+        "province": "استان زنجان",
+        "id": "Nzo4OTcwMzllYzBmYzQ",
+        "publicId": "Nzo4OTcwMzllYzBmYzQ",
+        "sourceId": "897039ec0fc4",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:15:18.030Z",
+        "updatedAt": "2026-03-31T03:40:02.527Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92693,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.545231596009614,
+          36.65325266740652
+        ]
+      },
+      "properties": {
+        "name:fa": "محل لانچر موشک",
+        "description": "وجود لانچر گزارش شده",
+        "date": 1773263501,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "Nzo2YWEzZDQzNWIxOTQ",
+        "publicId": "Nzo2YWEzZDQzNWIxOTQ",
+        "sourceId": "6aa3d435b194",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-11T21:11:41.798Z",
+        "updatedAt": "2026-03-31T03:40:02.581Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92694,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35353387448589,
+          33.468036027544244
+        ]
+      },
+      "properties": {
+        "name:fa": "محل لانچر موشک",
+        "description": "محل قرارگیری لانچر موشک در جنگ ۱۲ روزه",
+        "date": 1771461829,
+        "city": "خرم آباد",
+        "province": "استان لرستان",
+        "id": "Nzo0MWMzNDMzOGQyOGM",
+        "publicId": "Nzo0MWMzNDMzOGQyOGM",
+        "sourceId": "41c34338d28c",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-19T00:43:49.605Z",
+        "updatedAt": "2026-03-31T03:40:02.641Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92707,
       "geometry": {
         "type": "Polygon",
@@ -13499,6 +13903,96 @@
     },
     {
       "type": "Feature",
+      "id": 92902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35289365136299,
+          35.705993591135325
+        ]
+      },
+      "properties": {
+        "name:fa": "محل ساخت موتورهای توربوجت پهپاد",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1775264810,
+        "description": "محل ساخت موتورهای توربو جت پهپادهای انتحاری",
+        "sources": "",
+        "id": "Nzo3MGYyMTI4YjBlOTg",
+        "publicId": "Nzo3MGYyMTI4YjBlOTg",
+        "sourceId": "70f2128b0e98",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T01:40:06.032Z",
+        "updatedAt": "2026-04-04T01:40:06.032Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.008064480796975,
+          35.80342500806496
+        ]
+      },
+      "properties": {
+        "name:fa": "صنایع موشکی",
+        "city": "کرج",
+        "province": "استان البرز",
+        "date": "",
+        "description": "کارخانه تولید کلاهک موشکهای سوخت جامد در دو طبقه .. طبقه زیرین محل مونتاژ و انبار سوخت جامد . سوله های بالا انبوهی از ماشین‌آلات cnc جهت ساخت ...مدیر پروژه شکر نیا و شکرالهی",
+        "sources": "",
+        "id": "NzowNjkzZjFhMDNmYWU",
+        "publicId": "NzowNjkzZjFhMDNmYWU",
+        "sourceId": "0693f1a03fae",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:25:58.950Z",
+        "updatedAt": "2026-04-06T12:25:58.950Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.24802199524834,
+          35.709257043028686
+        ]
+      },
+      "properties": {
+        "name:fa": "برنامه پهپادی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": "",
+        "description": "شرکت تام ایران‌خودرو ساخت موتور های پهباد شاهد ۱۳۶ و تست اولیه موتور در این ساختمان انجام شد.شرکت تابع دانش پژوه",
+        "sources": "",
+        "id": "NzphZWI4NjlhNTc5ZjI",
+        "publicId": "NzphZWI4NjlhNTc5ZjI",
+        "sourceId": "aeb869a579f2",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-06T12:29:57.475Z",
+        "updatedAt": "2026-04-06T12:29:57.475Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92994,
       "geometry": {
         "type": "Point",
@@ -13714,6 +14208,93 @@
     },
     {
       "type": "Feature",
+      "id": 93108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51634454231484,
+          36.71135226878009
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار لانچر",
+        "description": "ایران در حال اماده شدن برای جنگ",
+        "date": 1776702707,
+        "city": "گاوازنگ",
+        "province": "استان زنجان",
+        "id": "NzpmNjEwNmRjZmIyMDM",
+        "publicId": "NzpmNjEwNmRjZmIyMDM",
+        "sourceId": "f6106dcfb203",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:47:04.198Z",
+        "updatedAt": "2026-04-22T20:47:04.198Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31525054233259,
+          35.36913927339566
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار لانچر",
+        "description": "مستقر کردن یک لانچر در این مکان. یه سری تسلیحات عجیب غریب هم بود کنارش.",
+        "date": 1776662950,
+        "city": "شهرستان ری",
+        "province": "استان تهران",
+        "id": "Nzo1NjI3YWJlZjkyNjA",
+        "publicId": "Nzo1NjI3YWJlZjkyNjA",
+        "sourceId": "5627abef9260",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:47:04.328Z",
+        "updatedAt": "2026-04-22T20:47:04.328Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.036784635576424,
+          34.36616306919149
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر",
+        "description": "استقرار دوتا  لانچر اینجا دیشب ساعت حوالی 3 شب",
+        "date": 1776345003,
+        "city": "شهرستان کرمانشاه",
+        "province": "استان کرمانشاه",
+        "id": "NzpjYTRmNzQ5MDdkMzU",
+        "publicId": "NzpjYTRmNzQ5MDdkMzU",
+        "sourceId": "ca4f74907d35",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:55:22.771Z",
+        "updatedAt": "2026-04-22T20:55:22.771Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 93138,
       "geometry": {
         "type": "Point",
@@ -13772,6 +14353,35 @@
     },
     {
       "type": "Feature",
+      "id": 93153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.548102211921275,
+          36.6556295608583
+        ]
+      },
+      "properties": {
+        "name:fa": "کامیون‌های نظامی و پهپاد",
+        "description": "دو تا کامیون نظامی اینجا بار اوردن. خبر پیچیده که پهپاد اورده بودن.",
+        "date": 1777550586,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "id": "Nzo5YjBiOGNlNTU3ZDM",
+        "publicId": "Nzo5YjBiOGNlNTU3ZDM",
+        "sourceId": "9b0b8ce557d3",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:08.390Z",
+        "updatedAt": "2026-05-02T01:00:08.390Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 93158,
       "geometry": {
         "type": "Point",
@@ -13797,6 +14407,35 @@
         "expirationDate": null,
         "createdAt": "2026-05-04T22:39:12.872Z",
         "updatedAt": "2026-05-04T22:39:12.872Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.23627763557735,
+          31.908203071149458
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور لانچر سپاه",
+        "description": "لانچر سپاه آوردن داخل سوله سوله خودم نزدیکشه دیدم",
+        "date": 1778088254,
+        "city": "یزد",
+        "province": "استان یزد",
+        "id": "NzpiYWE2NjZlOGM4OGU",
+        "publicId": "NzpiYWE2NjZlOGM4OGU",
+        "sourceId": "baa666e8c88e",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-06T20:46:34.918Z",
+        "updatedAt": "2026-05-06T20:46:34.918Z"
       }
     },
     {
@@ -13946,6 +14585,35 @@
     },
     {
       "type": "Feature",
+      "id": 93343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.83377261932824,
+          38.40472864104342
+        ]
+      },
+      "properties": {
+        "name:fa": "تحرکات لانچر",
+        "description": "تحرکات لانچر و کامیون های نظامی",
+        "date": 1780495995,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "id": "Nzo5NmJhMmZhOTI5MmY",
+        "publicId": "Nzo5NmJhMmZhOTI5MmY",
+        "sourceId": "96ba2fa9292f",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-04T03:33:13.702Z",
+        "updatedAt": "2026-06-04T03:33:13.702Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 93355,
       "geometry": {
         "type": "Point",
@@ -14030,10 +14698,70 @@
         "createdAt": "2026-06-04T03:35:57.810Z",
         "updatedAt": "2026-06-04T03:35:57.810Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.92617653310299,
+          35.67184040817568
+        ]
+      },
+      "properties": {
+        "name:fa": "پرتابگر موشک",
+        "city": "شهرستان ملارد",
+        "province": "استان تهران",
+        "date": "",
+        "description": "محل صوری پارکینگ خودروهای سنگین، طی جنگ تعدادی از للانچرها و موشکهای نگهداری شده در این مکان مورد هدف قرار گرفتند.",
+        "sources": "",
+        "id": "NzowNzI2MjU0MGMyNDc",
+        "publicId": "NzowNzI2MjU0MGMyNDc",
+        "sourceId": "07262540c247",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-05T15:11:19.621Z",
+        "updatedAt": "2026-06-05T15:11:19.621Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93393,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3717290610075,
+          35.025990986293266
+        ]
+      },
+      "properties": {
+        "name:fa": "سیلو موشک و لانچر",
+        "city": "ساوه",
+        "province": "استان مرکزی",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "NzowYmZmN2EwNDFiNDQ",
+        "publicId": "NzowYmZmN2EwNDFiNDQ",
+        "sourceId": "0bff7a041b44",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-05T18:31:06.365Z",
+        "updatedAt": "2026-06-05T18:31:06.365Z"
+      }
     }
   ],
   "metadata": {
-    "total": 93,
+    "total": 118,
     "layerId": 7,
     "clustered": false,
     "simplified": false

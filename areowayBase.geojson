@@ -27294,6 +27294,35 @@
     },
     {
       "type": "Feature",
+      "id": 90302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.94401068610688,
+          34.908536769995266
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه هوایی سپاه و دکل تلویزیونی",
+        "date": -49388746200,
+        "description": "",
+        "city": "شهرستان کامیاران",
+        "province": "استان کردستان",
+        "id": "MTA6YTJlYmYwMmIxOTBm",
+        "publicId": "MTA6YTJlYmYwMmIxOTBm",
+        "sourceId": "a2ebf02b190f",
+        "layerId": 10,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T09:57:28.709Z",
+        "updatedAt": "2026-03-26T02:08:20.898Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 90839,
       "geometry": {
         "type": "Point",
@@ -27441,7 +27470,7 @@
     }
   ],
   "metadata": {
-    "total": 208,
+    "total": 209,
     "layerId": 10,
     "clustered": false,
     "simplified": false

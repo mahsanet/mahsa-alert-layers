@@ -4219,6 +4219,35 @@
     },
     {
       "type": "Feature",
+      "id": 92199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.11061864903141,
+          36.160935588702955
+        ]
+      },
+      "properties": {
+        "name:fa": "کارخانه طلا - مشکوک به استخراج اورانیوم",
+        "city": "شهرستان سقز",
+        "province": "استان کردستان",
+        "date": "",
+        "description": "کارخانه طلا به دروغ زدن اما می‌خوان اورانیوم استخراج کنن ، همه مسئولانش سردارها و سرتیپهای سپاه هستن، به مردم این منطقه ظلم میکنن و هر کسی اعتراضی بهشون بکنه دستگیر و شکنجه میکنن حتی یه جوون هم کشتن، کاملا حفاظت شدس و یک گروه بلند پایه ی اطلاعاتی هم اونجا مستقر هستن، پر از دوربینهای مداربسته هم است",
+        "id": "NjoyN2U5NjgxMTY3ODU",
+        "publicId": "NjoyN2U5NjgxMTY3ODU",
+        "sourceId": "27e968116785",
+        "layerId": 6,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-27T14:59:42.158Z",
+        "updatedAt": "2026-03-31T07:10:45.635Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92231,
       "geometry": {
         "type": "Point",
@@ -4247,10 +4276,40 @@
         "createdAt": "2026-03-27T20:15:19.088Z",
         "updatedAt": "2026-03-31T07:10:48.008Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93389,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.358398985117674,
+          35.00878694168554
+        ]
+      },
+      "properties": {
+        "name:fa": "دانشگاه انرژی اتمی",
+        "city": "ساوه",
+        "province": "استان مرکزی",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "NjplYzZjOTJmM2I2OGU",
+        "publicId": "NjplYzZjOTJmM2I2OGU",
+        "sourceId": "ec6c92f3b68e",
+        "layerId": 6,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-05T15:18:26.296Z",
+        "updatedAt": "2026-06-05T15:18:26.296Z"
+      }
     }
   ],
   "metadata": {
-    "total": 29,
+    "total": 31,
     "layerId": 6,
     "clustered": false,
     "simplified": false

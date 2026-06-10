@@ -73906,6 +73906,31 @@
     },
     {
       "type": "Feature",
+      "id": 90215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.67715712233874,
+          36.55635378352726
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوبگر در مدرسه",
+        "id": "MTc6YjE0YjQ4ZThmM2E3",
+        "publicId": "MTc6YjE0YjQ4ZThmM2E3",
+        "sourceId": "b14b48e8f3a7",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-13T22:05:34.706Z",
+        "updatedAt": "2026-03-13T22:08:21.647Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 90220,
       "geometry": {
         "type": "Point",
@@ -73983,6 +74008,93 @@
         "expirationDate": null,
         "createdAt": "2026-03-15T10:20:08.444Z",
         "updatedAt": "2026-03-26T02:08:21.050Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.49304989899795,
+          35.63889174108907
+        ]
+      },
+      "properties": {
+        "name:fa": "مدرسه",
+        "date": 1772569800,
+        "description": "ماشین و موتور نیرو و تجهیزات نظامی گروه های تروریستی سپاه در این مدرسه مستقر هستند",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTc6NGM0N2QwOTI4OWMz",
+        "publicId": "MTc6NGM0N2QwOTI4OWMz",
+        "sourceId": "4c47d09289c3",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:21:08.858Z",
+        "updatedAt": "2026-03-26T02:08:21.876Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50113257683813,
+          35.65941392518248
+        ]
+      },
+      "properties": {
+        "name:fa": "مدرسه",
+        "date": 1772656200,
+        "description": "در این سه مدرسه که کنار هم هستن نیرو و ماشین های گروه تروریستی سپاه و ارتش از تختی به این محل انتقال شده است",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTc6ZDlhMWY5MzU5MjFl",
+        "publicId": "MTc6ZDlhMWY5MzU5MjFl",
+        "sourceId": "d9a1f935921e",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T12:30:39.486Z",
+        "updatedAt": "2026-03-26T02:08:22.341Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90373,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.449673733031204,
+          35.70646289782435
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع صفا ",
+        "date": "",
+        "description": "مسجد جامع صفا بعنوان سر پایگاه و فرماندهی مساجد در شرق تهران. بیش از ده طبقه روی زمین و پنج طبقه زیر زمین یکی از بزرگترین مراکز سرکوب با دو هزار نیروی بسیج فعال و دپوی عظیم اسلحه های سبک و نیمه سنگین",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTc6YmUyOWRiMTRmNWNh",
+        "publicId": "MTc6YmUyOWRiMTRmNWNh",
+        "sourceId": "be29db14f5ca",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T22:35:26.843Z",
+        "updatedAt": "2026-03-26T02:08:26.780Z"
       }
     },
     {
@@ -74341,6 +74453,64 @@
         "expirationDate": null,
         "createdAt": "2026-03-21T20:23:24.740Z",
         "updatedAt": "2026-03-26T02:08:56.714Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.25532825645308,
+          38.07493738400555
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان الغدیر",
+        "date": "",
+        "description": "بیمارستان نظامی محل درمان نظامی ها و محل استقرار نیروهای نظامی",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTc6MWIzMDE3Y2FjMjJh",
+        "publicId": "MTc6MWIzMDE3Y2FjMjJh",
+        "sourceId": "1b3017cac22a",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T20:31:13.776Z",
+        "updatedAt": "2026-03-26T02:08:57.474Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.289729192148116,
+          38.07267843943754
+        ]
+      },
+      "properties": {
+        "city": "تبریز",
+        "date": "",
+        "name:fa": "مصلای تبریز",
+        "province": "استان آذربایجان شرقی",
+        "description": "مصلای تبریز و محل تجمع نیروهای سرکوب",
+        "id": "MTc6YTE3MzNhYTBlZDVh",
+        "publicId": "MTc6YTE3MzNhYTBlZDVh",
+        "sourceId": "a1733aa0ed5a",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T20:38:45.630Z",
+        "updatedAt": "2026-04-08T19:37:27.166Z"
       }
     },
     {
@@ -75447,6 +75617,154 @@
     },
     {
       "type": "Feature",
+      "id": 92222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.16391812299261,
+          35.520702858744684
+        ]
+      },
+      "properties": {
+        "name:fa": "ورزشگاه",
+        "city": "مریوان",
+        "province": "",
+        "date": 1773174600,
+        "description": "ورزشگاه پر از نیرو",
+        "id": "MTc6M2IzZDFjY2RiZGY4",
+        "publicId": "MTc6M2IzZDFjY2RiZGY4",
+        "sourceId": "3b3d1ccdbdf8",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-27T17:53:36.742Z",
+        "updatedAt": "2026-03-27T17:53:36.742Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48112560624088,
+          34.78656744821363
+        ]
+      },
+      "properties": {
+        "name:fa": "باغ موزە دفاع مقدس",
+        "city": "همدان",
+        "province": "",
+        "date": 1771101000,
+        "description": "موزه جنگ دفاع مقدس",
+        "id": "MTc6ODcxOTIyMmI3MDMw",
+        "publicId": "MTc6ODcxOTIyMmI3MDMw",
+        "sourceId": "8719222b7030",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-27T18:14:50.287Z",
+        "updatedAt": "2026-03-27T18:14:50.287Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.420970723720046,
+          32.48879394649208
+        ]
+      },
+      "properties": {
+        "name:fa": "ورزشگاه",
+        "city": "فولاد شهر",
+        "province": "استان اصفهان",
+        "date": 1773261000,
+        "description": "ورزشگاه محله A2 فولادشهر. محل اختفای نیرو های سرکوب.",
+        "sources": "",
+        "id": "MTc6ZjFiOGI4ODY1NmYw",
+        "publicId": "MTc6ZjFiOGI4ODY1NmYw",
+        "sourceId": "f1b8b88656f0",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-28T16:13:10.027Z",
+        "updatedAt": "2026-03-28T16:13:10.027Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92370,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.68696166413616,
+          34.08822781518113
+        ]
+      },
+      "properties": {
+        "name:fa": "دبیرستان امام علی",
+        "city": "اراک",
+        "province": "استان مرکزی",
+        "date": 1771619400,
+        "description": "مقر سرکوب و پارکینگ خودروهای نظامی زد شورش حیاط دبیرستان امام علی",
+        "sources": "",
+        "id": "MTc6YTRhMDVjOGUxZjQx",
+        "publicId": "MTc6YTRhMDVjOGUxZjQx",
+        "sourceId": "a4a05c8e1f41",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-28T20:20:29.910Z",
+        "updatedAt": "2026-03-28T20:20:29.910Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92371,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.889334014375095,
+          34.59740597789444
+        ]
+      },
+      "properties": {
+        "name:fa": "میدان مرجعیت",
+        "city": "قم",
+        "province": "استان قم",
+        "date": "",
+        "description": "استقرار دوشکا و نیرو نظامی",
+        "sources": "",
+        "id": "MTc6MmE5ODU1NTJjZjc1",
+        "publicId": "MTc6MmE5ODU1NTJjZjc1",
+        "sourceId": "2a985552cf75",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-28T20:31:02.698Z",
+        "updatedAt": "2026-03-28T20:31:02.698Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92374,
       "geometry": {
         "type": "Point",
@@ -75588,6 +75906,36 @@
         "expirationDate": null,
         "createdAt": "2026-03-30T03:29:50.200Z",
         "updatedAt": "2026-03-30T03:29:50.200Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.15383104096958,
+          27.498687868327735
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار سپاه در مدرسه سینا",
+        "city": "دشتی",
+        "province": "استان فارس",
+        "date": 1774784458,
+        "description": "استقرار سپاه در مدرسه سینا روستای دشتی و چند خانه مسکونی قدیمی. از خانه های مسکونی مطمئن نیست.",
+        "sources": "",
+        "id": "MTc6NDJmYTQ2NGUyYzg2",
+        "publicId": "MTc6NDJmYTQ2NGUyYzg2",
+        "sourceId": "42fa464e2c86",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-30T03:46:42.520Z",
+        "updatedAt": "2026-03-30T03:46:42.520Z"
       }
     },
     {
@@ -76230,6 +76578,210 @@
     },
     {
       "type": "Feature",
+      "id": 92606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.004715317085896,
+          35.32218200124852
+        ]
+      },
+      "properties": {
+        "name:fa": "مدارس لجستیک نیروها",
+        "description": "طبق گزارش‌های میدانی، برخی فضاهای عمومی از جمله مدارس، به مراکز پشتیبانی لجستیکی و جابه‌جایی نیرو تبدیل شده‌اند. در منطقه بهاران و محدوده سه‌راه پاوان، تعدادی از مراکز آموزشی برای سازماندهی و تعویض شیفت مورد استفاده قرار می‌گیرند، همچنین مدرسه امام شافعی در پشت اداره برق نیز به محلی برای استقرار این افراد بدل شده است. منابع محلی اعلام کرده‌اند که جابه‌جایی‌ها با اتوبوس انجام می‌شود به این صورت که در هر نوبت، دو اتوبوس نیروهای جدید را وارد و هم‌زمان دو اتوبوس دیگر نیروهای شیفت قبل را خارج می‌کنند. بازه زمانی این فعالیت‌ها به‌صورت ۲۴ ساعت کار و ۲۴ ساعت استراحت تنظیم شده است.  https://hanahr.org/fa/%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa/%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%b1%db%8c-%d9%87%d8%a7%d9%86%d8%a7-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d8%a7%d9%86%d8%b3%d8%a7%d9%86-7/",
+        "date": 1774054735,
+        "city": "سنندج",
+        "province": "استان کردستان",
+        "id": "MTc6MDcxNzgxMDU0MmIy",
+        "publicId": "MTc6MDcxNzgxMDU0MmIy",
+        "sourceId": "0717810542b2",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T00:58:55.904Z",
+        "updatedAt": "2026-03-31T03:39:55.434Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.49425846312229,
+          37.462175926860084
+        ]
+      },
+      "properties": {
+        "name:fa": "باشگاه طالب نیا",
+        "description": "باشگاه طالب نیا. محل شکنجه بازداشتی ها. و کشتن آن ها.",
+        "date": 1773767970,
+        "city": "بندر انزلی",
+        "province": "استان گیلان",
+        "id": "MTc6MTg0MWJhYzIxNTdj",
+        "publicId": "MTc6MTg0MWJhYzIxNTdj",
+        "sourceId": "1841bac2157c",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T17:19:30.755Z",
+        "updatedAt": "2026-03-31T03:39:55.732Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.37033117522461,
+          35.03546210830008
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه علمیه ساوه",
+        "description": "حوزه علمیه ساوه که خیلی از سرکوب گرایی ساوه اینجا هستن",
+        "date": 1772054954,
+        "city": "ساوه",
+        "province": "استان مرکزی",
+        "id": "MTc6ZTI3NjY0Nzc3ZWZm",
+        "publicId": "MTc6ZTI3NjY0Nzc3ZWZm",
+        "sourceId": "e27664777eff",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-25T21:29:14.558Z",
+        "updatedAt": "2026-03-31T03:39:59.587Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.63228164222892,
+          31.384180235955597
+        ]
+      },
+      "properties": {
+        "name:fa": "ورزشگاه الغدیر - استقرار پادگان",
+        "description": "نیرو های پادگان تخلیه شدن و در ورزشگاه الغدیر مستقر شدن طبق گفته های یه سرباز که اونجا پست میده",
+        "date": 1771881419,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MTc6N2JkMDZjM2U3MjUz",
+        "publicId": "MTc6N2JkMDZjM2U3MjUz",
+        "sourceId": "7bd06c3e7253",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-23T21:16:59.761Z",
+        "updatedAt": "2026-03-31T03:39:59.711Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.22309925399395,
+          36.146462655953755
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع",
+        "description": "مسجد جامع، محل برگزاری تجمعات سپاه و نماز جماعت",
+        "date": 1772816989,
+        "city": "ابهر",
+        "province": "استان زنجان",
+        "id": "MTc6ZjZhMzI4ZGRiOTc0",
+        "publicId": "MTc6ZjZhMzI4ZGRiOTc0",
+        "sourceId": "f6a328ddb974",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-06T17:09:49.055Z",
+        "updatedAt": "2026-03-31T03:40:00.969Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.32464048095187,
+          35.77734930189193
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد علی بن ابی‌طالب",
+        "description": "اینجا مسجد علی بن ابی طالب هستش و تمام خونه های کوچه لاله سوم (کوچه ضلع شمالی مسجد) برای مسجد هستش هرشب بعد از نماز یکسری ها میان خیابون و شعار حکومتی میدن و جلو و پشت صف حداقل ۴ نفر با اسلحه کلاشینکف راه میره کسانی که اسلحه جنگی دارن قطعا بسیجی و مزدورهای حکومتی هستن",
+        "date": 1772714076,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTc6ZTJmYmJiYTVlMTA5",
+        "publicId": "MTc6ZTJmYmJiYTVlMTA5",
+        "sourceId": "e2fbbba5e109",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-05T12:34:36.228Z",
+        "updatedAt": "2026-03-31T03:40:01.031Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.063948,
+          30.295549
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه بیت الزهرا (منزل سلیمانی)",
+        "city": "کرمان",
+        "province": "استان کرمان",
+        "date": 1775054101,
+        "description": "این مکان که اکنون تحت نام حسینیه بیت‌الزهرا فعالیت می‌کند قبلاً منزل [نام خانوادگی] بود و برخی مواقع برای برگزاری جلسات نیروهای نظامی و سرکوب استفاده می‌شود.",
+        "sources": "",
+        "id": "MTc6NTZiMDU2MDE1MTRm",
+        "publicId": "MTc6NTZiMDU2MDE1MTRm",
+        "sourceId": "56b05601514f",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T07:44:15.587Z",
+        "updatedAt": "2026-04-02T07:44:15.587Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92829,
       "geometry": {
         "type": "Point",
@@ -76317,6 +76869,96 @@
     },
     {
       "type": "Feature",
+      "id": 92855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52703909056814,
+          36.29958777143665
+        ]
+      },
+      "properties": {
+        "name:fa": "مجتمع رفاهی آموزشی نورالرضا",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": "",
+        "description": " برگزاری جلسات و هتل نیروی مسلح",
+        "sources": "",
+        "id": "MTc6M2Q0ZWQ5OTU5Y2U2",
+        "publicId": "MTc6M2Q0ZWQ5OTU5Y2U2",
+        "sourceId": "3d4ed9959ce6",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T18:33:09.183Z",
+        "updatedAt": "2026-04-02T18:33:09.183Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.02831511384551,
+          37.20795921942914
+        ]
+      },
+      "properties": {
+        "name:fa": "مدرسه پسرانه آیت الله رئیسی",
+        "city": "لاهيجان",
+        "province": "استان گیلان",
+        "date": 1775161591,
+        "description": "مدرسه پسرانه آیت الله رئیسی، کنار مسجد ابوالفضل: تجمع قاتلان حکومتی",
+        "sources": "",
+        "id": "MTc6ZmFmMmY3NDRhZGI5",
+        "publicId": "MTc6ZmFmMmY3NDRhZGI5",
+        "sourceId": "faf2f744adb9",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:33:53.167Z",
+        "updatedAt": "2026-04-02T22:33:53.167Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.46509705444049,
+          36.669747418443364
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ثارالله",
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "date": 1775226319,
+        "description": "مسجد ثار الله. مسجد جواد رسولی. محل تجمع اطلاعاتی ها، پاسداران، مزدوران و آدمکشان شهر زنجان",
+        "sources": "",
+        "id": "MTc6YmY4Njc5M2MxNjUz",
+        "publicId": "MTc6YmY4Njc5M2MxNjUz",
+        "sourceId": "bf86793c1653",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-04T00:40:26.845Z",
+        "updatedAt": "2026-04-04T00:40:26.845Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92928,
       "geometry": {
         "type": "Point",
@@ -76375,6 +77017,36 @@
     },
     {
       "type": "Feature",
+      "id": 93034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39816501046465,
+          35.805306176095584
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد النبی ولنجک",
+        "city": "تجریش",
+        "province": "استان تهران",
+        "date": 1776029006,
+        "description": "هر شب ماشین‌ها را ردیف می‌کنند با یک وانت و درون آن عکس امام و ۸ نورافکن، با اسپیکر و صدای بلند به اسرائیل و آمریکا و منافق فحش میدن",
+        "sources": "",
+        "id": "MTc6NTEzZjkwODk5YWMz",
+        "publicId": "MTc6NTEzZjkwODk5YWMz",
+        "sourceId": "513f90899ac3",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-13T02:02:15.796Z",
+        "updatedAt": "2026-04-13T02:02:15.796Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 93065,
       "geometry": {
         "type": "Point",
@@ -76400,6 +77072,35 @@
         "expirationDate": null,
         "createdAt": "2026-04-18T02:10:21.399Z",
         "updatedAt": "2026-04-18T02:10:21.399Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.371586570315,
+          35.700091414240546
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروها در مدرسه",
+        "description": "مدرسه عدل پرور محل تجمع نیرو های حکومت و تجهیزات اونا",
+        "date": 1777626791,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTc6NWRjYTRmMDNhMjc2",
+        "publicId": "MTc6NWRjYTRmMDNhMjc2",
+        "sourceId": "5dca4f03a276",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:08.291Z",
+        "updatedAt": "2026-05-02T01:00:08.291Z"
       }
     },
     {
@@ -76458,6 +77159,35 @@
         "expirationDate": null,
         "createdAt": "2026-05-07T20:10:44.932Z",
         "updatedAt": "2026-05-07T20:10:44.932Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.306265,
+          35.770893
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جنت آباد (نیروها و اسلحه)",
+        "description": "یکی از مهم ترین مساجد جنت آباد که جدا از مسجد بودن، حوزه هم هست. محل استراحت نیروها و محل نگهداری اسلحه ها.",
+        "date": 1779090811,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTc6M2ZkNjM3NjBhYTdi",
+        "publicId": "MTc6M2ZkNjM3NjBhYTdi",
+        "sourceId": "3fd63760aa7b",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-18T16:49:28.173Z",
+        "updatedAt": "2026-05-18T16:49:28.173Z"
       }
     },
     {
@@ -76636,7 +77366,7 @@
     }
   ],
   "metadata": {
-    "total": 2301,
+    "total": 2326,
     "layerId": 17,
     "clustered": false,
     "simplified": false

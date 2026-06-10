@@ -47665,6 +47665,35 @@
     },
     {
       "type": "Feature",
+      "id": 90355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4495561570983,
+          35.69039736698247
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج ",
+        "date": "",
+        "description": "پایگاه بسیج جنب اداره برق",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTo0MTIyNDFhNDE5MTk",
+        "publicId": "MTo0MTIyNDFhNDE5MTk",
+        "sourceId": "412241a41919",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-16T13:41:19.065Z",
+        "updatedAt": "2026-03-26T02:08:25.274Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 90392,
       "geometry": {
         "type": "Point",
@@ -47777,6 +47806,64 @@
         "expirationDate": null,
         "createdAt": "2026-03-17T06:47:46.114Z",
         "updatedAt": "2026-03-26T02:08:29.252Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90413,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31426134903276,
+          35.77803808433782
+        ]
+      },
+      "properties": {
+        "name:fa": "صالحین",
+        "date": 1772224200,
+        "description": "مجل استقرار قرارگاه ثارالله در زمان های بحران",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MToxYmI2MTQwODJiZjg",
+        "publicId": "MToxYmI2MTQwODJiZjg",
+        "sourceId": "1bb614082bf8",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T13:04:57.669Z",
+        "updatedAt": "2026-03-26T02:08:30.243Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.07172061782151,
+          37.512372349018364
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزە ٤ مالک اشتر پایگاە بسیج",
+        "date": 1772656200,
+        "description": "",
+        "city": "Shahrake Behdari",
+        "province": "West Azerbaijan Province",
+        "id": "MToyZTlhZjU3ZTYxYWQ",
+        "publicId": "MToyZTlhZjU3ZTYxYWQ",
+        "sourceId": "2e9af57e61ad",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T09:32:14.624Z",
+        "updatedAt": "2026-03-26T02:08:34.382Z"
       }
     },
     {
@@ -48869,6 +48956,122 @@
     },
     {
       "type": "Feature",
+      "id": 90884,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.376138417388404,
+          38.02697107365296
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "date": "",
+        "description": "",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MToxOWI2Nzg4MjczMzE",
+        "publicId": "MToxOWI2Nzg4MjczMzE",
+        "sourceId": "19b678827331",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T20:23:35.187Z",
+        "updatedAt": "2026-03-26T02:08:56.781Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.59594333205709,
+          37.97770451768022
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج",
+        "date": "",
+        "description": "این مکان مال بسیجه میدان تیر و مهمات خانه داره",
+        "city": "شهرستان بستان آباد",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTowOTZkYTM4ZDRjYWE",
+        "publicId": "MTowOTZkYTM4ZDRjYWE",
+        "sourceId": "096da38d4caa",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T20:27:04.271Z",
+        "updatedAt": "2026-03-26T02:08:56.963Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.36874477317053,
+          38.074404599623676
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج",
+        "date": "",
+        "description": "مرکز بسیج سمت شرق تبریز با کلی مهمات",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MToyOTBkNjU5NjEzOWU",
+        "publicId": "MToyOTBkNjU5NjEzOWU",
+        "sourceId": "290d6596139e",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T20:27:59.999Z",
+        "updatedAt": "2026-03-26T02:08:57.024Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.33284261350482,
+          38.06264038777263
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "date": "",
+        "description": "پایگاه بسیج",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTo1MDljNTI3YmUxYzI",
+        "publicId": "MTo1MDljNTI3YmUxYzI",
+        "sourceId": "509c527be1c2",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T20:36:07.435Z",
+        "updatedAt": "2026-03-26T02:08:57.667Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 90898,
       "geometry": {
         "type": "Point",
@@ -48895,6 +49098,64 @@
         "expirationDate": null,
         "createdAt": "2026-03-21T20:37:31.065Z",
         "updatedAt": "2026-03-26T02:08:57.858Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.26866491295738,
+          38.074036893247694
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج",
+        "date": "",
+        "description": "حوزه بسیج عمار",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTphZDA4MGEzOTY1ZTY",
+        "publicId": "MTphZDA4MGEzOTY1ZTY",
+        "sourceId": "ad080a3965e6",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T20:47:13.549Z",
+        "updatedAt": "2026-03-26T02:08:58.320Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.289903543251114,
+          38.06036996678219
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه ۴ بسیج شهری",
+        "date": "",
+        "description": "حوزه ۴ بسیج شهری",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTphNTJmOThkZDk3OTI",
+        "publicId": "MTphNTJmOThkZDk3OTI",
+        "sourceId": "a52f98dd9792",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T20:47:45.343Z",
+        "updatedAt": "2026-03-26T02:08:58.447Z"
       }
     },
     {
@@ -56542,6 +56803,35 @@
     },
     {
       "type": "Feature",
+      "id": 91256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.874359881100986,
+          34.62661578597235
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "date": "",
+        "description": "زیر زمین مسجد محل جمع شدن بسیجی ها و اسلحه‌ ها",
+        "city": "قم",
+        "province": "استان قم",
+        "id": "MTozOWU4ODc2OTg4NmE",
+        "publicId": "MTozOWU4ODc2OTg4NmE",
+        "sourceId": "39e88769886a",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-25T00:03:07.597Z",
+        "updatedAt": "2026-03-26T02:09:26.348Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 91273,
       "geometry": {
         "type": "Point",
@@ -56628,6 +56918,64 @@
         "expirationDate": null,
         "createdAt": "2026-03-25T09:56:13.193Z",
         "updatedAt": "2026-03-26T02:09:29.743Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.04817102833468,
+          33.49468865933058
+        ]
+      },
+      "properties": {
+        "name:fa": "مخفیگاه بسیج",
+        "description": "بسیجی ها در یک خانه قایم شده بودن",
+        "date": 1774374490,
+        "city": "دورود",
+        "province": "استان لرستان",
+        "id": "MTpkYzFjMTVhMmJjNDg",
+        "publicId": "MTpkYzFjMTVhMmJjNDg",
+        "sourceId": "dc1c15a2bc48",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-24T17:48:10.094Z",
+        "updatedAt": "2026-03-27T22:03:27.990Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41942887463088,
+          35.70231946658315
+        ]
+      },
+      "properties": {
+        "name:fa": "مکان مخفی بسیج",
+        "description": "مکان مخفی بسیج در م فردوسی",
+        "date": 1771239869,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTo4MTM2ZWExYjJhMjk",
+        "publicId": "MTo4MTM2ZWExYjJhMjk",
+        "sourceId": "8136ea1b2a29",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-16T11:04:29.659Z",
+        "updatedAt": "2026-03-27T22:03:28.506Z"
       }
     },
     {
@@ -58463,6 +58811,33 @@
     },
     {
       "type": "Feature",
+      "id": 92809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.028618834681,
+          37.207630747853486
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج کنار مدرسه",
+        "description": "مدرسه ی دخترانه در کنار گردان امام حسین و بسیج",
+        "date": 1775069703,
+        "id": "MTozMzRkODFlMjU3YzE",
+        "publicId": "MTozMzRkODFlMjU3YzE",
+        "sourceId": "334d81e257c1",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-01T18:55:03.119Z",
+        "updatedAt": "2026-04-02T07:58:11.335Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92820,
       "geometry": {
         "type": "Point",
@@ -58549,6 +58924,36 @@
         "expirationDate": null,
         "createdAt": "2026-04-02T22:37:41.438Z",
         "updatedAt": "2026-04-02T22:37:41.438Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.02862723798495,
+          37.20763296001837
+        ]
+      },
+      "properties": {
+        "name:fa": "مدرسه علامه طباطبایی و پایگاه بسیج",
+        "city": "لاهيجان",
+        "province": "استان گیلان",
+        "date": 1775161318,
+        "description": "مدرسه ی دخترانه علامه طباطبایی در کنار پایگاه مقاومت بسیج و گردان امام حصین",
+        "sources": "",
+        "id": "MTpmOTUxOTIxNTM4YmU",
+        "publicId": "MTpmOTUxOTIxNTM4YmU",
+        "sourceId": "f951921538be",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:38:09.569Z",
+        "updatedAt": "2026-04-02T22:38:09.569Z"
       }
     },
     {
@@ -58759,6 +59164,36 @@
         "expirationDate": null,
         "createdAt": "2026-04-09T17:47:47.435Z",
         "updatedAt": "2026-04-09T17:47:47.435Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36185543160397,
+          35.77703137927375
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه سیدالشهدا - محل تجمع بسیج",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1775574350,
+        "description": "نیروهای لباس شخصی و بسیج در حسینیه سیدالشهدا تجمع میکنند و کاروان های شبانه سعادت آباد از اینجا تجهیز می شوند. یک تویوتا وانت خاکستری اتاق ۷۰ با دوشکا جلوی در حسینیه قرار دارد و اول کاروان حرکت میکند.",
+        "sources": "",
+        "id": "MTo4ZDBiYWY4OThmMDQ",
+        "publicId": "MTo4ZDBiYWY4OThmMDQ",
+        "sourceId": "8d0baf898f04",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:52:21.502Z",
+        "updatedAt": "2026-04-09T17:52:21.502Z"
       }
     },
     {
@@ -59267,6 +59702,35 @@
     },
     {
       "type": "Feature",
+      "id": 93110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3570165339309,
+          35.61833558831776
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر جلسات بسیج",
+        "description": "مقر جلسات شبانگاهی بسیجی ها",
+        "date": 1776588426,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTo0NjAxOGJjNzQzYTA",
+        "publicId": "MTo0NjAxOGJjNzQzYTA",
+        "sourceId": "46018bc743a0",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-22T20:47:04.450Z",
+        "updatedAt": "2026-04-22T20:47:04.450Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 93123,
       "geometry": {
         "type": "Point",
@@ -59292,6 +59756,35 @@
         "expirationDate": null,
         "createdAt": "2026-04-27T21:31:45.133Z",
         "updatedAt": "2026-04-27T21:31:45.133Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37516430698841,
+          35.702388094210164
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهید محبی",
+        "description": "پایگاه بسیج شهید هادی محبی محل تجمع نیروهای بسیجی",
+        "date": 1777628183,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTpmYjY1YzI4MjY3NWE",
+        "publicId": "MTpmYjY1YzI4MjY3NWE",
+        "sourceId": "fb65c282675a",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-05-02T01:00:07.875Z",
+        "updatedAt": "2026-05-02T01:00:07.875Z"
       }
     },
     {
@@ -60317,7 +60810,7 @@
     }
   ],
   "metadata": {
-    "total": 2122,
+    "total": 2139,
     "layerId": 1,
     "clustered": false,
     "simplified": false

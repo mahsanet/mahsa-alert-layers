@@ -3546,6 +3546,64 @@
     },
     {
       "type": "Feature",
+      "id": 92675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.447202305422195,
+          35.59895709874429
+        ]
+      },
+      "properties": {
+        "name:fa": "فعالیت رادار",
+        "description": "فعالیت رادار",
+        "date": 1774246955,
+        "city": "ری",
+        "province": "استان تهران",
+        "id": "OTpkZmE4ZTBiMzhkZWM",
+        "publicId": "OTpkZmE4ZTBiMzhkZWM",
+        "sourceId": "dfa8e0b38dec",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-23T06:22:35.839Z",
+        "updatedAt": "2026-03-31T03:40:01.086Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.30444368113831,
+          36.84461752645957
+        ]
+      },
+      "properties": {
+        "name:fa": "فعالیت رادار",
+        "description": "رادار و گشت دریایی",
+        "date": 1773083645,
+        "city": "شهرستان بهشهر",
+        "province": "استان مازندران",
+        "id": "OTowZmNmZTAwNDdhZDM",
+        "publicId": "OTowZmNmZTAwNDdhZDM",
+        "sourceId": "0fcfe0047ad3",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-09T19:14:05.656Z",
+        "updatedAt": "2026-03-31T03:40:01.151Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92793,
       "geometry": {
         "type": "Point",
@@ -3572,6 +3630,36 @@
         "expirationDate": null,
         "createdAt": "2026-04-02T07:24:58.318Z",
         "updatedAt": "2026-04-02T07:24:58.318Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.427356201555966,
+          36.55698454776834
+        ]
+      },
+      "properties": {
+        "city": "شهرستان زنجان",
+        "date": 1775137588,
+        "name:fa": "رادار",
+        "sources": "",
+        "province": "استان زنجان",
+        "description": "رادارتلویزیونی،مخابراتی بایندور،بیسیم ادارات مراکز نظامی و اطلاعاتی شهر زنجان",
+        "id": "OTo3MTYzZThhMWFlMTE",
+        "publicId": "OTo3MTYzZThhMWFlMTE",
+        "sourceId": "7163e8a1ae11",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:29:19.688Z",
+        "updatedAt": "2026-04-08T20:49:25.574Z"
       }
     },
     {
@@ -3634,7 +3722,7 @@
     }
   ],
   "metadata": {
-    "total": 50,
+    "total": 53,
     "layerId": 9,
     "clustered": false,
     "simplified": false

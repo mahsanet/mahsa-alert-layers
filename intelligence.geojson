@@ -3588,6 +3588,64 @@
     },
     {
       "type": "Feature",
+      "id": 90408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.17683030351648,
+          35.52252191418208
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاە",
+        "date": 1772397000,
+        "description": "",
+        "city": "مریوان",
+        "province": "استان کردستان",
+        "id": "MjpkZDkxZDFmNDg2NDY",
+        "publicId": "MjpkZDkxZDFmNDg2NDY",
+        "sourceId": "dd91d1f48646",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-17T10:14:37.760Z",
+        "updatedAt": "2026-03-26T02:08:29.921Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43967108051464,
+          35.716576621128254
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز اطلاعات",
+        "date": "",
+        "description": "این ساختمون مال سپاهه، بدون هیچ تابلویی، ماشینهای با پلاک سپاه و شیشه‌های دودی همیشه بهش وارد و خارج میشدن، به علاوه تعداد زیادی آخوند. و لباس شخصی، همیشه هم سربازهای وظیفه به عنوان دربان اونجا بودن، دو تا در داره، یکی توی کوچه و یکی دقیقا چسبیده به ایستگاه متروی بهار شیراز",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "Mjo1YzMxMTk5NTE3YWY",
+        "publicId": "Mjo1YzMxMTk5NTE3YWY",
+        "sourceId": "5c31199517af",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-18T17:39:36.390Z",
+        "updatedAt": "2026-03-26T02:08:38.512Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 90581,
       "geometry": {
         "type": "Point",
@@ -3641,6 +3699,64 @@
         "expirationDate": null,
         "createdAt": "2026-03-19T08:24:45.760Z",
         "updatedAt": "2026-03-26T02:08:41.853Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.355602104700466,
+          35.04324277219156
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "date": 1772656200,
+        "description": "",
+        "city": "پاوه",
+        "province": "استان کرمانشاه",
+        "id": "MjplMzM1NTc2YzU2M2U",
+        "publicId": "MjplMzM1NTc2YzU2M2U",
+        "sourceId": "e335576c563e",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T14:43:34.913Z",
+        "updatedAt": "2026-03-26T02:08:42.891Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.11652425385884,
+          36.39535106841771
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات شهرستان تکاب",
+        "date": 1773347400,
+        "description": "",
+        "city": "تكاب",
+        "province": "استان آذربایجان غربی",
+        "id": "MjpkOWM3YWNhM2RiYzM",
+        "publicId": "MjpkOWM3YWNhM2RiYzM",
+        "sourceId": "d9c7aca3dbc3",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T19:26:44.635Z",
+        "updatedAt": "2026-03-26T02:08:44.150Z"
       }
     },
     {
@@ -3971,6 +4087,64 @@
     },
     {
       "type": "Feature",
+      "id": 90868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.056327102186174,
+          37.34551052977059
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات",
+        "date": "",
+        "description": "37.345511, 46.056327",
+        "city": "بناب",
+        "province": "استان آذربایجان شرقی",
+        "id": "MjpmZThjNzdkNmI5MWE",
+        "publicId": "MjpmZThjNzdkNmI5MWE",
+        "sourceId": "fe8c77d6b91a",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T20:06:26.547Z",
+        "updatedAt": "2026-03-26T02:08:55.419Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.26967283067478,
+          38.04399456675566
+        ]
+      },
+      "properties": {
+        "name:fa": "هتل اطلاعات سپاه",
+        "date": "",
+        "description": "هتل حفاظت اطلاعات معمولا جلسات در این مکان انجام میشود",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MjphZGQ2ODVlYjczMDc",
+        "publicId": "MjphZGQ2ODVlYjczMDc",
+        "sourceId": "add685eb7307",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T20:22:51.420Z",
+        "updatedAt": "2026-03-26T02:08:56.648Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 90894,
       "geometry": {
         "type": "Point",
@@ -3997,6 +4171,64 @@
         "expirationDate": null,
         "createdAt": "2026-03-21T20:33:24.297Z",
         "updatedAt": "2026-04-08T19:39:30.332Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.21421215197134,
+          38.06300066107846
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "date": "",
+        "description": "اطلاعات سپاه",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mjo1ZDkyMjJmYjhlMjg",
+        "publicId": "Mjo1ZDkyMjJmYjhlMjg",
+        "sourceId": "5d9222fb8e28",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T20:45:09.166Z",
+        "updatedAt": "2026-03-26T02:08:58.052Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.27269980731347,
+          38.0625534372403
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات سپاه",
+        "date": "",
+        "description": "اداره اطلاعات سپاه",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MjozMWM5ZjQ0NDhkNjQ",
+        "publicId": "MjozMWM5ZjQ0NDhkNjQ",
+        "sourceId": "31c9f4448d64",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-21T20:47:29.328Z",
+        "updatedAt": "2026-03-26T02:08:58.387Z"
       }
     },
     {
@@ -4181,6 +4413,35 @@
     },
     {
       "type": "Feature",
+      "id": 90992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.806457845785786,
+          29.88328684755463
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات",
+        "date": 1771187400,
+        "description": "خونه تیمی اطلاعات بسیج در پوشش آموزشگاه خیاطی . طبقه همکف خیاطی طبقه بالا در اختیار اطلاعات بسیج",
+        "city": "مرودشت",
+        "province": "استان فارس",
+        "id": "MjphM2QzNmI1OTU2NTM",
+        "publicId": "MjphM2QzNmI1OTU2NTM",
+        "sourceId": "a3d36b595653",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-24T22:06:47.331Z",
+        "updatedAt": "2026-03-26T02:09:04.893Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 91282,
       "geometry": {
         "type": "Point",
@@ -4265,6 +4526,35 @@
         "expirationDate": null,
         "createdAt": "2026-03-25T09:33:43.809Z",
         "updatedAt": "2026-04-08T19:39:30.348Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.28363545171712,
+          37.161708975740424
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله اطلاعات سپاه",
+        "description": "سوله برای اطلاعات سپاه. رفت و آماد توش کم بود اما این مدت بیشتر شده",
+        "date": 1773429478,
+        "city": "احمدآباد",
+        "province": "استان گیلان",
+        "id": "MjphMjcxZmMxZGIxMzI",
+        "publicId": "MjphMjcxZmMxZGIxMzI",
+        "sourceId": "a271fc1db132",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-13T19:17:58.676Z",
+        "updatedAt": "2026-03-26T23:40:11.984Z"
       }
     },
     {
@@ -9839,6 +10129,210 @@
     },
     {
       "type": "Feature",
+      "id": 92595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.45932010013635,
+          35.74603770009824
+        ]
+      },
+      "properties": {
+        "name:fa": "محدوده وزارت",
+        "description": "دقیقا تا این نقطه‌ای که پین کردم محدوده وزارت ادامه داره. اون قسمت پر از دار و درخت پایین تر هم با اینکه عمومیه ولی خیلی نظارت روش زیاده و اذیت میکنن.",
+        "date": 1774799609,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MjpjYzNkYWRmZDEzMDk",
+        "publicId": "MjpjYzNkYWRmZDEzMDk",
+        "sourceId": "cc3dadfd1309",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-29T15:53:29.130Z",
+        "updatedAt": "2026-03-31T03:39:54.544Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.442318050101136,
+          35.7766531197294
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه سازمانی اطلاعاتی",
+        "description": "۲۰_۲۹ اسفند_۲۴ ساعته-بن بست صراف-بن بست درخت -محل نیروهای اطلاعاتی و خانه سازمانی:احتمال حضور رادان",
+        "date": 1773906442,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MjoxZjg4NDgzZTVjZGY",
+        "publicId": "MjoxZjg4NDgzZTVjZGY",
+        "sourceId": "1f88483e5cdf",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-19T07:47:22.542Z",
+        "updatedAt": "2026-03-31T03:39:55.556Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92616,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.07064535606736,
+          30.29899472314024
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه امن",
+        "description": "سلام این مکان که چسبیده به سینما شهر تماشا هست ستاد بازسازی عتبات عالیات هست و می‌تونه به عنوان خانه امن باشه",
+        "date": 1773585744,
+        "city": "کرمان",
+        "province": "استان کرمان",
+        "id": "MjphM2I1ODMyOWU3MGQ",
+        "publicId": "MjphM2I1ODMyOWU3MGQ",
+        "sourceId": "a3b58329e70d",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-15T14:42:24.507Z",
+        "updatedAt": "2026-03-31T03:39:56.278Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.400377679004436,
+          35.76768375224081
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه امن",
+        "description": "اين مكان خانه امن است. قبلا كيوسك نگهباني داشتن زمان جنگ ١٢ روزه برداشتن. تمام اهالي و راننده هاي اسنپ ميدونن كه اينجا خانه امن هستش.",
+        "date": 1773087014,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "Mjo2ODAxYTE1NWNjZWY",
+        "publicId": "Mjo2ODAxYTE1NWNjZWY",
+        "sourceId": "6801a155ccef",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-09T20:10:14.372Z",
+        "updatedAt": "2026-03-31T03:39:57.792Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.68581759057528,
+          36.19936281668173
+        ]
+      },
+      "properties": {
+        "name:fa": "محل مخبران امنیتی",
+        "description": "مخبر زیاد اینجا داره و متور های امنیتی و... روز های اعتراضات از همین مکان بیرون میان",
+        "date": 1771170540,
+        "city": "سبزوار",
+        "province": "استان خراسان رضوی",
+        "id": "MjpkODAwZGZjMjdlM2Q",
+        "publicId": "MjpkODAwZGZjMjdlM2Q",
+        "sourceId": "d800dfc27e3d",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-02-15T15:49:00.678Z",
+        "updatedAt": "2026-03-31T03:40:00.568Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.53199431726725,
+          29.604444809292062
+        ]
+      },
+      "properties": {
+        "name:fa": "بازداشتگاه اطلاعات انتظامی",
+        "description": "اطلاعات نیرو انتظامی، بازداشتگاه سروش",
+        "date": 1774759580,
+        "city": "شیراز",
+        "province": "استان فارس",
+        "id": "MjplZmJjZTYyYTIyM2I",
+        "publicId": "MjplZmJjZTYyYTIyM2I",
+        "sourceId": "efbce62a223b",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-29T04:46:20.435Z",
+        "updatedAt": "2026-03-31T03:40:01.207Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.179270600284326,
+          36.208644503438975
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات",
+        "city": "خرمدره",
+        "province": "استان زنجان",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MjpkNWUwNWFlMzFjYWI",
+        "publicId": "MjpkNWUwNWFlMzFjYWI",
+        "sourceId": "d5e05ae31cab",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-30T11:41:00.522Z",
+        "updatedAt": "2026-03-30T11:41:00.522Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92761,
       "geometry": {
         "type": "Point",
@@ -10088,6 +10582,96 @@
     },
     {
       "type": "Feature",
+      "id": 92864,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.66411338519737,
+          31.32175864368189
+        ]
+      },
+      "properties": {
+        "name:fa": "مکان اجاره شده وزارت اطلاعات",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "date": 1775121650,
+        "description": "مکان اجاره شده توسط وزارت اطلاعات و در‌اینجا‌ انبار اسحله و خوابگاه درست کرده اند",
+        "sources": "",
+        "id": "MjpmMjk1OTFlOGEzM2U",
+        "publicId": "MjpmMjk1OTFlOGEzM2U",
+        "sourceId": "f29591e8a33e",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:00:25.977Z",
+        "updatedAt": "2026-04-02T22:00:25.977Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.451272546659624,
+          35.75663596261998
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه امن در گلنبی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1774955038,
+        "description": "خانه امن در گلنبی - حوالی ساعت ۴ روز ۱۱ اسفند",
+        "sources": "",
+        "id": "Mjo3ODBjNmFiNWZjMWU",
+        "publicId": "Mjo3ODBjNmFiNWZjMWU",
+        "sourceId": "780c6ab5fc1e",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:08:15.670Z",
+        "updatedAt": "2026-04-02T22:08:15.670Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.75346822809806,
+          31.312421357925857
+        ]
+      },
+      "properties": {
+        "city": "اهواز",
+        "date": 1775076959,
+        "name:fa": "خانه امن سپاه",
+        "sources": "",
+        "province": "استان خوزستان",
+        "description": "خانه امن سپاه احتمالا محل برگزاری جلسه است. یک دوربین با پایه ۲ متری دارد و سقف پوشیده است. خانه بچه خواهر رئیس امور مالیاتی خوزستان است و ملک دیگرش در مسجد سلیمان هدف قرار گرفت.",
+        "id": "Mjo3NmYzODM1YTlhZGY",
+        "publicId": "Mjo3NmYzODM1YTlhZGY",
+        "sourceId": "76f3835a9adf",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T22:18:52.183Z",
+        "updatedAt": "2026-04-08T19:39:30.371Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92867,
       "geometry": {
         "type": "Point",
@@ -10173,6 +10757,36 @@
         "expirationDate": null,
         "createdAt": "2026-04-04T03:09:20.373Z",
         "updatedAt": "2026-04-08T19:39:30.375Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.06504532535459,
+          36.56354303416805
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سایبری شهرستان ساری",
+        "city": "ساری",
+        "province": "استان مازندران",
+        "date": 1775602731,
+        "description": "پایگاه سایبری شهرستان ساری",
+        "sources": "",
+        "id": "MjowMjEyNjViNzM4MDY",
+        "publicId": "MjowMjEyNjViNzM4MDY",
+        "sourceId": "021265b73806",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-09T17:47:01.788Z",
+        "updatedAt": "2026-04-09T17:47:01.788Z"
       }
     },
     {
@@ -10642,10 +11256,39 @@
         "createdAt": "2026-06-05T15:09:24.774Z",
         "updatedAt": "2026-06-05T15:09:24.774Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.71399162337184,
+          35.202042434463166
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "اداره اطلاعات کبودرآهنگ",
+        "description": "",
+        "date": "",
+        "city": "کبودرآهنگ",
+        "province": "استان همدان",
+        "id": "Mjo4NTYyYzgyNGRjOTg",
+        "publicId": "Mjo4NTYyYzgyNGRjOTg",
+        "sourceId": "8562c824dc98",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-09T11:03:43.715Z",
+        "updatedAt": "2026-06-09T11:03:43.715Z"
+      }
     }
   ],
   "metadata": {
-    "total": 300,
+    "total": 322,
     "layerId": 2,
     "clustered": false,
     "simplified": false
