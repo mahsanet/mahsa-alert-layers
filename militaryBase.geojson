@@ -41848,6 +41848,36 @@
     },
     {
       "type": "Feature",
+      "id": 91503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.67062909579903,
+          32.64517593385028
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه سید الشهدا",
+        "unofficial_name:fa": "",
+        "description": "سپاه سید الشهدا",
+        "date": 1772668196,
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "id": "MTE6YTBjMDRmNjQwMWZm",
+        "publicId": "MTE6YTBjMDRmNjQwMWZm",
+        "sourceId": "a0c04f6401ff",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-04T23:49:56.962Z",
+        "updatedAt": "2026-06-11T03:06:54.662Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92220,
       "geometry": {
         "type": "Point",
@@ -42181,7 +42211,7 @@
     }
   ],
   "metadata": {
-    "total": 372,
+    "total": 373,
     "layerId": 11,
     "clustered": false,
     "simplified": false

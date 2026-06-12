@@ -60756,35 +60756,6 @@
     },
     {
       "type": "Feature",
-      "id": 91503,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.67062909579903,
-          32.64517593385028
-        ]
-      },
-      "properties": {
-        "name:fa": "سپاه سید الشهدا",
-        "description": "سپاه سید الشهدا",
-        "date": 1772668196,
-        "city": "اصفهان",
-        "province": "استان اصفهان",
-        "id": "MTI6YTBjMDRmNjQwMWZm",
-        "publicId": "MTI6YTBjMDRmNjQwMWZm",
-        "sourceId": "a0c04f6401ff",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-04T23:49:56.962Z",
-        "updatedAt": "2026-03-26T23:40:04.774Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 91504,
       "geometry": {
         "type": "Point",
@@ -61533,35 +61504,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-07T16:22:42.884Z",
         "updatedAt": "2026-03-26T23:40:07.019Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 91530,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.67097665628586,
-          32.64588128505548
-        ]
-      },
-      "properties": {
-        "name:fa": "مرکز سپاه",
-        "description": "اینجا رو زدن، مربوط به سپاه",
-        "date": 1772946880,
-        "city": "اصفهان",
-        "province": "استان اصفهان",
-        "id": "MTI6YmFiMjIxM2E1OTVi",
-        "publicId": "MTI6YmFiMjIxM2E1OTVi",
-        "sourceId": "bab2213a595b",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-08T05:14:40.983Z",
-        "updatedAt": "2026-03-26T23:40:07.079Z"
       }
     },
     {
@@ -67364,7 +67306,7 @@
     }
   ],
   "metadata": {
-    "total": 968,
+    "total": 966,
     "layerId": 12,
     "clustered": false,
     "simplified": false

@@ -36,6 +36,39 @@
     },
     {
       "type": "Feature",
+      "id": 257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6709,
+          32.6454
+        ]
+      },
+      "properties": {
+        "name:fa": "حفاظت اطلاعات سپاه سید الشهدا - اصفهان",
+        "unofficial_name:fa": "",
+        "date": 1772944200,
+        "geolocates": "",
+        "description": "",
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "sources": "https://x.com/zarGEOINT/status/2031009733553926569",
+        "id": "MzI6NzA0NTE",
+        "accurate": "yes",
+        "publicId": "MzI6NzA0NTE",
+        "sourceId": "70451",
+        "layerId": 32,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:42:19.673Z",
+        "updatedAt": "2026-06-11T03:08:54.073Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 82224,
       "geometry": {
         "type": "Point",
@@ -31791,35 +31824,6 @@
     },
     {
       "type": "Feature",
-      "id": 91503,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.67062909579903,
-          32.64517593385028
-        ]
-      },
-      "properties": {
-        "name:fa": "سپاه سید الشهدا",
-        "description": "سپاه سید الشهدا",
-        "date": 1772668196,
-        "city": "اصفهان",
-        "province": "استان اصفهان",
-        "id": "MTI6YTBjMDRmNjQwMWZm",
-        "publicId": "MTI6YTBjMDRmNjQwMWZm",
-        "sourceId": "a0c04f6401ff",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-04T23:49:56.962Z",
-        "updatedAt": "2026-03-26T23:40:04.774Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 91504,
       "geometry": {
         "type": "Point",
@@ -32568,35 +32572,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-07T16:22:42.884Z",
         "updatedAt": "2026-03-26T23:40:07.019Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 91530,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.67097665628586,
-          32.64588128505548
-        ]
-      },
-      "properties": {
-        "name:fa": "مرکز سپاه",
-        "description": "اینجا رو زدن، مربوط به سپاه",
-        "date": 1772946880,
-        "city": "اصفهان",
-        "province": "استان اصفهان",
-        "id": "MTI6YmFiMjIxM2E1OTVi",
-        "publicId": "MTI6YmFiMjIxM2E1OTVi",
-        "sourceId": "bab2213a595b",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-08T05:14:40.983Z",
-        "updatedAt": "2026-03-26T23:40:07.079Z"
       }
     },
     {
@@ -83546,6 +83521,38 @@
         "expirationDate": null,
         "createdAt": "2026-06-09T11:18:16.567Z",
         "updatedAt": "2026-06-09T11:18:16.567Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93413,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.67078945935717,
+          32.64528702583861
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سپاه سیدالشهدا",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "",
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "sources": "",
+        "id": "MzI6NDUwNzI3YjFkNGY2",
+        "publicId": "MzI6NDUwNzI3YjFkNGY2",
+        "sourceId": "450727b1d4f6",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-11T03:13:15.946Z",
+        "updatedAt": "2026-06-11T03:13:15.946Z"
       }
     }
   ],

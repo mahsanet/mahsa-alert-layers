@@ -7427,23 +7427,26 @@
         ]
       },
       "properties": {
-        "id": "MzI6NzA0NTE",
         "name:fa": "حفاظت اطلاعات سپاه سید الشهدا - اصفهان",
-        "date": "1772944200",
-        "status": "active",
-        "accurate": "yes",
-        "sources": "https://x.com/zarGEOINT/status/2031009733553926569",
+        "unofficial_name:fa": "",
+        "date": 1772944200,
+        "geolocates": "",
+        "description": "",
         "city": "اصفهان",
         "province": "استان اصفهان",
+        "sources": "https://x.com/zarGEOINT/status/2031009733553926569",
+        "id": "MzI6NzA0NTE",
+        "accurate": "yes",
         "publicId": "MzI6NzA0NTE",
         "sourceId": "70451",
         "layerId": 32,
         "type": "location",
+        "status": "active",
         "urgency": null,
-        "verificationTag": null,
+        "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-03-11T20:42:19.673Z",
-        "updatedAt": "2026-03-31T03:39:29.926Z"
+        "updatedAt": "2026-06-11T03:08:54.073Z"
       }
     },
     {
@@ -19907,10 +19910,42 @@
         "createdAt": "2026-06-08T15:44:53.051Z",
         "updatedAt": "2026-06-08T15:45:18.343Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93413,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.67078945935717,
+          32.64528702583861
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سپاه سیدالشهدا",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "",
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "sources": "",
+        "id": "MzI6NDUwNzI3YjFkNGY2",
+        "publicId": "MzI6NDUwNzI3YjFkNGY2",
+        "sourceId": "450727b1d4f6",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-11T03:13:15.946Z",
+        "updatedAt": "2026-06-11T03:13:15.946Z"
+      }
     }
   ],
   "metadata": {
-    "total": 640,
+    "total": 641,
     "layerId": 32,
     "clustered": false,
     "simplified": false
