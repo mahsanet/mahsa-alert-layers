@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T02:00:02.872Z",
+  "lastUpdated": "2026-06-18T02:00:02.619Z",
   "layers": {
     "missilePrograms": "d7fc73763a267636394d2da57d6509f7d052ae0b",
     "targets": "9907c6d42fc82d5691b753f018979aa180c13230",
@@ -21,7 +21,7 @@
     "areowayBase": "48f14bd68de0ae7a58b9a52d8724cbf99fd3578d",
     "basijBase": "9b344346b1f848f12fd167741adba43e0969581f",
     "culturePoint": "6bdc38f5829fc9d4263ef45a43c4e97ecdbb32ac",
-    "marakezGhazayi": "9fbae67f3c8a3f0ce7b1d531852ef7cb6a27f8e5",
+    "marakezGhazayi": "dace9ea9c440b11d0b0efc6ef3bfb37c88ae2381",
     "unknownBase": "9448bcfaf331f53ea6bac6f67814ecb4772a254e",
     "hospital": "1f2d1fc21c2c3cb9c4b6819fae06a67f1f0b25fe",
     "citizenReport": "4d1e88db4f270cc540b34504a60eaddb84a55384",
@@ -29,7 +29,7 @@
     "medicalClinic": "b032d54ed06ac04f5bfc3301e04c7802a0063f71",
     "marakezEntezami": "4ce16c56775e7f180edd4844cd7ff00d39bd4510",
     "healthCenter": "326d9406f495fa029556b91109accfc7028dc05d",
-    "zirsakht": "57acceab67afb413168ee0f007a5e34af4a06067",
+    "zirsakht": "da0e62a5ef6f7d2893ab7c774136d5252cdba3c5",
     "clinic": "79a5691f31fa52de7c4738b727afb9f96a13ce7d",
     "amakenMazhabiPoint": "bd66df5eda838ffa627665c8eb3a5be942702ca5",
     "chatroom": "bc5bfe6bd89a09aa47ee8057806c13ff93bcb4b7",
