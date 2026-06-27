@@ -11285,10 +11285,39 @@
         "createdAt": "2026-06-09T11:03:43.715Z",
         "updatedAt": "2026-06-09T11:03:43.715Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.66537629812956,
+          32.003393901107245
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "مرکز اطلاعات اردل",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MjpmZGYzMzYxOGNiYjk",
+        "publicId": "MjpmZGYzMzYxOGNiYjk",
+        "sourceId": "fdf33618cbb9",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:32:25.664Z",
+        "updatedAt": "2026-06-26T18:32:25.664Z"
+      }
     }
   ],
   "metadata": {
-    "total": 322,
+    "total": 323,
     "layerId": 2,
     "clustered": false,
     "simplified": false

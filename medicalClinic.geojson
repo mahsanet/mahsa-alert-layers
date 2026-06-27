@@ -25478,31 +25478,6 @@
     },
     {
       "type": "Feature",
-      "id": 77043,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.5096945,
-          35.7078846
-        ]
-      },
-      "properties": {
-        "name:fa": "دکتر فریده افتخارزاده(کلینیک شفا)",
-        "id": "MjY6MTAyMA",
-        "publicId": "MjY6MTAyMA",
-        "sourceId": "1020",
-        "layerId": 26,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:59:17.095Z",
-        "updatedAt": "2026-03-11T20:59:17.095Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 77044,
       "geometry": {
         "type": "Point",
@@ -137178,7 +137153,7 @@
     }
   ],
   "metadata": {
-    "total": 5487,
+    "total": 5486,
     "layerId": 26,
     "clustered": false,
     "simplified": false

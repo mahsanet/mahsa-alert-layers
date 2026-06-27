@@ -157547,10 +157547,39 @@
         "createdAt": "2026-06-09T11:18:16.567Z",
         "updatedAt": "2026-06-09T11:18:16.567Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52193692326546,
+          36.342029131666735
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "Mzo3YzVjNmNmOGVjOWU",
+        "publicId": "Mzo3YzVjNmNmOGVjOWU",
+        "sourceId": "7c5c6cf8ec9e",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:30:17.985Z",
+        "updatedAt": "2026-06-26T18:30:17.985Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6026,
+    "total": 6027,
     "layerId": 3,
     "clustered": false,
     "simplified": false

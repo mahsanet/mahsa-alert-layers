@@ -83554,10 +83554,367 @@
         "createdAt": "2026-06-11T03:13:15.946Z",
         "updatedAt": "2026-06-11T03:13:15.946Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3472099006176,
+          37.46329912258311
+        ]
+      },
+      "properties": {
+        "name:fa": "منطقه خطرناک",
+        "city": "بجنورد",
+        "province": "استان خراسان شمالی",
+        "date": "",
+        "description": "در اینجا دقیقا کنار سالن ورزشی پایگاه سپاه است که ما خبر نداشتیم از این منطقه دور بشید در جنگ خطرناک",
+        "sources": "",
+        "id": "MzY6OWFiNjk2YzQ5ZWYw",
+        "publicId": "MzY6OWFiNjk2YzQ5ZWYw",
+        "sourceId": "9ab696c49ef0",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:22:48.147Z",
+        "updatedAt": "2026-06-26T18:22:48.147Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93415,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.34883065894246,
+          33.504806455758086
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "city": "خرم آباد",
+        "province": "استان لرستان",
+        "date": "",
+        "description": "محل جدید سپاه ناحیه حضرت ابوالفضل خرم آباد و ماشین های زرهی با دوشکا و سلاح های سنگین و نیروهای سرکوبگر و گردان سرکوب امام علی",
+        "sources": "",
+        "id": "MzY6YzBjNDExMDZiMjkw",
+        "publicId": "MzY6YzBjNDExMDZiMjkw",
+        "sourceId": "c0c41106b290",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:25:32.299Z",
+        "updatedAt": "2026-06-26T18:25:32.299Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93416,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.33643075823784,
+          38.077026098730585
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد باب الحواج",
+        "description": "",
+        "date": "",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "NDpjMGI1OTIyYjY3YTY",
+        "publicId": "NDpjMGI1OTIyYjY3YTY",
+        "sourceId": "c0b5922b67a6",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:26:30.527Z",
+        "updatedAt": "2026-06-26T18:26:30.527Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.34528875350952,
+          38.07497828796008
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد شهید شمعچیان",
+        "description": "",
+        "date": "",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "NDpmZDAxMzY1NDI1MDM",
+        "publicId": "NDpmZDAxMzY1NDI1MDM",
+        "sourceId": "fd0136542503",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:26:57.198Z",
+        "updatedAt": "2026-06-26T18:26:57.198Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52008284628391,
+          36.33101465016654
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6MTIyNTFkY2ZhN2Yz",
+        "publicId": "MjA6MTIyNTFkY2ZhN2Yz",
+        "sourceId": "12251dcfa7f3",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:29:12.169Z",
+        "updatedAt": "2026-06-26T18:29:12.169Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93419,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52156342566013,
+          36.335921691143554
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": "",
+        "description": "این میدان محل تجمع نیروهای حکومت‌ هست. جمع میشن، شعار میدن، پرچم تکون میدن، سخنرانی می‌کنن و همچنین یکی دوبار هم از اعضای حزب‌الله اینجا به عربی سخنرانی می‌کرد.",
+        "sources": "",
+        "id": "MzY6MGYwMTJjMTc2ZjE4",
+        "publicId": "MzY6MGYwMTJjMTc2ZjE4",
+        "sourceId": "0f012c176f18",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:29:44.135Z",
+        "updatedAt": "2026-06-26T18:29:44.135Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52193692326546,
+          36.342029131666735
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "Mzo3YzVjNmNmOGVjOWU",
+        "publicId": "Mzo3YzVjNmNmOGVjOWU",
+        "sourceId": "7c5c6cf8ec9e",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:30:17.985Z",
+        "updatedAt": "2026-06-26T18:30:17.985Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.110333532094955,
+          36.57514497887209
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان ساری",
+        "province": "استان مازندران",
+        "date": "",
+        "description": "ایست بازرسی",
+        "sources": "",
+        "id": "MzY6MjE1MzUxNmNkOTE5",
+        "publicId": "MzY6MjE1MzUxNmNkOTE5",
+        "sourceId": "2153516cd919",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:31:02.736Z",
+        "updatedAt": "2026-06-26T18:31:02.736Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.66537629812956,
+          32.003393901107245
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "مرکز اطلاعات اردل",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MjpmZGYzMzYxOGNiYjk",
+        "publicId": "MjpmZGYzMzYxOGNiYjk",
+        "sourceId": "fdf33618cbb9",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:32:25.664Z",
+        "updatedAt": "2026-06-26T18:32:25.664Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6608410179615,
+          32.00510264691873
+        ]
+      },
+      "properties": {
+        "name:fa": " فرماندهی سپاه شهرستان اردل",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTE6ZmExNjAwNjRjNTQy",
+        "publicId": "MTE6ZmExNjAwNjRjNTQy",
+        "sourceId": "fa160064c542",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:32:55.788Z",
+        "updatedAt": "2026-06-26T18:32:55.788Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93424,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.67354278638959,
+          31.99540089789339
+        ]
+      },
+      "properties": {
+        "name:fa": "سازمان تبلیغات اسلامی",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTc6NjMzMjI2YmE3NGE0",
+        "publicId": "MTc6NjMzMjI2YmE3NGE0",
+        "sourceId": "633226ba74a4",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:33:38.785Z",
+        "updatedAt": "2026-06-26T18:33:38.785Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93425,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.51266098022461,
+          35.737047052278186
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمعات حکومتی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MzY6MjViYmQzODg0MDk3",
+        "publicId": "MzY6MjViYmQzODg0MDk3",
+        "sourceId": "25bbd3884097",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:34:55.890Z",
+        "updatedAt": "2026-06-26T18:34:55.890Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2834,
+    "total": 2846,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

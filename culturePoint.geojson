@@ -77363,10 +77363,39 @@
         "createdAt": "2026-06-05T14:56:57.598Z",
         "updatedAt": "2026-06-05T14:56:57.598Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93424,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.67354278638959,
+          31.99540089789339
+        ]
+      },
+      "properties": {
+        "name:fa": "سازمان تبلیغات اسلامی",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTc6NjMzMjI2YmE3NGE0",
+        "publicId": "MTc6NjMzMjI2YmE3NGE0",
+        "sourceId": "633226ba74a4",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:33:38.785Z",
+        "updatedAt": "2026-06-26T18:33:38.785Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2326,
+    "total": 2327,
     "layerId": 17,
     "clustered": false,
     "simplified": false

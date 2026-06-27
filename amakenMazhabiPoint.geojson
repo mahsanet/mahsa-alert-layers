@@ -145164,10 +145164,68 @@
         "createdAt": "2026-06-07T10:36:26.553Z",
         "updatedAt": "2026-06-07T10:36:26.553Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93416,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.33643075823784,
+          38.077026098730585
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد باب الحواج",
+        "description": "",
+        "date": "",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "NDpjMGI1OTIyYjY3YTY",
+        "publicId": "NDpjMGI1OTIyYjY3YTY",
+        "sourceId": "c0b5922b67a6",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:26:30.527Z",
+        "updatedAt": "2026-06-26T18:26:30.527Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.34528875350952,
+          38.07497828796008
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد شهید شمعچیان",
+        "description": "",
+        "date": "",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "NDpmZDAxMzY1NDI1MDM",
+        "publicId": "NDpmZDAxMzY1NDI1MDM",
+        "sourceId": "fd0136542503",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:26:57.198Z",
+        "updatedAt": "2026-06-26T18:26:57.198Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5573,
+    "total": 5575,
     "layerId": 4,
     "clustered": false,
     "simplified": false

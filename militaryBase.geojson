@@ -42208,10 +42208,41 @@
         "createdAt": "2026-04-06T11:58:31.903Z",
         "updatedAt": "2026-04-06T11:58:31.903Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6608410179615,
+          32.00510264691873
+        ]
+      },
+      "properties": {
+        "name:fa": " فرماندهی سپاه شهرستان اردل",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTE6ZmExNjAwNjRjNTQy",
+        "publicId": "MTE6ZmExNjAwNjRjNTQy",
+        "sourceId": "fa160064c542",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:32:55.788Z",
+        "updatedAt": "2026-06-26T18:32:55.788Z"
+      }
     }
   ],
   "metadata": {
-    "total": 373,
+    "total": 374,
     "layerId": 11,
     "clustered": false,
     "simplified": false

@@ -499019,10 +499019,41 @@
         "createdAt": "2026-06-05T18:33:52.532Z",
         "updatedAt": "2026-06-05T18:33:52.532Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52008284628391,
+          36.33101465016654
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6MTIyNTFkY2ZhN2Yz",
+        "publicId": "MjA6MTIyNTFkY2ZhN2Yz",
+        "sourceId": "12251dcfa7f3",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-06-26T18:29:12.169Z",
+        "updatedAt": "2026-06-26T18:29:12.169Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18467,
+    "total": 18468,
     "layerId": 20,
     "clustered": false,
     "simplified": false
