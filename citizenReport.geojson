@@ -8558,36 +8558,6 @@
     },
     {
       "type": "Feature",
-      "id": 90604,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.25730689238901,
-          35.73179236607666
-        ]
-      },
-      "properties": {
-        "city": "تهران",
-        "name:fa": "سکوی پرتاب پهباد",
-        "operator": "",
-        "province": "استان تهران",
-        "description": "منطقه نظامی ، شامل لانچر پهباد ، رادار پرتابل و سکوی پرتاب تسلیحات ، به شدت محافظت شده و حضور دائمی گشت ثارالله",
-        "unofficial_name:fa": "برنامه نظامی",
-        "id": "NzpkMDJlZTNkMTYyNDc",
-        "publicId": "NzpkMDJlZTNkMTYyNDc",
-        "sourceId": "d02ee3d16247",
-        "layerId": 7,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-19T07:22:25.198Z",
-        "updatedAt": "2026-04-08T19:39:30.326Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 90605,
       "geometry": {
         "type": "Point",
@@ -83914,7 +83884,7 @@
     }
   ],
   "metadata": {
-    "total": 2846,
+    "total": 2845,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
