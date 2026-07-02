@@ -77392,10 +77392,68 @@
         "createdAt": "2026-06-26T18:33:38.785Z",
         "updatedAt": "2026-06-26T18:33:38.785Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.79891673102975,
+          31.40603070019668
+        ]
+      },
+      "properties": {
+        "name:fa": " دفتر امام جمعه شهرستان شیبان",
+        "description": "",
+        "date": "",
+        "city": "شیبان",
+        "province": "استان خوزستان",
+        "id": "MTc6MjQ2YTdmMzdhZjc4",
+        "publicId": "MTc6MjQ2YTdmMzdhZjc4",
+        "sourceId": "246a7f37af78",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-01T17:12:24.528Z",
+        "updatedAt": "2026-07-01T17:12:24.528Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8018411770463,
+          31.405924679035877
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری شیبان",
+        "description": "",
+        "date": "",
+        "city": "شهرستان باوی",
+        "province": "استان خوزستان",
+        "id": "MTc6YmNjNDkwNjFhMzNm",
+        "publicId": "MTc6YmNjNDkwNjFhMzNm",
+        "sourceId": "bcc49061a33f",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-01T17:12:44.321Z",
+        "updatedAt": "2026-07-01T17:12:44.321Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2327,
+    "total": 2329,
     "layerId": 17,
     "clustered": false,
     "simplified": false

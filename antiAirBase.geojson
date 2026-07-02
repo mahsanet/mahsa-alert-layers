@@ -6347,10 +6347,40 @@
         "createdAt": "2026-06-05T14:54:18.535Z",
         "updatedAt": "2026-06-05T14:54:18.535Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93436,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.392436660826206,
+          35.682832437489594
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "ODoyMWNhNTA0NTQ1NmU",
+        "publicId": "ODoyMWNhNTA0NTQ1NmU",
+        "sourceId": "21ca5045456e",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-01T23:35:51.067Z",
+        "updatedAt": "2026-07-01T23:35:51.067Z"
+      }
     }
   ],
   "metadata": {
-    "total": 95,
+    "total": 96,
     "layerId": 8,
     "clustered": false,
     "simplified": false

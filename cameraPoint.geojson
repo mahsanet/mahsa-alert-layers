@@ -499050,10 +499050,41 @@
         "createdAt": "2026-06-26T18:29:12.169Z",
         "updatedAt": "2026-06-26T18:29:12.169Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.85179138183594,
+          36.468232891309086
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MjA6OTFjOTM0NTZlNTMx",
+        "publicId": "MjA6OTFjOTM0NTZlNTMx",
+        "sourceId": "91c93456e531",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-01T17:17:11.391Z",
+        "updatedAt": "2026-07-01T17:17:11.391Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18468,
+    "total": 18469,
     "layerId": 20,
     "clustered": false,
     "simplified": false

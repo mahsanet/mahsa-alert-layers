@@ -86153,31 +86153,6 @@
     },
     {
       "type": "Feature",
-      "id": 79471,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.5681801,
-          30.7990548
-        ]
-      },
-      "properties": {
-        "name:fa": "کلینیک تخصصی امام سجاد",
-        "id": "MjY6MzQ0OA",
-        "publicId": "MjY6MzQ0OA",
-        "sourceId": "3448",
-        "layerId": 26,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:59:18.106Z",
-        "updatedAt": "2026-03-11T20:59:18.106Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 79472,
       "geometry": {
         "type": "Point",
@@ -137153,7 +137128,7 @@
     }
   ],
   "metadata": {
-    "total": 5486,
+    "total": 5485,
     "layerId": 26,
     "clustered": false,
     "simplified": false

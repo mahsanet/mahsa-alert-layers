@@ -8479,14 +8479,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          48.79278,
-          31.3995054
+          48.79324293492789,
+          31.399830968286864
         ]
       },
       "properties": {
         "id": "MzoyNDIz",
         "name:fa": "پاسگاه شیبان",
         "osm_id": "n9592485976",
+        "city": "شیبان",
+        "province": "استان خوزستان",
         "publicId": "MzoyNDIz",
         "sourceId": "2423",
         "layerId": 3,
@@ -8496,7 +8498,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:05.728Z",
-        "updatedAt": "2026-03-13T04:41:05.728Z"
+        "updatedAt": "2026-07-01T17:10:32.201Z"
       }
     },
     {

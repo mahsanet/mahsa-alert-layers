@@ -145222,10 +145222,97 @@
         "createdAt": "2026-06-26T18:26:57.198Z",
         "updatedAt": "2026-06-26T18:26:57.198Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.779732063412666,
+          31.392119157160508
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "شهرستان باوی",
+        "province": "استان خوزستان",
+        "id": "NDowYWIzOWQ1YjVkNzM",
+        "publicId": "NDowYWIzOWQ1YjVkNzM",
+        "sourceId": "0ab39d5b5d73",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-01T17:09:27.846Z",
+        "updatedAt": "2026-07-01T17:09:27.846Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44434264776484,
+          35.79695457210421
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "تجریش",
+        "province": "استان تهران",
+        "id": "NDo2NjNmMmI5NGZiMmY",
+        "publicId": "NDo2NjNmMmI5NGZiMmY",
+        "sourceId": "663f2b94fb2f",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-01T17:19:14.697Z",
+        "updatedAt": "2026-07-01T17:19:18.668Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93434,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.91211471706629,
+          35.84103066726041
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امیرالمومنین",
+        "description": "",
+        "date": "",
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "NDo3MjhjYWNiODg2ZDk",
+        "publicId": "NDo3MjhjYWNiODg2ZDk",
+        "sourceId": "728cacb886d9",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-01T17:23:46.575Z",
+        "updatedAt": "2026-07-01T17:23:46.575Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5575,
+    "total": 5578,
     "layerId": 4,
     "clustered": false,
     "simplified": false
