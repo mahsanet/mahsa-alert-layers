@@ -72052,36 +72052,6 @@
     },
     {
       "type": "Feature",
-      "id": 93005,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.07776094670692,
-          27.839022775550703
-        ]
-      },
-      "properties": {
-        "name:fa": "ایست بازرسی کنگان",
-        "city": "شهرستان کنگان",
-        "province": "استان بوشهر",
-        "date": 1775749628,
-        "description": "ایست بازرسی ورودی شهر کنگان از سمت اتوبان و محل استراحت هم این طرف سمت خروجی داخل واحد تجاری",
-        "sources": "",
-        "id": "MzY6MGRmMDBkNGU5ZDAw",
-        "publicId": "MzY6MGRmMDBkNGU5ZDAw",
-        "sourceId": "0df00d4e9d00",
-        "layerId": 36,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-04-09T18:27:30.971Z",
-        "updatedAt": "2026-04-09T18:27:30.971Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93006,
       "geometry": {
         "type": "Point",
@@ -84210,7 +84180,7 @@
     }
   ],
   "metadata": {
-    "total": 2856,
+    "total": 2855,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
