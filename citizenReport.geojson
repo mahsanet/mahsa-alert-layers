@@ -54906,35 +54906,6 @@
     },
     {
       "type": "Feature",
-      "id": 92336,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.88542596275117,
-          26.55792626498498
-        ]
-      },
-      "properties": {
-        "city": "بندرلنگه",
-        "date": 1772148000,
-        "name:fa": "زندان",
-        "province": "استان هرمزگان",
-        "description": "زندان بندرلنگه",
-        "id": "NTpkZTdmNGEyYzgzYjU",
-        "publicId": "NTpkZTdmNGEyYzgzYjU",
-        "sourceId": "de7f4a2c83b5",
-        "layerId": 5,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-02-26T23:20:00.000Z",
-        "updatedAt": "2026-04-08T20:49:25.461Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92337,
       "geometry": {
         "type": "Point",
@@ -84177,10 +84148,249 @@
         "createdAt": "2026-07-01T23:35:51.067Z",
         "updatedAt": "2026-07-01T23:35:51.067Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93437,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.76316186785698,
+          35.72809812809216
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروی بسیج و سپاه",
+        "city": "پردیس",
+        "province": "استان تهران",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MzY6MGZlMjFiYzg4ZTQ2",
+        "publicId": "MzY6MGZlMjFiYzg4ZTQ2",
+        "sourceId": "0fe21bc88e46",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T13:18:46.926Z",
+        "updatedAt": "2026-07-08T13:18:46.926Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93438,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.074645686894655,
+          35.49350660978544
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "رباط کریم",
+        "province": "استان تهران",
+        "id": "MTpkNGNjNjg0NjU4NmQ",
+        "publicId": "MTpkNGNjNjg0NjU4NmQ",
+        "sourceId": "d4cc6846586d",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T13:19:48.355Z",
+        "updatedAt": "2026-07-08T13:19:48.355Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.66340185701847,
+          32.00498437202829
+        ]
+      },
+      "properties": {
+        "name:fa": "اورژانس اردل",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MzA6NWU3Y2YzMDQwMDFk",
+        "publicId": "MzA6NWU3Y2YzMDQwMDFk",
+        "sourceId": "5e7cf304001d",
+        "layerId": 30,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T13:26:52.920Z",
+        "updatedAt": "2026-07-08T13:26:52.920Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.67211031913757,
+          31.99516048426834
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان امام رضا اردل",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MjU6MDZjOTYwZWY4MDhh",
+        "publicId": "MjU6MDZjOTYwZWY4MDhh",
+        "sourceId": "06c960ef808a",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T13:27:30.324Z",
+        "updatedAt": "2026-07-08T13:27:30.324Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93441,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.67272689193487,
+          31.99586651089824
+        ]
+      },
+      "properties": {
+        "name:fa": "حلال اهمر اردل",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "Mjg6M2Q2MDc2Y2FjZjM1",
+        "publicId": "Mjg6M2Q2MDc2Y2FjZjM1",
+        "sourceId": "3d6076cacf35",
+        "layerId": 28,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T13:27:41.362Z",
+        "updatedAt": "2026-07-08T13:27:41.362Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93442,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.661942064762115,
+          31.99613208696715
+        ]
+      },
+      "properties": {
+        "name:fa": "مقاومت بسیج اردل",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTo0ZjUwNzQ2NzcwMjY",
+        "publicId": "MTo0ZjUwNzQ2NzcwMjY",
+        "sourceId": "4f5074677026",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T13:28:12.329Z",
+        "updatedAt": "2026-07-08T13:28:12.329Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93443,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.99045366048813,
+          35.46758640369211
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی سپاه",
+        "city": "شهرستان رباط کریم",
+        "province": "استان تهران",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MzY6NTJmOWVmOGVkODQ5",
+        "publicId": "MzY6NTJmOWVmOGVkODQ5",
+        "sourceId": "52f9ef8ed849",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T13:29:44.081Z",
+        "updatedAt": "2026-07-08T13:29:44.081Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93444,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.62452670292592,
+          25.3156163054377
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "برج مراقبت دریایی",
+        "unofficial_name:fa": "",
+        "date": 1783539000,
+        "geolocates": "",
+        "description": "برج مراقبت دریایی چابهار",
+        "city": "چابهار",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://x.com/zarGEOINT/status/2074964708445085859?s=20",
+        "id": "MzI6YzM5ZWM2NjVkNGYx",
+        "publicId": "MzI6YzM5ZWM2NjVkNGYx",
+        "sourceId": "c39ec665d4f1",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T21:32:24.273Z",
+        "updatedAt": "2026-07-08T21:32:24.273Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2855,
+    "total": 2862,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

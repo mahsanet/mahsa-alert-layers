@@ -9640,35 +9640,6 @@
     },
     {
       "type": "Feature",
-      "id": 92336,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.88542596275117,
-          26.55792626498498
-        ]
-      },
-      "properties": {
-        "city": "بندرلنگه",
-        "date": 1772148000,
-        "name:fa": "زندان",
-        "province": "استان هرمزگان",
-        "description": "زندان بندرلنگه",
-        "id": "NTpkZTdmNGEyYzgzYjU",
-        "publicId": "NTpkZTdmNGEyYzgzYjU",
-        "sourceId": "de7f4a2c83b5",
-        "layerId": 5,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-02-26T23:20:00.000Z",
-        "updatedAt": "2026-04-08T20:49:25.461Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93172,
       "geometry": {
         "type": "Point",
@@ -9756,7 +9727,7 @@
     }
   ],
   "metadata": {
-    "total": 182,
+    "total": 181,
     "layerId": 5,
     "clustered": false,
     "simplified": false

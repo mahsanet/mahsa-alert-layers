@@ -29119,31 +29119,6 @@
     },
     {
       "type": "Feature",
-      "id": 2638,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9090711,
-          35.7497079
-        ]
-      },
-      "properties": {
-        "id": "MTc6MTA3Mjc",
-        "name:fa": "حوزه علمیه معصومیه",
-        "publicId": "MTc6MTA3Mjc",
-        "sourceId": "10727",
-        "layerId": 17,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:43.358Z",
-        "updatedAt": "2026-03-11T20:52:43.358Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2639,
       "geometry": {
         "type": "Point",
@@ -77453,7 +77428,7 @@
     }
   ],
   "metadata": {
-    "total": 2329,
+    "total": 2328,
     "layerId": 17,
     "clustered": false,
     "simplified": false

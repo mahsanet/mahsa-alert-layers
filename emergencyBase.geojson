@@ -45575,10 +45575,39 @@
         "createdAt": "2026-03-12T19:39:03.149Z",
         "updatedAt": "2026-03-12T19:39:03.149Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.66340185701847,
+          32.00498437202829
+        ]
+      },
+      "properties": {
+        "name:fa": "اورژانس اردل",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MzA6NWU3Y2YzMDQwMDFk",
+        "publicId": "MzA6NWU3Y2YzMDQwMDFk",
+        "sourceId": "5e7cf304001d",
+        "layerId": 30,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T13:26:52.920Z",
+        "updatedAt": "2026-07-08T13:26:52.920Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1823,
+    "total": 1824,
     "layerId": 30,
     "clustered": false,
     "simplified": false

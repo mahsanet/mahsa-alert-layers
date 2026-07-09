@@ -19942,10 +19942,42 @@
         "createdAt": "2026-06-11T03:13:15.946Z",
         "updatedAt": "2026-06-11T03:13:15.946Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93444,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.62452670292592,
+          25.3156163054377
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "برج مراقبت دریایی",
+        "unofficial_name:fa": "",
+        "date": 1783539000,
+        "geolocates": "",
+        "description": "برج مراقبت دریایی چابهار",
+        "city": "چابهار",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://x.com/zarGEOINT/status/2074964708445085859?s=20",
+        "id": "MzI6YzM5ZWM2NjVkNGYx",
+        "publicId": "MzI6YzM5ZWM2NjVkNGYx",
+        "sourceId": "c39ec665d4f1",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T21:32:24.273Z",
+        "updatedAt": "2026-07-08T21:32:24.273Z"
+      }
     }
   ],
   "metadata": {
-    "total": 641,
+    "total": 642,
     "layerId": 32,
     "clustered": false,
     "simplified": false

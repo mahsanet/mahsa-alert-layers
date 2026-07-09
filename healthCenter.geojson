@@ -61678,31 +61678,6 @@
     },
     {
       "type": "Feature",
-      "id": 54827,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.6619689,
-          31.9943043
-        ]
-      },
-      "properties": {
-        "name:fa": "خانه بهداشت و سلامت",
-        "id": "MzE6MjQ2OA",
-        "publicId": "MzE6MjQ2OA",
-        "sourceId": "2468",
-        "layerId": 31,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:13.170Z",
-        "updatedAt": "2026-03-11T20:58:13.170Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 54828,
       "geometry": {
         "type": "Point",
@@ -79066,31 +79041,6 @@
         "id": "MzE6MzE2Mw",
         "publicId": "MzE6MzE2Mw",
         "sourceId": "3163",
-        "layerId": 31,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:13.466Z",
-        "updatedAt": "2026-03-11T20:58:13.466Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 55523,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.6645197,
-          32.0074687
-        ]
-      },
-      "properties": {
-        "name:fa": "شبکه بهداشت شهرستان اردل",
-        "id": "MzE6MzE2NA",
-        "publicId": "MzE6MzE2NA",
-        "sourceId": "3164",
         "layerId": 31,
         "type": "location",
         "status": "active",
@@ -171636,7 +171586,7 @@
     }
   ],
   "metadata": {
-    "total": 6865,
+    "total": 6863,
     "layerId": 31,
     "clustered": false,
     "simplified": false

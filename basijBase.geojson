@@ -60867,10 +60867,70 @@
         "createdAt": "2026-07-01T17:23:54.586Z",
         "updatedAt": "2026-07-01T17:23:54.586Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93438,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.074645686894655,
+          35.49350660978544
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "رباط کریم",
+        "province": "استان تهران",
+        "id": "MTpkNGNjNjg0NjU4NmQ",
+        "publicId": "MTpkNGNjNjg0NjU4NmQ",
+        "sourceId": "d4cc6846586d",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T13:19:48.355Z",
+        "updatedAt": "2026-07-08T13:19:48.355Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93442,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.661942064762115,
+          31.99613208696715
+        ]
+      },
+      "properties": {
+        "name:fa": "مقاومت بسیج اردل",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTo0ZjUwNzQ2NzcwMjY",
+        "publicId": "MTo0ZjUwNzQ2NzcwMjY",
+        "sourceId": "4f5074677026",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T13:28:12.329Z",
+        "updatedAt": "2026-07-08T13:28:12.329Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2141,
+    "total": 2143,
     "layerId": 1,
     "clustered": false,
     "simplified": false

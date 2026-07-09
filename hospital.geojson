@@ -12428,31 +12428,6 @@
     },
     {
       "type": "Feature",
-      "id": 43946,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.6721492,
-          31.9976641
-        ]
-      },
-      "properties": {
-        "id": "MjU6Mjg5OTQ",
-        "name:fa": "بیمارستان امام رضا",
-        "publicId": "MjU6Mjg5OTQ",
-        "sourceId": "28994",
-        "layerId": 25,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:57:46.672Z",
-        "updatedAt": "2026-03-11T20:57:46.672Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 43947,
       "geometry": {
         "type": "Point",
@@ -88393,6 +88368,35 @@
         "expirationDate": null,
         "createdAt": "2026-03-28T19:07:01.670Z",
         "updatedAt": "2026-04-08T20:49:25.468Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.67211031913757,
+          31.99516048426834
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان امام رضا اردل",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MjU6MDZjOTYwZWY4MDhh",
+        "publicId": "MjU6MDZjOTYwZWY4MDhh",
+        "sourceId": "06c960ef808a",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T13:27:30.324Z",
+        "updatedAt": "2026-07-08T13:27:30.324Z"
       }
     }
   ],

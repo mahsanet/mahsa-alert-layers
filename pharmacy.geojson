@@ -230553,31 +230553,6 @@
     },
     {
       "type": "Feature",
-      "id": 69625,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.6613842,
-          31.9958182
-        ]
-      },
-      "properties": {
-        "name:fa": "داروخانه محمودی لردگان",
-        "id": "Mjc6OTIyNQ",
-        "publicId": "Mjc6OTIyNQ",
-        "sourceId": "9225",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:49.511Z",
-        "updatedAt": "2026-03-11T20:58:49.511Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 69626,
       "geometry": {
         "type": "Point",
@@ -390557,7 +390532,7 @@
     }
   ],
   "metadata": {
-    "total": 15622,
+    "total": 15621,
     "layerId": 27,
     "clustered": false,
     "simplified": false

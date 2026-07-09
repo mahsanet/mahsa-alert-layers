@@ -23429,10 +23429,39 @@
         "createdAt": "2026-04-06T12:07:30.818Z",
         "updatedAt": "2026-04-06T12:07:30.818Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93441,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.67272689193487,
+          31.99586651089824
+        ]
+      },
+      "properties": {
+        "name:fa": "حلال اهمر اردل",
+        "description": "",
+        "date": "",
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "Mjg6M2Q2MDc2Y2FjZjM1",
+        "publicId": "Mjg6M2Q2MDc2Y2FjZjM1",
+        "sourceId": "3d6076cacf35",
+        "layerId": 28,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-08T13:27:41.362Z",
+        "updatedAt": "2026-07-08T13:27:41.362Z"
+      }
     }
   ],
   "metadata": {
-    "total": 937,
+    "total": 938,
     "layerId": 28,
     "clustered": false,
     "simplified": false
