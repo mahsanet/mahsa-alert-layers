@@ -115314,14 +115314,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          48.3724507,
-          34.1900099
+          48.37301239298492,
+          34.19007180020495
         ]
       },
       "properties": {
         "id": "Mzo2NjgwNw",
         "name:fa": "کلانتری ۱۱",
         "osm_id": "w910010056",
+        "city": "نهاوند",
+        "province": "استان همدان",
         "publicId": "Mzo2NjgwNw",
         "sourceId": "66807",
         "layerId": 3,
@@ -115331,7 +115333,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.790Z",
-        "updatedAt": "2026-03-13T04:41:07.790Z"
+        "updatedAt": "2026-07-10T21:35:19.834Z"
       }
     },
     {
@@ -157578,10 +157580,39 @@
         "createdAt": "2026-06-26T18:30:17.985Z",
         "updatedAt": "2026-06-26T18:30:17.985Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70952546969056,
+          37.4301662431556
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 12 میانه",
+        "description": "کلانتری 12 شهرستان میانه",
+        "date": 1783674673,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzoyZWVhNWYyN2VmMzM",
+        "publicId": "MzoyZWVhNWYyN2VmMzM",
+        "sourceId": "2eea5f27ef33",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-10T19:27:03.618Z",
+        "updatedAt": "2026-07-10T19:27:03.618Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6027,
+    "total": 6028,
     "layerId": 3,
     "clustered": false,
     "simplified": false

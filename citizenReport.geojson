@@ -84387,10 +84387,39 @@
         "createdAt": "2026-07-08T21:32:24.273Z",
         "updatedAt": "2026-07-08T21:32:24.273Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70952546969056,
+          37.4301662431556
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 12 میانه",
+        "description": "کلانتری 12 شهرستان میانه",
+        "date": 1783674673,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzoyZWVhNWYyN2VmMzM",
+        "publicId": "MzoyZWVhNWYyN2VmMzM",
+        "sourceId": "2eea5f27ef33",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-10T19:27:03.618Z",
+        "updatedAt": "2026-07-10T19:27:03.618Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2862,
+    "total": 2863,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
