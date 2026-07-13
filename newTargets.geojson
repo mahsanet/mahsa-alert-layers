@@ -19974,10 +19974,106 @@
         "createdAt": "2026-07-08T21:32:24.273Z",
         "updatedAt": "2026-07-08T21:32:24.273Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93446,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.69861731779159,
+          27.292306890078606
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "چندین قایق در بوشهر",
+        "unofficial_name:fa": "",
+        "date": 1783549800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان عسلویه",
+        "province": "استان بوشهر",
+        "sources": "https://x.com/zarGEOINT/status/2075176888205476097?s=20",
+        "id": "MzI6ZWRlMjdiZjkwNWUy",
+        "publicId": "MzI6ZWRlMjdiZjkwNWUy",
+        "sourceId": "ede27bf905e2",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-12T22:38:08.423Z",
+        "updatedAt": "2026-07-12T22:38:08.423Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93447,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.836463177909536,
+          28.94187413192229
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پایگاه بوشهر",
+        "unofficial_name:fa": "",
+        "date": 1783665000,
+        "geolocates": "",
+        "description": "",
+        "city": "بوشهر",
+        "province": "استان بوشهر",
+        "sources": "https://x.com/zarGEOINT/status/2075535886880542983?s=20",
+        "id": "MzI6MTJlYWE3NmYyMWMw",
+        "publicId": "MzI6MTJlYWE3NmYyMWMw",
+        "sourceId": "12eaa76f21c0",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-12T22:39:17.155Z",
+        "updatedAt": "2026-07-12T22:39:17.155Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93448,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.23044390674488,
+          27.154674033575432
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "ساحل سورو بندر عباس",
+        "unofficial_name:fa": "",
+        "date": 1783805400,
+        "geolocates": "",
+        "description": "",
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/zarGEOINT/status/2076427481385517454?s=20",
+        "id": "MzI6Yzg1ZjVmNTRjYjMz",
+        "publicId": "MzI6Yzg1ZjVmNTRjYjMz",
+        "sourceId": "c85f5f54cb33",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-12T22:40:33.830Z",
+        "updatedAt": "2026-07-12T22:40:33.830Z"
+      }
     }
   ],
   "metadata": {
-    "total": 642,
+    "total": 645,
     "layerId": 32,
     "clustered": false,
     "simplified": false
