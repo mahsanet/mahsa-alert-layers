@@ -11314,10 +11314,329 @@
         "createdAt": "2026-06-26T18:32:25.664Z",
         "updatedAt": "2026-06-26T18:32:25.664Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.595155,
+          35.709617
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر اطلاعات",
+        "description": "مقر نظامی اطلاعات",
+        "date": 1784068557,
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "id": "Mjo2YmIxZTk1YjRjYTY",
+        "publicId": "Mjo2YmIxZTk1YjRjYTY",
+        "sourceId": "6bb1e95b4ca6",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.424Z",
+        "updatedAt": "2026-07-15T01:53:42.424Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.05454289675379,
+          37.530636128566755
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه سازمانی اطلاعات",
+        "description": "خانه سازمانی اطلاعات",
+        "date": 1783971324,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "id": "MjoyMDRkNmIwOWYzYzk",
+        "publicId": "MjoyMDRkNmIwOWYzYzk",
+        "sourceId": "204d6b09f3c9",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.269Z",
+        "updatedAt": "2026-07-15T01:53:43.269Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.440693801885516,
+          33.90210714728548
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "محل جدید اداره اطلاعات",
+        "date": 1783943532,
+        "city": "محلات",
+        "province": "استان مرکزی",
+        "id": "Mjo1MDQwNDZkMDdkYzg",
+        "publicId": "Mjo1MDQwNDZkMDdkYzg",
+        "sourceId": "504046d07dc8",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.947Z",
+        "updatedAt": "2026-07-15T01:53:43.947Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.092518,
+          28.858232
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اداره اطلاعات دارای اتاق مخفی",
+        "date": 1783577589,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjpkMDg3Y2VmZjM4YTc",
+        "publicId": "MjpkMDg3Y2VmZjM4YTc",
+        "sourceId": "d087ceff38a7",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.744Z",
+        "updatedAt": "2026-07-15T01:53:47.744Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93599,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.86417069664566,
+          29.484435172141602
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد خبری اطلاعات سپاه",
+        "description": "ستاد خبری بسیج مردمی و عشایر(اطلاعات سپاه)",
+        "date": 1783391963,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MjplYzA2NGNjNmRhODE",
+        "publicId": "MjplYzA2NGNjNmRhODE",
+        "sourceId": "ec064cc6da81",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.742Z",
+        "updatedAt": "2026-07-15T01:53:49.742Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93600,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.866047743478845,
+          29.48471447184329
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد خبری اطلاعات",
+        "description": "ستاد خبری ۱۱۳ وزارت اطلاعات",
+        "date": 1783391879,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "Mjo5NTdkMTY3Y2Y3Zjg",
+        "publicId": "Mjo5NTdkMTY3Y2Y3Zjg",
+        "sourceId": "957d167cf7f8",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.816Z",
+        "updatedAt": "2026-07-15T01:53:49.816Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.35378801257937,
+          29.077166123687363
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان حفاظت اطلاعات",
+        "description": "ساختمان حفاظت اطلاعات",
+        "date": 1783352986,
+        "city": "بم",
+        "province": "استان کرمان",
+        "id": "MjowM2I5MDk1N2IyYmY",
+        "publicId": "MjowM2I5MDk1N2IyYmY",
+        "sourceId": "03b90957b2bf",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.027Z",
+        "updatedAt": "2026-07-15T01:53:50.027Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.326853791393376,
+          33.214810759904054
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "اطلاعات سپاه",
+        "date": 1783347374,
+        "city": "خوانسار",
+        "province": "استان اصفهان",
+        "id": "MjoxOGY4ZmNhMzlhNTA",
+        "publicId": "MjoxOGY4ZmNhMzlhNTA",
+        "sourceId": "18f8fca39a50",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.163Z",
+        "updatedAt": "2026-07-15T01:53:50.163Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.326851273197775,
+          33.21481421092474
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان اطلاعات خوانسار",
+        "description": "ساختمان سازپان اطلاعات خوانسار",
+        "date": 1783254824,
+        "city": "خوانسار",
+        "province": "استان اصفهان",
+        "id": "MjpmMDA2NmQxMGQ2MTI",
+        "publicId": "MjpmMDA2NmQxMGQ2MTI",
+        "sourceId": "f0066d10d612",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.407Z",
+        "updatedAt": "2026-07-15T01:53:50.407Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93615,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.327703,
+          35.700968
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز اطلاعات",
+        "description": "ساختمان کمیته امداد میباشد ولیکن با توجه به حجم سنگین دوربین ها در اطراف بیشتر نشان میدهد ساختمان مربوط به اطلاعات باشد",
+        "date": 1783179722,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MjpkMzk3ZjQxYzg4YTQ",
+        "publicId": "MjpkMzk3ZjQxYzg4YTQ",
+        "sourceId": "d397f41c88a4",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.909Z",
+        "updatedAt": "2026-07-15T01:53:50.909Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.829052015801295,
+          31.51539890952691
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات شهرستان لردگان",
+        "description": "اطلاعات شهرستان لردگان وابسته به وزارت اطلاعات",
+        "date": 1783140682,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MjpkYWNlOWE4NWIyMTQ",
+        "publicId": "MjpkYWNlOWE4NWIyMTQ",
+        "sourceId": "dace9a85b214",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.828Z",
+        "updatedAt": "2026-07-15T01:53:51.828Z"
+      }
     }
   ],
   "metadata": {
-    "total": 323,
+    "total": 334,
     "layerId": 2,
     "clustered": false,
     "simplified": false

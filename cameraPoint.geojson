@@ -499081,10 +499081,358 @@
         "createdAt": "2026-07-01T17:17:11.391Z",
         "updatedAt": "2026-07-01T17:17:11.391Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5865613249874,
+          36.316891922404366
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک صادرات",
+        "description": "دوربین بانک صادرات - بلوار ابوطالب",
+        "date": 1784042537,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6ZDgwMjkyY2E2MzAx",
+        "publicId": "MjA6ZDgwMjkyY2E2MzAx",
+        "sourceId": "d80292ca6301",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.847Z",
+        "updatedAt": "2026-07-15T01:53:42.847Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59034917924265,
+          36.31851510341063
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک ملت",
+        "description": "دوربین بانک ملت - بلوار حرعاملی",
+        "date": 1784042345,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6NTUxNWJmZDhlNzM3",
+        "publicId": "MjA6NTUxNWJmZDhlNzM3",
+        "sourceId": "5515bfd8e737",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.933Z",
+        "updatedAt": "2026-07-15T01:53:42.933Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63877751973365,
+          36.25728507589439
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین درمانگاه ارتش",
+        "description": "دوربین مداربسته درمانگاه ارتش",
+        "date": 1783967772,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6OTIwOWU5M2NkYjJm",
+        "publicId": "MjA6OTIwOWU5M2NkYjJm",
+        "sourceId": "9209e93cdb2f",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.491Z",
+        "updatedAt": "2026-07-15T01:53:43.491Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6560704457346,
+          29.457838461542195
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین اداره اطلاعات",
+        "description": "دوربین نظارتی مرتبط با اداره اطلاعات",
+        "date": 1783845864,
+        "city": "سيرجان",
+        "province": "استان کرمان",
+        "id": "MjA6YjBlMjUxNjYzNWQz",
+        "publicId": "MjA6YjBlMjUxNjYzNWQz",
+        "sourceId": "b0e2516635d3",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.386Z",
+        "updatedAt": "2026-07-15T01:53:44.386Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.371035806776774,
+          34.19497964211952
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل شهری نهاوند",
+        "description": "این مکان دوربین کنترل شهری متصل به اداره اطلاعات شهرستان نهاوند است",
+        "date": 1783598988,
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "id": "MjA6NTFhODA0MmIyNzA1",
+        "publicId": "MjA6NTFhODA0MmIyNzA1",
+        "sourceId": "51a8042b2705",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.163Z",
+        "updatedAt": "2026-07-15T01:53:47.163Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.224984,
+          28.59773
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های امامزاده شهید",
+        "description": "دوربین‌های نظارتی در کل محوطه و راه‌های ورود و خروج جاده‌ای امامزاده شهید که زیر رصد اطلاعات سپاه فراشبند قرار دارند و دسترسی کامل به آنها وجود دارد.",
+        "date": 1783578406,
+        "city": "امامزاده شهید",
+        "province": "استان فارس",
+        "id": "MjA6NWY4MWYwOTRlZGE2",
+        "publicId": "MjA6NWY4MWYwOTRlZGE2",
+        "sourceId": "5f81f094eda6",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.321Z",
+        "updatedAt": "2026-07-15T01:53:47.321Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.091874,
+          28.861206
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین شهری",
+        "description": "دوربین شهری در میدان",
+        "date": 1783577850,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6Y2U0OWZjODYxOGM0",
+        "publicId": "MjA6Y2U0OWZjODYxOGM0",
+        "sourceId": "ce49fc8618c4",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.603Z",
+        "updatedAt": "2026-07-15T01:53:47.603Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.85146908982418,
+          36.46537953070349
+        ]
+      },
+      "properties": {
+        "name:fa": "سه دوربین",
+        "description": "سه تا دوربین کنار هم هست که به هر طرف خیابون ها دید کامل داره",
+        "date": 1783063167,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MjA6ODZjMWNkMzZjMjI2",
+        "publicId": "MjA6ODZjMWNkMzZjMjI2",
+        "sourceId": "86c1cd36c226",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.287Z",
+        "updatedAt": "2026-07-15T01:53:52.287Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.85780820652542,
+          36.46367134310252
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل امنیتی",
+        "description": "دوربین کنترل امنیتی",
+        "date": 1783063062,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MjA6MzUzNzBjODgzMzdh",
+        "publicId": "MjA6MzUzNzBjODgzMzdh",
+        "sourceId": "35370c88337a",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.371Z",
+        "updatedAt": "2026-07-15T01:53:52.371Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.87469682351576,
+          36.47018598280022
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل امنیتی",
+        "description": "دوربین کنترل امنیتی",
+        "date": 1783062994,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MjA6ZjBjMGI1NGM3ODNj",
+        "publicId": "MjA6ZjBjMGI1NGM3ODNj",
+        "sourceId": "f0c0b54c783c",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.443Z",
+        "updatedAt": "2026-07-15T01:53:52.443Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.856419488998995,
+          36.4641981932774
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل امنیتی",
+        "description": "دوربین مخفی کنترل امنیتی (جدیدا وصل شده و بالای چراغ راهنمایی مخفی شده)",
+        "date": 1783062264,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MjA6ZGFlOWQ1ZmVmODdh",
+        "publicId": "MjA6ZGFlOWQ1ZmVmODdh",
+        "sourceId": "dae9d5fef87a",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.586Z",
+        "updatedAt": "2026-07-15T01:53:52.586Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.857857431473775,
+          36.463667370353264
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین کنترل امنیتی",
+        "date": 1783062201,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MjA6NTZkNjlkMDU5NDkz",
+        "publicId": "MjA6NTZkNjlkMDU5NDkz",
+        "sourceId": "56d69d059493",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.661Z",
+        "updatedAt": "2026-07-15T01:53:52.661Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18469,
+    "total": 18481,
     "layerId": 20,
     "clustered": false,
     "simplified": false

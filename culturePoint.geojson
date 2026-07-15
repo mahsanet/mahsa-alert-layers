@@ -77425,10 +77425,213 @@
         "createdAt": "2026-07-01T17:12:44.321Z",
         "updatedAt": "2026-07-01T17:12:44.321Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.715792,
+          37.421824
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر امام جمعه میانه",
+        "description": "دفتر امام جمعه میانه",
+        "date": 1783864080,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTc6ZTIzYmY1MjA3YzQz",
+        "publicId": "MTc6ZTIzYmY1MjA3YzQz",
+        "sourceId": "e23bf5207c43",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.097Z",
+        "updatedAt": "2026-07-15T01:53:44.097Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61218778539555,
+          35.96597959633121
+        ]
+      },
+      "properties": {
+        "name:fa": "فرمانداری نظرآباد",
+        "description": "فرمانداری شهرستان نظراباد",
+        "date": 1783630125,
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "id": "MTc6OTY2YTA4N2FmNWQy",
+        "publicId": "MTc6OTY2YTA4N2FmNWQy",
+        "sourceId": "966a087af5d2",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.429Z",
+        "updatedAt": "2026-07-15T01:53:46.429Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93569,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.091412,
+          28.860695
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری",
+        "description": "شهرداری",
+        "date": 1783578122,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MTc6MTM0OTJiY2YyOGZl",
+        "publicId": "MTc6MTM0OTJiY2YyOGZl",
+        "sourceId": "13492bcf28fe",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.536Z",
+        "updatedAt": "2026-07-15T01:53:47.536Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.080716480522995,
+          27.142201877825826
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره زندان قدیم میناب",
+        "description": "اداره زندان قدیم میناب اداره حکومتی",
+        "date": 1783468324,
+        "city": "میناب",
+        "province": "استان هرمزگان",
+        "id": "MTc6YThiZmQxZjhjZDU3",
+        "publicId": "MTc6YThiZmQxZjhjZDU3",
+        "sourceId": "a8bfd1f8cd57",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.959Z",
+        "updatedAt": "2026-07-15T01:53:48.959Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93616,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.869002225986264,
+          36.46653475627197
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری و مرکز فرماندهی",
+        "description": "شهرداری مرکز کنترل و پایش دوربین های امنیتی سطح شهر مرکز فرماندهی مقابله با اعتراضات",
+        "date": 1783163542,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MTc6YTcxNWMzNmU4Y2Iw",
+        "publicId": "MTc6YTcxNWMzNmU4Y2Iw",
+        "sourceId": "a715c36e8cb0",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.008Z",
+        "updatedAt": "2026-07-15T01:53:51.008Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93622,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83033438708105,
+          31.51593392043904
+        ]
+      },
+      "properties": {
+        "name:fa": "فرمانداری لردگان",
+        "description": "فرمان داری لردگان که دستور حمله به مردم دادن",
+        "date": 1783141182,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTc6MjI5MDg5OWFiMTcy",
+        "publicId": "MTc6MjI5MDg5OWFiMTcy",
+        "sourceId": "2290899ab172",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.474Z",
+        "updatedAt": "2026-07-15T01:53:51.474Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93636,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.874237774863985,
+          36.47035119763153
+        ]
+      },
+      "properties": {
+        "name:fa": "فرمانداری",
+        "description": "فرمانداری",
+        "date": 1783062930,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MTc6OTYwYmM1MGRkMDBk",
+        "publicId": "MTc6OTYwYmM1MGRkMDBk",
+        "sourceId": "960bc50dd00d",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.510Z",
+        "updatedAt": "2026-07-15T01:53:52.510Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2328,
+    "total": 2335,
     "layerId": 17,
     "clustered": false,
     "simplified": false

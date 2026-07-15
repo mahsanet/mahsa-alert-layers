@@ -6377,10 +6377,271 @@
         "createdAt": "2026-07-01T23:35:51.067Z",
         "updatedAt": "2026-07-01T23:35:51.067Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.399447,
+          35.147023
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی",
+        "description": "پدافند هوایی",
+        "date": 1784069667,
+        "city": "شهر صنعتی کاوه",
+        "province": "استان مرکزی",
+        "id": "ODo4ZGQ2MDU4MWI0MmY",
+        "publicId": "ODo4ZGQ2MDU4MWI0MmY",
+        "sourceId": "8dd60581b42f",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:41.845Z",
+        "updatedAt": "2026-07-15T01:53:41.845Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.69495715704869,
+          37.46013088970551
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی",
+        "description": "در این محل پدافند هوایی وجود داره قبلا از کنار جاده رد شدنی کاملا واضح مشخص توی نمایش گذاشته بودن ولی الان قایمش کردم دیده نمیشه کجاست",
+        "date": 1783818434,
+        "city": "شهرستان میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "ODpjNTQ3MmFmOTM3OGI",
+        "publicId": "ODpjNTQ3MmFmOTM3OGI",
+        "sourceId": "c5472af9378b",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.522Z",
+        "updatedAt": "2026-07-15T01:53:44.522Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3136582531136,
+          35.765364631678665
+        ]
+      },
+      "properties": {
+        "name:fa": "شرکت پارس پرداز",
+        "description": "شرکت پارس پرداز همکاری با سپاه برای ساخت پدافند ضد هوایی و موتور جت جنگنده 20 تیر 1405",
+        "date": 1783788708,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "ODozZWIyOTYwNjE0M2M",
+        "publicId": "ODozZWIyOTYwNjE0M2M",
+        "sourceId": "3eb29606143c",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.934Z",
+        "updatedAt": "2026-07-15T01:53:44.934Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.600463339806,
+          35.23075106645953
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی",
+        "description": "پدافند هوایی",
+        "date": 1783726314,
+        "city": "شهرستان تربت جام",
+        "province": "استان خراسان رضوی",
+        "id": "ODpkNzllNTEyMzlhMTI",
+        "publicId": "ODpkNzllNTEyMzlhMTI",
+        "sourceId": "d79e51239a12",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.174Z",
+        "updatedAt": "2026-07-15T01:53:45.174Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.695051614079404,
+          37.46021224767003
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی میانه",
+        "description": "محل پدافند هوایی شهر میانه اینجا هستش و دقیق نمیدونم کجا گذاشتن ولی همین دور بر مختصاتی که انتخاب کردم هستش",
+        "date": 1783674613,
+        "city": "شهرستان میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "ODo5ZWYzY2Y3Mjc0YjY",
+        "publicId": "ODo5ZWYzY2Y3Mjc0YjY",
+        "sourceId": "9ef3cf7274b6",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.308Z",
+        "updatedAt": "2026-07-15T01:53:45.308Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93640,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6233022923461,
+          36.25396978377488
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی شمال شرق",
+        "description": "24 اسفند 1404 ترابری پدافند هوایی شمال شرق",
+        "date": 1783026718,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "ODo4ZDJkYjZiNTRiMTY",
+        "publicId": "ODo4ZDJkYjZiNTRiMTY",
+        "sourceId": "8d2db6b54b16",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.800Z",
+        "updatedAt": "2026-07-15T01:53:52.800Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93641,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.621718099157164,
+          36.25396565015086
+        ]
+      },
+      "properties": {
+        "name:fa": "پمپ بنزین پدافند هوایی",
+        "description": "پمپ بنزین پدافند هوایی شمال شرق",
+        "date": 1783026665,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "ODo5ZmI1MmNkNDc2M2Q",
+        "publicId": "ODo5ZmI1MmNkNDc2M2Q",
+        "sourceId": "9fb52cd4763d",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.869Z",
+        "updatedAt": "2026-07-15T01:53:52.869Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.620570810190486,
+          36.255029683380414
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد پدافند هوایی مشهد",
+        "description": "ستاد گروه پدافند هوایی مشهد",
+        "date": 1783026466,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "ODo1OGRiNzFjZjk2NjI",
+        "publicId": "ODo1OGRiNzFjZjk2NjI",
+        "sourceId": "58db71cf9662",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.938Z",
+        "updatedAt": "2026-07-15T01:53:52.938Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63031232349118,
+          36.25489060633336
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی مشهد",
+        "description": "گردان مختلط گروه پدافند هوایی مشهد",
+        "date": 1783026198,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "ODphM2I2NWZhYzUyODA",
+        "publicId": "ODphM2I2NWZhYzUyODA",
+        "sourceId": "a3b65fac5280",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:53.005Z",
+        "updatedAt": "2026-07-15T01:53:53.005Z"
+      }
     }
   ],
   "metadata": {
-    "total": 96,
+    "total": 105,
     "layerId": 8,
     "clustered": false,
     "simplified": false

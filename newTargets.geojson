@@ -20070,10 +20070,42 @@
         "createdAt": "2026-07-12T22:40:33.830Z",
         "updatedAt": "2026-07-12T22:40:33.830Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93484,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.997286643597874,
+          26.564685554378087
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تاسیسات کیش",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/zargeoint/status/2076788472296198503?s=46",
+        "id": "MzI6YTZmNGI3NjgxMTk1",
+        "publicId": "MzI6YTZmNGI3NjgxMTk1",
+        "sourceId": "a6f4b7681195",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-14T16:24:17.969Z",
+        "updatedAt": "2026-07-14T16:24:17.969Z"
+      }
     }
   ],
   "metadata": {
-    "total": 645,
+    "total": 646,
     "layerId": 32,
     "clustered": false,
     "simplified": false

@@ -171583,10 +171583,39 @@
         "createdAt": "2026-03-28T19:05:24.240Z",
         "updatedAt": "2026-03-28T19:05:24.240Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93590,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.665994599535594,
+          32.00099856251259
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز بهداشت اردل",
+        "description": "بهداشت و درمان اردل",
+        "date": 1783419312,
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MzE6NWNmMzRhZThmNWVl",
+        "publicId": "MzE6NWNmMzRhZThmNWVl",
+        "sourceId": "5cf34ae8f5ee",
+        "layerId": 31,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.037Z",
+        "updatedAt": "2026-07-15T01:53:49.037Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6863,
+    "total": 6864,
     "layerId": 31,
     "clustered": false,
     "simplified": false

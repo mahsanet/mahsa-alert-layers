@@ -60927,10 +60927,648 @@
         "createdAt": "2026-07-08T13:28:12.329Z",
         "updatedAt": "2026-07-08T13:28:12.329Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.767622532278665,
+          32.47564693353229
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1784075800,
+        "city": "بهارستان",
+        "province": "استان اصفهان",
+        "id": "MTpiMTdhYTdlNGE4NTE",
+        "publicId": "MTpiMTdhYTdlNGE4NTE",
+        "sourceId": "b17aa7e4a851",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:41.712Z",
+        "updatedAt": "2026-07-15T01:53:41.712Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31478858911308,
+          32.647177609095976
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج صالح آباد",
+        "description": "بسیج صالح آباد",
+        "date": 1784069188,
+        "city": "نجف‌ آباد",
+        "province": "استان اصفهان",
+        "id": "MToxNWIzMTY1OTU5Mjk",
+        "publicId": "MToxNWIzMTY1OTU5Mjk",
+        "sourceId": "15b316595929",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.161Z",
+        "updatedAt": "2026-07-15T01:53:42.161Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.67151715562858,
+          27.12870196616221
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج ناحیه باهنر مهرستان",
+        "description": "بسیج ناحیه باهنر مهرستان",
+        "date": 1783994469,
+        "city": "مهرستان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTpkZDJkZDUwY2U2ODU",
+        "publicId": "MTpkZDJkZDUwY2U2ODU",
+        "sourceId": "dd2dd50ce685",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.113Z",
+        "updatedAt": "2026-07-15T01:53:43.113Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63085718654483,
+          36.25705949162071
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهید آقا مصطفی خمینی",
+        "description": "محل آموزش های سرکوب و خشونت علیه مردم",
+        "date": 1783969935,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTozNDdjMGY0ZmVlNzg",
+        "publicId": "MTozNDdjMGY0ZmVlNzg",
+        "sourceId": "347c0f4fee78",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.420Z",
+        "updatedAt": "2026-07-15T01:53:43.420Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38612405088671,
+          35.65775575522136
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1783963532,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTphNDNmOWNhNjU1YTk",
+        "publicId": "MTphNDNmOWNhNjU1YTk",
+        "sourceId": "a43f9ca655a9",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.565Z",
+        "updatedAt": "2026-07-15T01:53:43.565Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.99452990028098,
+          35.79824049531122
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج ناحیه ۶",
+        "description": "بسیج ناحیه ۶",
+        "date": 1783951526,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MTplZGFiYjYxNWY5MGM",
+        "publicId": "MTplZGFiYjYxNWY5MGM",
+        "sourceId": "edabb615f90c",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.805Z",
+        "updatedAt": "2026-07-15T01:53:43.805Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93520,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.694472772319216,
+          32.70875878682304
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج حوزه 13",
+        "description": "بسیج حوزه 13",
+        "date": 1783895240,
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "id": "MTo5YmJhNDkzOWQyYjY",
+        "publicId": "MTo5YmJhNDkzOWQyYjY",
+        "sourceId": "9bba4939d2b6",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.017Z",
+        "updatedAt": "2026-07-15T01:53:44.017Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61639799712597,
+          36.32795592998323
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهید آقاسی زاده",
+        "description": "پایگاه بسیج شهید آقاسی زاده محل سرکوب دانش آموزان هنرستان شهید آقاسی زاده",
+        "date": 1783795341,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTowMTE0NWU5OGI5NjA",
+        "publicId": "MTowMTE0NWU5OGI5NjA",
+        "sourceId": "01145e98b960",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.856Z",
+        "updatedAt": "2026-07-15T01:53:44.856Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.60630772180539,
+          35.25384764287578
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهرستان",
+        "description": "پایگاه بسیج شهرستان",
+        "date": 1783726624,
+        "city": "تربت جام",
+        "province": "استان خراسان رضوی",
+        "id": "MTpiOWU5NzYwNmIxY2M",
+        "publicId": "MTpiOWU5NzYwNmIxY2M",
+        "sourceId": "b9e97606b1cc",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.106Z",
+        "updatedAt": "2026-07-15T01:53:45.106Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.51827112970636,
+          29.57329551331638
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "بسیج",
+        "date": 1783601219,
+        "city": "شیراز",
+        "province": "استان فارس",
+        "id": "MTplYjg4MDZhZGVjZTg",
+        "publicId": "MTplYjg4MDZhZGVjZTg",
+        "sourceId": "eb8806adece8",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.804Z",
+        "updatedAt": "2026-07-15T01:53:46.804Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.092799,
+          28.858299
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه حوزه مقاومت بسیج امام رضا",
+        "description": "پایگاه حوزه مقاومت بسیج امام رضا (ع)",
+        "date": 1783577537,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MTpjZjIzNzZlYzIyNjI",
+        "publicId": "MTpjZjIzNzZlYzIyNjI",
+        "sourceId": "cf2376ec2262",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.812Z",
+        "updatedAt": "2026-07-15T01:53:47.812Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09250839273568,
+          28.858236250083664
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه مقاومت بسیج امام رضا",
+        "description": "ساختمان اصلی حوزه مقاومت بسیج امام رضا. اداره اطلاعات: دارای اتاق مخفی.",
+        "date": 1783575679,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MTpiYjU1YTQ3NDg5MTc",
+        "publicId": "MTpiYjU1YTQ3NDg5MTc",
+        "sourceId": "bb55a4748917",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.163Z",
+        "updatedAt": "2026-07-15T01:53:48.163Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09259981850832,
+          28.858053517959988
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه مقاومت بسیج خواهران",
+        "description": "حوزه مقاومت بسیج خواهران",
+        "date": 1783575601,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MTpkZmE3YmE2NzUzYmI",
+        "publicId": "MTpkZmE3YmE2NzUzYmI",
+        "sourceId": "dfa7ba6753bb",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.219Z",
+        "updatedAt": "2026-07-15T01:53:48.219Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09239142932,
+          28.858008436517892
+        ]
+      },
+      "properties": {
+        "name:fa": "گردان الفتح فراشبند",
+        "description": "گردان الفتح فراشبند",
+        "date": 1783575541,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MTpiNGY1ZDdhMTQ3OWI",
+        "publicId": "MTpiNGY1ZDdhMTQ3OWI",
+        "sourceId": "b4f5d7a1479b",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.288Z",
+        "updatedAt": "2026-07-15T01:53:48.288Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.283259711981316,
+          30.362173158763127
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج منطقه",
+        "date": 1783529569,
+        "city": "آبادان",
+        "province": "استان خوزستان",
+        "id": "MTphZGQ3MDliY2FkN2U",
+        "publicId": "MTphZGQ3MDliY2FkN2U",
+        "sourceId": "add709bcad7e",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.882Z",
+        "updatedAt": "2026-07-15T01:53:48.882Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93591,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.470679875553714,
+          34.07101066880074
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج امیرالمومنین سپاه",
+        "description": "پایگاه بسیج امیرالمومنین سپاه",
+        "date": 1783404248,
+        "city": "آران وبیدگل",
+        "province": "استان اصفهان",
+        "id": "MTpmZTFjYmUyZWMzOTU",
+        "publicId": "MTpmZTFjYmUyZWMzOTU",
+        "sourceId": "fe1cbe2ec395",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.117Z",
+        "updatedAt": "2026-07-15T01:53:49.117Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93607,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.98182389151367,
+          35.86456967118582
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهرک سپهر",
+        "description": "پایگاه بسیج شهرک سپهر",
+        "date": 1783267836,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MTo5NzcwZDU2Mzg5MTI",
+        "publicId": "MTo5NzcwZDU2Mzg5MTI",
+        "sourceId": "9770d5638912",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.338Z",
+        "updatedAt": "2026-07-15T01:53:50.338Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.82452955473852,
+          31.51140274351725
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج ناحیه",
+        "description": "بسیج ناحیه",
+        "date": 1783141112,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTphZTBhYzI1MDczN2U",
+        "publicId": "MTphZTBhYzI1MDczN2U",
+        "sourceId": "ae0ac250737e",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.553Z",
+        "updatedAt": "2026-07-15T01:53:51.553Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93628,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.624550634498945,
+          36.25741353927525
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج پایگاه چهاردهم شکاری",
+        "description": "بسیج 62 دوربین مداربسته پایگاه چهاردهم شکاری",
+        "date": 1783092237,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTpiNGIzNTRkZWJlYzc",
+        "publicId": "MTpiNGIzNTRkZWJlYzc",
+        "sourceId": "b4b354debec7",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.896Z",
+        "updatedAt": "2026-07-15T01:53:51.896Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.04241979322623,
+          35.69038006378699
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج جیلارد",
+        "description": "پایگاه سرکوب بسیج محله جیلارد",
+        "date": 1783089887,
+        "city": "دماوند",
+        "province": "استان تهران",
+        "id": "MTozZjU1OGZlNDliOGU",
+        "publicId": "MTozZjU1OGZlNDliOGU",
+        "sourceId": "3f558fe49b8e",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.972Z",
+        "updatedAt": "2026-07-15T01:53:51.972Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.83998292496926,
+          36.467538497046405
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "در این محدوده پایگاه بسیج مخفی ویژه سرکوب ساماندهی و آموزش داده شده است دارای انبار مهمات و انواع سلاح ها و تجهیزات ویژه برای سرکوب",
+        "date": 1783063691,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MToyMmFhNTVmYjczNjY",
+        "publicId": "MToyMmFhNTVmYjczNjY",
+        "sourceId": "22aa55fb7366",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.206Z",
+        "updatedAt": "2026-07-15T01:53:52.206Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.02916378919866,
+          35.62718059576926
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج امام حسین",
+        "description": "پایگاه بسیج، مسجد امام حسین",
+        "date": 1781301564,
+        "city": "شهریار",
+        "province": "استان تهران",
+        "id": "MTpjODRkYjAwZDkwNDE",
+        "publicId": "MTpjODRkYjAwZDkwNDE",
+        "sourceId": "c84db00d9041",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:53.139Z",
+        "updatedAt": "2026-07-15T01:53:53.139Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2143,
+    "total": 2165,
     "layerId": 1,
     "clustered": false,
     "simplified": false

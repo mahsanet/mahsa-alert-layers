@@ -50357,32 +50357,6 @@
     },
     {
       "type": "Feature",
-      "id": 86017,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.817832,
-          35.7387011
-        ]
-      },
-      "properties": {
-        "id": "Mzo2Mjk1OA",
-        "name:fa": "پلیس امنیت عمومی پردیس",
-        "osm_id": "",
-        "publicId": "Mzo2Mjk1OA",
-        "sourceId": "62958",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.522Z",
-        "updatedAt": "2026-03-13T04:41:06.522Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 86019,
       "geometry": {
         "type": "Point",
@@ -157609,10 +157583,880 @@
         "createdAt": "2026-07-10T19:27:03.618Z",
         "updatedAt": "2026-07-10T19:27:03.618Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.669319695418636,
+          27.129783011041226
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری مهرستان",
+        "description": "نیروی انتظامی کلانتری و اطلاعات مهرستان",
+        "date": 1783994515,
+        "city": "مهرستان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "Mzo1Njk5YWU4ZWViMmE",
+        "publicId": "Mzo1Njk5YWU4ZWViMmE",
+        "sourceId": "5699ae8eeb2a",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.033Z",
+        "updatedAt": "2026-07-15T01:53:43.033Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.700048,
+          37.443558
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان امداد میانه",
+        "description": "یگان امداد شهر میانه نیروی انتظامی",
+        "date": 1783862147,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzplZDM0MzFhZGQ3YTc",
+        "publicId": "MzplZDM0MzFhZGQ3YTc",
+        "sourceId": "ed3431add7a7",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.246Z",
+        "updatedAt": "2026-07-15T01:53:44.246Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93526,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.770741351622206,
+          37.42223938294681
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راه زنجان میانه",
+        "description": "پلیس راه زنجان میانه",
+        "date": 1783818870,
+        "city": "شهرستان میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzpmNTg3MjQ3ZWU4ZWY",
+        "publicId": "MzpmNTg3MjQ3ZWU4ZWY",
+        "sourceId": "f587247ee8ef",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.457Z",
+        "updatedAt": "2026-07-15T01:53:44.457Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70079472758741,
+          37.44399447706728
+        ]
+      },
+      "properties": {
+        "name:fa": "پارکینگ نیروی انتظامی",
+        "description": "پارکینگ خودرو های توقیفی نیروی انتظامی",
+        "date": 1783817858,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzplZmVjNTZiNWIzMjA",
+        "publicId": "MzplZmVjNTZiNWIzMjA",
+        "sourceId": "efec56b5b320",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.593Z",
+        "updatedAt": "2026-07-15T01:53:44.593Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93529,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.700161415613735,
+          37.44373813350053
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راهنمایی و رانندگی میانه",
+        "description": "پلیس راهنمایی و رانندگی میانه",
+        "date": 1783817812,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzpkYWYyMGQ0ODRlYWE",
+        "publicId": "MzpkYWYyMGQ0ODRlYWE",
+        "sourceId": "daf20d484eaa",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.660Z",
+        "updatedAt": "2026-07-15T01:53:44.660Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93530,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.700434590721784,
+          37.443524268407245
+        ]
+      },
+      "properties": {
+        "name:fa": "آماد و پشتیبانی نیروی انتظامی میانه",
+        "description": "آماد و پشتیبانی نیروی انتظامی میانه",
+        "date": 1783817585,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzozMjU0ZDlkNTgyNTE",
+        "publicId": "MzozMjU0ZDlkNTgyNTE",
+        "sourceId": "3254d9d58251",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.716Z",
+        "updatedAt": "2026-07-15T01:53:44.716Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93531,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.700049341578335,
+          37.44356965260593
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان امداد میانه",
+        "description": "یگان امداد میانه نیروی انتظامی",
+        "date": 1783817540,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mzo4ZmM0ZDIxNGNiNjc",
+        "publicId": "Mzo4ZmM0ZDIxNGNiNjc",
+        "sourceId": "8fc4d214cb67",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.787Z",
+        "updatedAt": "2026-07-15T01:53:44.787Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.77075547948289,
+          37.422321420674294
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راه میانه زنجان",
+        "description": "پلیس راه میانه زنجان",
+        "date": 1783712757,
+        "city": "شهرستان میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzpmZDNiYmI3NjAzZmQ",
+        "publicId": "MzpmZDNiYmI3NjAzZmQ",
+        "sourceId": "fd3bbb7603fd",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.241Z",
+        "updatedAt": "2026-07-15T01:53:45.241Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72461630396259,
+          37.40986559493483
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس آگاهی میانه",
+        "description": "پلیس آگاهی میانه",
+        "date": 1783674062,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzplMzMyMDIwNzBjYjU",
+        "publicId": "MzplMzMyMDIwNzBjYjU",
+        "sourceId": "e33202070cb5",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.376Z",
+        "updatedAt": "2026-07-15T01:53:45.376Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72491814153011,
+          37.4096813557902
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 13 میانه",
+        "description": "کلانتری 13 میانه",
+        "date": 1783674043,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzplYzJmNjIyZDQxN2U",
+        "publicId": "MzplYzJmNjIyZDQxN2U",
+        "sourceId": "ec2f622d417e",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.444Z",
+        "updatedAt": "2026-07-15T01:53:45.444Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72112878096698,
+          37.4384247274472
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۱ میانه",
+        "description": "کلانتری 11 شهرستان میانه",
+        "date": 1783673818,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mzo0ZWU3NGE0OGVkYmE",
+        "publicId": "Mzo0ZWU3NGE0OGVkYmE",
+        "sourceId": "4ee74a48edba",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.514Z",
+        "updatedAt": "2026-07-15T01:53:45.514Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70538262579717,
+          37.42744757609185
+        ]
+      },
+      "properties": {
+        "name:fa": "کارگزینی نیروی انتظامی میانه",
+        "description": "کارگزینی نیروی انتظامی میانه",
+        "date": 1783672514,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzplYzQyMGZjZjY2ZTQ",
+        "publicId": "MzplYzQyMGZjZjY2ZTQ",
+        "sourceId": "ec420fcf66e4",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.014Z",
+        "updatedAt": "2026-07-15T01:53:46.014Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.705492572007756,
+          37.42780794766209
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی نیروی انتظامی میانه",
+        "description": "فرماندهی ستاد نیروی انتظامی شهرستان میانه",
+        "date": 1783672462,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mzo0Y2I2NTI1YTQxNTg",
+        "publicId": "Mzo0Y2I2NTI1YTQxNTg",
+        "sourceId": "4cb6525a4158",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.087Z",
+        "updatedAt": "2026-07-15T01:53:46.087Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70017124549324,
+          37.44372586922344
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راهنمایی و رانندگی میانه",
+        "description": "پلیس راهنمایی و رانندگی میانه",
+        "date": 1783668564,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzoyMmRhNjY0N2NjNDk",
+        "publicId": "MzoyMmRhNjY0N2NjNDk",
+        "sourceId": "22da6647cc49",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.152Z",
+        "updatedAt": "2026-07-15T01:53:46.152Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7000169474519,
+          37.44355549680468
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان امداد",
+        "description": "یگان امداد",
+        "date": 1783668517,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mzo3YjE3ZjU2YzhkYzA",
+        "publicId": "Mzo3YjE3ZjU2YzhkYzA",
+        "sourceId": "7b17f56c8dc0",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.216Z",
+        "updatedAt": "2026-07-15T01:53:46.216Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.60266133985024,
+          35.95377260431708
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس اماکن",
+        "description": "خانه پلیس اماکن در این مکان بانوان رو دستگیر و مورد بازجویی قرار می‌دادند",
+        "date": 1783630455,
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "id": "Mzo2MTdiOGRiNDY2ZjU",
+        "publicId": "Mzo2MTdiOGRiNDY2ZjU",
+        "sourceId": "617b8db466f5",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.283Z",
+        "updatedAt": "2026-07-15T01:53:46.283Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61439857586561,
+          35.94746905678092
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۱ نظراباد",
+        "description": "کلانتری ۱۱ نظراباد",
+        "date": 1783630242,
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "id": "Mzo3MzRhOTk0YmQ0OWM",
+        "publicId": "Mzo3MzRhOTk0YmQ0OWM",
+        "sourceId": "734a994bd49c",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.361Z",
+        "updatedAt": "2026-07-15T01:53:46.361Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61341310848803,
+          35.98121416851063
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس اماکن و آگاهی نظرآباد",
+        "description": "پلیس اماکن ،آگاهی، و اطلاعات شهرستان نظرآباد",
+        "date": 1783630086,
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "id": "Mzo2NTZkOTM1ZmY5M2I",
+        "publicId": "Mzo2NTZkOTM1ZmY5M2I",
+        "sourceId": "656d935ff93b",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.510Z",
+        "updatedAt": "2026-07-15T01:53:46.510Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.37219292212012,
+          34.19179794023958
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اختفای نیروی انتظامی",
+        "description": "محل اختفای نیروها و فرماندهان نیروی انتظامی در زمان جنگ",
+        "date": 1783599190,
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "id": "Mzo0OTFlNDEwZDNkNWU",
+        "publicId": "Mzo0OTFlNDEwZDNkNWU",
+        "sourceId": "491e410d3d5e",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.018Z",
+        "updatedAt": "2026-07-15T01:53:47.018Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.37244900556681,
+          34.19102019610585
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۱ نهاوند",
+        "description": "محل جدید کلانتری ۱۱ شهرستان نهاوند",
+        "date": 1783599135,
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "id": "MzplZWYwYjgwNTE4ZGU",
+        "publicId": "MzplZWYwYjgwNTE4ZGU",
+        "sourceId": "eef0b80518de",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.088Z",
+        "updatedAt": "2026-07-15T01:53:47.088Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93574,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.102479,
+          28.858976
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری و یگان ویژه",
+        "description": "کلانتری و مرکز یگان ویژه",
+        "date": 1783577498,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MzowYTVhZjAyNzFlMzY",
+        "publicId": "MzowYTVhZjAyNzFlMzY",
+        "sourceId": "0a5af0271e36",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.884Z",
+        "updatedAt": "2026-07-15T01:53:47.884Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93575,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.092031,
+          28.86017
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 110",
+        "description": "کلانتری 110",
+        "date": 1783577396,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MzpmODA4ZWU0MmZlZDg",
+        "publicId": "MzpmODA4ZWU0MmZlZDg",
+        "sourceId": "f808ee42fed8",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.955Z",
+        "updatedAt": "2026-07-15T01:53:47.955Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.687164744231154,
+          27.20389105303552
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی",
+        "description": "فرماندهی انتظامی",
+        "date": 1783548680,
+        "city": "ايرانشهر",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MzpiZGU5ZWRhMGUzMTg",
+        "publicId": "MzpiZGU5ZWRhMGUzMTg",
+        "sourceId": "bde9eda0e318",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.800Z",
+        "updatedAt": "2026-07-15T01:53:48.800Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.882689975323046,
+          29.47566360787647
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی مرزبانی استان",
+        "description": "فرماندهی مرزبانی استان",
+        "date": 1783392124,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MzpkMTM2NDY4NjBjNmI",
+        "publicId": "MzpkMTM2NDY4NjBjNmI",
+        "sourceId": "d13646860c6b",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.588Z",
+        "updatedAt": "2026-07-15T01:53:49.588Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.35228077309259,
+          29.07702231831638
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی و فرمانداری",
+        "description": "ساختمان فرمانداری و فرماندهی انتظامی",
+        "date": 1783352897,
+        "city": "بم",
+        "province": "استان کرمان",
+        "id": "Mzo5MmVmMzNjZDQ0YjE",
+        "publicId": "Mzo5MmVmMzNjZDQ0YjE",
+        "sourceId": "92ef33cd44b1",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.095Z",
+        "updatedAt": "2026-07-15T01:53:50.095Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.63151619981312,
+          31.532728608971922
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه منج",
+        "description": "پاسگاه منج",
+        "date": 1783183495,
+        "city": "منج",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "Mzo0YmRiOTdkYWM3Yzc",
+        "publicId": "Mzo0YmRiOTdkYWM3Yzc",
+        "sourceId": "4bdb97dac7c7",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.697Z",
+        "updatedAt": "2026-07-15T01:53:50.697Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.824579712551184,
+          31.518273420402252
+        ]
+      },
+      "properties": {
+        "name:fa": "راهور شهرستان لردگان",
+        "description": "راهور شهرستان لردگان",
+        "date": 1783183312,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MzpiNDRjMWU3NTFjNWY",
+        "publicId": "MzpiNDRjMWU3NTFjNWY",
+        "sourceId": "b44c1e751c5f",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.770Z",
+        "updatedAt": "2026-07-15T01:53:50.770Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93620,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.82987322871199,
+          31.513082276799594
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 11 لرگان",
+        "description": "کلانتری 11 لرگان",
+        "date": 1783141276,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "Mzo4Y2QzZDg5YjE0Njk",
+        "publicId": "Mzo4Y2QzZDg5YjE0Njk",
+        "sourceId": "8cd3d89b1469",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.313Z",
+        "updatedAt": "2026-07-15T01:53:51.313Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.82979934230755,
+          31.512818847138192
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس آگاهی",
+        "description": "پلیس اگاه مسئول شکنجه وحشیانه مردم",
+        "date": 1783141250,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "Mzo5M2JjYWJiNDBlYWE",
+        "publicId": "Mzo5M2JjYWJiNDBlYWE",
+        "sourceId": "93bcabb40eaa",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.404Z",
+        "updatedAt": "2026-07-15T01:53:51.404Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83672794581972,
+          31.520586281082416
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی لردگان",
+        "description": "فرماندهی انتظامی لردگان مرکز جمع شدن یگان ویژ برای سرکوب و نیروی سرکوب انتظامی که باعث جاوید نام شدن چندین نفر از مردم لرگان شدن",
+        "date": 1783141048,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MzpiY2YzMzE1NGI0ZGE",
+        "publicId": "MzpiY2YzMzE1NGI0ZGE",
+        "sourceId": "bcf33154b4da",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.627Z",
+        "updatedAt": "2026-07-15T01:53:51.627Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6028,
+    "total": 6057,
     "layerId": 3,
     "clustered": false,
     "simplified": false

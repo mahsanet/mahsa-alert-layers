@@ -12044,35 +12044,6 @@
     },
     {
       "type": "Feature",
-      "id": 7447,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.0268459,
-          35.6883213
-        ]
-      },
-      "properties": {
-        "id": "MzQ6MTUxNzA3",
-        "category": "دادگستری",
-        "sources": [
-          "https://www.openstreetmap.org/way/419840411"
-        ],
-        "name:fa": "دادگستری",
-        "publicId": "MzQ6MTUxNzA3",
-        "sourceId": "151707",
-        "layerId": 34,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:53:15.365Z",
-        "updatedAt": "2026-03-11T20:53:15.365Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 7448,
       "geometry": {
         "type": "Point",
@@ -41415,10 +41386,126 @@
         "createdAt": "2026-05-27T21:08:49.154Z",
         "updatedAt": "2026-05-27T21:08:49.154Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.726152260835704,
+          37.43418672823509
+        ]
+      },
+      "properties": {
+        "name:fa": "دادگستری میانه",
+        "description": "دادگستری شهرستان میانه",
+        "date": 1783673600,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzQ6Y2I0OTllMjc3MDEw",
+        "publicId": "MzQ6Y2I0OTllMjc3MDEw",
+        "sourceId": "cb499e277010",
+        "layerId": 34,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.581Z",
+        "updatedAt": "2026-07-15T01:53:45.581Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.37425353582688,
+          34.19091494952467
+        ]
+      },
+      "properties": {
+        "name:fa": "شورای حل اختلاف",
+        "description": "شورای حل اختلاف رژیم جمهوری اسلامی",
+        "date": 1783599322,
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "id": "MzQ6YmVkODM5YzkxMjgx",
+        "publicId": "MzQ6YmVkODM5YzkxMjgx",
+        "sourceId": "bed839c91281",
+        "layerId": 34,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.872Z",
+        "updatedAt": "2026-07-15T01:53:46.872Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93568,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.090292,
+          28.861669
+        ]
+      },
+      "properties": {
+        "name:fa": "دادگستری",
+        "description": "دادگستری",
+        "date": 1783578168,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MzQ6ODExNWY4YjFlNzEw",
+        "publicId": "MzQ6ODExNWY4YjFlNzEw",
+        "sourceId": "8115f8b1e710",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.462Z",
+        "updatedAt": "2026-07-15T01:53:47.462Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.833940891748,
+          29.483569049482554
+        ]
+      },
+      "properties": {
+        "name:fa": "دادگستری شهید نوری زاهدان",
+        "description": "دادگستری شهید نوری زاهدان",
+        "date": 1783393287,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MzQ6NDYyMmMzNzZiODU4",
+        "publicId": "MzQ6NDYyMmMzNzZiODU4",
+        "sourceId": "4622c376b858",
+        "layerId": 34,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.270Z",
+        "updatedAt": "2026-07-15T01:53:49.270Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1404,
+    "total": 1407,
     "layerId": 34,
     "clustered": false,
     "simplified": false

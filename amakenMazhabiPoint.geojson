@@ -145309,10 +145309,126 @@
         "createdAt": "2026-07-01T17:23:46.575Z",
         "updatedAt": "2026-07-01T17:23:46.575Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31561564734628,
+          32.646466691482715
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه اعظم صالح آباد",
+        "description": "حسینیه اعظم صالح آباد",
+        "date": 1784069082,
+        "city": "نجف‌ آباد",
+        "province": "استان اصفهان",
+        "id": "NDo0Y2ViMmY5MDY1MWY",
+        "publicId": "NDo0Y2ViMmY5MDY1MWY",
+        "sourceId": "4ceb2f90651f",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.265Z",
+        "updatedAt": "2026-07-15T01:53:42.265Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.554255334155926,
+          34.82550059972186
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام سجاد",
+        "description": "مسجد امام سجاد",
+        "date": 1784062184,
+        "city": "شهرک شهید مدنی",
+        "province": "استان همدان",
+        "id": "NDo0MzFlMTlmMjllZTQ",
+        "publicId": "NDo0MzFlMTlmMjllZTQ",
+        "sourceId": "431e19f29ee4",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.587Z",
+        "updatedAt": "2026-07-15T01:53:42.587Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.705274061880914,
+          37.42750102435819
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ستاد فرماندهی نیروی انتظامی",
+        "description": "مسجد ستاد فرماندهی نیروی انتظامی",
+        "date": 1783672548,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "NDpjZDM4MGQ2Njg3ZjM",
+        "publicId": "NDpjZDM4MGQ2Njg3ZjM",
+        "sourceId": "cd380d6687f3",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.946Z",
+        "updatedAt": "2026-07-15T01:53:45.946Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62531214642942,
+          36.32612360896064
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد هفت و دو تن",
+        "description": "مسجد هفت و دو تن",
+        "date": 1783027213,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "NDozNTEwNzQxYTlhNjM",
+        "publicId": "NDozNTEwNzQxYTlhNjM",
+        "sourceId": "3510741a9a63",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.731Z",
+        "updatedAt": "2026-07-15T01:53:52.731Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5578,
+    "total": 5582,
     "layerId": 4,
     "clustered": false,
     "simplified": false

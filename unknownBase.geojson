@@ -65750,36 +65750,6 @@
     },
     {
       "type": "Feature",
-      "id": 92824,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.929857396973006,
-          35.81440077673477
-        ]
-      },
-      "properties": {
-        "name:fa": "بهنوش",
-        "city": "کرج",
-        "province": "استان البرز",
-        "date": "",
-        "description": "اینجا سردخانه بهنوش هست که الان با مهمات پرش کردن مردم اغلب فهمیدن و ترسیدن",
-        "sources": "",
-        "id": "MTI6YzhmNTgwNWRmOTRm",
-        "publicId": "MTI6YzhmNTgwNWRmOTRm",
-        "sourceId": "c8f5805df94f",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-04-02T12:29:21.247Z",
-        "updatedAt": "2026-04-02T12:29:21.247Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92850,
       "geometry": {
         "type": "Point",
@@ -67303,10 +67273,822 @@
         "createdAt": "2026-06-05T18:35:29.696Z",
         "updatedAt": "2026-06-05T18:35:29.696Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.07989955186099,
+          38.61974946573781
+        ]
+      },
+      "properties": {
+        "name:fa": "منطقه نظامی",
+        "description": "نظامی",
+        "date": 1784057520,
+        "city": "شهرستان خوی",
+        "province": "استان آذربایجان غربی",
+        "id": "MTI6OWRjMGI4YTFhOTNi",
+        "publicId": "MTI6OWRjMGI4YTFhOTNi",
+        "sourceId": "9dc0b8a1a93b",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.665Z",
+        "updatedAt": "2026-07-15T01:53:42.665Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.09065735676103,
+          38.608424121267745
+        ]
+      },
+      "properties": {
+        "name:fa": "منطقه نظامی",
+        "description": "محل نظامی",
+        "date": 1784057500,
+        "city": "شهرستان خوی",
+        "province": "استان آذربایجان غربی",
+        "id": "MTI6ZDEzMjUxYzc2ZGM3",
+        "publicId": "MTI6ZDEzMjUxYzc2ZGM3",
+        "sourceId": "d13251c76dc7",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.751Z",
+        "updatedAt": "2026-07-15T01:53:42.751Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93515,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.642724,
+          36.699668
+        ]
+      },
+      "properties": {
+        "name:fa": "سه پایگاه",
+        "description": "۳ پایگاه",
+        "date": 1783957378,
+        "city": "بابلسر",
+        "province": "استان مازندران",
+        "id": "MTI6M2U0OWFhZjI2Njc0",
+        "publicId": "MTI6M2U0OWFhZjI2Njc0",
+        "sourceId": "3e49aaf26674",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.650Z",
+        "updatedAt": "2026-07-15T01:53:43.650Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93516,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.760424,
+          36.665439
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه بهنمیر",
+        "description": "سپاه بهنمیر",
+        "date": 1783957214,
+        "city": "بهنمیر",
+        "province": "استان مازندران",
+        "id": "MTI6MzhiYjZjOTMyMWVk",
+        "publicId": "MTI6MzhiYjZjOTMyMWVk",
+        "sourceId": "38bb6c9321ed",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.725Z",
+        "updatedAt": "2026-07-15T01:53:43.725Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.099347168858486,
+          30.880685192884357
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر اصلی سپاه",
+        "description": "مقر اصلی سپاه",
+        "date": 1783947035,
+        "city": "شهرستان بهمئی",
+        "province": "استان کهگیلویه و بویراحمد",
+        "id": "MTI6OTNmZDMxZjY1MzRm",
+        "publicId": "MTI6OTNmZDMxZjY1MzRm",
+        "sourceId": "93fd31f6534f",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.874Z",
+        "updatedAt": "2026-07-15T01:53:43.874Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.840061987554776,
+          35.7371158306149
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان سپاه امام علی",
+        "description": "ساختمون سپاه امام علی با پوشش جهاد و آموزش پرورش",
+        "date": 1783859517,
+        "city": "پردیس",
+        "province": "استان تهران",
+        "id": "MTI6YTQyOWQ2Mjc5MjEz",
+        "publicId": "MTI6YTQyOWQ2Mjc5MjEz",
+        "sourceId": "a429d6279213",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.317Z",
+        "updatedAt": "2026-07-15T01:53:44.317Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.12398464990676,
+          37.37183718575572
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه ماسال",
+        "description": "سپاه ماسال",
+        "date": 1783729533,
+        "city": "ماسال",
+        "province": "استان گیلان",
+        "id": "MTI6ZDZhMDg4NmEwZDky",
+        "publicId": "MTI6ZDZhMDg4NmEwZDky",
+        "sourceId": "d6a0886a0d92",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.036Z",
+        "updatedAt": "2026-07-15T01:53:45.036Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93543,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70314102758769,
+          37.4440220836281
+        ]
+      },
+      "properties": {
+        "name:fa": "محل نگهبانی سپاه",
+        "description": "محل نگهبانی از این منطقه سپاه پاسداران",
+        "date": 1783673502,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTI6MTBmYjAyMmJmMzAx",
+        "publicId": "MTI6MTBmYjAyMmJmMzAx",
+        "sourceId": "10fb022bf301",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.648Z",
+        "updatedAt": "2026-07-15T01:53:45.648Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.702893685554926,
+          37.4420181586616
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار مهمات سپاه",
+        "description": "یکی از مکان های سپاه پاسداران که دور تا دور سیم خاردار کشیده شده محل بزرگی هستش امکانش هستش در این محل بزرگ به صورت زیر زمینی مکانی هم وجود داشته باشه چون شیفت به شیفت همانند کلانتری ها سرباز و سپاهی برای نگهبانی ۲۴ ساعته گذاشته میشه اینجا انبار مهمات سپاه پاسداران هستش ولی زیر زمین این محل بزرگ هم مشخصه چیز دیگه ای هست",
+        "date": 1783673377,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTI6MGE4MjUyZDBjYTI0",
+        "publicId": "MTI6MGE4MjUyZDBjYTI0",
+        "sourceId": "0a8252d0ca24",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.791Z",
+        "updatedAt": "2026-07-15T01:53:45.791Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93556,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61678982458676,
+          35.98771686092809
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی سپاه نظرآباد",
+        "description": "این مکان فرماندهی سپاه نظراباد هستش مقر مرکزی سپاه نظراباد",
+        "date": 1783629930,
+        "city": "شهرستان نظرآباد",
+        "province": "استان البرز",
+        "id": "MTI6MTk5YjM2ZWE3NjQ4",
+        "publicId": "MTI6MTk5YjM2ZWE3NjQ4",
+        "sourceId": "199b36ea7648",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.580Z",
+        "updatedAt": "2026-07-15T01:53:46.580Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.60991,
+          35.951594
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه",
+        "description": "اینجا پایگاه سپاه است که تمامی جلسات محرمانه با بسیج رو اینجا برگزار میکنن و بعضا هردو طرف خیابان را می بندن",
+        "date": 1783629118,
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "id": "MTI6N2RiZjg4ZmJiN2I3",
+        "publicId": "MTI6N2RiZjg4ZmJiN2I3",
+        "sourceId": "7dbf88fbb7b7",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.729Z",
+        "updatedAt": "2026-07-15T01:53:46.729Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.37271690368652,
+          34.19280871101971
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه پاسداران",
+        "description": "این کلانتری ۱۱ نیست یکی از لانه های فساد نیرو های تروریست سپاه پاسداران است",
+        "date": 1783599268,
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "id": "MTI6ZjZkZDVkODJiZGU0",
+        "publicId": "MTI6ZjZkZDVkODJiZGU0",
+        "sourceId": "f6dd5d82bde4",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.941Z",
+        "updatedAt": "2026-07-15T01:53:46.941Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.370786,
+          34.195091
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه نهاوند",
+        "description": "محل تصمیم گیری های فرماندهان سپاه پاسداران رژیم جمهوری اسلامی و جلسات سری و امنیتی مهم در پایگاه مسجد امام حسن نهاوند",
+        "date": 1783597832,
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "id": "MTI6YjFkZjgzYzM1NjEx",
+        "publicId": "MTI6YjFkZjgzYzM1NjEx",
+        "sourceId": "b1df83c35611",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.236Z",
+        "updatedAt": "2026-07-15T01:53:47.236Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.91572726449752,
+          29.642530085732787
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مرزی سپاه لار",
+        "description": "پایگاه مرزی سپاه لار",
+        "date": 1783392782,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTI6MzExYzcxYmQzMTcx",
+        "publicId": "MTI6MzExYzcxYmQzMTcx",
+        "sourceId": "311c71bd3171",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.434Z",
+        "updatedAt": "2026-07-15T01:53:49.434Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93596,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.88089385838683,
+          29.480969855854966
+        ]
+      },
+      "properties": {
+        "name:fa": "منازل فرماندهان سپاه قدس",
+        "description": "منازل فرمانده هان ارشد سپاه قدس استان",
+        "date": 1783392205,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTI6ZWRmN2QwZTIwMmUz",
+        "publicId": "MTI6ZWRmN2QwZTIwMmUz",
+        "sourceId": "edf7d0e202e3",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.505Z",
+        "updatedAt": "2026-07-15T01:53:49.505Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93601,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.89259213629572,
+          29.494974956602675
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه زاهدان",
+        "description": "پایگاه سپاه در زاهدان",
+        "date": 1783391555,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTI6NGJlZTdjN2UzODhj",
+        "publicId": "MTI6NGJlZTdjN2UzODhj",
+        "sourceId": "4bee7c7e388c",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.888Z",
+        "updatedAt": "2026-07-15T01:53:49.888Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.896889518016735,
+          29.485384716507767
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه نظامی سپاه",
+        "description": "پایگاه نظامی سپاه سرکوبگران اعتراضات",
+        "date": 1783391278,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTI6ZmM3MjJmNTQ0Nzgz",
+        "publicId": "MTI6ZmM3MjJmNTQ0Nzgz",
+        "sourceId": "fc722f544783",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.955Z",
+        "updatedAt": "2026-07-15T01:53:49.955Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.98827369759542,
+          35.86756465408355
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز یگان ویژه سپاه",
+        "description": "مرکز یگان ویژه موتوری سپاه",
+        "date": 1783267924,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MTI6YmFlYTBjZDdhMWRm",
+        "publicId": "MTI6YmFlYTBjZDdhMWRm",
+        "sourceId": "baea0cd7a1df",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.268Z",
+        "updatedAt": "2026-07-15T01:53:50.268Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.882033172550535,
+          27.550426649921434
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه شهرستان مهر",
+        "description": "سپاه شهرستان مهر",
+        "date": 1783246461,
+        "city": "مهر",
+        "province": "استان فارس",
+        "id": "MTI6NDc4ZGMzNTJhYzQ5",
+        "publicId": "MTI6NDc4ZGMzNTJhYzQ5",
+        "sourceId": "478dc352ac49",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.478Z",
+        "updatedAt": "2026-07-15T01:53:50.478Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.839508358565155,
+          31.531183295864523
+        ]
+      },
+      "properties": {
+        "name:fa": "قرارگاه سازندگی خاتم‌الانبیا سپاه",
+        "description": "قرارگاه سازندگی خاتم‌الانبیا سپاه پاسداران",
+        "date": 1783228420,
+        "city": "شهرستان لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTI6NGEyNGE1OGI2NGM0",
+        "publicId": "MTI6NGEyNGE1OGI2NGM0",
+        "sourceId": "4a24a58b64c4",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.547Z",
+        "updatedAt": "2026-07-15T01:53:50.547Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.460166211211344,
+          35.80422958886544
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه",
+        "description": "پایگاه سپاه",
+        "date": 1783191873,
+        "city": "تجریش",
+        "province": "استان تهران",
+        "id": "MTI6ZTExNjYzMmU1YWU4",
+        "publicId": "MTI6ZTExNjYzMmU1YWU4",
+        "sourceId": "e116632e5ae8",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.629Z",
+        "updatedAt": "2026-07-15T01:53:50.629Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93614,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.322268,
+          35.700657
+        ]
+      },
+      "properties": {
+        "name:fa": "مجتمع سپاه غدیر",
+        "description": "مجتمع غدیر وابسته به سپاه پاسداران ، در اینجا حرکات مشکوک دیده می‌شود حتی ورود گوشی و لپ تاپ هم ممنوع است",
+        "date": 1783179886,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTI6ODFiYTdhOGVlMGU0",
+        "publicId": "MTI6ODFiYTdhOGVlMGU0",
+        "sourceId": "81ba7a8ee0e4",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.841Z",
+        "updatedAt": "2026-07-15T01:53:50.841Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93617,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.193626007862804,
+          30.558121227933086
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه",
+        "description": "پایگاه الکترونیک سپاه پاسداران",
+        "date": 1783146656,
+        "city": "بندر ماهشهر",
+        "province": "استان خوزستان",
+        "id": "MTI6OGVmOWEwNWViNTM5",
+        "publicId": "MTI6OGVmOWEwNWViNTM5",
+        "sourceId": "8ef9a05eb539",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.082Z",
+        "updatedAt": "2026-07-15T01:53:51.082Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.832577013807565,
+          31.51473371593447
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی سپاه لردگان",
+        "description": "این مکان در فرماندهی سپاه لردگان که موتور سیکلت هایی و لباس های ضد اشوب که در سرکوب مردم به کار میگیرن در اینجا نگهداری میکنن",
+        "date": 1783142906,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTI6YThiM2U4YzE4Y2I0",
+        "publicId": "MTI6YThiM2U4YzE4Y2I0",
+        "sourceId": "a8b3e8c18cb4",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.159Z",
+        "updatedAt": "2026-07-15T01:53:51.159Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83253265685707,
+          31.515074762736774
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی سپاه لردگان",
+        "description": "ساختمان بتنی ضد نفوذ و زیرزمینی با ضخامت بالا در حیاط فرماندهی سپاه لردگان. نمیدونم چی نگهداری میکنن.",
+        "date": 1783142815,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTI6NzMzYWE5NGNhY2Nm",
+        "publicId": "MTI6NzMzYWE5NGNhY2Nm",
+        "sourceId": "733aa94caccf",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.234Z",
+        "updatedAt": "2026-07-15T01:53:51.234Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93625,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83192309264848,
+          31.514927430168612
+        ]
+      },
+      "properties": {
+        "name:fa": "اسلحه خانه سپاه",
+        "description": "اسلحه خونه سپاه",
+        "date": 1783140900,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTI6NDZhMThjNDEyZjc1",
+        "publicId": "MTI6NDZhMThjNDEyZjc1",
+        "sourceId": "46a18c412f75",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.692Z",
+        "updatedAt": "2026-07-15T01:53:51.692Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93626,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8321273516153,
+          31.515139610047598
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی سپاه لردگان",
+        "description": "فرماندهی سپها لردگان مرکز اسلحه سپاه و ادوات سنگین ماشین های زرهی برای سرکوب در اینجا جمع میشدن و خودشون همشه دوتا ماشین سرکوب اینجا دارن",
+        "date": 1783140881,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTI6ZmY1NjliN2IwOGJl",
+        "publicId": "MTI6ZmY1NjliN2IwOGJl",
+        "sourceId": "ff569b7b08be",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.761Z",
+        "updatedAt": "2026-07-15T01:53:51.761Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93644,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.39583931121288,
+          35.584723940152045
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز سرکوب سپاه",
+        "description": "مقر اصلی و مرکز اصلی سرکوب سپاه؛ نیروهای سرکوبگر برای اذان مغرب در اینجا جمع می‌شوند.",
+        "date": 1783026027,
+        "city": "سمنان",
+        "province": "استان سمنان",
+        "id": "MTI6ZDIzZDBmNjRhM2Zk",
+        "publicId": "MTI6ZDIzZDBmNjRhM2Zk",
+        "sourceId": "d23d0f64a3fd",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:53.071Z",
+        "updatedAt": "2026-07-15T01:53:53.071Z"
+      }
     }
   ],
   "metadata": {
-    "total": 966,
+    "total": 993,
     "layerId": 12,
     "clustered": false,
     "simplified": false

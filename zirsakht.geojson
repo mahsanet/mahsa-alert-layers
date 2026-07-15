@@ -58810,10 +58810,39 @@
         "createdAt": "2026-06-05T14:48:04.202Z",
         "updatedAt": "2026-06-05T14:48:04.202Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93576,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.03128487069753,
+          28.65130053982135
+        ]
+      },
+      "properties": {
+        "name:fa": "دکل صدا و سیما",
+        "description": "دکل آنتن فرستنده رادیویی و تلویزیونی صدا و سیما",
+        "date": 1783576639,
+        "city": "شهرستان فراشبند",
+        "province": "استان فارس",
+        "id": "MzU6NzU4ZmMzNTM5Mzk3",
+        "publicId": "MzU6NzU4ZmMzNTM5Mzk3",
+        "sourceId": "758fc3539397",
+        "layerId": 35,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.027Z",
+        "updatedAt": "2026-07-15T01:53:48.027Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2009,
+    "total": 2010,
     "layerId": 35,
     "clustered": false,
     "simplified": false

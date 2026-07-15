@@ -27467,10 +27467,39 @@
         "createdAt": "2026-05-18T16:58:08.953Z",
         "updatedAt": "2026-05-18T16:58:08.953Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93630,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.262178,
+          35.712972
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز پهپادسازی سپاه",
+        "description": "مرکز پردیس شهید مقدم پهپاد سازی سپاه",
+        "date": 1783078369,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTA6ZjY5ZjExN2I0MTNk",
+        "publicId": "MTA6ZjY5ZjExN2I0MTNk",
+        "sourceId": "f69f117b413d",
+        "layerId": 10,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.048Z",
+        "updatedAt": "2026-07-15T01:53:52.048Z"
+      }
     }
   ],
   "metadata": {
-    "total": 209,
+    "total": 210,
     "layerId": 10,
     "clustered": false,
     "simplified": false

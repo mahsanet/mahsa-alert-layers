@@ -14728,10 +14728,474 @@
         "createdAt": "2026-06-05T18:31:06.365Z",
         "updatedAt": "2026-06-05T18:31:06.365Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.372737,
+          35.024667
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه موشکی سپاه استان مرکزی",
+        "description": "بزرگترین پایگاه سپاه استان مرکزی، شامل محوطه زیرزمینی نگهداری لانچر، موشک، پهپاد و پدافند.",
+        "date": 1784069337,
+        "city": "ساوه",
+        "province": "استان مرکزی",
+        "id": "Nzo0Njk2YmRmM2JjMzc",
+        "publicId": "Nzo0Njk2YmRmM2JjMzc",
+        "sourceId": "4696bdf3bc37",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:41.952Z",
+        "updatedAt": "2026-07-15T01:53:41.952Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.313488,
+          35.152776
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز موشکی و پهپادی",
+        "description": "پهپاد سازی و محل نگهداری لانچر و موشک",
+        "date": 1784069229,
+        "city": "شهرستان ساوه",
+        "province": "استان مرکزی",
+        "id": "Nzo3MDg4YjY1MGE4ZWY",
+        "publicId": "Nzo3MDg4YjY1MGE4ZWY",
+        "sourceId": "7088b650a8ef",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.058Z",
+        "updatedAt": "2026-07-15T01:53:42.058Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.513574,
+          35.614966
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله‌های موشکی",
+        "description": "تعداد ۳۵ سوله در مجاورت هم محل نگهداری لانچر و موشک",
+        "date": 1784069020,
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "id": "NzplMDg1YjUxYjczMTM",
+        "publicId": "NzplMDg1YjUxYjczMTM",
+        "sourceId": "e085b51b7313",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.343Z",
+        "updatedAt": "2026-07-15T01:53:42.343Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.727718,
+          35.706356
+        ]
+      },
+      "properties": {
+        "name:fa": "سایت موشکی و هسته‌ای",
+        "description": "سایت موشکی و هسته‌ای",
+        "date": 1784066561,
+        "city": "شهرستان پردیس",
+        "province": "استان تهران",
+        "id": "NzplMDdmZGZkOWJhMTQ",
+        "publicId": "NzplMDdmZGZkOWJhMTQ",
+        "sourceId": "e07fdfd9ba14",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.495Z",
+        "updatedAt": "2026-07-15T01:53:42.495Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.310793360816376,
+          29.498398270904985
+        ]
+      },
+      "properties": {
+        "name:fa": "زاغه مهمات",
+        "description": "اینجا سلاح نگهداری میکنند",
+        "date": 1783981023,
+        "city": "خرامه",
+        "province": "استان فارس",
+        "id": "NzowMmQxM2RiZmUwMzQ",
+        "publicId": "NzowMmQxM2RiZmUwMzQ",
+        "sourceId": "02d13dbfe034",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.189Z",
+        "updatedAt": "2026-07-15T01:53:43.189Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.702914,
+          37.44202
+        ]
+      },
+      "properties": {
+        "name:fa": "محل نگهداری مهمات سپاه",
+        "description": "این مکان متعلق به سپاه بوده و محل نگهداری مهمات است. این منطقه دارای یک زیرزمین بزرگ است که فعالیت آن نامعلوم است. سه ساختمان در این مکان وجود دارد که یکی از آنها نگهبانی است. این مکان بزرگ دیوارکشی و سیم خاردارکشی شده است. ۲۴ ساعته توسط سرباز و مامور سپاه با اسلحه گرم محافظت می‌شود.",
+        "date": 1783863028,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "Nzo1NjhhZWIyOWVhMGI",
+        "publicId": "Nzo1NjhhZWIyOWVhMGI",
+        "sourceId": "568aeb29ea0b",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.169Z",
+        "updatedAt": "2026-07-15T01:53:44.169Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93544,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70384021396302,
+          37.443086540931716
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار مهمات سپاه",
+        "description": "انبار مهمات سپاه پاسداران",
+        "date": 1783673463,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "NzoyYzdhZWJkMGI2ZTA",
+        "publicId": "NzoyYzdhZWJkMGI2ZTA",
+        "sourceId": "2c7aebd0b6e0",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.716Z",
+        "updatedAt": "2026-07-15T01:53:45.716Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.645761,
+          35.987088
+        ]
+      },
+      "properties": {
+        "name:fa": "تولید موشک و پهباد",
+        "description": "در این مکان هم تولید موشک و پهباد طولید میشه",
+        "date": 1783629463,
+        "city": "شهرستان نظرآباد",
+        "province": "استان البرز",
+        "id": "NzpmZDg4YzM3NDJjMzg",
+        "publicId": "NzpmZDg4YzM3NDJjMzg",
+        "sourceId": "fd88c3742c38",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.661Z",
+        "updatedAt": "2026-07-15T01:53:46.661Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93567,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.092325,
+          28.858189
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار تجهیزات جنگی فراشبند",
+        "description": "انبار نگهداری تجهیزات جنگی گردان الفتح فراشبند",
+        "date": 1783578228,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "Nzo2ZGFlOGI5MmE3NDQ",
+        "publicId": "Nzo2ZGFlOGI5MmE3NDQ",
+        "sourceId": "6dae8b92a744",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.396Z",
+        "updatedAt": "2026-07-15T01:53:47.396Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93571,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.089731,
+          28.85591
+        ]
+      },
+      "properties": {
+        "name:fa": "سالن نگهداری موشک",
+        "description": "سالن نگهداری تجهیزات جنگی و لانچر موشکی در زمان جنگ سوم و 12 روزه",
+        "date": 1783577657,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "NzplMDQzN2M4MGRlNDg",
+        "publicId": "NzplMDQzN2M4MGRlNDg",
+        "sourceId": "e0437c80de48",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.674Z",
+        "updatedAt": "2026-07-15T01:53:47.674Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48556398624504,
+          36.65016840029419
+        ]
+      },
+      "properties": {
+        "name:fa": "محل قطعات موشک",
+        "description": "تاریخ ۹ اسفند ساعت حوالی ۲۰ مربوط به قطعات موشک",
+        "date": 1783566657,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "NzpjYjIyMTYxOTA1MzY",
+        "publicId": "NzpjYjIyMTYxOTA1MzY",
+        "sourceId": "cb2216190536",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.493Z",
+        "updatedAt": "2026-07-15T01:53:48.493Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.42203466011489,
+          36.6200061929741
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر موشکی",
+        "description": "لانچر",
+        "date": 1783566535,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "NzpjMTFkMDAyMjYwNzU",
+        "publicId": "NzpjMTFkMDAyMjYwNzU",
+        "sourceId": "c11d00226075",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.567Z",
+        "updatedAt": "2026-07-15T01:53:48.567Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.41500762490611,
+          36.60743740877015
+        ]
+      },
+      "properties": {
+        "name:fa": "کارگاه تولید قطعات موشک",
+        "description": "روز ۹ اسفند ساعت ۱۳:۴۰ کارگاه تولید قطعات موشک",
+        "date": 1783566451,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "NzozYTdhMzk5ZjlkOTQ",
+        "publicId": "NzozYTdhMzk5ZjlkOTQ",
+        "sourceId": "3a7a399f9d94",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.643Z",
+        "updatedAt": "2026-07-15T01:53:48.643Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.42196296500853,
+          36.61995531215533
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر موشکی",
+        "description": "لانچر",
+        "date": 1783566241,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "Nzo2ZDA3MGZlNjRmZTA",
+        "publicId": "Nzo2ZDA3MGZlNjRmZTA",
+        "sourceId": "6d070fe64fe0",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.712Z",
+        "updatedAt": "2026-07-15T01:53:48.712Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93592,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.81467336292806,
+          29.50075027607737
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه موشکی سپاه سلمان",
+        "description": "باند فرود بالگردها و محل نگهداری لانچرهای سپاه سلمان",
+        "date": 1783393491,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "Nzo5N2E1ZWIxYWYzZGQ",
+        "publicId": "Nzo5N2E1ZWIxYWYzZGQ",
+        "sourceId": "97a5eb1af3dd",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.192Z",
+        "updatedAt": "2026-07-15T01:53:49.192Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35419062036192,
+          33.4817614781814
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر موشکی سپاه",
+        "description": "اینجا محل قرارگیری لانچر موشکی هست ، پادگان امام حسین سپاه معروف به سپاه حضرت ابوالفضل. تقریبا چند روز پیش باز هم درش لانچر سپاه دیده شد ، مرکز اصلی سرکوب در استان لرستان",
+        "date": 1783066133,
+        "city": "خرم آباد",
+        "province": "استان لرستان",
+        "id": "NzpiNWNlZmZjNDgxNTU",
+        "publicId": "NzpiNWNlZmZjNDgxNTU",
+        "sourceId": "b5ceffc48155",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.117Z",
+        "updatedAt": "2026-07-15T01:53:52.117Z"
+      }
     }
   ],
   "metadata": {
-    "total": 117,
+    "total": 133,
     "layerId": 7,
     "clustered": false,
     "simplified": false

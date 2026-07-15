@@ -47791,35 +47791,6 @@
     },
     {
       "type": "Feature",
-      "id": 92060,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.842060363079526,
-          34.65207571101979
-        ]
-      },
-      "properties": {
-        "name:fa": "محل تجمع یگان ویژه",
-        "description": "محل تجمع یگان ویژه",
-        "date": 1773505603,
-        "city": "قم",
-        "province": "استان قم",
-        "id": "MzY6NTI2NWQ4ODI4NGJh",
-        "publicId": "MzY6NTI2NWQ4ODI4NGJh",
-        "sourceId": "5265d88284ba",
-        "layerId": 36,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-14T16:26:43.620Z",
-        "updatedAt": "2026-03-27T22:03:33.145Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92061,
       "geometry": {
         "type": "Point",
@@ -67761,22 +67732,23 @@
       },
       "properties": {
         "name:fa": "بهنوش",
+        "unofficial_name:fa": "",
+        "description": "اینجا سردخانه بهنوش هست که الان با مهمات پرش کردن مردم اغلب فهمیدن و ترسیدن",
+        "date": "",
         "city": "کرج",
         "province": "استان البرز",
-        "date": "",
-        "description": "اینجا سردخانه بهنوش هست که الان با مهمات پرش کردن مردم اغلب فهمیدن و ترسیدن",
         "sources": "",
-        "id": "MTI6YzhmNTgwNWRmOTRm",
-        "publicId": "MTI6YzhmNTgwNWRmOTRm",
+        "id": "MzY6YzhmNTgwNWRmOTRm",
+        "publicId": "MzY6YzhmNTgwNWRmOTRm",
         "sourceId": "c8f5805df94f",
-        "layerId": 12,
+        "layerId": 36,
         "type": "location",
         "status": "active",
         "urgency": null,
         "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-04-02T12:29:21.247Z",
-        "updatedAt": "2026-04-02T12:29:21.247Z"
+        "updatedAt": "2026-07-15T00:04:19.259Z"
       }
     },
     {
@@ -84660,35 +84632,6 @@
     },
     {
       "type": "Feature",
-      "id": 93454,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.80380494946925,
-          37.370084995445524
-        ]
-      },
-      "properties": {
-        "name:fa": "گلوگاه شهید فرجی",
-        "description": "نام این محل گلوگاه شهید فرجی یکی از مهم‌ترین ایستگاه‌های کنترل و پلیس‌راه در ورودی شهرستان میانه (واقع در استان آذربایجان شرقی) در مسیر ارتباطی به استان زنجان است. این گلوگاه برای کنترل‌های امنیتی و ترددی در سطح استان اهمیت دارد و پر از مامورین نیروی انتظامی و پلیس راه هستش همیشه چه در شرایط عادی و چه در شرایط جنگی",
-        "date": 1783713496,
-        "city": "شهرستان میانه",
-        "province": "استان آذربایجان شرقی",
-        "id": "MzY6YTlmOWI4ZDA1ZDc2",
-        "publicId": "MzY6YTlmOWI4ZDA1ZDc2",
-        "sourceId": "a9f9b8d05d76",
-        "layerId": 36,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-13T01:17:13.596Z",
-        "updatedAt": "2026-07-13T01:17:13.596Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93455,
       "geometry": {
         "type": "Point",
@@ -85527,10 +85470,4624 @@
         "createdAt": "2026-07-13T01:26:02.709Z",
         "updatedAt": "2026-07-13T01:26:02.709Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93484,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.997286643597874,
+          26.564685554378087
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تاسیسات کیش",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/zargeoint/status/2076788472296198503?s=46",
+        "id": "MzI6YTZmNGI3NjgxMTk1",
+        "publicId": "MzI6YTZmNGI3NjgxMTk1",
+        "sourceId": "a6f4b7681195",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-14T16:24:17.969Z",
+        "updatedAt": "2026-07-14T16:24:17.969Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93485,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62447265446366,
+          36.3283107500542
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور نیرو انتظامی",
+        "description": "حضور گارد امنیتی نیرو انتظامی در آدرس میدان امام حسین به سمت خواجه ربیع",
+        "date": 1784041881,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6ZGRjNzEyMjY0NjA3",
+        "publicId": "MzY6ZGRjNzEyMjY0NjA3",
+        "sourceId": "ddc712264607",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-14T23:53:51.703Z",
+        "updatedAt": "2026-07-14T23:53:51.703Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6165079447955,
+          36.314511189932915
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع طرفداران جمهوری اسلامی",
+        "description": "محل تجمع و سخنرانی طرفداران جمهوری اسلامی همراه با حضور نیرو های امنیتی",
+        "date": 1784041638,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6MDNmYTVkMjU5Mzky",
+        "publicId": "MzY6MDNmYTVkMjU5Mzky",
+        "sourceId": "03fa5d259392",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-14T23:53:51.825Z",
+        "updatedAt": "2026-07-14T23:53:51.825Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93487,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.614806384368734,
+          36.312460366816055
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع طرفداری جمهوری اسلامی",
+        "description": "محل شعار و تجمع طرفداری جمهوری اسلامی",
+        "date": 1784041542,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6NzViMGZkMDk5ODk0",
+        "publicId": "MzY6NzViMGZkMDk5ODk0",
+        "sourceId": "75b0fd099894",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-14T23:53:51.940Z",
+        "updatedAt": "2026-07-14T23:53:51.940Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.034699,
+          31.586208
+        ]
+      },
+      "properties": {
+        "name:fa": "آماده باش در مدارس",
+        "description": "رژیم در صورت هر گونه احساس خطر ،طبق سوابق بنده که از نیروهای پیمانی ناجا بودم،دارم مطمعن و دونسته میگم،در اماکنی که تحت نظارت آموزش و پرورش مثلا فنی حرفه ای و مدارس،سکنا میکنند در حالت آماده باش",
+        "date": 1784039148,
+        "city": "شهرستان لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MzY6MGMxODljZTlmNGI5",
+        "publicId": "MzY6MGMxODljZTlmNGI5",
+        "sourceId": "0c189ce9f4b9",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-14T23:53:52.047Z",
+        "updatedAt": "2026-07-14T23:53:52.047Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93489,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.31176438720749,
+          29.499287703761794
+        ]
+      },
+      "properties": {
+        "name:fa": "مشاهده خودروهای زرهی",
+        "description": "اینجا اکثراً جای ماشین ها هست و یک یا دوبار ماشین های زرهی ضد شورش دیده شده.",
+        "date": 1783981389,
+        "city": "خرامه",
+        "province": "استان فارس",
+        "id": "MzY6YWI4MDkyYmI0MGZh",
+        "publicId": "MzY6YWI4MDkyYmI0MGZh",
+        "sourceId": "ab8092bb40fa",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-14T23:53:52.141Z",
+        "updatedAt": "2026-07-14T23:53:52.141Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93490,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.050599291866945,
+          37.53071330958886
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروی سرکوب",
+        "description": "ساختمان وزارت اطلاعات خانه سازمانی تجمع نیروی سرکوب",
+        "date": 1783971452,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "id": "MzY6Yzk4ZmIyMGQxYzdj",
+        "publicId": "MzY6Yzk4ZmIyMGQxYzdj",
+        "sourceId": "c98fb20d1c7c",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-14T23:53:52.244Z",
+        "updatedAt": "2026-07-14T23:53:52.244Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.654566305484536,
+          36.31283764064038
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع سپاه و بسیج",
+        "description": "تجمع سپاه و بسیجی ها وحشی و جیره خواران نظام جمهوری اسلامی و آموزش نظامی به تروریست ها جمهوری اسلامی",
+        "date": 1783968645,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6MzY0YWE2OGVjMDg2",
+        "publicId": "MzY6MzY0YWE2OGVjMDg2",
+        "sourceId": "364aa68ec086",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-14T23:53:52.341Z",
+        "updatedAt": "2026-07-14T23:53:52.341Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1831225394138,
+          30.70862933993692
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر",
+        "description": "اینجا لانچر و پهباد ارسال میکنن به هوا و موشک با لانچر میفرستن",
+        "date": 1784040524,
+        "city": "بهبهان",
+        "province": "استان خوزستان",
+        "id": "MzY6NTZhMjMxMWFhYjU2",
+        "publicId": "MzY6NTZhMjMxMWFhYjU2",
+        "sourceId": "56a2311aab56",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T00:07:47.922Z",
+        "updatedAt": "2026-07-15T00:07:47.922Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.767622532278665,
+          32.47564693353229
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1784075800,
+        "city": "بهارستان",
+        "province": "استان اصفهان",
+        "id": "MTpiMTdhYTdlNGE4NTE",
+        "publicId": "MTpiMTdhYTdlNGE4NTE",
+        "sourceId": "b17aa7e4a851",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:41.712Z",
+        "updatedAt": "2026-07-15T01:53:41.712Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.399447,
+          35.147023
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی",
+        "description": "پدافند هوایی",
+        "date": 1784069667,
+        "city": "شهر صنعتی کاوه",
+        "province": "استان مرکزی",
+        "id": "ODo4ZGQ2MDU4MWI0MmY",
+        "publicId": "ODo4ZGQ2MDU4MWI0MmY",
+        "sourceId": "8dd60581b42f",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:41.845Z",
+        "updatedAt": "2026-07-15T01:53:41.845Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.372737,
+          35.024667
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه موشکی سپاه استان مرکزی",
+        "description": "بزرگترین پایگاه سپاه استان مرکزی، شامل محوطه زیرزمینی نگهداری لانچر، موشک، پهپاد و پدافند.",
+        "date": 1784069337,
+        "city": "ساوه",
+        "province": "استان مرکزی",
+        "id": "Nzo0Njk2YmRmM2JjMzc",
+        "publicId": "Nzo0Njk2YmRmM2JjMzc",
+        "sourceId": "4696bdf3bc37",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:41.952Z",
+        "updatedAt": "2026-07-15T01:53:41.952Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.313488,
+          35.152776
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز موشکی و پهپادی",
+        "description": "پهپاد سازی و محل نگهداری لانچر و موشک",
+        "date": 1784069229,
+        "city": "شهرستان ساوه",
+        "province": "استان مرکزی",
+        "id": "Nzo3MDg4YjY1MGE4ZWY",
+        "publicId": "Nzo3MDg4YjY1MGE4ZWY",
+        "sourceId": "7088b650a8ef",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.058Z",
+        "updatedAt": "2026-07-15T01:53:42.058Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31478858911308,
+          32.647177609095976
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج صالح آباد",
+        "description": "بسیج صالح آباد",
+        "date": 1784069188,
+        "city": "نجف‌ آباد",
+        "province": "استان اصفهان",
+        "id": "MToxNWIzMTY1OTU5Mjk",
+        "publicId": "MToxNWIzMTY1OTU5Mjk",
+        "sourceId": "15b316595929",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.161Z",
+        "updatedAt": "2026-07-15T01:53:42.161Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31561564734628,
+          32.646466691482715
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه اعظم صالح آباد",
+        "description": "حسینیه اعظم صالح آباد",
+        "date": 1784069082,
+        "city": "نجف‌ آباد",
+        "province": "استان اصفهان",
+        "id": "NDo0Y2ViMmY5MDY1MWY",
+        "publicId": "NDo0Y2ViMmY5MDY1MWY",
+        "sourceId": "4ceb2f90651f",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.265Z",
+        "updatedAt": "2026-07-15T01:53:42.265Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.513574,
+          35.614966
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله‌های موشکی",
+        "description": "تعداد ۳۵ سوله در مجاورت هم محل نگهداری لانچر و موشک",
+        "date": 1784069020,
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "id": "NzplMDg1YjUxYjczMTM",
+        "publicId": "NzplMDg1YjUxYjczMTM",
+        "sourceId": "e085b51b7313",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.343Z",
+        "updatedAt": "2026-07-15T01:53:42.343Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.595155,
+          35.709617
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر اطلاعات",
+        "description": "مقر نظامی اطلاعات",
+        "date": 1784068557,
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "id": "Mjo2YmIxZTk1YjRjYTY",
+        "publicId": "Mjo2YmIxZTk1YjRjYTY",
+        "sourceId": "6bb1e95b4ca6",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.424Z",
+        "updatedAt": "2026-07-15T01:53:42.424Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.727718,
+          35.706356
+        ]
+      },
+      "properties": {
+        "name:fa": "سایت موشکی و هسته‌ای",
+        "description": "سایت موشکی و هسته‌ای",
+        "date": 1784066561,
+        "city": "شهرستان پردیس",
+        "province": "استان تهران",
+        "id": "NzplMDdmZGZkOWJhMTQ",
+        "publicId": "NzplMDdmZGZkOWJhMTQ",
+        "sourceId": "e07fdfd9ba14",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.495Z",
+        "updatedAt": "2026-07-15T01:53:42.495Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.554255334155926,
+          34.82550059972186
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام سجاد",
+        "description": "مسجد امام سجاد",
+        "date": 1784062184,
+        "city": "شهرک شهید مدنی",
+        "province": "استان همدان",
+        "id": "NDo0MzFlMTlmMjllZTQ",
+        "publicId": "NDo0MzFlMTlmMjllZTQ",
+        "sourceId": "431e19f29ee4",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.587Z",
+        "updatedAt": "2026-07-15T01:53:42.587Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.07989955186099,
+          38.61974946573781
+        ]
+      },
+      "properties": {
+        "name:fa": "منطقه نظامی",
+        "description": "نظامی",
+        "date": 1784057520,
+        "city": "شهرستان خوی",
+        "province": "استان آذربایجان غربی",
+        "id": "MTI6OWRjMGI4YTFhOTNi",
+        "publicId": "MTI6OWRjMGI4YTFhOTNi",
+        "sourceId": "9dc0b8a1a93b",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.665Z",
+        "updatedAt": "2026-07-15T01:53:42.665Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.09065735676103,
+          38.608424121267745
+        ]
+      },
+      "properties": {
+        "name:fa": "منطقه نظامی",
+        "description": "محل نظامی",
+        "date": 1784057500,
+        "city": "شهرستان خوی",
+        "province": "استان آذربایجان غربی",
+        "id": "MTI6ZDEzMjUxYzc2ZGM3",
+        "publicId": "MTI6ZDEzMjUxYzc2ZGM3",
+        "sourceId": "d13251c76dc7",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.751Z",
+        "updatedAt": "2026-07-15T01:53:42.751Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5865613249874,
+          36.316891922404366
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک صادرات",
+        "description": "دوربین بانک صادرات - بلوار ابوطالب",
+        "date": 1784042537,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6ZDgwMjkyY2E2MzAx",
+        "publicId": "MjA6ZDgwMjkyY2E2MzAx",
+        "sourceId": "d80292ca6301",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.847Z",
+        "updatedAt": "2026-07-15T01:53:42.847Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59034917924265,
+          36.31851510341063
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک ملت",
+        "description": "دوربین بانک ملت - بلوار حرعاملی",
+        "date": 1784042345,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6NTUxNWJmZDhlNzM3",
+        "publicId": "MjA6NTUxNWJmZDhlNzM3",
+        "sourceId": "5515bfd8e737",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:42.933Z",
+        "updatedAt": "2026-07-15T01:53:42.933Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.669319695418636,
+          27.129783011041226
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری مهرستان",
+        "description": "نیروی انتظامی کلانتری و اطلاعات مهرستان",
+        "date": 1783994515,
+        "city": "مهرستان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "Mzo1Njk5YWU4ZWViMmE",
+        "publicId": "Mzo1Njk5YWU4ZWViMmE",
+        "sourceId": "5699ae8eeb2a",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.033Z",
+        "updatedAt": "2026-07-15T01:53:43.033Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.67151715562858,
+          27.12870196616221
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج ناحیه باهنر مهرستان",
+        "description": "بسیج ناحیه باهنر مهرستان",
+        "date": 1783994469,
+        "city": "مهرستان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTpkZDJkZDUwY2U2ODU",
+        "publicId": "MTpkZDJkZDUwY2U2ODU",
+        "sourceId": "dd2dd50ce685",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.113Z",
+        "updatedAt": "2026-07-15T01:53:43.113Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.310793360816376,
+          29.498398270904985
+        ]
+      },
+      "properties": {
+        "name:fa": "زاغه مهمات",
+        "description": "اینجا سلاح نگهداری میکنند",
+        "date": 1783981023,
+        "city": "خرامه",
+        "province": "استان فارس",
+        "id": "NzowMmQxM2RiZmUwMzQ",
+        "publicId": "NzowMmQxM2RiZmUwMzQ",
+        "sourceId": "02d13dbfe034",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.189Z",
+        "updatedAt": "2026-07-15T01:53:43.189Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.05454289675379,
+          37.530636128566755
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه سازمانی اطلاعات",
+        "description": "خانه سازمانی اطلاعات",
+        "date": 1783971324,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "id": "MjoyMDRkNmIwOWYzYzk",
+        "publicId": "MjoyMDRkNmIwOWYzYzk",
+        "sourceId": "204d6b09f3c9",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.269Z",
+        "updatedAt": "2026-07-15T01:53:43.269Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.05553720491724,
+          37.531007720413896
+        ]
+      },
+      "properties": {
+        "name:fa": "هشدار تخلیه",
+        "description": "هشدار تخلیه",
+        "date": 1783971263,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "id": "MzM6Y2VlZWUxNjA5YzM2",
+        "publicId": "MzM6Y2VlZWUxNjA5YzM2",
+        "sourceId": "ceeee1609c36",
+        "layerId": 33,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.345Z",
+        "updatedAt": "2026-07-15T01:53:43.345Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63085718654483,
+          36.25705949162071
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهید آقا مصطفی خمینی",
+        "description": "محل آموزش های سرکوب و خشونت علیه مردم",
+        "date": 1783969935,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTozNDdjMGY0ZmVlNzg",
+        "publicId": "MTozNDdjMGY0ZmVlNzg",
+        "sourceId": "347c0f4fee78",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.420Z",
+        "updatedAt": "2026-07-15T01:53:43.420Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63877751973365,
+          36.25728507589439
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین درمانگاه ارتش",
+        "description": "دوربین مداربسته درمانگاه ارتش",
+        "date": 1783967772,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6OTIwOWU5M2NkYjJm",
+        "publicId": "MjA6OTIwOWU5M2NkYjJm",
+        "sourceId": "9209e93cdb2f",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.491Z",
+        "updatedAt": "2026-07-15T01:53:43.491Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38612405088671,
+          35.65775575522136
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1783963532,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTphNDNmOWNhNjU1YTk",
+        "publicId": "MTphNDNmOWNhNjU1YTk",
+        "sourceId": "a43f9ca655a9",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.565Z",
+        "updatedAt": "2026-07-15T01:53:43.565Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93515,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.642724,
+          36.699668
+        ]
+      },
+      "properties": {
+        "name:fa": "سه پایگاه",
+        "description": "۳ پایگاه",
+        "date": 1783957378,
+        "city": "بابلسر",
+        "province": "استان مازندران",
+        "id": "MTI6M2U0OWFhZjI2Njc0",
+        "publicId": "MTI6M2U0OWFhZjI2Njc0",
+        "sourceId": "3e49aaf26674",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.650Z",
+        "updatedAt": "2026-07-15T01:53:43.650Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93516,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.760424,
+          36.665439
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه بهنمیر",
+        "description": "سپاه بهنمیر",
+        "date": 1783957214,
+        "city": "بهنمیر",
+        "province": "استان مازندران",
+        "id": "MTI6MzhiYjZjOTMyMWVk",
+        "publicId": "MTI6MzhiYjZjOTMyMWVk",
+        "sourceId": "38bb6c9321ed",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.725Z",
+        "updatedAt": "2026-07-15T01:53:43.725Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.99452990028098,
+          35.79824049531122
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج ناحیه ۶",
+        "description": "بسیج ناحیه ۶",
+        "date": 1783951526,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MTplZGFiYjYxNWY5MGM",
+        "publicId": "MTplZGFiYjYxNWY5MGM",
+        "sourceId": "edabb615f90c",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.805Z",
+        "updatedAt": "2026-07-15T01:53:43.805Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.099347168858486,
+          30.880685192884357
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر اصلی سپاه",
+        "description": "مقر اصلی سپاه",
+        "date": 1783947035,
+        "city": "شهرستان بهمئی",
+        "province": "استان کهگیلویه و بویراحمد",
+        "id": "MTI6OTNmZDMxZjY1MzRm",
+        "publicId": "MTI6OTNmZDMxZjY1MzRm",
+        "sourceId": "93fd31f6534f",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.874Z",
+        "updatedAt": "2026-07-15T01:53:43.874Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.440693801885516,
+          33.90210714728548
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "محل جدید اداره اطلاعات",
+        "date": 1783943532,
+        "city": "محلات",
+        "province": "استان مرکزی",
+        "id": "Mjo1MDQwNDZkMDdkYzg",
+        "publicId": "Mjo1MDQwNDZkMDdkYzg",
+        "sourceId": "504046d07dc8",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:43.947Z",
+        "updatedAt": "2026-07-15T01:53:43.947Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93520,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.694472772319216,
+          32.70875878682304
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج حوزه 13",
+        "description": "بسیج حوزه 13",
+        "date": 1783895240,
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "id": "MTo5YmJhNDkzOWQyYjY",
+        "publicId": "MTo5YmJhNDkzOWQyYjY",
+        "sourceId": "9bba4939d2b6",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.017Z",
+        "updatedAt": "2026-07-15T01:53:44.017Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.715792,
+          37.421824
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر امام جمعه میانه",
+        "description": "دفتر امام جمعه میانه",
+        "date": 1783864080,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTc6ZTIzYmY1MjA3YzQz",
+        "publicId": "MTc6ZTIzYmY1MjA3YzQz",
+        "sourceId": "e23bf5207c43",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.097Z",
+        "updatedAt": "2026-07-15T01:53:44.097Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.702914,
+          37.44202
+        ]
+      },
+      "properties": {
+        "name:fa": "محل نگهداری مهمات سپاه",
+        "description": "این مکان متعلق به سپاه بوده و محل نگهداری مهمات است. این منطقه دارای یک زیرزمین بزرگ است که فعالیت آن نامعلوم است. سه ساختمان در این مکان وجود دارد که یکی از آنها نگهبانی است. این مکان بزرگ دیوارکشی و سیم خاردارکشی شده است. ۲۴ ساعته توسط سرباز و مامور سپاه با اسلحه گرم محافظت می‌شود.",
+        "date": 1783863028,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "Nzo1NjhhZWIyOWVhMGI",
+        "publicId": "Nzo1NjhhZWIyOWVhMGI",
+        "sourceId": "568aeb29ea0b",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.169Z",
+        "updatedAt": "2026-07-15T01:53:44.169Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.700048,
+          37.443558
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان امداد میانه",
+        "description": "یگان امداد شهر میانه نیروی انتظامی",
+        "date": 1783862147,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzplZDM0MzFhZGQ3YTc",
+        "publicId": "MzplZDM0MzFhZGQ3YTc",
+        "sourceId": "ed3431add7a7",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.246Z",
+        "updatedAt": "2026-07-15T01:53:44.246Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.840061987554776,
+          35.7371158306149
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان سپاه امام علی",
+        "description": "ساختمون سپاه امام علی با پوشش جهاد و آموزش پرورش",
+        "date": 1783859517,
+        "city": "پردیس",
+        "province": "استان تهران",
+        "id": "MTI6YTQyOWQ2Mjc5MjEz",
+        "publicId": "MTI6YTQyOWQ2Mjc5MjEz",
+        "sourceId": "a429d6279213",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.317Z",
+        "updatedAt": "2026-07-15T01:53:44.317Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6560704457346,
+          29.457838461542195
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین اداره اطلاعات",
+        "description": "دوربین نظارتی مرتبط با اداره اطلاعات",
+        "date": 1783845864,
+        "city": "سيرجان",
+        "province": "استان کرمان",
+        "id": "MjA6YjBlMjUxNjYzNWQz",
+        "publicId": "MjA6YjBlMjUxNjYzNWQz",
+        "sourceId": "b0e2516635d3",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.386Z",
+        "updatedAt": "2026-07-15T01:53:44.386Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93526,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.770741351622206,
+          37.42223938294681
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راه زنجان میانه",
+        "description": "پلیس راه زنجان میانه",
+        "date": 1783818870,
+        "city": "شهرستان میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzpmNTg3MjQ3ZWU4ZWY",
+        "publicId": "MzpmNTg3MjQ3ZWU4ZWY",
+        "sourceId": "f587247ee8ef",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.457Z",
+        "updatedAt": "2026-07-15T01:53:44.457Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.69495715704869,
+          37.46013088970551
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی",
+        "description": "در این محل پدافند هوایی وجود داره قبلا از کنار جاده رد شدنی کاملا واضح مشخص توی نمایش گذاشته بودن ولی الان قایمش کردم دیده نمیشه کجاست",
+        "date": 1783818434,
+        "city": "شهرستان میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "ODpjNTQ3MmFmOTM3OGI",
+        "publicId": "ODpjNTQ3MmFmOTM3OGI",
+        "sourceId": "c5472af9378b",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.522Z",
+        "updatedAt": "2026-07-15T01:53:44.522Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70079472758741,
+          37.44399447706728
+        ]
+      },
+      "properties": {
+        "name:fa": "پارکینگ نیروی انتظامی",
+        "description": "پارکینگ خودرو های توقیفی نیروی انتظامی",
+        "date": 1783817858,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzplZmVjNTZiNWIzMjA",
+        "publicId": "MzplZmVjNTZiNWIzMjA",
+        "sourceId": "efec56b5b320",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.593Z",
+        "updatedAt": "2026-07-15T01:53:44.593Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93529,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.700161415613735,
+          37.44373813350053
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راهنمایی و رانندگی میانه",
+        "description": "پلیس راهنمایی و رانندگی میانه",
+        "date": 1783817812,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzpkYWYyMGQ0ODRlYWE",
+        "publicId": "MzpkYWYyMGQ0ODRlYWE",
+        "sourceId": "daf20d484eaa",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.660Z",
+        "updatedAt": "2026-07-15T01:53:44.660Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93530,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.700434590721784,
+          37.443524268407245
+        ]
+      },
+      "properties": {
+        "name:fa": "آماد و پشتیبانی نیروی انتظامی میانه",
+        "description": "آماد و پشتیبانی نیروی انتظامی میانه",
+        "date": 1783817585,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzozMjU0ZDlkNTgyNTE",
+        "publicId": "MzozMjU0ZDlkNTgyNTE",
+        "sourceId": "3254d9d58251",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.716Z",
+        "updatedAt": "2026-07-15T01:53:44.716Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93531,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.700049341578335,
+          37.44356965260593
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان امداد میانه",
+        "description": "یگان امداد میانه نیروی انتظامی",
+        "date": 1783817540,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mzo4ZmM0ZDIxNGNiNjc",
+        "publicId": "Mzo4ZmM0ZDIxNGNiNjc",
+        "sourceId": "8fc4d214cb67",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.787Z",
+        "updatedAt": "2026-07-15T01:53:44.787Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61639799712597,
+          36.32795592998323
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهید آقاسی زاده",
+        "description": "پایگاه بسیج شهید آقاسی زاده محل سرکوب دانش آموزان هنرستان شهید آقاسی زاده",
+        "date": 1783795341,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTowMTE0NWU5OGI5NjA",
+        "publicId": "MTowMTE0NWU5OGI5NjA",
+        "sourceId": "01145e98b960",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.856Z",
+        "updatedAt": "2026-07-15T01:53:44.856Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3136582531136,
+          35.765364631678665
+        ]
+      },
+      "properties": {
+        "name:fa": "شرکت پارس پرداز",
+        "description": "شرکت پارس پرداز همکاری با سپاه برای ساخت پدافند ضد هوایی و موتور جت جنگنده 20 تیر 1405",
+        "date": 1783788708,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "ODozZWIyOTYwNjE0M2M",
+        "publicId": "ODozZWIyOTYwNjE0M2M",
+        "sourceId": "3eb29606143c",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.934Z",
+        "updatedAt": "2026-07-15T01:53:44.934Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.12398464990676,
+          37.37183718575572
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه ماسال",
+        "description": "سپاه ماسال",
+        "date": 1783729533,
+        "city": "ماسال",
+        "province": "استان گیلان",
+        "id": "MTI6ZDZhMDg4NmEwZDky",
+        "publicId": "MTI6ZDZhMDg4NmEwZDky",
+        "sourceId": "d6a0886a0d92",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.036Z",
+        "updatedAt": "2026-07-15T01:53:45.036Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.60630772180539,
+          35.25384764287578
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهرستان",
+        "description": "پایگاه بسیج شهرستان",
+        "date": 1783726624,
+        "city": "تربت جام",
+        "province": "استان خراسان رضوی",
+        "id": "MTpiOWU5NzYwNmIxY2M",
+        "publicId": "MTpiOWU5NzYwNmIxY2M",
+        "sourceId": "b9e97606b1cc",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.106Z",
+        "updatedAt": "2026-07-15T01:53:45.106Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.600463339806,
+          35.23075106645953
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی",
+        "description": "پدافند هوایی",
+        "date": 1783726314,
+        "city": "شهرستان تربت جام",
+        "province": "استان خراسان رضوی",
+        "id": "ODpkNzllNTEyMzlhMTI",
+        "publicId": "ODpkNzllNTEyMzlhMTI",
+        "sourceId": "d79e51239a12",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.174Z",
+        "updatedAt": "2026-07-15T01:53:45.174Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.77075547948289,
+          37.422321420674294
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راه میانه زنجان",
+        "description": "پلیس راه میانه زنجان",
+        "date": 1783712757,
+        "city": "شهرستان میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzpmZDNiYmI3NjAzZmQ",
+        "publicId": "MzpmZDNiYmI3NjAzZmQ",
+        "sourceId": "fd3bbb7603fd",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.241Z",
+        "updatedAt": "2026-07-15T01:53:45.241Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.695051614079404,
+          37.46021224767003
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی میانه",
+        "description": "محل پدافند هوایی شهر میانه اینجا هستش و دقیق نمیدونم کجا گذاشتن ولی همین دور بر مختصاتی که انتخاب کردم هستش",
+        "date": 1783674613,
+        "city": "شهرستان میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "ODo5ZWYzY2Y3Mjc0YjY",
+        "publicId": "ODo5ZWYzY2Y3Mjc0YjY",
+        "sourceId": "9ef3cf7274b6",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.308Z",
+        "updatedAt": "2026-07-15T01:53:45.308Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72461630396259,
+          37.40986559493483
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس آگاهی میانه",
+        "description": "پلیس آگاهی میانه",
+        "date": 1783674062,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzplMzMyMDIwNzBjYjU",
+        "publicId": "MzplMzMyMDIwNzBjYjU",
+        "sourceId": "e33202070cb5",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.376Z",
+        "updatedAt": "2026-07-15T01:53:45.376Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72491814153011,
+          37.4096813557902
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 13 میانه",
+        "description": "کلانتری 13 میانه",
+        "date": 1783674043,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzplYzJmNjIyZDQxN2U",
+        "publicId": "MzplYzJmNjIyZDQxN2U",
+        "sourceId": "ec2f622d417e",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.444Z",
+        "updatedAt": "2026-07-15T01:53:45.444Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72112878096698,
+          37.4384247274472
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۱ میانه",
+        "description": "کلانتری 11 شهرستان میانه",
+        "date": 1783673818,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mzo0ZWU3NGE0OGVkYmE",
+        "publicId": "Mzo0ZWU3NGE0OGVkYmE",
+        "sourceId": "4ee74a48edba",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.514Z",
+        "updatedAt": "2026-07-15T01:53:45.514Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.726152260835704,
+          37.43418672823509
+        ]
+      },
+      "properties": {
+        "name:fa": "دادگستری میانه",
+        "description": "دادگستری شهرستان میانه",
+        "date": 1783673600,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzQ6Y2I0OTllMjc3MDEw",
+        "publicId": "MzQ6Y2I0OTllMjc3MDEw",
+        "sourceId": "cb499e277010",
+        "layerId": 34,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.581Z",
+        "updatedAt": "2026-07-15T01:53:45.581Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93543,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70314102758769,
+          37.4440220836281
+        ]
+      },
+      "properties": {
+        "name:fa": "محل نگهبانی سپاه",
+        "description": "محل نگهبانی از این منطقه سپاه پاسداران",
+        "date": 1783673502,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTI6MTBmYjAyMmJmMzAx",
+        "publicId": "MTI6MTBmYjAyMmJmMzAx",
+        "sourceId": "10fb022bf301",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.648Z",
+        "updatedAt": "2026-07-15T01:53:45.648Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93544,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70384021396302,
+          37.443086540931716
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار مهمات سپاه",
+        "description": "انبار مهمات سپاه پاسداران",
+        "date": 1783673463,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "NzoyYzdhZWJkMGI2ZTA",
+        "publicId": "NzoyYzdhZWJkMGI2ZTA",
+        "sourceId": "2c7aebd0b6e0",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.716Z",
+        "updatedAt": "2026-07-15T01:53:45.716Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.702893685554926,
+          37.4420181586616
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار مهمات سپاه",
+        "description": "یکی از مکان های سپاه پاسداران که دور تا دور سیم خاردار کشیده شده محل بزرگی هستش امکانش هستش در این محل بزرگ به صورت زیر زمینی مکانی هم وجود داشته باشه چون شیفت به شیفت همانند کلانتری ها سرباز و سپاهی برای نگهبانی ۲۴ ساعته گذاشته میشه اینجا انبار مهمات سپاه پاسداران هستش ولی زیر زمین این محل بزرگ هم مشخصه چیز دیگه ای هست",
+        "date": 1783673377,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTI6MGE4MjUyZDBjYTI0",
+        "publicId": "MTI6MGE4MjUyZDBjYTI0",
+        "sourceId": "0a8252d0ca24",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.791Z",
+        "updatedAt": "2026-07-15T01:53:45.791Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70535956772369,
+          37.427790079872054
+        ]
+      },
+      "properties": {
+        "name:fa": "کلینیک کوثر نیروی انتظامی",
+        "description": "کلینیک کوثر نیروی انتظامی",
+        "date": 1783672777,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MjM6MWU0ZGFhOTZiNjM4",
+        "publicId": "MjM6MWU0ZGFhOTZiNjM4",
+        "sourceId": "1e4daa96b638",
+        "layerId": 23,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.869Z",
+        "updatedAt": "2026-07-15T01:53:45.869Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.705274061880914,
+          37.42750102435819
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ستاد فرماندهی نیروی انتظامی",
+        "description": "مسجد ستاد فرماندهی نیروی انتظامی",
+        "date": 1783672548,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "NDpjZDM4MGQ2Njg3ZjM",
+        "publicId": "NDpjZDM4MGQ2Njg3ZjM",
+        "sourceId": "cd380d6687f3",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.946Z",
+        "updatedAt": "2026-07-15T01:53:45.946Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70538262579717,
+          37.42744757609185
+        ]
+      },
+      "properties": {
+        "name:fa": "کارگزینی نیروی انتظامی میانه",
+        "description": "کارگزینی نیروی انتظامی میانه",
+        "date": 1783672514,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzplYzQyMGZjZjY2ZTQ",
+        "publicId": "MzplYzQyMGZjZjY2ZTQ",
+        "sourceId": "ec420fcf66e4",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.014Z",
+        "updatedAt": "2026-07-15T01:53:46.014Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.705492572007756,
+          37.42780794766209
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی نیروی انتظامی میانه",
+        "description": "فرماندهی ستاد نیروی انتظامی شهرستان میانه",
+        "date": 1783672462,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mzo0Y2I2NTI1YTQxNTg",
+        "publicId": "Mzo0Y2I2NTI1YTQxNTg",
+        "sourceId": "4cb6525a4158",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.087Z",
+        "updatedAt": "2026-07-15T01:53:46.087Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70017124549324,
+          37.44372586922344
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راهنمایی و رانندگی میانه",
+        "description": "پلیس راهنمایی و رانندگی میانه",
+        "date": 1783668564,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MzoyMmRhNjY0N2NjNDk",
+        "publicId": "MzoyMmRhNjY0N2NjNDk",
+        "sourceId": "22da6647cc49",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.152Z",
+        "updatedAt": "2026-07-15T01:53:46.152Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7000169474519,
+          37.44355549680468
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان امداد",
+        "description": "یگان امداد",
+        "date": 1783668517,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mzo3YjE3ZjU2YzhkYzA",
+        "publicId": "Mzo3YjE3ZjU2YzhkYzA",
+        "sourceId": "7b17f56c8dc0",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.216Z",
+        "updatedAt": "2026-07-15T01:53:46.216Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.60266133985024,
+          35.95377260431708
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس اماکن",
+        "description": "خانه پلیس اماکن در این مکان بانوان رو دستگیر و مورد بازجویی قرار می‌دادند",
+        "date": 1783630455,
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "id": "Mzo2MTdiOGRiNDY2ZjU",
+        "publicId": "Mzo2MTdiOGRiNDY2ZjU",
+        "sourceId": "617b8db466f5",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.283Z",
+        "updatedAt": "2026-07-15T01:53:46.283Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61439857586561,
+          35.94746905678092
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۱ نظراباد",
+        "description": "کلانتری ۱۱ نظراباد",
+        "date": 1783630242,
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "id": "Mzo3MzRhOTk0YmQ0OWM",
+        "publicId": "Mzo3MzRhOTk0YmQ0OWM",
+        "sourceId": "734a994bd49c",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.361Z",
+        "updatedAt": "2026-07-15T01:53:46.361Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61218778539555,
+          35.96597959633121
+        ]
+      },
+      "properties": {
+        "name:fa": "فرمانداری نظرآباد",
+        "description": "فرمانداری شهرستان نظراباد",
+        "date": 1783630125,
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "id": "MTc6OTY2YTA4N2FmNWQy",
+        "publicId": "MTc6OTY2YTA4N2FmNWQy",
+        "sourceId": "966a087af5d2",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.429Z",
+        "updatedAt": "2026-07-15T01:53:46.429Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61341310848803,
+          35.98121416851063
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس اماکن و آگاهی نظرآباد",
+        "description": "پلیس اماکن ،آگاهی، و اطلاعات شهرستان نظرآباد",
+        "date": 1783630086,
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "id": "Mzo2NTZkOTM1ZmY5M2I",
+        "publicId": "Mzo2NTZkOTM1ZmY5M2I",
+        "sourceId": "656d935ff93b",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.510Z",
+        "updatedAt": "2026-07-15T01:53:46.510Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93556,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61678982458676,
+          35.98771686092809
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی سپاه نظرآباد",
+        "description": "این مکان فرماندهی سپاه نظراباد هستش مقر مرکزی سپاه نظراباد",
+        "date": 1783629930,
+        "city": "شهرستان نظرآباد",
+        "province": "استان البرز",
+        "id": "MTI6MTk5YjM2ZWE3NjQ4",
+        "publicId": "MTI6MTk5YjM2ZWE3NjQ4",
+        "sourceId": "199b36ea7648",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.580Z",
+        "updatedAt": "2026-07-15T01:53:46.580Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.645761,
+          35.987088
+        ]
+      },
+      "properties": {
+        "name:fa": "تولید موشک و پهباد",
+        "description": "در این مکان هم تولید موشک و پهباد طولید میشه",
+        "date": 1783629463,
+        "city": "شهرستان نظرآباد",
+        "province": "استان البرز",
+        "id": "NzpmZDg4YzM3NDJjMzg",
+        "publicId": "NzpmZDg4YzM3NDJjMzg",
+        "sourceId": "fd88c3742c38",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.661Z",
+        "updatedAt": "2026-07-15T01:53:46.661Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.60991,
+          35.951594
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه",
+        "description": "اینجا پایگاه سپاه است که تمامی جلسات محرمانه با بسیج رو اینجا برگزار میکنن و بعضا هردو طرف خیابان را می بندن",
+        "date": 1783629118,
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "id": "MTI6N2RiZjg4ZmJiN2I3",
+        "publicId": "MTI6N2RiZjg4ZmJiN2I3",
+        "sourceId": "7dbf88fbb7b7",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.729Z",
+        "updatedAt": "2026-07-15T01:53:46.729Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.51827112970636,
+          29.57329551331638
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "بسیج",
+        "date": 1783601219,
+        "city": "شیراز",
+        "province": "استان فارس",
+        "id": "MTplYjg4MDZhZGVjZTg",
+        "publicId": "MTplYjg4MDZhZGVjZTg",
+        "sourceId": "eb8806adece8",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.804Z",
+        "updatedAt": "2026-07-15T01:53:46.804Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.37425353582688,
+          34.19091494952467
+        ]
+      },
+      "properties": {
+        "name:fa": "شورای حل اختلاف",
+        "description": "شورای حل اختلاف رژیم جمهوری اسلامی",
+        "date": 1783599322,
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "id": "MzQ6YmVkODM5YzkxMjgx",
+        "publicId": "MzQ6YmVkODM5YzkxMjgx",
+        "sourceId": "bed839c91281",
+        "layerId": 34,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.872Z",
+        "updatedAt": "2026-07-15T01:53:46.872Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.37271690368652,
+          34.19280871101971
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه پاسداران",
+        "description": "این کلانتری ۱۱ نیست یکی از لانه های فساد نیرو های تروریست سپاه پاسداران است",
+        "date": 1783599268,
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "id": "MTI6ZjZkZDVkODJiZGU0",
+        "publicId": "MTI6ZjZkZDVkODJiZGU0",
+        "sourceId": "f6dd5d82bde4",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:46.941Z",
+        "updatedAt": "2026-07-15T01:53:46.941Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.37219292212012,
+          34.19179794023958
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اختفای نیروی انتظامی",
+        "description": "محل اختفای نیروها و فرماندهان نیروی انتظامی در زمان جنگ",
+        "date": 1783599190,
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "id": "Mzo0OTFlNDEwZDNkNWU",
+        "publicId": "Mzo0OTFlNDEwZDNkNWU",
+        "sourceId": "491e410d3d5e",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.018Z",
+        "updatedAt": "2026-07-15T01:53:47.018Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.37244900556681,
+          34.19102019610585
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۱ نهاوند",
+        "description": "محل جدید کلانتری ۱۱ شهرستان نهاوند",
+        "date": 1783599135,
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "id": "MzplZWYwYjgwNTE4ZGU",
+        "publicId": "MzplZWYwYjgwNTE4ZGU",
+        "sourceId": "eef0b80518de",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.088Z",
+        "updatedAt": "2026-07-15T01:53:47.088Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.371035806776774,
+          34.19497964211952
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل شهری نهاوند",
+        "description": "این مکان دوربین کنترل شهری متصل به اداره اطلاعات شهرستان نهاوند است",
+        "date": 1783598988,
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "id": "MjA6NTFhODA0MmIyNzA1",
+        "publicId": "MjA6NTFhODA0MmIyNzA1",
+        "sourceId": "51a8042b2705",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.163Z",
+        "updatedAt": "2026-07-15T01:53:47.163Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.370786,
+          34.195091
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه نهاوند",
+        "description": "محل تصمیم گیری های فرماندهان سپاه پاسداران رژیم جمهوری اسلامی و جلسات سری و امنیتی مهم در پایگاه مسجد امام حسن نهاوند",
+        "date": 1783597832,
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "id": "MTI6YjFkZjgzYzM1NjEx",
+        "publicId": "MTI6YjFkZjgzYzM1NjEx",
+        "sourceId": "b1df83c35611",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.236Z",
+        "updatedAt": "2026-07-15T01:53:47.236Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.224984,
+          28.59773
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های امامزاده شهید",
+        "description": "دوربین‌های نظارتی در کل محوطه و راه‌های ورود و خروج جاده‌ای امامزاده شهید که زیر رصد اطلاعات سپاه فراشبند قرار دارند و دسترسی کامل به آنها وجود دارد.",
+        "date": 1783578406,
+        "city": "امامزاده شهید",
+        "province": "استان فارس",
+        "id": "MjA6NWY4MWYwOTRlZGE2",
+        "publicId": "MjA6NWY4MWYwOTRlZGE2",
+        "sourceId": "5f81f094eda6",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.321Z",
+        "updatedAt": "2026-07-15T01:53:47.321Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93567,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.092325,
+          28.858189
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار تجهیزات جنگی فراشبند",
+        "description": "انبار نگهداری تجهیزات جنگی گردان الفتح فراشبند",
+        "date": 1783578228,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "Nzo2ZGFlOGI5MmE3NDQ",
+        "publicId": "Nzo2ZGFlOGI5MmE3NDQ",
+        "sourceId": "6dae8b92a744",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.396Z",
+        "updatedAt": "2026-07-15T01:53:47.396Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93568,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.090292,
+          28.861669
+        ]
+      },
+      "properties": {
+        "name:fa": "دادگستری",
+        "description": "دادگستری",
+        "date": 1783578168,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MzQ6ODExNWY4YjFlNzEw",
+        "publicId": "MzQ6ODExNWY4YjFlNzEw",
+        "sourceId": "8115f8b1e710",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.462Z",
+        "updatedAt": "2026-07-15T01:53:47.462Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93569,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.091412,
+          28.860695
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری",
+        "description": "شهرداری",
+        "date": 1783578122,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MTc6MTM0OTJiY2YyOGZl",
+        "publicId": "MTc6MTM0OTJiY2YyOGZl",
+        "sourceId": "13492bcf28fe",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.536Z",
+        "updatedAt": "2026-07-15T01:53:47.536Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.091874,
+          28.861206
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین شهری",
+        "description": "دوربین شهری در میدان",
+        "date": 1783577850,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6Y2U0OWZjODYxOGM0",
+        "publicId": "MjA6Y2U0OWZjODYxOGM0",
+        "sourceId": "ce49fc8618c4",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.603Z",
+        "updatedAt": "2026-07-15T01:53:47.603Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93571,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.089731,
+          28.85591
+        ]
+      },
+      "properties": {
+        "name:fa": "سالن نگهداری موشک",
+        "description": "سالن نگهداری تجهیزات جنگی و لانچر موشکی در زمان جنگ سوم و 12 روزه",
+        "date": 1783577657,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "NzplMDQzN2M4MGRlNDg",
+        "publicId": "NzplMDQzN2M4MGRlNDg",
+        "sourceId": "e0437c80de48",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.674Z",
+        "updatedAt": "2026-07-15T01:53:47.674Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.092518,
+          28.858232
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات",
+        "description": "اداره اطلاعات دارای اتاق مخفی",
+        "date": 1783577589,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjpkMDg3Y2VmZjM4YTc",
+        "publicId": "MjpkMDg3Y2VmZjM4YTc",
+        "sourceId": "d087ceff38a7",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.744Z",
+        "updatedAt": "2026-07-15T01:53:47.744Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.092799,
+          28.858299
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه حوزه مقاومت بسیج امام رضا",
+        "description": "پایگاه حوزه مقاومت بسیج امام رضا (ع)",
+        "date": 1783577537,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MTpjZjIzNzZlYzIyNjI",
+        "publicId": "MTpjZjIzNzZlYzIyNjI",
+        "sourceId": "cf2376ec2262",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.812Z",
+        "updatedAt": "2026-07-15T01:53:47.812Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93574,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.102479,
+          28.858976
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری و یگان ویژه",
+        "description": "کلانتری و مرکز یگان ویژه",
+        "date": 1783577498,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MzowYTVhZjAyNzFlMzY",
+        "publicId": "MzowYTVhZjAyNzFlMzY",
+        "sourceId": "0a5af0271e36",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.884Z",
+        "updatedAt": "2026-07-15T01:53:47.884Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93575,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.092031,
+          28.86017
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 110",
+        "description": "کلانتری 110",
+        "date": 1783577396,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MzpmODA4ZWU0MmZlZDg",
+        "publicId": "MzpmODA4ZWU0MmZlZDg",
+        "sourceId": "f808ee42fed8",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:47.955Z",
+        "updatedAt": "2026-07-15T01:53:47.955Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93576,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.03128487069753,
+          28.65130053982135
+        ]
+      },
+      "properties": {
+        "name:fa": "دکل صدا و سیما",
+        "description": "دکل آنتن فرستنده رادیویی و تلویزیونی صدا و سیما",
+        "date": 1783576639,
+        "city": "شهرستان فراشبند",
+        "province": "استان فارس",
+        "id": "MzU6NzU4ZmMzNTM5Mzk3",
+        "publicId": "MzU6NzU4ZmMzNTM5Mzk3",
+        "sourceId": "758fc3539397",
+        "layerId": 35,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.027Z",
+        "updatedAt": "2026-07-15T01:53:48.027Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09250839273568,
+          28.858236250083664
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه مقاومت بسیج امام رضا",
+        "description": "ساختمان اصلی حوزه مقاومت بسیج امام رضا. اداره اطلاعات: دارای اتاق مخفی.",
+        "date": 1783575679,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MTpiYjU1YTQ3NDg5MTc",
+        "publicId": "MTpiYjU1YTQ3NDg5MTc",
+        "sourceId": "bb55a4748917",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.163Z",
+        "updatedAt": "2026-07-15T01:53:48.163Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09259981850832,
+          28.858053517959988
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه مقاومت بسیج خواهران",
+        "description": "حوزه مقاومت بسیج خواهران",
+        "date": 1783575601,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MTpkZmE3YmE2NzUzYmI",
+        "publicId": "MTpkZmE3YmE2NzUzYmI",
+        "sourceId": "dfa7ba6753bb",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.219Z",
+        "updatedAt": "2026-07-15T01:53:48.219Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09239142932,
+          28.858008436517892
+        ]
+      },
+      "properties": {
+        "name:fa": "گردان الفتح فراشبند",
+        "description": "گردان الفتح فراشبند",
+        "date": 1783575541,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MTpiNGY1ZDdhMTQ3OWI",
+        "publicId": "MTpiNGY1ZDdhMTQ3OWI",
+        "sourceId": "b4f5d7a1479b",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.288Z",
+        "updatedAt": "2026-07-15T01:53:48.288Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48556398624504,
+          36.65016840029419
+        ]
+      },
+      "properties": {
+        "name:fa": "محل قطعات موشک",
+        "description": "تاریخ ۹ اسفند ساعت حوالی ۲۰ مربوط به قطعات موشک",
+        "date": 1783566657,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "NzpjYjIyMTYxOTA1MzY",
+        "publicId": "NzpjYjIyMTYxOTA1MzY",
+        "sourceId": "cb2216190536",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.493Z",
+        "updatedAt": "2026-07-15T01:53:48.493Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.42203466011489,
+          36.6200061929741
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر موشکی",
+        "description": "لانچر",
+        "date": 1783566535,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "NzpjMTFkMDAyMjYwNzU",
+        "publicId": "NzpjMTFkMDAyMjYwNzU",
+        "sourceId": "c11d00226075",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.567Z",
+        "updatedAt": "2026-07-15T01:53:48.567Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.41500762490611,
+          36.60743740877015
+        ]
+      },
+      "properties": {
+        "name:fa": "کارگاه تولید قطعات موشک",
+        "description": "روز ۹ اسفند ساعت ۱۳:۴۰ کارگاه تولید قطعات موشک",
+        "date": 1783566451,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "NzozYTdhMzk5ZjlkOTQ",
+        "publicId": "NzozYTdhMzk5ZjlkOTQ",
+        "sourceId": "3a7a399f9d94",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.643Z",
+        "updatedAt": "2026-07-15T01:53:48.643Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.42196296500853,
+          36.61995531215533
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر موشکی",
+        "description": "لانچر",
+        "date": 1783566241,
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
+        "id": "Nzo2ZDA3MGZlNjRmZTA",
+        "publicId": "Nzo2ZDA3MGZlNjRmZTA",
+        "sourceId": "6d070fe64fe0",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.712Z",
+        "updatedAt": "2026-07-15T01:53:48.712Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.687164744231154,
+          27.20389105303552
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی",
+        "description": "فرماندهی انتظامی",
+        "date": 1783548680,
+        "city": "ايرانشهر",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MzpiZGU5ZWRhMGUzMTg",
+        "publicId": "MzpiZGU5ZWRhMGUzMTg",
+        "sourceId": "bde9eda0e318",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.800Z",
+        "updatedAt": "2026-07-15T01:53:48.800Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.283259711981316,
+          30.362173158763127
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج منطقه",
+        "date": 1783529569,
+        "city": "آبادان",
+        "province": "استان خوزستان",
+        "id": "MTphZGQ3MDliY2FkN2U",
+        "publicId": "MTphZGQ3MDliY2FkN2U",
+        "sourceId": "add709bcad7e",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.882Z",
+        "updatedAt": "2026-07-15T01:53:48.882Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.080716480522995,
+          27.142201877825826
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره زندان قدیم میناب",
+        "description": "اداره زندان قدیم میناب اداره حکومتی",
+        "date": 1783468324,
+        "city": "میناب",
+        "province": "استان هرمزگان",
+        "id": "MTc6YThiZmQxZjhjZDU3",
+        "publicId": "MTc6YThiZmQxZjhjZDU3",
+        "sourceId": "a8bfd1f8cd57",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:48.959Z",
+        "updatedAt": "2026-07-15T01:53:48.959Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93590,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.665994599535594,
+          32.00099856251259
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز بهداشت اردل",
+        "description": "بهداشت و درمان اردل",
+        "date": 1783419312,
+        "city": "اردل",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MzE6NWNmMzRhZThmNWVl",
+        "publicId": "MzE6NWNmMzRhZThmNWVl",
+        "sourceId": "5cf34ae8f5ee",
+        "layerId": 31,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.037Z",
+        "updatedAt": "2026-07-15T01:53:49.037Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93591,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.470679875553714,
+          34.07101066880074
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج امیرالمومنین سپاه",
+        "description": "پایگاه بسیج امیرالمومنین سپاه",
+        "date": 1783404248,
+        "city": "آران وبیدگل",
+        "province": "استان اصفهان",
+        "id": "MTpmZTFjYmUyZWMzOTU",
+        "publicId": "MTpmZTFjYmUyZWMzOTU",
+        "sourceId": "fe1cbe2ec395",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.117Z",
+        "updatedAt": "2026-07-15T01:53:49.117Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93592,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.81467336292806,
+          29.50075027607737
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه موشکی سپاه سلمان",
+        "description": "باند فرود بالگردها و محل نگهداری لانچرهای سپاه سلمان",
+        "date": 1783393491,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "Nzo5N2E1ZWIxYWYzZGQ",
+        "publicId": "Nzo5N2E1ZWIxYWYzZGQ",
+        "sourceId": "97a5eb1af3dd",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.192Z",
+        "updatedAt": "2026-07-15T01:53:49.192Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.833940891748,
+          29.483569049482554
+        ]
+      },
+      "properties": {
+        "name:fa": "دادگستری شهید نوری زاهدان",
+        "description": "دادگستری شهید نوری زاهدان",
+        "date": 1783393287,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MzQ6NDYyMmMzNzZiODU4",
+        "publicId": "MzQ6NDYyMmMzNzZiODU4",
+        "sourceId": "4622c376b858",
+        "layerId": 34,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.270Z",
+        "updatedAt": "2026-07-15T01:53:49.270Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.83863641528279,
+          29.48232745385998
+        ]
+      },
+      "properties": {
+        "name:fa": "زندان مرکزی زاهدان",
+        "description": "زندان مرکزی زاهدان زیر نظر اداره اطلاعات",
+        "date": 1783393127,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "NTo0NWIzZjczZDZmMTY",
+        "publicId": "NTo0NWIzZjczZDZmMTY",
+        "sourceId": "45b3f73d6f16",
+        "layerId": 5,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.356Z",
+        "updatedAt": "2026-07-15T01:53:49.356Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.91572726449752,
+          29.642530085732787
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مرزی سپاه لار",
+        "description": "پایگاه مرزی سپاه لار",
+        "date": 1783392782,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTI6MzExYzcxYmQzMTcx",
+        "publicId": "MTI6MzExYzcxYmQzMTcx",
+        "sourceId": "311c71bd3171",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.434Z",
+        "updatedAt": "2026-07-15T01:53:49.434Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93596,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.88089385838683,
+          29.480969855854966
+        ]
+      },
+      "properties": {
+        "name:fa": "منازل فرماندهان سپاه قدس",
+        "description": "منازل فرمانده هان ارشد سپاه قدس استان",
+        "date": 1783392205,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTI6ZWRmN2QwZTIwMmUz",
+        "publicId": "MTI6ZWRmN2QwZTIwMmUz",
+        "sourceId": "edf7d0e202e3",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.505Z",
+        "updatedAt": "2026-07-15T01:53:49.505Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.882689975323046,
+          29.47566360787647
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی مرزبانی استان",
+        "description": "فرماندهی مرزبانی استان",
+        "date": 1783392124,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MzpkMTM2NDY4NjBjNmI",
+        "publicId": "MzpkMTM2NDY4NjBjNmI",
+        "sourceId": "d13646860c6b",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.588Z",
+        "updatedAt": "2026-07-15T01:53:49.588Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.88692504638891,
+          29.475970272169576
+        ]
+      },
+      "properties": {
+        "name:fa": "بازداشتگاه وزارت اطلاعات",
+        "description": "مقر و بازداشتگاه وزارت اطلاعات",
+        "date": 1783392070,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "NToyYWEyOTFlMWUwNzI",
+        "publicId": "NToyYWEyOTFlMWUwNzI",
+        "sourceId": "2aa291e1e072",
+        "layerId": 5,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.662Z",
+        "updatedAt": "2026-07-15T01:53:49.662Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93599,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.86417069664566,
+          29.484435172141602
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد خبری اطلاعات سپاه",
+        "description": "ستاد خبری بسیج مردمی و عشایر(اطلاعات سپاه)",
+        "date": 1783391963,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MjplYzA2NGNjNmRhODE",
+        "publicId": "MjplYzA2NGNjNmRhODE",
+        "sourceId": "ec064cc6da81",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.742Z",
+        "updatedAt": "2026-07-15T01:53:49.742Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93600,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.866047743478845,
+          29.48471447184329
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد خبری اطلاعات",
+        "description": "ستاد خبری ۱۱۳ وزارت اطلاعات",
+        "date": 1783391879,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "Mjo5NTdkMTY3Y2Y3Zjg",
+        "publicId": "Mjo5NTdkMTY3Y2Y3Zjg",
+        "sourceId": "957d167cf7f8",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.816Z",
+        "updatedAt": "2026-07-15T01:53:49.816Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93601,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.89259213629572,
+          29.494974956602675
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه زاهدان",
+        "description": "پایگاه سپاه در زاهدان",
+        "date": 1783391555,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTI6NGJlZTdjN2UzODhj",
+        "publicId": "MTI6NGJlZTdjN2UzODhj",
+        "sourceId": "4bee7c7e388c",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.888Z",
+        "updatedAt": "2026-07-15T01:53:49.888Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.896889518016735,
+          29.485384716507767
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه نظامی سپاه",
+        "description": "پایگاه نظامی سپاه سرکوبگران اعتراضات",
+        "date": 1783391278,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTI6ZmM3MjJmNTQ0Nzgz",
+        "publicId": "MTI6ZmM3MjJmNTQ0Nzgz",
+        "sourceId": "fc722f544783",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.955Z",
+        "updatedAt": "2026-07-15T01:53:49.955Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.35378801257937,
+          29.077166123687363
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان حفاظت اطلاعات",
+        "description": "ساختمان حفاظت اطلاعات",
+        "date": 1783352986,
+        "city": "بم",
+        "province": "استان کرمان",
+        "id": "MjowM2I5MDk1N2IyYmY",
+        "publicId": "MjowM2I5MDk1N2IyYmY",
+        "sourceId": "03b90957b2bf",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.027Z",
+        "updatedAt": "2026-07-15T01:53:50.027Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.35228077309259,
+          29.07702231831638
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی و فرمانداری",
+        "description": "ساختمان فرمانداری و فرماندهی انتظامی",
+        "date": 1783352897,
+        "city": "بم",
+        "province": "استان کرمان",
+        "id": "Mzo5MmVmMzNjZDQ0YjE",
+        "publicId": "Mzo5MmVmMzNjZDQ0YjE",
+        "sourceId": "92ef33cd44b1",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.095Z",
+        "updatedAt": "2026-07-15T01:53:50.095Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.326853791393376,
+          33.214810759904054
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "اطلاعات سپاه",
+        "date": 1783347374,
+        "city": "خوانسار",
+        "province": "استان اصفهان",
+        "id": "MjoxOGY4ZmNhMzlhNTA",
+        "publicId": "MjoxOGY4ZmNhMzlhNTA",
+        "sourceId": "18f8fca39a50",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.163Z",
+        "updatedAt": "2026-07-15T01:53:50.163Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.98827369759542,
+          35.86756465408355
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز یگان ویژه سپاه",
+        "description": "مرکز یگان ویژه موتوری سپاه",
+        "date": 1783267924,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MTI6YmFlYTBjZDdhMWRm",
+        "publicId": "MTI6YmFlYTBjZDdhMWRm",
+        "sourceId": "baea0cd7a1df",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.268Z",
+        "updatedAt": "2026-07-15T01:53:50.268Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93607,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.98182389151367,
+          35.86456967118582
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهرک سپهر",
+        "description": "پایگاه بسیج شهرک سپهر",
+        "date": 1783267836,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MTo5NzcwZDU2Mzg5MTI",
+        "publicId": "MTo5NzcwZDU2Mzg5MTI",
+        "sourceId": "9770d5638912",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.338Z",
+        "updatedAt": "2026-07-15T01:53:50.338Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.326851273197775,
+          33.21481421092474
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان اطلاعات خوانسار",
+        "description": "ساختمان سازپان اطلاعات خوانسار",
+        "date": 1783254824,
+        "city": "خوانسار",
+        "province": "استان اصفهان",
+        "id": "MjpmMDA2NmQxMGQ2MTI",
+        "publicId": "MjpmMDA2NmQxMGQ2MTI",
+        "sourceId": "f0066d10d612",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.407Z",
+        "updatedAt": "2026-07-15T01:53:50.407Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.882033172550535,
+          27.550426649921434
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه شهرستان مهر",
+        "description": "سپاه شهرستان مهر",
+        "date": 1783246461,
+        "city": "مهر",
+        "province": "استان فارس",
+        "id": "MTI6NDc4ZGMzNTJhYzQ5",
+        "publicId": "MTI6NDc4ZGMzNTJhYzQ5",
+        "sourceId": "478dc352ac49",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.478Z",
+        "updatedAt": "2026-07-15T01:53:50.478Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.839508358565155,
+          31.531183295864523
+        ]
+      },
+      "properties": {
+        "name:fa": "قرارگاه سازندگی خاتم‌الانبیا سپاه",
+        "description": "قرارگاه سازندگی خاتم‌الانبیا سپاه پاسداران",
+        "date": 1783228420,
+        "city": "شهرستان لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTI6NGEyNGE1OGI2NGM0",
+        "publicId": "MTI6NGEyNGE1OGI2NGM0",
+        "sourceId": "4a24a58b64c4",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.547Z",
+        "updatedAt": "2026-07-15T01:53:50.547Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.460166211211344,
+          35.80422958886544
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه",
+        "description": "پایگاه سپاه",
+        "date": 1783191873,
+        "city": "تجریش",
+        "province": "استان تهران",
+        "id": "MTI6ZTExNjYzMmU1YWU4",
+        "publicId": "MTI6ZTExNjYzMmU1YWU4",
+        "sourceId": "e116632e5ae8",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.629Z",
+        "updatedAt": "2026-07-15T01:53:50.629Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.63151619981312,
+          31.532728608971922
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه منج",
+        "description": "پاسگاه منج",
+        "date": 1783183495,
+        "city": "منج",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "Mzo0YmRiOTdkYWM3Yzc",
+        "publicId": "Mzo0YmRiOTdkYWM3Yzc",
+        "sourceId": "4bdb97dac7c7",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.697Z",
+        "updatedAt": "2026-07-15T01:53:50.697Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.824579712551184,
+          31.518273420402252
+        ]
+      },
+      "properties": {
+        "name:fa": "راهور شهرستان لردگان",
+        "description": "راهور شهرستان لردگان",
+        "date": 1783183312,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MzpiNDRjMWU3NTFjNWY",
+        "publicId": "MzpiNDRjMWU3NTFjNWY",
+        "sourceId": "b44c1e751c5f",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.770Z",
+        "updatedAt": "2026-07-15T01:53:50.770Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93614,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.322268,
+          35.700657
+        ]
+      },
+      "properties": {
+        "name:fa": "مجتمع سپاه غدیر",
+        "description": "مجتمع غدیر وابسته به سپاه پاسداران ، در اینجا حرکات مشکوک دیده می‌شود حتی ورود گوشی و لپ تاپ هم ممنوع است",
+        "date": 1783179886,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTI6ODFiYTdhOGVlMGU0",
+        "publicId": "MTI6ODFiYTdhOGVlMGU0",
+        "sourceId": "81ba7a8ee0e4",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.841Z",
+        "updatedAt": "2026-07-15T01:53:50.841Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93615,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.327703,
+          35.700968
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز اطلاعات",
+        "description": "ساختمان کمیته امداد میباشد ولیکن با توجه به حجم سنگین دوربین ها در اطراف بیشتر نشان میدهد ساختمان مربوط به اطلاعات باشد",
+        "date": 1783179722,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MjpkMzk3ZjQxYzg4YTQ",
+        "publicId": "MjpkMzk3ZjQxYzg4YTQ",
+        "sourceId": "d397f41c88a4",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:50.909Z",
+        "updatedAt": "2026-07-15T01:53:50.909Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93616,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.869002225986264,
+          36.46653475627197
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری و مرکز فرماندهی",
+        "description": "شهرداری مرکز کنترل و پایش دوربین های امنیتی سطح شهر مرکز فرماندهی مقابله با اعتراضات",
+        "date": 1783163542,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MTc6YTcxNWMzNmU4Y2Iw",
+        "publicId": "MTc6YTcxNWMzNmU4Y2Iw",
+        "sourceId": "a715c36e8cb0",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.008Z",
+        "updatedAt": "2026-07-15T01:53:51.008Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93617,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.193626007862804,
+          30.558121227933086
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه",
+        "description": "پایگاه الکترونیک سپاه پاسداران",
+        "date": 1783146656,
+        "city": "بندر ماهشهر",
+        "province": "استان خوزستان",
+        "id": "MTI6OGVmOWEwNWViNTM5",
+        "publicId": "MTI6OGVmOWEwNWViNTM5",
+        "sourceId": "8ef9a05eb539",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.082Z",
+        "updatedAt": "2026-07-15T01:53:51.082Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.832577013807565,
+          31.51473371593447
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی سپاه لردگان",
+        "description": "این مکان در فرماندهی سپاه لردگان که موتور سیکلت هایی و لباس های ضد اشوب که در سرکوب مردم به کار میگیرن در اینجا نگهداری میکنن",
+        "date": 1783142906,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTI6YThiM2U4YzE4Y2I0",
+        "publicId": "MTI6YThiM2U4YzE4Y2I0",
+        "sourceId": "a8b3e8c18cb4",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.159Z",
+        "updatedAt": "2026-07-15T01:53:51.159Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83253265685707,
+          31.515074762736774
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی سپاه لردگان",
+        "description": "ساختمان بتنی ضد نفوذ و زیرزمینی با ضخامت بالا در حیاط فرماندهی سپاه لردگان. نمیدونم چی نگهداری میکنن.",
+        "date": 1783142815,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTI6NzMzYWE5NGNhY2Nm",
+        "publicId": "MTI6NzMzYWE5NGNhY2Nm",
+        "sourceId": "733aa94caccf",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.234Z",
+        "updatedAt": "2026-07-15T01:53:51.234Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93620,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.82987322871199,
+          31.513082276799594
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 11 لرگان",
+        "description": "کلانتری 11 لرگان",
+        "date": 1783141276,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "Mzo4Y2QzZDg5YjE0Njk",
+        "publicId": "Mzo4Y2QzZDg5YjE0Njk",
+        "sourceId": "8cd3d89b1469",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.313Z",
+        "updatedAt": "2026-07-15T01:53:51.313Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.82979934230755,
+          31.512818847138192
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس آگاهی",
+        "description": "پلیس اگاه مسئول شکنجه وحشیانه مردم",
+        "date": 1783141250,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "Mzo5M2JjYWJiNDBlYWE",
+        "publicId": "Mzo5M2JjYWJiNDBlYWE",
+        "sourceId": "93bcabb40eaa",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.404Z",
+        "updatedAt": "2026-07-15T01:53:51.404Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93622,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83033438708105,
+          31.51593392043904
+        ]
+      },
+      "properties": {
+        "name:fa": "فرمانداری لردگان",
+        "description": "فرمان داری لردگان که دستور حمله به مردم دادن",
+        "date": 1783141182,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTc6MjI5MDg5OWFiMTcy",
+        "publicId": "MTc6MjI5MDg5OWFiMTcy",
+        "sourceId": "2290899ab172",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.474Z",
+        "updatedAt": "2026-07-15T01:53:51.474Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.82452955473852,
+          31.51140274351725
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج ناحیه",
+        "description": "بسیج ناحیه",
+        "date": 1783141112,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTphZTBhYzI1MDczN2U",
+        "publicId": "MTphZTBhYzI1MDczN2U",
+        "sourceId": "ae0ac250737e",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.553Z",
+        "updatedAt": "2026-07-15T01:53:51.553Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83672794581972,
+          31.520586281082416
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی لردگان",
+        "description": "فرماندهی انتظامی لردگان مرکز جمع شدن یگان ویژ برای سرکوب و نیروی سرکوب انتظامی که باعث جاوید نام شدن چندین نفر از مردم لرگان شدن",
+        "date": 1783141048,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MzpiY2YzMzE1NGI0ZGE",
+        "publicId": "MzpiY2YzMzE1NGI0ZGE",
+        "sourceId": "bcf33154b4da",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.627Z",
+        "updatedAt": "2026-07-15T01:53:51.627Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93625,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83192309264848,
+          31.514927430168612
+        ]
+      },
+      "properties": {
+        "name:fa": "اسلحه خانه سپاه",
+        "description": "اسلحه خونه سپاه",
+        "date": 1783140900,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTI6NDZhMThjNDEyZjc1",
+        "publicId": "MTI6NDZhMThjNDEyZjc1",
+        "sourceId": "46a18c412f75",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.692Z",
+        "updatedAt": "2026-07-15T01:53:51.692Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93626,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8321273516153,
+          31.515139610047598
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی سپاه لردگان",
+        "description": "فرماندهی سپها لردگان مرکز اسلحه سپاه و ادوات سنگین ماشین های زرهی برای سرکوب در اینجا جمع میشدن و خودشون همشه دوتا ماشین سرکوب اینجا دارن",
+        "date": 1783140881,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTI6ZmY1NjliN2IwOGJl",
+        "publicId": "MTI6ZmY1NjliN2IwOGJl",
+        "sourceId": "ff569b7b08be",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.761Z",
+        "updatedAt": "2026-07-15T01:53:51.761Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.829052015801295,
+          31.51539890952691
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات شهرستان لردگان",
+        "description": "اطلاعات شهرستان لردگان وابسته به وزارت اطلاعات",
+        "date": 1783140682,
+        "city": "لردگان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MjpkYWNlOWE4NWIyMTQ",
+        "publicId": "MjpkYWNlOWE4NWIyMTQ",
+        "sourceId": "dace9a85b214",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.828Z",
+        "updatedAt": "2026-07-15T01:53:51.828Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93628,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.624550634498945,
+          36.25741353927525
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج پایگاه چهاردهم شکاری",
+        "description": "بسیج 62 دوربین مداربسته پایگاه چهاردهم شکاری",
+        "date": 1783092237,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTpiNGIzNTRkZWJlYzc",
+        "publicId": "MTpiNGIzNTRkZWJlYzc",
+        "sourceId": "b4b354debec7",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.896Z",
+        "updatedAt": "2026-07-15T01:53:51.896Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.04241979322623,
+          35.69038006378699
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج جیلارد",
+        "description": "پایگاه سرکوب بسیج محله جیلارد",
+        "date": 1783089887,
+        "city": "دماوند",
+        "province": "استان تهران",
+        "id": "MTozZjU1OGZlNDliOGU",
+        "publicId": "MTozZjU1OGZlNDliOGU",
+        "sourceId": "3f558fe49b8e",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.972Z",
+        "updatedAt": "2026-07-15T01:53:51.972Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93630,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.262178,
+          35.712972
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز پهپادسازی سپاه",
+        "description": "مرکز پردیس شهید مقدم پهپاد سازی سپاه",
+        "date": 1783078369,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTA6ZjY5ZjExN2I0MTNk",
+        "publicId": "MTA6ZjY5ZjExN2I0MTNk",
+        "sourceId": "f69f117b413d",
+        "layerId": 10,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.048Z",
+        "updatedAt": "2026-07-15T01:53:52.048Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35419062036192,
+          33.4817614781814
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر موشکی سپاه",
+        "description": "اینجا محل قرارگیری لانچر موشکی هست ، پادگان امام حسین سپاه معروف به سپاه حضرت ابوالفضل. تقریبا چند روز پیش باز هم درش لانچر سپاه دیده شد ، مرکز اصلی سرکوب در استان لرستان",
+        "date": 1783066133,
+        "city": "خرم آباد",
+        "province": "استان لرستان",
+        "id": "NzpiNWNlZmZjNDgxNTU",
+        "publicId": "NzpiNWNlZmZjNDgxNTU",
+        "sourceId": "b5ceffc48155",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.117Z",
+        "updatedAt": "2026-07-15T01:53:52.117Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.83998292496926,
+          36.467538497046405
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "در این محدوده پایگاه بسیج مخفی ویژه سرکوب ساماندهی و آموزش داده شده است دارای انبار مهمات و انواع سلاح ها و تجهیزات ویژه برای سرکوب",
+        "date": 1783063691,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MToyMmFhNTVmYjczNjY",
+        "publicId": "MToyMmFhNTVmYjczNjY",
+        "sourceId": "22aa55fb7366",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.206Z",
+        "updatedAt": "2026-07-15T01:53:52.206Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.85146908982418,
+          36.46537953070349
+        ]
+      },
+      "properties": {
+        "name:fa": "سه دوربین",
+        "description": "سه تا دوربین کنار هم هست که به هر طرف خیابون ها دید کامل داره",
+        "date": 1783063167,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MjA6ODZjMWNkMzZjMjI2",
+        "publicId": "MjA6ODZjMWNkMzZjMjI2",
+        "sourceId": "86c1cd36c226",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.287Z",
+        "updatedAt": "2026-07-15T01:53:52.287Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.85780820652542,
+          36.46367134310252
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل امنیتی",
+        "description": "دوربین کنترل امنیتی",
+        "date": 1783063062,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MjA6MzUzNzBjODgzMzdh",
+        "publicId": "MjA6MzUzNzBjODgzMzdh",
+        "sourceId": "35370c88337a",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.371Z",
+        "updatedAt": "2026-07-15T01:53:52.371Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.87469682351576,
+          36.47018598280022
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل امنیتی",
+        "description": "دوربین کنترل امنیتی",
+        "date": 1783062994,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MjA6ZjBjMGI1NGM3ODNj",
+        "publicId": "MjA6ZjBjMGI1NGM3ODNj",
+        "sourceId": "f0c0b54c783c",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.443Z",
+        "updatedAt": "2026-07-15T01:53:52.443Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93636,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.874237774863985,
+          36.47035119763153
+        ]
+      },
+      "properties": {
+        "name:fa": "فرمانداری",
+        "description": "فرمانداری",
+        "date": 1783062930,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MTc6OTYwYmM1MGRkMDBk",
+        "publicId": "MTc6OTYwYmM1MGRkMDBk",
+        "sourceId": "960bc50dd00d",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.510Z",
+        "updatedAt": "2026-07-15T01:53:52.510Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.856419488998995,
+          36.4641981932774
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل امنیتی",
+        "description": "دوربین مخفی کنترل امنیتی (جدیدا وصل شده و بالای چراغ راهنمایی مخفی شده)",
+        "date": 1783062264,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MjA6ZGFlOWQ1ZmVmODdh",
+        "publicId": "MjA6ZGFlOWQ1ZmVmODdh",
+        "sourceId": "dae9d5fef87a",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.586Z",
+        "updatedAt": "2026-07-15T01:53:52.586Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.857857431473775,
+          36.463667370353264
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین کنترل امنیتی",
+        "date": 1783062201,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MjA6NTZkNjlkMDU5NDkz",
+        "publicId": "MjA6NTZkNjlkMDU5NDkz",
+        "sourceId": "56d69d059493",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.661Z",
+        "updatedAt": "2026-07-15T01:53:52.661Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62531214642942,
+          36.32612360896064
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد هفت و دو تن",
+        "description": "مسجد هفت و دو تن",
+        "date": 1783027213,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "NDozNTEwNzQxYTlhNjM",
+        "publicId": "NDozNTEwNzQxYTlhNjM",
+        "sourceId": "3510741a9a63",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.731Z",
+        "updatedAt": "2026-07-15T01:53:52.731Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93640,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6233022923461,
+          36.25396978377488
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی شمال شرق",
+        "description": "24 اسفند 1404 ترابری پدافند هوایی شمال شرق",
+        "date": 1783026718,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "ODo4ZDJkYjZiNTRiMTY",
+        "publicId": "ODo4ZDJkYjZiNTRiMTY",
+        "sourceId": "8d2db6b54b16",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.800Z",
+        "updatedAt": "2026-07-15T01:53:52.800Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93641,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.621718099157164,
+          36.25396565015086
+        ]
+      },
+      "properties": {
+        "name:fa": "پمپ بنزین پدافند هوایی",
+        "description": "پمپ بنزین پدافند هوایی شمال شرق",
+        "date": 1783026665,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "ODo5ZmI1MmNkNDc2M2Q",
+        "publicId": "ODo5ZmI1MmNkNDc2M2Q",
+        "sourceId": "9fb52cd4763d",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.869Z",
+        "updatedAt": "2026-07-15T01:53:52.869Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.620570810190486,
+          36.255029683380414
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد پدافند هوایی مشهد",
+        "description": "ستاد گروه پدافند هوایی مشهد",
+        "date": 1783026466,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "ODo1OGRiNzFjZjk2NjI",
+        "publicId": "ODo1OGRiNzFjZjk2NjI",
+        "sourceId": "58db71cf9662",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:52.938Z",
+        "updatedAt": "2026-07-15T01:53:52.938Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63031232349118,
+          36.25489060633336
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی مشهد",
+        "description": "گردان مختلط گروه پدافند هوایی مشهد",
+        "date": 1783026198,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "ODphM2I2NWZhYzUyODA",
+        "publicId": "ODphM2I2NWZhYzUyODA",
+        "sourceId": "a3b65fac5280",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:53.005Z",
+        "updatedAt": "2026-07-15T01:53:53.005Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93644,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.39583931121288,
+          35.584723940152045
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز سرکوب سپاه",
+        "description": "مقر اصلی و مرکز اصلی سرکوب سپاه؛ نیروهای سرکوبگر برای اذان مغرب در اینجا جمع می‌شوند.",
+        "date": 1783026027,
+        "city": "سمنان",
+        "province": "استان سمنان",
+        "id": "MTI6ZDIzZDBmNjRhM2Zk",
+        "publicId": "MTI6ZDIzZDBmNjRhM2Zk",
+        "sourceId": "d23d0f64a3fd",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:53.071Z",
+        "updatedAt": "2026-07-15T01:53:53.071Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.02916378919866,
+          35.62718059576926
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج امام حسین",
+        "description": "پایگاه بسیج، مسجد امام حسین",
+        "date": 1781301564,
+        "city": "شهریار",
+        "province": "استان تهران",
+        "id": "MTpjODRkYjAwZDkwNDE",
+        "publicId": "MTpjODRkYjAwZDkwNDE",
+        "sourceId": "c84db00d9041",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:53.139Z",
+        "updatedAt": "2026-07-15T01:53:53.139Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2901,
+    "total": 3058,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

@@ -9724,10 +9724,68 @@
         "createdAt": "2026-06-02T08:39:31.961Z",
         "updatedAt": "2026-06-02T08:39:31.961Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.83863641528279,
+          29.48232745385998
+        ]
+      },
+      "properties": {
+        "name:fa": "زندان مرکزی زاهدان",
+        "description": "زندان مرکزی زاهدان زیر نظر اداره اطلاعات",
+        "date": 1783393127,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "NTo0NWIzZjczZDZmMTY",
+        "publicId": "NTo0NWIzZjczZDZmMTY",
+        "sourceId": "45b3f73d6f16",
+        "layerId": 5,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.356Z",
+        "updatedAt": "2026-07-15T01:53:49.356Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.88692504638891,
+          29.475970272169576
+        ]
+      },
+      "properties": {
+        "name:fa": "بازداشتگاه وزارت اطلاعات",
+        "description": "مقر و بازداشتگاه وزارت اطلاعات",
+        "date": 1783392070,
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "NToyYWEyOTFlMWUwNzI",
+        "publicId": "NToyYWEyOTFlMWUwNzI",
+        "sourceId": "2aa291e1e072",
+        "layerId": 5,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:49.662Z",
+        "updatedAt": "2026-07-15T01:53:49.662Z"
+      }
     }
   ],
   "metadata": {
-    "total": 181,
+    "total": 183,
     "layerId": 5,
     "clustered": false,
     "simplified": false

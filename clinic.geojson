@@ -134903,10 +134903,39 @@
         "createdAt": "2026-03-05T19:40:33.297Z",
         "updatedAt": "2026-04-08T20:32:54.498Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70535956772369,
+          37.427790079872054
+        ]
+      },
+      "properties": {
+        "name:fa": "کلینیک کوثر نیروی انتظامی",
+        "description": "کلینیک کوثر نیروی انتظامی",
+        "date": 1783672777,
+        "city": "میانه",
+        "province": "استان آذربایجان شرقی",
+        "id": "MjM6MWU0ZGFhOTZiNjM4",
+        "publicId": "MjM6MWU0ZGFhOTZiNjM4",
+        "sourceId": "1e4daa96b638",
+        "layerId": 23,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:45.869Z",
+        "updatedAt": "2026-07-15T01:53:45.869Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5395,
+    "total": 5396,
     "layerId": 23,
     "clustered": false,
     "simplified": false
