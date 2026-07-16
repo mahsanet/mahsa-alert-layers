@@ -42239,10 +42239,41 @@
         "createdAt": "2026-06-26T18:32:55.788Z",
         "updatedAt": "2026-06-26T18:32:55.788Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.290856023998,
+          32.674376696289784
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان امام صادق",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان نجف آباد",
+        "province": "استان اصفهان",
+        "id": "MTE6ZDc4YTYxZDk1MDZi",
+        "publicId": "MTE6ZDc4YTYxZDk1MDZi",
+        "sourceId": "d78a61d9506b",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-16T00:03:40.818Z",
+        "updatedAt": "2026-07-16T00:03:40.818Z"
+      }
     }
   ],
   "metadata": {
-    "total": 374,
+    "total": 375,
     "layerId": 11,
     "clustered": false,
     "simplified": false

@@ -700,39 +700,10 @@
         "createdAt": "2026-03-31T02:35:38.387Z",
         "updatedAt": "2026-03-31T02:53:05.642Z"
       }
-    },
-    {
-      "type": "Feature",
-      "id": 93511,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.05553720491724,
-          37.531007720413896
-        ]
-      },
-      "properties": {
-        "name:fa": "هشدار تخلیه",
-        "description": "هشدار تخلیه",
-        "date": 1783971263,
-        "city": "ارومیه",
-        "province": "استان آذربایجان غربی",
-        "id": "MzM6Y2VlZWUxNjA5YzM2",
-        "publicId": "MzM6Y2VlZWUxNjA5YzM2",
-        "sourceId": "ceeee1609c36",
-        "layerId": 33,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-15T01:53:43.345Z",
-        "updatedAt": "2026-07-15T01:53:43.345Z"
-      }
     }
   ],
   "metadata": {
-    "total": 11,
+    "total": 10,
     "layerId": 33,
     "clustered": false,
     "simplified": false

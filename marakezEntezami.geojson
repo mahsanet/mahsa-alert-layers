@@ -157760,35 +157760,6 @@
     },
     {
       "type": "Feature",
-      "id": 93531,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.700049341578335,
-          37.44356965260593
-        ]
-      },
-      "properties": {
-        "name:fa": "یگان امداد میانه",
-        "description": "یگان امداد میانه نیروی انتظامی",
-        "date": 1783817540,
-        "city": "میانه",
-        "province": "استان آذربایجان شرقی",
-        "id": "Mzo4ZmM0ZDIxNGNiNjc",
-        "publicId": "Mzo4ZmM0ZDIxNGNiNjc",
-        "sourceId": "8fc4d214cb67",
-        "layerId": 3,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-15T01:53:44.787Z",
-        "updatedAt": "2026-07-15T01:53:44.787Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93537,
       "geometry": {
         "type": "Point",
@@ -158456,7 +158427,7 @@
     }
   ],
   "metadata": {
-    "total": 6057,
+    "total": 6056,
     "layerId": 3,
     "clustered": false,
     "simplified": false

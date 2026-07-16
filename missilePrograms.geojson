@@ -15192,10 +15192,41 @@
         "createdAt": "2026-07-15T01:53:52.117Z",
         "updatedAt": "2026-07-15T01:53:52.117Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.64562015235424,
+          35.985732987995846
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "۸ موشک شلیک شده در دو مرحله",
+        "date": 1783629779,
+        "city": "شهرستان نظرآباد",
+        "province": "استان البرز",
+        "id": "NzoxMTUyOWNhODAzNGY",
+        "publicId": "NzoxMTUyOWNhODAzNGY",
+        "sourceId": "11529ca8034f",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-16T00:35:22.096Z",
+        "updatedAt": "2026-07-16T00:35:22.096Z"
+      }
     }
   ],
   "metadata": {
-    "total": 133,
+    "total": 134,
     "layerId": 7,
     "clustered": false,
     "simplified": false

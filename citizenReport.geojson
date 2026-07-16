@@ -84433,7 +84433,7 @@
       },
       "properties": {
         "status": "active",
-        "name:fa": "پایگاه بوشهر",
+        "name:fa": "پایگاه هوایی",
         "unofficial_name:fa": "",
         "date": 1783665000,
         "geolocates": "",
@@ -84450,7 +84450,7 @@
         "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-07-12T22:39:17.155Z",
-        "updatedAt": "2026-07-12T22:39:17.155Z"
+        "updatedAt": "2026-07-15T23:02:15.773Z"
       }
     },
     {
@@ -86259,35 +86259,6 @@
     },
     {
       "type": "Feature",
-      "id": 93511,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.05553720491724,
-          37.531007720413896
-        ]
-      },
-      "properties": {
-        "name:fa": "هشدار تخلیه",
-        "description": "هشدار تخلیه",
-        "date": 1783971263,
-        "city": "ارومیه",
-        "province": "استان آذربایجان غربی",
-        "id": "MzM6Y2VlZWUxNjA5YzM2",
-        "publicId": "MzM6Y2VlZWUxNjA5YzM2",
-        "sourceId": "ceeee1609c36",
-        "layerId": 33,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-15T01:53:43.345Z",
-        "updatedAt": "2026-07-15T01:53:43.345Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93512,
       "geometry": {
         "type": "Point",
@@ -86835,35 +86806,6 @@
         "expirationDate": null,
         "createdAt": "2026-07-15T01:53:44.716Z",
         "updatedAt": "2026-07-15T01:53:44.716Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 93531,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.700049341578335,
-          37.44356965260593
-        ]
-      },
-      "properties": {
-        "name:fa": "یگان امداد میانه",
-        "description": "یگان امداد میانه نیروی انتظامی",
-        "date": 1783817540,
-        "city": "میانه",
-        "province": "استان آذربایجان شرقی",
-        "id": "Mzo4ZmM0ZDIxNGNiNjc",
-        "publicId": "Mzo4ZmM0ZDIxNGNiNjc",
-        "sourceId": "8fc4d214cb67",
-        "layerId": 3,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-15T01:53:44.787Z",
-        "updatedAt": "2026-07-15T01:53:44.787Z"
       }
     },
     {
@@ -90084,10 +90026,649 @@
         "createdAt": "2026-07-15T01:53:53.139Z",
         "updatedAt": "2026-07-15T01:53:53.139Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.62479837132153,
+          25.314438728264477
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انبار مهمات",
+        "unofficial_name:fa": "",
+        "date": 1784080800,
+        "geolocates": "",
+        "description": "",
+        "city": "چابهار",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://x.com/zarGEOINT/status/2077260247513583668",
+        "id": "MzI6YzUxZTQ1OTE5YTQ1",
+        "publicId": "MzI6YzUxZTQ1OTE5YTQ1",
+        "sourceId": "c51e45919a45",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T05:40:17.975Z",
+        "updatedAt": "2026-07-15T05:40:17.975Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.21158878136137,
+          27.14064425290195
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "زیردریایی",
+        "unofficial_name:fa": "",
+        "date": 1783801800,
+        "geolocates": "",
+        "description": "",
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/zarGEOINT/status/2076683834448343063",
+        "id": "MzI6ZTE2NmVmMWU3MjI5",
+        "publicId": "MzI6ZTE2NmVmMWU3MjI5",
+        "sourceId": "e166ef1e7229",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T05:49:43.261Z",
+        "updatedAt": "2026-07-15T05:49:43.261Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.177580505353376,
+          34.435535659881126
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پایگاه هوایی",
+        "unofficial_name:fa": "",
+        "date": 1783888200,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان خنداب",
+        "province": "استان مرکزی",
+        "sources": "https://x.com/zarGEOINT/status/2076715381025046625",
+        "id": "MzI6N2U3YWE1MjE0ODA5",
+        "publicId": "MzI6N2U3YWE1MjE0ODA5",
+        "sourceId": "7e7aa5214809",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T05:54:37.208Z",
+        "updatedAt": "2026-07-15T19:58:55.665Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93649,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.846772610524056,
+          25.688333483593922
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شمال بندر",
+        "unofficial_name:fa": "",
+        "date": 1783801800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان جاسک",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/zarGEOINT/status/2076695862705619198",
+        "id": "MzI6YzRkODlmMTM1ODU3",
+        "publicId": "MzI6YzRkODlmMTM1ODU3",
+        "sourceId": "c4d89f135857",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T06:01:33.290Z",
+        "updatedAt": "2026-07-15T06:01:33.290Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93650,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.852725364418404,
+          25.684675711722534
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شمال بندر",
+        "unofficial_name:fa": "",
+        "date": 1783888200,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان جاسک",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/zarGEOINT/status/2076695862705619198",
+        "id": "MzI6ZGZiODAwZmYyYTdj",
+        "publicId": "MzI6ZGZiODAwZmYyYTdj",
+        "sourceId": "dfb800ff2a7c",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T06:02:41.094Z",
+        "updatedAt": "2026-07-15T06:02:41.094Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93651,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.68682032739437,
+          30.73910223629781
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "آشیانه هواپیما",
+        "unofficial_name:fa": "",
+        "date": 1783801800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان امیدیه",
+        "province": "استان خوزستان",
+        "sources": "https://x.com/zarGEOINT/status/2076524198701277545",
+        "id": "MzI6M2EzMThiOTY0NmRh",
+        "publicId": "MzI6M2EzMThiOTY0NmRh",
+        "sourceId": "3a318b9646da",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T06:07:44.753Z",
+        "updatedAt": "2026-07-15T06:07:44.753Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93652,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.921775336015884,
+          27.830697254856986
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انبار مهمات",
+        "unofficial_name:fa": "",
+        "date": 1783801800,
+        "geolocates": "",
+        "description": "",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/zarGEOINT/status/2076321592057954701",
+        "id": "MzI6ZmZkY2NjNjA1YmUy",
+        "publicId": "MzI6ZmZkY2NjNjA1YmUy",
+        "sourceId": "ffdccc605be2",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T06:14:35.832Z",
+        "updatedAt": "2026-07-15T06:14:35.832Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93653,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.980232458877396,
+          28.96488020670762
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پایگاه موشکی",
+        "unofficial_name:fa": "",
+        "date": 1783801800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "sources": "https://x.com/zarGEOINT/status/2076312004336230875",
+        "id": "MzI6Njc0NWJiNmVkNzA5",
+        "publicId": "MzI6Njc0NWJiNmVkNzA5",
+        "sourceId": "6745bb6ed709",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T06:44:42.181Z",
+        "updatedAt": "2026-07-15T06:44:42.181Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9967183294996,
+          28.96770697445035
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پایگاه موشکی",
+        "unofficial_name:fa": "",
+        "date": 1783801800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "sources": "https://x.com/zarGEOINT/status/2076312004336230875",
+        "id": "MzI6OWI1OTJlZjMzYjYz",
+        "publicId": "MzI6OWI1OTJlZjMzYjYz",
+        "sourceId": "9b592ef33b63",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T06:45:22.858Z",
+        "updatedAt": "2026-07-15T06:45:22.858Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.99470670552071,
+          28.97246346537861
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پایگاه موشکی",
+        "unofficial_name:fa": "",
+        "date": 1783801800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "sources": "https://x.com/zarGEOINT/status/2076312004336230875",
+        "id": "MzI6Nzk0ODBiZTM1YTA0",
+        "publicId": "MzI6Nzk0ODBiZTM1YTA0",
+        "sourceId": "79480be35a04",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T06:46:17.033Z",
+        "updatedAt": "2026-07-15T06:46:17.033Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93656,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.99381015597069,
+          28.97872978394099
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "باند پرواز",
+        "unofficial_name:fa": "",
+        "date": 1783801800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "sources": "https://x.com/zarGEOINT/status/2076315966045110744",
+        "id": "MzI6ZDllMGM0YTJhMjZk",
+        "publicId": "MzI6ZDllMGM0YTJhMjZk",
+        "sourceId": "d9e0c4a2a26d",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T06:47:46.880Z",
+        "updatedAt": "2026-07-15T06:47:46.880Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.490083470821105,
+          27.25322233799828
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پایگاه تیپ ۳۸۸",
+        "unofficial_name:fa": "",
+        "date": 1784061000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان ایرانشهر",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://x.com/zarGEOINT/status/2077398313255469552",
+        "id": "MzI6ZGJjYjU3YWMzZGFk",
+        "publicId": "MzI6ZGJjYjU3YWMzZGFk",
+        "sourceId": "dbcb57ac3dad",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T20:42:08.929Z",
+        "updatedAt": "2026-07-15T20:42:08.929Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.314554179166635,
+          27.38885885302048
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پایگاه نظامی سپاه",
+        "unofficial_name:fa": "",
+        "date": 1784061000,
+        "geolocates": "",
+        "description": "",
+        "city": "سراوان",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://x.com/zarGEOINT/status/2077420226598010955",
+        "id": "MzI6NWFlNDgzZjEzNTc0",
+        "publicId": "MzI6NWFlNDgzZjEzNTc0",
+        "sourceId": "5ae483f13574",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T20:44:03.741Z",
+        "updatedAt": "2026-07-15T20:44:03.741Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.68862048185787,
+          25.277590389046352
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انبار روباز",
+        "unofficial_name:fa": "",
+        "date": 1784061000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان چابهار",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://x.com/zarGEOINT/status/2077489273062748369",
+        "id": "MzI6NDNkZDNhZWNhNmM0",
+        "publicId": "MzI6NDNkZDNhZWNhNmM0",
+        "sourceId": "43dd3aeca6c4",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T21:14:47.802Z",
+        "updatedAt": "2026-07-15T21:14:47.802Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.630782186985016,
+          27.205324133667176
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "سایت رادار بیرک",
+        "unofficial_name:fa": "",
+        "date": 1772224200,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان مهرستان",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://x.com/Goftaniha/status/2027679034583183743?s=20",
+        "id": "MzI6NGMzMTk1MWQzZTFk",
+        "publicId": "MzI6NGMzMTk1MWQzZTFk",
+        "sourceId": "4c31951d3e1d",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T23:42:25.057Z",
+        "updatedAt": "2026-07-15T23:43:37.618Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.294080056250095,
+          32.67288426729492
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله و انفجار در پادگان",
+        "unofficial_name:fa": "",
+        "date": 1784068932,
+        "geolocates": "",
+        "description": "نقطه‌ای در پادگان که در شب آخر آنچنان زدند که رسید به تونل‌های زیرزمینی و حدودا نزدیک ۳ ساعت دو نقطه از پادگان در حال سوختن و پوکیدن مهمات بود.",
+        "city": "شهرستان نجف آباد",
+        "province": "استان اصفهان",
+        "sources": "",
+        "id": "MzI6MGI2OGQ4NmVmZTI2",
+        "publicId": "MzI6MGI2OGQ4NmVmZTI2",
+        "sourceId": "0b68d86efe26",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-16T00:03:12.183Z",
+        "updatedAt": "2026-07-16T00:03:12.183Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.746505469083786,
+          34.08043105581591
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "صنایع آذراب",
+        "unofficial_name:fa": "",
+        "date": 1783857051,
+        "geolocates": "",
+        "description": "صنایع آذراب در روز ۱۷ فروردین ساعت ۲۳:۴۸ مورد اصابت چند بمب قرار گرفت",
+        "city": "اراک",
+        "province": "استان مرکزی",
+        "sources": "https://x.com/Vahid/status/2041637140753178640?s=20",
+        "id": "MzI6YzU0MTNjNzJmMWNi",
+        "publicId": "MzI6YzU0MTNjNzJmMWNi",
+        "sourceId": "c5413c72f1cb",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-16T00:27:34.939Z",
+        "updatedAt": "2026-07-16T00:27:34.939Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.616563111543655,
+          35.988336545378274
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "فرماندهی سپاه نظرآباد",
+        "unofficial_name:fa": "",
+        "date": 1781123400,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان نظرآباد",
+        "province": "استان البرز",
+        "sources": "",
+        "id": "MzI6YjAzZTRiNWVhYzc5",
+        "publicId": "MzI6YjAzZTRiNWVhYzc5",
+        "sourceId": "b03e4b5eac79",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-16T00:33:32.118Z",
+        "updatedAt": "2026-07-16T00:33:32.118Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.64562015235424,
+          35.985732987995846
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "۸ موشک شلیک شده در دو مرحله",
+        "date": 1783629779,
+        "city": "شهرستان نظرآباد",
+        "province": "استان البرز",
+        "id": "NzoxMTUyOWNhODAzNGY",
+        "publicId": "NzoxMTUyOWNhODAzNGY",
+        "sourceId": "11529ca8034f",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-16T00:35:22.096Z",
+        "updatedAt": "2026-07-16T00:35:22.096Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.13074101135135,
+          28.820346753829767
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اصابت به محل نگهداری تجهیزات سپاه",
+        "unofficial_name:fa": "",
+        "date": 1775248200,
+        "geolocates": "",
+        "description": "محل نگهداری تجهیزات جنگی سپاه پاسداران در سوله گندم در تاریخ ۱۵ فروردین ۱۴۰۵ ساعت ۲۰ مورد اصابت قرار گرفت.",
+        "city": "کنارمالک",
+        "province": "استان فارس",
+        "sources": "",
+        "id": "MzI6OGUzMzQwM2VmYzk0",
+        "publicId": "MzI6OGUzMzQwM2VmYzk0",
+        "sourceId": "8e33403efc94",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-16T01:03:04.379Z",
+        "updatedAt": "2026-07-16T01:03:04.379Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3058,
+    "total": 3076,
     "citizenReport": true,
     "clustered": false,
     "simplified": false
