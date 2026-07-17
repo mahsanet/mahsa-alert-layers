@@ -20695,24 +20695,24 @@
       },
       "properties": {
         "status": "active",
-        "name:fa": "انفجار در حوالی سمنان",
+        "name:fa": "انفجار در فرودگاه سمنان",
         "unofficial_name:fa": "",
         "date": 1784159100,
         "geolocates": "",
-        "description": "انفجار در حوالی سمنان",
+        "description": "انفجار در بخش‌هایی از فرودگاه سمنان",
         "city": "شهرستان سمنان",
         "province": "استان سمنان",
-        "sources": "https://t.me/VahidOnline/77135",
+        "sources": "https://t.me/VahidOnline/77135, https://t.me/Saberin_ir/65284",
         "id": "MzI6MWEzMWVjYzUwMDll",
         "publicId": "MzI6MWEzMWVjYzUwMDll",
         "sourceId": "1a31ecc5009e",
         "layerId": 32,
-        "type": "event",
+        "type": "location",
         "urgency": null,
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-07-16T00:12:36.414Z",
-        "updatedAt": "2026-07-16T01:59:57.653Z"
+        "updatedAt": "2026-07-16T02:01:53.396Z"
       }
     },
     {
@@ -20842,10 +20842,362 @@
         "createdAt": "2026-07-16T01:03:04.379Z",
         "updatedAt": "2026-07-16T01:03:04.379Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.22564329980506,
+          34.38751071626396
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار حوالی خنداب",
+        "unofficial_name:fa": "",
+        "date": 1784159400,
+        "geolocates": "",
+        "description": "انفجار حوالی خنداب",
+        "city": "شهرستان خنداب",
+        "province": "استان مرکزی",
+        "sources": "https://t.me/VahidOnline/77135",
+        "id": "MzI6N2ZkZDI5MzUyNDc0",
+        "publicId": "MzI6N2ZkZDI5MzUyNDc0",
+        "sourceId": "7fdd29352474",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-16T02:32:56.530Z",
+        "updatedAt": "2026-07-16T02:32:56.530Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.720280644067884,
+          27.228898377654943
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در فرودگاه ایرانشهر",
+        "unofficial_name:fa": "",
+        "date": 1783546200,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان ایرانشهر",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://t.me/roozArooz_media/40608",
+        "id": "MzI6ZGI3NmVkYWM3Yzg2",
+        "publicId": "MzI6ZGI3NmVkYWM3Yzg2",
+        "sourceId": "db76edac7c86",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-16T03:22:54.409Z",
+        "updatedAt": "2026-07-16T03:23:34.564Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.71797655396239,
+          35.192117161301425
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار حوالی کبودرآهنگ",
+        "unofficial_name:fa": "",
+        "date": 1784160000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "sources": "https://t.me/farsna/450347",
+        "id": "MzI6NDk1YTE4MzZhYTVm",
+        "publicId": "MzI6NDk1YTE4MzZhYTVm",
+        "sourceId": "495a1836aa5f",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-16T07:23:43.312Z",
+        "updatedAt": "2026-07-16T07:23:43.312Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.209862523028505,
+          27.145743320973153
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "بندر باهنر",
+        "unofficial_name:fa": "",
+        "date": 1784061000,
+        "geolocates": "",
+        "description": "",
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/zarGEOINT/status/2077777379489992978",
+        "id": "MzI6MzlmODE5ZTFkOWUy",
+        "publicId": "MzI6MzlmODE5ZTFkOWUy",
+        "sourceId": "39f819e1d9e2",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-16T20:08:46.923Z",
+        "updatedAt": "2026-07-16T20:08:46.923Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.209860203018735,
+          27.14515098866815
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "بندر باهنر",
+        "unofficial_name:fa": "",
+        "date": 1784061000,
+        "geolocates": "",
+        "description": "",
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/zarGEOINT/status/2077777379489992978",
+        "id": "MzI6MWUwOWFkODMyZmNi",
+        "publicId": "MzI6MWUwOWFkODMyZmNi",
+        "sourceId": "1e09ad832fcb",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-16T20:09:37.781Z",
+        "updatedAt": "2026-07-16T20:09:37.781Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.609975364416556,
+          27.193488907679864
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پل جاده لار-بندر لنگه",
+        "unofficial_name:fa": "",
+        "date": 1786825800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان خمیر",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/zarGEOINT/status/2077856172539875686?s=20",
+        "id": "MzI6MjMyOTY3MDExYzE2",
+        "publicId": "MzI6MjMyOTY3MDExYzE2",
+        "sourceId": "232967011c16",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-16T22:37:40.797Z",
+        "updatedAt": "2026-07-16T22:37:40.797Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4985912963748,
+          36.681851035226146
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "ترور هدفمند",
+        "unofficial_name:fa": "",
+        "date": 1774566000,
+        "geolocates": "",
+        "description": "",
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "sources": "",
+        "id": "MzI6NDNhNmNiMzg5MjJh",
+        "publicId": "MzI6NDNhNmNiMzg5MjJh",
+        "sourceId": "43a6cb38922a",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T01:14:17.968Z",
+        "updatedAt": "2026-07-17T01:14:17.968Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.57692939043045,
+          33.89022053382453
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "فرودگاه کاشان",
+        "unofficial_name:fa": "",
+        "date": 1775421000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان کاشان",
+        "province": "استان اصفهان",
+        "sources": "https://x.com/ManotoNews/status/2041269528017940822?s=20",
+        "id": "MzI6NjEwMWRlZWJiYmZm",
+        "publicId": "MzI6NjEwMWRlZWJiYmZm",
+        "sourceId": "6101deebbbff",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T01:19:08.798Z",
+        "updatedAt": "2026-07-17T01:19:08.798Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.136155635118484,
+          37.634711039463056
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تخریب سوله ها",
+        "unofficial_name:fa": "",
+        "date": 1775421000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان ارومیه",
+        "province": "استان آذربایجان غربی",
+        "sources": "",
+        "id": "MzI6NWI3NDU5NjNiMTNl",
+        "publicId": "MzI6NWI3NDU5NjNiMTNl",
+        "sourceId": "5b745963b13e",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T01:25:24.623Z",
+        "updatedAt": "2026-07-17T01:25:45.552Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.42640670285968,
+          37.004382404444
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پل‌ آق تکه خان",
+        "unofficial_name:fa": "",
+        "date": 1783283400,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان آق قلا",
+        "province": "استان گلستان",
+        "sources": "https://x.com/zarGEOINT/status/2075003601936593376?s=20",
+        "id": "MzI6MzgxNWQ0Y2Y0Zjdj",
+        "publicId": "MzI6MzgxNWQ0Y2Y0Zjdj",
+        "sourceId": "3815d4cf4f7c",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T01:48:32.737Z",
+        "updatedAt": "2026-07-17T01:48:59.785Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.625218719244,
+          31.412284878253104
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پایگاه ولیعصر",
+        "unofficial_name:fa": "",
+        "date": 1784232000,
+        "geolocates": "",
+        "description": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "sources": "",
+        "id": "MzI6OTNhMDlmNTdjZjQ0",
+        "publicId": "MzI6OTNhMDlmNTdjZjQ0",
+        "sourceId": "93a09f57cf44",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T01:51:47.779Z",
+        "updatedAt": "2026-07-17T01:51:47.779Z"
+      }
     }
   ],
   "metadata": {
-    "total": 669,
+    "total": 680,
     "layerId": 32,
     "clustered": false,
     "simplified": false

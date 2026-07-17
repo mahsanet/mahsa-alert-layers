@@ -54999,34 +54999,6 @@
     },
     {
       "type": "Feature",
-      "id": 90758,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.23963055162662,
-          30.606533616500073
-        ]
-      },
-      "properties": {
-        "date": 1771579111,
-        "name:fa": "سپاه",
-        "city": "بهبهان",
-        "province": "استان خوزستان",
-        "id": "MTI6YjViYjRjZDllNDVj",
-        "publicId": "MTI6YjViYjRjZDllNDVj",
-        "sourceId": "b5bb4cd9e45c",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-20T06:53:13.670Z",
-        "updatedAt": "2026-03-26T02:08:47.694Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 90759,
       "geometry": {
         "type": "Point",
@@ -57968,35 +57940,6 @@
         "expirationDate": null,
         "createdAt": "2026-02-21T20:00:17.002Z",
         "updatedAt": "2026-03-26T23:39:56.782Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 91406,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.239468018378204,
-          30.608278687729268
-        ]
-      },
-      "properties": {
-        "name:fa": "مرکز سپاه",
-        "description": "پادگان سپاه",
-        "date": 1771714225,
-        "city": "بهبهان",
-        "province": "استان خوزستان",
-        "id": "MTI6MGE5ZTg1NTg4YWMw",
-        "publicId": "MTI6MGE5ZTg1NTg4YWMw",
-        "sourceId": "0a9e85588ac0",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-02-21T22:50:25.178Z",
-        "updatedAt": "2026-03-26T23:39:56.842Z"
       }
     },
     {
@@ -68088,7 +68031,7 @@
     }
   ],
   "metadata": {
-    "total": 993,
+    "total": 991,
     "layerId": 12,
     "clustered": false,
     "simplified": false

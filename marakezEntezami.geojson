@@ -75265,32 +75265,6 @@
     },
     {
       "type": "Feature",
-      "id": 86989,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.6537211,
-          31.9953655
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NDQ4NA",
-        "name:fa": "نیروی انتظامی",
-        "osm_id": "",
-        "publicId": "Mzo2NDQ4NA",
-        "sourceId": "64484",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.006Z",
-        "updatedAt": "2026-03-13T04:41:07.006Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 86990,
       "geometry": {
         "type": "Point",
@@ -158427,7 +158401,7 @@
     }
   ],
   "metadata": {
-    "total": 6056,
+    "total": 6055,
     "layerId": 3,
     "clustered": false,
     "simplified": false
