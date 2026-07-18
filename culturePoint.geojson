@@ -77628,10 +77628,39 @@
         "createdAt": "2026-07-15T01:53:52.510Z",
         "updatedAt": "2026-07-15T01:53:52.510Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.80187344830995,
+          32.2277539962558
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر امام جمعه هفشجان",
+        "description": "دفتر امام جمعه هفشجان",
+        "date": 1784276004,
+        "city": "هفشجان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTc6M2VlNTBiZDExNmVi",
+        "publicId": "MTc6M2VlNTBiZDExNmVi",
+        "sourceId": "3ee50bd116eb",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:05.206Z",
+        "updatedAt": "2026-07-17T21:36:05.206Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2335,
+    "total": 2336,
     "layerId": 17,
     "clustered": false,
     "simplified": false

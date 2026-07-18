@@ -20316,8 +20316,8 @@
         "date": 1783801800,
         "geolocates": "",
         "description": "",
-        "city": "",
-        "province": "",
+        "city": "شهرستان جم",
+        "province": "استان بوشهر",
         "sources": "https://x.com/zarGEOINT/status/2076321592057954701",
         "id": "MzI6ZmZkY2NjNjA1YmUy",
         "publicId": "MzI6ZmZkY2NjNjA1YmUy",
@@ -20328,7 +20328,7 @@
         "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-07-15T06:14:35.832Z",
-        "updatedAt": "2026-07-15T06:14:35.832Z"
+        "updatedAt": "2026-07-17T05:34:13.798Z"
       }
     },
     {
@@ -20702,7 +20702,7 @@
         "description": "انفجار در بخش‌هایی از فرودگاه سمنان",
         "city": "شهرستان سمنان",
         "province": "استان سمنان",
-        "sources": "https://t.me/VahidOnline/77135, https://t.me/Saberin_ir/65284",
+        "sources": "https://t.me/VahidOnline/77135, https://t.me/Saberin_ir/65284, https://x.com/BenTzionMacales/status/2078109449273688391?s=20",
         "id": "MzI6MWEzMWVjYzUwMDll",
         "publicId": "MzI6MWEzMWVjYzUwMDll",
         "sourceId": "1a31ecc5009e",
@@ -20712,7 +20712,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-07-16T00:12:36.414Z",
-        "updatedAt": "2026-07-16T02:01:53.396Z"
+        "updatedAt": "2026-07-17T20:00:51.608Z"
       }
     },
     {
@@ -21015,14 +21015,14 @@
       },
       "properties": {
         "status": "active",
-        "name:fa": "پل جاده لار-بندر لنگه",
+        "name:fa": "پل جاده بندرعباس-لار",
         "unofficial_name:fa": "",
-        "date": 1786825800,
+        "date": 1784232000,
         "geolocates": "",
         "description": "",
         "city": "شهرستان خمیر",
         "province": "استان هرمزگان",
-        "sources": "https://x.com/zarGEOINT/status/2077856172539875686?s=20",
+        "sources": "https://x.com/zarGEOINT/status/2077856172539875686?s=20, https://x.com/Vahid/status/2077981502097252394?s=20",
         "id": "MzI6MjMyOTY3MDExYzE2",
         "publicId": "MzI6MjMyOTY3MDExYzE2",
         "sourceId": "232967011c16",
@@ -21032,7 +21032,7 @@
         "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-07-16T22:37:40.797Z",
-        "updatedAt": "2026-07-16T22:37:40.797Z"
+        "updatedAt": "2026-07-17T08:15:35.996Z"
       }
     },
     {
@@ -21194,10 +21194,1002 @@
         "createdAt": "2026-07-17T01:51:47.779Z",
         "updatedAt": "2026-07-17T01:51:47.779Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93682,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.65123212337494,
+          31.374771592182938
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پدافند هوایی",
+        "unofficial_name:fa": "",
+        "date": 1772239800,
+        "geolocates": "",
+        "description": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "sources": "",
+        "id": "MzI6YTJmYmU2Zjc0OTY3",
+        "publicId": "MzI6YTJmYmU2Zjc0OTY3",
+        "sourceId": "a2fbe6f74967",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T02:09:11.191Z",
+        "updatedAt": "2026-07-17T02:09:11.191Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.49412977695465,
+          34.765787417585415
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تالار جلسات سپاه",
+        "unofficial_name:fa": "",
+        "date": 1773568800,
+        "geolocates": "",
+        "description": "",
+        "city": "همدان",
+        "province": "استان همدان",
+        "sources": "",
+        "id": "MzI6OWE4MTNhNzBmMzRm",
+        "publicId": "MzI6OWE4MTNhNzBmMzRm",
+        "sourceId": "9a813a70f34f",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T05:18:40.916Z",
+        "updatedAt": "2026-07-17T05:18:40.916Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.227604811185415,
+          27.164908774020105
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به حوالی بندرعباس",
+        "unofficial_name:fa": "",
+        "date": 1784213400,
+        "geolocates": "",
+        "description": "",
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77153",
+        "id": "MzI6MDMyNzMxMjBkYjIz",
+        "publicId": "MzI6MDMyNzMxMjBkYjIz",
+        "sourceId": "03273120db23",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T07:23:40.868Z",
+        "updatedAt": "2026-07-17T07:26:31.566Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93700,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.22360502217418,
+          27.16273432015862
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به حوالی بندرعباس",
+        "unofficial_name:fa": "",
+        "date": 1784214600,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77153",
+        "id": "MzI6ZTJlNTFmOTdjN2I4",
+        "publicId": "MzI6ZTJlNTFmOTdjN2I4",
+        "sourceId": "e2e51f97c7b8",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T07:25:18.850Z",
+        "updatedAt": "2026-07-17T07:26:48.445Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93701,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.21441844172966,
+          26.96262701794973
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به حوالی قشم",
+        "unofficial_name:fa": "",
+        "date": 1784212800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77153",
+        "id": "MzI6NzE3ODJmNWZjMjZh",
+        "publicId": "MzI6NzE3ODJmNWZjMjZh",
+        "sourceId": "71782f5fc26a",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T07:27:39.933Z",
+        "updatedAt": "2026-07-17T07:27:39.933Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93702,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.216484452119204,
+          27.18208821171139
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی غرب بندرعباس",
+        "unofficial_name:fa": "",
+        "date": 1784225640,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77154",
+        "id": "MzI6ZTRmY2FmZDQ0MTdj",
+        "publicId": "MzI6ZTRmY2FmZDQ0MTdj",
+        "sourceId": "e4fcafd4417c",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T07:30:12.363Z",
+        "updatedAt": "2026-07-17T07:30:36.541Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93703,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.71660733930372,
+          31.32405740316696
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به اهواز",
+        "unofficial_name:fa": "",
+        "date": 1784228400,
+        "geolocates": "",
+        "description": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "sources": "https://t.me/VahidOnline/77156",
+        "id": "MzI6MjhiYzUxZmQ1ZTg4",
+        "publicId": "MzI6MjhiYzUxZmQ1ZTg4",
+        "sourceId": "28bc51fd5e88",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T07:33:01.179Z",
+        "updatedAt": "2026-07-17T07:33:01.179Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25821769430448,
+          27.1928522569479
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در محله تپه الله‌اکبر",
+        "unofficial_name:fa": "",
+        "date": 1784230200,
+        "geolocates": "",
+        "description": "",
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77157, https://t.me/VahidOnline/77158",
+        "id": "MzI6M2Y1NTFlMGE2MzRh",
+        "publicId": "MzI6M2Y1NTFlMGE2MzRh",
+        "sourceId": "3f551e0a634a",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T07:35:22.685Z",
+        "updatedAt": "2026-07-17T07:41:27.727Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93705,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.72129686193756,
+          27.238504396129485
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به حوالی فرودگاه ایرانشهر",
+        "unofficial_name:fa": "",
+        "date": 1784230200,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان ایرانشهر",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://t.me/VahidOnline/77160",
+        "id": "MzI6NDEzY2QyZTA3YmEz",
+        "publicId": "MzI6NDEzY2QyZTA3YmEz",
+        "sourceId": "413cd2e07ba3",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T08:07:17.416Z",
+        "updatedAt": "2026-07-17T08:07:17.416Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93706,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6106932573249,
+          27.206905565847862
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پل کهورستان",
+        "unofficial_name:fa": "",
+        "date": 1784232000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان خمیر",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77163",
+        "id": "MzI6YTBlZjU3MjgxNmFh",
+        "publicId": "MzI6YTBlZjU3MjgxNmFh",
+        "sourceId": "a0ef572816aa",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T08:16:16.745Z",
+        "updatedAt": "2026-07-17T11:58:17.604Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.79877166287747,
+          27.069079120597948
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": " پل گریوه",
+        "unofficial_name:fa": "",
+        "date": 1784232000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "",
+        "id": "MzI6Yzc0ODkzY2NhY2Yy",
+        "publicId": "MzI6Yzc0ODkzY2NhY2Yy",
+        "sourceId": "c74893ccacf2",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T08:30:46.054Z",
+        "updatedAt": "2026-07-17T11:56:26.577Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.839857546668185,
+          27.38579998670727
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پل جاده مارو",
+        "unofficial_name:fa": "",
+        "date": 1784232000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان خمیر",
+        "province": "استان هرمزگان",
+        "sources": "",
+        "id": "MzI6OTg4ZTZiODg4ZjEx",
+        "publicId": "MzI6OTg4ZTZiODg4ZjEx",
+        "sourceId": "988e6b888f11",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T11:59:44.581Z",
+        "updatedAt": "2026-07-17T11:59:44.581Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93709,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.89042974995775,
+          27.222204393922055
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پل نیمه کاره",
+        "unofficial_name:fa": "",
+        "date": 1784232000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "",
+        "id": "MzI6OWYxM2ZkMDU1Y2Vl",
+        "publicId": "MzI6OWYxM2ZkMDU1Y2Vl",
+        "sourceId": "9f13fd055cee",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T12:02:05.568Z",
+        "updatedAt": "2026-07-17T12:02:05.568Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93710,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.79875718242903,
+          27.13520020027383
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پل روستای کلمتلی",
+        "unofficial_name:fa": "",
+        "date": 1784232000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "",
+        "id": "MzI6Y2E2YzczMjIwYmYy",
+        "publicId": "MzI6Y2E2YzczMjIwYmYy",
+        "sourceId": "ca6c73220bf2",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T12:03:32.929Z",
+        "updatedAt": "2026-07-17T12:03:32.929Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93711,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.00634325462033,
+          27.359110056282475
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "مسیر راه‌آهن",
+        "unofficial_name:fa": "",
+        "date": 1784235600,
+        "geolocates": "",
+        "description": "حمله به سه نقطه‌ی ریلی بندرعباس-فین",
+        "city": "شهرستان خمیر",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/Tasnimnews/432711",
+        "id": "MzI6ZDllMjg4MDg2OGY3",
+        "publicId": "MzI6ZDllMjg4MDg2OGY3",
+        "sourceId": "d9e2880868f7",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T12:12:50.793Z",
+        "updatedAt": "2026-07-17T12:12:50.793Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.85440775815076,
+          28.92177167744225
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در پایگاه دریایی ارتش",
+        "unofficial_name:fa": "",
+        "date": 1784237100,
+        "geolocates": "",
+        "description": "",
+        "city": "بوشهر",
+        "province": "استان بوشهر",
+        "sources": "https://t.me/VahidOnline/77168",
+        "id": "MzI6NWIxZWQ5NTRmNDg4",
+        "publicId": "MzI6NWIxZWQ5NTRmNDg4",
+        "sourceId": "5b1ed954f488",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T12:18:01.313Z",
+        "updatedAt": "2026-07-17T12:37:45.963Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93713,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.863303261816895,
+          26.5634819198373
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی بندر لنگه",
+        "unofficial_name:fa": "",
+        "date": 1784239200,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندر لنگه",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77170",
+        "id": "MzI6YTE5ZTEyMWQ2NGEx",
+        "publicId": "MzI6YTE5ZTEyMWQ2NGEx",
+        "sourceId": "a19e121d64a1",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T12:30:36.307Z",
+        "updatedAt": "2026-07-17T12:30:36.307Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93714,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.62465433005451,
+          25.315570646377353
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تخریب برج مراقبت دریایی",
+        "unofficial_name:fa": "",
+        "date": 1784250000,
+        "geolocates": "",
+        "description": "انفجار و تخریب برج مراقبت دریایی",
+        "city": "چابهار",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://t.me/VahidOnline/77178, https://t.me/VahidOnline/77175",
+        "id": "MzI6ZDAxYTZlYjQwY2E4",
+        "publicId": "MzI6ZDAxYTZlYjQwY2E4",
+        "sourceId": "d01a6eb40ca8",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T12:32:16.867Z",
+        "updatedAt": "2026-07-17T12:36:59.708Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93715,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.84245173672997,
+          28.93064551951808
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در پایگاه هوایی ارتش",
+        "unofficial_name:fa": "",
+        "date": 1784237100,
+        "geolocates": "",
+        "description": "",
+        "city": "بوشهر",
+        "province": "استان بوشهر",
+        "sources": "https://t.me/jangaavaran1390/136020",
+        "id": "MzI6ZTVlOTNjNzI0NjM0",
+        "publicId": "MzI6ZTVlOTNjNzI0NjM0",
+        "sourceId": "e5e93c724634",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T12:39:24.338Z",
+        "updatedAt": "2026-07-17T12:39:24.338Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93716,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.04781676450844,
+          33.498241460345795
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی ویسیان",
+        "unofficial_name:fa": "",
+        "date": 1784238600,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان چگنی",
+        "province": "استان لرستان",
+        "sources": "https://t.me/farsna/450521",
+        "id": "MzI6NTQzNmQxZjNmNjg4",
+        "publicId": "MzI6NTQzNmQxZjNmNjg4",
+        "sourceId": "5436d1f3f688",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T12:43:12.244Z",
+        "updatedAt": "2026-07-17T12:43:12.244Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.257218564425614,
+          27.642848789847548
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی لار",
+        "unofficial_name:fa": "",
+        "date": 1784320500,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان لارستان",
+        "province": "استان فارس",
+        "sources": "https://t.me/VahidOnline/77210, https://t.me/VahidOnline/77211",
+        "id": "MzI6NWY1ZmYxMWYxMGVh",
+        "publicId": "MzI6NWY1ZmYxMWYxMGVh",
+        "sourceId": "5f5ff11f10ea",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:31:29.467Z",
+        "updatedAt": "2026-07-17T21:31:41.397Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.336418458040754,
+          31.78371515801888
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی یزد",
+        "unofficial_name:fa": "",
+        "date": 1784322000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان یزد",
+        "province": "استان یزد",
+        "sources": "https://t.me/VahidOnline/77212",
+        "id": "MzI6NDliODYxNGNlNGZi",
+        "publicId": "MzI6NDliODYxNGNlNGZi",
+        "sourceId": "49b8614ce4fb",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:33:41.458Z",
+        "updatedAt": "2026-07-17T21:33:41.458Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84538696768183,
+          31.29725974743171
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی اهواز",
+        "unofficial_name:fa": "",
+        "date": 1784322000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان اهواز",
+        "province": "استان خوزستان",
+        "sources": "https://t.me/VahidOnline/77213",
+        "id": "MzI6ODE2ZjliOTEyZDBj",
+        "publicId": "MzI6ODE2ZjliOTEyZDBj",
+        "sourceId": "816f9b912d0c",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:37.712Z",
+        "updatedAt": "2026-07-17T21:36:37.712Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.17655588368217,
+          27.17181242221602
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی بندرعباس",
+        "unofficial_name:fa": "",
+        "date": 1784324100,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77215",
+        "id": "MzI6ZjY3ZDUwMmQwMzJl",
+        "publicId": "MzI6ZjY3ZDUwMmQwMzJl",
+        "sourceId": "f67d502d032e",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T22:28:03.702Z",
+        "updatedAt": "2026-07-17T22:28:03.702Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93756,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.91365020434594,
+          28.927110830891593
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی بوشهر",
+        "unofficial_name:fa": "",
+        "date": 1784327700,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "sources": "https://t.me/VahidOnline/77217",
+        "id": "MzI6M2U2MjExOTRkODVk",
+        "publicId": "MzI6M2U2MjExOTRkODVk",
+        "sourceId": "3e621194d85d",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T22:51:47.631Z",
+        "updatedAt": "2026-07-17T22:51:47.631Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93757,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.250291503438774,
+          27.58390925179721
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انهدام تونل شهید میرزایی، محور بندرعباس-سیرجان",
+        "unofficial_name:fa": "",
+        "date": 1784327400,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77219, https://t.me/Tasnimnews/432878",
+        "id": "MzI6MTVkZDIxMTRjYWI4",
+        "publicId": "MzI6MTVkZDIxMTRjYWI4",
+        "sourceId": "15dd2114cab8",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T23:06:10.531Z",
+        "updatedAt": "2026-07-17T23:11:23.315Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93758,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25079855656668,
+          27.585814546853328
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انهدام پل شور، محور بندرعباس-سیرجان",
+        "unofficial_name:fa": "",
+        "date": 1784327400,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/Tasnimnews/432878",
+        "id": "MzI6MjQ3NGI1NzA1NjIz",
+        "publicId": "MzI6MjQ3NGI1NzA1NjIz",
+        "sourceId": "2474b5705623",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T23:12:35.797Z",
+        "updatedAt": "2026-07-17T23:12:35.797Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.635372965949756,
+          30.76691978043135
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار حوالی امیدیه",
+        "unofficial_name:fa": "",
+        "date": 1784329200,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان امیدیه",
+        "province": "استان خوزستان",
+        "sources": "https://t.me/Garajetadayoni/9791",
+        "id": "MzI6OWYyMzMyNWQ4ZmJl",
+        "publicId": "MzI6OWYyMzMyNWQ4ZmJl",
+        "sourceId": "9f23325d8fbe",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-17T23:20:00.368Z",
+        "updatedAt": "2026-07-17T23:20:00.368Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93760,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.403523390784585,
+          27.254758670284318
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انهدام پل محور رفت بندرعباس-رودان",
+        "unofficial_name:fa": "",
+        "date": 1784327400,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/Tasnimnews/432879",
+        "id": "MzI6ZWMzYWNhNzM4NjE5",
+        "publicId": "MzI6ZWMzYWNhNzM4NjE5",
+        "sourceId": "ec3aca738619",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T23:23:12.868Z",
+        "updatedAt": "2026-07-17T23:23:12.868Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93761,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.35836875195852,
+          26.861104956535584
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انهدام دکل کنترل دریایی",
+        "unofficial_name:fa": "",
+        "date": 1784331720,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/Tasnimnews/432890",
+        "id": "MzI6NDcwYmFmZjZjNjJl",
+        "publicId": "MzI6NDcwYmFmZjZjNjJl",
+        "sourceId": "470baff6c62e",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-18T00:46:10.978Z",
+        "updatedAt": "2026-07-18T00:46:10.978Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.24559376916767,
+          27.20977244062567
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار حوالی بندرعباس",
+        "unofficial_name:fa": "",
+        "date": 1784334000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77223",
+        "id": "MzI6YmY3ZjM4MDU0MGNh",
+        "publicId": "MzI6YmY3ZjM4MDU0MGNh",
+        "sourceId": "bf7f380540ca",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-18T00:48:01.881Z",
+        "updatedAt": "2026-07-18T00:48:01.881Z"
+      }
     }
   ],
   "metadata": {
-    "total": 680,
+    "total": 711,
     "layerId": 32,
     "clustered": false,
     "simplified": false

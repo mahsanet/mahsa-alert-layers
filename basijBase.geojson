@@ -42652,31 +42652,6 @@
     },
     {
       "type": "Feature",
-      "id": 5507,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.6339403,
-          31.3667683
-        ]
-      },
-      "properties": {
-        "id": "MToxMzQzNg",
-        "name:fa": "حوزه مقاومت بسیج خواهران دوشهری",
-        "publicId": "MToxMzQzNg",
-        "sourceId": "13436",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:53.056Z",
-        "updatedAt": "2026-03-11T20:52:53.056Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 5508,
       "geometry": {
         "type": "Point",
@@ -61565,10 +61540,184 @@
         "createdAt": "2026-07-15T01:53:53.139Z",
         "updatedAt": "2026-07-15T01:53:53.139Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93689,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.728894204311445,
+          31.936329262712803
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج ناغان",
+        "description": "پایگاه بسیج ناغان",
+        "date": 1784113119,
+        "city": "ناغان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MTpmNDJhYTRlZmFhMzY",
+        "publicId": "MTpmNDJhYTRlZmFhMzY",
+        "sourceId": "f42aa4efaa36",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T02:26:41.411Z",
+        "updatedAt": "2026-07-17T02:26:41.411Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44452607381001,
+          35.60114732350908
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1784099241,
+        "city": "ری",
+        "province": "استان تهران",
+        "id": "MTpjYzcwZWM2NzhmOGE",
+        "publicId": "MTpjYzcwZWM2NzhmOGE",
+        "sourceId": "cc70ec678f8a",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T02:26:41.495Z",
+        "updatedAt": "2026-07-17T02:26:41.495Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.956012900387805,
+          27.874629374255363
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان بسیج",
+        "description": "این مکان ساختمان بسبج سپاه پاسداران شهر بردستان است",
+        "date": 1784321903,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "MTo2ZThiMGZjNzllOGE",
+        "publicId": "MTo2ZThiMGZjNzllOGE",
+        "sourceId": "6e8b0fc79e8a",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:03.249Z",
+        "updatedAt": "2026-07-17T21:36:03.249Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.92933081502747,
+          27.83528411011602
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه بسیج زنان بندر دیر",
+        "description": "این ساختمان حوزه بسیج زنان بندر دیر است محل ساماندهی کردن زنان بسیجی برای تذکر حجاب برای زنان شهر",
+        "date": 1784320720,
+        "city": "بندردیر",
+        "province": "استان بوشهر",
+        "id": "MTplZjMyMTcwMDFkMTA",
+        "publicId": "MTplZjMyMTcwMDFkMTA",
+        "sourceId": "ef3217001d10",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:03.868Z",
+        "updatedAt": "2026-07-17T21:36:03.868Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.92940795989841,
+          27.83508604502424
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج حوزه قدس",
+        "description": "این ساختمان بسیج برادران حوزه قدس اصلی ترین مرکز ساماندهی تجمعات بسیجیان و ساماندهی نیروی سرکوب در ایام اعتراضات از بالای این مکان به معترضین شلیک گلوله می نمودند. این مکان در ساختمان خود حاوی اسلحه خانه ای است که انواع تفنگ جنگی و آر پی جی و چندین موتور قایق تندرو گشت زنی نیروی دریایی سپاه است و همچنین در پارکینگ آن ۳ تا هایلوکس که در اعتراضات پشت آن رگبار می کذاشتند و گشت زنی می کردند.",
+        "date": 1784320671,
+        "city": "بندردیر",
+        "province": "استان بوشهر",
+        "id": "MTpkNzdlNTJiMzNlYjQ",
+        "publicId": "MTpkNzdlNTJiMzNlYjQ",
+        "sourceId": "d77e52b33eb4",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:03.940Z",
+        "updatedAt": "2026-07-17T21:36:03.940Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.80337736456795,
+          32.2282008851825
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج هفشجان",
+        "description": "بسیج هفشجان",
+        "date": 1784275952,
+        "city": "هفشجان",
+        "province": "استان چهارمحال و بختیاری",
+        "id": "MToxYTdkMzRlM2FhZDU",
+        "publicId": "MToxYTdkMzRlM2FhZDU",
+        "sourceId": "1a7d34e3aad5",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:05.282Z",
+        "updatedAt": "2026-07-17T21:36:05.282Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2165,
+    "total": 2170,
     "layerId": 1,
     "clustered": false,
     "simplified": false

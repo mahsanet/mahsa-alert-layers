@@ -145425,10 +145425,68 @@
         "createdAt": "2026-07-15T01:53:52.731Z",
         "updatedAt": "2026-07-15T01:53:52.731Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93744,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.99585319381697,
+          27.75579239868516
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد بسیج",
+        "description": "مسجد بسیج و نیروهای عرزشی و دولتی",
+        "date": 1784317825,
+        "city": "اوز",
+        "province": "استان فارس",
+        "id": "NDplN2VkZWMxZDdjNWE",
+        "publicId": "NDplN2VkZWMxZDdjNWE",
+        "sourceId": "e7edec1d7c5a",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:04.692Z",
+        "updatedAt": "2026-07-17T21:36:04.692Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.99370678357394,
+          27.765093911352565
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه سپاه اوز",
+        "description": "حسینیه سپاه شهرستان اِوز",
+        "date": 1784317593,
+        "city": "اوز",
+        "province": "استان فارس",
+        "id": "NDpkOTBjODljM2Q2OWE",
+        "publicId": "NDpkOTBjODljM2Q2OWE",
+        "sourceId": "d90c89c3d69a",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:04.764Z",
+        "updatedAt": "2026-07-17T21:36:04.764Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5582,
+    "total": 5584,
     "layerId": 4,
     "clustered": false,
     "simplified": false

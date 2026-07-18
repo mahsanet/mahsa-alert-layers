@@ -499429,10 +499429,215 @@
         "createdAt": "2026-07-15T01:53:52.661Z",
         "updatedAt": "2026-07-15T01:53:52.661Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.19021704420447,
+          35.724934969110436
+        ]
+      },
+      "properties": {
+        "name:fa": "درب شماره ۱ امنیتی ایران خودرو",
+        "lastReport": "",
+        "date": 1784261995,
+        "addressDescription": "",
+        "description": "درب شماره یک ایران خودرو مجهز به دوربین های قوی، تردد مدیریت عامل و مدیران ارشد و مقامات از این درب انجام می شود، دارای اتاقک حراستی و امنیتی.",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MjA6YmJiMjYyYzc2NTlm",
+        "publicId": "MjA6YmJiMjYyYzc2NTlm",
+        "sourceId": "bbb262c7659f",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T05:24:44.929Z",
+        "updatedAt": "2026-07-17T05:24:44.929Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.00718484285221,
+          27.76096834742218
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک ایران زمین",
+        "description": "دوربین بانک ایران زمین",
+        "date": 1784318536,
+        "city": "اوز",
+        "province": "استان فارس",
+        "id": "MjA6ZTQxNmU0ZTAyNzM5",
+        "publicId": "MjA6ZTQxNmU0ZTAyNzM5",
+        "sourceId": "e416e4e02739",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:04.182Z",
+        "updatedAt": "2026-07-17T21:36:04.182Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.00732970085676,
+          27.761242153355184
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک سپه",
+        "description": "دوربین بانک سپه",
+        "date": 1784318476,
+        "city": "اوز",
+        "province": "استان فارس",
+        "id": "MjA6OWM5MDY4YTVhNzVi",
+        "publicId": "MjA6OWM5MDY4YTVhNzVi",
+        "sourceId": "9c9068a5a75b",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:04.256Z",
+        "updatedAt": "2026-07-17T21:36:04.256Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93739,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.00722475218879,
+          27.761500830949657
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک تجارت",
+        "description": "دوربین بانک تجارت",
+        "date": 1784318431,
+        "city": "اوز",
+        "province": "استان فارس",
+        "id": "MjA6OThhMjcxMDA2NjE1",
+        "publicId": "MjA6OThhMjcxMDA2NjE1",
+        "sourceId": "98a271006615",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:04.328Z",
+        "updatedAt": "2026-07-17T21:36:04.328Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93740,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.0072938500503,
+          27.761608631506405
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک مسکن",
+        "description": "دوربین بانک مسکن",
+        "date": 1784318403,
+        "city": "اوز",
+        "province": "استان فارس",
+        "id": "MjA6YTNkOWFiNDMzZDAy",
+        "publicId": "MjA6YTNkOWFiNDMzZDAy",
+        "sourceId": "a3d9ab433d02",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:04.396Z",
+        "updatedAt": "2026-07-17T21:36:04.396Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.00792013681772,
+          27.762251791387442
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی امنیتی",
+        "description": "دوربین نظارتی امنیتی",
+        "date": 1784318354,
+        "city": "اوز",
+        "province": "استان فارس",
+        "id": "MjA6MjJmYTdmMjQxYTc4",
+        "publicId": "MjA6MjJmYTdmMjQxYTc4",
+        "sourceId": "22fa7f241a78",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:04.477Z",
+        "updatedAt": "2026-07-17T21:36:04.477Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.00653226715997,
+          27.759999858667555
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "description": "دوربین نظارتی امنیتی و راهنمایی رانندگی",
+        "date": 1784318305,
+        "city": "اوز",
+        "province": "استان فارس",
+        "id": "MjA6YmEyMWZlZjgyY2Qw",
+        "publicId": "MjA6YmEyMWZlZjgyY2Qw",
+        "sourceId": "ba21fef82cd0",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:04.549Z",
+        "updatedAt": "2026-07-17T21:36:04.549Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18481,
+    "total": 18488,
     "layerId": 20,
     "clustered": false,
     "simplified": false

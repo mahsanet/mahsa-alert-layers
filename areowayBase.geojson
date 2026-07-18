@@ -27496,10 +27496,39 @@
         "createdAt": "2026-07-15T01:53:52.048Z",
         "updatedAt": "2026-07-15T01:53:52.048Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.927471016665635,
+          27.832755447490285
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه پهپادی",
+        "description": "سوله مهمات پهپادی که در جنگ ۴۰ روزه از این مکان چندین بار پهپاد شلیک شد ، این مکان در سال ۱۳۸۰ بسیج و سپاه سابق شهر بوده است که اکنون انبار آنان شده از جمله اسلحه برای نیروی سرکوب در اعتراضات و ایست بازرسی و پهپاد برای شلیک",
+        "date": 1784320005,
+        "city": "بندردیر",
+        "province": "استان بوشهر",
+        "id": "MTA6ZDIzOThhNGU0YjMw",
+        "publicId": "MTA6ZDIzOThhNGU0YjMw",
+        "sourceId": "d2398a4e4b30",
+        "layerId": 10,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:04.104Z",
+        "updatedAt": "2026-07-17T21:36:04.104Z"
+      }
     }
   ],
   "metadata": {
-    "total": 210,
+    "total": 211,
     "layerId": 10,
     "clustered": false,
     "simplified": false

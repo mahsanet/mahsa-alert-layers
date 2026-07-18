@@ -68028,10 +68028,156 @@
         "createdAt": "2026-07-15T01:53:53.071Z",
         "updatedAt": "2026-07-15T01:53:53.071Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93729,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.95544227663248,
+          27.860604110696883
+        ]
+      },
+      "properties": {
+        "name:fa": "گردان امام علی سپاه",
+        "description": "این مکان گردان امام علی سپاه پاسداران است که مسئولیت سرکوب اعتراضات را دارد به همراه انبار سلاح",
+        "date": 1784321770,
+        "city": "شهرستان دیر",
+        "province": "استان بوشهر",
+        "id": "MTI6OWZjMzYzZGIxMzVm",
+        "publicId": "MTI6OWZjMzYzZGIxMzVm",
+        "sourceId": "9fc363db135f",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:03.558Z",
+        "updatedAt": "2026-07-17T21:36:03.558Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93730,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.95725011738705,
+          27.859179106035143
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه پاسداران دیّر",
+        "description": "این مکان و کل این محوطه ، سپاه پاسداران سیدالشهدا شهرستان دیّر می باشد در این مکان محوطه سپاه پاسداران در ایام جنگ ۴۰ روزه ۲ پهپاد در ۵ فروردین ۱۴۰۵ شلیک شد",
+        "date": 1784321403,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "MTI6NDBhOWNmNDMxNzNm",
+        "publicId": "MTI6NDBhOWNmNDMxNzNm",
+        "sourceId": "40a9cf43173f",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:03.633Z",
+        "updatedAt": "2026-07-17T21:36:03.633Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.99402625553216,
+          27.76509522720208
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز سپاه",
+        "description": "مرکز بسیج،سپاه،اطلاعات سپاه",
+        "date": 1784317530,
+        "city": "اوز",
+        "province": "استان فارس",
+        "id": "MTI6MmIwZDkyYTdlNDVk",
+        "publicId": "MTI6MmIwZDkyYTdlNDVk",
+        "sourceId": "2b0d92a7e45d",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:04.834Z",
+        "updatedAt": "2026-07-17T21:36:04.834Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40929566521521,
+          27.46325149757709
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه رویدر",
+        "description": "پایگاه بسیج و سپاه رویدر",
+        "date": 1784313895,
+        "city": "رویدر",
+        "province": "استان هرمزگان",
+        "id": "MTI6MzI3MjMwMDQzOGQ3",
+        "publicId": "MTI6MzI3MjMwMDQzOGQ3",
+        "sourceId": "3272300438d7",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:04.909Z",
+        "updatedAt": "2026-07-17T21:36:04.909Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.94377511739731,
+          27.87450347483113
+        ]
+      },
+      "properties": {
+        "name:fa": "میدان تیر",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان دیر",
+        "province": "استان بوشهر",
+        "id": "MTI6NmVhODIzZjRmMWFi",
+        "publicId": "MTI6NmVhODIzZjRmMWFi",
+        "sourceId": "6ea823f4f1ab",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T22:44:18.910Z",
+        "updatedAt": "2026-07-17T22:44:18.910Z"
+      }
     }
   ],
   "metadata": {
-    "total": 991,
+    "total": 996,
     "layerId": 12,
     "clustered": false,
     "simplified": false

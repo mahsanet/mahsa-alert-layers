@@ -75265,32 +75265,6 @@
     },
     {
       "type": "Feature",
-      "id": 86990,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.6652948,
-          31.9997193
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NDQ4NQ",
-        "name:fa": "نیروی انتظامی",
-        "osm_id": "",
-        "publicId": "Mzo2NDQ4NQ",
-        "sourceId": "64485",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.006Z",
-        "updatedAt": "2026-03-13T04:41:07.006Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 86991,
       "geometry": {
         "type": "Point",
@@ -120672,14 +120646,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.0201458,
-          27.7598586
+          54.02044939231487,
+          27.75991047367711
         ]
       },
       "properties": {
         "id": "Mzo2NzE0MA",
         "name:fa": "کلانتری 11 شهرستان اوز",
         "osm_id": "",
+        "city": "اوز",
+        "province": "استان فارس",
         "publicId": "Mzo2NzE0MA",
         "sourceId": "67140",
         "layerId": 3,
@@ -120689,7 +120665,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.891Z",
-        "updatedAt": "2026-03-13T04:41:07.891Z"
+        "updatedAt": "2026-07-17T22:17:52.054Z"
       }
     },
     {
@@ -158398,10 +158374,68 @@
         "createdAt": "2026-07-15T01:53:51.627Z",
         "updatedAt": "2026-07-15T01:53:51.627Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.595642,
+          30.666208
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر یگان امداد",
+        "description": "مقر نیروی یگان امداد و مرکز اصلی شهر برای سرکوب",
+        "date": 1784242033,
+        "city": "ياسوج",
+        "province": "استان کهگیلویه و بویراحمد",
+        "id": "Mzo4NzMwZmM2NDM5MWM",
+        "publicId": "Mzo4NzMwZmM2NDM5MWM",
+        "sourceId": "8730fc64391c",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T02:26:40.807Z",
+        "updatedAt": "2026-07-17T02:26:40.807Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.945286085627004,
+          27.839685619181026
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره پلیس آگاهی بندر دیر",
+        "description": "این مکان ساختمان اداره پلیس آگاهی شهر بندر دیر است",
+        "date": 1784321097,
+        "city": "بندردیر",
+        "province": "استان بوشهر",
+        "id": "MzphOTYwMGZlNWI5MTQ",
+        "publicId": "MzphOTYwMGZlNWI5MTQ",
+        "sourceId": "a9600fe5b914",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:03.789Z",
+        "updatedAt": "2026-07-17T21:36:03.789Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6055,
+    "total": 6056,
     "layerId": 3,
     "clustered": false,
     "simplified": false

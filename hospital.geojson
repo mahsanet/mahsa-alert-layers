@@ -88398,10 +88398,39 @@
         "createdAt": "2026-07-08T13:27:30.324Z",
         "updatedAt": "2026-07-08T13:27:30.324Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93728,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.95469830645328,
+          27.87907199410907
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان امام هادی",
+        "description": "بیمارستان امام هادی شهرستان دیّر شهر بردستان",
+        "date": 1784321815,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "MjU6MzdlMTQyMmZmMjAz",
+        "publicId": "MjU6MzdlMTQyMmZmMjAz",
+        "sourceId": "37e1422ff203",
+        "layerId": 25,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:03.470Z",
+        "updatedAt": "2026-07-17T21:36:03.470Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3534,
+    "total": 3535,
     "layerId": 25,
     "clustered": false,
     "simplified": false

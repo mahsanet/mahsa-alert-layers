@@ -12935,11 +12935,13 @@
         ]
       },
       "properties": {
-        "city": "شهرستان داراب",
-        "date": 1774412992,
         "name:fa": "سایت موشکی زین‌آباد",
-        "province": "استان فارس",
+        "unofficial_name:fa": "",
+        "operator": "",
         "description": "سایت موشکی زین آباد داراب",
+        "date": 1774412992,
+        "city": "شهرستان داراب",
+        "province": "استان فارس",
         "id": "Nzo5ODEyNmVmNjhiZTU",
         "publicId": "Nzo5ODEyNmVmNjhiZTU",
         "sourceId": "98126ef68be5",
@@ -12947,39 +12949,10 @@
         "type": "location",
         "status": "active",
         "urgency": null,
-        "verificationTag": "not-verified",
+        "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-03-25T04:29:52.120Z",
-        "updatedAt": "2026-04-08T20:49:25.533Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 92543,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.560806561313626,
-          28.730116574902254
-        ]
-      },
-      "properties": {
-        "name:fa": "محل اختفای لانچر موشک",
-        "description": "محل اختفای لانچر پرتاب موشک",
-        "date": 1774412890,
-        "city": "داراب",
-        "province": "استان فارس",
-        "id": "Nzo5ZmRlOGM1YWM2Mjg",
-        "publicId": "Nzo5ZmRlOGM1YWM2Mjg",
-        "sourceId": "9fde8c5ac628",
-        "layerId": 7,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-25T04:28:10.771Z",
-        "updatedAt": "2026-03-31T03:39:50.219Z"
+        "updatedAt": "2026-07-17T22:39:08.523Z"
       }
     },
     {
@@ -15223,10 +15196,126 @@
         "createdAt": "2026-07-16T00:35:22.096Z",
         "updatedAt": "2026-07-16T00:35:22.096Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93684,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.006099,
+          35.323519
+        ]
+      },
+      "properties": {
+        "name:fa": "سایت موشکی",
+        "description": "سایت موشکی",
+        "date": 1784154772,
+        "city": "شهرستان زرندیه",
+        "province": "استان مرکزی",
+        "id": "NzowODQ0ODVjZjg1ZDg",
+        "publicId": "NzowODQ0ODVjZjg1ZDg",
+        "sourceId": "084485cf85d8",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T02:26:40.943Z",
+        "updatedAt": "2026-07-17T02:26:40.943Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.95612895536888,
+          27.874483412882853
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اختفای لانچر موشکی",
+        "description": "سوله بسیج شهر بردستان ، در این سوله در جنگ ۴۰ روزه محل اختفای ماشین لانچر موشکی بود",
+        "date": 1784321878,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "Nzo2NDkyMWFmMDk4ODU",
+        "publicId": "Nzo2NDkyMWFmMDk4ODU",
+        "sourceId": "64921af09885",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:03.350Z",
+        "updatedAt": "2026-07-17T21:36:03.350Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93731,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.95835099092423,
+          27.859981832569503
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار موشکی بندر دیر",
+        "description": "این مکان مهمترین انبار نظامی بندر دیر است. سوله عظیم ذخیره‌سازی مهمات از جمله قایق‌های تندر نیروی دریایی سپاه، و محل نگهداری بیش از ۴۰ موتورسیکلت اعضای نیروی سرکوب است. در گذشته لانچر موشکی موقت نیز در این مکان پناه گرفته بود. این مکان در پوشش سالن ورزشی سپاه فعالیت می‌کند اما در واقع انبار مهمات است.",
+        "date": 1784321318,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "Nzo2NzY5MmIyNjE0OTA",
+        "publicId": "Nzo2NzY5MmIyNjE0OTA",
+        "sourceId": "67692b261490",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:03.720Z",
+        "updatedAt": "2026-07-17T21:36:03.720Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.93452470418708,
+          35.87545029564836
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر موشک",
+        "description": "لانچر موشک، مکان دقیق نیست و تقریبی است، آخرین بار در ۲۰ تیر ۱۴۰۵ دیده شد.",
+        "date": 1784279340,
+        "city": "شهرستان کرج",
+        "province": "استان البرز",
+        "id": "Nzo2ZjkwMDU1ZmFjNTc",
+        "publicId": "Nzo2ZjkwMDU1ZmFjNTc",
+        "sourceId": "6f90055fac57",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:05.134Z",
+        "updatedAt": "2026-07-17T21:36:05.134Z"
+      }
     }
   ],
   "metadata": {
-    "total": 134,
+    "total": 137,
     "layerId": 7,
     "clustered": false,
     "simplified": false

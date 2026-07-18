@@ -42270,10 +42270,41 @@
         "createdAt": "2026-07-16T00:03:40.818Z",
         "updatedAt": "2026-07-16T00:03:40.818Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.68259446322918,
+          36.063990145585564
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه ناحیه تاکستان",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "سپاه ناحیه تاکستان",
+        "date": 1784264956,
+        "city": "تاكستان",
+        "province": "استان قزوین",
+        "id": "MTE6YjUzMzRmODhjOGYw",
+        "publicId": "MTE6YjUzMzRmODhjOGYw",
+        "sourceId": "b5334f88c8f0",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T05:20:42.838Z",
+        "updatedAt": "2026-07-17T05:20:42.838Z"
+      }
     }
   ],
   "metadata": {
-    "total": 375,
+    "total": 376,
     "layerId": 11,
     "clustered": false,
     "simplified": false

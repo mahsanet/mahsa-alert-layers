@@ -41502,10 +41502,39 @@
         "createdAt": "2026-07-15T01:53:49.270Z",
         "updatedAt": "2026-07-15T01:53:49.270Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.983773673886134,
+          35.68153923829914
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار مهمات",
+        "description": "دادگاه اعدام، قتلگاه جاویدنامها و انبار مهمات",
+        "date": 1784287608,
+        "city": "شهرستان ملارد",
+        "province": "استان تهران",
+        "id": "MzQ6NzYxM2QyYzg3NzU1",
+        "publicId": "MzQ6NzYxM2QyYzg3NzU1",
+        "sourceId": "7613d2c87755",
+        "layerId": 34,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-17T21:36:04.984Z",
+        "updatedAt": "2026-07-17T21:36:04.984Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1407,
+    "total": 1408,
     "layerId": 34,
     "clustered": false,
     "simplified": false
