@@ -77657,10 +77657,39 @@
         "createdAt": "2026-07-17T21:36:05.206Z",
         "updatedAt": "2026-07-17T21:36:05.206Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.921358555555344,
+          27.836432420228604
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان کمیته امداد",
+        "description": "ساختمان کمیته امداد و اداره بهزیستی شهر بندر دیر",
+        "date": 1784353023,
+        "city": "بندردیر",
+        "province": "استان بوشهر",
+        "id": "MTc6NzhiYjg1ZTViMTJm",
+        "publicId": "MTc6NzhiYjg1ZTViMTJm",
+        "sourceId": "78bb85e5b12f",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T07:57:24.465Z",
+        "updatedAt": "2026-07-18T07:57:24.465Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2336,
+    "total": 2337,
     "layerId": 17,
     "clustered": false,
     "simplified": false

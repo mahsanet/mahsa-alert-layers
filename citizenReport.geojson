@@ -87856,35 +87856,6 @@
     },
     {
       "type": "Feature",
-      "id": 93572,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.092518,
-          28.858232
-        ]
-      },
-      "properties": {
-        "name:fa": "اداره اطلاعات",
-        "description": "اداره اطلاعات دارای اتاق مخفی",
-        "date": 1783577589,
-        "city": "فراشبند",
-        "province": "استان فارس",
-        "id": "MjpkMDg3Y2VmZjM4YTc",
-        "publicId": "MjpkMDg3Y2VmZjM4YTc",
-        "sourceId": "d087ceff38a7",
-        "layerId": 2,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-15T01:53:47.744Z",
-        "updatedAt": "2026-07-15T01:53:47.744Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93573,
       "geometry": {
         "type": "Point",
@@ -92333,8 +92304,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.403523390784585,
-          27.254758670284318
+          56.94769795051758,
+          27.410816908291807
         ]
       },
       "properties": {
@@ -92346,7 +92317,7 @@
         "description": "",
         "city": "شهرستان بندرعباس",
         "province": "استان هرمزگان",
-        "sources": "https://t.me/Tasnimnews/432879",
+        "sources": "https://t.me/Tasnimnews/432879, https://t.me/Saberin_ir/65387",
         "id": "MzI6ZWMzYWNhNzM4NjE5",
         "publicId": "MzI6ZWMzYWNhNzM4NjE5",
         "sourceId": "ec3aca738619",
@@ -92356,12 +92327,276 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-07-17T23:23:12.868Z",
-        "updatedAt": "2026-07-17T23:23:12.868Z"
+        "updatedAt": "2026-07-18T05:23:10.273Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.93374844091974,
+          35.83377466954025
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1784349231,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MTpkZTBiODc3NGMwMzY",
+        "publicId": "MTpkZTBiODc3NGMwMzY",
+        "sourceId": "de0b8774c036",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:19:09.384Z",
+        "updatedAt": "2026-07-18T05:19:09.384Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.940232468741556,
+          35.833405326094294
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج منطقه گلشهر غربی",
+        "description": "بسیج منطقه گلشهر غربی",
+        "date": 1784349151,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MTowNWE5NjM2OGJlYTM",
+        "publicId": "MTowNWE5NjM2OGJlYTM",
+        "sourceId": "05a96368bea3",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:19:09.495Z",
+        "updatedAt": "2026-07-18T05:19:09.495Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.93609837678167,
+          35.81692263759177
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۳۹ گلشهر",
+        "description": "کیوسک کشیک کلانتری ۳۹ گلشهر",
+        "date": 1784349033,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "Mzo5NDQ2MmExNzM5ZTM",
+        "publicId": "Mzo5NDQ2MmExNzM5ZTM",
+        "sourceId": "94462a1739e3",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:19:09.609Z",
+        "updatedAt": "2026-07-18T05:19:09.609Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.932572830885704,
+          35.817756597327374
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج منطقه گلشهر",
+        "description": "بسیج منطقه گلشهر",
+        "date": 1784348971,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MTpjZTUyY2YzNThkZGY",
+        "publicId": "MTpjZTUyY2YzNThkZGY",
+        "sourceId": "ce52cf358ddf",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:19:09.719Z",
+        "updatedAt": "2026-07-18T05:19:09.719Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93767,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.405253134796084,
+          35.70884061170719
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین وزارت اطلاعات",
+        "description": "دوربین وزارت اطلاعات نصب شده در بالاترین نقطه ساختمان راهداری. این سیستم پایش تصویری قدرتمند با قابلیت تشخیص چهره در سالهای اخیر توسط وزارت اطلاعات و سیستم سرکوب اعتراضات استفاده شده و همچنان در حال کار می باشد.",
+        "date": 1784345807,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MjA6ZGFmNDJlODNlYTcw",
+        "publicId": "MjA6ZGFmNDJlODNlYTcw",
+        "sourceId": "daf42e83ea70",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:19:09.826Z",
+        "updatedAt": "2026-07-18T05:19:09.826Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93768,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.33891339245778,
+          32.392720103639704
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع بسیجی ها",
+        "description": "محل تجمع شبانه بسیجی ها",
+        "date": 1784351847,
+        "city": "چمگردان",
+        "province": "استان اصفهان",
+        "id": "MzY6ZDQzNmUzZTdmMjJi",
+        "publicId": "MzY6ZDQzNmUzZTdmMjJi",
+        "sourceId": "d436e3e7f22b",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:19:55.788Z",
+        "updatedAt": "2026-07-18T05:19:55.788Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.92304465919733,
+          27.835746068260576
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راهنمایی رانندگی دیر",
+        "description": "ساختمان پلیس راهنمایی رانندگی شهر دیر",
+        "date": 1784320272,
+        "city": "بندردیر",
+        "province": "استان بوشهر",
+        "id": "MzplMzhlOTQxZDYwMTA",
+        "publicId": "MzplMzhlOTQxZDYwMTA",
+        "sourceId": "e38e941d6010",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T07:56:54.483Z",
+        "updatedAt": "2026-07-18T07:56:54.483Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.921358555555344,
+          27.836432420228604
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان کمیته امداد",
+        "description": "ساختمان کمیته امداد و اداره بهزیستی شهر بندر دیر",
+        "date": 1784353023,
+        "city": "بندردیر",
+        "province": "استان بوشهر",
+        "id": "MTc6NzhiYjg1ZTViMTJm",
+        "publicId": "MTc6NzhiYjg1ZTViMTJm",
+        "sourceId": "78bb85e5b12f",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T07:57:24.465Z",
+        "updatedAt": "2026-07-18T07:57:24.465Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.99984390674723,
+          31.71315912691776
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "نقطه نامعلوم",
+        "unofficial_name:fa": "",
+        "date": 1784147400,
+        "geolocates": "",
+        "description": "",
+        "city": "بستان",
+        "province": "استان خوزستان",
+        "sources": "https://x.com/zarGEOINT/status/2078476336373411940?s=20",
+        "id": "MzI6NDMwMmEzOWRmOTY3",
+        "publicId": "MzI6NDMwMmEzOWRmOTY3",
+        "sourceId": "4302a39df967",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T17:38:25.077Z",
+        "updatedAt": "2026-07-18T17:38:25.077Z"
       }
     }
   ],
   "metadata": {
-    "total": 3133,
+    "total": 3141,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

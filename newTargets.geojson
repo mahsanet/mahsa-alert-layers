@@ -21649,8 +21649,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.00634325462033,
-          27.359110056282475
+          56.136806150258764,
+          27.195843304718423
         ]
       },
       "properties": {
@@ -21660,7 +21660,7 @@
         "date": 1784235600,
         "geolocates": "",
         "description": "حمله به سه نقطه‌ی ریلی بندرعباس-فین",
-        "city": "شهرستان خمیر",
+        "city": "شهرستان بندرعباس",
         "province": "استان هرمزگان",
         "sources": "https://t.me/Tasnimnews/432711",
         "id": "MzI6ZDllMjg4MDg2OGY3",
@@ -21672,7 +21672,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-07-17T12:12:50.793Z",
-        "updatedAt": "2026-07-17T12:12:50.793Z"
+        "updatedAt": "2026-07-18T05:49:52.742Z"
       }
     },
     {
@@ -22014,7 +22014,7 @@
         "description": "",
         "city": "شهرستان بندرعباس",
         "province": "استان هرمزگان",
-        "sources": "https://t.me/VahidOnline/77219, https://t.me/Tasnimnews/432878",
+        "sources": "https://x.com/zarGEOINT/status/2078381873638646082?s=20, https://t.me/VahidOnline/77219, https://t.me/Tasnimnews/432878",
         "id": "MzI6MTVkZDIxMTRjYWI4",
         "publicId": "MzI6MTVkZDIxMTRjYWI4",
         "sourceId": "15dd2114cab8",
@@ -22024,7 +22024,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-07-17T23:06:10.531Z",
-        "updatedAt": "2026-07-17T23:11:23.315Z"
+        "updatedAt": "2026-07-18T08:08:26.803Z"
       }
     },
     {
@@ -22033,8 +22033,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.25079855656668,
-          27.585814546853328
+          56.25735017038494,
+          27.50731610052101
         ]
       },
       "properties": {
@@ -22056,7 +22056,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-07-17T23:12:35.797Z",
-        "updatedAt": "2026-07-17T23:12:35.797Z"
+        "updatedAt": "2026-07-18T07:20:29.713Z"
       }
     },
     {
@@ -22097,8 +22097,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.403523390784585,
-          27.254758670284318
+          56.94769795051758,
+          27.410816908291807
         ]
       },
       "properties": {
@@ -22110,7 +22110,7 @@
         "description": "",
         "city": "شهرستان بندرعباس",
         "province": "استان هرمزگان",
-        "sources": "https://t.me/Tasnimnews/432879",
+        "sources": "https://t.me/Tasnimnews/432879, https://t.me/Saberin_ir/65387",
         "id": "MzI6ZWMzYWNhNzM4NjE5",
         "publicId": "MzI6ZWMzYWNhNzM4NjE5",
         "sourceId": "ec3aca738619",
@@ -22120,7 +22120,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-07-17T23:23:12.868Z",
-        "updatedAt": "2026-07-17T23:23:12.868Z"
+        "updatedAt": "2026-07-18T05:23:10.273Z"
       }
     },
     {
@@ -22186,10 +22186,106 @@
         "createdAt": "2026-07-18T00:48:01.881Z",
         "updatedAt": "2026-07-18T00:48:01.881Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.28392382820962,
+          25.912162900322883
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تأسیسات برق و پمپ‌های آب‌شیرین‌کن اسکله روستای بونجی",
+        "unofficial_name:fa": "",
+        "date": 1784337240,
+        "geolocates": "",
+        "description": "تأسیسات برق و پمپ‌های آب‌شیرین‌کن اسکله روستای بونجی هدف حملات موشکی قرار گرفت",
+        "city": "شهرستان جاسک",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/Tasnimnews/432903",
+        "id": "MzI6MDlkYWU2ZjA0NDgz",
+        "publicId": "MzI6MDlkYWU2ZjA0NDgz",
+        "sourceId": "09dae6f04483",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:35:00.285Z",
+        "updatedAt": "2026-07-18T05:54:21.767Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93770,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.458959623195,
+          27.066773855971093
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی هرمز",
+        "unofficial_name:fa": "",
+        "date": 1784338200,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/Tasnimnews/432901",
+        "id": "MzI6NGZjZDRjNTcxNGM4",
+        "publicId": "MzI6NGZjZDRjNTcxNGM4",
+        "sourceId": "4fcd4c5714c8",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:56:55.303Z",
+        "updatedAt": "2026-07-18T05:56:55.303Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.99984390674723,
+          31.71315912691776
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "نقطه نامعلوم",
+        "unofficial_name:fa": "",
+        "date": 1784147400,
+        "geolocates": "",
+        "description": "",
+        "city": "بستان",
+        "province": "استان خوزستان",
+        "sources": "https://x.com/zarGEOINT/status/2078476336373411940?s=20",
+        "id": "MzI6NDMwMmEzOWRmOTY3",
+        "publicId": "MzI6NDMwMmEzOWRmOTY3",
+        "sourceId": "4302a39df967",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T17:38:25.077Z",
+        "updatedAt": "2026-07-18T17:38:25.077Z"
+      }
     }
   ],
   "metadata": {
-    "total": 711,
+    "total": 714,
     "layerId": 32,
     "clustered": false,
     "simplified": false

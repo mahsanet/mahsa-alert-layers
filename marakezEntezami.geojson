@@ -10281,14 +10281,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.5314353,
-          36.0365058
+          50.5311922078059,
+          36.03637831425493
         ]
       },
       "properties": {
         "id": "MzoyMTYy",
         "name:fa": "پاسگاه آبیک",
         "osm_id": "n5039983145",
+        "city": "آبیک",
+        "province": "استان قزوین",
         "publicId": "MzoyMTYy",
         "sourceId": "2162",
         "layerId": 3,
@@ -10298,7 +10300,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:05.762Z",
-        "updatedAt": "2026-03-13T04:41:05.762Z"
+        "updatedAt": "2026-07-18T05:04:23.427Z"
       }
     },
     {
@@ -158432,10 +158434,68 @@
         "createdAt": "2026-07-17T21:36:03.789Z",
         "updatedAt": "2026-07-17T21:36:03.789Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.93609837678167,
+          35.81692263759177
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۳۹ گلشهر",
+        "description": "کیوسک کشیک کلانتری ۳۹ گلشهر",
+        "date": 1784349033,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "Mzo5NDQ2MmExNzM5ZTM",
+        "publicId": "Mzo5NDQ2MmExNzM5ZTM",
+        "sourceId": "94462a1739e3",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:19:09.609Z",
+        "updatedAt": "2026-07-18T05:19:09.609Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.92304465919733,
+          27.835746068260576
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راهنمایی رانندگی دیر",
+        "description": "ساختمان پلیس راهنمایی رانندگی شهر دیر",
+        "date": 1784320272,
+        "city": "بندردیر",
+        "province": "استان بوشهر",
+        "id": "MzplMzhlOTQxZDYwMTA",
+        "publicId": "MzplMzhlOTQxZDYwMTA",
+        "sourceId": "e38e941d6010",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T07:56:54.483Z",
+        "updatedAt": "2026-07-18T07:56:54.483Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6056,
+    "total": 6058,
     "layerId": 3,
     "clustered": false,
     "simplified": false

@@ -61714,10 +61714,97 @@
         "createdAt": "2026-07-17T21:36:05.282Z",
         "updatedAt": "2026-07-17T21:36:05.282Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.93374844091974,
+          35.83377466954025
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1784349231,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MTpkZTBiODc3NGMwMzY",
+        "publicId": "MTpkZTBiODc3NGMwMzY",
+        "sourceId": "de0b8774c036",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:19:09.384Z",
+        "updatedAt": "2026-07-18T05:19:09.384Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.940232468741556,
+          35.833405326094294
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج منطقه گلشهر غربی",
+        "description": "بسیج منطقه گلشهر غربی",
+        "date": 1784349151,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MTowNWE5NjM2OGJlYTM",
+        "publicId": "MTowNWE5NjM2OGJlYTM",
+        "sourceId": "05a96368bea3",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:19:09.495Z",
+        "updatedAt": "2026-07-18T05:19:09.495Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.932572830885704,
+          35.817756597327374
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج منطقه گلشهر",
+        "description": "بسیج منطقه گلشهر",
+        "date": 1784348971,
+        "city": "کرج",
+        "province": "استان البرز",
+        "id": "MTpjZTUyY2YzNThkZGY",
+        "publicId": "MTpjZTUyY2YzNThkZGY",
+        "sourceId": "ce52cf358ddf",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:19:09.719Z",
+        "updatedAt": "2026-07-18T05:19:09.719Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2170,
+    "total": 2173,
     "layerId": 1,
     "clustered": false,
     "simplified": false

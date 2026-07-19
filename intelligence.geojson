@@ -11374,35 +11374,6 @@
     },
     {
       "type": "Feature",
-      "id": 93572,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.092518,
-          28.858232
-        ]
-      },
-      "properties": {
-        "name:fa": "اداره اطلاعات",
-        "description": "اداره اطلاعات دارای اتاق مخفی",
-        "date": 1783577589,
-        "city": "فراشبند",
-        "province": "استان فارس",
-        "id": "MjpkMDg3Y2VmZjM4YTc",
-        "publicId": "MjpkMDg3Y2VmZjM4YTc",
-        "sourceId": "d087ceff38a7",
-        "layerId": 2,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-15T01:53:47.744Z",
-        "updatedAt": "2026-07-15T01:53:47.744Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93599,
       "geometry": {
         "type": "Point",
@@ -11664,7 +11635,7 @@
     }
   ],
   "metadata": {
-    "total": 335,
+    "total": 334,
     "layerId": 2,
     "clustered": false,
     "simplified": false

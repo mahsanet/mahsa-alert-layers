@@ -499634,10 +499634,39 @@
         "createdAt": "2026-07-17T21:36:04.549Z",
         "updatedAt": "2026-07-17T21:36:04.549Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93767,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.405253134796084,
+          35.70884061170719
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین وزارت اطلاعات",
+        "description": "دوربین وزارت اطلاعات نصب شده در بالاترین نقطه ساختمان راهداری. این سیستم پایش تصویری قدرتمند با قابلیت تشخیص چهره در سالهای اخیر توسط وزارت اطلاعات و سیستم سرکوب اعتراضات استفاده شده و همچنان در حال کار می باشد.",
+        "date": 1784345807,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MjA6ZGFmNDJlODNlYTcw",
+        "publicId": "MjA6ZGFmNDJlODNlYTcw",
+        "sourceId": "daf42e83ea70",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-18T05:19:09.826Z",
+        "updatedAt": "2026-07-18T05:19:09.826Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18488,
+    "total": 18489,
     "layerId": 20,
     "clustered": false,
     "simplified": false
