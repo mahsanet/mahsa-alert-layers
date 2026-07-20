@@ -38354,13 +38354,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.6465162,
-          36.6985061
+          52.646349515546916,
+          36.69830836919533
         ]
       },
       "properties": {
         "id": "MToxMzI2NA",
         "name:fa": "ناحیه مقاومت بسیج شهرستان بابلسر",
+        "city": "بابلسر",
+        "province": "استان مازندران",
         "publicId": "MToxMzI2NA",
         "sourceId": "13264",
         "layerId": 1,
@@ -38370,7 +38372,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:52:52.988Z",
-        "updatedAt": "2026-03-11T20:52:52.988Z"
+        "updatedAt": "2026-07-20T00:20:46.427Z"
       }
     },
     {

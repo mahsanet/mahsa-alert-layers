@@ -92593,10 +92593,886 @@
         "createdAt": "2026-07-18T17:38:25.077Z",
         "updatedAt": "2026-07-18T17:38:25.077Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.31890290975571,
+          27.416678703613414
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "فرودگاه سراوان",
+        "unofficial_name:fa": "",
+        "date": 1783983000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان سراوان",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://x.com/Vahid/status/2076810974103748693?s=20",
+        "id": "MzI6YWU4ZDk1OWYwZTk1",
+        "publicId": "MzI6YWU4ZDk1OWYwZTk1",
+        "sourceId": "ae8d959f0e95",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:08:10.221Z",
+        "updatedAt": "2026-07-20T00:08:10.221Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93782,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.208409294486046,
+          32.684001796426
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": " پهپادی/نظامی تیران",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "محل ساخت لوازم پهپادی و نظامی در شهرک صنعتی تیران با برخورد ۳بمب کاملا از بین رفته و هیچی ازش نمونده",
+        "city": "شهرستان تیران وکرون",
+        "province": "استان اصفهان",
+        "sources": "",
+        "id": "MzI6MTMyZTk0OGFiY2Iy",
+        "publicId": "MzI6MTMyZTk0OGFiY2Iy",
+        "sourceId": "132e948abcb2",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:11:43.129Z",
+        "updatedAt": "2026-07-20T00:11:43.129Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93783,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.618635437624874,
+          36.32706452171689
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع در مدرسه گلدوزان",
+        "description": "تجمع و سخنرانی افراد وابسته به جمهوری اسلامی و گارد امنیتی در مدرسه شهید گلدوزان. ابزار و وسایلشان را در مدرسه شهید گلدوزان قایم میکنند.",
+        "date": 1784498611,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6ODhlMjhkZDQzZThk",
+        "publicId": "MzY6ODhlMjhkZDQzZThk",
+        "sourceId": "88e28dd43e8d",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:55.178Z",
+        "updatedAt": "2026-07-20T00:15:55.178Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93784,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5089565412986,
+          36.31561049812288
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع و پرچم گردانی",
+        "description": "تجمع و پرچم گردانی لاشخور های جمهوری اسلامی",
+        "date": 1784498150,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6ZjdhODc5M2U2NmM4",
+        "publicId": "MzY6ZjdhODc5M2U2NmM4",
+        "sourceId": "f7a8793e66c8",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:55.289Z",
+        "updatedAt": "2026-07-20T00:15:55.289Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.496946330633335,
+          36.32313538488761
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع و گشت زنی",
+        "description": "دیده شدن پلیس و نگهبان، گشت زنی و دیده بانی و ایستگاه تجمع عرزشی ها در بلوار شهید صارمی.",
+        "date": 1784497806,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6NWE5ZDU5YmIxN2Nk",
+        "publicId": "MzY6NWE5ZDU5YmIxN2Nk",
+        "sourceId": "5a9d59bb17cd",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:55.394Z",
+        "updatedAt": "2026-07-20T00:15:55.394Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93786,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.55155752237354,
+          36.339434290066265
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع عرزشی ها",
+        "description": "تاریخ 27 تیر 1405 - ساعت 23:03 - محل : تجمع و شعار دادن عرزشی ها جمهوری اسلامی - مکان : جنب پاساژ کیان 2",
+        "date": 1784497581,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6MGVjYzE0Y2JmMWIz",
+        "publicId": "MzY6MGVjYzE0Y2JmMWIz",
+        "sourceId": "0ecc14cbf1b3",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:55.521Z",
+        "updatedAt": "2026-07-20T00:15:55.521Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93787,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56855220785607,
+          36.32307873119261
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور بسیج و سپاه",
+        "description": "پرچم گردانی جیره خور های جمهوری اسلامی و حضور بسیجی و سپاهی مکان : بلوار خیام بعد از میدان فردوسی",
+        "date": 1784497273,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6Yzk0MzNjNzY4ZWEz",
+        "publicId": "MzY6Yzk0MzNjNzY4ZWEz",
+        "sourceId": "c9433c768ea3",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:55.611Z",
+        "updatedAt": "2026-07-20T00:15:55.611Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.589704877858736,
+          36.330514326218704
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع",
+        "description": "تجمع و فریاد زنی طرفداران جمهوری اسلامی در بلوار شفا جنب پارک",
+        "date": 1784497062,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6NDNkMmNkMmJhMGIw",
+        "publicId": "MzY6NDNkMmNkMmJhMGIw",
+        "sourceId": "43d2cd2ba0b0",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:55.735Z",
+        "updatedAt": "2026-07-20T00:15:55.735Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93789,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.66908,
+          31.303903
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "description": "محل تجمع نیروهای سرکوب",
+        "date": 1784473710,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MzY6YWFhOGJhZDczZjJl",
+        "publicId": "MzY6YWFhOGJhZDczZjJl",
+        "sourceId": "aaa8bad73f2e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:55.811Z",
+        "updatedAt": "2026-07-20T00:15:55.811Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93790,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.683461,
+          31.341259
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع راهپیمایی",
+        "description": "محل تجمع راهپیمایی و کاروان های حکومتی همراه با نیروی سرکوب و بسیج",
+        "date": 1784471627,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MzY6NWEyZTVlNTIzM2Zh",
+        "publicId": "MzY6NWEyZTVlNTIzM2Zh",
+        "sourceId": "5a2e5e5233fa",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:55.896Z",
+        "updatedAt": "2026-07-20T00:15:55.896Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93791,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.63667017674297,
+          25.326477481075216
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار نیرو نظامی",
+        "description": "انتن مخابراتی استقرار نیرو نظامی",
+        "date": 1784448994,
+        "city": "شهرستان چابهار",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MzY6MTM5NzE5NTFlYzk2",
+        "publicId": "MzY6MTM5NzE5NTFlYzk2",
+        "sourceId": "13971951ec96",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:55.967Z",
+        "updatedAt": "2026-07-20T00:15:55.967Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.69262638927199,
+          29.21250093359933
+        ]
+      },
+      "properties": {
+        "name:fa": "نیروهای امنیتی و نظامی",
+        "description": "نیروهای امنیتی و نظامی",
+        "date": 1784424564,
+        "city": "کوار",
+        "province": "استان فارس",
+        "id": "MzY6ZDAwNGVkNWE0OTUx",
+        "publicId": "MzY6ZDAwNGVkNWE0OTUx",
+        "sourceId": "d004ed5a4951",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.041Z",
+        "updatedAt": "2026-07-20T00:15:56.041Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.399121078071374,
+          35.61562738591468
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع و سپر انسانی",
+        "description": "در این منطقه وقتی جنگ میشه تجمع میکنند و سپر انسانی درست میکنند",
+        "date": 1784424495,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6Yzk5MDZiZGE0NjY1",
+        "publicId": "MzY6Yzk5MDZiZGE0NjY1",
+        "sourceId": "c9906bda4665",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.114Z",
+        "updatedAt": "2026-07-20T00:15:56.114Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.501966251955196,
+          36.30785398553854
+        ]
+      },
+      "properties": {
+        "name:fa": "فعالیت امنیتی",
+        "description": "دیده شدن مزدوران و گارد امنیتی جمهوری اسلامی همراه با پرچم گردانی و شعار دادن",
+        "date": 1784412988,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6N2I1MmY3OWU2MmJj",
+        "publicId": "MzY6N2I1MmY3OWU2MmJj",
+        "sourceId": "7b52f79e62bc",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.208Z",
+        "updatedAt": "2026-07-20T00:15:56.208Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50747263282915,
+          36.314419758482856
+        ]
+      },
+      "properties": {
+        "name:fa": "پرچم گردانی جمهوری اسلامی",
+        "description": "دیده شدن پرچم گردانی جمهوری اسلامی و حزب الله توسط جیره خواران جمهوری اسلامی",
+        "date": 1784412857,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6YzRiZTdhMDgzOTE2",
+        "publicId": "MzY6YzRiZTdhMDgzOTE2",
+        "sourceId": "c4be7a083916",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.295Z",
+        "updatedAt": "2026-07-20T00:15:56.295Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49737207912676,
+          36.32278071223021
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمعات پلیس و نگهبان",
+        "description": "دیده شدن تجمعات عرزشی ها وحشی جمهوری اسلامی - دو گارد امنیتی پلیس و نگهبان در خیابان",
+        "date": 1784412519,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6YzA3ZTU2ZTkxYjgx",
+        "publicId": "MzY6YzA3ZTU2ZTkxYjgx",
+        "sourceId": "c07e56e91b81",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.367Z",
+        "updatedAt": "2026-07-20T00:15:56.367Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.48222533603675,
+          36.32447643736674
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع طرفداران جمهوری اسلامی",
+        "description": "محل تجمع و پرچم گذاری طرفداران وحشی جمهوری اسلامی",
+        "date": 1784412297,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6N2Q1OGVjMjY0OGU2",
+        "publicId": "MzY6N2Q1OGVjMjY0OGU2",
+        "sourceId": "7d58ec2648e6",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.448Z",
+        "updatedAt": "2026-07-20T00:15:56.448Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.57131,
+          35.716275
+        ]
+      },
+      "properties": {
+        "name:fa": "محل استقرار و استراحت",
+        "description": "محل استقرار شبانه و استراحتگاه",
+        "date": 1784412240,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6OGMyY2UxMjFjNWQ0",
+        "publicId": "MzY6OGMyY2UxMjFjNWQ0",
+        "sourceId": "8c2ce121c5d4",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.526Z",
+        "updatedAt": "2026-07-20T00:15:56.526Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39832527242962,
+          35.6610913063933
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی بسیج و سپاه",
+        "description": "ایست بازرسی در روزهای جنگ و آخر هفته ها ‌و تعطیلات و هر مدت حتی رندوم مدت بسیار طولانی هست که شاهد برپایی ایست بازرسی بسیج و سپاه در همین نقطه گاهی با پشتیبانی ابزاری و لجستیکی شهرداری ناحیه که دقیقا در همین موقعیت جنب خیابان ولیعصر هست",
+        "date": 1784410856,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6ZTJmMjI3OTIxZGFh",
+        "publicId": "MzY6ZTJmMjI3OTIxZGFh",
+        "sourceId": "e2f227921daa",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.601Z",
+        "updatedAt": "2026-07-20T00:15:56.601Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93800,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61024374559045,
+          36.32608242030784
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر طرفداران جمهوری اسلامی",
+        "description": "دیده شدن طرفداران جمهوری اسلامی و مقر زدن",
+        "date": 1784409322,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6OTA4MmM2OWVmMzcy",
+        "publicId": "MzY6OTA4MmM2OWVmMzcy",
+        "sourceId": "9082c69ef372",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.677Z",
+        "updatedAt": "2026-07-20T00:15:56.677Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93801,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.55162436863097,
+          36.340009301809616
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع طرفداران جمهوری اسلامی",
+        "description": "تجمع طرفداران وحشی جمهوری اسلامی",
+        "date": 1784409189,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6OTUzMzE1MjY5NWQw",
+        "publicId": "MzY6OTUzMzE1MjY5NWQw",
+        "sourceId": "9533152695d0",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.768Z",
+        "updatedAt": "2026-07-20T00:15:56.768Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.563679553398,
+          36.32579328753785
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع عرزشی ها",
+        "description": "تجمع عرزشی ها و پرچم بگیران طرفداران جمهوری اسلامی جنب پاساژ پروما",
+        "date": 1784408957,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6OWIyZTY5YTc2Zjcw",
+        "publicId": "MzY6OWIyZTY5YTc2Zjcw",
+        "sourceId": "9b2e69a76f70",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.847Z",
+        "updatedAt": "2026-07-20T00:15:56.847Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59835089990648,
+          36.333517092219765
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع گارد امنیتی",
+        "description": "تجمع مزدوران و گارد امنیتی جمهوری اسلامی",
+        "date": 1784408500,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6YTk4NWQwYzg3Yjlh",
+        "publicId": "MzY6YTk4NWQwYzg3Yjlh",
+        "sourceId": "a985d0c87b9a",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.923Z",
+        "updatedAt": "2026-07-20T00:15:56.923Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59526802118381,
+          36.33549956396017
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع طرفداران جمهوری اسلامی",
+        "description": "محل تجمعات طرفداران جمهوری اسلامی و پرچم گردانی محل کنار پارک حجاب",
+        "date": 1784408299,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6MWE1MjY3MDM0Yzky",
+        "publicId": "MzY6MWE1MjY3MDM0Yzky",
+        "sourceId": "1a5267034c92",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:56.998Z",
+        "updatedAt": "2026-07-20T00:15:56.998Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.19609222776168,
+          32.011404117642
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور لانچر سپاه",
+        "description": "حضور لانچر سپاه",
+        "date": 1784385817,
+        "city": "اشکذر",
+        "province": "استان یزد",
+        "id": "MzY6ZGRlMTJmNjQwM2Y5",
+        "publicId": "MzY6ZGRlMTJmNjQwM2Y5",
+        "sourceId": "dde12f6403f9",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:57.078Z",
+        "updatedAt": "2026-07-20T00:15:57.078Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.351972,
+          35.697868
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع بسیج در مدرسه",
+        "description": "تجمع نیروهای بسیج با موتورسیکلت در حیاط مدرسه",
+        "date": 1784372922,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6NjU2ZmI5M2UzZDZl",
+        "publicId": "MzY6NjU2ZmI5M2UzZDZl",
+        "sourceId": "656fb93e3d6e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:57.164Z",
+        "updatedAt": "2026-07-20T00:15:57.164Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.69142220702051,
+          31.347742843969613
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوبگر",
+        "description": "مسجد در حال تاسیس محل تجمع نیروهای سرکوبگر",
+        "date": 1784371476,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MzY6ZjI1Y2YxMTdiNjAz",
+        "publicId": "MzY6ZjI1Y2YxMTdiNjAz",
+        "sourceId": "f25cf117b603",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:57.242Z",
+        "updatedAt": "2026-07-20T00:15:57.242Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.93377837102446,
+          27.838070049206507
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع بسیجیان بندر دیر",
+        "description": "این سوله ، سوله نظامی نیست، اینجا مصلی شهر بندر دیر است ، هرچند محل تجمع شبانه بسیجیان هر شب اینجاست و مراسم های حکومتی اینجا برگزار می شود اما در حال حاضر در نوبت صبح دانش آموزان در اینجا امتحان نهایی دوازدهم می دهند",
+        "date": 1784355659,
+        "city": "بندردیر",
+        "province": "استان بوشهر",
+        "id": "MzY6NDc5NzY3YTIyMDlj",
+        "publicId": "MzY6NDc5NzY3YTIyMDlj",
+        "sourceId": "479767a2209c",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:57.315Z",
+        "updatedAt": "2026-07-20T00:15:57.315Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.956258787316386,
+          27.881952196369
+        ]
+      },
+      "properties": {
+        "name:fa": "فعالیت نظامی و موشکی",
+        "description": "در ساختمان آتش نشانی شهر بردستان، ماشین لانچر موشکی در پارکینگ مورد اختفا قرار گرفت. همچنین تجهیزات ایست بازرسی و تفنگ نظامی در این مکان قرار گرفته است. موشک نیز از شهر بردستان شلیک شد.",
+        "date": 1784354199,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "MzY6NmM4NmY3MjA5ZGQ1",
+        "publicId": "MzY6NmM4NmY3MjA5ZGQ1",
+        "sourceId": "6c86f7209dd5",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:57.389Z",
+        "updatedAt": "2026-07-20T00:15:57.389Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.956671129031605,
+          27.87888141006904
+        ]
+      },
+      "properties": {
+        "name:fa": "محل موقت مهمات سپاه",
+        "description": "سالن فوتبال شهر بردستان، این مکان در سوله آن چند روزی مهمات نظامی سپاه در ایام جنگ ۴۰ روزه بود اما خارج نمودند",
+        "date": 1784353919,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "MzY6ZWM1MTllYzI0OGMw",
+        "publicId": "MzY6ZWM1MTllYzI0OGMw",
+        "sourceId": "ec519ec248c0",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:15:57.462Z",
+        "updatedAt": "2026-07-20T00:15:57.462Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3141,
+    "total": 3171,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

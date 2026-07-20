@@ -21841,8 +21841,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.257218564425614,
-          27.642848789847548
+          54.256608046627576,
+          27.643288811976817
         ]
       },
       "properties": {
@@ -21854,7 +21854,7 @@
         "description": "",
         "city": "شهرستان لارستان",
         "province": "استان فارس",
-        "sources": "https://t.me/VahidOnline/77210, https://t.me/VahidOnline/77211",
+        "sources": "https://x.com/zarGEOINT/status/2078849161852526881?s=20, https://t.me/VahidOnline/77210, https://t.me/VahidOnline/77211",
         "id": "MzI6NWY1ZmYxMWYxMGVh",
         "publicId": "MzI6NWY1ZmYxMWYxMGVh",
         "sourceId": "5f5ff11f10ea",
@@ -21864,7 +21864,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-07-17T21:31:29.467Z",
-        "updatedAt": "2026-07-17T21:31:41.397Z"
+        "updatedAt": "2026-07-19T17:16:02.881Z"
       }
     },
     {
@@ -22282,10 +22282,618 @@
         "createdAt": "2026-07-18T17:38:25.077Z",
         "updatedAt": "2026-07-18T17:38:25.077Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.07701054214954,
+          26.491532497687587
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار حوالی سیریک",
+        "unofficial_name:fa": "",
+        "date": 1784365200,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77245",
+        "id": "MzI6MmJiZWIyZjA1ZWY0",
+        "publicId": "MzI6MmJiZWIyZjA1ZWY0",
+        "sourceId": "2bbeb2f05ef4",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-19T23:32:51.584Z",
+        "updatedAt": "2026-07-19T23:32:51.584Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.08050814270493,
+          26.491590111542195
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار حوالی سیریک",
+        "unofficial_name:fa": "",
+        "date": 1784379600,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77245",
+        "id": "MzI6ZmQ1ZTUzZGY0MmE2",
+        "publicId": "MzI6ZmQ1ZTUzZGY0MmE2",
+        "sourceId": "fd5e53df42a6",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-19T23:33:30.571Z",
+        "updatedAt": "2026-07-19T23:33:30.571Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93776,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.08464910162081,
+          26.49143312026527
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار حوالی سیریک",
+        "unofficial_name:fa": "",
+        "date": 1784380200,
+        "geolocates": "",
+        "description": "هدف نامشخص",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77245",
+        "id": "MzI6YmUyZTUwZWM4NTIz",
+        "publicId": "MzI6YmUyZTUwZWM4NTIz",
+        "sourceId": "be2e50ec8523",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-19T23:34:21.804Z",
+        "updatedAt": "2026-07-19T23:34:21.804Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.40681499611233,
+          27.226127182138626
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار حوالی بندرعباس",
+        "unofficial_name:fa": "",
+        "date": 1784419380,
+        "geolocates": "",
+        "description": "هدف نامشخص",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77256",
+        "id": "MzI6NTViYTBjMjkxMzA4",
+        "publicId": "MzI6NTViYTBjMjkxMzA4",
+        "sourceId": "55ba0c291308",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-19T23:39:08.189Z",
+        "updatedAt": "2026-07-19T23:39:08.189Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.384229158646775,
+          30.70790250223905
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در نیروگاه هسته‌ای دارخوین",
+        "unofficial_name:fa": "",
+        "date": 1784427900,
+        "geolocates": "هدف نامشخص",
+        "description": "",
+        "city": "شهرستان شادگان",
+        "province": "استان خوزستان",
+        "sources": "https://t.me/VahidOnline/77259, https://t.me/VahidOnline/77280",
+        "id": "MzI6OTUwMDRlYTg2N2Qx",
+        "publicId": "MzI6OTUwMDRlYTg2N2Qx",
+        "sourceId": "95004ea867d1",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-19T23:40:45.210Z",
+        "updatedAt": "2026-07-20T00:29:59.106Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.397284167995565,
+          27.222358268806275
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به حوالی بندرعباس",
+        "unofficial_name:fa": "",
+        "date": 1784428740,
+        "geolocates": "",
+        "description": "هدف نامشخص",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77258",
+        "id": "MzI6ZTIwNWFiNmQwYWJm",
+        "publicId": "MzI6ZTIwNWFiNmQwYWJm",
+        "sourceId": "e205ab6d0abf",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-19T23:42:15.940Z",
+        "updatedAt": "2026-07-19T23:42:15.940Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.27282635764561,
+          30.35792356907153
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی آبادان",
+        "unofficial_name:fa": "",
+        "date": 1784466480,
+        "geolocates": "",
+        "description": "",
+        "city": "آبادان",
+        "province": "استان خوزستان",
+        "sources": "https://t.me/VahidOnline/77279",
+        "id": "MzI6NTQxMWY4NTU1Nzhm",
+        "publicId": "MzI6NTQxMWY4NTU1Nzhm",
+        "sourceId": "5411f855578f",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-19T23:48:14.945Z",
+        "updatedAt": "2026-07-19T23:48:14.945Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.31890290975571,
+          27.416678703613414
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "فرودگاه سراوان",
+        "unofficial_name:fa": "",
+        "date": 1783983000,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان سراوان",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://x.com/Vahid/status/2076810974103748693?s=20",
+        "id": "MzI6YWU4ZDk1OWYwZTk1",
+        "publicId": "MzI6YWU4ZDk1OWYwZTk1",
+        "sourceId": "ae8d959f0e95",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:08:10.221Z",
+        "updatedAt": "2026-07-20T00:08:10.221Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93782,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.208409294486046,
+          32.684001796426
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": " پهپادی/نظامی تیران",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "محل ساخت لوازم پهپادی و نظامی در شهرک صنعتی تیران با برخورد ۳بمب کاملا از بین رفته و هیچی ازش نمونده",
+        "city": "شهرستان تیران وکرون",
+        "province": "استان اصفهان",
+        "sources": "",
+        "id": "MzI6MTMyZTk0OGFiY2Iy",
+        "publicId": "MzI6MTMyZTk0OGFiY2Iy",
+        "sourceId": "132e948abcb2",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:11:43.129Z",
+        "updatedAt": "2026-07-20T00:11:43.129Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.20817631643095,
+          26.989108506880754
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی قشم",
+        "unofficial_name:fa": "",
+        "date": 1784428800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77259",
+        "id": "MzI6YWI0NTZjMzg0Nzhl",
+        "publicId": "MzI6YWI0NTZjMzg0Nzhl",
+        "sourceId": "ab456c38478e",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:30:48.984Z",
+        "updatedAt": "2026-07-20T00:30:48.984Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.30267982405363,
+          38.12670835129319
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی تبریز",
+        "unofficial_name:fa": "",
+        "date": 1784502420,
+        "geolocates": "",
+        "description": "هدف نامشخص",
+        "city": "شهرستان تبریز",
+        "province": "استان آذربایجان شرقی",
+        "sources": "https://x.com/Vahid/status/2078985248050663492, https://t.me/VahidOnline/77289, https://t.me/VahidOnline/77284",
+        "id": "MzI6NGZiODIxNzA4ZTY2",
+        "publicId": "MzI6NGZiODIxNzA4ZTY2",
+        "sourceId": "4fb821708e66",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:35:19.047Z",
+        "updatedAt": "2026-07-20T00:42:46.681Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.03844858030175,
+          30.54432913715158
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی سربندر",
+        "unofficial_name:fa": "",
+        "date": 1784502600,
+        "geolocates": "",
+        "description": "هدف احتمالی: پدافند سربندر",
+        "city": "بندر امام خمینی",
+        "province": "استان خوزستان",
+        "sources": "https://x.com/Vahid/status/2078990811950113225, https://t.me/VahidOnline/77285",
+        "id": "MzI6YjljMjQzNWU5Mjc0",
+        "publicId": "MzI6YjljMjQzNWU5Mjc0",
+        "sourceId": "b9c2435e9274",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:39:00.078Z",
+        "updatedAt": "2026-07-20T00:43:19.197Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.368834211873576,
+          25.37269960767651
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی کنارک",
+        "unofficial_name:fa": "",
+        "date": 1784502780,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان کنارک",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://t.me/VahidOnline/77286",
+        "id": "MzI6M2MxYWFkZWQ5ZjEw",
+        "publicId": "MzI6M2MxYWFkZWQ5ZjEw",
+        "sourceId": "3c1aaded9f10",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:40:43.099Z",
+        "updatedAt": "2026-07-20T00:40:43.099Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.65549331163845,
+          25.31193262726002
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی چابهار",
+        "unofficial_name:fa": "",
+        "date": 1784502780,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان چابهار",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://t.me/VahidOnline/77286",
+        "id": "MzI6MGJmNDBhZWY4YmNl",
+        "publicId": "MzI6MGJmNDBhZWY4YmNl",
+        "sourceId": "0bf40aef8bce",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:41:16.692Z",
+        "updatedAt": "2026-07-20T00:41:16.692Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.03419594735436,
+          30.551616738236092
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی سربندر",
+        "unofficial_name:fa": "",
+        "date": 1784504280,
+        "geolocates": "هدف نامشخص",
+        "description": "",
+        "city": "بندر امام خمینی",
+        "province": "استان خوزستان",
+        "sources": "https://t.me/VahidOnline/77290",
+        "id": "MzI6Yzg0NzU2YWNhYTU1",
+        "publicId": "MzI6Yzg0NzU2YWNhYTU1",
+        "sourceId": "c84756acaa55",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:44:58.707Z",
+        "updatedAt": "2026-07-20T00:44:58.707Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.79531864882881,
+          25.711610058105734
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی جاسک",
+        "unofficial_name:fa": "",
+        "date": 1784504400,
+        "geolocates": "",
+        "description": "هدف نامشخص",
+        "city": "شهرستان جاسک",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77291",
+        "id": "MzI6ZTE5ODQ3ZDViZDFj",
+        "publicId": "MzI6ZTE5ODQ3ZDViZDFj",
+        "sourceId": "e19847d5bd1c",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:47:09.950Z",
+        "updatedAt": "2026-07-20T00:47:09.950Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.088968525920365,
+          26.49057093308795
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی سیریک",
+        "unofficial_name:fa": "",
+        "date": 1784504100,
+        "geolocates": "",
+        "description": "هدف نامشخص",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77291",
+        "id": "MzI6ZThlNzRmMTk5OTYy",
+        "publicId": "MzI6ZThlNzRmMTk5OTYy",
+        "sourceId": "e8e74f199962",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:48:07.622Z",
+        "updatedAt": "2026-07-20T00:48:07.622Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.37871157154069,
+          27.19945853526812
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی بندرعباس",
+        "unofficial_name:fa": "",
+        "date": 1784504460,
+        "geolocates": "هدف نامشخص",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77291",
+        "id": "MzI6ZjllMGQ3YjJmMWRk",
+        "publicId": "MzI6ZjllMGQ3YjJmMWRk",
+        "sourceId": "f9e0d7b2f1dd",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:49:01.647Z",
+        "updatedAt": "2026-07-20T00:49:01.647Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44712894432317,
+          28.674576226881484
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی خرموج",
+        "unofficial_name:fa": "",
+        "date": 1784504220,
+        "geolocates": "",
+        "description": "هدف احتمالی: پایگاه موشکی خرموج",
+        "city": "شهرستان دشتی",
+        "province": "استان بوشهر",
+        "sources": "https://t.me/VahidOnline/77292",
+        "id": "MzI6MWZlNGM1YTI4M2Mw",
+        "publicId": "MzI6MWZlNGM1YTI4M2Mw",
+        "sourceId": "1fe4c5a283c0",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-20T00:51:16.413Z",
+        "updatedAt": "2026-07-20T00:51:16.413Z"
+      }
     }
   ],
   "metadata": {
-    "total": 714,
+    "total": 733,
     "layerId": 32,
     "clustered": false,
     "simplified": false
