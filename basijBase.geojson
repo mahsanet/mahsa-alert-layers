@@ -38359,10 +38359,13 @@
         ]
       },
       "properties": {
-        "id": "MToxMzI2NA",
-        "name:fa": "ناحیه مقاومت بسیج شهرستان بابلسر",
+        "name:fa": "سپاه بابلسر",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
         "city": "بابلسر",
         "province": "استان مازندران",
+        "id": "MToxMzI2NA",
         "publicId": "MToxMzI2NA",
         "sourceId": "13264",
         "layerId": 1,
@@ -38372,7 +38375,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:52:52.988Z",
-        "updatedAt": "2026-07-20T00:20:46.427Z"
+        "updatedAt": "2026-07-20T03:31:38.676Z"
       }
     },
     {
@@ -49735,13 +49738,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.362395819992,
-          35.687074240821545
+          51.362317376858186,
+          35.68704700877515
         ]
       },
       "properties": {
         "name:fa": "پایگاه",
-        "description": "بسیج ناحیه | پایگاه مقاومت بسیج مقداد. فعال در سرکوب انقلاب ملی ایران ۱۴۰۴",
+        "unofficial_name:fa": "",
+        "description": "بسیج ناحیه | پایگاه مقاومت بسیج مقداد. فعال در سرکوب انقلاب ملی ایران این مکان مقدااار بسیار اندکی جلوتر قبل از کوچه نخجوان پایگاه مقاومت بسیج فلق میثاق میباشد نام خود پایگاه اشتباه گزارش شده البته محتمل هست که پایگاه ذیل حوزه مقاومت مقداد باشد که در گزارش به این نام اشاره شده۱۴۰۴",
         "date": 1773049994,
         "city": "تهران",
         "province": "استان تهران",
@@ -49755,7 +49759,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-03-24T23:43:21.500Z",
-        "updatedAt": "2026-03-26T02:09:06.500Z"
+        "updatedAt": "2026-07-20T03:03:45.763Z"
       }
     },
     {
@@ -61803,10 +61807,126 @@
         "createdAt": "2026-07-18T05:19:09.719Z",
         "updatedAt": "2026-07-18T05:19:09.719Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0524929628005,
+          35.58120190391931
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج حر بن ریاحی",
+        "description": "پایگاه بسیج حر بن ریاحی",
+        "date": 1784436888,
+        "city": "شهرستان شهریار",
+        "province": "استان تهران",
+        "id": "MTpkNTBkOGE2OTIyZTQ",
+        "publicId": "MTpkNTBkOGE2OTIyZTQ",
+        "sourceId": "d50d8a6922e4",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.197Z",
+        "updatedAt": "2026-07-20T03:20:58.197Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93845,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5781803720692,
+          29.5948410854689
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج و سرکوب",
+        "date": 1784409387,
+        "city": "شیراز",
+        "province": "استان فارس",
+        "id": "MTozNTcyYjAxYzg3NTg",
+        "publicId": "MTozNTcyYjAxYzg3NTg",
+        "sourceId": "3572b01c8758",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.670Z",
+        "updatedAt": "2026-07-20T03:20:58.670Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2376535965621,
+          38.089227748819326
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1784408853,
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTo1ZTQwOWVjZmMxY2E",
+        "publicId": "MTo1ZTQwOWVjZmMxY2E",
+        "sourceId": "5e409ecfc1ca",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.883Z",
+        "updatedAt": "2026-07-20T03:20:58.883Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.95809437486011,
+          27.872116300097588
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد شهید سماچی",
+        "description": "مسجد شهید سماچی ( سید الشهدا) شهر بردستان با سابقه اختفا اسلحه در ایام جنگ ۴۰ روزه و همچنین انتقال دفتری بسیج به مدت ۲ هفته در این مکان در ایام فروردین ماه ۱۴۰۵",
+        "date": 1784353757,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "MTowNzQ1NjExM2ZmMmU",
+        "publicId": "MTowNzQ1NjExM2ZmMmU",
+        "sourceId": "07456113ff2e",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.719Z",
+        "updatedAt": "2026-07-20T03:20:59.719Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2173,
+    "total": 2177,
     "layerId": 1,
     "clustered": false,
     "simplified": false

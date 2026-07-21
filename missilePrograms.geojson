@@ -15312,10 +15312,155 @@
         "createdAt": "2026-07-17T21:36:05.134Z",
         "updatedAt": "2026-07-17T21:36:05.134Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93836,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.506976,
+          33.045575
+        ]
+      },
+      "properties": {
+        "name:fa": "تولید قطعات پهپاد",
+        "description": "این مکان محل تولید قطعات پلاستیکی پهباد که توسط شرکت گیتی پسند تولید میشه و زیر مجموعه جنتی میباشد و مالکیتش در خانواده جنتی میباشد در ده سیلو با مواد پلاستیکی تزریق میشه برخی قطعات و جهت تکمیل شدن ارسال میشه به وزارت دفاع محل نگهداری مواد اولیه پلاستیکیpp",
+        "date": 1784457777,
+        "city": "شهرستان شاهین‌شهر و میمه",
+        "province": "استان اصفهان",
+        "id": "NzpmOGQ1MmI2ZDQ5MDM",
+        "publicId": "NzpmOGQ1MmI2ZDQ5MDM",
+        "sourceId": "f8d52b6d4903",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.986Z",
+        "updatedAt": "2026-07-20T03:20:57.986Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.190712746348396,
+          32.01445097788579
+        ]
+      },
+      "properties": {
+        "name:fa": "زاغه مهمات اشکذر",
+        "description": "زاغه مهمات ناحیه اشکذر",
+        "date": 1784454823,
+        "city": "شهرستان اشکذر",
+        "province": "استان یزد",
+        "id": "NzoxYmZmMzgxYzdhNjI",
+        "publicId": "NzoxYmZmMzgxYzdhNjI",
+        "sourceId": "1bff381c7a62",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.059Z",
+        "updatedAt": "2026-07-20T03:20:58.059Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93838,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.19207508948682,
+          32.01457070642137
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار سپاه - لانچر",
+        "description": "انبار سپاه حضور لانچر",
+        "date": 1784454756,
+        "city": "شهرستان اشکذر",
+        "province": "استان یزد",
+        "id": "NzpjNzBkYWZmYWJhZjg",
+        "publicId": "NzpjNzBkYWZmYWJhZjg",
+        "sourceId": "c70daffabaf8",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.129Z",
+        "updatedAt": "2026-07-20T03:20:58.129Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93840,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.493177569962256,
+          35.6020249577563
+        ]
+      },
+      "properties": {
+        "name:fa": "محل پرتاب موشک سجیل",
+        "description": "این مکان در زمان جنگ شاهد رفت و آمد خودروها بوده و در جنگ 40 روزه، موشک سجیل از همین کوه پرتاب شده است.",
+        "date": 1784431106,
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "id": "NzphNjFjZjFjMWQxZmM",
+        "publicId": "NzphNjFjZjFjMWQxZmM",
+        "sourceId": "a61cf1c1d1fc",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.278Z",
+        "updatedAt": "2026-07-20T03:20:58.278Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93861,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.943667184834055,
+          27.874432995936928
+        ]
+      },
+      "properties": {
+        "name:fa": "مکان موشکی و پهپادی",
+        "description": "این منطقه در ایام جنگ ۴۰ روزه از شهر بردستان در فروردین ماه از این مکان موشک شلیک شد و سابقه شلیک پهپاد دارد. از جاده اصلی تا اینجا مسیر جاده خاکی است که تردد ماشین لانچر بدون مشکل و تسهیل شده است. در اردیبهشت ماه چند بمب عمل نکرده آمریکایی در این منطقه خنثی سازی کردند که صدای آن آمد و مسئولین شهری اعلام کردند عملیات خنثی سازی بوده. این منطقه کاملاً نظامی و صد در صد مورد استفاده و شلیک پهپاد و موشک بوده است.",
+        "date": 1784353606,
+        "city": "شهرستان دیر",
+        "province": "استان بوشهر",
+        "id": "NzphMTNiOTEzNmEyMTQ",
+        "publicId": "NzphMTNiOTEzNmEyMTQ",
+        "sourceId": "a13b9136a214",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.869Z",
+        "updatedAt": "2026-07-20T03:20:59.869Z"
+      }
     }
   ],
   "metadata": {
-    "total": 137,
+    "total": 142,
     "layerId": 7,
     "clustered": false,
     "simplified": false

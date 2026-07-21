@@ -22890,10 +22890,106 @@
         "createdAt": "2026-07-20T00:51:16.413Z",
         "updatedAt": "2026-07-20T00:51:16.413Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93894,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.650919351935556,
+          25.311832011895675
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی چابهار",
+        "unofficial_name:fa": "",
+        "date": 1784513940,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان چابهار",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://t.me/VahidOnline/77297",
+        "id": "MzI6Y2YzYWJjNzRiY2Yw",
+        "publicId": "MzI6Y2YzYWJjNzRiY2Yw",
+        "sourceId": "cf3abc74bcf0",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-20T14:39:19.433Z",
+        "updatedAt": "2026-07-20T14:43:50.428Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.45182548747539,
+          29.703469702122717
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در صنایع الکترونیک شیراز",
+        "unofficial_name:fa": "",
+        "date": 1784554560,
+        "geolocates": "",
+        "description": "",
+        "city": "شیراز",
+        "province": "استان فارس",
+        "sources": "https://x.com/Vahid/status/2079212113260581197, https://t.me/VahidOnline/77300",
+        "id": "MzI6Yjg3YmQ0NGRhYzNl",
+        "publicId": "MzI6Yjg3YmQ0NGRhYzNl",
+        "sourceId": "b87bd44dac3e",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-20T14:42:38.192Z",
+        "updatedAt": "2026-07-20T14:42:38.192Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.41931960792144,
+          29.666800266027067
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "زیرساخت‌های ارتباطی",
+        "unofficial_name:fa": "",
+        "date": 1784581800,
+        "geolocates": "",
+        "description": "ستونی از دود بر فراز کوه دراک در شیراز دیده می‌شود. بر اساس محل مشاهده، به نظر می‌رسد حملات احتمالاً زیرساخت‌های ارتباطی را هدف قرار داده‌اند.",
+        "city": "شهرستان شیراز",
+        "province": "استان فارس",
+        "sources": "https://x.com/zarGEOINT/status/2079325560463917215?s=20",
+        "id": "MzI6OGE2N2ViZGJkYjU2",
+        "publicId": "MzI6OGE2N2ViZGJkYjU2",
+        "sourceId": "8a67ebdbdb56",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T22:21:41.194Z",
+        "updatedAt": "2026-07-20T22:21:41.194Z"
+      }
     }
   ],
   "metadata": {
-    "total": 733,
+    "total": 736,
     "layerId": 32,
     "clustered": false,
     "simplified": false

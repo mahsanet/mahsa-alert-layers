@@ -158492,10 +158492,97 @@
         "createdAt": "2026-07-18T07:56:54.483Z",
         "updatedAt": "2026-07-18T07:56:54.483Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93841,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.753123802118154,
+          29.229163588764578
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان ویژه",
+        "description": "یگان ویژه و سرکوب",
+        "date": 1784424442,
+        "city": "شهرستان کوار",
+        "province": "استان فارس",
+        "id": "Mzo2ZjAxZjAwZDA5NDc",
+        "publicId": "Mzo2ZjAxZjAwZDA5NDc",
+        "sourceId": "6f01f00d0947",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.352Z",
+        "updatedAt": "2026-07-20T03:20:58.352Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.23789649366577,
+          38.087636487115105
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 18",
+        "description": "کلانتری 18",
+        "date": 1784408919,
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mzo3N2QyMjUyMzVhNDc",
+        "publicId": "Mzo3N2QyMjUyMzVhNDc",
+        "sourceId": "77d225235a47",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.813Z",
+        "updatedAt": "2026-07-20T03:20:58.813Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.64479217595411,
+          36.69816186420387
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز فرماندهی انتظامی",
+        "description": "مرکز فرماندهی کل نیروی انتظامی",
+        "date": 1784362161,
+        "city": "بابلسر",
+        "province": "استان مازندران",
+        "id": "MzpjNGQwY2JkZjg4NWU",
+        "publicId": "MzpjNGQwY2JkZjg4NWU",
+        "sourceId": "c4d0cbdf885e",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.429Z",
+        "updatedAt": "2026-07-20T03:20:59.429Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6058,
+    "total": 6061,
     "layerId": 3,
     "clustered": false,
     "simplified": false

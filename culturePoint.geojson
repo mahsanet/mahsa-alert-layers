@@ -77686,10 +77686,97 @@
         "createdAt": "2026-07-18T07:57:24.465Z",
         "updatedAt": "2026-07-18T07:57:24.465Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.63309,
+          31.367589
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه دو اهواز",
+        "description": "شهرداری منطقه دو اهواز",
+        "date": 1784471659,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MTc6ZDRkZTQwMGI1NWU5",
+        "publicId": "MTc6ZDRkZTQwMGI1NWU5",
+        "sourceId": "d4de400b55e9",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.898Z",
+        "updatedAt": "2026-07-20T03:20:57.898Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93851,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.04713516041818,
+          36.559689492661334
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری ساری",
+        "description": "شهرداری ساری",
+        "date": 1784384686,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MTc6MWRlMjczZWI4NmY5",
+        "publicId": "MTc6MWRlMjczZWI4NmY5",
+        "sourceId": "1de273eb86f9",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.122Z",
+        "updatedAt": "2026-07-20T03:20:59.122Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.956345094588784,
+          27.882144436839795
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان شهرداری بردستان",
+        "description": "ساختمان شهرداری شهر بردستان",
+        "date": 1784353955,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "MTc6NGY0ZTNjZmFiMTVk",
+        "publicId": "MTc6NGY0ZTNjZmFiMTVk",
+        "sourceId": "4f4e3cfab15d",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.648Z",
+        "updatedAt": "2026-07-20T03:20:59.648Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2337,
+    "total": 2340,
     "layerId": 17,
     "clustered": false,
     "simplified": false

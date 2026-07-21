@@ -499663,10 +499663,1344 @@
         "createdAt": "2026-07-18T05:19:09.826Z",
         "updatedAt": "2026-07-18T05:19:09.826Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.688297,
+          31.334333
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین ترافیک پل هفتم",
+        "description": "دوربین ترافیک پل هفتم",
+        "date": 1784474177,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NWU1OGMyOGE4OGE0",
+        "publicId": "MjA6NWU1OGMyOGE4OGE0",
+        "sourceId": "5e58c28a88a4",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:56.518Z",
+        "updatedAt": "2026-07-20T03:20:56.518Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.685859,
+          31.336417
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین ترافیک پل هفتم",
+        "description": "دوربین ترافیک پل هفتم",
+        "date": 1784474151,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NDNkNTM5YzU4OTEy",
+        "publicId": "MjA6NDNkNTM5YzU4OTEy",
+        "sourceId": "43d539c58912",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:56.677Z",
+        "updatedAt": "2026-07-20T03:20:56.677Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.652188,
+          31.372678
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه مدرس",
+        "date": 1784474029,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ZmM5NmFmNTIxMGZk",
+        "publicId": "MjA6ZmM5NmFmNTIxMGZk",
+        "sourceId": "fc96af5210fd",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:56.783Z",
+        "updatedAt": "2026-07-20T03:20:56.783Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.685473,
+          31.319515
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "description": "دوربین نظارتی و ترافیکی",
+        "date": 1784473920,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NDJlNWYxZWI3ZjMy",
+        "publicId": "MjA6NDJlNWYxZWI3ZjMy",
+        "sourceId": "42e5f1eb7f32",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:56.876Z",
+        "updatedAt": "2026-07-20T03:20:56.876Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.688364,
+          31.353778
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک",
+        "date": 1784473304,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NWZmNzUxOTQ4MmNi",
+        "publicId": "MjA6NWZmNzUxOTQ4MmNi",
+        "sourceId": "5ff7519482cb",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:56.975Z",
+        "updatedAt": "2026-07-20T03:20:56.975Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.686063,
+          31.347424
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک",
+        "date": 1784473267,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ZWJhNDU3M2JjMGZi",
+        "publicId": "MjA6ZWJhNDU3M2JjMGZi",
+        "sourceId": "eba4573bc0fb",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.106Z",
+        "updatedAt": "2026-07-20T03:20:57.106Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.642051,
+          31.36543
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک سپه",
+        "description": "دوربین بانک سپه",
+        "date": 1784473029,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NmRiZTE4YzQ2ZGIy",
+        "publicId": "MjA6NmRiZTE4YzQ2ZGIy",
+        "sourceId": "6dbe18c46db2",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.204Z",
+        "updatedAt": "2026-07-20T03:20:57.204Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.636549,
+          31.366678
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک مسکن",
+        "description": "دوربین بانک مسکن",
+        "date": 1784472985,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MTUwN2JjODk1YTc2",
+        "publicId": "MjA6MTUwN2JjODk1YTc2",
+        "sourceId": "1507bc895a76",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.303Z",
+        "updatedAt": "2026-07-20T03:20:57.303Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.633092,
+          31.367484
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین شهرداری منطقه دو",
+        "description": "دوربین امنیتی شهرداری منطقه دو",
+        "date": 1784472922,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6OGMxYTEwMzIzMDVi",
+        "publicId": "MjA6OGMxYTEwMzIzMDVi",
+        "sourceId": "8c1a1032305b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.376Z",
+        "updatedAt": "2026-07-20T03:20:57.376Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93830,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.677515,
+          31.338788
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین ترافیک بلوار پهلوان",
+        "description": "دوربین ترافیک شهری بلوار پهلوان غربی",
+        "date": 1784472134,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6OWI5YjViYTA4NWYx",
+        "publicId": "MjA6OWI5YjViYTA4NWYx",
+        "sourceId": "9b9b5ba085f1",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.485Z",
+        "updatedAt": "2026-07-20T03:20:57.485Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.683472,
+          31.341209
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین ترافیک کیانپارس",
+        "description": "دوربین ترافیک و نظارت شهری فلکه سوم کیانپارس",
+        "date": 1784471927,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ZmEzMTcyZGQ4YjQ3",
+        "publicId": "MjA6ZmEzMTcyZGQ4YjQ3",
+        "sourceId": "fa3172dd8b47",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.569Z",
+        "updatedAt": "2026-07-20T03:20:57.569Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93832,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.669147,
+          31.371081
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین ترافیک مدرس",
+        "description": "دوربین کنترل ترافیک شهری بزرگراه مدرس_غرب",
+        "date": 1784471885,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ZmY2ZDdmZDliOGEz",
+        "publicId": "MjA6ZmY2ZDdmZDliOGEz",
+        "sourceId": "ff6d7fd9b8a3",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.638Z",
+        "updatedAt": "2026-07-20T03:20:57.638Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93833,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.669077,
+          31.370912
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک شهری بزرگراه مدرس_شرق",
+        "date": 1784471821,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NTgxZTRkZTc3OWVm",
+        "publicId": "MjA6NTgxZTRkZTc3OWVm",
+        "sourceId": "581e4de779ef",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.714Z",
+        "updatedAt": "2026-07-20T03:20:57.714Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.04329720836989,
+          36.558780946567964
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "description": "دوربین",
+        "date": 1784384824,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MjA6MDlhOTkxN2IxYzE0",
+        "publicId": "MjA6MDlhOTkxN2IxYzE0",
+        "sourceId": "09a9917b1c14",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.976Z",
+        "updatedAt": "2026-07-20T03:20:58.976Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93850,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.04600377131234,
+          36.56054179215438
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "description": "دوربین",
+        "date": 1784384742,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MjA6ZTkwMmNjOWNiNWZl",
+        "publicId": "MjA6ZTkwMmNjOWNiNWZl",
+        "sourceId": "e902cc9cb5fe",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.051Z",
+        "updatedAt": "2026-07-20T03:20:59.051Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93852,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.04471029332538,
+          36.55962453814125
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "description": "دوربین",
+        "date": 1784384595,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MjA6NDNkMTFjNTk1OTNm",
+        "publicId": "MjA6NDNkMTFjNTk1OTNm",
+        "sourceId": "43d11c59593f",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.195Z",
+        "updatedAt": "2026-07-20T03:20:59.195Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93853,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.036139122821794,
+          36.55501197704125
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "description": "دوربین",
+        "date": 1784384554,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MjA6OGE5NzBmZTViZmQ0",
+        "publicId": "MjA6OGE5NzBmZTViZmQ0",
+        "sourceId": "8a970fe5bfd4",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.273Z",
+        "updatedAt": "2026-07-20T03:20:59.273Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.03907975721418,
+          36.55671569994034
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "description": "دوربین",
+        "date": 1784384445,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MjA6MDNhYzRjOTVkNzQ2",
+        "publicId": "MjA6MDNhYzRjOTVkNzQ2",
+        "sourceId": "03ac4c95d746",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.354Z",
+        "updatedAt": "2026-07-20T03:20:59.354Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93862,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.680476,
+          31.338079
+        ]
+      },
+      "properties": {
+        "name:fa": "کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک تقاطع پهلوان",
+        "date": 1784473356,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MTRiMWRkNmY0ZjA1",
+        "publicId": "MjA6MTRiMWRkNmY0ZjA1",
+        "sourceId": "14b1dd6f4f05",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:33:51.202Z",
+        "updatedAt": "2026-07-20T03:33:51.202Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93863,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.682762,
+          31.360479
+        ]
+      },
+      "properties": {
+        "name:fa": "کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک شهری بزرگراه مدرس_شرق",
+        "date": 1784472058,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MWVhOTMyMWQ5N2Fi",
+        "publicId": "MjA6MWVhOTMyMWQ5N2Fi",
+        "sourceId": "1ea9321d97ab",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:33:51.324Z",
+        "updatedAt": "2026-07-20T03:33:51.324Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93867,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.641592,
+          31.302287
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه گلستان_شمال",
+        "date": 1784523709,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NTM3ZmJkYmRlOTdi",
+        "publicId": "MjA6NTM3ZmJkYmRlOTdi",
+        "sourceId": "537fbdbde97b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:50.869Z",
+        "updatedAt": "2026-07-20T07:48:50.869Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.642005,
+          31.30269
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه گلستان_جنوب",
+        "date": 1784523619,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MzhkMDM0OTM0NzQ5",
+        "publicId": "MjA6MzhkMDM0OTM0NzQ5",
+        "sourceId": "38d034934749",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:50.992Z",
+        "updatedAt": "2026-07-20T07:48:50.992Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.651704,
+          31.307446
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه گلستان_شمال",
+        "date": 1784523512,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6OTljNDAyZjcwYTYz",
+        "publicId": "MjA6OTljNDAyZjcwYTYz",
+        "sourceId": "99c402f70a63",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.224Z",
+        "updatedAt": "2026-07-20T07:48:51.224Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93871,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.650984,
+          31.3073
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه گلستان_جنوب",
+        "date": 1784523477,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MTBlYWI2MjE0ZDlk",
+        "publicId": "MjA6MTBlYWI2MjE0ZDlk",
+        "sourceId": "10eab6214d9d",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.319Z",
+        "updatedAt": "2026-07-20T07:48:51.319Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.658223,
+          31.284256
+        ]
+      },
+      "properties": {
+        "name:fa": "کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بلوار ساحلی غربی_جنوب",
+        "date": 1784522947,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MjNmY2I0ZjI0YjRi",
+        "publicId": "MjA6MjNmY2I0ZjI0YjRi",
+        "sourceId": "23fcb4f24b4b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.409Z",
+        "updatedAt": "2026-07-20T07:48:51.409Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.658318,
+          31.284164
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بلوار ساحلی غربی_شمال",
+        "date": 1784522896,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6OTg1MzZkMzU3NmUx",
+        "publicId": "MjA6OTg1MzZkMzU3NmUx",
+        "sourceId": "98536d3576e1",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.481Z",
+        "updatedAt": "2026-07-20T07:48:51.481Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.661042,
+          31.297648
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بلوار ساحلی غربی_شمال",
+        "date": 1784522774,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6M2QxMGMzMzc5YmQ5",
+        "publicId": "MjA6M2QxMGMzMzc5YmQ5",
+        "sourceId": "3d10c3379bd9",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.559Z",
+        "updatedAt": "2026-07-20T07:48:51.559Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.663197,
+          31.304762
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک ساحلی غربی_جنوب",
+        "date": 1784522724,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6Njk1MDlkMDlkYWM0",
+        "publicId": "MjA6Njk1MDlkMDlkYWM0",
+        "sourceId": "69509d09dac4",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.631Z",
+        "updatedAt": "2026-07-20T07:48:51.631Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.663298,
+          31.305252
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک کندرو ساحلی غربی_جنوب",
+        "date": 1784522693,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NmVkOTU5NThhNmUy",
+        "publicId": "MjA6NmVkOTU5NThhNmUy",
+        "sourceId": "6ed95958a6e2",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.706Z",
+        "updatedAt": "2026-07-20T07:48:51.706Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.67371,
+          31.312893
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بلوار ساحلی شرقی_جنوب",
+        "date": 1784522605,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ODJiMDkyMjg3MWVi",
+        "publicId": "MjA6ODJiMDkyMjg3MWVi",
+        "sourceId": "82b0922871eb",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.788Z",
+        "updatedAt": "2026-07-20T07:48:51.788Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.678134,
+          31.319039
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین نظارت و کنترل ترافیک شهری",
+        "date": 1784522550,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6N2Y1Njg5MjhhNzgz",
+        "publicId": "MjA6N2Y1Njg5MjhhNzgz",
+        "sourceId": "7f568928a783",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.878Z",
+        "updatedAt": "2026-07-20T07:48:51.878Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93879,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.672998,
+          31.320262
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک پل نادری_شرق",
+        "date": 1784522522,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6YmM5OTg2MWYwNmRj",
+        "publicId": "MjA6YmM5OTg2MWYwNmRj",
+        "sourceId": "bc99861f06dc",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.951Z",
+        "updatedAt": "2026-07-20T07:48:51.951Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.564716,
+          31.288114
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه هاشمی_شمال",
+        "date": 1784522460,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MmIwZTI3MGMwMThi",
+        "publicId": "MjA6MmIwZTI3MGMwMThi",
+        "sourceId": "2b0e270c018b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.018Z",
+        "updatedAt": "2026-07-20T07:48:52.018Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.582008,
+          31.298946
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه هاشمی_شمال",
+        "date": 1784522408,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ODQwMjExZTU4MTBi",
+        "publicId": "MjA6ODQwMjExZTU4MTBi",
+        "sourceId": "840211e5810b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.091Z",
+        "updatedAt": "2026-07-20T07:48:52.091Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.683228,
+          31.356122
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی دبیرستان علامه طباطبایی",
+        "date": 1784522236,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MzVlY2ZjZjZmZWFi",
+        "publicId": "MjA6MzVlY2ZjZjZmZWFi",
+        "sourceId": "35ecfcf6feab",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.166Z",
+        "updatedAt": "2026-07-20T07:48:52.166Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93883,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.683097,
+          31.348246
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین دبیرستان آزادی",
+        "description": "دوربین امنیتی دبیرستان آزادی",
+        "date": 1784522201,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ZjgyNGYwZDg2ZmM2",
+        "publicId": "MjA6ZjgyNGYwZDg2ZmM2",
+        "sourceId": "f824f0d86fc6",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.240Z",
+        "updatedAt": "2026-07-20T07:48:52.240Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93884,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.682799,
+          31.347585
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین دبیرستان آزادی",
+        "description": "دوربین امنیتی دبیرستان آزادی",
+        "date": 1784522172,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MWFlNDkwNTM3N2Mx",
+        "publicId": "MjA6MWFlNDkwNTM3N2Mx",
+        "sourceId": "1ae4905377c1",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.343Z",
+        "updatedAt": "2026-07-20T07:48:52.343Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.626742,
+          31.348155
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه هاشمی_شمال",
+        "date": 1784522138,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ZTIyYmU4YTlkMjli",
+        "publicId": "MjA6ZTIyYmU4YTlkMjli",
+        "sourceId": "e22be8a9d29b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.410Z",
+        "updatedAt": "2026-07-20T07:48:52.410Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93886,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.626085,
+          31.347937
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه هاشمی_جنوب",
+        "date": 1784522111,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MTVmYjk1ZGY4NmYz",
+        "publicId": "MjA6MTVmYjk1ZGY4NmYz",
+        "sourceId": "15fb95df86f3",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.478Z",
+        "updatedAt": "2026-07-20T07:48:52.478Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.61786,
+          31.369793
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه هاشمی_شمال",
+        "date": 1784522035,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MzEzYzk0NmRjNmNh",
+        "publicId": "MjA6MzEzYzk0NmRjNmNh",
+        "sourceId": "313c946dc6ca",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.542Z",
+        "updatedAt": "2026-07-20T07:48:52.542Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.617326,
+          31.369806
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه هاشمی_جنوب",
+        "date": 1784522004,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MjE1MzA2NzMxNjg4",
+        "publicId": "MjA6MjE1MzA2NzMxNjg4",
+        "sourceId": "215306731688",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.616Z",
+        "updatedAt": "2026-07-20T07:48:52.616Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.625637,
+          31.375573
+        ]
+      },
+      "properties": {
+        "name:fa": "کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه مدرس_غرب",
+        "date": 1784521892,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6YmMzYWMxZTJjZTdm",
+        "publicId": "MjA6YmMzYWMxZTJjZTdm",
+        "sourceId": "bc3ac1e2ce7f",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.687Z",
+        "updatedAt": "2026-07-20T07:48:52.687Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.636116,
+          31.372748
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی مسجد",
+        "description": "دوربین های نظارتی مسجد امیرالمونین",
+        "date": 1784521787,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6OWFjYjA3NTYzMTI0",
+        "publicId": "MjA6OWFjYjA3NTYzMTI0",
+        "sourceId": "9acb07563124",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.759Z",
+        "updatedAt": "2026-07-20T07:48:52.759Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.68287,
+          31.36052
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه مدرس_غرب",
+        "date": 1784521728,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6M2JiZWE5YzYzZGFh",
+        "publicId": "MjA6M2JiZWE5YzYzZGFh",
+        "sourceId": "3bbea9c63daa",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.835Z",
+        "updatedAt": "2026-07-20T07:48:52.835Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.72216,
+          31.354017
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "description": "دوربین نظارتی شرق پارک زیتون",
+        "date": 1784521681,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NWU4OTE5NTcxMzNh",
+        "publicId": "MjA6NWU4OTE5NTcxMzNh",
+        "sourceId": "5e891957133a",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.914Z",
+        "updatedAt": "2026-07-20T07:48:52.914Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93893,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.720928,
+          31.355714
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "description": "دوربین نظارتی غرب پارک زیتون",
+        "date": 1784521654,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6YzQ5ZmI4MzJkZGIz",
+        "publicId": "MjA6YzQ5ZmI4MzJkZGIz",
+        "sourceId": "c49fb832ddb3",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.991Z",
+        "updatedAt": "2026-07-20T07:48:52.991Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18489,
+    "total": 18535,
     "layerId": 20,
     "clustered": false,
     "simplified": false

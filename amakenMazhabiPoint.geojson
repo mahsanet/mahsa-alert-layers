@@ -145483,10 +145483,97 @@
         "createdAt": "2026-07-17T21:36:04.764Z",
         "updatedAt": "2026-07-17T21:36:04.764Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93834,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.636173,
+          31.37293
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امیرالمونین",
+        "description": "مسجد امیرالمونین",
+        "date": 1784471713,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "NDowMzY0ZTYxNjY2MDc",
+        "publicId": "NDowMzY0ZTYxNjY2MDc",
+        "sourceId": "0364e6166607",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.813Z",
+        "updatedAt": "2026-07-20T03:20:57.813Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.23726997906266,
+          38.08618903480016
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "مسجد",
+        "date": 1784409344,
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "NDoyZDM1YmUwMWU2ZGU",
+        "publicId": "NDoyZDM1YmUwMWU2ZGU",
+        "sourceId": "2d35be01e6de",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.743Z",
+        "updatedAt": "2026-07-20T03:20:58.743Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93860,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.95655723915655,
+          27.87111403285823
+        ]
+      },
+      "properties": {
+        "name:fa": "امام زاده بردستان",
+        "description": "مقبره و امام زاده شهر بردستان",
+        "date": 1784353661,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "NDpmMzliN2Y1Y2FiNGI",
+        "publicId": "NDpmMzliN2Y1Y2FiNGI",
+        "sourceId": "f39b7f5cab4b",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.794Z",
+        "updatedAt": "2026-07-20T03:20:59.794Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5584,
+    "total": 5587,
     "layerId": 4,
     "clustered": false,
     "simplified": false

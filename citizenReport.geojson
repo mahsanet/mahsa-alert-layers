@@ -17558,13 +17558,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.362395819992,
-          35.687074240821545
+          51.362317376858186,
+          35.68704700877515
         ]
       },
       "properties": {
         "name:fa": "پایگاه",
-        "description": "بسیج ناحیه | پایگاه مقاومت بسیج مقداد. فعال در سرکوب انقلاب ملی ایران ۱۴۰۴",
+        "unofficial_name:fa": "",
+        "description": "بسیج ناحیه | پایگاه مقاومت بسیج مقداد. فعال در سرکوب انقلاب ملی ایران این مکان مقدااار بسیار اندکی جلوتر قبل از کوچه نخجوان پایگاه مقاومت بسیج فلق میثاق میباشد نام خود پایگاه اشتباه گزارش شده البته محتمل هست که پایگاه ذیل حوزه مقاومت مقداد باشد که در گزارش به این نام اشاره شده۱۴۰۴",
         "date": 1773049994,
         "city": "تهران",
         "province": "استان تهران",
@@ -17578,7 +17579,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-03-24T23:43:21.500Z",
-        "updatedAt": "2026-03-26T02:09:06.500Z"
+        "updatedAt": "2026-07-20T03:03:45.763Z"
       }
     },
     {
@@ -92902,21 +92903,22 @@
       },
       "properties": {
         "name:fa": "استقرار نیرو نظامی",
-        "description": "انتن مخابراتی استقرار نیرو نظامی",
-        "date": 1784448994,
         "city": "شهرستان چابهار",
         "province": "استان سیستان و بلوچستان",
+        "date": 1784448994,
+        "description": "اقامت پرسنل پشتیبان نظامی لانچری تجهیزات مخابراتی",
+        "sources": "",
         "id": "MzY6MTM5NzE5NTFlYzk2",
         "publicId": "MzY6MTM5NzE5NTFlYzk2",
         "sourceId": "13971951ec96",
         "layerId": 36,
-        "type": "event",
+        "type": "location",
         "status": "active",
         "urgency": null,
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-07-20T00:15:55.967Z",
-        "updatedAt": "2026-07-20T00:15:55.967Z"
+        "updatedAt": "2026-07-20T03:08:25.836Z"
       }
     },
     {
@@ -93469,10 +93471,2157 @@
         "createdAt": "2026-07-20T00:15:57.462Z",
         "updatedAt": "2026-07-20T00:15:57.462Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.688297,
+          31.334333
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین ترافیک پل هفتم",
+        "description": "دوربین ترافیک پل هفتم",
+        "date": 1784474177,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NWU1OGMyOGE4OGE0",
+        "publicId": "MjA6NWU1OGMyOGE4OGE0",
+        "sourceId": "5e58c28a88a4",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:56.518Z",
+        "updatedAt": "2026-07-20T03:20:56.518Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.685859,
+          31.336417
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین ترافیک پل هفتم",
+        "description": "دوربین ترافیک پل هفتم",
+        "date": 1784474151,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NDNkNTM5YzU4OTEy",
+        "publicId": "MjA6NDNkNTM5YzU4OTEy",
+        "sourceId": "43d539c58912",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:56.677Z",
+        "updatedAt": "2026-07-20T03:20:56.677Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.652188,
+          31.372678
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه مدرس",
+        "date": 1784474029,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ZmM5NmFmNTIxMGZk",
+        "publicId": "MjA6ZmM5NmFmNTIxMGZk",
+        "sourceId": "fc96af5210fd",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:56.783Z",
+        "updatedAt": "2026-07-20T03:20:56.783Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.685473,
+          31.319515
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "description": "دوربین نظارتی و ترافیکی",
+        "date": 1784473920,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NDJlNWYxZWI3ZjMy",
+        "publicId": "MjA6NDJlNWYxZWI3ZjMy",
+        "sourceId": "42e5f1eb7f32",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:56.876Z",
+        "updatedAt": "2026-07-20T03:20:56.876Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.688364,
+          31.353778
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک",
+        "date": 1784473304,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NWZmNzUxOTQ4MmNi",
+        "publicId": "MjA6NWZmNzUxOTQ4MmNi",
+        "sourceId": "5ff7519482cb",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:56.975Z",
+        "updatedAt": "2026-07-20T03:20:56.975Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.686063,
+          31.347424
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک",
+        "date": 1784473267,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ZWJhNDU3M2JjMGZi",
+        "publicId": "MjA6ZWJhNDU3M2JjMGZi",
+        "sourceId": "eba4573bc0fb",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.106Z",
+        "updatedAt": "2026-07-20T03:20:57.106Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.642051,
+          31.36543
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک سپه",
+        "description": "دوربین بانک سپه",
+        "date": 1784473029,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NmRiZTE4YzQ2ZGIy",
+        "publicId": "MjA6NmRiZTE4YzQ2ZGIy",
+        "sourceId": "6dbe18c46db2",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.204Z",
+        "updatedAt": "2026-07-20T03:20:57.204Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.636549,
+          31.366678
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک مسکن",
+        "description": "دوربین بانک مسکن",
+        "date": 1784472985,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MTUwN2JjODk1YTc2",
+        "publicId": "MjA6MTUwN2JjODk1YTc2",
+        "sourceId": "1507bc895a76",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.303Z",
+        "updatedAt": "2026-07-20T03:20:57.303Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.633092,
+          31.367484
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین شهرداری منطقه دو",
+        "description": "دوربین امنیتی شهرداری منطقه دو",
+        "date": 1784472922,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6OGMxYTEwMzIzMDVi",
+        "publicId": "MjA6OGMxYTEwMzIzMDVi",
+        "sourceId": "8c1a1032305b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.376Z",
+        "updatedAt": "2026-07-20T03:20:57.376Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93830,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.677515,
+          31.338788
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین ترافیک بلوار پهلوان",
+        "description": "دوربین ترافیک شهری بلوار پهلوان غربی",
+        "date": 1784472134,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6OWI5YjViYTA4NWYx",
+        "publicId": "MjA6OWI5YjViYTA4NWYx",
+        "sourceId": "9b9b5ba085f1",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.485Z",
+        "updatedAt": "2026-07-20T03:20:57.485Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.683472,
+          31.341209
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین ترافیک کیانپارس",
+        "description": "دوربین ترافیک و نظارت شهری فلکه سوم کیانپارس",
+        "date": 1784471927,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ZmEzMTcyZGQ4YjQ3",
+        "publicId": "MjA6ZmEzMTcyZGQ4YjQ3",
+        "sourceId": "fa3172dd8b47",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.569Z",
+        "updatedAt": "2026-07-20T03:20:57.569Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93832,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.669147,
+          31.371081
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین ترافیک مدرس",
+        "description": "دوربین کنترل ترافیک شهری بزرگراه مدرس_غرب",
+        "date": 1784471885,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ZmY2ZDdmZDliOGEz",
+        "publicId": "MjA6ZmY2ZDdmZDliOGEz",
+        "sourceId": "ff6d7fd9b8a3",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.638Z",
+        "updatedAt": "2026-07-20T03:20:57.638Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93833,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.669077,
+          31.370912
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک شهری بزرگراه مدرس_شرق",
+        "date": 1784471821,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NTgxZTRkZTc3OWVm",
+        "publicId": "MjA6NTgxZTRkZTc3OWVm",
+        "sourceId": "581e4de779ef",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.714Z",
+        "updatedAt": "2026-07-20T03:20:57.714Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93834,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.636173,
+          31.37293
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امیرالمونین",
+        "description": "مسجد امیرالمونین",
+        "date": 1784471713,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "NDowMzY0ZTYxNjY2MDc",
+        "publicId": "NDowMzY0ZTYxNjY2MDc",
+        "sourceId": "0364e6166607",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.813Z",
+        "updatedAt": "2026-07-20T03:20:57.813Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.63309,
+          31.367589
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه دو اهواز",
+        "description": "شهرداری منطقه دو اهواز",
+        "date": 1784471659,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MTc6ZDRkZTQwMGI1NWU5",
+        "publicId": "MTc6ZDRkZTQwMGI1NWU5",
+        "sourceId": "d4de400b55e9",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.898Z",
+        "updatedAt": "2026-07-20T03:20:57.898Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93836,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.506976,
+          33.045575
+        ]
+      },
+      "properties": {
+        "name:fa": "تولید قطعات پهپاد",
+        "description": "این مکان محل تولید قطعات پلاستیکی پهباد که توسط شرکت گیتی پسند تولید میشه و زیر مجموعه جنتی میباشد و مالکیتش در خانواده جنتی میباشد در ده سیلو با مواد پلاستیکی تزریق میشه برخی قطعات و جهت تکمیل شدن ارسال میشه به وزارت دفاع محل نگهداری مواد اولیه پلاستیکیpp",
+        "date": 1784457777,
+        "city": "شهرستان شاهین‌شهر و میمه",
+        "province": "استان اصفهان",
+        "id": "NzpmOGQ1MmI2ZDQ5MDM",
+        "publicId": "NzpmOGQ1MmI2ZDQ5MDM",
+        "sourceId": "f8d52b6d4903",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:57.986Z",
+        "updatedAt": "2026-07-20T03:20:57.986Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.190712746348396,
+          32.01445097788579
+        ]
+      },
+      "properties": {
+        "name:fa": "زاغه مهمات اشکذر",
+        "description": "زاغه مهمات ناحیه اشکذر",
+        "date": 1784454823,
+        "city": "شهرستان اشکذر",
+        "province": "استان یزد",
+        "id": "NzoxYmZmMzgxYzdhNjI",
+        "publicId": "NzoxYmZmMzgxYzdhNjI",
+        "sourceId": "1bff381c7a62",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.059Z",
+        "updatedAt": "2026-07-20T03:20:58.059Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93838,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.19207508948682,
+          32.01457070642137
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار سپاه - لانچر",
+        "description": "انبار سپاه حضور لانچر",
+        "date": 1784454756,
+        "city": "شهرستان اشکذر",
+        "province": "استان یزد",
+        "id": "NzpjNzBkYWZmYWJhZjg",
+        "publicId": "NzpjNzBkYWZmYWJhZjg",
+        "sourceId": "c70daffabaf8",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.129Z",
+        "updatedAt": "2026-07-20T03:20:58.129Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0524929628005,
+          35.58120190391931
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج حر بن ریاحی",
+        "description": "پایگاه بسیج حر بن ریاحی",
+        "date": 1784436888,
+        "city": "شهرستان شهریار",
+        "province": "استان تهران",
+        "id": "MTpkNTBkOGE2OTIyZTQ",
+        "publicId": "MTpkNTBkOGE2OTIyZTQ",
+        "sourceId": "d50d8a6922e4",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.197Z",
+        "updatedAt": "2026-07-20T03:20:58.197Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93840,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.493177569962256,
+          35.6020249577563
+        ]
+      },
+      "properties": {
+        "name:fa": "محل پرتاب موشک سجیل",
+        "description": "این مکان در زمان جنگ شاهد رفت و آمد خودروها بوده و در جنگ 40 روزه، موشک سجیل از همین کوه پرتاب شده است.",
+        "date": 1784431106,
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "id": "NzphNjFjZjFjMWQxZmM",
+        "publicId": "NzphNjFjZjFjMWQxZmM",
+        "sourceId": "a61cf1c1d1fc",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.278Z",
+        "updatedAt": "2026-07-20T03:20:58.278Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93841,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.753123802118154,
+          29.229163588764578
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان ویژه",
+        "description": "یگان ویژه و سرکوب",
+        "date": 1784424442,
+        "city": "شهرستان کوار",
+        "province": "استان فارس",
+        "id": "Mzo2ZjAxZjAwZDA5NDc",
+        "publicId": "Mzo2ZjAxZjAwZDA5NDc",
+        "sourceId": "6f01f00d0947",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.352Z",
+        "updatedAt": "2026-07-20T03:20:58.352Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.40010634821792,
+          35.615730295974444
+        ]
+      },
+      "properties": {
+        "name:fa": "محل پدافند هوایی",
+        "description": "هروقت جنگ میشه سپر انسانی مردم رو قرار میدن و ماشین های نظامی خودشون رو در پارک قرار میدهند و در این منطقه پدافند هم کار گذاری شده",
+        "date": 1784424387,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "ODo0Mzc4M2MwMTUxM2Y",
+        "publicId": "ODo0Mzc4M2MwMTUxM2Y",
+        "sourceId": "43783c01513f",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.444Z",
+        "updatedAt": "2026-07-20T03:20:58.444Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.69236837209755,
+          29.200701907950943
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه و بسیج کوار",
+        "description": "سپاه پاسداران وبسیج کوار",
+        "date": 1784424138,
+        "city": "کوار",
+        "province": "استان فارس",
+        "id": "MTI6YjI4NTMwOTA4M2Q1",
+        "publicId": "MTI6YjI4NTMwOTA4M2Q1",
+        "sourceId": "b285309083d5",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.518Z",
+        "updatedAt": "2026-07-20T03:20:58.518Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93844,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.689569558668325,
+          29.21028596555368
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه پاسداران کوار",
+        "description": "سپاه پاسداران کوار",
+        "date": 1784423879,
+        "city": "کوار",
+        "province": "استان فارس",
+        "id": "MTI6OTBkYTQ2YWExYjY2",
+        "publicId": "MTI6OTBkYTQ2YWExYjY2",
+        "sourceId": "90da46aa1b66",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.588Z",
+        "updatedAt": "2026-07-20T03:20:58.588Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93845,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5781803720692,
+          29.5948410854689
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج و سرکوب",
+        "date": 1784409387,
+        "city": "شیراز",
+        "province": "استان فارس",
+        "id": "MTozNTcyYjAxYzg3NTg",
+        "publicId": "MTozNTcyYjAxYzg3NTg",
+        "sourceId": "3572b01c8758",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.670Z",
+        "updatedAt": "2026-07-20T03:20:58.670Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.23726997906266,
+          38.08618903480016
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "مسجد",
+        "date": 1784409344,
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "NDoyZDM1YmUwMWU2ZGU",
+        "publicId": "NDoyZDM1YmUwMWU2ZGU",
+        "sourceId": "2d35be01e6de",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.743Z",
+        "updatedAt": "2026-07-20T03:20:58.743Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.23789649366577,
+          38.087636487115105
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 18",
+        "description": "کلانتری 18",
+        "date": 1784408919,
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mzo3N2QyMjUyMzVhNDc",
+        "publicId": "Mzo3N2QyMjUyMzVhNDc",
+        "sourceId": "77d225235a47",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.813Z",
+        "updatedAt": "2026-07-20T03:20:58.813Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2376535965621,
+          38.089227748819326
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1784408853,
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTo1ZTQwOWVjZmMxY2E",
+        "publicId": "MTo1ZTQwOWVjZmMxY2E",
+        "sourceId": "5e409ecfc1ca",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.883Z",
+        "updatedAt": "2026-07-20T03:20:58.883Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.04329720836989,
+          36.558780946567964
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "description": "دوربین",
+        "date": 1784384824,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MjA6MDlhOTkxN2IxYzE0",
+        "publicId": "MjA6MDlhOTkxN2IxYzE0",
+        "sourceId": "09a9917b1c14",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.976Z",
+        "updatedAt": "2026-07-20T03:20:58.976Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93850,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.04600377131234,
+          36.56054179215438
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "description": "دوربین",
+        "date": 1784384742,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MjA6ZTkwMmNjOWNiNWZl",
+        "publicId": "MjA6ZTkwMmNjOWNiNWZl",
+        "sourceId": "e902cc9cb5fe",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.051Z",
+        "updatedAt": "2026-07-20T03:20:59.051Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93851,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.04713516041818,
+          36.559689492661334
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری ساری",
+        "description": "شهرداری ساری",
+        "date": 1784384686,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MTc6MWRlMjczZWI4NmY5",
+        "publicId": "MTc6MWRlMjczZWI4NmY5",
+        "sourceId": "1de273eb86f9",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.122Z",
+        "updatedAt": "2026-07-20T03:20:59.122Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93852,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.04471029332538,
+          36.55962453814125
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "description": "دوربین",
+        "date": 1784384595,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MjA6NDNkMTFjNTk1OTNm",
+        "publicId": "MjA6NDNkMTFjNTk1OTNm",
+        "sourceId": "43d11c59593f",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.195Z",
+        "updatedAt": "2026-07-20T03:20:59.195Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93853,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.036139122821794,
+          36.55501197704125
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "description": "دوربین",
+        "date": 1784384554,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MjA6OGE5NzBmZTViZmQ0",
+        "publicId": "MjA6OGE5NzBmZTViZmQ0",
+        "sourceId": "8a970fe5bfd4",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.273Z",
+        "updatedAt": "2026-07-20T03:20:59.273Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.03907975721418,
+          36.55671569994034
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "description": "دوربین",
+        "date": 1784384445,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MjA6MDNhYzRjOTVkNzQ2",
+        "publicId": "MjA6MDNhYzRjOTVkNzQ2",
+        "sourceId": "03ac4c95d746",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.354Z",
+        "updatedAt": "2026-07-20T03:20:59.354Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.64479217595411,
+          36.69816186420387
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز فرماندهی انتظامی",
+        "description": "مرکز فرماندهی کل نیروی انتظامی",
+        "date": 1784362161,
+        "city": "بابلسر",
+        "province": "استان مازندران",
+        "id": "MzpjNGQwY2JkZjg4NWU",
+        "publicId": "MzpjNGQwY2JkZjg4NWU",
+        "sourceId": "c4d0cbdf885e",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.429Z",
+        "updatedAt": "2026-07-20T03:20:59.429Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.929129882598176,
+          27.843921459090907
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز سیگنال‌دهی نظامی دیر",
+        "description": "مرکز سیگنال دهی صدا و سیما شهرستان دیر که عملاً در جنگ ۴۰ روزه برای سیگنال دهی مخابراتی دستگاه های بی‌سیم و پیجر فرماندهان نظامی و اعضای سپاه پاسداران استفاده می‌شد. این دکل برای سیگنال دهی پیجر و بی‌سیم فعال است. در زمان جنگ ۴۰ روزه، ۳ بار هلیکوپتر در باند سیمانی این نقطه برای انتقال نظامی‌ها به جزیره سیری و دریافت سلاح (گلوله پدافند) فرود آمد. این نقطه تنها نقطه شهر است که همیشه هلیکوپتر توان فرود در آن را دارد.",
+        "date": 1784355918,
+        "city": "شهرستان دیر",
+        "province": "استان بوشهر",
+        "id": "MTI6YjNkZWFlMDVmNmQx",
+        "publicId": "MTI6YjNkZWFlMDVmNmQx",
+        "sourceId": "b3deae05f6d1",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.507Z",
+        "updatedAt": "2026-07-20T03:20:59.507Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.92268964508074,
+          27.829412728432175
+        ]
+      },
+      "properties": {
+        "name:fa": "اسکله نیروی دریایی سپاه",
+        "description": "این اسکله نیرو دریایی سپاه پاسداران هست این اسکله غیر نظامی نیست اسکله های پایینی آن غیر نظامی است ، در این اسکله چندین قایق تند رو سپاه پاسداران ( قایق عاشورا ) و شناور های پهپادی سپاه است در جنگ ۴۰ روزه بارها از این قایق ها برای انتقال نظامیان از طریق دریا به جزیره سیری و همچنین انتقال گلوله پدافند به جزیره لارک صورت گرفته است",
+        "date": 1784355513,
+        "id": "MTI6MGI2MmQxNDExMWRk",
+        "publicId": "MTI6MGI2MmQxNDExMWRk",
+        "sourceId": "0b62d14111dd",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.577Z",
+        "updatedAt": "2026-07-20T03:20:59.577Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.956345094588784,
+          27.882144436839795
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان شهرداری بردستان",
+        "description": "ساختمان شهرداری شهر بردستان",
+        "date": 1784353955,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "MTc6NGY0ZTNjZmFiMTVk",
+        "publicId": "MTc6NGY0ZTNjZmFiMTVk",
+        "sourceId": "4f4e3cfab15d",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.648Z",
+        "updatedAt": "2026-07-20T03:20:59.648Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.95809437486011,
+          27.872116300097588
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد شهید سماچی",
+        "description": "مسجد شهید سماچی ( سید الشهدا) شهر بردستان با سابقه اختفا اسلحه در ایام جنگ ۴۰ روزه و همچنین انتقال دفتری بسیج به مدت ۲ هفته در این مکان در ایام فروردین ماه ۱۴۰۵",
+        "date": 1784353757,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "MTowNzQ1NjExM2ZmMmU",
+        "publicId": "MTowNzQ1NjExM2ZmMmU",
+        "sourceId": "07456113ff2e",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.719Z",
+        "updatedAt": "2026-07-20T03:20:59.719Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93860,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.95655723915655,
+          27.87111403285823
+        ]
+      },
+      "properties": {
+        "name:fa": "امام زاده بردستان",
+        "description": "مقبره و امام زاده شهر بردستان",
+        "date": 1784353661,
+        "city": "بردستان",
+        "province": "استان بوشهر",
+        "id": "NDpmMzliN2Y1Y2FiNGI",
+        "publicId": "NDpmMzliN2Y1Y2FiNGI",
+        "sourceId": "f39b7f5cab4b",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.794Z",
+        "updatedAt": "2026-07-20T03:20:59.794Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93861,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.943667184834055,
+          27.874432995936928
+        ]
+      },
+      "properties": {
+        "name:fa": "مکان موشکی و پهپادی",
+        "description": "این منطقه در ایام جنگ ۴۰ روزه از شهر بردستان در فروردین ماه از این مکان موشک شلیک شد و سابقه شلیک پهپاد دارد. از جاده اصلی تا اینجا مسیر جاده خاکی است که تردد ماشین لانچر بدون مشکل و تسهیل شده است. در اردیبهشت ماه چند بمب عمل نکرده آمریکایی در این منطقه خنثی سازی کردند که صدای آن آمد و مسئولین شهری اعلام کردند عملیات خنثی سازی بوده. این منطقه کاملاً نظامی و صد در صد مورد استفاده و شلیک پهپاد و موشک بوده است.",
+        "date": 1784353606,
+        "city": "شهرستان دیر",
+        "province": "استان بوشهر",
+        "id": "NzphMTNiOTEzNmEyMTQ",
+        "publicId": "NzphMTNiOTEzNmEyMTQ",
+        "sourceId": "a13b9136a214",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.869Z",
+        "updatedAt": "2026-07-20T03:20:59.869Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93862,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.680476,
+          31.338079
+        ]
+      },
+      "properties": {
+        "name:fa": "کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک تقاطع پهلوان",
+        "date": 1784473356,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MTRiMWRkNmY0ZjA1",
+        "publicId": "MjA6MTRiMWRkNmY0ZjA1",
+        "sourceId": "14b1dd6f4f05",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:33:51.202Z",
+        "updatedAt": "2026-07-20T03:33:51.202Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93863,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.682762,
+          31.360479
+        ]
+      },
+      "properties": {
+        "name:fa": "کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک شهری بزرگراه مدرس_شرق",
+        "date": 1784472058,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MWVhOTMyMWQ5N2Fi",
+        "publicId": "MjA6MWVhOTMyMWQ5N2Fi",
+        "sourceId": "1ea9321d97ab",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:33:51.324Z",
+        "updatedAt": "2026-07-20T03:33:51.324Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93864,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.185834151343784,
+          37.25051971573667
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای انتظامی",
+        "description": "تجمع نیروی های سرکوب و نیروی انتظامی",
+        "date": 1784523149,
+        "city": "گنبد کاووس",
+        "province": "استان گلستان",
+        "id": "MzY6NjM5YWRhOGJkZTQ0",
+        "publicId": "MzY6NjM5YWRhOGJkZTQ0",
+        "sourceId": "639ada8bde44",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:47:02.868Z",
+        "updatedAt": "2026-07-20T07:47:02.868Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.18373009392869,
+          37.244280400335455
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "description": "تجمع نیرو های سرکوب",
+        "date": 1784523110,
+        "city": "گنبد کاووس",
+        "province": "استان گلستان",
+        "id": "MzY6ZTJmZjJkYjA4YjQx",
+        "publicId": "MzY6ZTJmZjJkYjA4YjQx",
+        "sourceId": "e2ff2db08b41",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:47:02.998Z",
+        "updatedAt": "2026-07-20T07:47:02.998Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.683303,
+          31.356249
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع نیروها",
+        "description": "محل تجمع سرکوبگران و نیروهای رژیم در هنگام تعطیلی مدارس هنگام جنگ",
+        "date": 1784522285,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MzY6ZWU4YTZmNzgzMjNi",
+        "publicId": "MzY6ZWU4YTZmNzgzMjNi",
+        "sourceId": "ee8a6f78323b",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:47:03.125Z",
+        "updatedAt": "2026-07-20T07:47:03.125Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93867,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.641592,
+          31.302287
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه گلستان_شمال",
+        "date": 1784523709,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NTM3ZmJkYmRlOTdi",
+        "publicId": "MjA6NTM3ZmJkYmRlOTdi",
+        "sourceId": "537fbdbde97b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:50.869Z",
+        "updatedAt": "2026-07-20T07:48:50.869Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.642005,
+          31.30269
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه گلستان_جنوب",
+        "date": 1784523619,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MzhkMDM0OTM0NzQ5",
+        "publicId": "MjA6MzhkMDM0OTM0NzQ5",
+        "sourceId": "38d034934749",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:50.992Z",
+        "updatedAt": "2026-07-20T07:48:50.992Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.167816406449305,
+          37.23269633884996
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان وزارت اطلاعات",
+        "description": "ساختمان وزارت اطلاعات گنبد کاووس",
+        "date": 1784523520,
+        "city": "گنبد کاووس",
+        "province": "استان گلستان",
+        "id": "MjpkMzYwMjMwZTU3ODE",
+        "publicId": "MjpkMzYwMjMwZTU3ODE",
+        "sourceId": "d360230e5781",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.115Z",
+        "updatedAt": "2026-07-20T07:48:51.115Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.651704,
+          31.307446
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه گلستان_شمال",
+        "date": 1784523512,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6OTljNDAyZjcwYTYz",
+        "publicId": "MjA6OTljNDAyZjcwYTYz",
+        "sourceId": "99c402f70a63",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.224Z",
+        "updatedAt": "2026-07-20T07:48:51.224Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93871,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.650984,
+          31.3073
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه گلستان_جنوب",
+        "date": 1784523477,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MTBlYWI2MjE0ZDlk",
+        "publicId": "MjA6MTBlYWI2MjE0ZDlk",
+        "sourceId": "10eab6214d9d",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.319Z",
+        "updatedAt": "2026-07-20T07:48:51.319Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.658223,
+          31.284256
+        ]
+      },
+      "properties": {
+        "name:fa": "کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بلوار ساحلی غربی_جنوب",
+        "date": 1784522947,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MjNmY2I0ZjI0YjRi",
+        "publicId": "MjA6MjNmY2I0ZjI0YjRi",
+        "sourceId": "23fcb4f24b4b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.409Z",
+        "updatedAt": "2026-07-20T07:48:51.409Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.658318,
+          31.284164
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بلوار ساحلی غربی_شمال",
+        "date": 1784522896,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6OTg1MzZkMzU3NmUx",
+        "publicId": "MjA6OTg1MzZkMzU3NmUx",
+        "sourceId": "98536d3576e1",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.481Z",
+        "updatedAt": "2026-07-20T07:48:51.481Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.661042,
+          31.297648
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بلوار ساحلی غربی_شمال",
+        "date": 1784522774,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6M2QxMGMzMzc5YmQ5",
+        "publicId": "MjA6M2QxMGMzMzc5YmQ5",
+        "sourceId": "3d10c3379bd9",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.559Z",
+        "updatedAt": "2026-07-20T07:48:51.559Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.663197,
+          31.304762
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک ساحلی غربی_جنوب",
+        "date": 1784522724,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6Njk1MDlkMDlkYWM0",
+        "publicId": "MjA6Njk1MDlkMDlkYWM0",
+        "sourceId": "69509d09dac4",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.631Z",
+        "updatedAt": "2026-07-20T07:48:51.631Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.663298,
+          31.305252
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک کندرو ساحلی غربی_جنوب",
+        "date": 1784522693,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NmVkOTU5NThhNmUy",
+        "publicId": "MjA6NmVkOTU5NThhNmUy",
+        "sourceId": "6ed95958a6e2",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.706Z",
+        "updatedAt": "2026-07-20T07:48:51.706Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.67371,
+          31.312893
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بلوار ساحلی شرقی_جنوب",
+        "date": 1784522605,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ODJiMDkyMjg3MWVi",
+        "publicId": "MjA6ODJiMDkyMjg3MWVi",
+        "sourceId": "82b0922871eb",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.788Z",
+        "updatedAt": "2026-07-20T07:48:51.788Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.678134,
+          31.319039
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین نظارت و کنترل ترافیک شهری",
+        "date": 1784522550,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6N2Y1Njg5MjhhNzgz",
+        "publicId": "MjA6N2Y1Njg5MjhhNzgz",
+        "sourceId": "7f568928a783",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.878Z",
+        "updatedAt": "2026-07-20T07:48:51.878Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93879,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.672998,
+          31.320262
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک پل نادری_شرق",
+        "date": 1784522522,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6YmM5OTg2MWYwNmRj",
+        "publicId": "MjA6YmM5OTg2MWYwNmRj",
+        "sourceId": "bc99861f06dc",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.951Z",
+        "updatedAt": "2026-07-20T07:48:51.951Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.564716,
+          31.288114
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه هاشمی_شمال",
+        "date": 1784522460,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MmIwZTI3MGMwMThi",
+        "publicId": "MjA6MmIwZTI3MGMwMThi",
+        "sourceId": "2b0e270c018b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.018Z",
+        "updatedAt": "2026-07-20T07:48:52.018Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.582008,
+          31.298946
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه هاشمی_شمال",
+        "date": 1784522408,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ODQwMjExZTU4MTBi",
+        "publicId": "MjA6ODQwMjExZTU4MTBi",
+        "sourceId": "840211e5810b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.091Z",
+        "updatedAt": "2026-07-20T07:48:52.091Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.683228,
+          31.356122
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "description": "دوربین امنیتی دبیرستان علامه طباطبایی",
+        "date": 1784522236,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MzVlY2ZjZjZmZWFi",
+        "publicId": "MjA6MzVlY2ZjZjZmZWFi",
+        "sourceId": "35ecfcf6feab",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.166Z",
+        "updatedAt": "2026-07-20T07:48:52.166Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93883,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.683097,
+          31.348246
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین دبیرستان آزادی",
+        "description": "دوربین امنیتی دبیرستان آزادی",
+        "date": 1784522201,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ZjgyNGYwZDg2ZmM2",
+        "publicId": "MjA6ZjgyNGYwZDg2ZmM2",
+        "sourceId": "f824f0d86fc6",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.240Z",
+        "updatedAt": "2026-07-20T07:48:52.240Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93884,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.682799,
+          31.347585
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین دبیرستان آزادی",
+        "description": "دوربین امنیتی دبیرستان آزادی",
+        "date": 1784522172,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MWFlNDkwNTM3N2Mx",
+        "publicId": "MjA6MWFlNDkwNTM3N2Mx",
+        "sourceId": "1ae4905377c1",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.343Z",
+        "updatedAt": "2026-07-20T07:48:52.343Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.626742,
+          31.348155
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه هاشمی_شمال",
+        "date": 1784522138,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6ZTIyYmU4YTlkMjli",
+        "publicId": "MjA6ZTIyYmU4YTlkMjli",
+        "sourceId": "e22be8a9d29b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.410Z",
+        "updatedAt": "2026-07-20T07:48:52.410Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93886,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.626085,
+          31.347937
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه هاشمی_جنوب",
+        "date": 1784522111,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MTVmYjk1ZGY4NmYz",
+        "publicId": "MjA6MTVmYjk1ZGY4NmYz",
+        "sourceId": "15fb95df86f3",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.478Z",
+        "updatedAt": "2026-07-20T07:48:52.478Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.61786,
+          31.369793
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه هاشمی_شمال",
+        "date": 1784522035,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MzEzYzk0NmRjNmNh",
+        "publicId": "MjA6MzEzYzk0NmRjNmNh",
+        "sourceId": "313c946dc6ca",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.542Z",
+        "updatedAt": "2026-07-20T07:48:52.542Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.617326,
+          31.369806
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه هاشمی_جنوب",
+        "date": 1784522004,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6MjE1MzA2NzMxNjg4",
+        "publicId": "MjA6MjE1MzA2NzMxNjg4",
+        "sourceId": "215306731688",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.616Z",
+        "updatedAt": "2026-07-20T07:48:52.616Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.625637,
+          31.375573
+        ]
+      },
+      "properties": {
+        "name:fa": "کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه مدرس_غرب",
+        "date": 1784521892,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6YmMzYWMxZTJjZTdm",
+        "publicId": "MjA6YmMzYWMxZTJjZTdm",
+        "sourceId": "bc3ac1e2ce7f",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.687Z",
+        "updatedAt": "2026-07-20T07:48:52.687Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.636116,
+          31.372748
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی مسجد",
+        "description": "دوربین های نظارتی مسجد امیرالمونین",
+        "date": 1784521787,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6OWFjYjA3NTYzMTI0",
+        "publicId": "MjA6OWFjYjA3NTYzMTI0",
+        "sourceId": "9acb07563124",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.759Z",
+        "updatedAt": "2026-07-20T07:48:52.759Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.68287,
+          31.36052
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین کنترل ترافیک",
+        "description": "دوربین کنترل ترافیک بزرگراه مدرس_غرب",
+        "date": 1784521728,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6M2JiZWE5YzYzZGFh",
+        "publicId": "MjA6M2JiZWE5YzYzZGFh",
+        "sourceId": "3bbea9c63daa",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.835Z",
+        "updatedAt": "2026-07-20T07:48:52.835Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.72216,
+          31.354017
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "description": "دوربین نظارتی شرق پارک زیتون",
+        "date": 1784521681,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NWU4OTE5NTcxMzNh",
+        "publicId": "MjA6NWU4OTE5NTcxMzNh",
+        "sourceId": "5e891957133a",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.914Z",
+        "updatedAt": "2026-07-20T07:48:52.914Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93893,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.720928,
+          31.355714
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "description": "دوربین نظارتی غرب پارک زیتون",
+        "date": 1784521654,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6YzQ5ZmI4MzJkZGIz",
+        "publicId": "MjA6YzQ5ZmI4MzJkZGIz",
+        "sourceId": "c49fb832ddb3",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:52.991Z",
+        "updatedAt": "2026-07-20T07:48:52.991Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.41931960792144,
+          29.666800266027067
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "زیرساخت‌های ارتباطی",
+        "unofficial_name:fa": "",
+        "date": 1784581800,
+        "geolocates": "",
+        "description": "ستونی از دود بر فراز کوه دراک در شیراز دیده می‌شود. بر اساس محل مشاهده، به نظر می‌رسد حملات احتمالاً زیرساخت‌های ارتباطی را هدف قرار داده‌اند.",
+        "city": "شهرستان شیراز",
+        "province": "استان فارس",
+        "sources": "https://x.com/zarGEOINT/status/2079325560463917215?s=20",
+        "id": "MzI6OGE2N2ViZGJkYjU2",
+        "publicId": "MzI6OGE2N2ViZGJkYjU2",
+        "sourceId": "8a67ebdbdb56",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T22:21:41.194Z",
+        "updatedAt": "2026-07-20T22:21:41.194Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3171,
+    "total": 3245,
     "citizenReport": true,
     "clustered": false,
     "simplified": false

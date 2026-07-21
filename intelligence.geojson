@@ -11632,10 +11632,39 @@
         "createdAt": "2026-07-17T21:36:04.025Z",
         "updatedAt": "2026-07-17T21:36:04.025Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.167816406449305,
+          37.23269633884996
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان وزارت اطلاعات",
+        "description": "ساختمان وزارت اطلاعات گنبد کاووس",
+        "date": 1784523520,
+        "city": "گنبد کاووس",
+        "province": "استان گلستان",
+        "id": "MjpkMzYwMjMwZTU3ODE",
+        "publicId": "MjpkMzYwMjMwZTU3ODE",
+        "sourceId": "d360230e5781",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T07:48:51.115Z",
+        "updatedAt": "2026-07-20T07:48:51.115Z"
+      }
     }
   ],
   "metadata": {
-    "total": 334,
+    "total": 335,
     "layerId": 2,
     "clustered": false,
     "simplified": false

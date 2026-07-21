@@ -68174,10 +68174,124 @@
         "createdAt": "2026-07-17T22:44:18.910Z",
         "updatedAt": "2026-07-17T22:44:18.910Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.69236837209755,
+          29.200701907950943
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه و بسیج کوار",
+        "description": "سپاه پاسداران وبسیج کوار",
+        "date": 1784424138,
+        "city": "کوار",
+        "province": "استان فارس",
+        "id": "MTI6YjI4NTMwOTA4M2Q1",
+        "publicId": "MTI6YjI4NTMwOTA4M2Q1",
+        "sourceId": "b285309083d5",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.518Z",
+        "updatedAt": "2026-07-20T03:20:58.518Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93844,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.689569558668325,
+          29.21028596555368
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه پاسداران کوار",
+        "description": "سپاه پاسداران کوار",
+        "date": 1784423879,
+        "city": "کوار",
+        "province": "استان فارس",
+        "id": "MTI6OTBkYTQ2YWExYjY2",
+        "publicId": "MTI6OTBkYTQ2YWExYjY2",
+        "sourceId": "90da46aa1b66",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.588Z",
+        "updatedAt": "2026-07-20T03:20:58.588Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.929129882598176,
+          27.843921459090907
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز سیگنال‌دهی نظامی دیر",
+        "description": "مرکز سیگنال دهی صدا و سیما شهرستان دیر که عملاً در جنگ ۴۰ روزه برای سیگنال دهی مخابراتی دستگاه های بی‌سیم و پیجر فرماندهان نظامی و اعضای سپاه پاسداران استفاده می‌شد. این دکل برای سیگنال دهی پیجر و بی‌سیم فعال است. در زمان جنگ ۴۰ روزه، ۳ بار هلیکوپتر در باند سیمانی این نقطه برای انتقال نظامی‌ها به جزیره سیری و دریافت سلاح (گلوله پدافند) فرود آمد. این نقطه تنها نقطه شهر است که همیشه هلیکوپتر توان فرود در آن را دارد.",
+        "date": 1784355918,
+        "city": "شهرستان دیر",
+        "province": "استان بوشهر",
+        "id": "MTI6YjNkZWFlMDVmNmQx",
+        "publicId": "MTI6YjNkZWFlMDVmNmQx",
+        "sourceId": "b3deae05f6d1",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.507Z",
+        "updatedAt": "2026-07-20T03:20:59.507Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.92268964508074,
+          27.829412728432175
+        ]
+      },
+      "properties": {
+        "name:fa": "اسکله نیروی دریایی سپاه",
+        "description": "این اسکله نیرو دریایی سپاه پاسداران هست این اسکله غیر نظامی نیست اسکله های پایینی آن غیر نظامی است ، در این اسکله چندین قایق تند رو سپاه پاسداران ( قایق عاشورا ) و شناور های پهپادی سپاه است در جنگ ۴۰ روزه بارها از این قایق ها برای انتقال نظامیان از طریق دریا به جزیره سیری و همچنین انتقال گلوله پدافند به جزیره لارک صورت گرفته است",
+        "date": 1784355513,
+        "id": "MTI6MGI2MmQxNDExMWRk",
+        "publicId": "MTI6MGI2MmQxNDExMWRk",
+        "sourceId": "0b62d14111dd",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:59.577Z",
+        "updatedAt": "2026-07-20T03:20:59.577Z"
+      }
     }
   ],
   "metadata": {
-    "total": 996,
+    "total": 1000,
     "layerId": 12,
     "clustered": false,
     "simplified": false

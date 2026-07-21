@@ -6638,10 +6638,39 @@
         "createdAt": "2026-07-15T01:53:53.005Z",
         "updatedAt": "2026-07-15T01:53:53.005Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.40010634821792,
+          35.615730295974444
+        ]
+      },
+      "properties": {
+        "name:fa": "محل پدافند هوایی",
+        "description": "هروقت جنگ میشه سپر انسانی مردم رو قرار میدن و ماشین های نظامی خودشون رو در پارک قرار میدهند و در این منطقه پدافند هم کار گذاری شده",
+        "date": 1784424387,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "ODo0Mzc4M2MwMTUxM2Y",
+        "publicId": "ODo0Mzc4M2MwMTUxM2Y",
+        "sourceId": "43783c01513f",
+        "layerId": 8,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-20T03:20:58.444Z",
+        "updatedAt": "2026-07-20T03:20:58.444Z"
+      }
     }
   ],
   "metadata": {
-    "total": 105,
+    "total": 106,
     "layerId": 8,
     "clustered": false,
     "simplified": false
