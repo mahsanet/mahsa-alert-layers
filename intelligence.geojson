@@ -11661,10 +11661,39 @@
         "createdAt": "2026-07-20T07:48:51.115Z",
         "updatedAt": "2026-07-20T07:48:51.115Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.036869688036006,
+          36.554698337282375
+        ]
+      },
+      "properties": {
+        "name:fa": "وزارت اطلاعات مازندران",
+        "description": "ساختمان اصلی وزارت اطلاعات مازندران",
+        "date": 1784641577,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "Mjo0ZTAyODY5NGY0ZGY",
+        "publicId": "Mjo0ZTAyODY5NGY0ZGY",
+        "sourceId": "4e028694f4df",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T00:20:10.676Z",
+        "updatedAt": "2026-07-22T00:20:10.676Z"
+      }
     }
   ],
   "metadata": {
-    "total": 335,
+    "total": 336,
     "layerId": 2,
     "clustered": false,
     "simplified": false

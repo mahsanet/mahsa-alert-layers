@@ -61923,10 +61923,39 @@
         "createdAt": "2026-07-20T03:20:59.719Z",
         "updatedAt": "2026-07-20T03:20:59.719Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93930,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.347067469527445,
+          35.642637997863375
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهرک ولیعصر",
+        "description": "پایگاه بسیج شهرک ولیعصر",
+        "date": 1784674850,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MToxOGIzMzY1YzY2NTI",
+        "publicId": "MToxOGIzMzY1YzY2NTI",
+        "sourceId": "18b3365c6652",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T00:20:10.076Z",
+        "updatedAt": "2026-07-22T00:20:10.076Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2177,
+    "total": 2178,
     "layerId": 1,
     "clustered": false,
     "simplified": false

@@ -145570,10 +145570,39 @@
         "createdAt": "2026-07-20T03:20:59.794Z",
         "updatedAt": "2026-07-20T03:20:59.794Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.040112824157575,
+          36.55475021259038
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه عاشقان کربلا",
+        "description": "حسینیه عاشقان کربلا ساری",
+        "date": 1784642417,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "NDo5OWMzNDI5ZGMxNjA",
+        "publicId": "NDo5OWMzNDI5ZGMxNjA",
+        "sourceId": "99c3429dc160",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T00:20:10.370Z",
+        "updatedAt": "2026-07-22T00:20:10.370Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5587,
+    "total": 5588,
     "layerId": 4,
     "clustered": false,
     "simplified": false

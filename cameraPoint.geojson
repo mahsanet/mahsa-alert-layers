@@ -500997,10 +500997,39 @@
         "createdAt": "2026-07-20T07:48:52.991Z",
         "updatedAt": "2026-07-20T07:48:52.991Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.669133,
+          31.329677
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین استانداری خوزستان",
+        "description": "دوربین امنیتی و کنترل ترافیک درب اصلی استانداری خوزستان",
+        "date": 1784565892,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MjA6NTc0ODQ5NWFjMjY4",
+        "publicId": "MjA6NTc0ODQ5NWFjMjY4",
+        "sourceId": "5748495ac268",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-21T04:51:13.793Z",
+        "updatedAt": "2026-07-21T04:51:13.793Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18535,
+    "total": 18536,
     "layerId": 20,
     "clustered": false,
     "simplified": false

@@ -6554,35 +6554,6 @@
     },
     {
       "type": "Feature",
-      "id": 93641,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          59.621718099157164,
-          36.25396565015086
-        ]
-      },
-      "properties": {
-        "name:fa": "پمپ بنزین پدافند هوایی",
-        "description": "پمپ بنزین پدافند هوایی شمال شرق",
-        "date": 1783026665,
-        "city": "مشهد",
-        "province": "استان خراسان رضوی",
-        "id": "ODo5ZmI1MmNkNDc2M2Q",
-        "publicId": "ODo5ZmI1MmNkNDc2M2Q",
-        "sourceId": "9fb52cd4763d",
-        "layerId": 8,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-15T01:53:52.869Z",
-        "updatedAt": "2026-07-15T01:53:52.869Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93642,
       "geometry": {
         "type": "Point",
@@ -6670,7 +6641,7 @@
     }
   ],
   "metadata": {
-    "total": 106,
+    "total": 105,
     "layerId": 8,
     "clustered": false,
     "simplified": false

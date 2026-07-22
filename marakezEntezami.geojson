@@ -37723,32 +37723,6 @@
     },
     {
       "type": "Feature",
-      "id": 85520,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.0246893,
-          36.5457715
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjE3OA",
-        "name:fa": "پلیس فتا",
-        "osm_id": "",
-        "publicId": "Mzo2MjE3OA",
-        "sourceId": "62178",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.324Z",
-        "updatedAt": "2026-03-13T04:41:06.324Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85521,
       "geometry": {
         "type": "Point",
@@ -144034,14 +144008,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.0244968,
-          36.5491368
+          53.02406021470304,
+          36.54981880151294
         ]
       },
       "properties": {
         "id": "Mzo2ODY5OQ",
         "name:fa": "اداره راهنمایی و رانندگی شهر ساری",
         "osm_id": "",
+        "city": "ساری",
+        "province": "استان مازندران",
         "publicId": "Mzo2ODY5OQ",
         "sourceId": "68699",
         "layerId": 3,
@@ -144051,7 +144027,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:08.281Z",
-        "updatedAt": "2026-03-13T04:41:08.281Z"
+        "updatedAt": "2026-07-22T00:17:36.890Z"
       }
     },
     {
@@ -158579,10 +158555,97 @@
         "createdAt": "2026-07-20T03:20:59.429Z",
         "updatedAt": "2026-07-20T03:20:59.429Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.646314,
+          31.369499
+        ]
+      },
+      "properties": {
+        "name:fa": "پناهگاه کلانتری ۳۶",
+        "description": "پناهگاه ماموران کلانتری ۳۶ هنگام جنگ",
+        "date": 1784565968,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MzpmZDZlNTY3MGEyYzk",
+        "publicId": "MzpmZDZlNTY3MGEyYzk",
+        "sourceId": "fd6e5670a2c9",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-21T04:51:13.660Z",
+        "updatedAt": "2026-07-21T04:51:13.660Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.054916934970464,
+          37.53740642294406
+        ]
+      },
+      "properties": {
+        "name:fa": "آگاهی",
+        "description": "آگاهی جدید",
+        "date": 1784663546,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "id": "Mzo0NGQ2Yjk1ZWIyYjQ",
+        "publicId": "Mzo0NGQ2Yjk1ZWIyYjQ",
+        "sourceId": "44d6b95eb2b4",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T00:20:10.182Z",
+        "updatedAt": "2026-07-22T00:20:10.182Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.02460591769375,
+          36.547734255937954
+        ]
+      },
+      "properties": {
+        "name:fa": "آگاهی استان",
+        "description": "آگاهی استان",
+        "date": 1784641941,
+        "city": "شهرستان ساری",
+        "province": "استان مازندران",
+        "id": "MzozNTZiMjZkOTYxMDc",
+        "publicId": "MzozNTZiMjZkOTYxMDc",
+        "sourceId": "356b26d96107",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T00:20:10.530Z",
+        "updatedAt": "2026-07-22T00:20:10.530Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6061,
+    "total": 6063,
     "layerId": 3,
     "clustered": false,
     "simplified": false

@@ -41531,10 +41531,39 @@
         "createdAt": "2026-07-17T21:36:04.984Z",
         "updatedAt": "2026-07-17T21:36:04.984Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.06079663509365,
+          36.55750082269324
+        ]
+      },
+      "properties": {
+        "name:fa": "دادگستری مازندران",
+        "description": "دادگستری مازندران",
+        "date": 1784641770,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MzQ6YTllMDdhMjljMGNl",
+        "publicId": "MzQ6YTllMDdhMjljMGNl",
+        "sourceId": "a9e07a29c0ce",
+        "layerId": 34,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T00:20:10.603Z",
+        "updatedAt": "2026-07-22T00:20:10.603Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1408,
+    "total": 1409,
     "layerId": 34,
     "clustered": false,
     "simplified": false

@@ -15457,10 +15457,39 @@
         "createdAt": "2026-07-20T03:20:59.869Z",
         "updatedAt": "2026-07-20T03:20:59.869Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.26761740091632,
+          35.35708740803511
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار مهمات",
+        "description": "انبار مهمات",
+        "date": 1784573290,
+        "city": "زیوان",
+        "province": "استان تهران",
+        "id": "Nzo5N2UxMDQwMWJmN2Q",
+        "publicId": "Nzo5N2UxMDQwMWJmN2Q",
+        "sourceId": "97e10401bf7d",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-21T05:57:36.121Z",
+        "updatedAt": "2026-07-21T05:57:36.121Z"
+      }
     }
   ],
   "metadata": {
-    "total": 142,
+    "total": 143,
     "layerId": 7,
     "clustered": false,
     "simplified": false

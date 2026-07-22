@@ -77773,10 +77773,39 @@
         "createdAt": "2026-07-20T03:20:59.648Z",
         "updatedAt": "2026-07-20T03:20:59.648Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.03987576369548,
+          36.572441609103365
+        ]
+      },
+      "properties": {
+        "name:fa": "سازمان بسیج سازندگی",
+        "description": "سازمان بسیج سازندگی",
+        "date": 1784642232,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MTc6ZDRiYzRlMTcwZDEx",
+        "publicId": "MTc6ZDRiYzRlMTcwZDEx",
+        "sourceId": "d4bc4e170d11",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T00:20:10.446Z",
+        "updatedAt": "2026-07-22T00:20:10.446Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2340,
+    "total": 2341,
     "layerId": 17,
     "clustered": false,
     "simplified": false
