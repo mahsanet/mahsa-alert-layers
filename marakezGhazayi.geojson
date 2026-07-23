@@ -41560,10 +41560,39 @@
         "createdAt": "2026-07-22T00:20:10.603Z",
         "updatedAt": "2026-07-22T00:20:10.603Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.05964675876106,
+          36.55491251423457
+        ]
+      },
+      "properties": {
+        "name:fa": "دادسرای نظام",
+        "description": "دادسرای نظام",
+        "date": 1784717207,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MzQ6ZWI2NjkyZWMyYmQx",
+        "publicId": "MzQ6ZWI2NjkyZWMyYmQx",
+        "sourceId": "eb6692ec2bd1",
+        "layerId": 34,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:10.683Z",
+        "updatedAt": "2026-07-22T21:59:10.683Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1409,
+    "total": 1410,
     "layerId": 34,
     "clustered": false,
     "simplified": false

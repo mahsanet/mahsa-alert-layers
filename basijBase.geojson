@@ -61952,10 +61952,39 @@
         "createdAt": "2026-07-22T00:20:10.076Z",
         "updatedAt": "2026-07-22T00:20:10.076Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.662350131827424,
+          36.30683764889025
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج محمد رسول الله",
+        "description": "تاریخ 31 تیر 1405 - محل : پایگاه بسیج محمد رسول الله - مکان : بلوار پنجتن",
+        "date": 1784724566,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTpjOTAyNzA4MzdiZjk",
+        "publicId": "MTpjOTAyNzA4MzdiZjk",
+        "sourceId": "c90270837bf9",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:10.020Z",
+        "updatedAt": "2026-07-22T21:59:10.020Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2178,
+    "total": 2179,
     "layerId": 1,
     "clustered": false,
     "simplified": false

@@ -88427,10 +88427,39 @@
         "createdAt": "2026-07-17T21:36:03.470Z",
         "updatedAt": "2026-07-17T21:36:03.470Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.03195322699756,
+          36.5560630423478
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان ولایت ساری",
+        "description": "بیمارستان ولایت ساری",
+        "date": 1784737939,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MjU6YTYyNzYxYzFkZGE2",
+        "publicId": "MjU6YTYyNzYxYzFkZGE2",
+        "sourceId": "a62761c1dda6",
+        "layerId": 25,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:09.760Z",
+        "updatedAt": "2026-07-22T21:59:09.760Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3535,
+    "total": 3536,
     "layerId": 25,
     "clustered": false,
     "simplified": false

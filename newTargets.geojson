@@ -23691,10 +23691,74 @@
         "createdAt": "2026-07-22T01:26:59.489Z",
         "updatedAt": "2026-07-22T01:26:59.489Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.861519906356705,
+          28.93472860256817
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "بخش نظامی فرودگاه بوشهر",
+        "unofficial_name:fa": "",
+        "date": 1784579400,
+        "geolocates": "",
+        "description": "",
+        "city": "بوشهر",
+        "province": "استان بوشهر",
+        "sources": "https://x.com/zarGEOINT/status/2079736579447218350?s=20",
+        "id": "MzI6N2QwMjEzNWJiMTAy",
+        "publicId": "MzI6N2QwMjEzNWJiMTAy",
+        "sourceId": "7d02135bb102",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T02:27:39.092Z",
+        "updatedAt": "2026-07-22T02:27:39.092Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.13639028168265,
+          30.73952621898519
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پایگاه نظامی",
+        "unofficial_name:fa": "",
+        "date": 1784579400,
+        "geolocates": "",
+        "description": "",
+        "city": "بهبهان",
+        "province": "استان خوزستان",
+        "sources": "https://x.com/zarGEOINT/status/2079726800125509956?s=20, https://x.com/Vahid/status/2079739628077089257?s=20",
+        "id": "MzI6ODRmNTA1OTE1OTNm",
+        "publicId": "MzI6ODRmNTA1OTE1OTNm",
+        "sourceId": "84f50591593f",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T02:39:15.718Z",
+        "updatedAt": "2026-07-22T07:29:55.779Z"
+      }
     }
   ],
   "metadata": {
-    "total": 758,
+    "total": 760,
     "layerId": 32,
     "clustered": false,
     "simplified": false

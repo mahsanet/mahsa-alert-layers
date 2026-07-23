@@ -58839,10 +58839,97 @@
         "createdAt": "2026-07-15T01:53:48.027Z",
         "updatedAt": "2026-07-15T01:53:48.027Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93953,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.04292910282169,
+          36.558179094477396
+        ]
+      },
+      "properties": {
+        "name:fa": "مدیریت مخابرات ساری و میاندرود",
+        "description": "مدیریت مخابرات ساری و میاندرود",
+        "date": 1784737350,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MzU6MmQ5Mjg0ZTI4YzFh",
+        "publicId": "MzU6MmQ5Mjg0ZTI4YzFh",
+        "sourceId": "2d9284e28c1a",
+        "layerId": 35,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:09.906Z",
+        "updatedAt": "2026-07-22T21:59:09.906Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93959,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.071019407857364,
+          36.57254869008628
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره مخابرات",
+        "description": "اداره مخابرات",
+        "date": 1784717557,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MzU6MGJhODVjNjVjZTdj",
+        "publicId": "MzU6MGJhODVjNjVjZTdj",
+        "sourceId": "0ba85c65ce7c",
+        "layerId": 35,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:10.442Z",
+        "updatedAt": "2026-07-22T21:59:10.442Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.07610777443301,
+          36.566052703489746
+        ]
+      },
+      "properties": {
+        "name:fa": "مراکز مخابرات",
+        "description": "مخابرات و خطوط لوله شرکت ملی نفت",
+        "date": 1784717477,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MzU6ZDBiODMwZmJkMWUx",
+        "publicId": "MzU6ZDBiODMwZmJkMWUx",
+        "sourceId": "d0b830fbd1e1",
+        "layerId": 35,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:10.521Z",
+        "updatedAt": "2026-07-22T21:59:10.521Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2010,
+    "total": 2013,
     "layerId": 35,
     "clustered": false,
     "simplified": false

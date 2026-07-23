@@ -80965,14 +80965,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.7883894,
-          30.3617126
+          50.78881436883924,
+          30.36045245406558
         ]
       },
       "properties": {
         "id": "Mzo2NDgyOQ",
         "name:fa": "فرماندهی انتظامی گچساران",
         "osm_id": "",
+        "city": "گچساران",
+        "province": "استان کهگیلویه و بویراحمد",
         "publicId": "Mzo2NDgyOQ",
         "sourceId": "64829",
         "layerId": 3,
@@ -80982,7 +80984,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.102Z",
-        "updatedAt": "2026-03-13T04:41:07.102Z"
+        "updatedAt": "2026-07-22T07:21:05.125Z"
       }
     },
     {
@@ -158642,10 +158644,155 @@
         "createdAt": "2026-07-22T00:20:10.530Z",
         "updatedAt": "2026-07-22T00:20:10.530Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.02454840345138,
+          36.54782651211001
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس پیشگیری",
+        "description": "پلیس پیشگیری",
+        "date": 1784738075,
+        "city": "شهرستان ساری",
+        "province": "استان مازندران",
+        "id": "MzpiOTgzNDg5NjMwMzc",
+        "publicId": "MzpiOTgzNDg5NjMwMzc",
+        "sourceId": "b98348963037",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:09.586Z",
+        "updatedAt": "2026-07-22T21:59:09.586Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.02443662538633,
+          36.54851281532156
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس فتا",
+        "description": "پلیس فتا",
+        "date": 1784738049,
+        "city": "شهرستان ساری",
+        "province": "استان مازندران",
+        "id": "MzplNzQ0YWQ1ODBmYjU",
+        "publicId": "MzplNzQ0YWQ1ODBmYjU",
+        "sourceId": "e744ad580fb5",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:09.673Z",
+        "updatedAt": "2026-07-22T21:59:09.673Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93956,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.11768300690832,
+          36.56885289494318
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۵ سمسکنده",
+        "description": "کلانتری ۱۵ ( پاسگاه سمسکنده )",
+        "date": 1784717958,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "Mzo1NzVlODdkNWM1ZWI",
+        "publicId": "Mzo1NzVlODdkNWM1ZWI",
+        "sourceId": "575e87d5c5eb",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:10.204Z",
+        "updatedAt": "2026-07-22T21:59:10.204Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.07190626024308,
+          36.56992353651712
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۴",
+        "description": "کلانتری ۱۴",
+        "date": 1784717844,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MzpmYjQxNmVlYTA2Zjc",
+        "publicId": "MzpmYjQxNmVlYTA2Zjc",
+        "sourceId": "fb416eea06f7",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:10.304Z",
+        "updatedAt": "2026-07-22T21:59:10.304Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.06304609826495,
+          36.55424191289784
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد فرماندهی نیروی انتظامی",
+        "description": "ستاد فرماندهی نیروی انتظامی",
+        "date": 1784717269,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MzowMGY2MzI2MWM1YmM",
+        "publicId": "MzowMGY2MzI2MWM1YmM",
+        "sourceId": "00f63261c5bc",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:10.599Z",
+        "updatedAt": "2026-07-22T21:59:10.599Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6063,
+    "total": 6068,
     "layerId": 3,
     "clustered": false,
     "simplified": false

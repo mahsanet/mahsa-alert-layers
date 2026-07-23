@@ -11690,10 +11690,68 @@
         "createdAt": "2026-07-22T00:20:10.676Z",
         "updatedAt": "2026-07-22T00:20:10.676Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.31099596312421,
+          38.069652324831964
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه اطلاعات سپاه",
+        "description": "این محل مسجد سالار شهیدان، پایگاه اطلاعات سپاه ، پایگاه بسیج و حوزه علمیه میباشد",
+        "date": 1784705540,
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MjoxZTczYWI2MDYyZjM",
+        "publicId": "MjoxZTczYWI2MDYyZjM",
+        "sourceId": "1e73ab6062f3",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:10.770Z",
+        "updatedAt": "2026-07-22T21:59:10.770Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.281027142568604,
+          38.058809412292334
+        ]
+      },
+      "properties": {
+        "name:fa": "حفاظت اطلاعات انتظامی تبریز",
+        "description": "فرماندهی بازرسی انتظامی شهرستان تبریز و همچنین فرماندهی حفاظت اطلاعات انتظامی شهرستان تبریز دو در دارن،یکی تابلو زده «نظارت همگانی ۱۹۷ نیروی انتظامی» و در بغلی که هیچ تابلو و علائمی نداره و سازه جدید و مستحکمی داره و دوربین های ۳۶۰ بزرگ روی در هست و یه برجک دیده بانی بزرگ و آجری با شیشه های سکوریت داره که همیشه یه سرباز وظیفه داخلش هست و با توجه به اینکه بومی این محله هستم میدونم که حفاظت اطلاعات انتظامی تبریز هست.",
+        "date": 1784680394,
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MjphYjBkYmEzYmE0NmQ",
+        "publicId": "MjphYjBkYmEzYmE0NmQ",
+        "sourceId": "ab0dba3ba46d",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:10.914Z",
+        "updatedAt": "2026-07-22T21:59:10.914Z"
+      }
     }
   ],
   "metadata": {
-    "total": 336,
+    "total": 338,
     "layerId": 2,
     "clustered": false,
     "simplified": false

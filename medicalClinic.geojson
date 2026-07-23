@@ -137125,10 +137125,39 @@
         "createdAt": "2026-03-13T00:17:46.718Z",
         "updatedAt": "2026-03-13T00:17:46.718Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93952,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.03248425246758,
+          36.555008245589406
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز MRI امام خامنه ای",
+        "description": "مرکز MRI امام خامنه ای",
+        "date": 1784737657,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MjY6ZDI5NjZiZmQ3ZjU3",
+        "publicId": "MjY6ZDI5NjZiZmQ3ZjU3",
+        "sourceId": "d2966bfd7f57",
+        "layerId": 26,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:09.831Z",
+        "updatedAt": "2026-07-22T21:59:09.831Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5485,
+    "total": 5486,
     "layerId": 26,
     "clustered": false,
     "simplified": false

@@ -68443,10 +68443,68 @@
         "createdAt": "2026-07-22T00:20:10.266Z",
         "updatedAt": "2026-07-22T00:20:10.266Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93958,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.06832480223804,
+          36.58524850030112
+        ]
+      },
+      "properties": {
+        "name:fa": "کمپ تفریحی سپاه کربلا",
+        "description": "کمپ تفریحی سپاه کربلا",
+        "date": 1784717645,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MTI6ZGM2ODVhZmFkNjll",
+        "publicId": "MTI6ZGM2ODVhZmFkNjll",
+        "sourceId": "dc685afad69e",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:10.369Z",
+        "updatedAt": "2026-07-22T21:59:10.369Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.7956128298126,
+          30.363865358033138
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی سپاه",
+        "description": "فرماندهی سپاه",
+        "date": 1784693523,
+        "city": "گچساران",
+        "province": "استان کهگیلویه و بویراحمد",
+        "id": "MTI6NzU4NGQ4ZjQxM2Zi",
+        "publicId": "MTI6NzU4NGQ4ZjQxM2Zi",
+        "sourceId": "7584d8f413fb",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:10.845Z",
+        "updatedAt": "2026-07-22T21:59:10.845Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1002,
+    "total": 1004,
     "layerId": 12,
     "clustered": false,
     "simplified": false

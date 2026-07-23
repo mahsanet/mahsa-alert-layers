@@ -77802,10 +77802,68 @@
         "createdAt": "2026-07-22T00:20:10.446Z",
         "updatedAt": "2026-07-22T00:20:10.446Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 93948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.04852198475933,
+          36.562776107301914
+        ]
+      },
+      "properties": {
+        "name:fa": "فرمانداری شهرستان ساری",
+        "description": "فرمانداری شهرستان ساری",
+        "date": 1784738191,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "id": "MTc6NmE0OGQwNWJjMmIy",
+        "publicId": "MTc6NmE0OGQwNWJjMmIy",
+        "sourceId": "6a48d05bc2b2",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:09.480Z",
+        "updatedAt": "2026-07-22T21:59:09.480Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.065222228759865,
+          36.53831349258277
+        ]
+      },
+      "properties": {
+        "name:fa": "شورای مبارزه با مواد مخدر مازندران",
+        "description": "شورای هماهنگی مبارزه با مواد مخدر استان مازندران",
+        "date": 1784718172,
+        "city": "Rahband",
+        "province": "Mazandaran Province",
+        "id": "MTc6MzU4OTllNWMzMjFj",
+        "publicId": "MTc6MzU4OTllNWMzMjFj",
+        "sourceId": "35899e5c321c",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-22T21:59:10.110Z",
+        "updatedAt": "2026-07-22T21:59:10.110Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2341,
+    "total": 2343,
     "layerId": 17,
     "clustered": false,
     "simplified": false
