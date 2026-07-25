@@ -8234,10 +8234,39 @@
         "createdAt": "2026-06-02T08:39:29.804Z",
         "updatedAt": "2026-06-02T08:39:29.804Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94042,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5300387666133,
+          32.68787912520827
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اعتراضات",
+        "description": "محل اعتراضات دی ماه 1404",
+        "date": 1784896919,
+        "city": "خمینی شهر",
+        "province": "استان اصفهان",
+        "id": "MTU6YWIzNWNiZmQ3YzI5",
+        "publicId": "MTU6YWIzNWNiZmQ3YzI5",
+        "sourceId": "ab35cbfd7c29",
+        "layerId": 15,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:38.794Z",
+        "updatedAt": "2026-07-24T23:43:38.794Z"
+      }
     }
   ],
   "metadata": {
-    "total": 286,
+    "total": 287,
     "layerId": 15,
     "clustered": false,
     "simplified": false

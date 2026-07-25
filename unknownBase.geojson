@@ -59800,35 +59800,6 @@
     },
     {
       "type": "Feature",
-      "id": 91471,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.62934838647442,
-          28.95007264970019
-        ]
-      },
-      "properties": {
-        "name:fa": "مرکز سپاه",
-        "description": "اینجا واقعا یه جایی هست که پر از اطلاعاتی و سپاهی هستش که هر کسی بردن اینجا با چشم بند بردنش یه جای مخوفی هستش شک نکنید",
-        "date": 1772497751,
-        "city": "فسا",
-        "province": "استان فارس",
-        "id": "MTI6MWNhN2EyZDM2YzVi",
-        "publicId": "MTI6MWNhN2EyZDM2YzVi",
-        "sourceId": "1ca7a2d36c5b",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-03T00:29:11.974Z",
-        "updatedAt": "2026-03-26T23:40:02.182Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 91472,
       "geometry": {
         "type": "Point",
@@ -68501,10 +68472,97 @@
         "createdAt": "2026-07-22T21:59:10.845Z",
         "updatedAt": "2026-07-22T21:59:10.845Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.44796505990712,
+          29.045091701459526
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان آموزشی",
+        "description": "پادگان آموزشی",
+        "date": 1784827264,
+        "city": "شهرستان بم",
+        "province": "استان کرمان",
+        "id": "MTI6ZWQyOTM3ZWIwMzNh",
+        "publicId": "MTI6ZWQyOTM3ZWIwMzNh",
+        "sourceId": "ed2937eb033a",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T05:36:26.569Z",
+        "updatedAt": "2026-07-24T05:36:26.569Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94039,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.44526970674622,
+          36.337161415212336
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان آماد و پشتیبانی",
+        "description": "پادگان آماد و پشتیبانی شمال شرق نزاجا (پادگان شماره 2)",
+        "date": 1784920332,
+        "city": "نوچاه",
+        "province": "استان خراسان رضوی",
+        "id": "MTI6MGI0ZTczMzBkMDEx",
+        "publicId": "MTI6MGI0ZTczMzBkMDEx",
+        "sourceId": "0b4e7330d011",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:38.563Z",
+        "updatedAt": "2026-07-24T23:43:38.563Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94045,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.685452,
+          36.201407
+        ]
+      },
+      "properties": {
+        "name:fa": "مراکز فرماندهی سپاه",
+        "description": "مراکزفرماندهی سپاه",
+        "date": 1784889829,
+        "city": "سبزوار",
+        "province": "استان خراسان رضوی",
+        "id": "MTI6MDIyOGE4MjI2ZDkx",
+        "publicId": "MTI6MDIyOGE4MjI2ZDkx",
+        "sourceId": "0228a8226d91",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:39.008Z",
+        "updatedAt": "2026-07-24T23:43:39.008Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1004,
+    "total": 1006,
     "layerId": 12,
     "clustered": false,
     "simplified": false

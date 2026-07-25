@@ -61981,10 +61981,155 @@
         "createdAt": "2026-07-22T21:59:10.020Z",
         "updatedAt": "2026-07-22T21:59:10.020Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.41324777515996,
+          29.751010315854046
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج خاتم‌الانبیا",
+        "description": "بسیج و سرکوبگران خاتم‌الانبیا",
+        "date": 1784865793,
+        "city": "شیراز",
+        "province": "استان فارس",
+        "id": "MTozODQyZThiZTkxZmU",
+        "publicId": "MTozODQyZThiZTkxZmU",
+        "sourceId": "3842e8be91fe",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T05:36:26.215Z",
+        "updatedAt": "2026-07-24T05:36:26.215Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.040100847663325,
+          34.34784866052087
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1784757563,
+        "city": "کرمانشاه",
+        "province": "استان کرمانشاه",
+        "id": "MTpiMThkYTYzMDVkMTQ",
+        "publicId": "MTpiMThkYTYzMDVkMTQ",
+        "sourceId": "b18da6305d14",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T05:36:26.993Z",
+        "updatedAt": "2026-07-24T05:36:26.993Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.10989567636386,
+          34.77667608514376
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1784928317,
+        "city": "اسدآباد",
+        "province": "استان همدان",
+        "id": "MTo2M2YyM2FjMzBlMDI",
+        "publicId": "MTo2M2YyM2FjMzBlMDI",
+        "sourceId": "63f23ac30e02",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:38.277Z",
+        "updatedAt": "2026-07-24T23:43:38.277Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.614746286374526,
+          36.312362314800396
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مقاومت بسیج شهید امجدی",
+        "description": "پایگاه مقاومت بسیج شهید امجدی",
+        "date": 1784920823,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTplYjNmMDNmNTRjNzU",
+        "publicId": "MTplYjNmMDNmNTRjNzU",
+        "sourceId": "eb3f03f54c75",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:38.381Z",
+        "updatedAt": "2026-07-24T23:43:38.381Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94043,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.52601665023178,
+          32.69336326677367
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج",
+        "date": 1784896819,
+        "city": "خمینی شهر",
+        "province": "استان اصفهان",
+        "id": "MTpjZDY0OTZjOWZhMjU",
+        "publicId": "MTpjZDY0OTZjOWZhMjU",
+        "sourceId": "cd6496c9fa25",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:38.864Z",
+        "updatedAt": "2026-07-24T23:43:38.864Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2179,
+    "total": 2184,
     "layerId": 1,
     "clustered": false,
     "simplified": false

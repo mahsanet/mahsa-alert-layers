@@ -88456,10 +88456,39 @@
         "createdAt": "2026-07-22T21:59:09.760Z",
         "updatedAt": "2026-07-22T21:59:09.760Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94040,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.524232985237205,
+          32.696335256263055
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان ساعی",
+        "description": "بیمارستان ساعی",
+        "date": 1784897762,
+        "city": "خمینی شهر",
+        "province": "استان اصفهان",
+        "id": "MjU6MDVmNDk4OTY5ZmI0",
+        "publicId": "MjU6MDVmNDk4OTY5ZmI0",
+        "sourceId": "05f498969fb4",
+        "layerId": 25,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:38.647Z",
+        "updatedAt": "2026-07-24T23:43:38.647Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3536,
+    "total": 3537,
     "layerId": 25,
     "clustered": false,
     "simplified": false

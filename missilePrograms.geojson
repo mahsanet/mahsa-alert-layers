@@ -15486,10 +15486,97 @@
         "createdAt": "2026-07-21T05:57:36.121Z",
         "updatedAt": "2026-07-21T05:57:36.121Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.192450968747124,
+          32.015304574666075
+        ]
+      },
+      "properties": {
+        "name:fa": "مسیر شهر موشکی یزد",
+        "description": "یکی از مسیر های ورود به شهر موشکی یزد",
+        "date": 1784797293,
+        "city": "شهرستان اشکذر",
+        "province": "استان یزد",
+        "id": "NzpiNWE1MDA3ZTNkNTU",
+        "publicId": "NzpiNWE1MDA3ZTNkNTU",
+        "sourceId": "b5a5007e3d55",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T05:36:26.752Z",
+        "updatedAt": "2026-07-24T05:36:26.752Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.54104004857271,
+          29.53856408488825
+        ]
+      },
+      "properties": {
+        "name:fa": "زاغه مهمات",
+        "description": "مهمات زاغه",
+        "date": 1784790055,
+        "city": "شهرستان شیراز",
+        "province": "استان فارس",
+        "id": "NzpiMTUwMzVjOTIxNzk",
+        "publicId": "NzpiMTUwMzVjOTIxNzk",
+        "sourceId": "b15035c92179",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T05:36:26.823Z",
+        "updatedAt": "2026-07-24T05:36:26.823Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94048,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.12227503338369,
+          35.762947809528555
+        ]
+      },
+      "properties": {
+        "name:fa": "تونل و لانچر",
+        "description": "وجود تونل و لانچر",
+        "date": 1784874478,
+        "city": "روستای ازگی",
+        "province": "استان تهران",
+        "id": "NzpkNTNiMTQwYWY1NjM",
+        "publicId": "NzpkNTNiMTQwYWY1NjM",
+        "sourceId": "d53b140af563",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:39.236Z",
+        "updatedAt": "2026-07-24T23:43:39.236Z"
+      }
     }
   ],
   "metadata": {
-    "total": 143,
+    "total": 146,
     "layerId": 7,
     "clustered": false,
     "simplified": false

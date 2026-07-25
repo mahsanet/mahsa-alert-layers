@@ -158789,10 +158789,39 @@
         "createdAt": "2026-07-22T21:59:10.599Z",
         "updatedAt": "2026-07-22T21:59:10.599Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94041,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.52368011162375,
+          32.695694937369865
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 11 خمینی شهر",
+        "description": "کلانتری 11 خمینی شهر که از روز اول جنگ در 9اسفند بسته است",
+        "date": 1784897673,
+        "city": "خمینی شهر",
+        "province": "استان اصفهان",
+        "id": "Mzo1Mzg4ZTY4NmQ1ODM",
+        "publicId": "Mzo1Mzg4ZTY4NmQ1ODM",
+        "sourceId": "5388e686d583",
+        "layerId": 3,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:38.717Z",
+        "updatedAt": "2026-07-24T23:43:38.717Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6068,
+    "total": 6069,
     "layerId": 3,
     "clustered": false,
     "simplified": false

@@ -501026,10 +501026,97 @@
         "createdAt": "2026-07-21T04:51:13.793Z",
         "updatedAt": "2026-07-21T04:51:13.793Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94035,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62100499192945,
+          36.31947500096436
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک ملی",
+        "description": "دوربین مداربسته بانک ملی ایران",
+        "date": 1784928914,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6NzEwOTU1YmQ0OTEx",
+        "publicId": "MjA6NzEwOTU1YmQ0OTEx",
+        "sourceId": "710955bd4911",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:38.176Z",
+        "updatedAt": "2026-07-24T23:43:38.176Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94038,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.604738052033554,
+          36.29809609103087
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک ملت",
+        "description": "دوربین مداربسته بانک ملت",
+        "date": 1784920755,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6NGU5YWI2NWY3ZDRk",
+        "publicId": "MjA6NGU5YWI2NWY3ZDRk",
+        "sourceId": "4e9ab65f7d4d",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:38.480Z",
+        "updatedAt": "2026-07-24T23:43:38.480Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94047,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.85664847291852,
+          36.471699058169264
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "description": "دوربین",
+        "date": 1784874832,
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "id": "MjA6NGM5MzVlMTQ1YTE3",
+        "publicId": "MjA6NGM5MzVlMTQ1YTE3",
+        "sourceId": "4c935e145a17",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:39.163Z",
+        "updatedAt": "2026-07-24T23:43:39.163Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18536,
+    "total": 18539,
     "layerId": 20,
     "clustered": false,
     "simplified": false

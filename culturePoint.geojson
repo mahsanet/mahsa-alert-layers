@@ -77860,10 +77860,68 @@
         "createdAt": "2026-07-22T21:59:10.110Z",
         "updatedAt": "2026-07-22T21:59:10.110Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59817719000421,
+          36.29397846680776
+        ]
+      },
+      "properties": {
+        "name:fa": "بنیاد شهید خراسان رضوی",
+        "description": "اداره کل بنیاد شهید و امور ایثارگران خراسان رضوی - خیابان چمران",
+        "date": 1784835805,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTc6ZWE4M2ExZjZmYzEz",
+        "publicId": "MTc6ZWE4M2ExZjZmYzEz",
+        "sourceId": "ea83a1f6fc13",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T05:36:26.357Z",
+        "updatedAt": "2026-07-24T05:36:26.357Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.600959780520384,
+          36.292652834133634
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره کل تبلیغات اسلامی",
+        "description": "اداره کل تبلیغات اسلامی خراسان رضوی - آدرس امام خمینی 17",
+        "date": 1784835181,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTc6NGQ1ZGMyZjJkYTcy",
+        "publicId": "MTc6NGQ1ZGMyZjJkYTcy",
+        "sourceId": "4d5dc2f2da72",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T05:36:26.469Z",
+        "updatedAt": "2026-07-24T05:36:26.469Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2343,
+    "total": 2345,
     "layerId": 17,
     "clustered": false,
     "simplified": false

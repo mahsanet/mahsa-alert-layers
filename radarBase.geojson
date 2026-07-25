@@ -3719,10 +3719,39 @@
         "createdAt": "2026-06-02T08:39:29.943Z",
         "updatedAt": "2026-06-02T08:39:29.943Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94046,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.27627514986685,
+          35.30498151095391
+        ]
+      },
+      "properties": {
+        "name:fa": "رادار پدافند سپاه",
+        "description": "مانیتورهای ردیابی رادار پدافند سپاه پاسدارن",
+        "date": 1784887925,
+        "city": "شهرک صنعتی شمس آباد",
+        "province": "استان تهران",
+        "id": "OTpjMjIyZjdhNjRkYzc",
+        "publicId": "OTpjMjIyZjdhNjRkYzc",
+        "sourceId": "c222f7a64dc7",
+        "layerId": 9,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:39.088Z",
+        "updatedAt": "2026-07-24T23:43:39.088Z"
+      }
     }
   ],
   "metadata": {
-    "total": 53,
+    "total": 54,
     "layerId": 9,
     "clustered": false,
     "simplified": false

@@ -58926,10 +58926,39 @@
         "createdAt": "2026-07-22T21:59:10.521Z",
         "updatedAt": "2026-07-22T21:59:10.521Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.508215552556436,
+          29.589688927511574
+        ]
+      },
+      "properties": {
+        "name:fa": "دکل مخابرات",
+        "description": "دکل مخابرات سرکوبگران",
+        "date": 1784789891,
+        "city": "شیراز",
+        "province": "استان فارس",
+        "id": "MzU6MjI2MzM2N2E3MjNl",
+        "publicId": "MzU6MjI2MzM2N2E3MjNl",
+        "sourceId": "2263367a723e",
+        "layerId": 35,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T05:36:26.921Z",
+        "updatedAt": "2026-07-24T05:36:26.921Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2013,
+    "total": 2014,
     "layerId": 35,
     "clustered": false,
     "simplified": false

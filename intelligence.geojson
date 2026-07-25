@@ -11748,10 +11748,68 @@
         "createdAt": "2026-07-22T21:59:10.914Z",
         "updatedAt": "2026-07-22T21:59:10.914Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.62934768199921,
+          28.950071983874523
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره اطلاعات فسا",
+        "description": "این مکان اداره اطلاعات شهرستان فسا میباشد.",
+        "date": 1784809473,
+        "city": "فسا",
+        "province": "استان فارس",
+        "id": "Mjo2MTNkOTAwZjg5Y2E",
+        "publicId": "Mjo2MTNkOTAwZjg5Y2E",
+        "sourceId": "613d900f89ca",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T05:36:26.662Z",
+        "updatedAt": "2026-07-24T05:36:26.662Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94044,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.64602616515103,
+          36.69843109888636
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی اطلاعات بسیج بابلسر",
+        "description": "فرماندهی اطلاعات بسیج بابلسر",
+        "date": 1784890154,
+        "city": "بابلسر",
+        "province": "استان مازندران",
+        "id": "MjphMWJlNzNmNDk0YWU",
+        "publicId": "MjphMWJlNzNmNDk0YWU",
+        "sourceId": "a1be73f494ae",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-24T23:43:38.935Z",
+        "updatedAt": "2026-07-24T23:43:38.935Z"
+      }
     }
   ],
   "metadata": {
-    "total": 338,
+    "total": 340,
     "layerId": 2,
     "clustered": false,
     "simplified": false
