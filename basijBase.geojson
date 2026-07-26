@@ -62126,10 +62126,39 @@
         "createdAt": "2026-07-24T23:43:38.864Z",
         "updatedAt": "2026-07-24T23:43:38.864Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.47802946450844,
+          36.3380014239991
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان بسیج",
+        "description": "پادگان بسیج. یکی از پایگاه های گردان امام علی مخصوص سرکوب اعتراضات.",
+        "date": 1784943305,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTpiOTU2Y2NkYjMxYjk",
+        "publicId": "MTpiOTU2Y2NkYjMxYjk",
+        "sourceId": "b956ccdb31b9",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-25T21:01:39.868Z",
+        "updatedAt": "2026-07-25T21:01:39.868Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2184,
+    "total": 2185,
     "layerId": 1,
     "clustered": false,
     "simplified": false

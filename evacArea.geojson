@@ -576,8 +576,8 @@
         ]
       },
       "properties": {
-        "date": 1750368000000,
         "id": "MTQ6MQ",
+        "date": 1750368000,
         "publicId": "MTQ6MQ",
         "sourceId": "1",
         "layerId": 14,
@@ -793,8 +793,8 @@
         ]
       },
       "properties": {
-        "date": 1750080480000,
         "id": "MTQ6Mg",
+        "date": 1750080480,
         "publicId": "MTQ6Mg",
         "sourceId": "2",
         "layerId": 14,
@@ -934,8 +934,8 @@
         ]
       },
       "properties": {
-        "date": 1750200000000,
         "id": "MTQ6Mw",
+        "date": 1750200000,
         "publicId": "MTQ6Mw",
         "sourceId": "3",
         "layerId": 14,
@@ -2043,8 +2043,8 @@
         ]
       },
       "properties": {
-        "date": 1750296000000,
         "id": "MTQ6NA",
+        "date": 1750296000,
         "publicId": "MTQ6NA",
         "sourceId": "4",
         "layerId": 14,
@@ -2328,8 +2328,8 @@
         ]
       },
       "properties": {
-        "date": 1750711500000,
         "id": "MTQ6NQ",
+        "date": 1750711500,
         "publicId": "MTQ6NQ",
         "sourceId": "5",
         "layerId": 14,
@@ -2613,8 +2613,8 @@
         ]
       },
       "properties": {
-        "date": 1750718100000,
         "id": "MTQ6Ng",
+        "date": 1750718100,
         "publicId": "MTQ6Ng",
         "sourceId": "6",
         "layerId": 14,
@@ -2898,8 +2898,8 @@
         ]
       },
       "properties": {
-        "date": 1750718100000,
         "id": "MTQ6Nw",
+        "date": 1750718100,
         "publicId": "MTQ6Nw",
         "sourceId": "7",
         "layerId": 14,

@@ -12261,7 +12261,7 @@
         ]
       },
       "properties": {
-        "date": 29545710,
+        "date": 1772742600,
         "name:fa": "حمله موشکی",
         "description": "انفجار یا حمله موشکی حوالی ساعت 3 بامداد",
         "id": "Nzo2MGJhNDc5ZjhiNGQ",
@@ -15573,10 +15573,68 @@
         "createdAt": "2026-07-24T23:43:39.236Z",
         "updatedAt": "2026-07-24T23:43:39.236Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94061,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.569500085186775,
+          31.279547042449266
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار لانچر در شرکت",
+        "description": "از ۳۱ تیر ماه ۱۴۰۵ هر شب اواسط شب چند فروند لانچر دارن میارن داخل این شرکت و تو سوله های مختلف پنهان میکنن کلیه خطوط تولید بیکار هستند و از پرسنل دارن به عنوان سپر انسانی استفاده میکنن",
+        "date": 1784939128,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "Nzo0ZWEzNWIzYzVhNDk",
+        "publicId": "Nzo0ZWEzNWIzYzVhNDk",
+        "sourceId": "4ea35b3c5a49",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-25T21:01:39.964Z",
+        "updatedAt": "2026-07-25T21:01:39.964Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.458923130659656,
+          32.693828743649505
+        ]
+      },
+      "properties": {
+        "name:fa": "شهر موشکی سپاه",
+        "description": "شهر موشکی سپاه پاسداران",
+        "date": 1784897125,
+        "city": "شهرستان خمینی شهر",
+        "province": "استان اصفهان",
+        "id": "NzpiNDBhOWZhYTQ1MDY",
+        "publicId": "NzpiNDBhOWZhYTQ1MDY",
+        "sourceId": "b40a9faa4506",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-25T21:19:31.407Z",
+        "updatedAt": "2026-07-25T21:19:31.407Z"
+      }
     }
   ],
   "metadata": {
-    "total": 146,
+    "total": 148,
     "layerId": 7,
     "clustered": false,
     "simplified": false

@@ -501113,10 +501113,68 @@
         "createdAt": "2026-07-24T23:43:39.163Z",
         "updatedAt": "2026-07-24T23:43:39.163Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94057,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.96818131697694,
+          36.42903536099212
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین اطلاعات سپاه",
+        "description": "دوربین ۳۶۰ درجه اداره اطلاعات سپاه با ضبط صدا و تصویر واقع خ فردوسی بسیار خطرناک و راهبردی",
+        "date": 1785009603,
+        "city": "شاهرود",
+        "province": "استان سمنان",
+        "id": "MjA6OWVjYzIyZThmMmU2",
+        "publicId": "MjA6OWVjYzIyZThmMmU2",
+        "sourceId": "9ecc22e8f2e6",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-25T21:01:39.530Z",
+        "updatedAt": "2026-07-25T21:01:39.530Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.066600404953135,
+          34.30710826695497
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین غیر ترافیکی",
+        "description": "دوربین غیر ترافیکی و جهت کنترل رفت و آمد و شناسایی برای مقابله با اعتراضات احتمالی مردمی، متعلق به اطلاعات سپاه",
+        "date": 1784991409,
+        "city": "کرمانشاه",
+        "province": "استان کرمانشاه",
+        "id": "MjA6Y2VjMzMyODc3YjAz",
+        "publicId": "MjA6Y2VjMzMyODc3YjAz",
+        "sourceId": "cec332877b03",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-25T21:19:31.261Z",
+        "updatedAt": "2026-07-25T21:19:31.261Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18539,
+    "total": 18541,
     "layerId": 20,
     "clustered": false,
     "simplified": false

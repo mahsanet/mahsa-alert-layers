@@ -149683,8 +149683,8 @@
         ]
       },
       "properties": {
+        "date": 1772397000,
         "name:fa": "پاسگاە انجیران",
-        "date": 29539950,
         "description": "",
         "id": "Mzo1MjY2YTM5NDU3ZWU",
         "publicId": "Mzo1MjY2YTM5NDU3ZWU",
@@ -158818,10 +158818,39 @@
         "createdAt": "2026-07-24T23:43:38.717Z",
         "updatedAt": "2026-07-24T23:43:38.717Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94058,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.035706,
+          35.710297
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره گذرنامه نیروی انتظامی",
+        "description": "اداره گذرنامه و امکان نیروی انتظامی",
+        "date": 1784975956,
+        "city": "شهر جدید اندیشه",
+        "province": "استان تهران",
+        "id": "Mzo3NGQzM2RlZDUxNTM",
+        "publicId": "Mzo3NGQzM2RlZDUxNTM",
+        "sourceId": "74d33ded5153",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-25T21:01:39.669Z",
+        "updatedAt": "2026-07-25T21:01:39.669Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6069,
+    "total": 6070,
     "layerId": 3,
     "clustered": false,
     "simplified": false

@@ -42301,10 +42301,39 @@
         "createdAt": "2026-07-17T05:20:42.838Z",
         "updatedAt": "2026-07-17T05:20:42.838Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94064,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.56317590584092,
+          29.6498975277038
+        ]
+      },
+      "properties": {
+        "name:fa": "مخابرات دریایی سپاه",
+        "description": "مخابرات دریایی سپاه",
+        "date": 1784944906,
+        "city": "اب زنگي‎",
+        "province": "استان فارس",
+        "id": "MTE6MTEwZGEzNWRhOTQ0",
+        "publicId": "MTE6MTEwZGEzNWRhOTQ0",
+        "sourceId": "110da35da944",
+        "layerId": 11,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-25T21:19:39.421Z",
+        "updatedAt": "2026-07-25T21:19:39.421Z"
+      }
     }
   ],
   "metadata": {
-    "total": 376,
+    "total": 377,
     "layerId": 11,
     "clustered": false,
     "simplified": false

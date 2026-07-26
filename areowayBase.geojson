@@ -27303,11 +27303,11 @@
         ]
       },
       "properties": {
-        "name:fa": "پایگاه هوایی سپاه و دکل تلویزیونی",
-        "date": -49388746200,
-        "description": "",
         "city": "شهرستان کامیاران",
+        "date": 1771965000,
+        "name:fa": "پایگاه هوایی سپاه و دکل تلویزیونی",
         "province": "استان کردستان",
+        "description": "",
         "id": "MTA6YTJlYmYwMmIxOTBm",
         "publicId": "MTA6YTJlYmYwMmIxOTBm",
         "sourceId": "a2ebf02b190f",
