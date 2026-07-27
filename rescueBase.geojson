@@ -13,7 +13,9 @@
       },
       "properties": {
         "id": "Mjk6MzgxMTQ",
+        "city": "سبزوار",
         "name:fa": "بیمارستان امداد شهید دکتر بهشتی",
+        "province": "استان خراسان رضوی",
         "publicId": "Mjk6MzgxMTQ",
         "sourceId": "38114",
         "layerId": 29,
@@ -38,7 +40,9 @@
       },
       "properties": {
         "id": "Mjk6MTg5MTQ",
+        "city": "مشهد",
         "name:fa": "بیمارستان امداد و نجات مشهد",
+        "province": "استان خراسان رضوی",
         "publicId": "Mjk6MTg5MTQ",
         "sourceId": "18914",
         "layerId": 29,
@@ -63,7 +67,9 @@
       },
       "properties": {
         "id": "Mjk6MTkzNTM",
+        "city": "ابهر",
         "name:fa": "بیمارستان امدادی",
+        "province": "استان زنجان",
         "publicId": "Mjk6MTkzNTM",
         "sourceId": "19353",
         "layerId": 29,
@@ -88,7 +94,9 @@
       },
       "properties": {
         "id": "Mjk6Mzg3MTg",
+        "city": "مشهد",
         "name:fa": "بیمارستان امدادی شهید کامیاب",
+        "province": "استان خراسان رضوی",
         "publicId": "Mjk6Mzg3MTg",
         "sourceId": "38718",
         "layerId": 29,
@@ -113,7 +121,9 @@
       },
       "properties": {
         "id": "Mjk6Mzg4MTE",
+        "city": "تبریز",
         "name:fa": "بیمارستان خصوصی نجات",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6Mzg4MTE",
         "sourceId": "38811",
         "layerId": 29,
@@ -138,7 +148,9 @@
       },
       "properties": {
         "id": "Mjk6MTQ2MjI",
+        "city": "تبریز",
         "name:fa": "بیمارستان نور نجات",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6MTQ2MjI",
         "sourceId": "14622",
         "layerId": 29,
@@ -163,7 +175,9 @@
       },
       "properties": {
         "id": "Mjk6MTQ0ODc",
+        "city": "تبریز",
         "name:fa": "دکتر احمد شیخلو(بیمارستان نور نجات)",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6MTQ0ODc",
         "sourceId": "14487",
         "layerId": 29,
@@ -188,7 +202,9 @@
       },
       "properties": {
         "id": "Mjk6MjgyMDE",
+        "city": "اصفهان",
         "name:fa": "محل فرود بالگردهای امدادی در بیمارستان ارتش",
+        "province": "استان اصفهان",
         "publicId": "Mjk6MjgyMDE",
         "sourceId": "28201",
         "layerId": 29,
@@ -213,7 +229,9 @@
       },
       "properties": {
         "id": "Mjk6NDA1NTM",
+        "city": "شهرستان شازند",
         "name:fa": "امداد جاده ۱۱۵",
+        "province": "استان مرکزی",
         "publicId": "Mjk6NDA1NTM",
         "sourceId": "40553",
         "layerId": 29,
@@ -238,7 +256,9 @@
       },
       "properties": {
         "id": "Mjk6MzAwNTA",
+        "city": "شهرستان اهواز",
         "name:fa": "ایستگاه ۱۱۵ امداد",
+        "province": "استان خوزستان",
         "publicId": "Mjk6MzAwNTA",
         "sourceId": "30050",
         "layerId": 29,
@@ -263,7 +283,9 @@
       },
       "properties": {
         "id": "Mjk6MTk0NjA",
+        "city": "کرسف",
         "name:fa": "فوریت های امداد و نجات ۱۱۲ کرسف",
+        "province": "استان زنجان",
         "publicId": "Mjk6MTk0NjA",
         "sourceId": "19460",
         "layerId": 29,
@@ -288,7 +310,9 @@
       },
       "properties": {
         "id": "Mjk6MjczNDM",
+        "city": "شهرستان بوئين مياندشت",
         "name:fa": "پایگاه امداد جاده ای ۱۱۵",
+        "province": "استان اصفهان",
         "publicId": "Mjk6MjczNDM",
         "sourceId": "27343",
         "layerId": 29,
@@ -313,7 +337,9 @@
       },
       "properties": {
         "id": "Mjk6MTY0NTE",
+        "city": "شهرستان گرمه",
         "name:fa": "پایگاه امداد جاده ای ۱۱۵ شهر درق",
+        "province": "استان خراسان شمالی",
         "publicId": "Mjk6MTY0NTE",
         "sourceId": "16451",
         "layerId": 29,
@@ -338,7 +364,9 @@
       },
       "properties": {
         "id": "Mjk6MjIyODg",
+        "city": "تهران",
         "name:fa": "امبولانس خصوصی امداد ماهان سلامت",
+        "province": "استان تهران",
         "publicId": "Mjk6MjIyODg",
         "sourceId": "22288",
         "layerId": 29,
@@ -363,7 +391,9 @@
       },
       "properties": {
         "id": "Mjk6MTU3NTc",
+        "city": "رشت",
         "name:fa": "امداد",
+        "province": "استان گیلان",
         "publicId": "Mjk6MTU3NTc",
         "sourceId": "15757",
         "layerId": 29,
@@ -388,7 +418,9 @@
       },
       "properties": {
         "id": "Mjk6MjI4Njc",
+        "city": "بابارشانی",
         "name:fa": "امداد جاده ای",
+        "province": "استان کردستان",
         "publicId": "Mjk6MjI4Njc",
         "sourceId": "22867",
         "layerId": 29,
@@ -413,7 +445,9 @@
       },
       "properties": {
         "id": "Mjk6MzA3NzA",
+        "city": "سپیدان",
         "name:fa": "امداد جاده ای",
+        "province": "استان فارس",
         "publicId": "Mjk6MzA3NzA",
         "sourceId": "30770",
         "layerId": 29,
@@ -438,7 +472,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4MzQ",
+        "city": "شهرستان گناوه",
         "name:fa": "امداد جاده ای بینک",
+        "province": "استان بوشهر",
         "publicId": "Mjk6NDA4MzQ",
         "sourceId": "40834",
         "layerId": 29,
@@ -463,7 +499,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4MzU",
+        "city": "شهرستان گناوه",
         "name:fa": "امداد جاده ای شول",
+        "province": "استان بوشهر",
         "publicId": "Mjk6NDA4MzU",
         "sourceId": "40835",
         "layerId": 29,
@@ -488,7 +526,9 @@
       },
       "properties": {
         "id": "Mjk6MjkyMjY",
+        "city": "یزد",
         "name:fa": "امداد سلامت",
+        "province": "استان یزد",
         "publicId": "Mjk6MjkyMjY",
         "sourceId": "29226",
         "layerId": 29,
@@ -513,7 +553,9 @@
       },
       "properties": {
         "id": "Mjk6MjI1Njg",
+        "city": "تهران",
         "name:fa": "امداد طاهر",
+        "province": "استان تهران",
         "publicId": "Mjk6MjI1Njg",
         "sourceId": "22568",
         "layerId": 29,
@@ -538,7 +580,9 @@
       },
       "properties": {
         "id": "Mjk6MzAzNjA",
+        "city": "فیلگاه",
         "name:fa": "امداد نجات بین شهری شهید بهروز رضویان",
+        "province": "استان کهگیلویه و بویراحمد",
         "publicId": "Mjk6MzAzNjA",
         "sourceId": "30360",
         "layerId": 29,
@@ -563,7 +607,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4MzY",
+        "city": "شهرستان میانه",
         "name:fa": "امداد نجات جاده ای",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6NDA4MzY",
         "sourceId": "40836",
         "layerId": 29,
@@ -588,7 +634,9 @@
       },
       "properties": {
         "id": "Mjk6MTUzMDE",
+        "city": "شهرستان بندر انزلی",
         "name:fa": "امداد و نجات دریایی",
+        "province": "استان گیلان",
         "publicId": "Mjk6MTUzMDE",
         "sourceId": "15301",
         "layerId": 29,
@@ -613,7 +661,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4Mzc",
+        "city": "شهرستان کلیبر",
         "name:fa": "امداد و نجات کلان",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6NDA4Mzc",
         "sourceId": "40837",
         "layerId": 29,
@@ -638,7 +688,9 @@
       },
       "properties": {
         "id": "Mjk6MzE5MjA",
+        "city": "شهرستان کازرون",
         "name:fa": "امداد ونجات جاده ای",
+        "province": "استان فارس",
         "publicId": "Mjk6MzE5MjA",
         "sourceId": "31920",
         "layerId": 29,
@@ -663,7 +715,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4Mzg",
+        "city": "شهرستان شیراز",
         "name:fa": "امداد ونجات جاده ای",
+        "province": "استان فارس",
         "publicId": "Mjk6NDA4Mzg",
         "sourceId": "40838",
         "layerId": 29,
@@ -688,7 +742,9 @@
       },
       "properties": {
         "id": "Mjk6MjU5MjU",
+        "city": "شهرستان دالاهو",
         "name:fa": "امدادگر جاده",
+        "province": "استان کرمانشاه",
         "publicId": "Mjk6MjU5MjU",
         "sourceId": "25925",
         "layerId": 29,
@@ -713,7 +769,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4Mzk",
+        "city": "سرمیل",
         "name:fa": "امدادگر جاده",
+        "province": "استان کرمانشاه",
         "publicId": "Mjk6NDA4Mzk",
         "sourceId": "40839",
         "layerId": 29,
@@ -738,7 +796,9 @@
       },
       "properties": {
         "id": "Mjk6MTc5MTQ",
+        "city": "قائم شهر",
         "name:fa": "انجمن امداد بیماران سرطانی",
+        "province": "استان مازندران",
         "publicId": "Mjk6MTc5MTQ",
         "sourceId": "17914",
         "layerId": 29,
@@ -763,7 +823,9 @@
       },
       "properties": {
         "id": "Mjk6MjkzNzk",
+        "city": "شهرستان بافق",
         "name:fa": "ایستگاه امداد و نجات",
+        "province": "استان یزد",
         "publicId": "Mjk6MjkzNzk",
         "sourceId": "29379",
         "layerId": 29,
@@ -788,7 +850,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NDA",
+        "city": "شهرستان انار",
         "name:fa": "ایستگاه امداد و نجات جاده ای",
+        "province": "استان کرمان",
         "publicId": "Mjk6NDA4NDA",
         "sourceId": "40840",
         "layerId": 29,
@@ -813,7 +877,9 @@
       },
       "properties": {
         "id": "Mjk6MjI0MjY",
+        "city": "شهرستان ملارد",
         "name:fa": "بامداد",
+        "province": "استان تهران",
         "publicId": "Mjk6MjI0MjY",
         "sourceId": "22426",
         "layerId": 29,
@@ -838,7 +904,9 @@
       },
       "properties": {
         "id": "Mjk6MjE2OTc",
+        "city": "تهران",
         "name:fa": "درمانگاه امدادگران",
+        "province": "استان تهران",
         "publicId": "Mjk6MjE2OTc",
         "sourceId": "21697",
         "layerId": 29,
@@ -863,7 +931,9 @@
       },
       "properties": {
         "id": "Mjk6MTU1NjU",
+        "city": "خشکبیجار",
         "name:fa": "درمانگاه دکتر نجاتی",
+        "province": "استان گیلان",
         "publicId": "Mjk6MTU1NjU",
         "sourceId": "15565",
         "layerId": 29,
@@ -888,7 +958,9 @@
       },
       "properties": {
         "id": "Mjk6MTQ3MjE",
+        "city": "تبریز",
         "name:fa": "درمانگاه شبانه روزی فرشتگان نجات",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6MTQ3MjE",
         "sourceId": "14721",
         "layerId": 29,
@@ -913,7 +985,9 @@
       },
       "properties": {
         "id": "Mjk6MTc4NTI",
+        "city": "قائم شهر",
         "name:fa": "درمانگاه شبانه روزی نجات",
+        "province": "استان مازندران",
         "publicId": "Mjk6MTc4NTI",
         "sourceId": "17852",
         "layerId": 29,
@@ -938,7 +1012,9 @@
       },
       "properties": {
         "id": "Mjk6MTY5OTU",
+        "city": "بابلسر",
         "name:fa": "درمانگاه نجات",
+        "province": "استان مازندران",
         "publicId": "Mjk6MTY5OTU",
         "sourceId": "16995",
         "layerId": 29,
@@ -963,7 +1039,9 @@
       },
       "properties": {
         "id": "Mjk6MTQxNDY",
+        "city": "اردبیل",
         "name:fa": "درمانگاه نجات",
+        "province": "استان اردبیل",
         "publicId": "Mjk6MTQxNDY",
         "sourceId": "14146",
         "layerId": 29,
@@ -988,7 +1066,9 @@
       },
       "properties": {
         "id": "Mjk6MTc1OTc",
+        "city": "بابل",
         "name:fa": "درمانگاه نجات",
+        "province": "استان مازندران",
         "publicId": "Mjk6MTc1OTc",
         "sourceId": "17597",
         "layerId": 29,
@@ -1013,7 +1093,9 @@
       },
       "properties": {
         "id": "Mjk6MjExODM",
+        "city": "تهران",
         "name:fa": "دکتر امداد",
+        "province": "استان تهران",
         "publicId": "Mjk6MjExODM",
         "sourceId": "21183",
         "layerId": 29,
@@ -1038,7 +1120,9 @@
       },
       "properties": {
         "id": "Mjk6Mzc4MzQ",
+        "city": "مهاباد",
         "name:fa": "دکتر بامداد",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6Mzc4MzQ",
         "sourceId": "37834",
         "layerId": 29,
@@ -1063,7 +1147,9 @@
       },
       "properties": {
         "id": "Mjk6MTk1MDM",
+        "city": "بانه",
         "name:fa": "دکتر سعید نجاتی صفا متخصص قلب و عروق",
+        "province": "استان کردستان",
         "publicId": "Mjk6MTk1MDM",
         "sourceId": "19503",
         "layerId": 29,
@@ -1088,7 +1174,9 @@
       },
       "properties": {
         "id": "Mjk6Mjg4ODc",
+        "city": "میانرود",
         "name:fa": "ساختمان امدادجاده وامبولانس میانرود",
+        "province": "استان خوزستان",
         "publicId": "Mjk6Mjg4ODc",
         "sourceId": "28887",
         "layerId": 29,
@@ -1113,7 +1201,9 @@
       },
       "properties": {
         "id": "Mjk6Mjc4NDk",
+        "city": "اصفهان",
         "name:fa": "مراکز امداد",
+        "province": "استان اصفهان",
         "publicId": "Mjk6Mjc4NDk",
         "sourceId": "27849",
         "layerId": 29,
@@ -1138,7 +1228,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NDM",
+        "city": "شهرستان ایلام",
         "name:fa": "مرکز امبولانس ایلام نجات",
+        "province": "استان ایلام",
         "publicId": "Mjk6NDA4NDM",
         "sourceId": "40843",
         "layerId": 29,
@@ -1163,7 +1255,9 @@
       },
       "properties": {
         "id": "Mjk6MzEyNzE",
+        "city": "شهرستان کازرون",
         "name:fa": "مرکز امداد جاده ای ابوالحیات",
+        "province": "استان فارس",
         "publicId": "Mjk6MzEyNzE",
         "sourceId": "31271",
         "layerId": 29,
@@ -1188,7 +1282,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NDQ",
+        "city": "ابوالحیات",
         "name:fa": "مرکز امداد جاده ای ابوالحیات",
+        "province": "استان فارس",
         "publicId": "Mjk6NDA4NDQ",
         "sourceId": "40844",
         "layerId": 29,
@@ -1213,7 +1309,9 @@
       },
       "properties": {
         "id": "Mjk6MzcyMTg",
+        "city": "طبس",
         "name:fa": "مرکز امداد و نجات",
+        "province": "استان خراسان جنوبی",
         "publicId": "Mjk6MzcyMTg",
         "sourceId": "37218",
         "layerId": 29,
@@ -1238,7 +1336,9 @@
       },
       "properties": {
         "id": "Mjk6MjMwMjA",
+        "city": "تهران",
         "name:fa": "مرکز بهداشت و امداد آمادگاه 501 ارتش",
+        "province": "استان تهران",
         "publicId": "Mjk6MjMwMjA",
         "sourceId": "23020",
         "layerId": 29,
@@ -1263,7 +1363,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NDU",
+        "city": "اصفهان",
         "name:fa": "مرکز تحقیقات تنفس و خواب بامداد",
+        "province": "استان اصفهان",
         "publicId": "Mjk6NDA4NDU",
         "sourceId": "40845",
         "layerId": 29,
@@ -1288,7 +1390,9 @@
       },
       "properties": {
         "id": "Mjk6MjU2MTI",
+        "city": "قم",
         "name:fa": "مرکز سلامت جامع نجاتی",
+        "province": "استان قم",
         "publicId": "Mjk6MjU2MTI",
         "sourceId": "25612",
         "layerId": 29,
@@ -1313,7 +1417,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NDY",
+        "city": "اميديه",
         "name:fa": "معاونت امداد درمان انتظامی ا",
+        "province": "استان خوزستان",
         "publicId": "Mjk6NDA4NDY",
         "sourceId": "40846",
         "layerId": 29,
@@ -1338,7 +1444,9 @@
       },
       "properties": {
         "id": "Mjk6MTgwNjA",
+        "city": "مشهد",
         "name:fa": "معاونت امداد و نجات",
+        "province": "استان خراسان رضوی",
         "publicId": "Mjk6MTgwNjA",
         "sourceId": "18060",
         "layerId": 29,
@@ -1363,7 +1471,9 @@
       },
       "properties": {
         "id": "Mjk6MTU0Nzc",
+        "city": "بناب",
         "name:fa": "پایگاه امداد امام علی",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6MTU0Nzc",
         "sourceId": "15477",
         "layerId": 29,
@@ -1388,7 +1498,9 @@
       },
       "properties": {
         "id": "Mjk6MjM4Mzk",
+        "city": "شهرستان ملارد",
         "name:fa": "پایگاه امداد جاده ای",
+        "province": "استان تهران",
         "publicId": "Mjk6MjM4Mzk",
         "sourceId": "23839",
         "layerId": 29,
@@ -1413,7 +1525,9 @@
       },
       "properties": {
         "id": "Mjk6MjQxMTA",
+        "city": "شهرستان ری",
         "name:fa": "پایگاه امداد جاده ای",
+        "province": "استان تهران",
         "publicId": "Mjk6MjQxMTA",
         "sourceId": "24110",
         "layerId": 29,
@@ -1438,7 +1552,9 @@
       },
       "properties": {
         "id": "Mjk6MzU5NjY",
+        "city": "شهرستان کرمان",
         "name:fa": "پایگاه امداد جاده ای",
+        "province": "استان کرمان",
         "publicId": "Mjk6MzU5NjY",
         "sourceId": "35966",
         "layerId": 29,
@@ -1463,7 +1579,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NDc",
+        "city": "شهرستان مرودشت",
         "name:fa": "پایگاه امداد جاده ای",
+        "province": "استان فارس",
         "publicId": "Mjk6NDA4NDc",
         "sourceId": "40847",
         "layerId": 29,
@@ -1488,7 +1606,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NDg",
+        "city": "شهرستان خوروبیابانک",
         "name:fa": "پایگاه امداد جاده ای",
+        "province": "استان اصفهان",
         "publicId": "Mjk6NDA4NDg",
         "sourceId": "40848",
         "layerId": 29,
@@ -1513,7 +1633,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NDk",
+        "city": "شهرستان ارومیه",
         "name:fa": "پایگاه امداد جاده ای",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6NDA4NDk",
         "sourceId": "40849",
         "layerId": 29,
@@ -1538,7 +1660,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NTA",
+        "city": "شهرستان پاکدشت",
         "name:fa": "پایگاه امداد جاده ای",
+        "province": "استان تهران",
         "publicId": "Mjk6NDA4NTA",
         "sourceId": "40850",
         "layerId": 29,
@@ -1563,7 +1687,9 @@
       },
       "properties": {
         "id": "Mjk6MzA2MjM",
+        "city": "شهرستان آبادان",
         "name:fa": "پایگاه امداد جاده ای امام حسین ع",
+        "province": "استان خوزستان",
         "publicId": "Mjk6MzA2MjM",
         "sourceId": "30623",
         "layerId": 29,
@@ -1588,7 +1714,9 @@
       },
       "properties": {
         "id": "Mjk6Mjc1MDM",
+        "city": "شهرستان دهلران",
         "name:fa": "پایگاه امداد جاده ای بیشه دراز",
+        "province": "استان ایلام",
         "publicId": "Mjk6Mjc1MDM",
         "sourceId": "27503",
         "layerId": 29,
@@ -1613,7 +1741,9 @@
       },
       "properties": {
         "id": "Mjk6MjY3OTI",
+        "city": "شهرستان زيركوه",
         "name:fa": "پایگاه امداد جاده ای بین شهری",
+        "province": "استان خراسان جنوبی",
         "publicId": "Mjk6MjY3OTI",
         "sourceId": "26792",
         "layerId": 29,
@@ -1638,7 +1768,9 @@
       },
       "properties": {
         "id": "Mjk6MzExMjM",
+        "city": "فتح آباد",
         "name:fa": "پایگاه امداد جاده ای بین شهری فتح آباد",
+        "province": "استان فارس",
         "publicId": "Mjk6MzExMjM",
         "sourceId": "31123",
         "layerId": 29,
@@ -1663,7 +1795,9 @@
       },
       "properties": {
         "id": "Mjk6MTcyOTY",
+        "city": "تازه کند نصرت آباد",
         "name:fa": "پایگاه امداد جاده ای تخت سلیمان",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6MTcyOTY",
         "sourceId": "17296",
         "layerId": 29,
@@ -1688,7 +1822,9 @@
       },
       "properties": {
         "id": "Mjk6MjU3NTM",
+        "city": "شهرستان تویسرکان",
         "name:fa": "پایگاه امداد جاده ای سه راهی خیرآباد",
+        "province": "استان همدان",
         "publicId": "Mjk6MjU3NTM",
         "sourceId": "25753",
         "layerId": 29,
@@ -1713,7 +1849,9 @@
       },
       "properties": {
         "id": "Mjk6MjUzNTg",
+        "city": "شهرستان اسدآباد",
         "name:fa": "پایگاه امداد جاده ای شهید عمادی",
+        "province": "استان همدان",
         "publicId": "Mjk6MjUzNTg",
         "sourceId": "25358",
         "layerId": 29,
@@ -1738,7 +1876,9 @@
       },
       "properties": {
         "id": "Mjk6MTUyODU",
+        "city": "شهرستان میانه",
         "name:fa": "پایگاه امداد جاده ای عجمی",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6MTUyODU",
         "sourceId": "15285",
         "layerId": 29,
@@ -1763,7 +1903,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NTE",
+        "city": "شهرستان اشنویه",
         "name:fa": "پایگاه امداد جاده ای عین الروم",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6NDA4NTE",
         "sourceId": "40851",
         "layerId": 29,
@@ -1788,7 +1930,9 @@
       },
       "properties": {
         "id": "Mjk6MTQ4MDI",
+        "city": "شهرستان ارومیه",
         "name:fa": "پایگاه امداد جاده ای قوشچی",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6MTQ4MDI",
         "sourceId": "14802",
         "layerId": 29,
@@ -1813,7 +1957,9 @@
       },
       "properties": {
         "id": "Mjk6MTY0MjQ",
+        "city": "شهرستان نقده",
         "name:fa": "پایگاه امداد جاده ای محمدیار",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6MTY0MjQ",
         "sourceId": "16424",
         "layerId": 29,
@@ -1838,7 +1984,9 @@
       },
       "properties": {
         "id": "Mjk6MTY5MDc",
+        "city": "شهرستان بوکان",
         "name:fa": "پایگاه امداد جاده ای ملالر(محمد رسول اللّه ص)",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6MTY5MDc",
         "sourceId": "16907",
         "layerId": 29,
@@ -1863,7 +2011,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NTI",
+        "city": "شهرستان مهاباد",
         "name:fa": "پایگاه امداد جاده ای مکریان",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6NDA4NTI",
         "sourceId": "40852",
         "layerId": 29,
@@ -1888,7 +2038,9 @@
       },
       "properties": {
         "id": "Mjk6MTkzMTM",
+        "city": "شهرستان چالوس",
         "name:fa": "پایگاه امداد جاده ای کندوان چالوس",
+        "province": "استان مازندران",
         "publicId": "Mjk6MTkzMTM",
         "sourceId": "19313",
         "layerId": 29,
@@ -1913,7 +2065,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NTM",
+        "city": "شهرستان دشتی",
         "name:fa": "پایگاه امداد جاده ای گلستان",
+        "province": "استان بوشهر",
         "publicId": "Mjk6NDA4NTM",
         "sourceId": "40853",
         "layerId": 29,
@@ -1938,7 +2092,9 @@
       },
       "properties": {
         "id": "Mjk6MTQ5NzY",
+        "city": "شهرستان ارومیه",
         "name:fa": "پایگاه امداد جاده ایی سرو",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6MTQ5NzY",
         "sourceId": "14976",
         "layerId": 29,
@@ -1963,7 +2119,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NTQ",
+        "city": "شهرستان فراهان",
         "name:fa": "پایگاه امداد جاده‌ای سوم خرداد",
+        "province": "استان مرکزی",
         "publicId": "Mjk6NDA4NTQ",
         "sourceId": "40854",
         "layerId": 29,
@@ -1988,7 +2146,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NTU",
+        "city": "شهرستان شازند",
         "name:fa": "پایگاه امداد جاده‌ای قاناقان",
+        "province": "استان مرکزی",
         "publicId": "Mjk6NDA4NTU",
         "sourceId": "40855",
         "layerId": 29,
@@ -2013,7 +2173,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NTY",
+        "city": "شهرستان رباط کریم",
         "name:fa": "پایگاه امداد جاده‌ای پرند",
+        "province": "استان تهران",
         "publicId": "Mjk6NDA4NTY",
         "sourceId": "40856",
         "layerId": 29,
@@ -2038,7 +2200,9 @@
       },
       "properties": {
         "id": "Mjk6MjY3NzE",
+        "city": "شهرستان فردوس",
         "name:fa": "پایگاه امداد سه راهی بشرویه  شهرستان فردوس",
+        "province": "استان خراسان جنوبی",
         "publicId": "Mjk6MjY3NzE",
         "sourceId": "26771",
         "layerId": 29,
@@ -2063,7 +2227,9 @@
       },
       "properties": {
         "id": "Mjk6MjUwNzE",
+        "city": "شهرستان بهار",
         "name:fa": "پایگاه امداد صالح آباد",
+        "province": "استان همدان",
         "publicId": "Mjk6MjUwNzE",
         "sourceId": "25071",
         "layerId": 29,
@@ -2088,7 +2254,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NTc",
+        "city": "شهرستان فامنین",
         "name:fa": "پایگاه امداد نجات",
+        "province": "استان همدان",
         "publicId": "Mjk6NDA4NTc",
         "sourceId": "40857",
         "layerId": 29,
@@ -2113,7 +2281,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NTg",
+        "city": "شهرستان بوشهر",
         "name:fa": "پایگاه امداد نجات",
+        "province": "استان بوشهر",
         "publicId": "Mjk6NDA4NTg",
         "sourceId": "40858",
         "layerId": 29,
@@ -2138,7 +2308,9 @@
       },
       "properties": {
         "id": "Mjk6MzAzNDk",
+        "city": "شهرستان هامون",
         "name:fa": "پایگاه امداد نجات زابل زاهدان",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "Mjk6MzAzNDk",
         "sourceId": "30349",
         "layerId": 29,
@@ -2163,7 +2335,9 @@
       },
       "properties": {
         "id": "Mjk6MTQxNTk",
+        "city": "شهرستان شبستر",
         "name:fa": "پایگاه امداد نجات ۱۱۲",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6MTQxNTk",
         "sourceId": "14159",
         "layerId": 29,
@@ -2188,7 +2362,9 @@
       },
       "properties": {
         "id": "Mjk6MTY4NjA",
+        "city": "شهرستان زنجان",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان زنجان",
         "publicId": "Mjk6MTY4NjA",
         "sourceId": "16860",
         "layerId": 29,
@@ -2213,7 +2389,9 @@
       },
       "properties": {
         "id": "Mjk6MjE1NTI",
+        "city": "تهران",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان تهران",
         "publicId": "Mjk6MjE1NTI",
         "sourceId": "21552",
         "layerId": 29,
@@ -2238,7 +2416,9 @@
       },
       "properties": {
         "id": "Mjk6MTUxNTU",
+        "city": "شهرستان گنبد کاووس",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان گلستان",
         "publicId": "Mjk6MTUxNTU",
         "sourceId": "15155",
         "layerId": 29,
@@ -2263,7 +2443,9 @@
       },
       "properties": {
         "id": "Mjk6MTczNjk",
+        "city": "شهرستان نوشهر",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان مازندران",
         "publicId": "Mjk6MTczNjk",
         "sourceId": "17369",
         "layerId": 29,
@@ -2288,7 +2470,9 @@
       },
       "properties": {
         "id": "Mjk6MTgwNTM",
+        "city": "ابرده",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان خراسان رضوی",
         "publicId": "Mjk6MTgwNTM",
         "sourceId": "18053",
         "layerId": 29,
@@ -2313,7 +2497,9 @@
       },
       "properties": {
         "id": "Mjk6MjA3NTA",
+        "city": "تجریش",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان تهران",
         "publicId": "Mjk6MjA3NTA",
         "sourceId": "20750",
         "layerId": 29,
@@ -2338,7 +2524,9 @@
       },
       "properties": {
         "id": "Mjk6MjI1Nzc",
+        "city": "تهران",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان تهران",
         "publicId": "Mjk6MjI1Nzc",
         "sourceId": "22577",
         "layerId": 29,
@@ -2363,7 +2551,9 @@
       },
       "properties": {
         "id": "Mjk6MjI4NjA",
+        "city": "شهرستان تربت حیدریه",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان خراسان رضوی",
         "publicId": "Mjk6MjI4NjA",
         "sourceId": "22860",
         "layerId": 29,
@@ -2388,7 +2578,9 @@
       },
       "properties": {
         "id": "Mjk6MjMyOTg",
+        "city": "تهران",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان تهران",
         "publicId": "Mjk6MjMyOTg",
         "sourceId": "23298",
         "layerId": 29,
@@ -2413,7 +2605,9 @@
       },
       "properties": {
         "id": "Mjk6MjU5NTg",
+        "city": "کرمانشاه",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان کرمانشاه",
         "publicId": "Mjk6MjU5NTg",
         "sourceId": "25958",
         "layerId": 29,
@@ -2438,7 +2632,9 @@
       },
       "properties": {
         "id": "Mjk6MjcxMzM",
+        "city": "شهرستان خرم‌آباد",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان لرستان",
         "publicId": "Mjk6MjcxMzM",
         "sourceId": "27133",
         "layerId": 29,
@@ -2463,7 +2659,9 @@
       },
       "properties": {
         "id": "Mjk6Mjc4MDk",
+        "city": "خمینی شهر",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان اصفهان",
         "publicId": "Mjk6Mjc4MDk",
         "sourceId": "27809",
         "layerId": 29,
@@ -2488,7 +2686,9 @@
       },
       "properties": {
         "id": "Mjk6Mjc4OTY",
+        "city": "اصغرآباد",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان اصفهان",
         "publicId": "Mjk6Mjc4OTY",
         "sourceId": "27896",
         "layerId": 29,
@@ -2513,7 +2713,9 @@
       },
       "properties": {
         "id": "Mjk6MjgxNjI",
+        "city": "اصفهان",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان اصفهان",
         "publicId": "Mjk6MjgxNjI",
         "sourceId": "28162",
         "layerId": 29,
@@ -2538,7 +2740,9 @@
       },
       "properties": {
         "id": "Mjk6Mjg2MTU",
+        "city": "شهرستان دزفول",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان خوزستان",
         "publicId": "Mjk6Mjg2MTU",
         "sourceId": "28615",
         "layerId": 29,
@@ -2563,7 +2767,9 @@
       },
       "properties": {
         "id": "Mjk6Mjk4NDc",
+        "city": "اهواز",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان خوزستان",
         "publicId": "Mjk6Mjk4NDc",
         "sourceId": "29847",
         "layerId": 29,
@@ -2588,7 +2794,9 @@
       },
       "properties": {
         "id": "Mjk6Mjk5Mjk",
+        "city": "اهواز",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان خوزستان",
         "publicId": "Mjk6Mjk5Mjk",
         "sourceId": "29929",
         "layerId": 29,
@@ -2613,7 +2821,9 @@
       },
       "properties": {
         "id": "Mjk6Mjk5NzE",
+        "city": "اهواز",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان خوزستان",
         "publicId": "Mjk6Mjk5NzE",
         "sourceId": "29971",
         "layerId": 29,
@@ -2638,7 +2848,9 @@
       },
       "properties": {
         "id": "Mjk6MzAxNjI",
+        "city": "شهرستان خاتم",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان یزد",
         "publicId": "Mjk6MzAxNjI",
         "sourceId": "30162",
         "layerId": 29,
@@ -2663,7 +2875,9 @@
       },
       "properties": {
         "id": "Mjk6MzAyMjg",
+        "city": "انار",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان کرمان",
         "publicId": "Mjk6MzAyMjg",
         "sourceId": "30228",
         "layerId": 29,
@@ -2688,7 +2902,9 @@
       },
       "properties": {
         "id": "Mjk6MzAzNzg",
+        "city": "ياسوج",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان کهگیلویه و بویراحمد",
         "publicId": "Mjk6MzAzNzg",
         "sourceId": "30378",
         "layerId": 29,
@@ -2713,7 +2929,9 @@
       },
       "properties": {
         "id": "Mjk6MzI1ODM",
+        "city": "شهرستان فراشبند",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان فارس",
         "publicId": "Mjk6MzI1ODM",
         "sourceId": "32583",
         "layerId": 29,
@@ -2738,7 +2956,9 @@
       },
       "properties": {
         "id": "Mjk6MzI4NTA",
+        "city": "پرک",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان بوشهر",
         "publicId": "Mjk6MzI4NTA",
         "sourceId": "32850",
         "layerId": 29,
@@ -2763,7 +2983,9 @@
       },
       "properties": {
         "id": "Mjk6MzY1NTY",
+        "city": "انار",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان کرمان",
         "publicId": "Mjk6MzY1NTY",
         "sourceId": "36556",
         "layerId": 29,
@@ -2788,7 +3010,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NTk",
+        "city": "وحدت",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان خوزستان",
         "publicId": "Mjk6NDA4NTk",
         "sourceId": "40859",
         "layerId": 29,
@@ -2813,7 +3037,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NjA",
+        "city": "شهرستان شاهرود",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان سمنان",
         "publicId": "Mjk6NDA4NjA",
         "sourceId": "40860",
         "layerId": 29,
@@ -2838,7 +3064,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NjE",
+        "city": "شهرستان نیر",
         "name:fa": "پایگاه امداد و نجات",
+        "province": "استان اردبیل",
         "publicId": "Mjk6NDA4NjE",
         "sourceId": "40861",
         "layerId": 29,
@@ -2863,7 +3091,9 @@
       },
       "properties": {
         "id": "Mjk6MjcxMzc",
+        "city": "شهرستان ازنا",
         "name:fa": "پایگاه امداد و نجات اباذر ازنا",
+        "province": "استان لرستان",
         "publicId": "Mjk6MjcxMzc",
         "sourceId": "27137",
         "layerId": 29,
@@ -2888,7 +3118,9 @@
       },
       "properties": {
         "id": "Mjk6MzM2MTM",
+        "city": "شهرستان نیک‌شهر",
         "name:fa": "پایگاه امداد و نجات بین جاده ای دینار کلک",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "Mjk6MzM2MTM",
         "sourceId": "33613",
         "layerId": 29,
@@ -2913,7 +3145,9 @@
       },
       "properties": {
         "id": "Mjk6MzY5NzI",
+        "city": "شهرستان اردکان",
         "name:fa": "پایگاه امداد و نجات بین جاده ای سید نورالدین احمد",
+        "province": "استان یزد",
         "publicId": "Mjk6MzY5NzI",
         "sourceId": "36972",
         "layerId": 29,
@@ -2938,7 +3172,9 @@
       },
       "properties": {
         "id": "Mjk6MzA1NDI",
+        "city": "شهرستان باشت",
         "name:fa": "پایگاه امداد و نجات بین جاده ای لار",
+        "province": "استان کهگیلویه و بویراحمد",
         "publicId": "Mjk6MzA1NDI",
         "sourceId": "30542",
         "layerId": 29,
@@ -2963,7 +3199,9 @@
       },
       "properties": {
         "id": "Mjk6MzM2MTE",
+        "city": "شهرستان نیک‌شهر",
         "name:fa": "پایگاه امداد و نجات بین راهی دینارکلگ",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "Mjk6MzM2MTE",
         "sourceId": "33611",
         "layerId": 29,
@@ -2988,7 +3226,9 @@
       },
       "properties": {
         "id": "Mjk6MjQ2MTc",
+        "city": "شهرستان ری",
         "name:fa": "پایگاه امداد و نجات بین شهری",
+        "province": "استان تهران",
         "publicId": "Mjk6MjQ2MTc",
         "sourceId": "24617",
         "layerId": 29,
@@ -3013,7 +3253,9 @@
       },
       "properties": {
         "id": "Mjk6MjcyNDY",
+        "city": "انارک",
         "name:fa": "پایگاه امداد و نجات بین شهری انارک ۱۱۲",
+        "province": "استان اصفهان",
         "publicId": "Mjk6MjcyNDY",
         "sourceId": "27246",
         "layerId": 29,
@@ -3038,7 +3280,9 @@
       },
       "properties": {
         "id": "Mjk6MTUyMzM",
+        "city": "بدرانلو",
         "name:fa": "پایگاه امداد و نجات بین شهری بدرانلو",
+        "province": "استان خراسان شمالی",
         "publicId": "Mjk6MTUyMzM",
         "sourceId": "15233",
         "layerId": 29,
@@ -3063,7 +3307,9 @@
       },
       "properties": {
         "id": "Mjk6MTUzOTQ",
+        "city": "شهرستان درگز",
         "name:fa": "پایگاه امداد و نجات بین شهری تیوان",
+        "province": "استان خراسان رضوی",
         "publicId": "Mjk6MTUzOTQ",
         "sourceId": "15394",
         "layerId": 29,
@@ -3088,7 +3334,9 @@
       },
       "properties": {
         "id": "Mjk6MTU2NDk",
+        "city": "شهرستان گرمه",
         "name:fa": "پایگاه امداد و نجات بین شهری دشت",
+        "province": "استان خراسان شمالی",
         "publicId": "Mjk6MTU2NDk",
         "sourceId": "15649",
         "layerId": 29,
@@ -3113,7 +3361,9 @@
       },
       "properties": {
         "id": "Mjk6MjQ3MzE",
+        "city": "شهرستان آرادان",
         "name:fa": "پایگاه امداد و نجات بین شهری ده نمک",
+        "province": "استان سمنان",
         "publicId": "Mjk6MjQ3MzE",
         "sourceId": "24731",
         "layerId": 29,
@@ -3138,7 +3388,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NjI",
+        "city": "شهرستان سیریک",
         "name:fa": "پایگاه امداد و نجات بین شهری دو راهی سیریک",
+        "province": "استان هرمزگان",
         "publicId": "Mjk6NDA4NjI",
         "sourceId": "40862",
         "layerId": 29,
@@ -3163,7 +3415,9 @@
       },
       "properties": {
         "id": "Mjk6Mjg0Njk",
+        "city": "شهرستان مبارکه",
         "name:fa": "پایگاه امداد و نجات بین شهری سه راهی مبارکه",
+        "province": "استان اصفهان",
         "publicId": "Mjk6Mjg0Njk",
         "sourceId": "28469",
         "layerId": 29,
@@ -3188,7 +3442,9 @@
       },
       "properties": {
         "id": "Mjk6MTQwNDY",
+        "city": "شهرستان مرند",
         "name:fa": "پایگاه امداد و نجات بین شهری شهید اوهانی مرند",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6MTQwNDY",
         "sourceId": "14046",
         "layerId": 29,
@@ -3213,7 +3469,9 @@
       },
       "properties": {
         "id": "Mjk6MzY5NTQ",
+        "city": "شهرستان اصفهان",
         "name:fa": "پایگاه امداد و نجات بین شهری شهید جمشید مرادی کوهپایه",
+        "province": "استان اصفهان",
         "publicId": "Mjk6MzY5NTQ",
         "sourceId": "36954",
         "layerId": 29,
@@ -3238,7 +3496,9 @@
       },
       "properties": {
         "id": "Mjk6MzY0NDA",
+        "city": "شهرستان خرم‌بید",
         "name:fa": "پایگاه امداد و نجات بین شهری شهید طباطبایی کولی کش",
+        "province": "استان فارس",
         "publicId": "Mjk6MzY0NDA",
         "sourceId": "36440",
         "layerId": 29,
@@ -3263,7 +3523,9 @@
       },
       "properties": {
         "id": "Mjk6Mjc2MTg",
+        "city": "شهرستان نایین",
         "name:fa": "پایگاه امداد و نجات بین شهری ملا احمد",
+        "province": "استان اصفهان",
         "publicId": "Mjk6Mjc2MTg",
         "sourceId": "27618",
         "layerId": 29,
@@ -3288,7 +3550,9 @@
       },
       "properties": {
         "id": "Mjk6MTk1MTc",
+        "city": "شهرستان تاکستان",
         "name:fa": "پایگاه امداد و نجات بین شهری نرجه",
+        "province": "استان قزوین",
         "publicId": "Mjk6MTk1MTc",
         "sourceId": "19517",
         "layerId": 29,
@@ -3313,7 +3577,9 @@
       },
       "properties": {
         "id": "Mjk6Mjg2Njc",
+        "city": "شهرستان مبارکه",
         "name:fa": "پایگاه امداد و نجات بین شهری کرکوند",
+        "province": "استان اصفهان",
         "publicId": "Mjk6Mjg2Njc",
         "sourceId": "28667",
         "layerId": 29,
@@ -3338,7 +3604,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NjM",
+        "city": "شهرستان شمیرانات",
         "name:fa": "پایگاه امداد و نجات بین شهری گردنه قوچک",
+        "province": "استان تهران",
         "publicId": "Mjk6NDA4NjM",
         "sourceId": "40863",
         "layerId": 29,
@@ -3363,7 +3631,9 @@
       },
       "properties": {
         "id": "Mjk6MjE4NTE",
+        "city": "شهرستان پردیس",
         "name:fa": "پایگاه امداد و نجات بین شهری یادمان شهدای امدادگر",
+        "province": "استان تهران",
         "publicId": "Mjk6MjE4NTE",
         "sourceId": "21851",
         "layerId": 29,
@@ -3388,7 +3658,9 @@
       },
       "properties": {
         "id": "Mjk6MTY1MTU",
+        "city": "شهرستان مهاباد",
         "name:fa": "پایگاه امداد و نجات جاده ای",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6MTY1MTU",
         "sourceId": "16515",
         "layerId": 29,
@@ -3413,7 +3685,9 @@
       },
       "properties": {
         "id": "Mjk6MjQyNDM",
+        "city": "شهرستان سرخه",
         "name:fa": "پایگاه امداد و نجات جاده ای",
+        "province": "استان سمنان",
         "publicId": "Mjk6MjQyNDM",
         "sourceId": "24243",
         "layerId": 29,
@@ -3438,7 +3712,9 @@
       },
       "properties": {
         "id": "Mjk6MzAxNzY",
+        "city": "شهرستان انار",
         "name:fa": "پایگاه امداد و نجات جاده ای",
+        "province": "استان کرمان",
         "publicId": "Mjk6MzAxNzY",
         "sourceId": "30176",
         "layerId": 29,
@@ -3463,7 +3739,9 @@
       },
       "properties": {
         "id": "Mjk6MTY5MDY",
+        "city": "شهرستان بوکان",
         "name:fa": "پایگاه امداد و نجات جاده ای بوکان",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6MTY5MDY",
         "sourceId": "16906",
         "layerId": 29,
@@ -3488,7 +3766,9 @@
       },
       "properties": {
         "id": "Mjk6MzEyNTY",
+        "city": "شهرستان گناوه",
         "name:fa": "پایگاه امداد و نجات جاده ای بینک",
+        "province": "استان بوشهر",
         "publicId": "Mjk6MzEyNTY",
         "sourceId": "31256",
         "layerId": 29,
@@ -3513,7 +3793,9 @@
       },
       "properties": {
         "id": "Mjk6MTYzNDQ",
+        "city": "شهرستان زنجان",
         "name:fa": "پایگاه امداد و نجات جاده ای تیر پارک",
+        "province": "استان زنجان",
         "publicId": "Mjk6MTYzNDQ",
         "sourceId": "16344",
         "layerId": 29,
@@ -3538,7 +3820,9 @@
       },
       "properties": {
         "id": "Mjk6MjQ3NDI",
+        "city": "شهرستان خلیل آباد",
         "name:fa": "پایگاه امداد و نجات جاده ای خلیل آباد",
+        "province": "استان خراسان رضوی",
         "publicId": "Mjk6MjQ3NDI",
         "sourceId": "24742",
         "layerId": 29,
@@ -3563,7 +3847,9 @@
       },
       "properties": {
         "id": "Mjk6MzEzNDg",
+        "city": "شهرستان شیراز",
         "name:fa": "پایگاه امداد و نجات جاده ای دشت ارژن",
+        "province": "استان فارس",
         "publicId": "Mjk6MzEzNDg",
         "sourceId": "31348",
         "layerId": 29,
@@ -3588,7 +3874,9 @@
       },
       "properties": {
         "id": "Mjk6MzY4Mzg",
+        "city": "دشت عباس",
         "name:fa": "پایگاه امداد و نجات جاده ای دشت عباس",
+        "province": "استان ایلام",
         "publicId": "Mjk6MzY4Mzg",
         "sourceId": "36838",
         "layerId": 29,
@@ -3613,7 +3901,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NjQ",
+        "city": "شهرستان سلطانیه",
         "name:fa": "پایگاه امداد و نجات جاده ای شمالغرب",
+        "province": "استان زنجان",
         "publicId": "Mjk6NDA4NjQ",
         "sourceId": "40864",
         "layerId": 29,
@@ -3638,7 +3928,9 @@
       },
       "properties": {
         "id": "Mjk6Mjc4MDE",
+        "city": "شهرستان نجف آباد",
         "name:fa": "پایگاه امداد و نجات جاده ای شهدا نجف آباد",
+        "province": "استان اصفهان",
         "publicId": "Mjk6Mjc4MDE",
         "sourceId": "27801",
         "layerId": 29,
@@ -3663,7 +3955,9 @@
       },
       "properties": {
         "id": "Mjk6Mzc0OTE",
+        "city": "شهرستان رشتخوار",
         "name:fa": "پایگاه امداد و نجات جاده ای شهدای مهدی آباد",
+        "province": "استان خراسان رضوی",
         "publicId": "Mjk6Mzc0OTE",
         "sourceId": "37491",
         "layerId": 29,
@@ -3688,7 +3982,9 @@
       },
       "properties": {
         "id": "Mjk6Mjg3MzE",
+        "city": "شهرستان فارسان",
         "name:fa": "پایگاه امداد و نجات جاده ای شهدای پردنجان",
+        "province": "استان چهارمحال و بختیاری",
         "publicId": "Mjk6Mjg3MzE",
         "sourceId": "28731",
         "layerId": 29,
@@ -3713,7 +4009,9 @@
       },
       "properties": {
         "id": "Mjk6MjcyMjM",
+        "city": "ولیعصر",
         "name:fa": "پایگاه امداد و نجات جاده ای شهرک ولیعصر",
+        "province": "استان ایلام",
         "publicId": "Mjk6MjcyMjM",
         "sourceId": "27223",
         "layerId": 29,
@@ -3738,7 +4036,9 @@
       },
       "properties": {
         "id": "Mjk6MjI4ODM",
+        "city": "شهرستان ملارد",
         "name:fa": "پایگاه امداد و نجات جاده ای شهید اینانلو",
+        "province": "استان تهران",
         "publicId": "Mjk6MjI4ODM",
         "sourceId": "22883",
         "layerId": 29,
@@ -3763,7 +4063,9 @@
       },
       "properties": {
         "id": "Mjk6MzI2MTU",
+        "city": "شهرک شهید رجایی",
         "name:fa": "پایگاه امداد و نجات جاده ای شهید حسین جوان-فورگ",
+        "province": "استان فارس",
         "publicId": "Mjk6MzI2MTU",
         "sourceId": "32615",
         "layerId": 29,
@@ -3788,7 +4090,9 @@
       },
       "properties": {
         "id": "Mjk6MTYyNTM",
+        "city": "شهرستان نقده",
         "name:fa": "پایگاه امداد و نجات جاده ای شهید صمد ذولفقاری",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6MTYyNTM",
         "sourceId": "16253",
         "layerId": 29,
@@ -3813,7 +4117,9 @@
       },
       "properties": {
         "id": "Mjk6MTUwMDg",
+        "city": "شهرستان آذرشهر",
         "name:fa": "پایگاه امداد و نجات جاده ای شهید یوسف تبار",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6MTUwMDg",
         "sourceId": "15008",
         "layerId": 29,
@@ -3838,7 +4144,9 @@
       },
       "properties": {
         "id": "Mjk6Mjc3OTg",
+        "city": "رضوانشهر",
         "name:fa": "پایگاه امداد و نجات جاده ای طلازرین تیران و کرون",
+        "province": "استان اصفهان",
         "publicId": "Mjk6Mjc3OTg",
         "sourceId": "27798",
         "layerId": 29,
@@ -3863,7 +4171,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NjU",
+        "city": "شهرستان زنجان",
         "name:fa": "پایگاه امداد و نجات جاده ای عوارضی زنجان-تبریز",
+        "province": "استان زنجان",
         "publicId": "Mjk6NDA4NjU",
         "sourceId": "40865",
         "layerId": 29,
@@ -3888,7 +4198,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NjY",
+        "city": "شهرستان ابهر",
         "name:fa": "پایگاه امداد و نجات جاده ای قروه",
+        "province": "استان زنجان",
         "publicId": "Mjk6NDA4NjY",
         "sourceId": "40866",
         "layerId": 29,
@@ -3913,7 +4225,9 @@
       },
       "properties": {
         "id": "Mjk6MzM0Nzk",
+        "city": "شهرستان بندر لنگه",
         "name:fa": "پایگاه امداد و نجات جاده ای مهتابی",
+        "province": "استان هرمزگان",
         "publicId": "Mjk6MzM0Nzk",
         "sourceId": "33479",
         "layerId": 29,
@@ -3938,7 +4252,9 @@
       },
       "properties": {
         "id": "Mjk6MTkzNTc",
+        "city": "شهرستان کرج",
         "name:fa": "پایگاه امداد و نجات جاده ای کندوان",
+        "province": "استان البرز",
         "publicId": "Mjk6MTkzNTc",
         "sourceId": "19357",
         "layerId": 29,
@@ -3963,7 +4279,9 @@
       },
       "properties": {
         "id": "Mjk6MjQ4MjU",
+        "city": "سر کویر",
         "name:fa": "پایگاه امداد و نجات جاده ای کویر دامغان",
+        "province": "استان سمنان",
         "publicId": "Mjk6MjQ4MjU",
         "sourceId": "24825",
         "layerId": 29,
@@ -3988,7 +4306,9 @@
       },
       "properties": {
         "id": "Mjk6MTUwNjI",
+        "city": "شهرستان خلخال",
         "name:fa": "پایگاه امداد و نجات جاده ای گردنه الماس",
+        "province": "استان اردبیل",
         "publicId": "Mjk6MTUwNjI",
         "sourceId": "15062",
         "layerId": 29,
@@ -4013,7 +4333,9 @@
       },
       "properties": {
         "id": "Mjk6MzI5ODQ",
+        "city": "شهرستان لامرد",
         "name:fa": "پایگاه امداد و نجات جاده ای یادمان شهید رسول ایزدی",
+        "province": "استان فارس",
         "publicId": "Mjk6MzI5ODQ",
         "sourceId": "32984",
         "layerId": 29,
@@ -4038,7 +4360,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4Njc",
+        "city": "تربت حيدريه",
         "name:fa": "پایگاه امداد و نجات جاده ایی",
+        "province": "استان خراسان رضوی",
         "publicId": "Mjk6NDA4Njc",
         "sourceId": "40867",
         "layerId": 29,
@@ -4063,7 +4387,9 @@
       },
       "properties": {
         "id": "Mjk6MjQ0NjA",
+        "city": "پرندک",
         "name:fa": "پایگاه امداد و نجات جاده‌ای",
+        "province": "استان مرکزی",
         "publicId": "Mjk6MjQ0NjA",
         "sourceId": "24460",
         "layerId": 29,
@@ -4088,7 +4414,9 @@
       },
       "properties": {
         "id": "Mjk6MzQzNjM",
+        "city": "شهرستان قشم",
         "name:fa": "پایگاه امداد و نجات جاده‌ای درگهان",
+        "province": "استان هرمزگان",
         "publicId": "Mjk6MzQzNjM",
         "sourceId": "34363",
         "layerId": 29,
@@ -4113,7 +4441,9 @@
       },
       "properties": {
         "id": "Mjk6MjcyNjU",
+        "city": "رومشگان",
         "name:fa": "پایگاه امداد و نجات خیردرار",
+        "province": "استان لرستان",
         "publicId": "Mjk6MjcyNjU",
         "sourceId": "27265",
         "layerId": 29,
@@ -4138,7 +4468,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4Njg",
+        "city": "شهرستان آذرشهر",
         "name:fa": "پایگاه امداد و نجات داشکسن",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6NDA4Njg",
         "sourceId": "40868",
         "layerId": 29,
@@ -4163,7 +4495,9 @@
       },
       "properties": {
         "id": "Mjk6MTc0ODU",
+        "city": "شهرستان قزوین",
         "name:fa": "پایگاه امداد و نجات رازمیان",
+        "province": "استان قزوین",
         "publicId": "Mjk6MTc0ODU",
         "sourceId": "17485",
         "layerId": 29,
@@ -4188,7 +4522,9 @@
       },
       "properties": {
         "id": "Mjk6MTM4OTQ",
+        "city": "شهرستان اهر",
         "name:fa": "پایگاه امداد و نجات سامبران",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6MTM4OTQ",
         "sourceId": "13894",
         "layerId": 29,
@@ -4213,7 +4549,9 @@
       },
       "properties": {
         "id": "Mjk6MjY3NDQ",
+        "city": "شهرستان بروجرد",
         "name:fa": "پایگاه امداد و نجات سلمان",
+        "province": "استان لرستان",
         "publicId": "Mjk6MjY3NDQ",
         "sourceId": "26744",
         "layerId": 29,
@@ -4238,7 +4576,9 @@
       },
       "properties": {
         "id": "Mjk6Mjg0MDQ",
+        "city": "پیربکران",
         "name:fa": "پایگاه امداد و نجات سمسون",
+        "province": "استان اصفهان",
         "publicId": "Mjk6Mjg0MDQ",
         "sourceId": "28404",
         "layerId": 29,
@@ -4263,7 +4603,9 @@
       },
       "properties": {
         "id": "Mjk6MzAwODM",
+        "city": "شهرستان اقلید",
         "name:fa": "پایگاه امداد و نجات شهدای عشایر آباده",
+        "province": "استان فارس",
         "publicId": "Mjk6MzAwODM",
         "sourceId": "30083",
         "layerId": 29,
@@ -4288,7 +4630,9 @@
       },
       "properties": {
         "id": "Mjk6MTU1NTg",
+        "city": "شهرستان صومعه سرا",
         "name:fa": "پایگاه امداد و نجات شهدای چمثقال",
+        "province": "استان گیلان",
         "publicId": "Mjk6MTU1NTg",
         "sourceId": "15558",
         "layerId": 29,
@@ -4313,7 +4657,9 @@
       },
       "properties": {
         "id": "Mjk6MTkzMTY",
+        "city": "شهرستان ساری",
         "name:fa": "پایگاه امداد و نجات شهید داداشی",
+        "province": "استان مازندران",
         "publicId": "Mjk6MTkzMTY",
         "sourceId": "19316",
         "layerId": 29,
@@ -4338,7 +4684,9 @@
       },
       "properties": {
         "id": "Mjk6MjQ5NDQ",
+        "city": "شهرستان رشتخوار",
         "name:fa": "پایگاه امداد و نجات شهید رسولی رشتخوار",
+        "province": "استان خراسان رضوی",
         "publicId": "Mjk6MjQ5NDQ",
         "sourceId": "24944",
         "layerId": 29,
@@ -4363,7 +4711,9 @@
       },
       "properties": {
         "id": "Mjk6MjY5OTc",
+        "city": "سعيد آباد",
         "name:fa": "پایگاه امداد و نجات شهید محمد اسماعیل غزنوی",
+        "province": "استان اصفهان",
         "publicId": "Mjk6MjY5OTc",
         "sourceId": "26997",
         "layerId": 29,
@@ -4388,7 +4738,9 @@
       },
       "properties": {
         "id": "Mjk6MTc3NDE",
+        "city": "شهرستان قزوین",
         "name:fa": "پایگاه امداد و نجات شیرین سو",
+        "province": "استان قزوین",
         "publicId": "Mjk6MTc3NDE",
         "sourceId": "17741",
         "layerId": 29,
@@ -4413,7 +4765,9 @@
       },
       "properties": {
         "id": "Mjk6MTg4Njg",
+        "city": "شهرستان قزوین",
         "name:fa": "پایگاه امداد و نجات عوارضی ۳",
+        "province": "استان قزوین",
         "publicId": "Mjk6MTg4Njg",
         "sourceId": "18868",
         "layerId": 29,
@@ -4438,7 +4792,9 @@
       },
       "properties": {
         "id": "Mjk6MTc1NjE",
+        "city": "ساری",
         "name:fa": "پایگاه امداد و نجات فیاض بخش",
+        "province": "استان مازندران",
         "publicId": "Mjk6MTc1NjE",
         "sourceId": "17561",
         "layerId": 29,
@@ -4463,7 +4819,9 @@
       },
       "properties": {
         "id": "Mjk6MjczMTY",
+        "city": "قهستان",
         "name:fa": "پایگاه امداد و نجات قهستان",
+        "province": "استان خراسان جنوبی",
         "publicId": "Mjk6MjczMTY",
         "sourceId": "27316",
         "layerId": 29,
@@ -4488,7 +4846,9 @@
       },
       "properties": {
         "id": "Mjk6MTM4NzE",
+        "city": "شهرستان اهر",
         "name:fa": "پایگاه امداد و نجات مجید آباد",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6MTM4NzE",
         "sourceId": "13871",
         "layerId": 29,
@@ -4513,7 +4873,9 @@
       },
       "properties": {
         "id": "Mjk6MjUzODc",
+        "city": "شهرستان صحنه",
         "name:fa": "پایگاه امداد و نجات مله ماس دینور",
+        "province": "استان کرمانشاه",
         "publicId": "Mjk6MjUzODc",
         "sourceId": "25387",
         "layerId": 29,
@@ -4538,7 +4900,9 @@
       },
       "properties": {
         "id": "Mjk6MzQ3NzI",
+        "city": "شهرستان خمیر",
         "name:fa": "پایگاه امداد و نجات منبع آب",
+        "province": "استان هرمزگان",
         "publicId": "Mjk6MzQ3NzI",
         "sourceId": "34772",
         "layerId": 29,
@@ -4563,7 +4927,9 @@
       },
       "properties": {
         "id": "Mjk6MTgyMTE",
+        "city": "شهرستان قزوین",
         "name:fa": "پایگاه امداد و نجات مهتاب",
+        "province": "استان قزوین",
         "publicId": "Mjk6MTgyMTE",
         "sourceId": "18211",
         "layerId": 29,
@@ -4588,7 +4954,9 @@
       },
       "properties": {
         "id": "Mjk6MTk0MDc",
+        "city": "شهرستان آبیک",
         "name:fa": "پایگاه امداد و نجات میرپنجی",
+        "province": "استان قزوین",
         "publicId": "Mjk6MTk0MDc",
         "sourceId": "19407",
         "layerId": 29,
@@ -4613,7 +4981,9 @@
       },
       "properties": {
         "id": "Mjk6MTQwMTk",
+        "city": "شهرستان اهر",
         "name:fa": "پایگاه امداد و نجات نقدوز",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6MTQwMTk",
         "sourceId": "14019",
         "layerId": 29,
@@ -4638,7 +5008,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4Njk",
+        "city": "شهرک صنعتی علی آباد کتول",
         "name:fa": "پایگاه امداد و نجات هلال",
+        "province": "استان گلستان",
         "publicId": "Mjk6NDA4Njk",
         "sourceId": "40869",
         "layerId": 29,
@@ -4663,7 +5035,9 @@
       },
       "properties": {
         "id": "Mjk6MjYyMTY",
+        "city": "شهرستان آران و بیدگل",
         "name:fa": "پایگاه امداد و نجات هلال ابن علی",
+        "province": "استان اصفهان",
         "publicId": "Mjk6MjYyMTY",
         "sourceId": "26216",
         "layerId": 29,
@@ -4688,7 +5062,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NzA",
+        "city": "شهرستان هندیجان",
         "name:fa": "پایگاه امداد و نجات هندیجان",
+        "province": "استان خوزستان",
         "publicId": "Mjk6NDA4NzA",
         "sourceId": "40870",
         "layerId": 29,
@@ -4713,7 +5089,9 @@
       },
       "properties": {
         "id": "Mjk6Mjg0MzE",
+        "city": "شهرستان دزفول",
         "name:fa": "پایگاه امداد و نجات و اتش نشانی دزفول",
+        "province": "استان خوزستان",
         "publicId": "Mjk6Mjg0MzE",
         "sourceId": "28431",
         "layerId": 29,
@@ -4738,7 +5116,9 @@
       },
       "properties": {
         "id": "Mjk6MjQwOTg",
+        "city": "شهرستان تهران",
         "name:fa": "پایگاه امداد و نجات و درمانگاه بین شهری",
+        "province": "استان تهران",
         "publicId": "Mjk6MjQwOTg",
         "sourceId": "24098",
         "layerId": 29,
@@ -4763,7 +5143,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NzE",
+        "city": "شهرستان کرج",
         "name:fa": "پایگاه امداد و نجات کندوان",
+        "province": "استان البرز",
         "publicId": "Mjk6NDA4NzE",
         "sourceId": "40871",
         "layerId": 29,
@@ -4788,7 +5170,9 @@
       },
       "properties": {
         "id": "Mjk6MTk5NzU",
+        "city": "شهرستان شمیرانات",
         "name:fa": "پایگاه امداد و نجات کوهستان",
+        "province": "استان تهران",
         "publicId": "Mjk6MTk5NzU",
         "sourceId": "19975",
         "layerId": 29,
@@ -4813,7 +5197,9 @@
       },
       "properties": {
         "id": "Mjk6MjQ1NzQ",
+        "city": "شهرستان سنندج",
         "name:fa": "پایگاه امداد و نجات کوهستان آبیدر",
+        "province": "استان کردستان",
         "publicId": "Mjk6MjQ1NzQ",
         "sourceId": "24574",
         "layerId": 29,
@@ -4838,7 +5224,9 @@
       },
       "properties": {
         "id": "Mjk6MzY4ODM",
+        "city": "شهرستان اندیکا",
         "name:fa": "پایگاه امداد و نجات کوهستان امام جواد(ع) شهرستان اندیکا",
+        "province": "استان خوزستان",
         "publicId": "Mjk6MzY4ODM",
         "sourceId": "36883",
         "layerId": 29,
@@ -4863,7 +5251,9 @@
       },
       "properties": {
         "id": "Mjk6MTUyNzQ",
+        "city": "شهرستان بجنورد",
         "name:fa": "پایگاه امداد و نجات کوهستان باباموسی",
+        "province": "استان خراسان شمالی",
         "publicId": "Mjk6MTUyNzQ",
         "sourceId": "15274",
         "layerId": 29,
@@ -4888,7 +5278,9 @@
       },
       "properties": {
         "id": "Mjk6MzE0Mjk",
+        "city": "شیراز",
         "name:fa": "پایگاه امداد و نجات کوهستان باباکوهی",
+        "province": "استان فارس",
         "publicId": "Mjk6MzE0Mjk",
         "sourceId": "31429",
         "layerId": 29,
@@ -4913,7 +5305,9 @@
       },
       "properties": {
         "id": "Mjk6MzgxMDg",
+        "city": "شهرستان شاهرود",
         "name:fa": "پایگاه امداد و نجات کوهستان جنگل ابر",
+        "province": "استان سمنان",
         "publicId": "Mjk6MzgxMDg",
         "sourceId": "38108",
         "layerId": 29,
@@ -4938,7 +5332,9 @@
       },
       "properties": {
         "id": "Mjk6MzEyNzQ",
+        "city": "شیراز",
         "name:fa": "پایگاه امداد و نجات کوهستان دراک",
+        "province": "استان فارس",
         "publicId": "Mjk6MzEyNzQ",
         "sourceId": "31274",
         "layerId": 29,
@@ -4963,7 +5359,9 @@
       },
       "properties": {
         "id": "Mjk6MTY5NzU",
+        "city": "شهرستان تنکابن",
         "name:fa": "پایگاه امداد و نجات کوهستان دوهزار",
+        "province": "استان مازندران",
         "publicId": "Mjk6MTY5NzU",
         "sourceId": "16975",
         "layerId": 29,
@@ -4988,7 +5386,9 @@
       },
       "properties": {
         "id": "Mjk6MTk2OTQ",
+        "city": "رینه",
         "name:fa": "پایگاه امداد و نجات کوهستان رینه",
+        "province": "استان مازندران",
         "publicId": "Mjk6MTk2OTQ",
         "sourceId": "19694",
         "layerId": 29,
@@ -5013,7 +5413,9 @@
       },
       "properties": {
         "id": "Mjk6MzI1NDA",
+        "city": "جهرم",
         "name:fa": "پایگاه امداد و نجات کوهستان سنگ تراشان",
+        "province": "استان فارس",
         "publicId": "Mjk6MzI1NDA",
         "sourceId": "32540",
         "layerId": 29,
@@ -5038,7 +5440,9 @@
       },
       "properties": {
         "id": "Mjk6MzcxNTc",
+        "city": "شهرستان نطنز",
         "name:fa": "پایگاه امداد و نجات کوهستان کرکس",
+        "province": "استان اصفهان",
         "publicId": "Mjk6MzcxNTc",
         "sourceId": "37157",
         "layerId": 29,
@@ -5063,7 +5467,9 @@
       },
       "properties": {
         "id": "Mjk6MTk4MzU",
+        "city": "شهرستان شمیرانات",
         "name:fa": "پایگاه امداد و نجات کوهستان کلکچال",
+        "province": "استان تهران",
         "publicId": "Mjk6MTk4MzU",
         "sourceId": "19835",
         "layerId": 29,
@@ -5088,7 +5494,9 @@
       },
       "properties": {
         "id": "Mjk6MTgyMTY",
+        "city": "شهرستان قزوین",
         "name:fa": "پایگاه امداد و نجات کوهستانی فدک",
+        "province": "استان قزوین",
         "publicId": "Mjk6MTgyMTY",
         "sourceId": "18216",
         "layerId": 29,
@@ -5113,7 +5521,9 @@
       },
       "properties": {
         "id": "Mjk6MTgwNzE",
+        "city": "شهرستان قزوین",
         "name:fa": "پایگاه امداد و نجات کوهین",
+        "province": "استان قزوین",
         "publicId": "Mjk6MTgwNzE",
         "sourceId": "18071",
         "layerId": 29,
@@ -5138,7 +5548,9 @@
       },
       "properties": {
         "id": "Mjk6MjUwNjg",
+        "city": "شهرستان کامیاران",
         "name:fa": "پایگاه امداد و نجات گردنه مروارید",
+        "province": "استان کردستان",
         "publicId": "Mjk6MjUwNjg",
         "sourceId": "25068",
         "layerId": 29,
@@ -5163,7 +5575,9 @@
       },
       "properties": {
         "id": "Mjk6MTYxMjM",
+        "city": "شهرستان آق قلا",
         "name:fa": "پایگاه امداد ونجات آق قلا",
+        "province": "استان گلستان",
         "publicId": "Mjk6MTYxMjM",
         "sourceId": "16123",
         "layerId": 29,
@@ -5188,7 +5602,9 @@
       },
       "properties": {
         "id": "Mjk6MjA4NjA",
+        "city": "شهرستان سمنان",
         "name:fa": "پایگاه امداد ونجات آهوان",
+        "province": "استان سمنان",
         "publicId": "Mjk6MjA4NjA",
         "sourceId": "20860",
         "layerId": 29,
@@ -5213,7 +5629,9 @@
       },
       "properties": {
         "id": "Mjk6MTg0OTM",
+        "city": "شیرگاه",
         "name:fa": "پایگاه امداد ونجات جاده ای",
+        "province": "استان مازندران",
         "publicId": "Mjk6MTg0OTM",
         "sourceId": "18493",
         "layerId": 29,
@@ -5238,7 +5656,9 @@
       },
       "properties": {
         "id": "Mjk6Mjc1NTk",
+        "city": "شهرستان آبدانان",
         "name:fa": "پایگاه امداد ونجات جاده ای مورموری",
+        "province": "استان ایلام",
         "publicId": "Mjk6Mjc1NTk",
         "sourceId": "27559",
         "layerId": 29,
@@ -5263,7 +5683,9 @@
       },
       "properties": {
         "id": "Mjk6MTczMjk",
+        "city": "رستم رود",
         "name:fa": "پایگاه امداد ونجات جاده ای نور",
+        "province": "استان مازندران",
         "publicId": "Mjk6MTczMjk",
         "sourceId": "17329",
         "layerId": 29,
@@ -5288,7 +5710,9 @@
       },
       "properties": {
         "id": "Mjk6Mjk0MTU",
+        "city": "شهرستان تفت",
         "name:fa": "پایگاه امداد ونجات جاویدالاثرمتوسلیان",
+        "province": "استان یزد",
         "publicId": "Mjk6Mjk0MTU",
         "sourceId": "29415",
         "layerId": 29,
@@ -5313,7 +5737,9 @@
       },
       "properties": {
         "id": "Mjk6MjY4Mzk",
+        "city": "شهرستان ایلام",
         "name:fa": "پایگاه امداد ونجات شهید امیدی",
+        "province": "استان ایلام",
         "publicId": "Mjk6MjY4Mzk",
         "sourceId": "26839",
         "layerId": 29,
@@ -5338,7 +5764,9 @@
       },
       "properties": {
         "id": "Mjk6Mjg3NDI",
+        "city": "شهرستان مبارکه",
         "name:fa": "پایگاه امداد ونجات طالخونچه",
+        "province": "استان اصفهان",
         "publicId": "Mjk6Mjg3NDI",
         "sourceId": "28742",
         "layerId": 29,
@@ -5363,7 +5791,9 @@
       },
       "properties": {
         "id": "Mjk6MzA4OTE",
+        "city": "کرمان",
         "name:fa": "پایگاه امداد ونجات کوهستان",
+        "province": "استان کرمان",
         "publicId": "Mjk6MzA4OTE",
         "sourceId": "30891",
         "layerId": 29,
@@ -5388,7 +5818,9 @@
       },
       "properties": {
         "id": "Mjk6MjY5NzQ",
+        "city": "شهرستان مهران",
         "name:fa": "پایگاه امداد و‌نجات جاده ای سه راهی جندالله",
+        "province": "استان ایلام",
         "publicId": "Mjk6MjY5NzQ",
         "sourceId": "26974",
         "layerId": 29,
@@ -5413,7 +5845,9 @@
       },
       "properties": {
         "id": "Mjk6MzcyNTQ",
+        "city": "شهرستان قائنات",
         "name:fa": "پایگاه امدادو نجات جاده ای شادروان یوسفی",
+        "province": "استان خراسان جنوبی",
         "publicId": "Mjk6MzcyNTQ",
         "sourceId": "37254",
         "layerId": 29,
@@ -5438,7 +5872,9 @@
       },
       "properties": {
         "id": "Mjk6MjgzNTg",
+        "city": "شهرستان فلاورجان",
         "name:fa": "پایگاه امدادو نجات شهدای امدادگر مینادشت",
+        "province": "استان اصفهان",
         "publicId": "Mjk6MjgzNTg",
         "sourceId": "28358",
         "layerId": 29,
@@ -5463,7 +5899,9 @@
       },
       "properties": {
         "id": "Mjk6MTYxMjU",
+        "city": "عین الروم",
         "name:fa": "پایگاه امدادو نجات عین الروم",
+        "province": "استان آذربایجان غربی",
         "publicId": "Mjk6MTYxMjU",
         "sourceId": "16125",
         "layerId": 29,
@@ -5488,7 +5926,9 @@
       },
       "properties": {
         "id": "Mjk6MjYzODA",
+        "city": "شهرستان اراک",
         "name:fa": "پایگاه امدادو نجات کوهستان",
+        "province": "استان مرکزی",
         "publicId": "Mjk6MjYzODA",
         "sourceId": "26380",
         "layerId": 29,
@@ -5513,7 +5953,9 @@
       },
       "properties": {
         "id": "Mjk6MjQyMzQ",
+        "city": "شهرستان پاکدشت",
         "name:fa": "پایگاه امدادونجات بین شهری شهدای مظفر",
+        "province": "استان تهران",
         "publicId": "Mjk6MjQyMzQ",
         "sourceId": "24234",
         "layerId": 29,
@@ -5538,7 +5980,9 @@
       },
       "properties": {
         "id": "Mjk6Mjc1NjE",
+        "city": "شهرستان خمینی شهر",
         "name:fa": "پایگاه امدادونجات بین شهری مهربین",
+        "province": "استان اصفهان",
         "publicId": "Mjk6Mjc1NjE",
         "sourceId": "27561",
         "layerId": 29,
@@ -5563,7 +6007,9 @@
       },
       "properties": {
         "id": "Mjk6MjEzNDg",
+        "city": "شهرستان اشتهارد",
         "name:fa": "پایگاه امدادونجات بین شهری کوثر اشتهارد",
+        "province": "استان البرز",
         "publicId": "Mjk6MjEzNDg",
         "sourceId": "21348",
         "layerId": 29,
@@ -5588,7 +6034,9 @@
       },
       "properties": {
         "id": "Mjk6MjUxMDk",
+        "city": "شهرستان ثلاث باباجانی",
         "name:fa": "پایگاه امدادونجات جاده ای دره شهدا",
+        "province": "استان کرمانشاه",
         "publicId": "Mjk6MjUxMDk",
         "sourceId": "25109",
         "layerId": 29,
@@ -5613,7 +6061,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NzI",
+        "city": "باغستان",
         "name:fa": "پایگاه امدادونجات جاده‌ای شهید هاجری",
+        "province": "استان خراسان جنوبی",
         "publicId": "Mjk6NDA4NzI",
         "sourceId": "40872",
         "layerId": 29,
@@ -5638,7 +6088,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NzM",
+        "city": "ایمان‌شهر",
         "name:fa": "پایگاه امدادونجات شهدای امدادگر مینادشت",
+        "province": "استان اصفهان",
         "publicId": "Mjk6NDA4NzM",
         "sourceId": "40873",
         "layerId": 29,
@@ -5663,7 +6115,9 @@
       },
       "properties": {
         "id": "Mjk6MzE3MjE",
+        "city": "زاهدان",
         "name:fa": "پایگاه امدادونجات شهیدخدری",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "Mjk6MzE3MjE",
         "sourceId": "31721",
         "layerId": 29,
@@ -5688,7 +6142,9 @@
       },
       "properties": {
         "id": "Mjk6MjUzODg",
+        "city": "شهرستان صحنه",
         "name:fa": "پایگاه امدادونجات ضامن آهو_سنقر",
+        "province": "استان کرمانشاه",
         "publicId": "Mjk6MjUzODg",
         "sourceId": "25388",
         "layerId": 29,
@@ -5713,7 +6169,9 @@
       },
       "properties": {
         "id": "Mjk6MzY3OTM",
+        "city": "شهرستان بافق",
         "name:fa": "پایگاه امدادی جمعیت حلال احمر",
+        "province": "استان یزد",
         "publicId": "Mjk6MzY3OTM",
         "sourceId": "36793",
         "layerId": 29,
@@ -5738,7 +6196,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NzQ",
+        "city": "هادیشهر",
         "name:fa": "پایگاه امدادی حلال احمر",
+        "province": "استان آذربایجان شرقی",
         "publicId": "Mjk6NDA4NzQ",
         "sourceId": "40874",
         "layerId": 29,
@@ -5763,7 +6223,9 @@
       },
       "properties": {
         "id": "Mjk6MTU2OTE",
+        "city": "شهرستان لاهیجان",
         "name:fa": "پایگاه امدادی ناصر کیاده",
+        "province": "استان گیلان",
         "publicId": "Mjk6MTU2OTE",
         "sourceId": "15691",
         "layerId": 29,
@@ -5788,7 +6250,9 @@
       },
       "properties": {
         "id": "Mjk6MjQ5MzI",
+        "city": "شهرستان رشتخوار",
         "name:fa": "پایگاه امداد‌ و‌ نجات شهید رسولی رشتخوار",
+        "province": "استان خراسان رضوی",
         "publicId": "Mjk6MjQ5MzI",
         "sourceId": "24932",
         "layerId": 29,
@@ -5813,7 +6277,9 @@
       },
       "properties": {
         "id": "Mjk6MjcwMDI",
+        "city": "شهرستان ایلام",
         "name:fa": "پایگاه جاده ای امداد و نجات",
+        "province": "استان ایلام",
         "publicId": "Mjk6MjcwMDI",
         "sourceId": "27002",
         "layerId": 29,
@@ -5838,7 +6304,9 @@
       },
       "properties": {
         "id": "Mjk6MzMxMjk",
+        "city": "شهرستان سراوان",
         "name:fa": "پایگاه جادهای امدادونجات شهیدفلک دهواری",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "Mjk6MzMxMjk",
         "sourceId": "33129",
         "layerId": 29,
@@ -5863,7 +6331,9 @@
       },
       "properties": {
         "id": "Mjk6MzQyNjA",
+        "city": "بندر عباس",
         "name:fa": "پایگاه مرکزی امداد و نجات بندرعباس",
+        "province": "استان هرمزگان",
         "publicId": "Mjk6MzQyNjA",
         "sourceId": "34260",
         "layerId": 29,
@@ -5888,7 +6358,9 @@
       },
       "properties": {
         "id": "Mjk6MjMwOTA",
+        "city": "تهران",
         "name:fa": "کلینیک ساحل نجات",
+        "province": "استان تهران",
         "publicId": "Mjk6MjMwOTA",
         "sourceId": "23090",
         "layerId": 29,
@@ -5913,7 +6385,9 @@
       },
       "properties": {
         "id": "Mjk6MjgxMzA",
+        "city": "اصفهان",
         "name:fa": "کلینیک فوق تخصصی بیماری‌های تنفسی بامداد",
+        "province": "استان اصفهان",
         "publicId": "Mjk6MjgxMzA",
         "sourceId": "28130",
         "layerId": 29,
@@ -5938,7 +6412,9 @@
       },
       "properties": {
         "id": "Mjk6NDA4NzU",
+        "city": "فولاد شهر",
         "name:fa": "کلینیک مشاوره و روانشناختی بامداد روشن",
+        "province": "استان اصفهان",
         "publicId": "Mjk6NDA4NzU",
         "sourceId": "40875",
         "layerId": 29,
@@ -5963,7 +6439,9 @@
       },
       "properties": {
         "id": "Mjk6MTYyMTE",
+        "city": "رودسر",
         "name:fa": "کلینیک نجات",
+        "province": "استان گیلان",
         "publicId": "Mjk6MTYyMTE",
         "sourceId": "16211",
         "layerId": 29,
@@ -5988,7 +6466,9 @@
       },
       "properties": {
         "id": "Mjk6MjIxNjU",
+        "city": "تهران",
         "name:fa": "کیلینیک بامداد سلامت",
+        "province": "استان تهران",
         "publicId": "Mjk6MjIxNjU",
         "sourceId": "22165",
         "layerId": 29,
@@ -6013,7 +6493,9 @@
       },
       "properties": {
         "id": "Mjk6MjAyMTM",
+        "city": "شهرستان شمیرانات",
         "name:fa": "پایگاه امداد و نجات هلال‌ احمر",
+        "province": "استان تهران",
         "publicId": "Mjk6MjAyMTM",
         "sourceId": "20213",
         "layerId": 29,
@@ -6038,7 +6520,9 @@
       },
       "properties": {
         "id": "Mjk6NDUzODM",
+        "city": "کرج",
         "name:fa": "کلینیک کاردرمانی و گفتاردرمانی بامداد",
+        "province": "استان البرز",
         "publicId": "Mjk6NDUzODM",
         "sourceId": "45383",
         "layerId": 29,

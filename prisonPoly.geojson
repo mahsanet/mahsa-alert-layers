@@ -32,9 +32,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1113553170",
         "id": "NTo4Njg1",
+        "city": "شهرستان کاشمر",
+        "osm_id": "w1113553170",
         "name:fa": "ندامتگاه مرکزی کاشمر",
+        "province": "استان خراسان رضوی",
         "publicId": "NTo4Njg1",
         "sourceId": "8685",
         "layerId": 5,
@@ -78,8 +80,10 @@
         ]
       },
       "properties": {
-        "osm_id": "w542570131",
         "id": "NTo4NTcz",
+        "city": "شهرستان سمنان",
+        "osm_id": "w542570131",
+        "province": "استان سمنان",
         "publicId": "NTo4NTcz",
         "sourceId": "8573",
         "layerId": 5,
@@ -123,9 +127,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w638596678",
         "id": "NTo4NTk3",
+        "city": "نوشهر",
+        "osm_id": "w638596678",
         "name:fa": "زندان نوشهر",
+        "province": "استان مازندران",
         "publicId": "NTo4NTk3",
         "sourceId": "8597",
         "layerId": 5,
@@ -169,9 +175,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w931025749",
         "id": "NTo4NjY1",
+        "city": "شهرستان نایین",
+        "osm_id": "w931025749",
         "name:fa": "زندان نایین",
+        "province": "استان اصفهان",
         "publicId": "NTo4NjY1",
         "sourceId": "8665",
         "layerId": 5,
@@ -215,9 +223,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w670176085",
         "id": "NTo4NjAx",
+        "city": "اردبیل",
+        "osm_id": "w670176085",
         "name:fa": "اداره زندان مرکزی اردبیل",
+        "province": "استان اردبیل",
         "publicId": "NTo4NjAx",
         "sourceId": "8601",
         "layerId": 5,
@@ -261,9 +271,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w669347149",
         "id": "NTo4NjAw",
+        "city": "شهرستان ممسنی",
+        "osm_id": "w669347149",
         "name:fa": "زندان نورآباد ممسنی",
+        "province": "استان فارس",
         "publicId": "NTo4NjAw",
         "sourceId": "8600",
         "layerId": 5,
@@ -343,9 +355,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w921960384",
         "id": "NTo4NjUw",
+        "city": "سلکی سر",
+        "osm_id": "w921960384",
         "name:fa": "کانون اصلاح و تربیت گیلان",
+        "province": "استان گیلان",
         "publicId": "NTo4NjUw",
         "sourceId": "8650",
         "layerId": 5,
@@ -393,9 +407,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w921980657",
         "id": "NTo4NjUy",
+        "city": "شهرستان میاندوآب",
+        "osm_id": "w921980657",
         "name:fa": "زندان میاندوآب",
+        "province": "استان آذربایجان غربی",
         "publicId": "NTo4NjUy",
         "sourceId": "8652",
         "layerId": 5,
@@ -451,9 +467,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w594301447",
         "id": "NTo4NTg4",
+        "city": "میناب",
+        "osm_id": "w594301447",
         "name:fa": "زندان میناب",
+        "province": "استان هرمزگان",
         "publicId": "NTo4NTg4",
         "sourceId": "8588",
         "layerId": 5,
@@ -497,9 +515,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w547574823",
         "id": "NTo4NTc1",
+        "city": "سردشت",
+        "osm_id": "w547574823",
         "name:fa": "بازداشتگاه سردشت",
+        "province": "استان آذربایجان غربی",
         "publicId": "NTo4NTc1",
         "sourceId": "8575",
         "layerId": 5,
@@ -551,9 +571,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w512667958",
         "id": "NTo4NTY3",
+        "city": "شهرستان کبودرآهنگ",
+        "osm_id": "w512667958",
         "name:fa": "اردوگاه زندانیان استان همدان",
+        "province": "استان همدان",
         "publicId": "NTo4NTY3",
         "sourceId": "8567",
         "layerId": 5,
@@ -597,9 +619,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w920653062",
         "id": "NTo4NjQ2",
+        "city": "شهرستان کهنوج",
+        "osm_id": "w920653062",
         "name:fa": "زندان کهنوج",
+        "province": "استان کرمان",
         "publicId": "NTo4NjQ2",
         "sourceId": "8646",
         "layerId": 5,
@@ -643,9 +667,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w721744727",
         "id": "NTo4NjEx",
+        "city": "شهرستان دشتستان",
+        "osm_id": "w721744727",
         "name:fa": "زندان دشتستان برازجان",
+        "province": "استان بوشهر",
         "publicId": "NTo4NjEx",
         "sourceId": "8611",
         "layerId": 5,
@@ -709,9 +735,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w550202107",
         "id": "NTo4NTc4",
+        "city": "بهبهان",
+        "osm_id": "w550202107",
         "name:fa": "زندان بهبهان",
+        "province": "استان خوزستان",
         "publicId": "NTo4NTc4",
         "sourceId": "8578",
         "layerId": 5,
@@ -755,9 +783,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w-410240",
         "id": "NTo4NTI3",
+        "city": "منوجان",
+        "osm_id": "w-410240",
         "name:fa": "زندان",
+        "province": "استان کرمان",
         "publicId": "NTo4NTI3",
         "sourceId": "8527",
         "layerId": 5,
@@ -801,9 +831,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w391699433",
         "id": "NTo4NTUw",
+        "city": "کرمانشاه",
+        "osm_id": "w391699433",
         "name:fa": "زندان دیزل آباد",
+        "province": "استان کرمانشاه",
         "publicId": "NTo4NTUw",
         "sourceId": "8550",
         "layerId": 5,
@@ -847,9 +879,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w475449770",
         "id": "NTo4NTY0",
+        "city": "بندر عباس",
+        "osm_id": "w475449770",
         "name:fa": "کانون اصلاح و تربیت بندرعباس",
+        "province": "استان هرمزگان",
         "publicId": "NTo4NTY0",
         "sourceId": "8564",
         "layerId": 5,
@@ -901,9 +935,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w54967915",
         "id": "NTo4NTMz",
+        "city": "مشهد",
+        "osm_id": "w54967915",
         "name:fa": "زندان مرکزی مشهد",
+        "province": "استان خراسان رضوی",
         "publicId": "NTo4NTMz",
         "sourceId": "8533",
         "layerId": 5,
@@ -947,9 +983,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w553604543",
         "id": "NTo4NTgx",
+        "city": "شهرستان ری",
+        "osm_id": "w553604543",
         "name:fa": "زندان قرچک - ندامتگاه شهر ری",
+        "province": "استان تهران",
         "publicId": "NTo4NTgx",
         "sourceId": "8581",
         "layerId": 5,
@@ -993,9 +1031,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w931302615",
         "id": "NTo4NjY5",
+        "city": "شهرستان فسا",
+        "osm_id": "w931302615",
         "name:fa": "زندان فسا",
+        "province": "استان فارس",
         "publicId": "NTo4NjY5",
         "sourceId": "8669",
         "layerId": 5,
@@ -1039,9 +1079,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1110840372",
         "id": "NTo4Njg0",
+        "city": "شهرستان ایرانشهر",
+        "osm_id": "w1110840372",
         "name:fa": "زندان ایرانشهر",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "NTo4Njg0",
         "sourceId": "8684",
         "layerId": 5,
@@ -1097,9 +1139,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w711015632",
         "id": "NTo4NjA4",
+        "city": "شهرستان ماکو",
+        "osm_id": "w711015632",
         "name:fa": "زندان ماکو",
+        "province": "استان آذربایجان غربی",
         "publicId": "NTo4NjA4",
         "sourceId": "8608",
         "layerId": 5,
@@ -1147,9 +1191,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w263903780",
         "id": "NTo4NTQ1",
+        "city": "لنگرود",
+        "osm_id": "w263903780",
         "name:fa": "زندان لنگرود",
+        "province": "استان گیلان",
         "publicId": "NTo4NTQ1",
         "sourceId": "8545",
         "layerId": 5,
@@ -1201,9 +1247,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w820125244",
         "id": "NTo4NjM4",
+        "city": "شهرستان گناباد",
+        "osm_id": "w820125244",
         "name:fa": "زندان گناباد",
+        "province": "استان خراسان رضوی",
         "publicId": "NTo4NjM4",
         "sourceId": "8638",
         "layerId": 5,
@@ -1247,9 +1295,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w548218291",
         "id": "NTo4NTc2",
+        "city": "شهرستان بیرجند",
+        "osm_id": "w548218291",
         "name:fa": "بازداشتگاه عمومی شهرستان بیرجند",
+        "province": "استان خراسان جنوبی",
         "publicId": "NTo4NTc2",
         "sourceId": "8576",
         "layerId": 5,
@@ -1301,9 +1351,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w999572211",
         "id": "NTo4Njc5",
+        "city": "شهرستان قم",
+        "osm_id": "w999572211",
         "name:fa": "زندان باز (رای باز)",
+        "province": "استان قم",
         "publicId": "NTo4Njc5",
         "sourceId": "8679",
         "layerId": 5,
@@ -1347,9 +1399,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w925188043",
         "id": "NTo4NjU4",
+        "city": "زرند",
+        "osm_id": "w925188043",
         "name:fa": "زندان زرند",
+        "province": "استان کرمان",
         "publicId": "NTo4NjU4",
         "sourceId": "8658",
         "layerId": 5,
@@ -1393,9 +1447,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w123404397",
         "id": "NTo4NTM1",
+        "city": "شهرستان مرند",
+        "osm_id": "w123404397",
         "name:fa": "زندان مرند",
+        "province": "استان آذربایجان شرقی",
         "publicId": "NTo4NTM1",
         "sourceId": "8535",
         "layerId": 5,
@@ -1439,9 +1495,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w-432923",
         "id": "NTo4NTMx",
+        "city": "دلیجان",
+        "osm_id": "w-432923",
         "name:fa": "زندان دلیجان",
+        "province": "استان مرکزی",
         "publicId": "NTo4NTMx",
         "sourceId": "8531",
         "layerId": 5,
@@ -1485,9 +1543,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w931349242",
         "id": "NTo4Njcy",
+        "city": "قیروکارزین",
+        "osm_id": "w931349242",
         "name:fa": "بازداشتگاه قیرکارزین",
+        "province": "استان فارس",
         "publicId": "NTo4Njcy",
         "sourceId": "8672",
         "layerId": 5,
@@ -1531,8 +1591,10 @@
         ]
       },
       "properties": {
-        "osm_id": "w977278311",
         "id": "NTo4Njc4",
+        "city": "شهرستان تایباد",
+        "osm_id": "w977278311",
+        "province": "استان خراسان رضوی",
         "publicId": "NTo4Njc4",
         "sourceId": "8678",
         "layerId": 5,
@@ -1608,9 +1670,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w762097795",
         "id": "NTo4NjE4",
+        "city": "مراغه",
+        "osm_id": "w762097795",
         "name:fa": "زندان مرکزی مراغه",
+        "province": "استان آذربایجان شرقی",
         "publicId": "NTo4NjE4",
         "sourceId": "8618",
         "layerId": 5,
@@ -1654,9 +1718,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w520772983",
         "id": "NTo4NTY5",
+        "city": "شهرستان داراب",
+        "osm_id": "w520772983",
         "name:fa": "زندان داراب",
+        "province": "استان فارس",
         "publicId": "NTo4NTY5",
         "sourceId": "8569",
         "layerId": 5,
@@ -1700,9 +1766,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w786351834",
         "id": "NTo4NjIz",
+        "city": "شهرستان باوی",
+        "osm_id": "w786351834",
         "name:fa": "زندان مرکزی اهواز",
+        "province": "استان خوزستان",
         "publicId": "NTo4NjIz",
         "sourceId": "8623",
         "layerId": 5,
@@ -1774,9 +1842,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w395019742",
         "id": "NTo4NTUy",
+        "city": "زنجان",
+        "osm_id": "w395019742",
         "name:fa": "زندان زنجان",
+        "province": "استان زنجان",
         "publicId": "NTo4NTUy",
         "sourceId": "8552",
         "layerId": 5,
@@ -1824,9 +1894,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w889353853",
         "id": "NTo4NjQx",
+        "city": "سیاه کله",
+        "osm_id": "w889353853",
         "name:fa": "زندان دورود",
+        "province": "استان لرستان",
         "publicId": "NTo4NjQx",
         "sourceId": "8641",
         "layerId": 5,
@@ -1874,9 +1946,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w792884410",
         "id": "NTo4NjMw",
+        "city": "شهرستان سیرجان",
+        "osm_id": "w792884410",
         "name:fa": "زندان سیرجان",
+        "province": "استان کرمان",
         "publicId": "NTo4NjMw",
         "sourceId": "8630",
         "layerId": 5,
@@ -1920,9 +1994,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w696837930",
         "id": "NTo4NjA3",
+        "city": "خلیل شهر",
+        "osm_id": "w696837930",
         "name:fa": "زندان بهشهر",
+        "province": "استان مازندران",
         "publicId": "NTo4NjA3",
         "sourceId": "8607",
         "layerId": 5,
@@ -1966,9 +2042,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w834953005",
         "id": "NTo4NjM5",
+        "city": "شهرستان کرمان",
+        "osm_id": "w834953005",
         "name:fa": "زندان",
+        "province": "استان کرمان",
         "publicId": "NTo4NjM5",
         "sourceId": "8639",
         "layerId": 5,
@@ -2028,9 +2106,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w403276623",
         "id": "NTo4NTUz",
+        "city": "شهرستان گنبد کاووس",
+        "osm_id": "w403276623",
         "name:fa": "زندان گنبد کاووس",
+        "province": "استان گلستان",
         "publicId": "NTo4NTUz",
         "sourceId": "8553",
         "layerId": 5,
@@ -2074,9 +2154,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1105820277",
         "id": "NTo4Njgz",
+        "city": "سلماس",
+        "osm_id": "w1105820277",
         "name:fa": "زندان سلماس",
+        "province": "استان آذربایجان غربی",
         "publicId": "NTo4Njgz",
         "sourceId": "8683",
         "layerId": 5,
@@ -2120,9 +2202,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1354914559",
         "id": "NTo4Njk2",
+        "city": "شهرستان گرمی",
+        "osm_id": "w1354914559",
         "name:fa": "زندان گرمی",
+        "province": "استان اردبیل",
         "publicId": "NTo4Njk2",
         "sourceId": "8696",
         "layerId": 5,
@@ -2166,9 +2250,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w530289545",
         "id": "NTo4NTcw",
+        "city": "شهرستان فردیس",
+        "osm_id": "w530289545",
         "name:fa": "زندان کچویی",
+        "province": "استان البرز",
         "publicId": "NTo4NTcw",
         "sourceId": "8570",
         "layerId": 5,
@@ -2216,9 +2302,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w930907730",
         "id": "NTo4NjYz",
+        "city": "اصفهان",
+        "osm_id": "w930907730",
         "name:fa": "زندان زنان",
+        "province": "استان اصفهان",
         "publicId": "NTo4NjYz",
         "sourceId": "8663",
         "layerId": 5,
@@ -2278,9 +2366,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w180695988",
         "id": "NTo4NTQw",
+        "city": "شهرستان ساوجبلاغ",
+        "osm_id": "w180695988",
         "name:fa": "زندان قزل حصار",
+        "province": "استان البرز",
         "publicId": "NTo4NTQw",
         "sourceId": "8540",
         "layerId": 5,
@@ -2324,9 +2414,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w881211074",
         "id": "NTo4NjQw",
+        "city": "شهرستان پارسیان",
+        "osm_id": "w881211074",
         "name:fa": "زندان پارسیان",
+        "province": "استان هرمزگان",
         "publicId": "NTo4NjQw",
         "sourceId": "8640",
         "layerId": 5,
@@ -2378,9 +2470,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w921980656",
         "id": "NTo4NjUx",
+        "city": "شهرستان لردگان",
+        "osm_id": "w921980656",
         "name:fa": "زندان لردگان",
+        "province": "استان چهارمحال و بختیاری",
         "publicId": "NTo4NjUx",
         "sourceId": "8651",
         "layerId": 5,
@@ -2424,9 +2518,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w616925888",
         "id": "NTo4NTkx",
+        "city": "بجنورد",
+        "osm_id": "w616925888",
         "name:fa": "زندان بجنورد",
+        "province": "استان خراسان شمالی",
         "publicId": "NTo4NTkx",
         "sourceId": "8591",
         "layerId": 5,
@@ -2510,9 +2606,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w773039717",
         "id": "NTo4NjE5",
+        "city": "جهرم",
+        "osm_id": "w773039717",
         "name:fa": "زندان جهرم",
+        "province": "استان فارس",
         "publicId": "NTo4NjE5",
         "sourceId": "8619",
         "layerId": 5,
@@ -2556,9 +2654,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1193830864",
         "id": "NTo4Njg5",
+        "city": "شاهرود",
+        "osm_id": "w1193830864",
         "name:fa": "زندان امنیتی اطلاعات شاهرود",
+        "province": "استان سمنان",
         "publicId": "NTo4Njg5",
         "sourceId": "8689",
         "layerId": 5,
@@ -2602,9 +2702,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1355977229",
         "id": "NTo4Njk4",
+        "city": "شهرستان اسلام آبادغرب",
+        "osm_id": "w1355977229",
         "name:fa": "ندامتگاه اسلام آباد غرب",
+        "province": "استان کرمانشاه",
         "publicId": "NTo4Njk4",
         "sourceId": "8698",
         "layerId": 5,
@@ -2648,9 +2750,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w-417106",
         "id": "NTo4NTI4",
+        "city": "دزفول",
+        "osm_id": "w-417106",
         "name:fa": "زندان دزفول",
+        "province": "استان خوزستان",
         "publicId": "NTo4NTI4",
         "sourceId": "8528",
         "layerId": 5,
@@ -2702,9 +2806,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w412142318",
         "id": "NTo4NTU0",
+        "city": "سنندج",
+        "osm_id": "w412142318",
         "name:fa": "کانون اصلاح و تربیت کردستان",
+        "province": "استان کردستان",
         "publicId": "NTo4NTU0",
         "sourceId": "8554",
         "layerId": 5,
@@ -2748,9 +2854,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w931317823",
         "id": "NTo4Njcw",
+        "city": "شهرستان مرودشت",
+        "osm_id": "w931317823",
         "name:fa": "زندان مرودشت",
+        "province": "استان فارس",
         "publicId": "NTo4Njcw",
         "sourceId": "8670",
         "layerId": 5,
@@ -2794,9 +2902,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w475449769",
         "id": "NTo4NTYz",
+        "city": "بندر عباس",
+        "osm_id": "w475449769",
         "name:fa": "زندان مرکزی بندرعباس",
+        "province": "استان هرمزگان",
         "publicId": "NTo4NTYz",
         "sourceId": "8563",
         "layerId": 5,
@@ -2852,9 +2962,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1104859408",
         "id": "NTo4Njgy",
+        "city": "شهرستان شهرکرد",
+        "osm_id": "w1104859408",
         "name:fa": "زندان شهرکرد",
+        "province": "استان چهارمحال و بختیاری",
         "publicId": "NTo4Njgy",
         "sourceId": "8682",
         "layerId": 5,
@@ -2898,9 +3010,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w925188052",
         "id": "NTo4NjU5",
+        "city": "بندرلنگه",
+        "osm_id": "w925188052",
         "name:fa": "زندان بندر لنگه",
+        "province": "استان هرمزگان",
         "publicId": "NTo4NjU5",
         "sourceId": "8659",
         "layerId": 5,
@@ -2960,9 +3074,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w925175563",
         "id": "NTo4NjU1",
+        "city": "شهرستان کهگیلویه",
+        "osm_id": "w925175563",
         "name:fa": "زندان دهدشت",
+        "province": "استان کهگیلویه و بویراحمد",
         "publicId": "NTo4NjU1",
         "sourceId": "8655",
         "layerId": 5,
@@ -3006,9 +3122,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w61837240",
         "id": "NTo4NTM0",
+        "city": "قوچان",
+        "osm_id": "w61837240",
         "name:fa": "زندان قوچان",
+        "province": "استان خراسان رضوی",
         "publicId": "NTo4NTM0",
         "sourceId": "8534",
         "layerId": 5,
@@ -3052,9 +3170,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w640359107",
         "id": "NTo4NTk4",
+        "city": "شهرستان ری",
+        "osm_id": "w640359107",
         "name:fa": "اردوگاه حرفه آموزی وکار درمانی فشافویه",
+        "province": "استان تهران",
         "publicId": "NTo4NTk4",
         "sourceId": "8598",
         "layerId": 5,
@@ -3098,9 +3218,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w792884413",
         "id": "NTo4NjMy",
+        "city": "شهرستان فردوس",
+        "osm_id": "w792884413",
         "name:fa": "زندان مرکزی فردوس",
+        "province": "استان خراسان جنوبی",
         "publicId": "NTo4NjMy",
         "sourceId": "8632",
         "layerId": 5,
@@ -3176,9 +3298,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w428667951",
         "id": "NTo4NTU1",
+        "city": "شهرستان نرماشیر",
+        "osm_id": "w428667951",
         "name:fa": "زندان بم",
+        "province": "استان کرمان",
         "publicId": "NTo4NTU1",
         "sourceId": "8555",
         "layerId": 5,
@@ -3226,9 +3350,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w905210007",
         "id": "NTo4NjQ0",
+        "city": "ياسوج",
+        "osm_id": "w905210007",
         "name:fa": "ندامتگاه نسوان و کانون اصلاح و تربیت",
+        "province": "استان کهگیلویه و بویراحمد",
         "publicId": "NTo4NjQ0",
         "sourceId": "8644",
         "layerId": 5,
@@ -3276,9 +3402,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w431029848",
         "id": "NTo4NTU3",
+        "city": "کرمان",
+        "osm_id": "w431029848",
         "name:fa": "زندان کرمان",
+        "province": "استان کرمان",
         "publicId": "NTo4NTU3",
         "sourceId": "8557",
         "layerId": 5,
@@ -3330,9 +3458,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w551846524",
         "id": "NTo4NTgw",
+        "city": "شهرضا",
+        "osm_id": "w551846524",
         "name:fa": "ندامتگاه شهرضا",
+        "province": "استان اصفهان",
         "publicId": "NTo4NTgw",
         "sourceId": "8580",
         "layerId": 5,
@@ -3380,9 +3510,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w538373745",
         "id": "NTo4NTcx",
+        "city": "نهاوند",
+        "osm_id": "w538373745",
         "name:fa": "زندان نهاوند",
+        "province": "استان همدان",
         "publicId": "NTo4NTcx",
         "sourceId": "8571",
         "layerId": 5,
@@ -3434,9 +3566,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w143330048",
         "id": "NTo4NTM5",
+        "city": "گناباد",
+        "osm_id": "w143330048",
         "name:fa": "زندان مرکزی گناباد",
+        "province": "استان خراسان رضوی",
         "publicId": "NTo4NTM5",
         "sourceId": "8539",
         "layerId": 5,
@@ -3504,9 +3638,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w586177704",
         "id": "NTo4NTg3",
+        "city": "بروجرد",
+        "osm_id": "w586177704",
         "name:fa": "زندان بروجرد",
+        "province": "استان لرستان",
         "publicId": "NTo4NTg3",
         "sourceId": "8587",
         "layerId": 5,
@@ -3554,9 +3690,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w931349241",
         "id": "NTo4Njcx",
+        "city": "آباده",
+        "osm_id": "w931349241",
         "name:fa": "زندان آباده",
+        "province": "استان فارس",
         "publicId": "NTo4Njcx",
         "sourceId": "8671",
         "layerId": 5,
@@ -3612,9 +3750,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w691206349",
         "id": "NTo4NjA1",
+        "city": "چم قرق",
+        "osm_id": "w691206349",
         "name:fa": "زندان پارسیلون",
+        "province": "استان لرستان",
         "publicId": "NTo4NjA1",
         "sourceId": "8605",
         "layerId": 5,
@@ -3658,9 +3798,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w520383638",
         "id": "NTo4NTY4",
+        "city": "شهرستان همدان",
+        "osm_id": "w520383638",
         "name:fa": "زندان الوند",
+        "province": "استان همدان",
         "publicId": "NTo4NTY4",
         "sourceId": "8568",
         "layerId": 5,
@@ -3704,9 +3846,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w931024461",
         "id": "NTo4NjY0",
+        "city": "شهرستان فریدن",
+        "osm_id": "w931024461",
         "name:fa": "زندان فریدن",
+        "province": "استان اصفهان",
         "publicId": "NTo4NjY0",
         "sourceId": "8664",
         "layerId": 5,
@@ -3750,9 +3894,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w743670465",
         "id": "NTo4NjE2",
+        "city": "شهرستان حاجی‌آباد",
+        "osm_id": "w743670465",
         "name:fa": "زندان حاجی آباد",
+        "province": "استان هرمزگان",
         "publicId": "NTo4NjE2",
         "sourceId": "8616",
         "layerId": 5,
@@ -3796,9 +3942,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1254611134",
         "id": "NTo4Njkx",
+        "city": "دیواندره",
+        "osm_id": "w1254611134",
         "name:fa": "زندان شهرستان دیواندره",
+        "province": "استان کردستان",
         "publicId": "NTo4Njkx",
         "sourceId": "8691",
         "layerId": 5,
@@ -3842,9 +3990,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w921857283",
         "id": "NTo4NjQ3",
+        "city": "شهرستان اهر",
+        "osm_id": "w921857283",
         "name:fa": "زندان اهر",
+        "province": "استان آذربایجان شرقی",
         "publicId": "NTo4NjQ3",
         "sourceId": "8647",
         "layerId": 5,
@@ -3888,9 +4038,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1355219591",
         "id": "NTo4Njk3",
+        "city": "شهرستان خلخال",
+        "osm_id": "w1355219591",
         "name:fa": "زندان خلخال",
+        "province": "استان اردبیل",
         "publicId": "NTo4Njk3",
         "sourceId": "8697",
         "layerId": 5,
@@ -3934,9 +4086,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w799612306",
         "id": "NTo4NjM2",
+        "city": "شهرستان شهربابک",
+        "osm_id": "w799612306",
         "name:fa": "زندان شهربابک",
+        "province": "استان کرمان",
         "publicId": "NTo4NjM2",
         "sourceId": "8636",
         "layerId": 5,
@@ -3992,9 +4146,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1217534285",
         "id": "NTo4Njkw",
+        "city": "شهرستان شیراز",
+        "osm_id": "w1217534285",
         "name:fa": "زندان پیربنو",
+        "province": "استان فارس",
         "publicId": "NTo4Njkw",
         "sourceId": "8690",
         "layerId": 5,
@@ -4038,9 +4194,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w944135367",
         "id": "NTo4Njc3",
+        "city": "شهرستان ملایر",
+        "osm_id": "w944135367",
         "name:fa": "زندان جدید ملایر",
+        "province": "استان همدان",
         "publicId": "NTo4Njc3",
         "sourceId": "8677",
         "layerId": 5,
@@ -4084,9 +4242,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w925175566",
         "id": "NTo4NjU2",
+        "city": "شهرستان لارستان",
+        "osm_id": "w925175566",
         "name:fa": "زندان لارستان",
+        "province": "استان فارس",
         "publicId": "NTo4NjU2",
         "sourceId": "8656",
         "layerId": 5,
@@ -4190,9 +4350,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w654169333",
         "id": "NTo4NTk5",
+        "city": "تهران",
+        "osm_id": "w654169333",
         "name:fa": "کانون اصلاح و تربیت",
+        "province": "استان تهران",
         "publicId": "NTo4NTk5",
         "sourceId": "8599",
         "layerId": 5,
@@ -4244,9 +4406,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1271745025",
         "id": "NTo4Njkz",
+        "city": "نطنز",
+        "osm_id": "w1271745025",
         "name:fa": "ندامتگاه نطنز",
+        "province": "استان اصفهان",
         "publicId": "NTo4Njkz",
         "sourceId": "8693",
         "layerId": 5,
@@ -4290,9 +4454,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w782023126",
         "id": "NTo4NjIx",
+        "city": "نورآباد",
+        "osm_id": "w782023126",
         "name:fa": "زندان نورآباد",
+        "province": "استان فارس",
         "publicId": "NTo4NjIx",
         "sourceId": "8621",
         "layerId": 5,
@@ -4340,9 +4506,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w620130544",
         "id": "NTo4NTkz",
+        "city": "شهرستان نیمروز",
+        "osm_id": "w620130544",
         "name:fa": "زندان زابل",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "NTo4NTkz",
         "sourceId": "8593",
         "layerId": 5,
@@ -4386,9 +4554,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w739485253",
         "id": "NTo4NjE1",
+        "city": "شهرستان نجف آباد",
+        "osm_id": "w739485253",
         "name:fa": "زندان نجف آباد",
+        "province": "استان اصفهان",
         "publicId": "NTo4NjE1",
         "sourceId": "8615",
         "layerId": 5,
@@ -4568,9 +4738,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w889361327",
         "id": "NTo4NjQy",
+        "city": "مسجد سليمان",
+        "osm_id": "w889361327",
         "name:fa": "زندان مسجدسلیمان",
+        "province": "استان خوزستان",
         "publicId": "NTo4NjQy",
         "sourceId": "8642",
         "layerId": 5,
@@ -4614,9 +4786,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w921980663",
         "id": "NTo4NjU0",
+        "city": "شهرستان نقده",
+        "osm_id": "w921980663",
         "name:fa": "زندان سولدوز ( نقده )",
+        "province": "استان آذربایجان غربی",
         "publicId": "NTo4NjU0",
         "sourceId": "8654",
         "layerId": 5,
@@ -4660,9 +4834,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w792953306",
         "id": "NTo4NjMz",
+        "city": "شهرستان ارومیه",
+        "osm_id": "w792953306",
         "name:fa": "زندان مرکزی ارومیه",
+        "province": "استان آذربایجان غربی",
         "publicId": "NTo4NjMz",
         "sourceId": "8633",
         "layerId": 5,
@@ -4706,9 +4882,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w931649275",
         "id": "NTo4Njcz",
+        "city": "شهرستان ابرکوه",
+        "osm_id": "w931649275",
         "name:fa": "بازداشتگاه ابرکوه",
+        "province": "استان یزد",
         "publicId": "NTo4Njcz",
         "sourceId": "8673",
         "layerId": 5,
@@ -4752,9 +4930,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w759973212",
         "id": "NTo4NjE3",
+        "city": "شهرستان همدان",
+        "osm_id": "w759973212",
         "name:fa": "کانون اصلاح و تربیت همدان",
+        "province": "استان همدان",
         "publicId": "NTo4NjE3",
         "sourceId": "8617",
         "layerId": 5,
@@ -4798,9 +4978,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w-417936",
         "id": "NTo4NTI5",
+        "city": "رامهرمز",
+        "osm_id": "w-417936",
         "name:fa": "زندان رامهرمز",
+        "province": "استان خوزستان",
         "publicId": "NTo4NTI5",
         "sourceId": "8529",
         "layerId": 5,
@@ -4844,9 +5026,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w693695638",
         "id": "NTo4NjA2",
+        "city": "یزد",
+        "osm_id": "w693695638",
         "name:fa": "کانون اصلاح و تربیت",
+        "province": "استان یزد",
         "publicId": "NTo4NjA2",
         "sourceId": "8606",
         "layerId": 5,
@@ -4918,9 +5102,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w596935938",
         "id": "NTo4NTg5",
+        "city": "یزد",
+        "osm_id": "w596935938",
         "name:fa": "زندان مرکزی یزد",
+        "province": "استان یزد",
         "publicId": "NTo4NTg5",
         "sourceId": "8589",
         "layerId": 5,
@@ -4968,9 +5154,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w792869583",
         "id": "NTo4NjI5",
+        "city": "شهرستان دماوند",
+        "osm_id": "w792869583",
         "name:fa": "زندان دماوند",
+        "province": "استان تهران",
         "publicId": "NTo4NjI5",
         "sourceId": "8629",
         "layerId": 5,
@@ -5018,9 +5206,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w369426353",
         "id": "NTo4NTQ5",
+        "city": "شهرستان شیروان",
+        "osm_id": "w369426353",
         "name:fa": "زندان مرکزی شیروان",
+        "province": "استان خراسان شمالی",
         "publicId": "NTo4NTQ5",
         "sourceId": "8549",
         "layerId": 5,
@@ -5064,9 +5254,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w459533647",
         "id": "NTo4NTYy",
+        "city": "شیراز",
+        "osm_id": "w459533647",
         "name:fa": "زندان عادل آباد",
+        "province": "استان فارس",
         "publicId": "NTo4NTYy",
         "sourceId": "8562",
         "layerId": 5,
@@ -5110,9 +5302,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w792884412",
         "id": "NTo4NjMx",
+        "city": "شهرستان علی‌آباد",
+        "osm_id": "w792884412",
         "name:fa": "زندان علی آباد کتول",
+        "province": "استان گلستان",
         "publicId": "NTo4NjMx",
         "sourceId": "8631",
         "layerId": 5,
@@ -5164,9 +5358,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w909746586",
         "id": "NTo4NjQ1",
+        "city": "شهرستان ایلام",
+        "osm_id": "w909746586",
         "name:fa": "زندان ایلام",
+        "province": "استان ایلام",
         "publicId": "NTo4NjQ1",
         "sourceId": "8645",
         "layerId": 5,
@@ -5238,9 +5434,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w123951800",
         "id": "NTo4NTM2",
+        "city": "شهرستان قم",
+        "osm_id": "w123951800",
         "name:fa": "زندان لنگرود قم",
+        "province": "استان قم",
         "publicId": "NTo4NTM2",
         "sourceId": "8536",
         "layerId": 5,
@@ -5308,9 +5506,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w335706460",
         "id": "NTo4NTQ4",
+        "city": "شهرستان اراک",
+        "osm_id": "w335706460",
         "name:fa": "زندان مرکزی اراک",
+        "province": "استان مرکزی",
         "publicId": "NTo4NTQ4",
         "sourceId": "8548",
         "layerId": 5,
@@ -5386,9 +5586,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w942739932",
         "id": "NTo4Njc2",
+        "city": "شهرستان فلاورجان",
+        "osm_id": "w942739932",
         "name:fa": "زندان مرکزی اصفهان",
+        "province": "استان اصفهان",
         "publicId": "NTo4Njc2",
         "sourceId": "8676",
         "layerId": 5,
@@ -5444,9 +5646,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w544617952",
         "id": "NTo4NTc0",
+        "city": "شهرستان ری",
+        "osm_id": "w544617952",
         "name:fa": "زندان مرکزی تهران بزرگ",
+        "province": "استان تهران",
         "publicId": "NTo4NTc0",
         "sourceId": "8574",
         "layerId": 5,
@@ -5490,9 +5694,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w925175568",
         "id": "NTo4NjU3",
+        "city": "شهرستان ابهر",
+        "osm_id": "w925175568",
         "name:fa": "زندان ابهر",
+        "province": "استان زنجان",
         "publicId": "NTo4NjU3",
         "sourceId": "8657",
         "layerId": 5,
@@ -5548,9 +5754,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w250729757",
         "id": "NTo4NTQ0",
+        "city": "سنندج",
+        "osm_id": "w250729757",
         "name:fa": "زندان سنندج",
+        "province": "استان کردستان",
         "publicId": "NTo4NTQ0",
         "sourceId": "8544",
         "layerId": 5,
@@ -5618,9 +5826,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w717273820",
         "id": "NTo4NjEw",
+        "city": "شهرستان آمل",
+        "osm_id": "w717273820",
         "name:fa": "زندان آمل",
+        "province": "استان مازندران",
         "publicId": "NTo4NjEw",
         "sourceId": "8610",
         "layerId": 5,
@@ -5664,9 +5874,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w142298407",
         "id": "NTo4NTM4",
+        "city": "شهرستان تربت جام",
+        "osm_id": "w142298407",
         "name:fa": "زندان تربت جام",
+        "province": "استان خراسان رضوی",
         "publicId": "NTo4NTM4",
         "sourceId": "8538",
         "layerId": 5,
@@ -5710,9 +5922,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w792811702",
         "id": "NTo4NjI2",
+        "city": "متي كلا",
+        "osm_id": "w792811702",
         "name:fa": "زندان متی کلا بابل",
+        "province": "استان مازندران",
         "publicId": "NTo4NjI2",
         "sourceId": "8626",
         "layerId": 5,
@@ -5756,9 +5970,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w249330285",
         "id": "NTo4NTQz",
+        "city": "سنندج",
+        "osm_id": "w249330285",
         "name:fa": "بازداشتگاه موقت سنندج",
+        "province": "استان کردستان",
         "publicId": "NTo4NTQz",
         "sourceId": "8543",
         "layerId": 5,
@@ -5802,9 +6018,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1060108458",
         "id": "NTo4Njgw",
+        "city": "اشنویه",
+        "osm_id": "w1060108458",
         "name:fa": "بازاداشتگاه اشنویه",
+        "province": "استان آذربایجان غربی",
         "publicId": "NTo4Njgw",
         "sourceId": "8680",
         "layerId": 5,
@@ -5848,9 +6066,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1268208208",
         "id": "NTo4Njky",
+        "city": "کهنوج",
+        "osm_id": "w1268208208",
         "name:fa": "زندان کهنوج",
+        "province": "استان کرمان",
         "publicId": "NTo4Njky",
         "sourceId": "8692",
         "layerId": 5,
@@ -5894,9 +6114,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w186014454",
         "id": "NTo4NTQx",
+        "city": "مشگين شهر",
+        "osm_id": "w186014454",
         "name:fa": "زندان مشگین شهر",
+        "province": "استان اردبیل",
         "publicId": "NTo4NTQx",
         "sourceId": "8541",
         "layerId": 5,
@@ -6104,9 +6326,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w38580702",
         "id": "NTo4NTMy",
+        "city": "شهرستان شمیرانات",
+        "osm_id": "w38580702",
         "name:fa": "زندان اوین",
+        "province": "استان تهران",
         "publicId": "NTo4NTMy",
         "sourceId": "8532",
         "layerId": 5,
@@ -6150,9 +6374,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w714420426",
         "id": "NTo4NjA5",
+        "city": "شهرستان قائنات",
+        "osm_id": "w714420426",
         "name:fa": "زندان قاین",
+        "province": "استان خراسان جنوبی",
         "publicId": "NTo4NjA5",
         "sourceId": "8609",
         "layerId": 5,
@@ -6224,9 +6450,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w931121227",
         "id": "NTo4NjY3",
+        "city": "شهرستان ساری",
+        "osm_id": "w931121227",
         "name:fa": "کانون اصلاح و تربیت ساری",
+        "province": "استان مازندران",
         "publicId": "NTo4NjY3",
         "sourceId": "8667",
         "layerId": 5,
@@ -6270,9 +6498,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w737842104",
         "id": "NTo4NjE0",
+        "city": "خمینی شهر",
+        "osm_id": "w737842104",
         "name:fa": "زندان خمینی شهر",
+        "province": "استان اصفهان",
         "publicId": "NTo4NjE0",
         "sourceId": "8614",
         "layerId": 5,
@@ -6316,9 +6546,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w-407656",
         "id": "NTo4NTI2",
+        "city": "فيروزآباد",
+        "osm_id": "w-407656",
         "name:fa": "زندان فیروزآباد",
+        "province": "استان فارس",
         "publicId": "NTo4NTI2",
         "sourceId": "8526",
         "layerId": 5,
@@ -6422,9 +6654,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w331720396",
         "id": "NTo4NTQ3",
+        "city": "تبریز",
+        "osm_id": "w331720396",
         "name:fa": "زندان تبریز",
+        "province": "استان آذربایجان شرقی",
         "publicId": "NTo4NTQ3",
         "sourceId": "8547",
         "layerId": 5,
@@ -6476,9 +6710,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w636933261",
         "id": "NTo4NTk2",
+        "city": "اردكان",
+        "osm_id": "w636933261",
         "name:fa": "زندان اردکان",
+        "province": "استان یزد",
         "publicId": "NTo4NTk2",
         "sourceId": "8596",
         "layerId": 5,
@@ -6530,9 +6766,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w728979865",
         "id": "NTo4NjEz",
+        "city": "شهرستان اردبیل",
+        "osm_id": "w728979865",
         "name:fa": "زندان و ندامتگاه بازپروری",
+        "province": "استان اردبیل",
         "publicId": "NTo4NjEz",
         "sourceId": "8613",
         "layerId": 5,
@@ -6576,9 +6814,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1114959824",
         "id": "NTo4Njg2",
+        "city": "شهرستان گناوه",
+        "osm_id": "w1114959824",
         "name:fa": "زندان بندر گناوه",
+        "province": "استان بوشهر",
         "publicId": "NTo4Njg2",
         "sourceId": "8686",
         "layerId": 5,
@@ -6622,9 +6862,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w794643370",
         "id": "NTo4NjM1",
+        "city": "شهرستان طبس",
+        "osm_id": "w794643370",
         "name:fa": "زندان طبس",
+        "province": "استان خراسان جنوبی",
         "publicId": "NTo4NjM1",
         "sourceId": "8635",
         "layerId": 5,
@@ -6716,9 +6958,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w931121233",
         "id": "NTo4NjY4",
+        "city": "شهرستان ساری",
+        "osm_id": "w931121233",
         "name:fa": "زندان ساری",
+        "province": "استان مازندران",
         "publicId": "NTo4NjY4",
         "sourceId": "8668",
         "layerId": 5,
@@ -6762,9 +7006,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1147522978",
         "id": "NTo4Njg3",
+        "city": "سراوان",
+        "osm_id": "w1147522978",
         "name:fa": "زندان سراوان",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "NTo4Njg3",
         "sourceId": "8687",
         "layerId": 5,
@@ -6832,9 +7078,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w921980662",
         "id": "NTo4NjUz",
+        "city": "شهرستان ارومیه",
+        "osm_id": "w921980662",
         "name:fa": "کانون اصلاح و تربیت ارومیه",
+        "province": "استان آذربایجان غربی",
         "publicId": "NTo4NjUz",
         "sourceId": "8653",
         "layerId": 5,
@@ -6878,9 +7126,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w548218292",
         "id": "NTo4NTc3",
+        "city": "شهرستان بیرجند",
+        "osm_id": "w548218292",
         "name:fa": "زندان مرکزی بیرجند",
+        "province": "استان خراسان جنوبی",
         "publicId": "NTo4NTc3",
         "sourceId": "8577",
         "layerId": 5,
@@ -6940,9 +7190,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w564818174",
         "id": "NTo4NTg1",
+        "city": "شهرستان چابهار",
+        "osm_id": "w564818174",
         "name:fa": "زندان چابهار",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "NTo4NTg1",
         "sourceId": "8585",
         "layerId": 5,
@@ -6994,9 +7246,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w810845843",
         "id": "NTo4NjM3",
+        "city": "شهرستان کازرون",
+        "osm_id": "w810845843",
         "name:fa": "زندان کازرون",
+        "province": "استان فارس",
         "publicId": "NTo4NjM3",
         "sourceId": "8637",
         "layerId": 5,
@@ -7044,9 +7298,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w-418859",
         "id": "NTo4NTMw",
+        "city": "گچساران",
+        "osm_id": "w-418859",
         "name:fa": "زندان گچساران",
+        "province": "استان کهگیلویه و بویراحمد",
         "publicId": "NTo4NTMw",
         "sourceId": "8530",
         "layerId": 5,
@@ -7090,9 +7346,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w608433805",
         "id": "NTo4NTkw",
+        "city": "شاهرود",
+        "osm_id": "w608433805",
         "name:fa": "زندان شاهرود",
+        "province": "استان سمنان",
         "publicId": "NTo4NTkw",
         "sourceId": "8590",
         "layerId": 5,
@@ -7160,9 +7418,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w124765380",
         "id": "NTo4NTM3",
+        "city": "زاهدان",
+        "osm_id": "w124765380",
         "name:fa": "زندان مرکزی",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "NTo4NTM3",
         "sourceId": "8537",
         "layerId": 5,
@@ -7206,9 +7466,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w781478559",
         "id": "NTo4NjIw",
+        "city": "شهرستان بوکان",
+        "osm_id": "w781478559",
         "name:fa": "زندان بوکان",
+        "province": "استان آذربایجان غربی",
         "publicId": "NTo4NjIw",
         "sourceId": "8620",
         "layerId": 5,
@@ -7256,9 +7518,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w558251921",
         "id": "NTo4NTgy",
+        "city": "شهرستان بوئین‌زهرا",
+        "osm_id": "w558251921",
         "name:fa": "زندان بوئین زهرا",
+        "province": "استان قزوین",
         "publicId": "NTo4NTgy",
         "sourceId": "8582",
         "layerId": 5,
@@ -7318,9 +7582,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w539289743",
         "id": "NTo4NTcy",
+        "city": "شهرستان ری",
+        "osm_id": "w539289743",
         "name:fa": "زندان کهریزک",
+        "province": "استان تهران",
         "publicId": "NTo4NTcy",
         "sourceId": "8572",
         "layerId": 5,
@@ -7364,9 +7630,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w925203694",
         "id": "NTo4NjYx",
+        "city": "رفسنجان",
+        "osm_id": "w925203694",
         "name:fa": "زندان رفسنجان",
+        "province": "استان کرمان",
         "publicId": "NTo4NjYx",
         "sourceId": "8661",
         "layerId": 5,
@@ -7422,9 +7690,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w482692812",
         "id": "NTo4NTY2",
+        "city": "نقنه",
+        "osm_id": "w482692812",
         "name:fa": "زندان نقنه بروجن",
+        "province": "استان چهارمحال و بختیاری",
         "publicId": "NTo4NTY2",
         "sourceId": "8566",
         "layerId": 5,
@@ -7500,9 +7770,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w681114995",
         "id": "NTo4NjA0",
+        "city": "شهرستان گرگان",
+        "osm_id": "w681114995",
         "name:fa": "زندان امیر آباد گرگان",
+        "province": "استان گلستان",
         "publicId": "NTo4NjA0",
         "sourceId": "8604",
         "layerId": 5,
@@ -7550,9 +7822,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1298610363",
         "id": "NTo4Njk1",
+        "city": "سمنان",
+        "osm_id": "w1298610363",
         "name:fa": "بازداشتگاه موقت سمنان",
+        "province": "استان سمنان",
         "publicId": "NTo4Njk1",
         "sourceId": "8695",
         "layerId": 5,
@@ -7596,9 +7870,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w794529743",
         "id": "NTo4NjM0",
+        "city": "سارمران",
+        "osm_id": "w794529743",
         "name:fa": "زندان اسفراین",
+        "province": "استان خراسان شمالی",
         "publicId": "NTo4NjM0",
         "sourceId": "8634",
         "layerId": 5,
@@ -7658,9 +7934,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w482422705",
         "id": "NTo4NTY1",
+        "city": "شهرستان تربت حیدریه",
+        "osm_id": "w482422705",
         "name:fa": "زندان مرکزی تربت حیدریه",
+        "province": "استان خراسان رضوی",
         "publicId": "NTo4NTY1",
         "sourceId": "8565",
         "layerId": 5,
@@ -7716,9 +7994,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w921960383",
         "id": "NTo4NjQ5",
+        "city": "شهرستان سیاهکل",
+        "osm_id": "w921960383",
         "name:fa": "زندان لاهیجان",
+        "province": "استان گیلان",
         "publicId": "NTo4NjQ5",
         "sourceId": "8649",
         "layerId": 5,
@@ -7778,9 +8058,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w572925116",
         "id": "NTo4NTg2",
+        "city": "شهرستان شیراز",
+        "osm_id": "w572925116",
         "name:fa": "کانون اصلاح و تربیت شیراز",
+        "province": "استان فارس",
         "publicId": "NTo4NTg2",
         "sourceId": "8586",
         "layerId": 5,
@@ -7824,9 +8106,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w392676080",
         "id": "NTo4NTUx",
+        "city": "زنجان",
+        "osm_id": "w392676080",
         "name:fa": "کانون اصلاح و تربیت",
+        "province": "استان زنجان",
         "publicId": "NTo4NTUx",
         "sourceId": "8551",
         "layerId": 5,
@@ -7874,9 +8158,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w430903503",
         "id": "NTo4NTU2",
+        "city": "سقز",
+        "osm_id": "w430903503",
         "name:fa": "زندان مرکزی سقز",
+        "province": "استان کردستان",
         "publicId": "NTo4NTU2",
         "sourceId": "8556",
         "layerId": 5,
@@ -7928,9 +8214,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w446409388",
         "id": "NTo4NTU4",
+        "city": "شهرستان قزوین",
+        "osm_id": "w446409388",
         "name:fa": "زندان چوبیندر",
+        "province": "استان قزوین",
         "publicId": "NTo4NTU4",
         "sourceId": "8558",
         "layerId": 5,
@@ -7974,9 +8262,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w551266618",
         "id": "NTo4NTc5",
+        "city": "درگز",
+        "osm_id": "w551266618",
         "name:fa": "زندان",
+        "province": "استان خراسان رضوی",
         "publicId": "NTo4NTc5",
         "sourceId": "8579",
         "layerId": 5,
@@ -8020,9 +8310,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w625890503",
         "id": "NTo4NTk0",
+        "city": "شهرستان ایرانشهر",
+        "osm_id": "w625890503",
         "name:fa": "زندان ایرانشهر",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "NTo4NTk0",
         "sourceId": "8594",
         "layerId": 5,
@@ -8066,9 +8358,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w447596712",
         "id": "NTo4NTU5",
+        "city": "کاشان",
+        "osm_id": "w447596712",
         "name:fa": "زندان کاشان",
+        "province": "استان اصفهان",
         "publicId": "NTo4NTU5",
         "sourceId": "8559",
         "layerId": 5,
@@ -8112,9 +8406,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w633042593",
         "id": "NTo4NTk1",
+        "city": "كامياران",
+        "osm_id": "w633042593",
         "name:fa": "زندان کامیاران",
+        "province": "استان کردستان",
         "publicId": "NTo4NTk1",
         "sourceId": "8595",
         "layerId": 5,
@@ -8158,9 +8454,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w265212614",
         "id": "NTo4NTQ2",
+        "city": "شهرستان قائم‌شهر",
+        "osm_id": "w265212614",
         "name:fa": "زندان قائمشهر",
+        "province": "استان مازندران",
         "publicId": "NTo4NTQ2",
         "sourceId": "8546",
         "layerId": 5,
@@ -8204,9 +8502,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w932267728",
         "id": "NTo4Njc1",
+        "city": "خورین",
+        "osm_id": "w932267728",
         "name:fa": "ندامتگاه ورامین",
+        "province": "استان تهران",
         "publicId": "NTo4Njc1",
         "sourceId": "8675",
         "layerId": 5,
@@ -8250,9 +8550,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w617646706",
         "id": "NTo4NTky",
+        "city": "شهرستان صومعه سرا",
+        "osm_id": "w617646706",
         "name:fa": "زندان ضیابر",
+        "province": "استان گیلان",
         "publicId": "NTo4NTky",
         "sourceId": "8592",
         "layerId": 5,
@@ -8296,9 +8598,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w898049667",
         "id": "NTo4NjQz",
+        "city": "شهرستان سمنان",
+        "osm_id": "w898049667",
         "name:fa": "زندان سمنان",
+        "province": "استان سمنان",
         "publicId": "NTo4NjQz",
         "sourceId": "8643",
         "layerId": 5,
@@ -8390,9 +8694,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w677014676",
         "id": "NTo4NjAy",
+        "city": "شهرستان خرم‌آباد",
+        "osm_id": "w677014676",
         "name:fa": "کانون اصلاح و تربیت استان لرستان",
+        "province": "استان لرستان",
         "publicId": "NTo4NjAy",
         "sourceId": "8602",
         "layerId": 5,
@@ -8436,9 +8742,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w782209237",
         "id": "NTo4NjIy",
+        "city": "شهرستان بوشهر",
+        "osm_id": "w782209237",
         "name:fa": "زندان بوشهر",
+        "province": "استان بوشهر",
         "publicId": "NTo4NjIy",
         "sourceId": "8622",
         "layerId": 5,
@@ -8482,9 +8790,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w925194641",
         "id": "NTo4NjYw",
+        "city": "شهرستان بافت",
+        "osm_id": "w925194641",
         "name:fa": "زندان بافت",
+        "province": "استان کرمان",
         "publicId": "NTo4NjYw",
         "sourceId": "8660",
         "layerId": 5,
@@ -8536,9 +8846,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w217963827",
         "id": "NTo4NTQy",
+        "city": "آبادان",
+        "osm_id": "w217963827",
         "name:fa": "زندان آبادان",
+        "province": "استان خوزستان",
         "publicId": "NTo4NTQy",
         "sourceId": "8542",
         "layerId": 5,
@@ -8582,9 +8894,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w449236562",
         "id": "NTo4NTYw",
+        "city": "شهرستان اقلید",
+        "osm_id": "w449236562",
         "name:fa": "زندان اقلید",
+        "province": "استان فارس",
         "publicId": "NTo4NTYw",
         "sourceId": "8560",
         "layerId": 5,
@@ -8640,9 +8954,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w792841989",
         "id": "NTo4NjI4",
+        "city": "سبزوار",
+        "osm_id": "w792841989",
         "name:fa": "زندان سبزوار",
+        "province": "استان خراسان رضوی",
         "publicId": "NTo4NjI4",
         "sourceId": "8628",
         "layerId": 5,
@@ -8702,8 +9018,10 @@
         ]
       },
       "properties": {
-        "osm_id": "w1284728530",
         "id": "NTo4Njk0",
+        "city": "شهرستان تبریز",
+        "osm_id": "w1284728530",
+        "province": "استان آذربایجان شرقی",
         "publicId": "NTo4Njk0",
         "sourceId": "8694",
         "layerId": 5,
@@ -8767,9 +9085,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1435267815",
         "id": "NTo4NzAw",
+        "city": "گرمسار",
+        "osm_id": "w1435267815",
         "name:fa": "زندان گرمسار",
+        "province": "استان سمنان",
         "publicId": "NTo4NzAw",
         "sourceId": "8700",
         "layerId": 5,
@@ -8841,9 +9161,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w792804654",
         "id": "NTo4NjI1",
+        "city": "سلکی سر",
+        "osm_id": "w792804654",
         "name:fa": "زندان لاکان رشت",
+        "province": "استان گیلان",
         "publicId": "NTo4NjI1",
         "sourceId": "8625",
         "layerId": 5,
@@ -8891,9 +9213,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1360704316",
         "id": "NTo4Njk5",
+        "city": "شهرستان پیشوا",
+        "osm_id": "w1360704316",
         "name:fa": "اردوگاه عسگرآباد",
+        "province": "استان تهران",
         "publicId": "NTo4Njk5",
         "sourceId": "8699",
         "layerId": 5,
@@ -8941,9 +9265,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w791253101",
         "id": "NTo4NjI0",
+        "city": "بندر ماهشهر",
+        "osm_id": "w791253101",
         "name:fa": "زندان بندر ماهشهر",
+        "province": "استان خوزستان",
         "publicId": "NTo4NjI0",
         "sourceId": "8624",
         "layerId": 5,
@@ -8987,9 +9313,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w921857288",
         "id": "NTo4NjQ4",
+        "city": "شهرستان نی ریز",
+        "osm_id": "w921857288",
         "name:fa": "زندان نی ریز",
+        "province": "استان فارس",
         "publicId": "NTo4NjQ4",
         "sourceId": "8648",
         "layerId": 5,
@@ -9033,9 +9361,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w727206407",
         "id": "NTo4NjEy",
+        "city": "شهرستان خمین",
+        "osm_id": "w727206407",
         "name:fa": "زندان خمین",
+        "province": "استان مرکزی",
         "publicId": "NTo4NjEy",
         "sourceId": "8612",
         "layerId": 5,
@@ -9087,9 +9417,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w932263078",
         "id": "NTo4Njc0",
+        "city": "بوئین زهرا",
+        "osm_id": "w932263078",
         "name:fa": "زندان بوئین زهرا",
+        "province": "استان قزوین",
         "publicId": "NTo4Njc0",
         "sourceId": "8674",
         "layerId": 5,
@@ -9133,9 +9465,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w931027786",
         "id": "NTo4NjY2",
+        "city": "شهرستان گلپایگان",
+        "osm_id": "w931027786",
         "name:fa": "زندان گلپایگان",
+        "province": "استان اصفهان",
         "publicId": "NTo4NjY2",
         "sourceId": "8666",
         "layerId": 5,
@@ -9179,9 +9513,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1164775126",
         "id": "NTo4Njg4",
+        "city": "میانه",
+        "osm_id": "w1164775126",
         "name:fa": "اداره رندان میانه",
+        "province": "استان آذربایجان شرقی",
         "publicId": "NTo4Njg4",
         "sourceId": "8688",
         "layerId": 5,
@@ -9225,9 +9561,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w678910975",
         "id": "NTo4NjAz",
+        "city": "شهرستان دره‌شهر",
+        "osm_id": "w678910975",
         "name:fa": "زندان دره‌شهر",
+        "province": "استان ایلام",
         "publicId": "NTo4NjAz",
         "sourceId": "8603",
         "layerId": 5,
@@ -9271,9 +9609,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w928483878",
         "id": "NTo4NjYy",
+        "city": "شهرستان قروه",
+        "osm_id": "w928483878",
         "name:fa": "زندان قروه",
+        "province": "استان کردستان",
         "publicId": "NTo4NjYy",
         "sourceId": "8662",
         "layerId": 5,
@@ -9333,9 +9673,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w452863177",
         "id": "NTo4NTYx",
+        "city": "شهرستان خرم‌آباد",
+        "osm_id": "w452863177",
         "name:fa": "زندان مرکزی خرم آباد",
+        "province": "استان لرستان",
         "publicId": "NTo4NTYx",
         "sourceId": "8561",
         "layerId": 5,
@@ -9379,9 +9721,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w562677114",
         "id": "NTo4NTg0",
+        "city": "ياسوج",
+        "osm_id": "w562677114",
         "name:fa": "زندان مرکزی  یاسوج",
+        "province": "استان کهگیلویه و بویراحمد",
         "publicId": "NTo4NTg0",
         "sourceId": "8584",
         "layerId": 5,
@@ -9441,9 +9785,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w792832327",
         "id": "NTo4NjI3",
+        "city": "نیشابور",
+        "osm_id": "w792832327",
         "name:fa": "زندان نیشابور",
+        "province": "استان خراسان رضوی",
         "publicId": "NTo4NjI3",
         "sourceId": "8627",
         "layerId": 5,
@@ -9491,9 +9837,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w1104859407",
         "id": "NTo4Njgx",
+        "city": "شهرستان شهرکرد",
+        "osm_id": "w1104859407",
         "name:fa": "اردوگاه تربیتی",
+        "province": "استان چهارمحال و بختیاری",
         "publicId": "NTo4Njgx",
         "sourceId": "8681",
         "layerId": 5,
@@ -9537,9 +9885,11 @@
         ]
       },
       "properties": {
-        "osm_id": "w558535943",
         "id": "NTo4NTgz",
+        "city": "شهرستان ساوه",
+        "osm_id": "w558535943",
         "name:fa": "زندان ساوه",
+        "province": "استان مرکزی",
         "publicId": "NTo4NTgz",
         "sourceId": "8583",
         "layerId": 5,

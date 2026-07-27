@@ -81,6 +81,8 @@
       },
       "properties": {
         "id": "OToxMDE5",
+        "city": "اهواز",
+        "province": "استان خوزستان",
         "publicId": "OToxMDE5",
         "sourceId": "1019",
         "layerId": 9,
@@ -265,6 +267,8 @@
       },
       "properties": {
         "id": "OToxMDM4",
+        "city": "شهرستان بهشهر",
+        "province": "استان مازندران",
         "publicId": "OToxMDM4",
         "sourceId": "1038",
         "layerId": 9,
@@ -317,6 +321,8 @@
       },
       "properties": {
         "id": "OToxMDE0",
+        "city": "شهرستان کنگان",
+        "province": "استان بوشهر",
         "publicId": "OToxMDE0",
         "sourceId": "1014",
         "layerId": 9,
@@ -437,6 +443,8 @@
       },
       "properties": {
         "id": "OToxMDI2",
+        "city": "شهرستان دلیجان",
+        "province": "استان مرکزی",
         "publicId": "OToxMDI2",
         "sourceId": "1026",
         "layerId": 9,
@@ -557,6 +565,8 @@
       },
       "properties": {
         "id": "OToxMDM3",
+        "city": "شهرستان کردکوی",
+        "province": "استان گلستان",
         "publicId": "OToxMDM3",
         "sourceId": "1037",
         "layerId": 9,
@@ -621,6 +631,8 @@
       },
       "properties": {
         "id": "OToxMDEz",
+        "city": "شهرستان کنگان",
+        "province": "استان بوشهر",
         "publicId": "OToxMDEz",
         "sourceId": "1013",
         "layerId": 9,
@@ -689,7 +701,9 @@
       },
       "properties": {
         "id": "OToxMDI1",
+        "city": "شهرستان کبودرآهنگ",
         "name:fa": "رادار سوباشی",
+        "province": "استان همدان",
         "publicId": "OToxMDI1",
         "sourceId": "1025",
         "layerId": 9,
@@ -734,6 +748,8 @@
       },
       "properties": {
         "id": "OToxMDM2",
+        "city": "شهرستان آرادان",
+        "province": "استان سمنان",
         "publicId": "OToxMDM2",
         "sourceId": "1036",
         "layerId": 9,
@@ -826,6 +842,8 @@
       },
       "properties": {
         "id": "OToxMDEy",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
         "publicId": "OToxMDEy",
         "sourceId": "1012",
         "layerId": 9,
@@ -918,6 +936,8 @@
       },
       "properties": {
         "id": "OToxMDI0",
+        "city": "شهرستان زرندیه",
+        "province": "استان مرکزی",
         "publicId": "OToxMDI0",
         "sourceId": "1024",
         "layerId": 9,
@@ -966,6 +986,8 @@
       },
       "properties": {
         "id": "OToxMDE4",
+        "city": "شهرستان اهواز",
+        "province": "استان خوزستان",
         "publicId": "OToxMDE4",
         "sourceId": "1018",
         "layerId": 9,
@@ -1010,6 +1032,8 @@
       },
       "properties": {
         "id": "OToxMDM1",
+        "city": "شهرستان گرمسار",
+        "province": "استان سمنان",
         "publicId": "OToxMDM1",
         "sourceId": "1035",
         "layerId": 9,
@@ -1078,6 +1102,8 @@
       },
       "properties": {
         "id": "OToxMDEx",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
         "publicId": "OToxMDEx",
         "sourceId": "1011",
         "layerId": 9,
@@ -1218,6 +1244,8 @@
       },
       "properties": {
         "id": "OToxMDIz",
+        "city": "بيله سوار",
+        "province": "استان اردبیل",
         "unofficial_name:fa": "سایت رادار شهید سرتیپ نادری",
         "publicId": "OToxMDIz",
         "sourceId": "1023",
@@ -1315,7 +1343,9 @@
       },
       "properties": {
         "id": "OToxMDE3",
+        "city": "شهرستان بوشهر",
         "name:fa": "سایت رادار",
+        "province": "استان بوشهر",
         "publicId": "OToxMDE3",
         "sourceId": "1017",
         "layerId": 9,
@@ -1416,6 +1446,8 @@
       },
       "properties": {
         "id": "OToxMDQy",
+        "city": "شهرستان کرج",
+        "province": "استان البرز",
         "publicId": "OToxMDQy",
         "sourceId": "1042",
         "layerId": 9,
@@ -1600,6 +1632,8 @@
       },
       "properties": {
         "id": "OToxMDMw",
+        "city": "شهرستان بهاباد",
+        "province": "استان یزد",
         "publicId": "OToxMDMw",
         "sourceId": "1030",
         "layerId": 9,
@@ -1692,6 +1726,8 @@
       },
       "properties": {
         "id": "OToxMDE2",
+        "city": "شهرستان کنگان",
+        "province": "استان بوشهر",
         "publicId": "OToxMDE2",
         "sourceId": "1016",
         "layerId": 9,
@@ -1860,6 +1896,8 @@
       },
       "properties": {
         "id": "OToxMDQx",
+        "city": "شهرستان ری",
+        "province": "استان تهران",
         "publicId": "OToxMDQx",
         "sourceId": "1041",
         "layerId": 9,
@@ -1916,6 +1954,8 @@
       },
       "properties": {
         "id": "OToxMDI5",
+        "city": "شهرستان بهمئی",
+        "province": "استان کهگیلویه و بویراحمد",
         "publicId": "OToxMDI5",
         "sourceId": "1029",
         "layerId": 9,
@@ -1980,6 +2020,8 @@
       },
       "properties": {
         "id": "OToxMDE1",
+        "city": "شهرستان کنگان",
+        "province": "استان بوشهر",
         "publicId": "OToxMDE1",
         "sourceId": "1015",
         "layerId": 9,
@@ -2024,6 +2066,8 @@
       },
       "properties": {
         "id": "OToxMDQw",
+        "city": "شهرستان اصفهان",
+        "province": "استان اصفهان",
         "publicId": "OToxMDQw",
         "sourceId": "1040",
         "layerId": 9,
@@ -2084,6 +2128,8 @@
       },
       "properties": {
         "id": "OToxMDM0",
+        "city": "شهرستان مراوه‌تپه",
+        "province": "استان گلستان",
         "publicId": "OToxMDM0",
         "sourceId": "1034",
         "layerId": 9,
@@ -2164,7 +2210,9 @@
       },
       "properties": {
         "id": "OToxMDEw",
+        "city": "شهرستان مهرستان",
         "name:fa": "سایت رادار بیرک",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "OToxMDEw",
         "sourceId": "1010",
         "layerId": 9,
@@ -2217,6 +2265,8 @@
       },
       "properties": {
         "id": "OToxMDI4",
+        "city": "شهرستان خنداب",
+        "province": "استان مرکزی",
         "publicId": "OToxMDI4",
         "sourceId": "1028",
         "layerId": 9,
@@ -2625,6 +2675,8 @@
       },
       "properties": {
         "id": "OToxMDIy",
+        "city": "رادار تبریز",
+        "province": "استان آذربایجان شرقی",
         "unofficial_name:fa": "منطقه شمال غرب آجا پدافند هوایی تبریز",
         "publicId": "OToxMDIy",
         "sourceId": "1022",
@@ -2710,6 +2762,8 @@
       },
       "properties": {
         "id": "OToxMDM5",
+        "city": "شهرستان بابلسر",
+        "province": "استان مازندران",
         "unofficial_name:fa": "رادار",
         "publicId": "OToxMDM5",
         "sourceId": "1039",
@@ -2763,6 +2817,8 @@
       },
       "properties": {
         "id": "OToxMDMz",
+        "city": "شهرستان درگز",
+        "province": "استان خراسان رضوی",
         "publicId": "OToxMDMz",
         "sourceId": "1033",
         "layerId": 9,
@@ -2819,6 +2875,8 @@
       },
       "properties": {
         "id": "OToxMDA5",
+        "city": "شهرستان کنارک",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "OToxMDA5",
         "sourceId": "1009",
         "layerId": 9,
@@ -2895,6 +2953,8 @@
       },
       "properties": {
         "id": "OToxMDI3",
+        "city": "شهرستان خنداب",
+        "province": "استان مرکزی",
         "publicId": "OToxMDI3",
         "sourceId": "1027",
         "layerId": 9,
@@ -2987,6 +3047,8 @@
       },
       "properties": {
         "id": "OToxMDIx",
+        "city": "شهرستان بیجار",
+        "province": "استان کردستان",
         "publicId": "OToxMDIx",
         "sourceId": "1021",
         "layerId": 9,
@@ -3079,6 +3141,8 @@
       },
       "properties": {
         "id": "OToxMDMy",
+        "city": "شهرستان درمیان",
+        "province": "استان خراسان جنوبی",
         "publicId": "OToxMDMy",
         "sourceId": "1032",
         "layerId": 9,
@@ -3139,6 +3203,8 @@
       },
       "properties": {
         "id": "OToxMDMx",
+        "city": "شهرستان شیراز",
+        "province": "استان فارس",
         "publicId": "OToxMDMx",
         "sourceId": "1031",
         "layerId": 9,
@@ -3162,8 +3228,10 @@
         ]
       },
       "properties": {
+        "city": "شهرستان ابهر",
         "date": 1772526039,
         "name:fa": "رادار",
+        "province": "استان زنجان",
         "id": "OTo3ZDFjZTc4MDQ1ODA",
         "publicId": "OTo3ZDFjZTc4MDQ1ODA",
         "sourceId": "7d1ce7804580",
@@ -3214,8 +3282,10 @@
         ]
       },
       "properties": {
+        "city": "شهرستان قائم‌شهر",
         "date": 1772232946,
         "name:fa": "رادار",
+        "province": "استان مازندران",
         "id": "OTo5YzVkMzg4Y2M3ZDI",
         "publicId": "OTo5YzVkMzg4Y2M3ZDI",
         "sourceId": "9c5d388cc7d2",

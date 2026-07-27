@@ -577,7 +577,9 @@
       },
       "properties": {
         "id": "MTQ6MQ",
+        "city": "کلانشهر رشت",
         "date": 1750368000,
+        "province": "استان گیلان",
         "publicId": "MTQ6MQ",
         "sourceId": "1",
         "layerId": 14,
@@ -794,7 +796,9 @@
       },
       "properties": {
         "id": "MTQ6Mg",
+        "city": "تهران",
         "date": 1750080480,
+        "province": "استان تهران",
         "publicId": "MTQ6Mg",
         "sourceId": "2",
         "layerId": 14,
@@ -935,7 +939,9 @@
       },
       "properties": {
         "id": "MTQ6Mw",
+        "city": "تهران",
         "date": 1750200000,
+        "province": "استان تهران",
         "publicId": "MTQ6Mw",
         "sourceId": "3",
         "layerId": 14,
@@ -2044,7 +2050,9 @@
       },
       "properties": {
         "id": "MTQ6NA",
+        "city": "شهرستان خنداب",
         "date": 1750296000,
+        "province": "استان مرکزی",
         "publicId": "MTQ6NA",
         "sourceId": "4",
         "layerId": 14,
@@ -2329,7 +2337,9 @@
       },
       "properties": {
         "id": "MTQ6NQ",
+        "city": "تهران",
         "date": 1750711500,
+        "province": "استان تهران",
         "publicId": "MTQ6NQ",
         "sourceId": "5",
         "layerId": 14,
@@ -2614,7 +2624,9 @@
       },
       "properties": {
         "id": "MTQ6Ng",
+        "city": "تهران",
         "date": 1750718100,
+        "province": "استان تهران",
         "publicId": "MTQ6Ng",
         "sourceId": "6",
         "layerId": 14,
@@ -2899,7 +2911,9 @@
       },
       "properties": {
         "id": "MTQ6Nw",
+        "city": "تهران",
         "date": 1750718100,
+        "province": "استان تهران",
         "publicId": "MTQ6Nw",
         "sourceId": "7",
         "layerId": 14,

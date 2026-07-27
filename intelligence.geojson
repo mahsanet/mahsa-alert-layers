@@ -53,6 +53,8 @@
       },
       "properties": {
         "id": "Mjo4NzEw",
+        "city": "فارسان",
+        "province": "استان چهارمحال و بختیاری",
         "unofficial_name:fa": "اطلاعات سپاه",
         "publicId": "Mjo4NzEw",
         "sourceId": "8710",
@@ -122,6 +124,8 @@
       },
       "properties": {
         "id": "Mjo4NzIy",
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
         "unofficial_name:fa": "اطلاعات",
         "publicId": "Mjo4NzIy",
         "sourceId": "8722",
@@ -171,7 +175,9 @@
       },
       "properties": {
         "id": "Mjo4NzQw",
+        "city": "خلخال",
         "osm_id": "w458587705",
+        "province": "استان اردبیل",
         "unofficial_name:fa": "اطلاعات",
         "publicId": "Mjo4NzQw",
         "sourceId": "8740",
@@ -229,7 +235,9 @@
       },
       "properties": {
         "id": "Mjo4NzM0",
+        "city": "کرج",
         "osm_id": "w1385068926",
+        "province": "استان البرز",
         "unofficial_name:fa": "اداره اطلاعات استان البرز",
         "publicId": "Mjo4NzM0",
         "sourceId": "8734",
@@ -275,7 +283,9 @@
       },
       "properties": {
         "id": "Mjo4NzQ2",
+        "city": "سرابله",
         "osm_id": "n6388783185",
+        "province": "استان ایلام",
         "unofficial_name:fa": "وزارت اطلاعات",
         "publicId": "Mjo4NzQ2",
         "sourceId": "8746",
@@ -377,6 +387,8 @@
       },
       "properties": {
         "id": "Mjo4NzA5",
+        "city": "رشت",
+        "province": "استان گیلان",
         "unofficial_name:fa": "اطلاعات",
         "publicId": "Mjo4NzA5",
         "sourceId": "8709",
@@ -534,6 +546,8 @@
       },
       "properties": {
         "id": "Mjo4NzIx",
+        "city": "تهران",
+        "province": "استان تهران",
         "unofficial_name:fa": "وزارت اطلاعات",
         "publicId": "Mjo4NzIx",
         "sourceId": "8721",
@@ -671,7 +685,9 @@
       },
       "properties": {
         "id": "Mjo4NzM5",
+        "city": "شهركرد",
         "osm_id": "w1096081220",
+        "province": "استان چهارمحال و بختیاری",
         "unofficial_name:fa": "اداره کل اطلاعات استان چهارمحال و بختیاری",
         "publicId": "Mjo4NzM5",
         "sourceId": "8739",
@@ -745,7 +761,9 @@
       },
       "properties": {
         "id": "Mjo4NzMz",
+        "city": "زنجان",
         "osm_id": "w394966029",
+        "province": "استان زنجان",
         "unofficial_name:fa": "اداره اطلاعات",
         "publicId": "Mjo4NzMz",
         "sourceId": "8733",
@@ -799,7 +817,9 @@
       },
       "properties": {
         "id": "Mjo4NzUx",
+        "city": "اصفهان",
         "osm_id": "n7258046051",
+        "province": "استان اصفهان",
         "unofficial_name:fa": "سازمان ستاد وزارت اطلاعات",
         "publicId": "Mjo4NzUx",
         "sourceId": "8751",
@@ -857,7 +877,9 @@
       },
       "properties": {
         "id": "Mjo4NzQ1",
+        "city": "زنجان",
         "osm_id": "w393601229",
+        "province": "استان زنجان",
         "unofficial_name:fa": "وزارت اطلاعات",
         "publicId": "Mjo4NzQ1",
         "sourceId": "8745",
@@ -903,6 +925,8 @@
       },
       "properties": {
         "id": "Mjo4NzA4",
+        "city": "مشگين شهر",
+        "province": "استان اردبیل",
         "unofficial_name:fa": "اطلاعات",
         "publicId": "Mjo4NzA4",
         "sourceId": "8708",
@@ -960,6 +984,8 @@
       },
       "properties": {
         "id": "Mjo4NzAy",
+        "city": "پلدختر",
+        "province": "استان لرستان",
         "unofficial_name:fa": "اطلاعات سپاه",
         "publicId": "Mjo4NzAy",
         "sourceId": "8702",
@@ -1009,6 +1035,8 @@
       },
       "properties": {
         "id": "Mjo4NzIw",
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
         "unofficial_name:fa": "بازداشتگاه اطلاعات سپاه",
         "publicId": "Mjo4NzIw",
         "sourceId": "8720",
@@ -1094,6 +1122,8 @@
       },
       "properties": {
         "id": "Mjo4NzE0",
+        "city": "جهرم",
+        "province": "استان فارس",
         "unofficial_name:fa": "اطلاعات جهرم",
         "publicId": "Mjo4NzE0",
         "sourceId": "8714",
@@ -1147,7 +1177,9 @@
       },
       "properties": {
         "id": "Mjo4NzMy",
+        "city": "سردشت",
         "osm_id": "w447646431",
+        "province": "استان آذربایجان غربی",
         "unofficial_name:fa": "اداره اطلاعات",
         "publicId": "Mjo4NzMy",
         "sourceId": "8732",
@@ -1209,7 +1241,9 @@
       },
       "properties": {
         "id": "Mjo4NzQ0",
+        "city": "اردبیل",
         "osm_id": "w323929423",
+        "province": "استان اردبیل",
         "unofficial_name:fa": "ستاد خبری اداره اطلاعات شهرستان اردبیل",
         "publicId": "Mjo4NzQ0",
         "sourceId": "8744",
@@ -1259,6 +1293,8 @@
       },
       "properties": {
         "id": "Mjo4NzA3",
+        "city": "اشنویه",
+        "province": "استان آذربایجان غربی",
         "unofficial_name:fa": "اداره اطلاعات اشنویه",
         "publicId": "Mjo4NzA3",
         "sourceId": "8707",
@@ -1312,6 +1348,8 @@
       },
       "properties": {
         "id": "Mjo4NzAx",
+        "city": "بوشهر",
+        "province": "استان بوشهر",
         "unofficial_name:fa": "سازمان اطلاعات",
         "publicId": "Mjo4NzAx",
         "sourceId": "8701",
@@ -1401,6 +1439,8 @@
       },
       "properties": {
         "id": "Mjo4NzE5",
+        "city": "شهرستان ساری",
+        "province": "استان مازندران",
         "unofficial_name:fa": "اداره اطلاعات",
         "publicId": "Mjo4NzE5",
         "sourceId": "8719",
@@ -1462,7 +1502,9 @@
       },
       "properties": {
         "id": "Mjo4NzEz",
+        "city": "لامرد",
         "osm_id": "w1386543128",
+        "province": "استان فارس",
         "unofficial_name:fa": "اداره اطلاعات",
         "publicId": "Mjo4NzEz",
         "sourceId": "8713",
@@ -1516,7 +1558,9 @@
       },
       "properties": {
         "id": "Mjo4NzMx",
+        "city": "بیله سوار",
         "osm_id": "w458288919",
+        "province": "استان اردبیل",
         "unofficial_name:fa": "اداره اطلاعات",
         "publicId": "Mjo4NzMx",
         "sourceId": "8731",
@@ -1578,7 +1622,9 @@
       },
       "properties": {
         "id": "Mjo4NzQz",
+        "city": "كوهدشت",
         "osm_id": "w465415889",
+        "province": "استان لرستان",
         "unofficial_name:fa": "حفاظت و اطلاعات",
         "publicId": "Mjo4NzQz",
         "sourceId": "8743",
@@ -1632,7 +1678,9 @@
       },
       "properties": {
         "id": "Mjo4NzI2",
+        "city": "آستارا",
         "osm_id": "r12111466",
+        "province": "استان گیلان",
         "unofficial_name:fa": "سازمان اطلاعات",
         "publicId": "Mjo4NzI2",
         "sourceId": "8726",
@@ -1678,6 +1726,8 @@
       },
       "properties": {
         "id": "Mjo4NzEy",
+        "city": "یزد",
+        "province": "استان یزد",
         "unofficial_name:fa": "اطلاعات",
         "publicId": "Mjo4NzEy",
         "sourceId": "8712",
@@ -1739,7 +1789,9 @@
       },
       "properties": {
         "id": "Mjo4NzM4",
+        "city": "میناب",
         "osm_id": "w658162504",
+        "province": "استان هرمزگان",
         "unofficial_name:fa": "اداره اطلاعات شهرستان میناب",
         "publicId": "Mjo4NzM4",
         "sourceId": "8738",
@@ -1801,7 +1853,9 @@
       },
       "properties": {
         "id": "Mjo4NzUw",
+        "city": "ایوان",
         "osm_id": "n5422572521",
+        "province": "استان ایلام",
         "unofficial_name:fa": "اداره اطلاعات ایوان",
         "publicId": "Mjo4NzUw",
         "sourceId": "8750",
@@ -1863,7 +1917,9 @@
       },
       "properties": {
         "id": "Mjo4NzI1",
+        "city": "اراک",
         "osm_id": "r10519867",
+        "province": "استان مرکزی",
         "unofficial_name:fa": "اداره کل اطلاعات استان مرکزی",
         "publicId": "Mjo4NzI1",
         "sourceId": "8725",
@@ -1917,7 +1973,9 @@
       },
       "properties": {
         "id": "Mjo4NzEx",
+        "city": "ياسوج",
         "osm_id": "w550228571",
+        "province": "استان کهگیلویه و بویراحمد",
         "unofficial_name:fa": "اداره اطلاعات",
         "publicId": "Mjo4NzEx",
         "sourceId": "8711",
@@ -1967,7 +2025,9 @@
       },
       "properties": {
         "id": "Mjo4NzM3",
+        "city": "نورآباد",
         "osm_id": "w1340373997",
+        "province": "استان فارس",
         "unofficial_name:fa": "اداره اطلاعات شهرستان ممسنی",
         "publicId": "Mjo4NzM3",
         "sourceId": "8737",
@@ -2021,7 +2081,9 @@
       },
       "properties": {
         "id": "Mjo4NzQ5",
+        "city": "كازرون",
         "osm_id": "n3840746633",
+        "province": "استان فارس",
         "unofficial_name:fa": "اداره اطلاعات",
         "publicId": "Mjo4NzQ5",
         "sourceId": "8749",
@@ -2075,6 +2137,8 @@
       },
       "properties": {
         "id": "Mjo4NzA2",
+        "city": "مریوان",
+        "province": "استان کردستان",
         "unofficial_name:fa": "اطلاعات",
         "publicId": "Mjo4NzA2",
         "sourceId": "8706",
@@ -2180,7 +2244,9 @@
       },
       "properties": {
         "id": "Mjo4NzI0",
+        "city": "قم",
         "osm_id": "r16558692",
+        "province": "استان قم",
         "unofficial_name:fa": "اداره کل اطلاعات",
         "publicId": "Mjo4NzI0",
         "sourceId": "8724",
@@ -2302,6 +2368,8 @@
       },
       "properties": {
         "id": "Mjo4NzE4",
+        "city": "بجنورد",
+        "province": "استان خراسان شمالی",
         "unofficial_name:fa": "اداره کل اطلاعات استان خراسان شمالی",
         "publicId": "Mjo4NzE4",
         "sourceId": "8718",
@@ -2347,7 +2415,9 @@
       },
       "properties": {
         "id": "Mjo4NzM2",
+        "city": "مصیری",
         "osm_id": "w1340363663",
+        "province": "استان فارس",
         "unofficial_name:fa": "اداره اطلاعات رستم",
         "publicId": "Mjo4NzM2",
         "sourceId": "8736",
@@ -2393,7 +2463,9 @@
       },
       "properties": {
         "id": "Mjo4NzMw",
+        "city": "شهرستان لامرد",
         "osm_id": "w1386543129",
+        "province": "استان فارس",
         "unofficial_name:fa": "اداره اطلاعات لامرد",
         "publicId": "Mjo4NzMw",
         "sourceId": "8730",
@@ -2447,7 +2519,9 @@
       },
       "properties": {
         "id": "Mjo4NzQ4",
+        "city": "مریوان",
         "osm_id": "n3058991229",
+        "province": "استان کردستان",
         "unofficial_name:fa": "اداره اطلاعات",
         "publicId": "Mjo4NzQ4",
         "sourceId": "8748",
@@ -2513,6 +2587,8 @@
       },
       "properties": {
         "id": "Mjo4NzA1",
+        "city": "اسلام آباد غرب",
+        "province": "استان کرمانشاه",
         "unofficial_name:fa": "اطلاعات",
         "publicId": "Mjo4NzA1",
         "sourceId": "8705",
@@ -2578,7 +2654,9 @@
       },
       "properties": {
         "id": "Mjo4NzIz",
+        "city": "پارس آباد",
         "osm_id": "r10878110",
+        "province": "استان اردبیل",
         "unofficial_name:fa": "اداره اطلاعات",
         "publicId": "Mjo4NzIz",
         "sourceId": "8723",
@@ -2708,6 +2786,8 @@
       },
       "properties": {
         "id": "Mjo4NzE3",
+        "city": "شهرک صدف",
+        "province": "استان خراسان رضوی",
         "unofficial_name:fa": "اطلاعات",
         "publicId": "Mjo4NzE3",
         "sourceId": "8717",
@@ -2761,7 +2841,9 @@
       },
       "properties": {
         "id": "Mjo4NzM1",
+        "city": "سمنان",
         "osm_id": "w854451970",
+        "province": "استان سمنان",
         "unofficial_name:fa": "اداره اطلاعات استان سمنان",
         "publicId": "Mjo4NzM1",
         "sourceId": "8735",
@@ -2827,7 +2909,9 @@
       },
       "properties": {
         "id": "Mjo4NzI5",
+        "city": "بندر کنگان",
         "osm_id": "w619428656",
+        "province": "استان بوشهر",
         "unofficial_name:fa": "اداره اطلاعات",
         "publicId": "Mjo4NzI5",
         "sourceId": "8729",
@@ -2909,7 +2993,9 @@
       },
       "properties": {
         "id": "Mjo4NzQ3",
+        "city": "گیلان غرب",
         "osm_id": "n4934694022",
+        "province": "استان کرمانشاه",
         "unofficial_name:fa": "اطلاعات",
         "publicId": "Mjo4NzQ3",
         "sourceId": "8747",
@@ -2955,6 +3041,8 @@
       },
       "properties": {
         "id": "Mjo4NzA0",
+        "city": "بروجرد",
+        "province": "استان لرستان",
         "unofficial_name:fa": "اطلاعات سپاه",
         "publicId": "Mjo4NzA0",
         "sourceId": "8704",
@@ -3016,6 +3104,8 @@
       },
       "properties": {
         "id": "Mjo4NzE2",
+        "city": "فردوس",
+        "province": "استان خراسان جنوبی",
         "unofficial_name:fa": "اطلاعات",
         "publicId": "Mjo4NzE2",
         "sourceId": "8716",
@@ -3101,7 +3191,9 @@
       },
       "properties": {
         "id": "Mjo4NzQy",
+        "city": "ایلام",
         "osm_id": "w318791507",
+        "province": "استان ایلام",
         "unofficial_name:fa": "اطلاعات استان ایلام",
         "publicId": "Mjo4NzQy",
         "sourceId": "8742",
@@ -3167,7 +3259,9 @@
       },
       "properties": {
         "id": "Mjo4NzI4",
+        "city": "سلماس",
         "osm_id": "w1105439276",
+        "province": "استان آذربایجان غربی",
         "unofficial_name:fa": "وزارت اطلاعات سلماس",
         "publicId": "Mjo4NzI4",
         "sourceId": "8728",
@@ -3213,6 +3307,8 @@
       },
       "properties": {
         "id": "Mjo4NzAz",
+        "city": "پلدختر",
+        "province": "استان لرستان",
         "unofficial_name:fa": "ستاد خبری وزارت اطلاعات",
         "publicId": "Mjo4NzAz",
         "sourceId": "8703",
@@ -3286,6 +3382,8 @@
       },
       "properties": {
         "id": "Mjo4NzE1",
+        "city": "مرودشت",
+        "province": "استان فارس",
         "unofficial_name:fa": "اداره اطلاعات مرودشت",
         "publicId": "Mjo4NzE1",
         "sourceId": "8715",
@@ -3343,7 +3441,9 @@
       },
       "properties": {
         "id": "Mjo4NzQx",
+        "city": "درگز",
         "osm_id": "w551266617",
+        "province": "استان خراسان رضوی",
         "unofficial_name:fa": "اطلاعات",
         "publicId": "Mjo4NzQx",
         "sourceId": "8741",
@@ -3441,7 +3541,9 @@
       },
       "properties": {
         "id": "Mjo4NzI3",
+        "city": "آمل",
         "osm_id": "w251332403",
+        "province": "استان مازندران",
         "unofficial_name:fa": "اداره اطلاعات آمل",
         "publicId": "Mjo4NzI3",
         "sourceId": "8727",
@@ -3466,6 +3568,8 @@
         ]
       },
       "properties": {
+        "city": "قم",
+        "province": "استان قم",
         "unofficial_name:fa": "خانه سازمانی فرماندهی‌های فراجا ",
         "id": "Mjo4NWY1NjFlMTFiNzc",
         "publicId": "Mjo4NWY1NjFlMTFiNzc",
@@ -3491,6 +3595,8 @@
         ]
       },
       "properties": {
+        "city": "زرند",
+        "province": "استان کرمان",
         "unofficial_name:fa": "اطلاعات زرند",
         "id": "MjphZDNkNGY2YjdmZTg",
         "publicId": "MjphZDNkNGY2YjdmZTg",
@@ -3800,8 +3906,10 @@
         ]
       },
       "properties": {
+        "city": "خوی",
         "date": 1772620970,
         "name:fa": "اطلاعات",
+        "province": "استان آذربایجان غربی",
         "id": "Mjo2N2MyODYxMGYzNDc",
         "publicId": "Mjo2N2MyODYxMGYzNDc",
         "sourceId": "67c28610f347",
@@ -3826,8 +3934,10 @@
         ]
       },
       "properties": {
+        "city": "تهران",
         "date": 1772548384,
         "name:fa": "امنیت",
+        "province": "استان تهران",
         "id": "MjpmNDgyNzBkNTNkNmQ",
         "publicId": "MjpmNDgyNzBkNTNkNmQ",
         "sourceId": "f48270d53d6d",
@@ -3852,8 +3962,10 @@
         ]
       },
       "properties": {
+        "city": "شاهرود",
         "date": 1772480029,
         "name:fa": "اطلاعات",
+        "province": "استان سمنان",
         "id": "Mjo4YzBmMTM2ZGU1YmI",
         "publicId": "Mjo4YzBmMTM2ZGU1YmI",
         "sourceId": "8c0f136de5bb",
@@ -3878,8 +3990,10 @@
         ]
       },
       "properties": {
+        "city": "تهران",
         "date": 1772212723,
         "name:fa": "امنیت",
+        "province": "استان تهران",
         "id": "Mjo1YTYyYjRmNzAzNjM",
         "publicId": "Mjo1YTYyYjRmNzAzNjM",
         "sourceId": "5a62b4f70363",
@@ -3904,8 +4018,10 @@
         ]
       },
       "properties": {
+        "city": "اصفهان",
         "date": 1772119710,
         "name:fa": "اطلاعات",
+        "province": "استان اصفهان",
         "id": "MjplOTlmMDlhYTZhODg",
         "publicId": "MjplOTlmMDlhYTZhODg",
         "sourceId": "e99f09aa6a88",
@@ -3930,8 +4046,10 @@
         ]
       },
       "properties": {
+        "city": "رباط کریم",
         "date": 1771649875,
         "name:fa": "اطلاعات",
+        "province": "استان تهران",
         "id": "MjozYWExMmIwYWIxOWE",
         "publicId": "MjozYWExMmIwYWIxOWE",
         "sourceId": "3aa12b0ab19a",
@@ -3956,8 +4074,10 @@
         ]
       },
       "properties": {
+        "city": "بهبهان",
         "date": 1771579020,
         "name:fa": "اطلاعات",
+        "province": "استان خوزستان",
         "id": "Mjo0MTNhNDIwYTUzZjY",
         "publicId": "Mjo0MTNhNDIwYTUzZjY",
         "sourceId": "413a420a53f6",
@@ -3982,8 +4102,10 @@
         ]
       },
       "properties": {
+        "city": "محلات",
         "date": 1771466074,
         "name:fa": "اطلاعات",
+        "province": "استان مرکزی",
         "id": "MjoyYWM0NTczMTIyODU",
         "publicId": "MjoyYWM0NTczMTIyODU",
         "sourceId": "2ac457312285",
@@ -10372,9 +10494,11 @@
         ]
       },
       "properties": {
-        "name:fa": "مقر اطلاعات",
-        "description": "اطلاعات مقر اطلاعات",
+        "city": "ارومیه",
         "date": 1775042620,
+        "name:fa": "مقر اطلاعات",
+        "province": "استان آذربایجان غربی",
+        "description": "اطلاعات مقر اطلاعات",
         "id": "MjpkYWEyODgwNzk2NzA",
         "publicId": "MjpkYWEyODgwNzk2NzA",
         "sourceId": "daa288079670",
@@ -10399,9 +10523,11 @@
         ]
       },
       "properties": {
-        "name:fa": "اطلاعات",
-        "description": "اطلاعات",
+        "city": "شهرستان خرمدره",
         "date": 1774986235,
+        "name:fa": "اطلاعات",
+        "province": "استان زنجان",
+        "description": "اطلاعات",
         "id": "MjozOWI4YTk3MWE5Y2U",
         "publicId": "MjozOWI4YTk3MWE5Y2U",
         "sourceId": "39b8a971a9ce",
@@ -10426,9 +10552,11 @@
         ]
       },
       "properties": {
-        "name:fa": "خانه سازمانی اطلاعات",
-        "description": "اطلاعات خانه س ا ز م ا ن ی",
+        "city": "ارومیه",
         "date": 1774985264,
+        "name:fa": "خانه سازمانی اطلاعات",
+        "province": "استان آذربایجان غربی",
+        "description": "اطلاعات خانه س ا ز م ا ن ی",
         "id": "MjpjOThkNGIxMTZlNzQ",
         "publicId": "MjpjOThkNGIxMTZlNzQ",
         "sourceId": "c98d4b116e74",
@@ -10453,8 +10581,10 @@
         ]
       },
       "properties": {
+        "city": "بروجرد",
         "date": 1774823483,
         "name:fa": "حفاظت اطلاعات",
+        "province": "استان لرستان",
         "description": "حفاظت اطلاعات بروجرد",
         "id": "Mjo5NmE1YmEyZmUwNDQ",
         "publicId": "Mjo5NmE1YmEyZmUwNDQ",
@@ -10480,9 +10610,11 @@
         ]
       },
       "properties": {
-        "name:fa": "اطلاعات",
-        "description": "اطلاعات",
+        "city": "سقز",
         "date": 1774663933,
+        "name:fa": "اطلاعات",
+        "province": "استان کردستان",
+        "description": "اطلاعات",
         "id": "Mjo3NGZiMWJkNjkzY2M",
         "publicId": "Mjo3NGZiMWJkNjkzY2M",
         "sourceId": "74fb1bd693cc",
@@ -10507,8 +10639,10 @@
         ]
       },
       "properties": {
+        "city": "بندردیلم",
         "date": 1774653642,
         "name:fa": "اطلاعات بندر",
+        "province": "استان بوشهر",
         "description": "اداره اطلاعات بندر دیلم",
         "id": "MjpkMGVlNDkyZDUzM2Q",
         "publicId": "MjpkMGVlNDkyZDUzM2Q",
@@ -10534,9 +10668,11 @@
         ]
       },
       "properties": {
-        "name:fa": "اطلاعات سپاه",
-        "description": "اطلاعات سپاه پاسداران",
+        "city": "ارومیه",
         "date": 1774985108,
+        "name:fa": "اطلاعات سپاه",
+        "province": "استان آذربایجان غربی",
+        "description": "اطلاعات سپاه پاسداران",
         "id": "MjplODFkMDIzOWJkOTE",
         "publicId": "MjplODFkMDIzOWJkOTE",
         "sourceId": "e81d0239bd91",
@@ -11806,10 +11942,39 @@
         "createdAt": "2026-07-24T23:43:38.935Z",
         "updatedAt": "2026-07-24T23:43:38.935Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94065,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.26448776272437,
+          36.23356746587349
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه",
+        "description": "اطلاعات سپاه",
+        "date": 1785018572,
+        "city": "سقز",
+        "province": "استان کردستان",
+        "id": "Mjo4Y2NmNzRmN2UwOTU",
+        "publicId": "Mjo4Y2NmNzRmN2UwOTU",
+        "sourceId": "8ccf74f7e095",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-26T02:33:25.540Z",
+        "updatedAt": "2026-07-26T02:33:25.540Z"
+      }
     }
   ],
   "metadata": {
-    "total": 340,
+    "total": 341,
     "layerId": 2,
     "clustered": false,
     "simplified": false

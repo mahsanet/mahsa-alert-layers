@@ -33,6 +33,8 @@
       },
       "properties": {
         "id": "MTA6MTcxNg",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTcxNg",
         "sourceId": "1716",
         "layerId": 10,
@@ -149,6 +151,8 @@
       },
       "properties": {
         "id": "MTA6MTg2OA",
+        "city": "شهرستان اراک",
+        "province": "استان مرکزی",
         "publicId": "MTA6MTg2OA",
         "sourceId": "1868",
         "layerId": 10,
@@ -201,6 +205,8 @@
       },
       "properties": {
         "id": "MTA6MTc0OQ",
+        "city": "شهرستان فیروزآباد",
+        "province": "استان فارس",
         "publicId": "MTA6MTc0OQ",
         "sourceId": "1749",
         "layerId": 10,
@@ -657,8 +663,10 @@
       },
       "properties": {
         "id": "MTA6MTc3Mw",
-        "name:fa": "فرودگاه بین‌المللی بوشهر",
+        "city": "بوشهر",
         "name:en": "Bushehr international Airport",
+        "name:fa": "فرودگاه بین‌المللی بوشهر",
+        "province": "استان بوشهر",
         "publicId": "MTA6MTc3Mw",
         "sourceId": "1773",
         "layerId": 10,
@@ -719,6 +727,8 @@
       },
       "properties": {
         "id": "MTA6MTgwNg",
+        "city": "شهرستان شادگان",
+        "province": "استان خوزستان",
         "publicId": "MTA6MTgwNg",
         "sourceId": "1806",
         "layerId": 10,
@@ -863,6 +873,8 @@
       },
       "properties": {
         "id": "MTA6MTg1Mw",
+        "city": "شهرستان سبزوار",
+        "province": "استان خراسان رضوی",
         "publicId": "MTA6MTg1Mw",
         "sourceId": "1853",
         "layerId": 10,
@@ -915,6 +927,8 @@
       },
       "properties": {
         "id": "MTA6MTczNA",
+        "city": "شهرستان زرین‌دشت",
+        "province": "استان فارس",
         "publicId": "MTA6MTczNA",
         "sourceId": "1734",
         "layerId": 10,
@@ -1071,6 +1085,8 @@
       },
       "properties": {
         "id": "MTA6MTg4Ng",
+        "city": "شهرستان ملارد",
+        "province": "استان تهران",
         "publicId": "MTA6MTg4Ng",
         "sourceId": "1886",
         "layerId": 10,
@@ -1123,6 +1139,8 @@
       },
       "properties": {
         "id": "MTA6MTc2Nw",
+        "city": "شهرستان دشتستان",
+        "province": "استان بوشهر",
         "publicId": "MTA6MTc2Nw",
         "sourceId": "1767",
         "layerId": 10,
@@ -1183,6 +1201,8 @@
       },
       "properties": {
         "id": "MTA6MTc5MQ",
+        "city": "شهرستان رستم",
+        "province": "استان فارس",
         "publicId": "MTA6MTc5MQ",
         "sourceId": "1791",
         "layerId": 10,
@@ -1299,6 +1319,8 @@
       },
       "properties": {
         "id": "MTA6MTgyNA",
+        "city": "شهرستان پارس‌آباد",
+        "province": "استان اردبیل",
         "publicId": "MTA6MTgyNA",
         "sourceId": "1824",
         "layerId": 10,
@@ -1383,6 +1405,8 @@
       },
       "properties": {
         "id": "MTA6MTkwMg",
+        "city": "شهرستان فامنین",
+        "province": "استان همدان",
         "publicId": "MTA6MTkwMg",
         "sourceId": "1902",
         "layerId": 10,
@@ -1435,6 +1459,8 @@
       },
       "properties": {
         "id": "MTA6MTcwNQ",
+        "city": "شهرستان نیک‌شهر",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "MTA6MTcwNQ",
         "sourceId": "1705",
         "layerId": 10,
@@ -1511,6 +1537,8 @@
       },
       "properties": {
         "id": "MTA6MTg0MA",
+        "city": "شهرستان اسلام آبادغرب",
+        "province": "استان کرمانشاه",
         "publicId": "MTA6MTg0MA",
         "sourceId": "1840",
         "layerId": 10,
@@ -1583,6 +1611,8 @@
       },
       "properties": {
         "id": "MTA6MTcyMQ",
+        "city": "شهرستان پارسیان",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTcyMQ",
         "sourceId": "1721",
         "layerId": 10,
@@ -1651,6 +1681,8 @@
       },
       "properties": {
         "id": "MTA6MTg3Mw",
+        "city": "شهرستان ساوه",
+        "province": "استان مرکزی",
         "publicId": "MTA6MTg3Mw",
         "sourceId": "1873",
         "layerId": 10,
@@ -1719,6 +1751,8 @@
       },
       "properties": {
         "id": "MTA6MTc1NA",
+        "city": "شهرستان جاسک",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTc1NA",
         "sourceId": "1754",
         "layerId": 10,
@@ -1819,6 +1853,8 @@
       },
       "properties": {
         "id": "MTA6MTc3OA",
+        "city": "گچساران",
+        "province": "استان کهگیلویه و بویراحمد",
         "publicId": "MTA6MTc3OA",
         "sourceId": "1778",
         "layerId": 10,
@@ -2351,8 +2387,10 @@
       },
       "properties": {
         "id": "MTA6MTgxMQ",
-        "name:fa": "فرودگاه شهید آسیایی",
+        "city": "مسجد سليمان",
         "name:en": "Shahid Asyaee Airport",
+        "name:fa": "فرودگاه شهید آسیایی",
+        "province": "استان خوزستان",
         "publicId": "MTA6MTgxMQ",
         "sourceId": "1811",
         "layerId": 10,
@@ -2477,6 +2515,8 @@
       },
       "properties": {
         "id": "MTA6MTg1OA",
+        "city": "شهرستان میامی",
+        "province": "استان سمنان",
         "publicId": "MTA6MTg1OA",
         "sourceId": "1858",
         "layerId": 10,
@@ -2577,7 +2617,9 @@
       },
       "properties": {
         "id": "MTA6MTczOQ",
+        "city": "جهرم",
         "name:fa": "فرودگاه جهرم",
+        "province": "استان فارس",
         "publicId": "MTA6MTczOQ",
         "sourceId": "1739",
         "layerId": 10,
@@ -2650,6 +2692,8 @@
       },
       "properties": {
         "id": "MTA6MTg5MQ",
+        "city": "شهرستان شهریار",
+        "province": "استان تهران",
         "publicId": "MTA6MTg5MQ",
         "sourceId": "1891",
         "layerId": 10,
@@ -2750,6 +2794,8 @@
       },
       "properties": {
         "id": "MTA6MTc1Ng",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTc1Ng",
         "sourceId": "1756",
         "layerId": 10,
@@ -2870,7 +2916,9 @@
       },
       "properties": {
         "id": "MTA6MTg3Ng",
+        "city": "بیشه‌کلا",
         "name:fa": "پایگاه هوایی بیشه کلاه",
+        "province": "استان مازندران",
         "publicId": "MTA6MTg3Ng",
         "sourceId": "1876",
         "layerId": 10,
@@ -2931,6 +2979,8 @@
       },
       "properties": {
         "id": "MTA6MTc4MQ",
+        "city": "شهرستان مرودشت",
+        "province": "استان فارس",
         "publicId": "MTA6MTc4MQ",
         "sourceId": "1781",
         "layerId": 10,
@@ -3027,6 +3077,8 @@
       },
       "properties": {
         "id": "MTA6MTgxNA",
+        "city": "هزارانی",
+        "province": "استان ایلام",
         "publicId": "MTA6MTgxNA",
         "sourceId": "1814",
         "layerId": 10,
@@ -3087,6 +3139,8 @@
       },
       "properties": {
         "id": "MTA6MTg2MQ",
+        "city": "مهترکلاته",
+        "province": "استان گلستان",
         "publicId": "MTA6MTg2MQ",
         "sourceId": "1861",
         "layerId": 10,
@@ -3139,6 +3193,8 @@
       },
       "properties": {
         "id": "MTA6MTcxMA",
+        "city": "شهرستان رودان",
+        "province": "استان هرمزگان",
         "unofficial_name:fa": "فرودگاه کشاورزی برنطین",
         "publicId": "MTA6MTcxMA",
         "sourceId": "1710",
@@ -3220,6 +3276,8 @@
       },
       "properties": {
         "id": "MTA6MTg5NA",
+        "city": "شهرستان سراوان",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "MTA6MTg5NA",
         "sourceId": "1894",
         "layerId": 10,
@@ -3288,6 +3346,8 @@
       },
       "properties": {
         "id": "MTA6MTc0Mw",
+        "city": "شهرستان جهرم",
+        "province": "استان فارس",
         "publicId": "MTA6MTc0Mw",
         "sourceId": "1743",
         "layerId": 10,
@@ -3340,6 +3400,8 @@
       },
       "properties": {
         "id": "MTA6MTc5OQ",
+        "city": "شهرستان برخوار",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTc5OQ",
         "sourceId": "1799",
         "layerId": 10,
@@ -3448,6 +3510,8 @@
       },
       "properties": {
         "id": "MTA6MTgzMg",
+        "city": "کلانشهر رشت",
+        "province": "استان گیلان",
         "publicId": "MTA6MTgzMg",
         "sourceId": "1832",
         "layerId": 10,
@@ -3564,7 +3628,9 @@
       },
       "properties": {
         "id": "MTA6MTcyOA",
+        "city": "شهرستان کرمان",
         "name:fa": "فرودگاه افشید",
+        "province": "استان کرمان",
         "publicId": "MTA6MTcyOA",
         "sourceId": "1728",
         "layerId": 10,
@@ -3917,8 +3983,10 @@
       },
       "properties": {
         "id": "MTA6MTg0OA",
-        "name:fa": "فرودگاه بین‌المللی شهید هاشمی‌نژاد مشهد",
+        "city": "مشهد",
         "name:en": "Mashhad International Airport",
+        "name:fa": "فرودگاه بین‌المللی شهید هاشمی‌نژاد مشهد",
+        "province": "استان خراسان رضوی",
         "publicId": "MTA6MTg0OA",
         "sourceId": "1848",
         "layerId": 10,
@@ -4023,7 +4091,9 @@
       },
       "properties": {
         "id": "MTA6MTc2MQ",
+        "city": "سیری",
         "name:fa": "فرودگاه سیری",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTc2MQ",
         "sourceId": "1761",
         "layerId": 10,
@@ -4084,6 +4154,8 @@
       },
       "properties": {
         "id": "MTA6MTg4MQ",
+        "city": "شهرستان گرمسار",
+        "province": "استان سمنان",
         "publicId": "MTA6MTg4MQ",
         "sourceId": "1881",
         "layerId": 10,
@@ -4136,6 +4208,8 @@
       },
       "properties": {
         "id": "MTA6MTc4Ng",
+        "city": "شهرستان دیلم",
+        "province": "استان بوشهر",
         "publicId": "MTA6MTc4Ng",
         "sourceId": "1786",
         "layerId": 10,
@@ -4324,6 +4398,8 @@
       },
       "properties": {
         "id": "MTA6MTgxOQ",
+        "city": "شهرستان طبس",
+        "province": "استان خراسان جنوبی",
         "publicId": "MTA6MTgxOQ",
         "sourceId": "1819",
         "layerId": 10,
@@ -4376,6 +4452,8 @@
       },
       "properties": {
         "id": "MTA6MTg2Ng",
+        "city": "شهرستان گلپایگان",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTg2Ng",
         "sourceId": "1866",
         "layerId": 10,
@@ -4516,6 +4594,8 @@
       },
       "properties": {
         "id": "MTA6MTcxNQ",
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTcxNQ",
         "sourceId": "1715",
         "layerId": 10,
@@ -4576,6 +4656,8 @@
       },
       "properties": {
         "id": "MTA6MTg5OQ",
+        "city": "كيش",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTg5OQ",
         "sourceId": "1899",
         "layerId": 10,
@@ -4712,7 +4794,9 @@
       },
       "properties": {
         "id": "MTA6MTc2NA",
+        "city": "شهرستان بندر لنگه",
         "name:fa": "فرودگاه هندورابی",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTc2NA",
         "sourceId": "1764",
         "layerId": 10,
@@ -4793,6 +4877,8 @@
       },
       "properties": {
         "id": "MTA6MTc4OA",
+        "city": "شهرستان اقلید",
+        "province": "استان فارس",
         "publicId": "MTA6MTc4OA",
         "sourceId": "1788",
         "layerId": 10,
@@ -4957,6 +5043,8 @@
       },
       "properties": {
         "id": "MTA6MTgyMQ",
+        "city": "شهرستان ایلام",
+        "province": "استان ایلام",
         "publicId": "MTA6MTgyMQ",
         "sourceId": "1821",
         "layerId": 10,
@@ -5033,6 +5121,8 @@
       },
       "properties": {
         "id": "MTA6MTcwMg",
+        "city": "شهرستان چابهار",
+        "province": "استان سیستان و بلوچستان",
         "unofficial_name:fa": "فرودگاه چابهار",
         "publicId": "MTA6MTcwMg",
         "sourceId": "1702",
@@ -5086,6 +5176,8 @@
       },
       "properties": {
         "id": "MTA6MTgzNw",
+        "city": "شهرستان بوئین‌زهرا",
+        "province": "استان قزوین",
         "publicId": "MTA6MTgzNw",
         "sourceId": "1837",
         "layerId": 10,
@@ -5142,6 +5234,8 @@
       },
       "properties": {
         "id": "MTA6MTcxOA",
+        "city": "گهکم",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTcxOA",
         "sourceId": "1718",
         "layerId": 10,
@@ -5326,6 +5420,8 @@
       },
       "properties": {
         "id": "MTA6MTg3MA",
+        "city": "شهرستان قم",
+        "province": "استان قم",
         "publicId": "MTA6MTg3MA",
         "sourceId": "1870",
         "layerId": 10,
@@ -5386,6 +5482,8 @@
       },
       "properties": {
         "id": "MTA6MTc1MQ",
+        "city": "شهرستان خرامه",
+        "province": "استان فارس",
         "publicId": "MTA6MTc1MQ",
         "sourceId": "1751",
         "layerId": 10,
@@ -5538,6 +5636,8 @@
       },
       "properties": {
         "id": "MTA6MTc3NQ",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
         "publicId": "MTA6MTc3NQ",
         "sourceId": "1775",
         "layerId": 10,
@@ -5590,6 +5690,8 @@
       },
       "properties": {
         "id": "MTA6MTgwOA",
+        "city": "شهرستان اهواز",
+        "province": "استان خوزستان",
         "publicId": "MTA6MTgwOA",
         "sourceId": "1808",
         "layerId": 10,
@@ -5686,6 +5788,8 @@
       },
       "properties": {
         "id": "MTA6MTg1NQ",
+        "city": "شهرستان جاجرم",
+        "province": "استان خراسان شمالی",
         "publicId": "MTA6MTg1NQ",
         "sourceId": "1855",
         "layerId": 10,
@@ -5758,6 +5862,8 @@
       },
       "properties": {
         "id": "MTA6MTczNg",
+        "city": "حسین‌آباد",
+        "province": "استان فارس",
         "publicId": "MTA6MTczNg",
         "sourceId": "1736",
         "layerId": 10,
@@ -5906,6 +6012,8 @@
       },
       "properties": {
         "id": "MTA6MTg4OA",
+        "city": "فیروزآباد",
+        "province": "استان تهران",
         "publicId": "MTA6MTg4OA",
         "sourceId": "1888",
         "layerId": 10,
@@ -5962,6 +6070,8 @@
       },
       "properties": {
         "id": "MTA6MTc2OQ",
+        "city": "شهرستان میبد",
+        "province": "استان یزد",
         "publicId": "MTA6MTc2OQ",
         "sourceId": "1769",
         "layerId": 10,
@@ -6014,6 +6124,8 @@
       },
       "properties": {
         "id": "MTA6MTc5Mw",
+        "city": "شهرستان اصفهان",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTc5Mw",
         "sourceId": "1793",
         "layerId": 10,
@@ -6274,6 +6386,8 @@
       },
       "properties": {
         "id": "MTA6MTgyNg",
+        "city": "شهرستان ارومیه",
+        "province": "استان آذربایجان غربی",
         "publicId": "MTA6MTgyNg",
         "sourceId": "1826",
         "layerId": 10,
@@ -6386,7 +6500,9 @@
       },
       "properties": {
         "id": "MTA6MTcwNw",
+        "city": "شهرستان ایرانشهر",
         "name:fa": "فرودگاه ایرانشهر",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "MTA6MTcwNw",
         "sourceId": "1707",
         "layerId": 10,
@@ -6639,8 +6755,10 @@
       },
       "properties": {
         "id": "MTA6MTg0Mg",
-        "name:fa": "فرودگاه شهید اشرفی اصفهانی",
+        "city": "کرمانشاه",
         "name:en": "Shahid Ashrafi Esfahani Airport",
+        "name:fa": "فرودگاه شهید اشرفی اصفهانی",
+        "province": "استان کرمانشاه",
         "publicId": "MTA6MTg0Mg",
         "sourceId": "1842",
         "layerId": 10,
@@ -6697,6 +6815,8 @@
       },
       "properties": {
         "id": "MTA6MTcyMw",
+        "city": "شهرستان لارستان",
+        "province": "استان فارس",
         "publicId": "MTA6MTcyMw",
         "sourceId": "1723",
         "layerId": 10,
@@ -6757,6 +6877,8 @@
       },
       "properties": {
         "id": "MTA6MTg3NQ",
+        "city": "شهرستان آشتیان",
+        "province": "استان مرکزی",
         "publicId": "MTA6MTg3NQ",
         "sourceId": "1875",
         "layerId": 10,
@@ -6809,6 +6931,8 @@
       },
       "properties": {
         "id": "MTA6MTc0MA",
+        "city": "قیروکارزین",
+        "province": "استان فارس",
         "publicId": "MTA6MTc0MA",
         "sourceId": "1740",
         "layerId": 10,
@@ -6893,6 +7017,8 @@
       },
       "properties": {
         "id": "MTA6MTc5Ng",
+        "city": "شهرستان اصفهان",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTc5Ng",
         "sourceId": "1796",
         "layerId": 10,
@@ -7089,6 +7215,8 @@
       },
       "properties": {
         "id": "MTA6MTgyOQ",
+        "city": "بناب",
+        "province": "استان آذربایجان شرقی",
         "publicId": "MTA6MTgyOQ",
         "sourceId": "1829",
         "layerId": 10,
@@ -7229,7 +7357,9 @@
       },
       "properties": {
         "id": "MTA6MTcyNQ",
+        "city": "شهرستان عسلویه",
         "name:fa": "فرودگاه خلیج‌فارس عسلویه",
+        "province": "استان بوشهر",
         "publicId": "MTA6MTcyNQ",
         "sourceId": "1725",
         "layerId": 10,
@@ -7534,6 +7664,8 @@
       },
       "properties": {
         "id": "MTA6MTg0NQ",
+        "city": "خرم آباد",
+        "province": "استان لرستان",
         "publicId": "MTA6MTg0NQ",
         "sourceId": "1845",
         "layerId": 10,
@@ -7715,6 +7847,8 @@
       },
       "properties": {
         "id": "MTA6MTg3OA",
+        "city": "شهرستان ورامین",
+        "province": "استان تهران",
         "publicId": "MTA6MTg3OA",
         "sourceId": "1878",
         "layerId": 10,
@@ -7791,6 +7925,8 @@
       },
       "properties": {
         "id": "MTA6MTc4Mw",
+        "city": "شهرستان کازرون",
+        "province": "استان فارس",
         "publicId": "MTA6MTc4Mw",
         "sourceId": "1783",
         "layerId": 10,
@@ -8039,6 +8175,8 @@
       },
       "properties": {
         "id": "MTA6MTgxNg",
+        "city": "شهرستان خوسف",
+        "province": "استان خراسان جنوبی",
         "publicId": "MTA6MTgxNg",
         "sourceId": "1816",
         "layerId": 10,
@@ -8187,6 +8325,8 @@
       },
       "properties": {
         "id": "MTA6MTg2Mw",
+        "city": "شهرستان میاندورود",
+        "province": "استان مازندران",
         "publicId": "MTA6MTg2Mw",
         "sourceId": "1863",
         "layerId": 10,
@@ -8383,7 +8523,9 @@
       },
       "properties": {
         "id": "MTA6MTcxMg",
+        "city": "شهرستان جیرفت",
         "name:fa": "فرودگاه جیرفت",
+        "province": "استان کرمان",
         "publicId": "MTA6MTcxMg",
         "sourceId": "1712",
         "layerId": 10,
@@ -8460,6 +8602,8 @@
       },
       "properties": {
         "id": "MTA6MTg5Ng",
+        "city": "نمك آبرود",
+        "province": "استان مازندران",
         "publicId": "MTA6MTg5Ng",
         "sourceId": "1896",
         "layerId": 10,
@@ -8516,6 +8660,8 @@
       },
       "properties": {
         "id": "MTA6MTc0NQ",
+        "city": "شهرستان فراشبند",
+        "province": "استان فارس",
         "publicId": "MTA6MTc0NQ",
         "sourceId": "1745",
         "layerId": 10,
@@ -8588,6 +8734,8 @@
       },
       "properties": {
         "id": "MTA6MTgwMQ",
+        "city": "شهرستان نجف آباد",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTgwMQ",
         "sourceId": "1801",
         "layerId": 10,
@@ -8724,6 +8872,8 @@
       },
       "properties": {
         "id": "MTA6MTgzNA",
+        "city": "رامسر",
+        "province": "استان مازندران",
         "publicId": "MTA6MTgzNA",
         "sourceId": "1834",
         "layerId": 10,
@@ -8892,7 +9042,9 @@
       },
       "properties": {
         "id": "MTA6MTczMA",
+        "city": "شهرستان سیرجان",
         "name:fa": "فرودگاه سیرجان",
+        "province": "استان کرمان",
         "publicId": "MTA6MTczMA",
         "sourceId": "1730",
         "layerId": 10,
@@ -8969,6 +9121,8 @@
       },
       "properties": {
         "id": "MTA6MTg1MA",
+        "city": "شهرستان کاشمر",
+        "province": "استان خراسان رضوی",
         "publicId": "MTA6MTg1MA",
         "sourceId": "1850",
         "layerId": 10,
@@ -9249,8 +9403,10 @@
       },
       "properties": {
         "id": "MTA6MTc2Mw",
-        "name:fa": "فرودگاه بین‌المللی کیش",
+        "city": "كيش",
         "name:en": "Kish International Airport",
+        "name:fa": "فرودگاه بین‌المللی کیش",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTc2Mw",
         "sourceId": "1763",
         "layerId": 10,
@@ -9331,6 +9487,8 @@
       },
       "properties": {
         "id": "MTA6MTg4Mw",
+        "city": "شهرستان کرج",
+        "province": "استان البرز",
         "publicId": "MTA6MTg4Mw",
         "sourceId": "1883",
         "layerId": 10,
@@ -9391,6 +9549,8 @@
       },
       "properties": {
         "id": "MTA6MTc0OA",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTc0OA",
         "sourceId": "1748",
         "layerId": 10,
@@ -9475,6 +9635,8 @@
       },
       "properties": {
         "id": "MTA6MTc3Mg",
+        "city": "شهرستان کازرون",
+        "province": "استان فارس",
         "publicId": "MTA6MTc3Mg",
         "sourceId": "1772",
         "layerId": 10,
@@ -9655,6 +9817,8 @@
       },
       "properties": {
         "id": "MTA6MTgwNQ",
+        "city": "شهرستان بندر ماهشهر",
+        "province": "استان خوزستان",
         "publicId": "MTA6MTgwNQ",
         "sourceId": "1805",
         "layerId": 10,
@@ -9735,6 +9899,8 @@
       },
       "properties": {
         "id": "MTA6MTg1Mg",
+        "city": "شهرستان گناباد",
+        "province": "استان خراسان رضوی",
         "publicId": "MTA6MTg1Mg",
         "sourceId": "1852",
         "layerId": 10,
@@ -9939,9 +10105,11 @@
       },
       "properties": {
         "id": "MTA6MTczMw",
+        "city": "بندر جاسک",
+        "name:en": "Jask Airport",
         "name:fa": "فرودگاه جاسک",
         "operator": "Artesh",
-        "name:en": "Jask Airport",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTczMw",
         "sourceId": "1733",
         "layerId": 10,
@@ -10046,6 +10214,8 @@
       },
       "properties": {
         "id": "MTA6MTg4NQ",
+        "city": "شهرستان کرج",
+        "province": "استان البرز",
         "publicId": "MTA6MTg4NQ",
         "sourceId": "1885",
         "layerId": 10,
@@ -10294,8 +10464,10 @@
       },
       "properties": {
         "id": "MTA6MTc2Ng",
-        "name:fa": "فرودگاه بین‌المللی بندرعباس",
+        "city": "بندر عباس",
         "name:en": "Bandar Abbas International Airport",
+        "name:fa": "فرودگاه بین‌المللی بندرعباس",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTc2Ng",
         "sourceId": "1766",
         "layerId": 10,
@@ -10364,6 +10536,8 @@
       },
       "properties": {
         "id": "MTA6MTc5MA",
+        "city": "شهرستان اصفهان",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTc5MA",
         "sourceId": "1790",
         "layerId": 10,
@@ -10520,6 +10694,8 @@
       },
       "properties": {
         "id": "MTA6MTgyMw",
+        "city": "شهرستان خوی",
+        "province": "استان آذربایجان غربی",
         "publicId": "MTA6MTgyMw",
         "sourceId": "1823",
         "layerId": 10,
@@ -10572,6 +10748,8 @@
       },
       "properties": {
         "id": "MTA6MTkwMQ",
+        "city": "شهرستان پلدشت",
+        "province": "استان آذربایجان غربی",
         "publicId": "MTA6MTkwMQ",
         "sourceId": "1901",
         "layerId": 10,
@@ -10624,6 +10802,8 @@
       },
       "properties": {
         "id": "MTA6MTcwNA",
+        "city": "شهرستان سرباز",
+        "province": "استان سیستان و بلوچستان",
         "unofficial_name:fa": "فرودگاه جکیگور",
         "publicId": "MTA6MTcwNA",
         "sourceId": "1704",
@@ -10669,6 +10849,8 @@
       },
       "properties": {
         "id": "MTA6MTgzOQ",
+        "city": "شهرستان گیلانغرب",
+        "province": "استان کرمانشاه",
         "publicId": "MTA6MTgzOQ",
         "sourceId": "1839",
         "layerId": 10,
@@ -10813,7 +10995,9 @@
       },
       "properties": {
         "id": "MTA6MTcyMA",
+        "city": "شهرستان حاجی‌آباد",
         "name:fa": "پایگاه هوایی عقاب ۴۴",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTcyMA",
         "sourceId": "1720",
         "layerId": 10,
@@ -11050,8 +11234,10 @@
       },
       "properties": {
         "id": "MTA6MTg3Mg",
-        "name:fa": "پایگاه کوشک نصرت",
+        "city": "شهرستان قم",
         "name:en": "Manzarieh Airfield",
+        "name:fa": "پایگاه کوشک نصرت",
+        "province": "استان قم",
         "publicId": "MTA6MTg3Mg",
         "sourceId": "1872",
         "layerId": 10,
@@ -11112,6 +11298,8 @@
       },
       "properties": {
         "id": "MTA6MTc1Mw",
+        "city": "شهرستان مهریز",
+        "province": "استان یزد",
         "publicId": "MTA6MTc1Mw",
         "sourceId": "1753",
         "layerId": 10,
@@ -11268,7 +11456,9 @@
       },
       "properties": {
         "id": "MTA6MTc3Nw",
+        "city": "خارک",
         "name:fa": "فرودگاه خارگ",
+        "province": "استان بوشهر",
         "publicId": "MTA6MTc3Nw",
         "sourceId": "1777",
         "layerId": 10,
@@ -11341,6 +11531,8 @@
       },
       "properties": {
         "id": "MTA6MTgxMA",
+        "city": "شهرستان اهواز",
+        "province": "استان خوزستان",
         "publicId": "MTA6MTgxMA",
         "sourceId": "1810",
         "layerId": 10,
@@ -11393,6 +11585,8 @@
       },
       "properties": {
         "id": "MTA6MTg1Nw",
+        "city": "شهرستان گنبد کاووس",
+        "province": "استان گلستان",
         "publicId": "MTA6MTg1Nw",
         "sourceId": "1857",
         "layerId": 10,
@@ -11445,6 +11639,8 @@
       },
       "properties": {
         "id": "MTA6MTczOA",
+        "city": "شهرستان استهبان",
+        "province": "استان فارس",
         "publicId": "MTA6MTczOA",
         "sourceId": "1738",
         "layerId": 10,
@@ -11597,6 +11793,8 @@
       },
       "properties": {
         "id": "MTA6MTg5MA",
+        "city": "تهران",
+        "province": "استان تهران",
         "publicId": "MTA6MTg5MA",
         "sourceId": "1890",
         "layerId": 10,
@@ -11921,8 +12119,10 @@
       },
       "properties": {
         "id": "MTA6MTc3MQ",
-        "name:fa": "فرودگاه بین‌المللی شهید دستغیب شیراز",
+        "city": "شیراز",
         "name:en": "Shiraz International Airport",
+        "name:fa": "فرودگاه بین‌المللی شهید دستغیب شیراز",
+        "province": "استان فارس",
         "publicId": "MTA6MTc3MQ",
         "sourceId": "1771",
         "layerId": 10,
@@ -12007,6 +12207,8 @@
       },
       "properties": {
         "id": "MTA6MTc5NQ",
+        "city": "شهرستان شهرضا",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTc5NQ",
         "sourceId": "1795",
         "layerId": 10,
@@ -12067,6 +12269,8 @@
       },
       "properties": {
         "id": "MTA6MTc4MA",
+        "city": "شهرستان شیراز",
+        "province": "استان فارس",
         "publicId": "MTA6MTc4MA",
         "sourceId": "1780",
         "layerId": 10,
@@ -12443,8 +12647,10 @@
       },
       "properties": {
         "id": "MTA6MTgxMw",
-        "name:fa": "پایگاه چهارم شکاری شهید وحدتی",
+        "city": "دزفول",
         "name:en": "Vahdati Air Base",
+        "name:fa": "پایگاه چهارم شکاری شهید وحدتی",
+        "province": "استان خوزستان",
         "publicId": "MTA6MTgxMw",
         "sourceId": "1813",
         "layerId": 10,
@@ -12585,6 +12791,8 @@
       },
       "properties": {
         "id": "MTA6MTg2MA",
+        "city": "شهرستان گرگان",
+        "province": "استان گلستان",
         "publicId": "MTA6MTg2MA",
         "sourceId": "1860",
         "layerId": 10,
@@ -12653,6 +12861,8 @@
       },
       "properties": {
         "id": "MTA6MTcwOQ",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTcwOQ",
         "sourceId": "1709",
         "layerId": 10,
@@ -12937,6 +13147,8 @@
       },
       "properties": {
         "id": "MTA6MTg5Mw",
+        "city": "شهرستان ری",
+        "province": "استان تهران",
         "publicId": "MTA6MTg5Mw",
         "sourceId": "1893",
         "layerId": 10,
@@ -12989,6 +13201,8 @@
       },
       "properties": {
         "id": "MTA6MTc0Mg",
+        "city": "شهرستان جهرم",
+        "province": "استان فارس",
         "publicId": "MTA6MTc0Mg",
         "sourceId": "1742",
         "layerId": 10,
@@ -13201,8 +13415,10 @@
       },
       "properties": {
         "id": "MTA6MTc5OA",
-        "name:fa": "فرودگاه هسا",
+        "city": "شهرستان شاهین‌شهر و میمه",
         "name:en": "Hesa Airport",
+        "name:fa": "فرودگاه هسا",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTc5OA",
         "sourceId": "1798",
         "layerId": 10,
@@ -13367,6 +13583,8 @@
       },
       "properties": {
         "id": "MTA6MTgzMQ",
+        "city": "رشت",
+        "province": "استان گیلان",
         "publicId": "MTA6MTgzMQ",
         "sourceId": "1831",
         "layerId": 10,
@@ -13455,7 +13673,9 @@
       },
       "properties": {
         "id": "MTA6MTcyNw",
+        "city": "جم",
         "name:fa": "فرودگاه جم",
+        "province": "استان بوشهر",
         "publicId": "MTA6MTcyNw",
         "sourceId": "1727",
         "layerId": 10,
@@ -13728,6 +13948,8 @@
       },
       "properties": {
         "id": "MTA6MTg0Nw",
+        "city": "بجنورد",
+        "province": "استان خراسان شمالی",
         "publicId": "MTA6MTg0Nw",
         "sourceId": "1847",
         "layerId": 10,
@@ -13916,6 +14138,7 @@
       },
       "properties": {
         "id": "MTA6MTc2MA",
+        "city": "ابوموسی",
         "name:fa": "فرودگاه بوموسی",
         "publicId": "MTA6MTc2MA",
         "sourceId": "1760",
@@ -13981,6 +14204,8 @@
       },
       "properties": {
         "id": "MTA6MTg4MA",
+        "city": "شهرستان آرادان",
+        "province": "استان سمنان",
         "publicId": "MTA6MTg4MA",
         "sourceId": "1880",
         "layerId": 10,
@@ -14041,6 +14266,8 @@
       },
       "properties": {
         "id": "MTA6MTc4NQ",
+        "city": "جاری آباد",
+        "province": "استان فارس",
         "publicId": "MTA6MTc4NQ",
         "sourceId": "1785",
         "layerId": 10,
@@ -14293,8 +14520,10 @@
       },
       "properties": {
         "id": "MTA6MTgxOA",
-        "name:fa": "فرودگاه بین‌المللی شهید کاوه بیرجند",
+        "city": "بيرجند",
         "name:en": "Birjand International Airport",
+        "name:fa": "فرودگاه بین‌المللی شهید کاوه بیرجند",
+        "province": "استان خراسان جنوبی",
         "publicId": "MTA6MTgxOA",
         "sourceId": "1818",
         "layerId": 10,
@@ -14415,8 +14644,10 @@
       },
       "properties": {
         "id": "MTA6MTg2NQ",
-        "name:fa": "فرودگاه کاشان",
+        "city": "شهرستان کاشان",
         "name:en": "Kashan Airport",
+        "name:fa": "فرودگاه کاشان",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTg2NQ",
         "sourceId": "1865",
         "layerId": 10,
@@ -14545,7 +14776,9 @@
       },
       "properties": {
         "id": "MTA6MTcxNA",
+        "city": "شهرستان زابل",
         "name:fa": "فرودگاه زابل",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "MTA6MTcxNA",
         "sourceId": "1714",
         "layerId": 10,
@@ -14606,6 +14839,8 @@
       },
       "properties": {
         "id": "MTA6MTg5OA",
+        "city": "شهرستان چناران",
+        "province": "استان خراسان رضوی",
         "publicId": "MTA6MTg5OA",
         "sourceId": "1898",
         "layerId": 10,
@@ -14658,6 +14893,8 @@
       },
       "properties": {
         "id": "MTA6MTc0Nw",
+        "city": "شهرستان فسا",
+        "province": "استان فارس",
         "publicId": "MTA6MTc0Nw",
         "sourceId": "1747",
         "layerId": 10,
@@ -14734,6 +14971,8 @@
       },
       "properties": {
         "id": "MTA6MTgwMw",
+        "city": "شهرستان امیدیه",
+        "province": "استان خوزستان",
         "publicId": "MTA6MTgwMw",
         "sourceId": "1803",
         "layerId": 10,
@@ -14802,6 +15041,8 @@
       },
       "properties": {
         "id": "MTA6MTgyMA",
+        "city": "شهرستان فردوس",
+        "province": "استان خراسان جنوبی",
         "publicId": "MTA6MTgyMA",
         "sourceId": "1820",
         "layerId": 10,
@@ -15094,6 +15335,8 @@
       },
       "properties": {
         "id": "MTA6MTgzNg",
+        "city": "سنندج",
+        "province": "استان کردستان",
         "publicId": "MTA6MTgzNg",
         "sourceId": "1836",
         "layerId": 10,
@@ -15182,7 +15425,9 @@
       },
       "properties": {
         "id": "MTA6MTcxNw",
+        "city": "شهرستان بستک",
         "name:fa": "فرودگاه بستک",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTcxNw",
         "sourceId": "1717",
         "layerId": 10,
@@ -15251,6 +15496,8 @@
       },
       "properties": {
         "id": "MTA6MTg2OQ",
+        "city": "شهرستان فراهان",
+        "province": "استان مرکزی",
         "publicId": "MTA6MTg2OQ",
         "sourceId": "1869",
         "layerId": 10,
@@ -15303,6 +15550,8 @@
       },
       "properties": {
         "id": "MTA6MTc1MA",
+        "city": "شهرستان استهبان",
+        "province": "استان فارس",
         "publicId": "MTA6MTc1MA",
         "sourceId": "1750",
         "layerId": 10,
@@ -15439,7 +15688,9 @@
       },
       "properties": {
         "id": "MTA6MTc3NA",
+        "city": "شهرستان بوشهر",
         "name:fa": "پایگاه هوایی شهید احمدی",
+        "province": "استان بوشهر",
         "publicId": "MTA6MTc3NA",
         "sourceId": "1774",
         "layerId": 10,
@@ -15716,6 +15967,8 @@
       },
       "properties": {
         "id": "MTA6MTgwNw",
+        "city": "آبادان",
+        "province": "استان خوزستان",
         "publicId": "MTA6MTgwNw",
         "sourceId": "1807",
         "layerId": 10,
@@ -15884,8 +16137,10 @@
       },
       "properties": {
         "id": "MTA6MTg1NA",
-        "name:fa": "فرودگاه سوگا",
+        "city": "شهرستان مانه وسملقان",
         "name:en": "Soga Airport",
+        "name:fa": "فرودگاه سوگا",
+        "province": "استان خراسان شمالی",
         "publicId": "MTA6MTg1NA",
         "sourceId": "1854",
         "layerId": 10,
@@ -15998,7 +16253,9 @@
       },
       "properties": {
         "id": "MTA6MTczNQ",
+        "city": "شهرستان داراب",
         "name:fa": "فرودگاه داراب",
+        "province": "استان فارس",
         "publicId": "MTA6MTczNQ",
         "sourceId": "1735",
         "layerId": 10,
@@ -16247,6 +16504,8 @@
       },
       "properties": {
         "id": "MTA6MTg4Nw",
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
         "publicId": "MTA6MTg4Nw",
         "sourceId": "1887",
         "layerId": 10,
@@ -16431,7 +16690,9 @@
       },
       "properties": {
         "id": "MTA6MTc2OA",
+        "city": "یزد",
         "name:fa": "فرودگاه یزد",
+        "province": "استان یزد",
         "publicId": "MTA6MTc2OA",
         "sourceId": "1768",
         "layerId": 10,
@@ -16564,7 +16825,9 @@
       },
       "properties": {
         "id": "MTA6MTc5Mg",
+        "city": "ياسوج",
         "name:fa": "فرودگاه یاسوج",
+        "province": "استان کهگیلویه و بویراحمد",
         "publicId": "MTA6MTc5Mg",
         "sourceId": "1792",
         "layerId": 10,
@@ -16693,6 +16956,8 @@
       },
       "properties": {
         "id": "MTA6MTgyNQ",
+        "city": "شهرستان شبستر",
+        "province": "استان آذربایجان شرقی",
         "publicId": "MTA6MTgyNQ",
         "sourceId": "1825",
         "layerId": 10,
@@ -16745,6 +17010,8 @@
       },
       "properties": {
         "id": "MTA6MTkwMw",
+        "city": "شهرستان اسدآباد",
+        "province": "استان همدان",
         "publicId": "MTA6MTkwMw",
         "sourceId": "1903",
         "layerId": 10,
@@ -16841,7 +17108,9 @@
       },
       "properties": {
         "id": "MTA6MTcwNg",
+        "city": "شهرستان سراوان",
         "name:fa": "فرودگاه سراوان",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "MTA6MTcwNg",
         "sourceId": "1706",
         "layerId": 10,
@@ -17042,6 +17311,8 @@
       },
       "properties": {
         "id": "MTA6MTg0MQ",
+        "city": "شهرستان کرمانشاه",
+        "province": "استان کرمانشاه",
         "publicId": "MTA6MTg0MQ",
         "sourceId": "1841",
         "layerId": 10,
@@ -17170,6 +17441,8 @@
       },
       "properties": {
         "id": "MTA6MTcyMg",
+        "city": "شهرستان لامرد",
+        "province": "استان فارس",
         "publicId": "MTA6MTcyMg",
         "sourceId": "1722",
         "layerId": 10,
@@ -17238,6 +17511,8 @@
       },
       "properties": {
         "id": "MTA6MTg3NA",
+        "city": "شهرستان ساوه",
+        "province": "استان مرکزی",
         "publicId": "MTA6MTg3NA",
         "sourceId": "1874",
         "layerId": 10,
@@ -17302,6 +17577,8 @@
       },
       "properties": {
         "id": "MTA6MTc1NQ",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTc1NQ",
         "sourceId": "1755",
         "layerId": 10,
@@ -17486,7 +17763,9 @@
       },
       "properties": {
         "id": "MTA6MTc3OQ",
+        "city": "شهرستان شیراز",
         "name:fa": "فرودگاه زرقان",
+        "province": "استان فارس",
         "publicId": "MTA6MTc3OQ",
         "sourceId": "1779",
         "layerId": 10,
@@ -17731,6 +18010,8 @@
       },
       "properties": {
         "id": "MTA6MTgyOA",
+        "city": "شهرستان اردبیل",
+        "province": "استان اردبیل",
         "publicId": "MTA6MTgyOA",
         "sourceId": "1828",
         "layerId": 10,
@@ -17847,6 +18128,8 @@
       },
       "properties": {
         "id": "MTA6MTg1OQ",
+        "city": "شهرستان شاهرود",
+        "province": "استان سمنان",
         "publicId": "MTA6MTg1OQ",
         "sourceId": "1859",
         "layerId": 10,
@@ -18011,7 +18294,9 @@
       },
       "properties": {
         "id": "MTA6MTcyNA",
+        "city": "شهرستان لارستان",
         "name:fa": "فرودگاه لارستان",
+        "province": "استان فارس",
         "publicId": "MTA6MTcyNA",
         "sourceId": "1724",
         "layerId": 10,
@@ -18168,6 +18453,8 @@
       },
       "properties": {
         "id": "MTA6MTg0NA",
+        "city": "شهرستان همدان",
+        "province": "استان همدان",
         "publicId": "MTA6MTg0NA",
         "sourceId": "1844",
         "layerId": 10,
@@ -18300,7 +18587,9 @@
       },
       "properties": {
         "id": "MTA6MTc1Nw",
+        "city": "شهرستان قشم",
         "name:fa": "فرودگاه قشم",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTc1Nw",
         "sourceId": "1757",
         "layerId": 10,
@@ -18565,6 +18854,8 @@
       },
       "properties": {
         "id": "MTA6MTg3Nw",
+        "city": "نوشهر",
+        "province": "استان مازندران",
         "publicId": "MTA6MTg3Nw",
         "sourceId": "1877",
         "layerId": 10,
@@ -18649,6 +18940,8 @@
       },
       "properties": {
         "id": "MTA6MTc4Mg",
+        "city": "شهرستان کازرون",
+        "province": "استان فارس",
         "publicId": "MTA6MTc4Mg",
         "sourceId": "1782",
         "layerId": 10,
@@ -18757,6 +19050,8 @@
       },
       "properties": {
         "id": "MTA6MTgxNQ",
+        "city": "شهرستان مهران",
+        "province": "استان ایلام",
         "publicId": "MTA6MTgxNQ",
         "sourceId": "1815",
         "layerId": 10,
@@ -18845,8 +19140,10 @@
       },
       "properties": {
         "id": "MTA6MTkwNA",
-        "name:fa": "پایگاه پنجم هوانیروز",
+        "city": "مشهد",
         "name:en": "5th Army Aviation Base",
+        "name:fa": "پایگاه پنجم هوانیروز",
+        "province": "استان خراسان رضوی",
         "publicId": "MTA6MTkwNA",
         "sourceId": "1904",
         "layerId": 10,
@@ -18979,6 +19276,8 @@
       },
       "properties": {
         "id": "MTA6MTg2Mg",
+        "city": "شهرستان سمنان",
+        "province": "استان سمنان",
         "publicId": "MTA6MTg2Mg",
         "sourceId": "1862",
         "layerId": 10,
@@ -19175,8 +19474,10 @@
       },
       "properties": {
         "id": "MTA6MTcxMQ",
-        "name:fa": "فرودگاه بین‌المللی شهدای زاهدان",
+        "city": "زاهدان",
         "name:en": "Zahedan Airport",
+        "name:fa": "فرودگاه بین‌المللی شهدای زاهدان",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "MTA6MTcxMQ",
         "sourceId": "1711",
         "layerId": 10,
@@ -19229,6 +19530,8 @@
       },
       "properties": {
         "id": "MTA6MTg5NQ",
+        "city": "شهرستان سراوان",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "MTA6MTg5NQ",
         "sourceId": "1895",
         "layerId": 10,
@@ -19313,7 +19616,9 @@
       },
       "properties": {
         "id": "MTA6MTc0NA",
+        "city": "شهرستان فسا",
         "name:fa": "فرودگاه فسا",
+        "province": "استان فارس",
         "publicId": "MTA6MTc0NA",
         "sourceId": "1744",
         "layerId": 10,
@@ -19406,6 +19711,8 @@
       },
       "properties": {
         "id": "MTA6MTgwMA",
+        "city": "شهرستان لنجان",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTgwMA",
         "sourceId": "1800",
         "layerId": 10,
@@ -19586,6 +19893,8 @@
       },
       "properties": {
         "id": "MTA6MTgzMw",
+        "city": "شهرستان سقز",
+        "province": "استان کردستان",
         "publicId": "MTA6MTgzMw",
         "sourceId": "1833",
         "layerId": 10,
@@ -19874,8 +20183,10 @@
       },
       "properties": {
         "id": "MTA6MTcyOQ",
-        "name:fa": "فرودگاه بین‌المللی کرمان",
+        "city": "کرمان",
         "name:en": "Kerman International Airport",
+        "name:fa": "فرودگاه بین‌المللی کرمان",
+        "province": "استان کرمان",
         "publicId": "MTA6MTcyOQ",
         "sourceId": "1729",
         "layerId": 10,
@@ -20012,6 +20323,8 @@
       },
       "properties": {
         "id": "MTA6MTg0OQ",
+        "city": "شهرستان نیشابور",
+        "province": "استان خراسان رضوی",
         "publicId": "MTA6MTg0OQ",
         "sourceId": "1849",
         "layerId": 10,
@@ -20140,7 +20453,9 @@
       },
       "properties": {
         "id": "MTA6MTc2Mg",
+        "city": "شهرستان بندر لنگه",
         "name:fa": "فرودگاه لنگه",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTc2Mg",
         "sourceId": "1762",
         "layerId": 10,
@@ -20233,6 +20548,8 @@
       },
       "properties": {
         "id": "MTA6MTg4Mg",
+        "city": "ورامين",
+        "province": "استان تهران",
         "publicId": "MTA6MTg4Mg",
         "sourceId": "1882",
         "layerId": 10,
@@ -20385,7 +20702,9 @@
       },
       "properties": {
         "id": "MTA6MTc4Nw",
+        "city": "شهرستان دیلم",
         "name:fa": "فرودگاه بهرگان",
+        "province": "استان بوشهر",
         "publicId": "MTA6MTc4Nw",
         "sourceId": "1787",
         "layerId": 10,
@@ -20594,8 +20913,10 @@
       },
       "properties": {
         "id": "MTA6MTgwNA",
-        "name:fa": "پایگاه پنجم شکاری امیدیه",
+        "city": "شهرستان رامشیر",
         "name:en": "Omidiyeh Air Base",
+        "name:fa": "پایگاه پنجم شکاری امیدیه",
+        "province": "استان خوزستان",
         "publicId": "MTA6MTgwNA",
         "sourceId": "1804",
         "layerId": 10,
@@ -20664,6 +20985,8 @@
       },
       "properties": {
         "id": "MTA6MTg2Nw",
+        "city": "مشكات",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTg2Nw",
         "sourceId": "1867",
         "layerId": 10,
@@ -20732,6 +21055,8 @@
       },
       "properties": {
         "id": "MTA6MTczMg",
+        "city": "شهرستان راور",
+        "province": "استان کرمان",
         "publicId": "MTA6MTczMg",
         "sourceId": "1732",
         "layerId": 10,
@@ -20988,6 +21313,8 @@
       },
       "properties": {
         "id": "MTA6MTg4NA",
+        "city": "شهرستان ساوجبلاغ",
+        "province": "استان البرز",
         "publicId": "MTA6MTg4NA",
         "sourceId": "1884",
         "layerId": 10,
@@ -21068,7 +21395,9 @@
       },
       "properties": {
         "id": "MTA6MTc2NQ",
+        "city": "لاوان",
         "name:fa": "فرودگاه لاوان",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTc2NQ",
         "sourceId": "1765",
         "layerId": 10,
@@ -21121,6 +21450,8 @@
       },
       "properties": {
         "id": "MTA6MTc4OQ",
+        "city": "شهرستان اصفهان",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTc4OQ",
         "sourceId": "1789",
         "layerId": 10,
@@ -21349,6 +21680,8 @@
       },
       "properties": {
         "id": "MTA6MTgyMg",
+        "city": "شهرستان شوط",
+        "province": "استان آذربایجان غربی",
         "publicId": "MTA6MTgyMg",
         "sourceId": "1822",
         "layerId": 10,
@@ -21437,6 +21770,8 @@
       },
       "properties": {
         "id": "MTA6MTkwMA",
+        "city": "شهرستان اندیمشک",
+        "province": "استان خوزستان",
         "publicId": "MTA6MTkwMA",
         "sourceId": "1900",
         "layerId": 10,
@@ -21725,8 +22060,10 @@
       },
       "properties": {
         "id": "MTA6MTcwMw",
-        "name:fa": "فرودگاه بین‌المللی چابهار-کنارک",
+        "city": "شهرستان کنارک",
         "name:en": "Chabahar-Konarak International Airport",
+        "name:fa": "فرودگاه بین‌المللی چابهار-کنارک",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "MTA6MTcwMw",
         "sourceId": "1703",
         "layerId": 10,
@@ -21787,6 +22124,8 @@
       },
       "properties": {
         "id": "MTA6MTgzOA",
+        "city": "شهرستان نظرآباد",
+        "province": "استان البرز",
         "publicId": "MTA6MTgzOA",
         "sourceId": "1838",
         "layerId": 10,
@@ -21855,6 +22194,8 @@
       },
       "properties": {
         "id": "MTA6MTcxOQ",
+        "city": "شهرستان حاجی‌آباد",
+        "province": "استان هرمزگان",
         "publicId": "MTA6MTcxOQ",
         "sourceId": "1719",
         "layerId": 10,
@@ -21923,6 +22264,8 @@
       },
       "properties": {
         "id": "MTA6MTg3MQ",
+        "city": "شهرستان قم",
+        "province": "استان قم",
         "publicId": "MTA6MTg3MQ",
         "sourceId": "1871",
         "layerId": 10,
@@ -21991,6 +22334,8 @@
       },
       "properties": {
         "id": "MTA6MTc1Mg",
+        "city": "شهرستان ارسنجان",
+        "province": "استان فارس",
         "publicId": "MTA6MTc1Mg",
         "sourceId": "1752",
         "layerId": 10,
@@ -22047,6 +22392,8 @@
       },
       "properties": {
         "id": "MTA6MTc3Ng",
+        "city": "شهرستان دشتستان",
+        "province": "استان بوشهر",
         "publicId": "MTA6MTc3Ng",
         "sourceId": "1776",
         "layerId": 10,
@@ -22215,6 +22562,8 @@
       },
       "properties": {
         "id": "MTA6MTgwOQ",
+        "city": "شهرستان اهواز",
+        "province": "استان خوزستان",
         "publicId": "MTA6MTgwOQ",
         "sourceId": "1809",
         "layerId": 10,
@@ -22495,6 +22844,8 @@
       },
       "properties": {
         "id": "MTA6MTg1Ng",
+        "city": "شهرستان کلاله",
+        "province": "استان گلستان",
         "publicId": "MTA6MTg1Ng",
         "sourceId": "1856",
         "layerId": 10,
@@ -22547,6 +22898,8 @@
       },
       "properties": {
         "id": "MTA6MTczNw",
+        "city": "شهرستان فسا",
+        "province": "استان فارس",
         "publicId": "MTA6MTczNw",
         "sourceId": "1737",
         "layerId": 10,
@@ -22807,8 +23160,10 @@
       },
       "properties": {
         "id": "MTA6MTg4OQ",
-        "name:fa": "ستاد فرماندهی نیرو هوایی ارتش",
+        "city": "تهران",
         "name:en": "Air Force Command Headquarters",
+        "name:fa": "ستاد فرماندهی نیرو هوایی ارتش",
+        "province": "استان تهران",
         "publicId": "MTA6MTg4OQ",
         "sourceId": "1889",
         "layerId": 10,
@@ -22885,6 +23240,8 @@
       },
       "properties": {
         "id": "MTA6MTc3MA",
+        "city": "شهرستان شیراز",
+        "province": "استان فارس",
         "publicId": "MTA6MTc3MA",
         "sourceId": "1770",
         "layerId": 10,
@@ -23153,8 +23510,10 @@
       },
       "properties": {
         "id": "MTA6MTc5NA",
-        "name:fa": "فرودگاه بین‌المللی شهید بهشتی اصفهان",
+        "city": "شهرستان اصفهان",
         "name:en": "Isfahan International Airport",
+        "name:fa": "فرودگاه بین‌المللی شهید بهشتی اصفهان",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTc5NA",
         "sourceId": "1794",
         "layerId": 10,
@@ -23447,9 +23806,11 @@
       },
       "properties": {
         "id": "MTA6MTgyNw",
-        "name:fa": "فرودگاه بین‌المللی شهید مدنی تبریز",
-        "name:fa:military": "پایگاه دوم شکاری شهید فکوری",
+        "city": "تبریز",
         "name:en": "Tabriz International Airport",
+        "name:fa": "فرودگاه بین‌المللی شهید مدنی تبریز",
+        "province": "استان آذربایجان شرقی",
+        "name:fa:military": "پایگاه دوم شکاری شهید فکوری",
         "publicId": "MTA6MTgyNw",
         "sourceId": "1827",
         "layerId": 10,
@@ -23518,6 +23879,8 @@
       },
       "properties": {
         "id": "MTA6MTgxMg",
+        "city": "شهرستان شوشتر",
+        "province": "استان خوزستان",
         "publicId": "MTA6MTgxMg",
         "sourceId": "1812",
         "layerId": 10,
@@ -23750,8 +24113,10 @@
       },
       "properties": {
         "id": "MTA6MTg0Mw",
-        "name:fa": "پایگاه سوم شکاری شهید نوژه",
+        "city": "شهرستان کبودرآهنگ",
         "name:en": "Nojeh Airbase",
+        "name:fa": "پایگاه سوم شکاری شهید نوژه",
+        "province": "استان همدان",
         "publicId": "MTA6MTg0Mw",
         "sourceId": "1843",
         "layerId": 10,
@@ -23816,7 +24181,9 @@
       },
       "properties": {
         "id": "MTA6MTcwOA",
+        "city": "شهرستان خاش",
         "name:fa": "فرودگاه خاش",
+        "province": "استان سیستان و بلوچستان",
         "publicId": "MTA6MTcwOA",
         "sourceId": "1708",
         "layerId": 10,
@@ -24553,9 +24920,11 @@
       },
       "properties": {
         "id": "MTA6MTg5Mg",
-        "name:fa": "فرودگاه بین المللی مهرآباد",
-        "name:fa:military": "پایگاه یکم شکاری مهرآباد",
+        "city": "تهران",
         "name:en": "Mehrabad International Airport",
+        "name:fa": "فرودگاه بین المللی مهرآباد",
+        "province": "استان تهران",
+        "name:fa:military": "پایگاه یکم شکاری مهرآباد",
         "publicId": "MTA6MTg5Mg",
         "sourceId": "1892",
         "layerId": 10,
@@ -24608,6 +24977,8 @@
       },
       "properties": {
         "id": "MTA6MTc0MQ",
+        "city": "شهرستان فسا",
+        "province": "استان فارس",
         "publicId": "MTA6MTc0MQ",
         "sourceId": "1741",
         "layerId": 10,
@@ -25272,8 +25643,10 @@
       },
       "properties": {
         "id": "MTA6MTc5Nw",
-        "name:fa": "فرودگاه بدر",
+        "city": "اصفهان",
         "name:en": "Badr Air Base",
+        "name:fa": "فرودگاه بدر",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTc5Nw",
         "sourceId": "1797",
         "layerId": 10,
@@ -25406,6 +25779,8 @@
       },
       "properties": {
         "id": "MTA6MTgzMA",
+        "city": "شهرستان زنجان",
+        "province": "استان زنجان",
         "publicId": "MTA6MTgzMA",
         "sourceId": "1830",
         "layerId": 10,
@@ -25534,7 +25909,9 @@
       },
       "properties": {
         "id": "MTA6MTcyNg",
+        "city": "عسلویه",
         "name:fa": "فرودگاه عسلویه",
+        "province": "استان بوشهر",
         "publicId": "MTA6MTcyNg",
         "sourceId": "1726",
         "layerId": 10,
@@ -25719,6 +26096,8 @@
       },
       "properties": {
         "id": "MTA6MTg0Ng",
+        "city": "شهرستان سرخس",
+        "province": "استان خراسان رضوی",
         "publicId": "MTA6MTg0Ng",
         "sourceId": "1846",
         "layerId": 10,
@@ -25840,6 +26219,8 @@
       },
       "properties": {
         "id": "MTA6MTg3OQ",
+        "city": "گرمسار",
+        "province": "استان سمنان",
         "publicId": "MTA6MTg3OQ",
         "sourceId": "1879",
         "layerId": 10,
@@ -26084,7 +26465,9 @@
       },
       "properties": {
         "id": "MTA6MTc4NA",
+        "city": "شهرستان نایین",
         "name:fa": "فرودگاه نظامی نائین",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTc4NA",
         "sourceId": "1784",
         "layerId": 10,
@@ -26225,6 +26608,8 @@
       },
       "properties": {
         "id": "MTA6MTgxNw",
+        "city": "شهرستان خوسف",
+        "province": "استان خراسان جنوبی",
         "publicId": "MTA6MTgxNw",
         "sourceId": "1817",
         "layerId": 10,
@@ -26297,6 +26682,8 @@
       },
       "properties": {
         "id": "MTA6MTg2NA",
+        "city": "اردستان",
+        "province": "استان اصفهان",
         "publicId": "MTA6MTg2NA",
         "sourceId": "1864",
         "layerId": 10,
@@ -26453,7 +26840,9 @@
       },
       "properties": {
         "id": "MTA6MTcxMw",
+        "city": "شهرستان بم",
         "name:fa": "فرودگاه بم",
+        "province": "استان کرمان",
         "publicId": "MTA6MTcxMw",
         "sourceId": "1713",
         "layerId": 10,
@@ -26546,6 +26935,8 @@
       },
       "properties": {
         "id": "MTA6MTg5Nw",
+        "city": "شهرستان سمنان",
+        "province": "استان سمنان",
         "publicId": "MTA6MTg5Nw",
         "sourceId": "1897",
         "layerId": 10,
@@ -26670,6 +27061,8 @@
       },
       "properties": {
         "id": "MTA6MTc0Ng",
+        "city": "شهرستان سروستان",
+        "province": "استان فارس",
         "publicId": "MTA6MTc0Ng",
         "sourceId": "1746",
         "layerId": 10,
@@ -26786,7 +27179,9 @@
       },
       "properties": {
         "id": "MTA6MTgwMg",
+        "city": "شهرستان شهرکرد",
         "name:fa": "فرودگاه شهرکرد",
+        "province": "استان چهارمحال و بختیاری",
         "publicId": "MTA6MTgwMg",
         "sourceId": "1802",
         "layerId": 10,
@@ -26999,6 +27394,8 @@
       },
       "properties": {
         "id": "MTA6MTgzNQ",
+        "city": "شهرستان قزوین",
+        "province": "استان قزوین",
         "publicId": "MTA6MTgzNQ",
         "sourceId": "1835",
         "layerId": 10,
@@ -27103,7 +27500,9 @@
       },
       "properties": {
         "id": "MTA6MTczMQ",
+        "city": "شهرستان رفسنجان",
         "name:fa": "فرودگاه رفسنجان",
+        "province": "استان کرمان",
         "publicId": "MTA6MTczMQ",
         "sourceId": "1731",
         "layerId": 10,
@@ -27280,6 +27679,8 @@
       },
       "properties": {
         "id": "MTA6MTg1MQ",
+        "city": "شهرستان گناباد",
+        "province": "استان خراسان رضوی",
         "publicId": "MTA6MTg1MQ",
         "sourceId": "1851",
         "layerId": 10,

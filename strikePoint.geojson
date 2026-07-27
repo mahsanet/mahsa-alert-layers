@@ -13,8 +13,10 @@
       },
       "properties": {
         "id": "MTk6OTE2MA",
+        "city": "اراک",
         "date": "1767862845",
         "name:fa": "اراک (روز دوازدهم)",
+        "province": "استان مرکزی",
         "publicId": "MTk6OTE2MA",
         "sourceId": "9160",
         "layerId": 19,
@@ -39,8 +41,10 @@
       },
       "properties": {
         "id": "MTk6OTE1MA",
+        "city": "اردبیل",
         "date": "1767862845",
         "name:fa": "اردبیل (روز دوازدهم)",
+        "province": "استان اردبیل",
         "publicId": "MTk6OTE1MA",
         "sourceId": "9150",
         "layerId": 19,
@@ -65,8 +69,10 @@
       },
       "properties": {
         "id": "MTk6OTE3Ng",
+        "city": "مریوان",
         "date": "1767862845",
         "name:fa": "مریوان (روز دوازدهم)",
+        "province": "استان کردستان",
         "publicId": "MTk6OTE3Ng",
         "sourceId": "9176",
         "layerId": 19,
@@ -91,8 +97,10 @@
       },
       "properties": {
         "id": "MTk6OTE0NA",
+        "city": "كازرون",
         "date": "1767862845",
         "name:fa": "کازرون (روز دوازدهم)",
+        "province": "استان فارس",
         "publicId": "MTk6OTE0NA",
         "sourceId": "9144",
         "layerId": 19,
@@ -116,9 +124,11 @@
         ]
       },
       "properties": {
+        "id": "MTk6OTE0Nw",
+        "city": "نیشابور",
         "date": "1767862845",
         "name:fa": "نیشابور (روز دوازدهم)",
-        "id": "MTk6OTE0Nw",
+        "province": "استان خراسان رضوی",
         "publicId": "MTk6OTE0Nw",
         "sourceId": "9147",
         "layerId": 19,
@@ -142,9 +152,11 @@
         ]
       },
       "properties": {
-        "name:fa": "اسلام‌آباد غرب (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE2NQ",
+        "city": "اسلام آباد غرب",
+        "date": "1767862845",
+        "name:fa": "اسلام‌آباد غرب (روز دوازدهم)",
+        "province": "استان کرمانشاه",
         "publicId": "MTk6OTE2NQ",
         "sourceId": "9165",
         "layerId": 19,
@@ -168,9 +180,11 @@
         ]
       },
       "properties": {
-        "name:fa": "پاوه (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE3Mw",
+        "city": "پاوه",
+        "date": "1767862845",
+        "name:fa": "پاوه (روز دوازدهم)",
+        "province": "استان کرمانشاه",
         "publicId": "MTk6OTE3Mw",
         "sourceId": "9173",
         "layerId": 19,
@@ -195,8 +209,10 @@
       },
       "properties": {
         "id": "MTk6OTE1NA",
+        "city": "تهران",
         "date": "1767862845",
         "name:fa": "تهران (روز دوازدهم)",
+        "province": "استان تهران",
         "publicId": "MTk6OTE1NA",
         "sourceId": "9154",
         "layerId": 19,
@@ -221,8 +237,10 @@
       },
       "properties": {
         "id": "MTk6OTE1Ng",
+        "city": "اشنویه",
         "date": "1767862845",
         "name:fa": "اشنویه (روز دوازدهم)",
+        "province": "استان آذربایجان غربی",
         "publicId": "MTk6OTE1Ng",
         "sourceId": "9156",
         "layerId": 19,
@@ -246,9 +264,11 @@
         ]
       },
       "properties": {
-        "name:fa": "بروجرد (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE2MQ",
+        "city": "بروجرد",
+        "date": "1767862845",
+        "name:fa": "بروجرد (روز دوازدهم)",
+        "province": "استان لرستان",
         "publicId": "MTk6OTE2MQ",
         "sourceId": "9161",
         "layerId": 19,
@@ -272,9 +292,11 @@
         ]
       },
       "properties": {
-        "name:fa": "روانسر (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE3MQ",
+        "city": "روانسر",
+        "date": "1767862845",
+        "name:fa": "روانسر (روز دوازدهم)",
+        "province": "استان کرمانشاه",
         "publicId": "MTk6OTE3MQ",
         "sourceId": "9171",
         "layerId": 19,
@@ -298,9 +320,11 @@
         ]
       },
       "properties": {
-        "name:fa": "کرج (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE1Mw",
+        "city": "کرج",
+        "date": "1767862845",
+        "name:fa": "کرج (روز دوازدهم)",
+        "province": "استان البرز",
         "publicId": "MTk6OTE1Mw",
         "sourceId": "9153",
         "layerId": 19,
@@ -324,9 +348,11 @@
         ]
       },
       "properties": {
-        "name:fa": "تبریز (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE1MQ",
+        "city": "تبریز",
+        "date": "1767862845",
+        "name:fa": "تبریز (روز دوازدهم)",
+        "province": "استان آذربایجان شرقی",
         "publicId": "MTk6OTE1MQ",
         "sourceId": "9151",
         "layerId": 19,
@@ -350,9 +376,11 @@
         ]
       },
       "properties": {
-        "name:fa": "آمل (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE0OQ",
+        "city": "آمل",
+        "date": "1767862845",
+        "name:fa": "آمل (روز دوازدهم)",
+        "province": "استان مازندران",
         "publicId": "MTk6OTE0OQ",
         "sourceId": "9149",
         "layerId": 19,
@@ -376,9 +404,11 @@
         ]
       },
       "properties": {
-        "name:fa": "برازجان (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE0Mw",
+        "city": "برازجان",
+        "date": "1767862845",
+        "name:fa": "برازجان (روز دوازدهم)",
+        "province": "استان بوشهر",
         "publicId": "MTk6OTE0Mw",
         "sourceId": "9143",
         "layerId": 19,
@@ -402,9 +432,11 @@
         ]
       },
       "properties": {
-        "name:fa": "ارومیه (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE1NQ",
+        "city": "ارومیه",
+        "date": "1767862845",
+        "name:fa": "ارومیه (روز دوازدهم)",
+        "province": "استان آذربایجان غربی",
         "publicId": "MTk6OTE1NQ",
         "sourceId": "9155",
         "layerId": 19,
@@ -428,9 +460,11 @@
         ]
       },
       "properties": {
-        "name:fa": "بانه (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE3OQ",
+        "city": "بانه",
+        "date": "1767862845",
+        "name:fa": "بانه (روز دوازدهم)",
+        "province": "استان کردستان",
         "publicId": "MTk6OTE3OQ",
         "sourceId": "9179",
         "layerId": 19,
@@ -454,9 +488,11 @@
         ]
       },
       "properties": {
-        "name:fa": "بوکان (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE1OQ",
+        "city": "بوکان",
+        "date": "1767862845",
+        "name:fa": "بوکان (روز دوازدهم)",
+        "province": "استان آذربایجان غربی",
         "publicId": "MTk6OTE1OQ",
         "sourceId": "9159",
         "layerId": 19,
@@ -481,8 +517,10 @@
       },
       "properties": {
         "id": "MTk6OTE3Mg",
+        "city": "كامياران",
         "date": "1767862845",
         "name:fa": "کامیاران (روز دوازدهم)",
+        "province": "استان کردستان",
         "publicId": "MTk6OTE3Mg",
         "sourceId": "9172",
         "layerId": 19,
@@ -507,8 +545,10 @@
       },
       "properties": {
         "id": "MTk6OTE3OA",
+        "city": "سقز",
         "date": "1767862845",
         "name:fa": "سقز (روز دوازدهم)",
+        "province": "استان کردستان",
         "publicId": "MTk6OTE3OA",
         "sourceId": "9178",
         "layerId": 19,
@@ -533,8 +573,10 @@
       },
       "properties": {
         "id": "MTk6OTE0Ng",
-        "name:fa": "خمینی‌شهر (روز دوازدهم)",
+        "city": "خمینی شهر",
         "date": "1767862845",
+        "name:fa": "خمینی‌شهر (روز دوازدهم)",
+        "province": "استان اصفهان",
         "publicId": "MTk6OTE0Ng",
         "sourceId": "9146",
         "layerId": 19,
@@ -558,9 +600,11 @@
         ]
       },
       "properties": {
-        "name:fa": "قروه (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE2Nw",
+        "city": "قروه",
+        "date": "1767862845",
+        "name:fa": "قروه (روز دوازدهم)",
+        "province": "استان کردستان",
         "publicId": "MTk6OTE2Nw",
         "sourceId": "9167",
         "layerId": 19,
@@ -585,8 +629,10 @@
       },
       "properties": {
         "id": "MTk6OTE3MA",
+        "city": "سرابله",
         "date": "1767862845",
         "name:fa": "سرابله (روز دوازدهم)",
+        "province": "استان کرمانشاه",
         "publicId": "MTk6OTE3MA",
         "sourceId": "9170",
         "layerId": 19,
@@ -611,8 +657,10 @@
       },
       "properties": {
         "id": "MTk6OTE2NA",
+        "city": "ایلام",
         "date": "1767862845",
         "name:fa": "ایلام (روز دوازدهم)",
+        "province": "استان ایلام",
         "publicId": "MTk6OTE2NA",
         "sourceId": "9164",
         "layerId": 19,
@@ -637,8 +685,10 @@
       },
       "properties": {
         "id": "MTk6OTE1OA",
+        "city": "مهاباد",
         "date": "1767862845",
         "name:fa": "مهاباد (روز دوازدهم)",
+        "province": "استان آذربایجان غربی",
         "publicId": "MTk6OTE1OA",
         "sourceId": "9158",
         "layerId": 19,
@@ -663,8 +713,10 @@
       },
       "properties": {
         "id": "MTk6OTE0OA",
-        "name:fa": "سبزوار (روز دوازدهم)",
+        "city": "سبزوار",
         "date": "1767862845",
+        "name:fa": "سبزوار (روز دوازدهم)",
+        "province": "استان خراسان رضوی",
         "publicId": "MTk6OTE0OA",
         "sourceId": "9148",
         "layerId": 19,
@@ -688,9 +740,11 @@
         ]
       },
       "properties": {
-        "name:fa": "قصر شیرین (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE2OQ",
+        "city": "قصرشیرین",
+        "date": "1767862845",
+        "name:fa": "قصر شیرین (روز دوازدهم)",
+        "province": "استان کرمانشاه",
         "publicId": "MTk6OTE2OQ",
         "sourceId": "9169",
         "layerId": 19,
@@ -715,8 +769,10 @@
       },
       "properties": {
         "id": "MTk6OTE2OA",
+        "city": "بیجار",
         "date": "1767862845",
         "name:fa": "بیجار (روز دوازدهم)",
+        "province": "استان کردستان",
         "publicId": "MTk6OTE2OA",
         "sourceId": "9168",
         "layerId": 19,
@@ -740,9 +796,11 @@
         ]
       },
       "properties": {
-        "name:fa": "نایسر (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE3NQ",
+        "city": "نایی سر",
+        "date": "1767862845",
+        "name:fa": "نایسر (روز دوازدهم)",
+        "province": "استان کردستان",
         "publicId": "MTk6OTE3NQ",
         "sourceId": "9175",
         "layerId": 19,
@@ -767,8 +825,10 @@
       },
       "properties": {
         "id": "MTk6OTE1Mg",
+        "city": "زنجان",
         "date": "1767862845",
         "name:fa": "زنجان (روز دوازدهم)",
+        "province": "استان زنجان",
         "publicId": "MTk6OTE1Mg",
         "sourceId": "9152",
         "layerId": 19,
@@ -792,9 +852,11 @@
         ]
       },
       "properties": {
+        "id": "MTk6OTE0NQ",
+        "city": "اصفهان",
         "date": "1767862845",
         "name:fa": "اصفهان (روز دوازدهم)",
-        "id": "MTk6OTE0NQ",
+        "province": "استان اصفهان",
         "publicId": "MTk6OTE0NQ",
         "sourceId": "9145",
         "layerId": 19,
@@ -819,8 +881,10 @@
       },
       "properties": {
         "id": "MTk6OTE0Mg",
-        "name:fa": "بندرعباس (روز دوازدهم)",
+        "city": "بندر عباس",
         "date": "1767862845",
+        "name:fa": "بندرعباس (روز دوازدهم)",
+        "province": "استان هرمزگان",
         "publicId": "MTk6OTE0Mg",
         "sourceId": "9142",
         "layerId": 19,
@@ -845,8 +909,10 @@
       },
       "properties": {
         "id": "MTk6OTE2Ng",
+        "city": "کرمانشاه",
         "date": "1767862845",
         "name:fa": "کرمانشاه (روز دوازدهم)",
+        "province": "استان کرمانشاه",
         "publicId": "MTk6OTE2Ng",
         "sourceId": "9166",
         "layerId": 19,
@@ -870,9 +936,11 @@
         ]
       },
       "properties": {
+        "id": "MTk6OTE4MQ",
+        "city": "بجنورد",
         "date": "1767862845",
         "name:fa": "بجنورد (روز دوازدهم)",
-        "id": "MTk6OTE4MQ",
+        "province": "استان خراسان شمالی",
         "publicId": "MTk6OTE4MQ",
         "sourceId": "9181",
         "layerId": 19,
@@ -896,9 +964,11 @@
         ]
       },
       "properties": {
-        "name:fa": "دهگلان (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE2Mw",
+        "city": "شهرستان اسدآباد",
+        "date": "1767862845",
+        "name:fa": "دهگلان (روز دوازدهم)",
+        "province": "استان همدان",
         "publicId": "MTk6OTE2Mw",
         "sourceId": "9163",
         "layerId": 19,
@@ -923,8 +993,10 @@
       },
       "properties": {
         "id": "MTk6OTE3NA",
+        "city": "سنندج",
         "date": "1767862845",
         "name:fa": "سنندج (روز دوازدهم)",
+        "province": "استان کردستان",
         "publicId": "MTk6OTE3NA",
         "sourceId": "9174",
         "layerId": 19,
@@ -948,9 +1020,11 @@
         ]
       },
       "properties": {
-        "name:fa": "پیرانشهر (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE1Nw",
+        "city": "پيرانشهر",
+        "date": "1767862845",
+        "name:fa": "پیرانشهر (روز دوازدهم)",
+        "province": "استان آذربایجان غربی",
         "publicId": "MTk6OTE1Nw",
         "sourceId": "9157",
         "layerId": 19,
@@ -975,8 +1049,10 @@
       },
       "properties": {
         "id": "MTk6OTE2Mg",
+        "city": "همدان",
         "date": "1767862845",
         "name:fa": "همدان (روز دوازدهم)",
+        "province": "استان همدان",
         "publicId": "MTk6OTE2Mg",
         "sourceId": "9162",
         "layerId": 19,
@@ -1000,9 +1076,11 @@
         ]
       },
       "properties": {
-        "name:fa": "دیواندره (روز دوازدهم)",
-        "date": "1767862845",
         "id": "MTk6OTE3Nw",
+        "city": "دیواندره",
+        "date": "1767862845",
+        "name:fa": "دیواندره (روز دوازدهم)",
+        "province": "استان کردستان",
         "publicId": "MTk6OTE3Nw",
         "sourceId": "9177",
         "layerId": 19,
@@ -1027,8 +1105,10 @@
       },
       "properties": {
         "id": "MTk6OTE4MA",
+        "city": "سردشت",
         "date": "1767862845",
         "name:fa": "سردشت (روز دوازدهم)",
+        "province": "استان آذربایجان غربی",
         "publicId": "MTk6OTE4MA",
         "sourceId": "9180",
         "layerId": 19,

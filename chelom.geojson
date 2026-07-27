@@ -12,10 +12,12 @@
         ]
       },
       "properties": {
-        "name:fa": "رحیم حیدری",
         "id": "MjI6MTIxNDM",
+        "city": "Nehzat ãbãd",
         "date": "1771497035",
+        "name:fa": "رحیم حیدری",
         "accurate": "yes",
+        "province": "Isfahan Province",
         "publicId": "MjI6MTIxNDM",
         "sourceId": "12143",
         "layerId": 22,
@@ -39,10 +41,12 @@
         ]
       },
       "properties": {
-        "name:fa": "آیدا حیدری",
         "id": "MjI6MTIxMzM",
+        "city": "شهرستان ری",
         "date": "1770966035",
+        "name:fa": "آیدا حیدری",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTIxMzM",
         "sourceId": "12133",
         "layerId": 22,
@@ -67,9 +71,11 @@
       },
       "properties": {
         "id": "MjI6MTI4NjY",
-        "name:fa": "مهدی ساوری",
+        "city": "شهرستان گرگان",
         "date": "1770960645",
+        "name:fa": "مهدی ساوری",
         "accurate": "no",
+        "province": "استان گلستان",
         "publicId": "MjI6MTI4NjY",
         "sourceId": "12866",
         "layerId": 22,
@@ -93,10 +99,12 @@
         ]
       },
       "properties": {
-        "accurate": "yes",
-        "date": "1770960635",
         "id": "MjI6MTIxNDI",
+        "city": "نجف‌ آباد",
+        "date": "1770960635",
         "name:fa": "مصطفی آدگار صالحی",
+        "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTIxNDI",
         "sourceId": "12142",
         "layerId": 22,
@@ -120,10 +128,12 @@
         ]
       },
       "properties": {
-        "accurate": "yes",
+        "id": "MjI6MTI4NTk",
+        "city": "شهرستان ورامین",
         "date": "1771497035",
         "name:fa": "علا قشقایی",
-        "id": "MjI6MTI4NTk",
+        "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4NTk",
         "sourceId": "12859",
         "layerId": 22,
@@ -147,10 +157,12 @@
         ]
       },
       "properties": {
-        "name:fa": "امیر احمدوند",
         "id": "MjI6MTIxNDE",
+        "city": "آرامكاه",
         "date": "1770964235",
+        "name:fa": "امیر احمدوند",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTIxNDE",
         "sourceId": "12141",
         "layerId": 22,
@@ -174,10 +186,12 @@
         ]
       },
       "properties": {
-        "date": "1770967835",
         "id": "MjI6MTIxMzg",
+        "city": "اراک",
+        "date": "1770967835",
         "name:fa": "امیرحسین دولت‌آبادی",
         "accurate": "yes",
+        "province": "استان مرکزی",
         "publicId": "MjI6MTIxMzg",
         "sourceId": "12138",
         "layerId": 22,
@@ -201,10 +215,12 @@
         ]
       },
       "properties": {
-        "accurate": "yes",
-        "date": "1770885035",
         "id": "MjI6MTIxNDQ",
+        "city": "کلاک بالا",
+        "date": "1770885035",
         "name:fa": "محمد جباری",
+        "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTIxNDQ",
         "sourceId": "12144",
         "layerId": 22,
@@ -228,10 +244,12 @@
         ]
       },
       "properties": {
-        "name:fa": "رضا کدیوریان",
         "id": "MjI6MTIxMzc",
+        "city": "کرمانشاه",
         "date": "1770888635",
+        "name:fa": "رضا کدیوریان",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTIxMzc",
         "sourceId": "12137",
         "layerId": 22,
@@ -255,10 +273,12 @@
         ]
       },
       "properties": {
-        "accurate": "yes",
-        "date": "1771241435",
         "id": "MjI6MTIxNDg",
+        "city": "بندر انزلی",
+        "date": "1771241435",
         "name:fa": "میلاد میانه‌خواه منفردی",
+        "accurate": "yes",
+        "province": "استان گیلان",
         "publicId": "MjI6MTIxNDg",
         "sourceId": "12148",
         "layerId": 22,
@@ -283,9 +303,11 @@
       },
       "properties": {
         "id": "MjI6MTI4NjI",
-        "name:fa": "محمد‌مهدی مجیدی",
+        "city": "نجف‌ آباد",
         "date": "1771324235",
+        "name:fa": "محمد‌مهدی مجیدی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTI4NjI",
         "sourceId": "12862",
         "layerId": 22,
@@ -310,9 +332,11 @@
       },
       "properties": {
         "id": "MjI6MTIxMzI",
-        "name:fa": "محمدامین امیری",
+        "city": "زنجان",
         "date": "1770892235",
+        "name:fa": "محمدامین امیری",
         "accurate": "yes",
+        "province": "استان زنجان",
         "publicId": "MjI6MTIxMzI",
         "sourceId": "12132",
         "layerId": 22,
@@ -336,10 +360,12 @@
         ]
       },
       "properties": {
-        "name:fa": "دانیال کارشناس",
         "id": "MjI6MTI4NTY",
+        "city": "یزد",
         "date": "1771327835",
+        "name:fa": "دانیال کارشناس",
         "accurate": "yes",
+        "province": "استان یزد",
         "publicId": "MjI6MTI4NTY",
         "sourceId": "12856",
         "layerId": 22,
@@ -364,9 +390,11 @@
       },
       "properties": {
         "id": "MjI6MTI4NjA",
-        "name:fa": "لیلا شکری",
+        "city": "شهرستان قرچک",
         "date": "1771241435",
+        "name:fa": "لیلا شکری",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4NjA",
         "sourceId": "12860",
         "layerId": 22,
@@ -390,10 +418,12 @@
         ]
       },
       "properties": {
-        "accurate": "yes",
+        "id": "MjI6MTI4NjM",
+        "city": "گرگان",
         "date": "1771065035",
         "name:fa": "رضا اسدی",
-        "id": "MjI6MTI4NjM",
+        "accurate": "yes",
+        "province": "استان گلستان",
         "publicId": "MjI6MTI4NjM",
         "sourceId": "12863",
         "layerId": 22,
@@ -418,9 +448,11 @@
       },
       "properties": {
         "id": "MjI6MTI4NTg",
-        "name:fa": "حسن باهو",
+        "city": "شهرستان قرچک",
         "date": "1770982235",
+        "name:fa": "حسن باهو",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4NTg",
         "sourceId": "12858",
         "layerId": 22,
@@ -444,10 +476,12 @@
         ]
       },
       "properties": {
-        "name:fa": "سیده افسانه رضویان‌پول",
         "id": "MjI6MTIxMzU",
+        "city": "چالوس",
         "date": "1770895835",
+        "name:fa": "سیده افسانه رضویان‌پول",
         "accurate": "yes",
+        "province": "استان مازندران",
         "publicId": "MjI6MTIxMzU",
         "sourceId": "12135",
         "layerId": 22,
@@ -471,10 +505,12 @@
         ]
       },
       "properties": {
-        "accurate": "no",
-        "date": "1770892245",
         "id": "MjI6MTI4NTc",
+        "city": "مست پايين",
+        "date": "1770892245",
         "name:fa": "رضا رحمتی",
+        "accurate": "no",
+        "province": "استان مرکزی",
         "publicId": "MjI6MTI4NTc",
         "sourceId": "12857",
         "layerId": 22,
@@ -498,10 +534,12 @@
         ]
       },
       "properties": {
-        "accurate": "yes",
+        "id": "MjI6MTI4NjU",
+        "city": "شهرستان قرچک",
         "date": "1770883235",
         "name:fa": "محمد فرهادی",
-        "id": "MjI6MTI4NjU",
+        "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4NjU",
         "sourceId": "12865",
         "layerId": 22,
@@ -525,10 +563,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهدی امامی‌پور",
         "id": "MjI6MTIxMzE",
+        "city": "شهرستان ملکشاهی",
         "date": "1770892245",
+        "name:fa": "مهدی امامی‌پور",
         "accurate": "no",
+        "province": "استان ایلام",
         "publicId": "MjI6MTIxMzE",
         "sourceId": "12131",
         "layerId": 22,
@@ -552,10 +592,12 @@
         ]
       },
       "properties": {
-        "date": "1770888635",
         "id": "MjI6MTIxMzY",
+        "city": "کرمانشاه",
+        "date": "1770888635",
         "name:fa": "رسول کدیوریان",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTIxMzY",
         "sourceId": "12136",
         "layerId": 22,
@@ -579,10 +621,12 @@
         ]
       },
       "properties": {
-        "accurate": "yes",
+        "id": "MjI6MTI4NjE",
+        "city": "شهرستان شهرکرد",
         "date": "1770978635",
         "name:fa": "علیرضا سدیان",
-        "id": "MjI6MTI4NjE",
+        "accurate": "yes",
+        "province": "استان چهارمحال و بختیاری",
         "publicId": "MjI6MTI4NjE",
         "sourceId": "12861",
         "layerId": 22,
@@ -606,10 +650,12 @@
         ]
       },
       "properties": {
-        "accurate": "yes",
-        "date": "1771066835",
         "id": "MjI6MTIxNDY",
+        "city": "زنجان",
+        "date": "1771066835",
         "name:fa": "عرشیا براری",
+        "accurate": "yes",
+        "province": "استان زنجان",
         "publicId": "MjI6MTIxNDY",
         "sourceId": "12146",
         "layerId": 22,
@@ -633,10 +679,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مجید جمشیدی گهروئی",
         "id": "MjI6MTIxMzk",
+        "city": "شهرستان کیار",
         "date": "1770892235",
+        "name:fa": "مجید جمشیدی گهروئی",
         "accurate": "yes",
+        "province": "استان چهارمحال و بختیاری",
         "publicId": "MjI6MTIxMzk",
         "sourceId": "12139",
         "layerId": 22,
@@ -660,10 +708,12 @@
         ]
       },
       "properties": {
-        "name:fa": "ایمان میرشکاری‌زاده",
         "id": "MjI6MTIxNDc",
+        "city": "كازرون",
         "date": "1770897635",
+        "name:fa": "ایمان میرشکاری‌زاده",
         "accurate": "yes",
+        "province": "استان فارس",
         "publicId": "MjI6MTIxNDc",
         "sourceId": "12147",
         "layerId": 22,
@@ -687,10 +737,12 @@
         ]
       },
       "properties": {
-        "date": "1770966035",
         "id": "MjI6MTIxMzQ",
+        "city": "شهرستان ری",
+        "date": "1770966035",
         "name:fa": "دانیال مرادی‌زاده",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTIxMzQ",
         "sourceId": "12134",
         "layerId": 22,
@@ -714,10 +766,12 @@
         ]
       },
       "properties": {
-        "name:fa": "جاوید رضایی",
         "id": "MjI6MTIxNDU",
+        "city": "زنجان",
         "date": "1770966035",
+        "name:fa": "جاوید رضایی",
         "accurate": "yes",
+        "province": "استان زنجان",
         "publicId": "MjI6MTIxNDU",
         "sourceId": "12145",
         "layerId": 22,
@@ -742,9 +796,11 @@
       },
       "properties": {
         "id": "MjI6MTI4NjQ",
-        "name:fa": "آتنا حسینیان",
+        "city": "گرگان",
         "date": "1770980435",
+        "name:fa": "آتنا حسینیان",
         "accurate": "yes",
+        "province": "استان گلستان",
         "publicId": "MjI6MTI4NjQ",
         "sourceId": "12864",
         "layerId": 22,
@@ -768,10 +824,12 @@
         ]
       },
       "properties": {
-        "name:fa": "علی روزبهانی",
         "id": "MjI6MTI4Njc",
+        "city": "تهران",
         "date": "1771592400",
+        "name:fa": "علی روزبهانی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4Njc",
         "sourceId": "12867",
         "layerId": 22,
@@ -795,10 +853,12 @@
         ]
       },
       "properties": {
-        "name:fa": "سیده افسانه رضویان پول",
         "id": "MjI6MTI4Njg",
+        "city": "چالوس",
         "date": "1770895800",
+        "name:fa": "سیده افسانه رضویان پول",
         "accurate": "yes",
+        "province": "استان مازندران",
         "publicId": "MjI6MTI4Njg",
         "sourceId": "12868",
         "layerId": 22,
@@ -822,10 +882,12 @@
         ]
       },
       "properties": {
-        "name:fa": "کربلایی رضا علی المؤمنی",
         "id": "MjI6MTI4Njk",
+        "city": "ازندریان",
         "date": "1773855000",
+        "name:fa": "کربلایی رضا علی المؤمنی",
         "accurate": "yes",
+        "province": "استان همدان",
         "publicId": "MjI6MTI4Njk",
         "sourceId": "12869",
         "layerId": 22,
@@ -849,10 +911,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهندس مصطفی سرافراز اردکانی",
         "id": "MjI6MTI4NzA",
+        "city": "تجریش",
         "date": "1771416000",
+        "name:fa": "مهندس مصطفی سرافراز اردکانی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4NzA",
         "sourceId": "12870",
         "layerId": 22,
@@ -876,10 +940,12 @@
         ]
       },
       "properties": {
-        "name:fa": "امیر علی حیدری جعفر آبادی",
         "id": "MjI6MTI4NzE",
+        "city": "سرابله",
         "date": "1771324200",
+        "name:fa": "امیر علی حیدری جعفر آبادی",
         "accurate": "yes",
+        "province": "استان ایلام",
         "publicId": "MjI6MTI4NzE",
         "sourceId": "12871",
         "layerId": 22,
@@ -903,10 +969,12 @@
         ]
       },
       "properties": {
-        "name:fa": "ملیکا دستیاب",
         "id": "MjI6MTI4NzI",
+        "city": "کرندغرب",
         "date": "1771408800",
+        "name:fa": "ملیکا دستیاب",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTI4NzI",
         "sourceId": "12872",
         "layerId": 22,
@@ -930,10 +998,12 @@
         ]
       },
       "properties": {
-        "name:fa": "دکتر سجاد کیانی",
         "id": "MjI6MTI4NzM",
+        "city": "کمره علیا",
         "date": "1771326000",
+        "name:fa": "دکتر سجاد کیانی",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTI4NzM",
         "sourceId": "12873",
         "layerId": 22,
@@ -957,10 +1027,12 @@
         ]
       },
       "properties": {
-        "name:fa": "هلاکو ایوانی",
         "id": "MjI6MTI4NzQ",
+        "city": "برف آباد",
         "date": "1771495200",
+        "name:fa": "هلاکو ایوانی",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTI4NzQ",
         "sourceId": "12874",
         "layerId": 22,
@@ -984,10 +1056,12 @@
         ]
       },
       "properties": {
-        "name:fa": "امیر علی حیدری جعفر آبادی",
         "id": "MjI6MTI4NzU",
+        "city": "سرابله",
         "date": "1771324200",
+        "name:fa": "امیر علی حیدری جعفر آبادی",
         "accurate": "yes",
+        "province": "استان ایلام",
         "publicId": "MjI6MTI4NzU",
         "sourceId": "12875",
         "layerId": 22,
@@ -1011,10 +1085,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهدی نجفی",
         "id": "MjI6MTI4NzY",
+        "city": "شهرستان مشهد",
         "date": "1771324200",
+        "name:fa": "مهدی نجفی",
         "accurate": "yes",
+        "province": "استان خراسان رضوی",
         "publicId": "MjI6MTI4NzY",
         "sourceId": "12876",
         "layerId": 22,
@@ -1038,10 +1114,12 @@
         ]
       },
       "properties": {
-        "name:fa": "زهره شماعی زاده",
         "id": "MjI6MTI4Nzc",
+        "city": "شهرستان ری",
         "date": "1771325220",
+        "name:fa": "زهره شماعی زاده",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4Nzc",
         "sourceId": "12877",
         "layerId": 22,
@@ -1065,10 +1143,12 @@
         ]
       },
       "properties": {
-        "name:fa": "علی حاتمی",
         "id": "MjI6MTI4Nzg",
+        "city": "ده حلاج",
         "date": "1771327800",
+        "name:fa": "علی حاتمی",
         "accurate": "yes",
+        "province": "استان خراسان رضوی",
         "publicId": "MjI6MTI4Nzg",
         "sourceId": "12878",
         "layerId": 22,
@@ -1092,10 +1172,12 @@
         ]
       },
       "properties": {
-        "name:fa": "ملیکا دستیاب",
         "id": "MjI6MTI4Nzk",
+        "city": "کرندغرب",
         "date": "1771408800",
+        "name:fa": "ملیکا دستیاب",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTI4Nzk",
         "sourceId": "12879",
         "layerId": 22,
@@ -1119,10 +1201,12 @@
         ]
       },
       "properties": {
-        "name:fa": "متین خسروی",
         "id": "MjI6MTI4ODA",
+        "city": "شهرستان طوالش",
         "date": "1771326000",
+        "name:fa": "متین خسروی",
         "accurate": "yes",
+        "province": "استان گیلان",
         "publicId": "MjI6MTI4ODA",
         "sourceId": "12880",
         "layerId": 22,
@@ -1146,10 +1230,12 @@
         ]
       },
       "properties": {
-        "name:fa": "محمد حسین پرنون",
         "id": "MjI6MTI4ODE",
+        "city": "خرم آباد",
         "date": "1771497240",
+        "name:fa": "محمد حسین پرنون",
         "accurate": "yes",
+        "province": "استان لرستان",
         "publicId": "MjI6MTI4ODE",
         "sourceId": "12881",
         "layerId": 22,
@@ -1173,10 +1259,12 @@
         ]
       },
       "properties": {
-        "name:fa": "سید آرمان موسوی",
         "id": "MjI6MTI4ODI",
+        "city": "شیراز",
         "date": "1771329600",
+        "name:fa": "سید آرمان موسوی",
         "accurate": "yes",
+        "province": "استان فارس",
         "publicId": "MjI6MTI4ODI",
         "sourceId": "12882",
         "layerId": 22,
@@ -1200,10 +1288,12 @@
         ]
       },
       "properties": {
-        "name:fa": "دکتر پدرام ارغا",
         "id": "MjI6MTI4ODM",
+        "city": "سراب تیزان",
         "date": "1771502400",
+        "name:fa": "دکتر پدرام ارغا",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTI4ODM",
         "sourceId": "12883",
         "layerId": 22,
@@ -1227,10 +1317,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهندس حبیب خوبی پور",
         "id": "MjI6MTI4ODQ",
+        "city": "بیب",
         "date": "1771324200",
+        "name:fa": "مهندس حبیب خوبی پور",
         "accurate": "yes",
+        "province": "استان گیلان",
         "publicId": "MjI6MTI4ODQ",
         "sourceId": "12884",
         "layerId": 22,
@@ -1254,10 +1346,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهران سلیمی",
         "id": "MjI6MTI4ODU",
+        "city": "شهرستان ساوجبلاغ",
         "date": "1771327800",
+        "name:fa": "مهران سلیمی",
         "accurate": "yes",
+        "province": "استان البرز",
         "publicId": "MjI6MTI4ODU",
         "sourceId": "12885",
         "layerId": 22,
@@ -1281,10 +1375,12 @@
         ]
       },
       "properties": {
-        "name:fa": "ابو الفضل وحیدی",
         "id": "MjI6MTI4ODY",
+        "city": "شهرستان ری",
         "date": "1771412400",
+        "name:fa": "ابو الفضل وحیدی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4ODY",
         "sourceId": "12886",
         "layerId": 22,
@@ -1308,10 +1404,12 @@
         ]
       },
       "properties": {
-        "name:fa": "رسول یزدانی",
         "id": "MjI6MTI4ODc",
+        "city": "شهریار",
         "date": "1771498800",
+        "name:fa": "رسول یزدانی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4ODc",
         "sourceId": "12887",
         "layerId": 22,
@@ -1335,10 +1433,12 @@
         ]
       },
       "properties": {
-        "name:fa": "سجاد شاقلانی لور",
         "id": "MjI6MTI4ODg",
+        "city": "شهرستان بهارستان",
         "date": "1771410600",
+        "name:fa": "سجاد شاقلانی لور",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4ODg",
         "sourceId": "12888",
         "layerId": 22,
@@ -1362,10 +1462,12 @@
         ]
       },
       "properties": {
-        "name:fa": "نوید میرزایی",
         "id": "MjI6MTI4ODk",
+        "city": "تهران",
         "date": "1771318800",
+        "name:fa": "نوید میرزایی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4ODk",
         "sourceId": "12889",
         "layerId": 22,
@@ -1389,10 +1491,12 @@
         ]
       },
       "properties": {
-        "name:fa": "تیام کیانی منش (محمدرضا)",
         "id": "MjI6MTI4OTA",
+        "city": "کرمانشاه",
         "date": "1771333200",
+        "name:fa": "تیام کیانی منش (محمدرضا)",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTI4OTA",
         "sourceId": "12890",
         "layerId": 22,
@@ -1416,10 +1520,12 @@
         ]
       },
       "properties": {
-        "name:fa": "میثم نظری",
         "id": "MjI6MTI4OTE",
+        "city": "شهرستان هرسین",
         "date": "1771322400",
+        "name:fa": "میثم نظری",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTI4OTE",
         "sourceId": "12891",
         "layerId": 22,
@@ -1443,10 +1549,12 @@
         ]
       },
       "properties": {
-        "name:fa": "شهید حمید مهدوی",
         "id": "MjI6MTI4OTI",
+        "city": "تهران",
         "date": "1771326000",
+        "name:fa": "شهید حمید مهدوی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4OTI",
         "sourceId": "12892",
         "layerId": 22,
@@ -1470,10 +1578,12 @@
         ]
       },
       "properties": {
-        "name:fa": "محمد رضا کریمی فر",
         "id": "MjI6MTI4OTM",
+        "city": "چالوس",
         "date": "1771504200",
+        "name:fa": "محمد رضا کریمی فر",
         "accurate": "yes",
+        "province": "استان مازندران",
         "publicId": "MjI6MTI4OTM",
         "sourceId": "12893",
         "layerId": 22,
@@ -1497,10 +1607,12 @@
         ]
       },
       "properties": {
-        "name:fa": "جواد کاظمی",
         "id": "MjI6MTI4OTQ",
+        "city": "شهرستان بهارستان",
         "date": "1771410600",
+        "name:fa": "جواد کاظمی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4OTQ",
         "sourceId": "12894",
         "layerId": 22,
@@ -1524,10 +1636,12 @@
         ]
       },
       "properties": {
-        "name:fa": "کمیل جمشیدی",
         "id": "MjI6MTI4OTU",
+        "city": "شهریار",
         "date": "1771497000",
+        "name:fa": "کمیل جمشیدی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4OTU",
         "sourceId": "12895",
         "layerId": 22,
@@ -1551,10 +1665,12 @@
         ]
       },
       "properties": {
-        "name:fa": "داود عباسی",
         "id": "MjI6MTI4OTY",
+        "city": "تهران",
         "date": "1771335000",
+        "name:fa": "داود عباسی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4OTY",
         "sourceId": "12896",
         "layerId": 22,
@@ -1578,10 +1694,12 @@
         ]
       },
       "properties": {
-        "name:fa": "سعید کلوندی",
         "id": "MjI6MTI4OTc",
+        "city": "تجریش",
         "date": "1771461660",
+        "name:fa": "سعید کلوندی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI4OTc",
         "sourceId": "12897",
         "layerId": 22,
@@ -1605,10 +1723,12 @@
         ]
       },
       "properties": {
-        "name:fa": "امیر حسین صفری گلدسته",
         "id": "MjI6MTI4OTg",
+        "city": "شهرستان ایلام",
         "date": "1771237800",
+        "name:fa": "امیر حسین صفری گلدسته",
         "accurate": "yes",
+        "province": "استان ایلام",
         "publicId": "MjI6MTI4OTg",
         "sourceId": "12898",
         "layerId": 22,
@@ -1632,10 +1752,12 @@
         ]
       },
       "properties": {
-        "name:fa": "میلاد غلام زاده",
         "id": "MjI6MTI4OTk",
+        "city": "نوشر",
         "date": "1771326000",
+        "name:fa": "میلاد غلام زاده",
         "accurate": "yes",
+        "province": "استان گیلان",
         "publicId": "MjI6MTI4OTk",
         "sourceId": "12899",
         "layerId": 22,
@@ -1659,10 +1781,12 @@
         ]
       },
       "properties": {
-        "name:fa": "شهید محمدرضا محسنی",
         "id": "MjI6MTI5MDA",
+        "city": "شهرستان ری",
         "date": "1771324200",
+        "name:fa": "شهید محمدرضا محسنی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI5MDA",
         "sourceId": "12900",
         "layerId": 22,
@@ -1686,10 +1810,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهندس محمد شاه پوری",
         "id": "MjI6MTI5MDE",
+        "city": "تهران",
         "date": "1771237800",
+        "name:fa": "مهندس محمد شاه پوری",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI5MDE",
         "sourceId": "12901",
         "layerId": 22,
@@ -1713,10 +1839,12 @@
         ]
       },
       "properties": {
-        "name:fa": "حسام قریشی",
         "id": "MjI6MTI5MDI",
+        "city": "نجف‌ آباد",
         "date": "1771410600",
+        "name:fa": "حسام قریشی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTI5MDI",
         "sourceId": "12902",
         "layerId": 22,
@@ -1740,10 +1868,12 @@
         ]
       },
       "properties": {
-        "name:fa": "علی علائی کاشانی",
         "id": "MjI6MTI5MDM",
+        "city": "شهرستان ری",
         "date": "1771585200",
+        "name:fa": "علی علائی کاشانی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI5MDM",
         "sourceId": "12903",
         "layerId": 22,
@@ -1767,10 +1897,12 @@
         ]
       },
       "properties": {
-        "name:fa": "اسماعیل خروشا",
         "id": "MjI6MTI5MDQ",
+        "city": "برازجان",
         "date": "1771241400",
+        "name:fa": "اسماعیل خروشا",
         "accurate": "yes",
+        "province": "استان بوشهر",
         "publicId": "MjI6MTI5MDQ",
         "sourceId": "12904",
         "layerId": 22,
@@ -1794,10 +1926,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهندس محمد رجایی",
         "id": "MjI6MTI5MDU",
+        "city": "نجف‌ آباد",
         "date": "1771324200",
+        "name:fa": "مهندس محمد رجایی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTI5MDU",
         "sourceId": "12905",
         "layerId": 22,
@@ -1821,10 +1955,12 @@
         ]
       },
       "properties": {
-        "name:fa": "الهام آرپناهی",
         "id": "MjI6MTI5MDY",
+        "city": "جلال آباد",
         "date": "1771324200",
+        "name:fa": "الهام آرپناهی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTI5MDY",
         "sourceId": "12906",
         "layerId": 22,
@@ -1848,10 +1984,12 @@
         ]
       },
       "properties": {
-        "name:fa": "سحر بیات",
         "id": "MjI6MTI5MDc",
+        "city": "تويسركان",
         "date": "1770895800",
+        "name:fa": "سحر بیات",
         "accurate": "yes",
+        "province": "استان همدان",
         "publicId": "MjI6MTI5MDc",
         "sourceId": "12907",
         "layerId": 22,
@@ -1875,10 +2013,12 @@
         ]
       },
       "properties": {
-        "name:fa": "دکتر مسعود مدبر",
         "id": "MjI6MTI5MDg",
+        "city": "شهرستان شاهین‌شهر و میمه",
         "date": "1771461660",
+        "name:fa": "دکتر مسعود مدبر",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTI5MDg",
         "sourceId": "12908",
         "layerId": 22,
@@ -1902,10 +2042,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهندس محمد امامی پور",
         "id": "MjI6MTI5MDk",
+        "city": "قم",
         "date": "1770897600",
+        "name:fa": "مهندس محمد امامی پور",
         "accurate": "yes",
+        "province": "استان قم",
         "publicId": "MjI6MTI5MDk",
         "sourceId": "12909",
         "layerId": 22,
@@ -1929,10 +2071,12 @@
         ]
       },
       "properties": {
-        "name:fa": "آیدا حیدری",
         "id": "MjI6MTI5MTA",
+        "city": "شهرستان ری",
         "date": "1773558000",
+        "name:fa": "آیدا حیدری",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI5MTA",
         "sourceId": "12910",
         "layerId": 22,
@@ -1956,10 +2100,12 @@
         ]
       },
       "properties": {
-        "name:fa": "کریم حیدری",
         "id": "MjI6MTI5MTE",
+        "city": "شهرستان گناوه",
         "date": "1771326000",
+        "name:fa": "کریم حیدری",
         "accurate": "yes",
+        "province": "استان بوشهر",
         "publicId": "MjI6MTI5MTE",
         "sourceId": "12911",
         "layerId": 22,
@@ -1983,10 +2129,12 @@
         ]
       },
       "properties": {
-        "name:fa": "جاوید رضائی",
         "id": "MjI6MTI5MTI",
+        "city": "تهران",
         "date": "1773558000",
+        "name:fa": "جاوید رضائی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI5MTI",
         "sourceId": "12912",
         "layerId": 22,
@@ -2010,10 +2158,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهندس محمد مهدی مجیدی",
         "id": "MjI6MTI5MTM",
+        "city": "نجف‌ آباد",
         "date": "1771324200",
+        "name:fa": "مهندس محمد مهدی مجیدی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTI5MTM",
         "sourceId": "12913",
         "layerId": 22,
@@ -2037,10 +2187,12 @@
         ]
       },
       "properties": {
-        "name:fa": "رضا اسدی",
         "id": "MjI6MTI5MTQ",
+        "city": "گرگان",
         "date": "1771070400",
+        "name:fa": "رضا اسدی",
         "accurate": "yes",
+        "province": "استان گلستان",
         "publicId": "MjI6MTI5MTQ",
         "sourceId": "12914",
         "layerId": 22,
@@ -2064,10 +2216,12 @@
         ]
       },
       "properties": {
-        "name:fa": "علی زنگنه",
         "id": "MjI6MTI5MTU",
+        "city": "شهرستان مشهد",
         "date": "1773905400",
+        "name:fa": "علی زنگنه",
         "accurate": "yes",
+        "province": "استان خراسان رضوی",
         "publicId": "MjI6MTI5MTU",
         "sourceId": "12915",
         "layerId": 22,
@@ -2091,10 +2245,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهندس محمد متین رنجکش",
         "id": "MjI6MTI5MTY",
+        "city": "محسن آباد",
         "date": "1771412400",
+        "name:fa": "مهندس محمد متین رنجکش",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTI5MTY",
         "sourceId": "12916",
         "layerId": 22,
@@ -2118,10 +2274,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهندس علی پور امام علی",
         "id": "MjI6MTI5MTc",
+        "city": "چالوس",
         "date": "1771412400",
+        "name:fa": "مهندس علی پور امام علی",
         "accurate": "yes",
+        "province": "استان مازندران",
         "publicId": "MjI6MTI5MTc",
         "sourceId": "12917",
         "layerId": 22,
@@ -2145,10 +2303,12 @@
         ]
       },
       "properties": {
-        "name:fa": "احسان زال نژاد (حسن) و پیام کوهستانی",
         "id": "MjI6MTI5MTg",
+        "city": "سینوا",
         "date": "1771502400",
+        "name:fa": "احسان زال نژاد (حسن) و پیام کوهستانی",
         "accurate": "yes",
+        "province": "استان مازندران",
         "publicId": "MjI6MTI5MTg",
         "sourceId": "12918",
         "layerId": 22,
@@ -2172,10 +2332,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهندس علی زارعی",
         "id": "MjI6MTI5MTk",
+        "city": "مرودشت",
         "date": "1771329600",
+        "name:fa": "مهندس علی زارعی",
         "accurate": "yes",
+        "province": "استان فارس",
         "publicId": "MjI6MTI5MTk",
         "sourceId": "12919",
         "layerId": 22,
@@ -2199,10 +2361,12 @@
         ]
       },
       "properties": {
-        "name:fa": "یاسر جودکی",
         "id": "MjI6MTI5MjA",
+        "city": "باقرشهر",
         "date": "1771498800",
+        "name:fa": "یاسر جودکی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI5MjA",
         "sourceId": "12920",
         "layerId": 22,
@@ -2226,10 +2390,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مسعود رضائی نو",
         "id": "MjI6MTI5MjE",
+        "city": "کرج",
         "date": "1770897600",
+        "name:fa": "مسعود رضائی نو",
         "accurate": "yes",
+        "province": "استان البرز",
         "publicId": "MjI6MTI5MjE",
         "sourceId": "12921",
         "layerId": 22,
@@ -2253,10 +2419,12 @@
         ]
       },
       "properties": {
-        "name:fa": "علی خسروی",
         "id": "MjI6MTI5MjI",
+        "city": "جهاد آباد",
         "date": "1771498800",
+        "name:fa": "علی خسروی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTI5MjI",
         "sourceId": "12922",
         "layerId": 22,
@@ -2280,10 +2448,12 @@
         ]
       },
       "properties": {
-        "name:fa": "رضا رضایی",
         "id": "MjI6MTI5MjM",
+        "city": "شهرستان ساوجبلاغ",
         "date": "1771583400",
+        "name:fa": "رضا رضایی",
         "accurate": "yes",
+        "province": "استان البرز",
         "publicId": "MjI6MTI5MjM",
         "sourceId": "12923",
         "layerId": 22,
@@ -2307,10 +2477,12 @@
         ]
       },
       "properties": {
-        "name:fa": "سجاد بیات",
         "id": "MjI6MTI5MjQ",
+        "city": "کرج",
         "date": "1771500600",
+        "name:fa": "سجاد بیات",
         "accurate": "yes",
+        "province": "استان البرز",
         "publicId": "MjI6MTI5MjQ",
         "sourceId": "12924",
         "layerId": 22,
@@ -2334,10 +2506,12 @@
         ]
       },
       "properties": {
-        "name:fa": "پژمان نوروز رجبی",
         "id": "MjI6MTI5MjU",
+        "city": "مراء",
         "date": "1771497000",
+        "name:fa": "پژمان نوروز رجبی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI5MjU",
         "sourceId": "12925",
         "layerId": 22,
@@ -2361,10 +2535,12 @@
         ]
       },
       "properties": {
-        "name:fa": "فرزانه ساسانی پور / علیرضا نادری / بهنود حسن زاده",
         "id": "MjI6MTI5MjY",
+        "city": "تجریش",
         "date": "1771498800",
+        "name:fa": "فرزانه ساسانی پور / علیرضا نادری / بهنود حسن زاده",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI5MjY",
         "sourceId": "12926",
         "layerId": 22,
@@ -2388,10 +2564,12 @@
         ]
       },
       "properties": {
-        "name:fa": "نازنین زهرا اسمی خانی",
         "id": "MjI6MTI5Mjc",
+        "city": "قشلاق",
         "date": "1771506000",
+        "name:fa": "نازنین زهرا اسمی خانی",
         "accurate": "yes",
+        "province": "استان قزوین",
         "publicId": "MjI6MTI5Mjc",
         "sourceId": "12927",
         "layerId": 22,
@@ -2415,10 +2593,12 @@
         ]
       },
       "properties": {
-        "name:fa": "ایلیا اجاقلو",
         "id": "MjI6MTI5Mjg",
+        "city": "تهران",
         "date": "1771326000",
+        "name:fa": "ایلیا اجاقلو",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTI5Mjg",
         "sourceId": "12928",
         "layerId": 22,
@@ -2442,10 +2622,12 @@
         ]
       },
       "properties": {
-        "name:fa": "محمد رنجبر",
         "id": "MjI6MTI5Mjk",
+        "city": "اراک",
         "date": "1771200000",
+        "name:fa": "محمد رنجبر",
         "accurate": "yes",
+        "province": "استان مرکزی",
         "publicId": "MjI6MTI5Mjk",
         "sourceId": "12929",
         "layerId": 22,
@@ -2469,10 +2651,12 @@
         ]
       },
       "properties": {
-        "name:fa": "افشین میارکیانی",
         "id": "MjI6MTI5MzA",
+        "city": "چالوس",
         "date": "1771327800",
+        "name:fa": "افشین میارکیانی",
         "accurate": "yes",
+        "province": "استان مازندران",
         "publicId": "MjI6MTI5MzA",
         "sourceId": "12930",
         "layerId": 22,
@@ -2496,10 +2680,12 @@
         ]
       },
       "properties": {
-        "name:fa": "رئوف درخشانی مهر",
         "id": "MjI6MTM2MTg",
+        "city": "دزفول",
         "date": "1771498800",
+        "name:fa": "رئوف درخشانی مهر",
         "accurate": "yes",
+        "province": "استان خوزستان",
         "publicId": "MjI6MTM2MTg",
         "sourceId": "13618",
         "layerId": 22,
@@ -2523,10 +2709,12 @@
         ]
       },
       "properties": {
-        "name:fa": "عارف براتی",
         "id": "MjI6MTM2MTk",
+        "city": "شهرستان کازرون",
         "date": "1771500600",
+        "name:fa": "عارف براتی",
         "accurate": "yes",
+        "province": "استان فارس",
         "publicId": "MjI6MTM2MTk",
         "sourceId": "13619",
         "layerId": 22,
@@ -2550,10 +2738,12 @@
         ]
       },
       "properties": {
-        "name:fa": "جبار پناهی آزاد",
         "id": "MjI6MTM2MjA",
+        "city": "گلزار شهدای قائمیه",
         "date": "1771500600",
+        "name:fa": "جبار پناهی آزاد",
         "accurate": "yes",
+        "province": "استان فارس",
         "publicId": "MjI6MTM2MjA",
         "sourceId": "13620",
         "layerId": 22,
@@ -2577,10 +2767,12 @@
         ]
       },
       "properties": {
-        "name:fa": "عرفان جامه شورانی",
         "id": "MjI6MTM2MjE",
+        "city": "کرمانشاه",
         "date": "1771237800",
+        "name:fa": "عرفان جامه شورانی",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTM2MjE",
         "sourceId": "13621",
         "layerId": 22,
@@ -2604,10 +2796,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهرداد یعقوبی مهر",
         "id": "MjI6MTM2MjI",
+        "city": "دورود",
         "date": "1771500600",
+        "name:fa": "مهرداد یعقوبی مهر",
         "accurate": "yes",
+        "province": "استان لرستان",
         "publicId": "MjI6MTM2MjI",
         "sourceId": "13622",
         "layerId": 22,
@@ -2631,10 +2825,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مانی هداوند",
         "id": "MjI6MTM2MjM",
+        "city": "سوران",
         "date": "1771497000",
+        "name:fa": "مانی هداوند",
         "accurate": "yes",
+        "province": "استان لرستان",
         "publicId": "MjI6MTM2MjM",
         "sourceId": "13623",
         "layerId": 22,
@@ -2658,10 +2854,12 @@
         ]
       },
       "properties": {
-        "name:fa": "حمیدرضا رفیعی",
         "id": "MjI6MTM2MjQ",
+        "city": "طرقبه",
         "date": "1771414200",
+        "name:fa": "حمیدرضا رفیعی",
         "accurate": "yes",
+        "province": "استان خراسان رضوی",
         "publicId": "MjI6MTM2MjQ",
         "sourceId": "13624",
         "layerId": 22,
@@ -2685,10 +2883,12 @@
         ]
       },
       "properties": {
-        "name:fa": "بهروز منصوری",
         "id": "MjI6MTM2MjU",
+        "city": "بنه گز",
         "date": "1771414200",
+        "name:fa": "بهروز منصوری",
         "accurate": "yes",
+        "province": "استان بوشهر",
         "publicId": "MjI6MTM2MjU",
         "sourceId": "13625",
         "layerId": 22,
@@ -2712,10 +2912,12 @@
         ]
       },
       "properties": {
-        "name:fa": "منصوره حیدری بوشهر",
         "id": "MjI6MTM2MjY",
+        "city": "بنه گز",
         "date": "1771414200",
+        "name:fa": "منصوره حیدری بوشهر",
         "accurate": "yes",
+        "province": "استان بوشهر",
         "publicId": "MjI6MTM2MjY",
         "sourceId": "13626",
         "layerId": 22,
@@ -2739,10 +2941,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهدی صادقی",
         "id": "MjI6MTM2Mjc",
+        "city": "اصفهان",
         "date": "1771581600",
+        "name:fa": "مهدی صادقی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2Mjc",
         "sourceId": "13627",
         "layerId": 22,
@@ -2766,10 +2970,12 @@
         ]
       },
       "properties": {
-        "name:fa": "راشد صالح دستجردی",
         "id": "MjI6MTM2Mjg",
+        "city": "اصفهان",
         "date": "1771498800",
+        "name:fa": "راشد صالح دستجردی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2Mjg",
         "sourceId": "13628",
         "layerId": 22,
@@ -2793,10 +2999,12 @@
         ]
       },
       "properties": {
-        "name:fa": "رضا اسماعیلی",
         "id": "MjI6MTM2Mjk",
+        "city": "قیامدشت",
         "date": "1771410600",
+        "name:fa": "رضا اسماعیلی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTM2Mjk",
         "sourceId": "13629",
         "layerId": 22,
@@ -2820,10 +3028,12 @@
         ]
       },
       "properties": {
-        "name:fa": "محمد نعمتی",
         "id": "MjI6MTM2MzA",
+        "city": "شهر ابریشم",
         "date": "1771497000",
+        "name:fa": "محمد نعمتی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2MzA",
         "sourceId": "13630",
         "layerId": 22,
@@ -2847,10 +3057,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مجید بویری",
         "id": "MjI6MTM2MzE",
+        "city": "شهرستان بروجن",
         "date": "1771495200",
+        "name:fa": "مجید بویری",
         "accurate": "yes",
+        "province": "استان چهارمحال و بختیاری",
         "publicId": "MjI6MTM2MzE",
         "sourceId": "13631",
         "layerId": 22,
@@ -2874,10 +3086,12 @@
         ]
       },
       "properties": {
-        "name:fa": "محسن چیت ساز",
         "id": "MjI6MTM2MzI",
+        "city": "دستگرد",
         "date": "1771497000",
+        "name:fa": "محسن چیت ساز",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2MzI",
         "sourceId": "13632",
         "layerId": 22,
@@ -2901,10 +3115,12 @@
         ]
       },
       "properties": {
-        "name:fa": "پویا درخشان",
         "id": "MjI6MTM2MzM",
+        "city": "آرامكاه",
         "date": "1771497000",
+        "name:fa": "پویا درخشان",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTM2MzM",
         "sourceId": "13633",
         "layerId": 22,
@@ -2928,10 +3144,12 @@
         ]
       },
       "properties": {
-        "name:fa": "حسین رادی",
         "id": "MjI6MTM2MzQ",
+        "city": "نجف‌ آباد",
         "date": "1771412400",
+        "name:fa": "حسین رادی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2MzQ",
         "sourceId": "13634",
         "layerId": 22,
@@ -2955,10 +3173,12 @@
         ]
       },
       "properties": {
-        "name:fa": "عماد عباسی فرد",
         "id": "MjI6MTM2MzU",
+        "city": "بهشهر",
         "date": "1771327800",
+        "name:fa": "عماد عباسی فرد",
         "accurate": "yes",
+        "province": "استان مازندران",
         "publicId": "MjI6MTM2MzU",
         "sourceId": "13635",
         "layerId": 22,
@@ -2982,10 +3202,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مسیح جلو خانیان",
         "id": "MjI6MTM2MzY",
+        "city": "اصفهان",
         "date": "1771500600",
+        "name:fa": "مسیح جلو خانیان",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2MzY",
         "sourceId": "13636",
         "layerId": 22,
@@ -3009,10 +3231,12 @@
         ]
       },
       "properties": {
-        "name:fa": "محدثه شهبازی",
         "id": "MjI6MTM2Mzc",
+        "city": "شهرستان ری",
         "date": "1771484400",
+        "name:fa": "محدثه شهبازی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTM2Mzc",
         "sourceId": "13637",
         "layerId": 22,
@@ -3036,10 +3260,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مصطفی زابطی",
         "id": "MjI6MTM2Mzg",
+        "city": "همدان",
         "date": "1771414200",
+        "name:fa": "مصطفی زابطی",
         "accurate": "yes",
+        "province": "استان همدان",
         "publicId": "MjI6MTM2Mzg",
         "sourceId": "13638",
         "layerId": 22,
@@ -3063,10 +3289,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مهدی حسینی منجزی",
         "id": "MjI6MTM2Mzk",
+        "city": "شهرستان لنجان",
         "date": "1770643800",
+        "name:fa": "مهدی حسینی منجزی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2Mzk",
         "sourceId": "13639",
         "layerId": 22,
@@ -3090,10 +3318,12 @@
         ]
       },
       "properties": {
-        "name:fa": "بابک صادقی محسنی",
         "id": "MjI6MTM2NDA",
+        "city": "همدان",
         "date": "1771504200",
+        "name:fa": "بابک صادقی محسنی",
         "accurate": "yes",
+        "province": "استان همدان",
         "publicId": "MjI6MTM2NDA",
         "sourceId": "13640",
         "layerId": 22,
@@ -3117,10 +3347,12 @@
         ]
       },
       "properties": {
-        "name:fa": "بهنام درویشی",
         "id": "MjI6MTM2NDE",
+        "city": "نهاوند",
         "date": "1771407000",
+        "name:fa": "بهنام درویشی",
         "accurate": "yes",
+        "province": "استان همدان",
         "publicId": "MjI6MTM2NDE",
         "sourceId": "13641",
         "layerId": 22,
@@ -3144,10 +3376,12 @@
         ]
       },
       "properties": {
-        "name:fa": "یاسر عزتی نصرتیان",
         "id": "MjI6MTM2NDI",
+        "city": "قادرخلج",
         "date": "1771414200",
+        "name:fa": "یاسر عزتی نصرتیان",
         "accurate": "yes",
+        "province": "استان همدان",
         "publicId": "MjI6MTM2NDI",
         "sourceId": "13642",
         "layerId": 22,
@@ -3171,10 +3405,12 @@
         ]
       },
       "properties": {
-        "name:fa": "متین مقیمی ورزنی",
         "id": "MjI6MTM2NDM",
+        "city": "کرج",
         "date": "1771414200",
+        "name:fa": "متین مقیمی ورزنی",
         "accurate": "yes",
+        "province": "استان البرز",
         "publicId": "MjI6MTM2NDM",
         "sourceId": "13643",
         "layerId": 22,
@@ -3198,10 +3434,12 @@
         ]
       },
       "properties": {
-        "name:fa": "راهب زاهدی",
         "id": "MjI6MTM2NDQ",
+        "city": "خوزنکلا",
         "date": "1771502400",
+        "name:fa": "راهب زاهدی",
         "accurate": "yes",
+        "province": "استان البرز",
         "publicId": "MjI6MTM2NDQ",
         "sourceId": "13644",
         "layerId": 22,
@@ -3225,10 +3463,12 @@
         ]
       },
       "properties": {
-        "name:fa": "احسان شکری",
         "id": "MjI6MTM2NDU",
+        "city": "قاسم آباد",
         "date": "1771396200",
+        "name:fa": "احسان شکری",
         "accurate": "yes",
+        "province": "استان همدان",
         "publicId": "MjI6MTM2NDU",
         "sourceId": "13645",
         "layerId": 22,
@@ -3252,10 +3492,12 @@
         ]
       },
       "properties": {
-        "name:fa": "امیر محمد ترک ارزانفودی",
         "id": "MjI6MTM2NDY",
+        "city": "همدان",
         "date": "1771324200",
+        "name:fa": "امیر محمد ترک ارزانفودی",
         "accurate": "yes",
+        "province": "استان همدان",
         "publicId": "MjI6MTM2NDY",
         "sourceId": "13646",
         "layerId": 22,
@@ -3279,10 +3521,12 @@
         ]
       },
       "properties": {
-        "name:fa": "محمد مهدی مدری",
         "id": "MjI6MTM2NDc",
+        "city": "بریموند",
         "date": "1771324200",
+        "name:fa": "محمد مهدی مدری",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTM2NDc",
         "sourceId": "13647",
         "layerId": 22,
@@ -3306,10 +3550,12 @@
         ]
       },
       "properties": {
-        "name:fa": "بهروز بیگدلی",
         "id": "MjI6MTM2NDg",
+        "city": "اصفهان",
         "date": "1771497000",
+        "name:fa": "بهروز بیگدلی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2NDg",
         "sourceId": "13648",
         "layerId": 22,
@@ -3333,10 +3579,12 @@
         ]
       },
       "properties": {
-        "name:fa": "محمد جعفرپور",
         "id": "MjI6MTM2NDk",
+        "city": "خمینی شهر",
         "date": "1771414200",
+        "name:fa": "محمد جعفرپور",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2NDk",
         "sourceId": "13649",
         "layerId": 22,
@@ -3360,10 +3608,12 @@
         ]
       },
       "properties": {
-        "name:fa": "ارمیا لاچیانی",
         "id": "MjI6MTM2NTA",
+        "city": "اصفهان",
         "date": "1771410600",
+        "name:fa": "ارمیا لاچیانی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2NTA",
         "sourceId": "13650",
         "layerId": 22,
@@ -3387,10 +3637,12 @@
         ]
       },
       "properties": {
-        "name:fa": "علیرضا سعیدی فرد",
         "id": "MjI6MTM2NTE",
+        "city": "مرودشت",
         "date": "1771412400",
+        "name:fa": "علیرضا سعیدی فرد",
         "accurate": "yes",
+        "province": "استان فارس",
         "publicId": "MjI6MTM2NTE",
         "sourceId": "13651",
         "layerId": 22,
@@ -3414,10 +3666,12 @@
         ]
       },
       "properties": {
-        "name:fa": "فردین جعفر نژاد",
         "id": "MjI6MTM2NTI",
+        "city": "کلانشهر رشت",
         "date": "1771498800",
+        "name:fa": "فردین جعفر نژاد",
         "accurate": "yes",
+        "province": "استان گیلان",
         "publicId": "MjI6MTM2NTI",
         "sourceId": "13652",
         "layerId": 22,
@@ -3441,10 +3695,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مجتبی وثوق",
         "id": "MjI6MTM2NTM",
+        "city": "شهرستان فلاورجان",
         "date": "1771495200",
+        "name:fa": "مجتبی وثوق",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2NTM",
         "sourceId": "13653",
         "layerId": 22,
@@ -3468,10 +3724,12 @@
         ]
       },
       "properties": {
-        "name:fa": "پارسا لوینیان",
         "id": "MjI6MTM2NTQ",
+        "city": "اصفهان",
         "date": "1771486200",
+        "name:fa": "پارسا لوینیان",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2NTQ",
         "sourceId": "13654",
         "layerId": 22,
@@ -3495,10 +3753,12 @@
         ]
       },
       "properties": {
-        "name:fa": "غزل جانقربان",
         "id": "MjI6MTM2NTU",
+        "city": "اصفهان",
         "date": "1771587000",
+        "name:fa": "غزل جانقربان",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2NTU",
         "sourceId": "13655",
         "layerId": 22,
@@ -3522,10 +3782,12 @@
         ]
       },
       "properties": {
-        "name:fa": "محمد صادق (فیروز) محرابی",
         "id": "MjI6MTM2NTY",
+        "city": "اصفهان",
         "date": "1771502400",
+        "name:fa": "محمد صادق (فیروز) محرابی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2NTY",
         "sourceId": "13656",
         "layerId": 22,
@@ -3549,10 +3811,12 @@
         ]
       },
       "properties": {
-        "name:fa": "امیر حسین ابراهیمی",
         "id": "MjI6MTM2NTc",
+        "city": "کهرویه",
         "date": "1771497000",
+        "name:fa": "امیر حسین ابراهیمی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2NTc",
         "sourceId": "13657",
         "layerId": 22,
@@ -3576,10 +3840,12 @@
         ]
       },
       "properties": {
-        "name:fa": "حمید ابراهیمی",
         "id": "MjI6MTM2NTg",
+        "city": "کلاک بالا",
         "date": "1771495200",
+        "name:fa": "حمید ابراهیمی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTM2NTg",
         "sourceId": "13658",
         "layerId": 22,
@@ -3603,10 +3869,12 @@
         ]
       },
       "properties": {
-        "name:fa": "حسن ایرانپور مبارکه",
         "id": "MjI6MTM2NTk",
+        "city": "سپیدان",
         "date": "1771497000",
+        "name:fa": "حسن ایرانپور مبارکه",
         "accurate": "yes",
+        "province": "استان فارس",
         "publicId": "MjI6MTM2NTk",
         "sourceId": "13659",
         "layerId": 22,
@@ -3630,10 +3898,12 @@
         ]
       },
       "properties": {
-        "name:fa": "کسری وفاپرور",
         "id": "MjI6MTM2NjA",
+        "city": "شهرستان ملارد",
         "date": "1771583400",
+        "name:fa": "کسری وفاپرور",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTM2NjA",
         "sourceId": "13660",
         "layerId": 22,
@@ -3657,10 +3927,12 @@
         ]
       },
       "properties": {
-        "name:fa": "حسین تائبی",
         "id": "MjI6MTM2NjE",
+        "city": "اصفهان",
         "date": "1771567200",
+        "name:fa": "حسین تائبی",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2NjE",
         "sourceId": "13661",
         "layerId": 22,
@@ -3684,10 +3956,12 @@
         ]
       },
       "properties": {
-        "name:fa": "رضا حاجی مرادی",
         "id": "MjI6MTM2NjI",
+        "city": "قصرشیرین",
         "date": "1771498800",
+        "name:fa": "رضا حاجی مرادی",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTM2NjI",
         "sourceId": "13662",
         "layerId": 22,
@@ -3711,10 +3985,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مصطفی عزیزی",
         "id": "MjI6MTM2NjM",
+        "city": "شهرستان ری",
         "date": "1771414200",
+        "name:fa": "مصطفی عزیزی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTM2NjM",
         "sourceId": "13663",
         "layerId": 22,
@@ -3738,10 +4014,12 @@
         ]
       },
       "properties": {
-        "name:fa": "متین عباسی",
         "id": "MjI6MTM2NjQ",
+        "city": "شهرستان شهریار",
         "date": "1771324200",
+        "name:fa": "متین عباسی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTM2NjQ",
         "sourceId": "13664",
         "layerId": 22,
@@ -3765,10 +4043,12 @@
         ]
       },
       "properties": {
-        "name:fa": "مجید پوررستمی",
         "id": "MjI6MTM2NjU",
+        "city": "شهرستان قرچک",
         "date": "1771587000",
+        "name:fa": "مجید پوررستمی",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTM2NjU",
         "sourceId": "13665",
         "layerId": 22,
@@ -3792,10 +4072,12 @@
         ]
       },
       "properties": {
-        "name:fa": "امیر رادمان مهر (برچگانی)",
         "id": "MjI6MTM2NjY",
+        "city": "اصفهان",
         "date": "1771581600",
+        "name:fa": "امیر رادمان مهر (برچگانی)",
         "accurate": "yes",
+        "province": "استان اصفهان",
         "publicId": "MjI6MTM2NjY",
         "sourceId": "13666",
         "layerId": 22,
@@ -3819,10 +4101,12 @@
         ]
       },
       "properties": {
-        "name:fa": "علی بری نیا",
         "id": "MjI6MTM2Njc",
+        "city": "نسیم شهر",
         "date": "1771245000",
+        "name:fa": "علی بری نیا",
         "accurate": "yes",
+        "province": "استان تهران",
         "publicId": "MjI6MTM2Njc",
         "sourceId": "13667",
         "layerId": 22,
@@ -3846,10 +4130,12 @@
         ]
       },
       "properties": {
-        "name:fa": "یداله حیدری",
         "id": "MjI6MTM2Njg",
+        "city": "عبدالله آباد",
         "date": "1771320600",
+        "name:fa": "یداله حیدری",
         "accurate": "yes",
+        "province": "استان مازندران",
         "publicId": "MjI6MTM2Njg",
         "sourceId": "13668",
         "layerId": 22,
@@ -3873,10 +4159,12 @@
         ]
       },
       "properties": {
-        "name:fa": "سعید کهراری",
         "id": "MjI6MTM2Njk",
+        "city": "کرمانشاه",
         "date": "1771410600",
+        "name:fa": "سعید کهراری",
         "accurate": "yes",
+        "province": "استان کرمانشاه",
         "publicId": "MjI6MTM2Njk",
         "sourceId": "13669",
         "layerId": 22,
@@ -3900,10 +4188,12 @@
         ]
       },
       "properties": {
-        "name:fa": "ستایش سوسن آبادی",
         "id": "MjI6MTM2NzA",
+        "city": "اراک",
         "date": "1771396200",
+        "name:fa": "ستایش سوسن آبادی",
         "accurate": "yes",
+        "province": "استان مرکزی",
         "publicId": "MjI6MTM2NzA",
         "sourceId": "13670",
         "layerId": 22,
