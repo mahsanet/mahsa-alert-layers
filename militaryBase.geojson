@@ -18724,10 +18724,14 @@
         ]
       },
       "properties": {
-        "id": "MTE6OTcw",
+        "name:fa": "",
+        "unofficial_name:fa": "یگان امنیتی ثامن الحجج پاکدشت",
+        "operator": "",
+        "description": "",
+        "date": "",
         "city": "شهرستان پاکدشت",
         "province": "استان تهران",
-        "unofficial_name:fa": "سپاه ناحیه پاکدشت",
+        "id": "MTE6OTcw",
         "publicId": "MTE6OTcw",
         "sourceId": "970",
         "layerId": 11,
@@ -18737,7 +18741,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:49:49.518Z",
-        "updatedAt": "2026-03-11T20:49:49.518Z"
+        "updatedAt": "2026-07-28T00:57:12.538Z"
       }
     },
     {
@@ -43004,10 +43008,39 @@
         "createdAt": "2026-07-25T21:19:39.421Z",
         "updatedAt": "2026-07-25T21:19:39.421Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94076,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.121673953406315,
+          39.14367463707552
+        ]
+      },
+      "properties": {
+        "name:fa": "تاسیسات نظامی پلدشت",
+        "description": "تاسیسات نظامی پلدشت",
+        "date": 1785151822,
+        "city": "شهرستان پلدشت",
+        "province": "استان آذربایجان غربی",
+        "id": "MTE6MDY4ZjhhM2Y2OWRj",
+        "publicId": "MTE6MDY4ZjhhM2Y2OWRj",
+        "sourceId": "068f8a3f69dc",
+        "layerId": 11,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T00:32:08.104Z",
+        "updatedAt": "2026-07-28T00:32:08.104Z"
+      }
     }
   ],
   "metadata": {
-    "total": 377,
+    "total": 378,
     "layerId": 11,
     "clustered": false,
     "simplified": false

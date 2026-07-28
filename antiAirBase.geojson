@@ -6596,35 +6596,6 @@
     },
     {
       "type": "Feature",
-      "id": 93533,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3136582531136,
-          35.765364631678665
-        ]
-      },
-      "properties": {
-        "name:fa": "شرکت پارس پرداز",
-        "description": "شرکت پارس پرداز همکاری با سپاه برای ساخت پدافند ضد هوایی و موتور جت جنگنده 20 تیر 1405",
-        "date": 1783788708,
-        "city": "تهران",
-        "province": "استان تهران",
-        "id": "ODozZWIyOTYwNjE0M2M",
-        "publicId": "ODozZWIyOTYwNjE0M2M",
-        "sourceId": "3eb29606143c",
-        "layerId": 8,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-15T01:53:44.934Z",
-        "updatedAt": "2026-07-15T01:53:44.934Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93536,
       "geometry": {
         "type": "Point",
@@ -6799,7 +6770,7 @@
     }
   ],
   "metadata": {
-    "total": 105,
+    "total": 104,
     "layerId": 8,
     "clustered": false,
     "simplified": false

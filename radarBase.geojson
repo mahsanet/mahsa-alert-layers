@@ -718,52 +718,6 @@
     },
     {
       "type": "Feature",
-      "id": 636,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              52.4815674,
-              35.0393291
-            ],
-            [
-              52.4807467,
-              35.039316
-            ],
-            [
-              52.4807319,
-              35.0386879
-            ],
-            [
-              52.4816398,
-              35.038734
-            ],
-            [
-              52.4815674,
-              35.0393291
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "OToxMDM2",
-        "city": "شهرستان آرادان",
-        "province": "استان سمنان",
-        "publicId": "OToxMDM2",
-        "sourceId": "1036",
-        "layerId": 9,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:49:18.914Z",
-        "updatedAt": "2026-03-11T20:49:18.914Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 637,
       "geometry": {
         "type": "Polygon",
@@ -3817,6 +3771,64 @@
         "expirationDate": null,
         "createdAt": "2026-07-24T23:43:39.088Z",
         "updatedAt": "2026-07-24T23:43:39.088Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94083,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.48075072725712,
+              35.03932413962404
+            ],
+            [
+              52.481567357237,
+              35.03932546889425
+            ],
+            [
+              52.48165015669872,
+              35.038788442322
+            ],
+            [
+              52.48074098614228,
+              35.03869938064352
+            ],
+            [
+              52.48073936262344,
+              35.03870070992292
+            ],
+            [
+              52.48073936262344,
+              35.03870070992292
+            ],
+            [
+              52.48075072725712,
+              35.03932413962404
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "Nebo SVU radar system (probably)",
+        "date": "",
+        "city": "شهرستان آرادان",
+        "province": "استان سمنان",
+        "id": "OTo1YWUxZGZjMTY3YmE",
+        "publicId": "OTo1YWUxZGZjMTY3YmE",
+        "sourceId": "5ae1dfc167ba",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T01:51:54.272Z",
+        "updatedAt": "2026-07-28T01:55:38.974Z"
       }
     }
   ],

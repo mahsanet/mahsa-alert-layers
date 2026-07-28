@@ -14726,6 +14726,36 @@
     },
     {
       "type": "Feature",
+      "id": 93533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3136582531136,
+          35.765364631678665
+        ]
+      },
+      "properties": {
+        "name:fa": "شرکت پارس پرداز",
+        "unofficial_name:fa": "",
+        "description": "شرکت پارس پرداز همکاری با سپاه برای ساخت پدافند ضد هوایی و موتور جت جنگنده 20 تیر 1405",
+        "date": 1783788708,
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MzY6M2ViMjk2MDYxNDNj",
+        "publicId": "MzY6M2ViMjk2MDYxNDNj",
+        "sourceId": "3eb29606143c",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:44.934Z",
+        "updatedAt": "2026-07-28T01:38:25.296Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 93685,
       "geometry": {
         "type": "Point",
@@ -17276,10 +17306,332 @@
         "createdAt": "2026-07-25T21:01:39.773Z",
         "updatedAt": "2026-07-25T21:01:39.773Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9033789168152,
+          39.542098830774194
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "description": "تجمع نیروهای سرکوب",
+        "date": 1785152102,
+        "city": "شهرستان پلدشت",
+        "province": "استان آذربایجان غربی",
+        "id": "MzY6N2ViYjRiNjBmZWVh",
+        "publicId": "MzY6N2ViYjRiNjBmZWVh",
+        "sourceId": "7ebb4b60feea",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-27T23:32:51.969Z",
+        "updatedAt": "2026-07-27T23:32:51.969Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.06210225215159,
+          37.523420637555105
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور نیروی انتظامی",
+        "description": "حضور سرکوب نیروی انتظامی",
+        "date": 1785144021,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "id": "MzY6ZGVkYWFhOWNiZjRl",
+        "publicId": "MzY6ZGVkYWFhOWNiZjRl",
+        "sourceId": "dedaaa9cbf4e",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-27T23:38:58.762Z",
+        "updatedAt": "2026-07-27T23:38:58.762Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0446705685718,
+          37.536432785064605
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروی سرکوب",
+        "description": "تجمع نیروی سرکوب",
+        "date": 1785143969,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "id": "MzY6MmRhMzVmMmZmZTdj",
+        "publicId": "MzY6MmRhMzVmMmZmZTdj",
+        "sourceId": "2da35f2ffe7c",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-27T23:41:32.485Z",
+        "updatedAt": "2026-07-27T23:41:32.485Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.049252614534936,
+          37.56577950260191
+        ]
+      },
+      "properties": {
+        "name:fa": "گشت زنی مسلحانه",
+        "description": "مسجد و پایگاه بسیج در تمام روزهای جنگ چهل روزه از این مکان نوجوانان زیادی به صورت مسلح به سلاح کلاشینکف هر شب در تمام خیابان شروع به گشت زنی میکردند و همه با ماسک بودند",
+        "date": 1785131212,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "id": "MzY6MjZkYTcxNjViZDcz",
+        "publicId": "MzY6MjZkYTcxNjViZDcz",
+        "sourceId": "26da7165bd73",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-27T23:43:34.203Z",
+        "updatedAt": "2026-07-27T23:43:34.203Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.15411858485214,
+          39.19787936739428
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور بسیج و سپاه",
+        "city": "شهرستان پلدشت",
+        "province": "استان آذربایجان غربی",
+        "date": 1785139200,
+        "description": "مشاهده حضور بسیج و سپاه در این مکان",
+        "sources": "",
+        "id": "MzY6N2Q5Y2E0YjdiNDM1",
+        "publicId": "MzY6N2Q5Y2E0YjdiNDM1",
+        "sourceId": "7d9ca4b7b435",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-27T23:50:11.711Z",
+        "updatedAt": "2026-07-27T23:50:11.711Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94071,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.449602911594496,
+          29.046731442275544
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی بم زاهدان",
+        "description": "پلیس راه و ایست بازرسی بم زاهدان",
+        "date": 1785107995,
+        "city": "شهرستان بم",
+        "province": "استان کرمان",
+        "id": "MzY6MDNmNzNlNTBjODcz",
+        "publicId": "MzY6MDNmNzNlNTBjODcz",
+        "sourceId": "03f73e50c873",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-27T23:51:43.841Z",
+        "updatedAt": "2026-07-27T23:52:38.238Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94072,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61721412200964,
+          36.308321110861215
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور بسیج و سپاه",
+        "description": "دیده شدن مزدوران و پرچم بگیران جمهوری اسلامی در خیایان نیمه شب همراه با بسیج و سپاه",
+        "date": 1785082278,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MzY6ZjZmZDg4ZDAxYjU0",
+        "publicId": "MzY6ZjZmZDg4ZDAxYjU0",
+        "sourceId": "f6fd88d01b54",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-27T23:55:36.438Z",
+        "updatedAt": "2026-07-27T23:55:36.438Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94073,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.65988501328164,
+          32.71461064575588
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور مردم و نیروهای سرکوب در محل اعدام زندانیان",
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "date": 1785195300,
+        "description": "بامداد سه‌شنبه، جمعیت در میدان علیخانی اصفهان و اطراف محل اجرای حکم اعدام رو به افزایش گزارش شده است.\n\nخانواده‌های زندانیان، معترضان و شماری از طرفداران جمهوری اسلامی به‌طور همزمان در این محدوده حضور دارند و احتمال بروز درگیری میان حاضران افزایش یافته است.\n\nحدود ساعت ۰۳:۲۵ صبح روز 6 مرداد، حضور نیروهای سرکوب در اطراف محل اعدام تشدید شده و مأموران اقدام به پس زدن جمعیت و خانواده‌های زندانیان سیاسی کرده اند. بر اساس گزارش‌های منتشرشده، برخی مأموران با سلاح جمعیت معترض را تهدید کرده‌اند و صدای فریاد و گریه خانواده‌ها از بخش‌های مختلف محدوده شنیده می‌شود.",
+        "sources": "https://t.me/iliaen/4636, https://t.me/iliaen/4641, https://t.me/iliaen/4642, https://t.me/mamlekate/104013, https://t.me/mamlekate/104008",
+        "id": "MzY6ODk3NGM2YWU5MDYw",
+        "publicId": "MzY6ODk3NGM2YWU5MDYw",
+        "sourceId": "8974c6ae9060",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T00:18:48.916Z",
+        "updatedAt": "2026-07-28T00:21:08.010Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.65920843019995,
+          32.71450163869969
+        ]
+      },
+      "properties": {
+        "name:fa": "اعتراض به اعدام، اصفهان",
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "date": 1785198600,
+        "description": "[حدود ساعت ۴ صبح]، همزمان با ساعت اذان، گزارش‌هایی از اعتراض مردم در حوالی محل اعدام در حال انتشار است.\n\n[حدود ساعت ۵ صبح]، خبرگزاری فارس اعلام کرد؛ جاوید‌نام امیرحسین صفری، جاویدنام ابولفضل سپاهی و جاویدنام علیرضا سپاهی از معترضین دی‌ماه ۱۴۰۴، دقایقی پیش اعدام شدند.",
+        "sources": "https://x.com/vahid__bahman/status/2081905159756493199, https://x.com/limondar0/status/2081907515319595286, https://t.me/farsna/453051",
+        "id": "MzY6OTk0NzM4NWZkMmQ2",
+        "publicId": "MzY6OTk0NzM4NWZkMmQ2",
+        "sourceId": "9947385fd2d6",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T00:55:53.305Z",
+        "updatedAt": "2026-07-28T01:55:18.316Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51217919689202,
+          34.783208903892486
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمعات عرزشی ها",
+        "description": "محل تجمعات عرزشی ها",
+        "date": 1785194236,
+        "city": "همدان",
+        "province": "استان همدان",
+        "id": "MzY6M2IyNDg0ZTU2MmRh",
+        "publicId": "MzY6M2IyNDg0ZTU2MmRh",
+        "sourceId": "3b2484e562da",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T01:21:25.146Z",
+        "updatedAt": "2026-07-28T01:21:25.146Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.512322839204785,
+          34.76988319444469
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمعات",
+        "description": "محل تجمعات شبانه عرزشی ها",
+        "date": 1785194039,
+        "city": "همدان",
+        "province": "استان همدان",
+        "id": "MzY6MDEzOTk0MmE4ODk1",
+        "publicId": "MzY6MDEzOTk0MmE4ODk1",
+        "sourceId": "0139942a8895",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T01:21:25.273Z",
+        "updatedAt": "2026-07-28T01:21:25.273Z"
+      }
     }
   ],
   "metadata": {
-    "total": 592,
+    "total": 604,
     "layerId": 36,
     "clustered": false,
     "simplified": false

@@ -65505,10 +65505,68 @@
         "createdAt": "2026-07-25T21:01:39.868Z",
         "updatedAt": "2026-07-25T21:01:39.868Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.35737337293335,
+          29.102737315478535
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "description": "پایگاه بسیج مرکز شهر",
+        "date": 1785108391,
+        "city": "بم",
+        "province": "استان کرمان",
+        "id": "MTozNjY0Yzg3MWZhOTI",
+        "publicId": "MTozNjY0Yzg3MWZhOTI",
+        "sourceId": "3664c871fa92",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T00:48:55.267Z",
+        "updatedAt": "2026-07-28T00:48:55.267Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.96717594447466,
+          36.42543491495758
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج و سپاه شاهرود",
+        "description": "پایگاه خبری و تحلیلی بسیج و سپاه پاسداران شاهرود محل ساماندهی نیرو های امنیتی و حفاظتی سرکوبگران است. ۷ دوربین مداربسته و ۴ تا دوربین دید در شب",
+        "date": 1785077696,
+        "city": "شاهرود",
+        "province": "استان سمنان",
+        "id": "MTo0MTAwYjk0OWJlYTU",
+        "publicId": "MTo0MTAwYjk0OWJlYTU",
+        "sourceId": "4100b949bea5",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T01:00:12.986Z",
+        "updatedAt": "2026-07-28T01:00:38.812Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2185,
+    "total": 2187,
     "layerId": 1,
     "clustered": false,
     "simplified": false

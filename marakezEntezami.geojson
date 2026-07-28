@@ -42432,34 +42432,6 @@
     },
     {
       "type": "Feature",
-      "id": 85587,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          59.4718252,
-          36.3623147
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjI5Mw",
-        "city": "مشهد",
-        "osm_id": "",
-        "name:fa": "نیروی انتظامی",
-        "province": "استان خراسان رضوی",
-        "publicId": "Mzo2MjI5Mw",
-        "sourceId": "62293",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.356Z",
-        "updatedAt": "2026-03-13T04:41:06.356Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85588,
       "geometry": {
         "type": "Point",
@@ -170274,7 +170246,7 @@
     }
   ],
   "metadata": {
-    "total": 6070,
+    "total": 6069,
     "layerId": 3,
     "clustered": false,
     "simplified": false

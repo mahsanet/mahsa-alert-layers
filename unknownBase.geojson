@@ -69540,8 +69540,9 @@
         ]
       },
       "properties": {
-        "name:fa": "پادگان آموزشی",
-        "description": "پادگان آموزشی",
+        "name:fa": "پادگان آموزشی یگان تکاوران",
+        "unofficial_name:fa": "",
+        "description": "پادگان آموزشی یگان تکاوران",
         "date": 1784827264,
         "city": "شهرستان بم",
         "province": "استان کرمان",
@@ -69555,7 +69556,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-07-24T05:36:26.569Z",
-        "updatedAt": "2026-07-24T05:36:26.569Z"
+        "updatedAt": "2026-07-28T01:17:54.598Z"
       }
     },
     {
@@ -69615,10 +69616,68 @@
         "createdAt": "2026-07-24T23:43:39.008Z",
         "updatedAt": "2026-07-24T23:43:39.008Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94074,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.160033571744265,
+          39.20429219265574
+        ]
+      },
+      "properties": {
+        "name:fa": "تاسیسات نظامی محصور",
+        "description": "زیر کوه کلا تاسیسات هست.",
+        "date": 1785152030,
+        "city": "شهرستان پلدشت",
+        "province": "استان آذربایجان غربی",
+        "id": "MTI6YmI4ZDEyZWUzYTNm",
+        "publicId": "MTI6YmI4ZDEyZWUzYTNm",
+        "sourceId": "bb8d12ee3a3f",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T00:30:07.914Z",
+        "updatedAt": "2026-07-28T00:30:07.914Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94075,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.13434483878305,
+          39.19665196906115
+        ]
+      },
+      "properties": {
+        "name:fa": "کارخانه سپاه",
+        "description": "زیرساخت کارخانه سپاه",
+        "date": 1785151922,
+        "city": "شهرستان پلدشت",
+        "province": "استان آذربایجان غربی",
+        "id": "MTI6N2EyNTA1NTZmYTgx",
+        "publicId": "MTI6N2EyNTA1NTZmYTgx",
+        "sourceId": "7a250556fa81",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T00:32:07.952Z",
+        "updatedAt": "2026-07-28T00:32:07.952Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1006,
+    "total": 1008,
     "layerId": 12,
     "clustered": false,
     "simplified": false
