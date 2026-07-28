@@ -28,7 +28,7 @@ Public open-data repo (CC BY 4.0) — no code. It holds:
 
 ## How it gets updated — do NOT hand-edit the data
 
-The backend worker's daily cron (`jobs/export-geojson-to-github.ts` in MahsaAlert-Backend, scheduled 02:00 UTC in `jobs/scheduler.ts`) exports layers from the production database and commits directly to `main` via the GitHub API, skipping unchanged layers by blob-SHA comparison. Data commits follow the format `data: YYYY-MM-DD (N layers changed)`. The author identity, repo owner/name, and branch come from the backend's `config/default.json` `github.*` keys.
+An automated backend job exports layers from the production database daily and commits directly to `main` via the GitHub API, skipping unchanged layers by blob-SHA comparison. Data commits follow the format `data: YYYY-MM-DD (N layers changed)`.
 
 Consequences:
 
@@ -38,4 +38,4 @@ Consequences:
 ## Consumers
 
 - Public open-data users (the repo is the published dataset).
-- The team's report-verification duplicate checks (see the backend repo's `/report-cleanup` skill), which compare new reports against these layer sources — though the working copies for that live in `mahsa-alert-tools/scripts/sources/`.
+- The team's internal report-verification tooling, which compares new reports against these layer sources.
