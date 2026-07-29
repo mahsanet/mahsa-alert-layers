@@ -11971,10 +11971,67 @@
         "createdAt": "2026-07-26T02:33:25.540Z",
         "updatedAt": "2026-07-26T02:33:25.540Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94103,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.461962163595445,
+              35.75410422755898
+            ],
+            [
+              51.463569078863316,
+              35.75410422755898
+            ],
+            [
+              51.46303705961887,
+              35.750791132740545
+            ],
+            [
+              51.461386714209766,
+              35.75094092989818
+            ],
+            [
+              51.46138802825851,
+              35.75093466612948
+            ],
+            [
+              51.46138802825851,
+              35.75093466612948
+            ],
+            [
+              51.461962163595445,
+              35.75410422755898
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "وزارت اطلاعات",
+        "description": "محدوده با دیوار بتنی محصور شده و دارای بخشی زیر زمینی است. گاهی نیز زندانیان را برای شکنجه به این مکان منتقل میکنند.\nکل کوچه عراقی با دوربین مانیور میشود.",
+        "date": "",
+        "city": "",
+        "province": "",
+        "id": "MjoyY2ExYTNlYmY4YzQ",
+        "publicId": "MjoyY2ExYTNlYmY4YzQ",
+        "sourceId": "2ca1a3ebf8c4",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T19:04:32.851Z",
+        "updatedAt": "2026-07-28T19:48:24.463Z"
+      }
     }
   ],
   "metadata": {
-    "total": 341,
+    "total": 342,
     "layerId": 2,
     "clustered": false,
     "simplified": false

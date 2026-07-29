@@ -170243,10 +170243,39 @@
         "createdAt": "2026-07-25T21:01:39.669Z",
         "updatedAt": "2026-07-25T21:01:39.669Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94084,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.06836402416229,
+          34.30761701971949
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 15 شریعتی",
+        "description": "",
+        "date": "",
+        "city": "کرمانشاه",
+        "province": "استان کرمانشاه",
+        "id": "MzoyZmFiNGZhMmZkY2E",
+        "publicId": "MzoyZmFiNGZhMmZkY2E",
+        "sourceId": "2fab4fa2fdca",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T02:15:21.986Z",
+        "updatedAt": "2026-07-28T02:15:21.986Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6069,
+    "total": 6070,
     "layerId": 3,
     "clustered": false,
     "simplified": false

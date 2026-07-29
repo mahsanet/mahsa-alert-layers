@@ -22658,7 +22658,7 @@
         "description": "هدف احتمالی: پدافند سربندر",
         "city": "بندر امام خمینی",
         "province": "استان خوزستان",
-        "sources": "https://x.com/Vahid/status/2078990811950113225, https://t.me/VahidOnline/77285",
+        "sources": "https://x.com/zarGEOINT/status/2082173723096895872?s=20, https://t.me/VahidOnline/77285",
         "id": "MzI6YjljMjQzNWU5Mjc0",
         "publicId": "MzI6YjljMjQzNWU5Mjc0",
         "sourceId": "b9c2435e9274",
@@ -22668,7 +22668,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-07-20T00:39:00.078Z",
-        "updatedAt": "2026-07-21T21:26:30.339Z"
+        "updatedAt": "2026-07-28T21:23:09.336Z"
       }
     },
     {
@@ -22754,7 +22754,7 @@
         "description": "",
         "city": "بندر امام خمینی",
         "province": "استان خوزستان",
-        "sources": "https://t.me/VahidOnline/77290",
+        "sources": "https://x.com/zarGEOINT/status/2082173723096895872?s=20, https://t.me/VahidOnline/77290",
         "id": "MzI6Yzg0NzU2YWNhYTU1",
         "publicId": "MzI6Yzg0NzU2YWNhYTU1",
         "sourceId": "c84756acaa55",
@@ -22764,7 +22764,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-07-20T00:44:58.707Z",
-        "updatedAt": "2026-07-21T21:26:30.339Z"
+        "updatedAt": "2026-07-28T20:49:48.576Z"
       }
     },
     {
@@ -25139,10 +25139,330 @@
         "createdAt": "2026-07-24T21:50:32.273Z",
         "updatedAt": "2026-07-24T21:50:32.273Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.19444504380226,
+          35.693921522768974
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1773297000,
+        "geolocates": "",
+        "description": "گزارش چندین انفجار در طی جنگ 40 روزه",
+        "city": "شهرستان شهریار",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6Yzk0MDc2ODE5MDM5",
+        "publicId": "MzI6Yzk0MDc2ODE5MDM5",
+        "sourceId": "c94076819039",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T02:37:54.235Z",
+        "updatedAt": "2026-07-28T02:37:54.235Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94087,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.204956620931625,
+          35.70670084173955
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1773693000,
+        "geolocates": "",
+        "description": "این مکان در طی جنگ 40 روزه مورد اصابت قرار گرفت",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6NDc3Mjk3MGQ0NWRk",
+        "publicId": "MzI6NDc3Mjk3MGQ0NWRk",
+        "sourceId": "4772970d45dd",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T02:50:50.139Z",
+        "updatedAt": "2026-07-28T02:50:50.139Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94091,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.96570771284976,
+          35.2611415786933
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تخریب ساختمان",
+        "unofficial_name:fa": "",
+        "date": 1784396332,
+        "geolocates": "",
+        "description": "ساختمان بر اثر حملات تخریب شد",
+        "city": "حسن آباد",
+        "province": "استان کردستان",
+        "sources": "",
+        "id": "MzI6NDg5MDliMzI2YTg4",
+        "publicId": "MzI6NDg5MDliMzI2YTg4",
+        "sourceId": "48909b326a88",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T14:33:19.606Z",
+        "updatedAt": "2026-07-28T14:33:39.938Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94094,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36556578800082,
+          34.0887250631784
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1772829000,
+        "geolocates": "",
+        "description": "",
+        "city": "یزدل",
+        "province": "استان اصفهان",
+        "sources": "",
+        "id": "MzI6OTczNTdhNTE4ZTZl",
+        "publicId": "MzI6OTczNTdhNTE4ZTZl",
+        "sourceId": "97357a518e6e",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T14:40:54.264Z",
+        "updatedAt": "2026-07-28T14:40:54.264Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94096,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.08475347826601,
+          27.109832621260537
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1772224200,
+        "geolocates": "",
+        "description": "",
+        "city": "میناب",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/UnSansVisage/status/2031283482643603586?s=20, https://x.com/Hoomay_saadat/status/2080646418436440474?s=20, ",
+        "id": "MzI6MGE0ZmViY2RmMzUw",
+        "publicId": "MzI6MGE0ZmViY2RmMzUw",
+        "sourceId": "0a4febcdf350",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T14:49:09.165Z",
+        "updatedAt": "2026-07-28T14:50:44.346Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94097,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.08542052144023,
+          27.10902352096231
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1772224200,
+        "geolocates": "",
+        "description": "",
+        "city": "میناب",
+        "province": "استان هرمزگان",
+        "sources": "",
+        "id": "MzI6OTJiNjE4NmM4NTA1",
+        "publicId": "MzI6OTJiNjE4NmM4NTA1",
+        "sourceId": "92b6186c8505",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T14:50:37.074Z",
+        "updatedAt": "2026-07-28T14:50:37.074Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.19305589532061,
+          35.71278128701836
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1773433800,
+        "geolocates": "",
+        "description": "هدف گرفته شده تو جنگ 40 روزه",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6ZTgzNDM0YjBiOTI0",
+        "publicId": "MzI6ZTgzNDM0YjBiOTI0",
+        "sourceId": "e83434b0b924",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T15:58:11.655Z",
+        "updatedAt": "2026-07-28T15:59:26.195Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.18420369923115,
+          35.72279459750126
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1773693000,
+        "geolocates": "",
+        "description": "چند ساختمان بر اثر حملات در جنگ 40 روزه تخریب شدن",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6YzgxYjRjN2I3ZDEy",
+        "publicId": "MzI6YzgxYjRjN2I3ZDEy",
+        "sourceId": "c81b4c7b7d12",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T19:37:59.223Z",
+        "updatedAt": "2026-07-28T19:37:59.223Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.28283417010138,
+          35.63776174952763
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تخریب ساختمان دانشگاه آزاد",
+        "unofficial_name:fa": "",
+        "date": 1773088200,
+        "geolocates": "",
+        "description": "\"این ساختمان و ساختمان مجاور آن تخریب شده‌اند. این محل در محوطه دانشگاه آزاد اسلامی قرار داشت.\" تایید این ادعا هنوز در دست برسی است.",
+        "city": "شهرستان دماوند",
+        "province": "استان تهران",
+        "sources": "",
+        "id": "MzI6OTA0MzM2YWU5ZTRk",
+        "publicId": "MzI6OTA0MzM2YWU5ZTRk",
+        "sourceId": "904336ae9e4d",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T19:40:12.339Z",
+        "updatedAt": "2026-07-28T19:41:12.351Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.852930708978704,
+          37.446773540784775
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به تأسیسات نیروی دریایی سپاه",
+        "unofficial_name:fa": "",
+        "date": 1753561800,
+        "geolocates": "",
+        "description": "در ۲ مرداد ۱۴۰۵، حمله آمریکا تأسیسات بندری متعلق به قرارگاه حضرت سیدالشهدا نیروی دریایی سپاه پاسداران انقلاب اسلامی را در نزدیکی زیباکنار، در شمال‌غرب ایران، منهدم کرد.\n",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/zarGEOINT/status/2082165963311444111?s=20",
+        "id": "MzI6Y2Q1OTFmMDhhN2My",
+        "publicId": "MzI6Y2Q1OTFmMDhhN2My",
+        "sourceId": "cd591f08a7c2",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T20:44:49.891Z",
+        "updatedAt": "2026-07-28T21:19:47.393Z"
+      }
     }
   ],
   "metadata": {
-    "total": 803,
+    "total": 813,
     "layerId": 32,
     "clustered": false,
     "simplified": false

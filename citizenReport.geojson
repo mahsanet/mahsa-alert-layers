@@ -17628,10 +17628,129 @@
         "createdAt": "2026-07-28T01:21:25.273Z",
         "updatedAt": "2026-07-28T01:21:25.273Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.65550593659282,
+          35.98668535684345
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "city": "شهرستان نظرآباد",
+        "province": "استان البرز",
+        "date": "",
+        "description": "در این مکان مخطل کننده رادار گذاشته میشه و در دو مرحله با موشک زده شده است",
+        "sources": "",
+        "id": "MzY6MTFkOWY5Y2VmMTUx",
+        "publicId": "MzY6MTFkOWY5Y2VmMTUx",
+        "sourceId": "11d9f9cef151",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T15:56:22.668Z",
+        "updatedAt": "2026-07-28T15:56:22.668Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.68925193324685,
+          31.358341003310613
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "date": "",
+        "description": "محل تجمع سرکوبگران",
+        "sources": "",
+        "id": "MzY6NTlkM2U5M2UzNTUz",
+        "publicId": "MzY6NTlkM2U5M2UzNTUz",
+        "sourceId": "59d3e93e3553",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T16:02:41.088Z",
+        "updatedAt": "2026-07-28T16:03:08.257Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.09197,
+          35.981289
+        ]
+      },
+      "properties": {
+        "name:fa": "گشت زنی شبانه خودروهای سپاه",
+        "description": "ماشین های گشت خودروهای سپاه پاسداران در منطقه لجنه بخش جاده طرود پایگاه صحرایی پنهان که به زیر پایگاه امام رضا که سوخت موشکی هست راه دارد...ماشین ها در شب گشت میزنند .از بغل معدن آهن راه زیر زمینی هست و پناهگاه نفرات سپاه پاسداران و موشک های مختلف در زیر این کوه لجنه ....تعدادی لانچر هم در پایگاه سوخت موشکی امام رضا به اینجا منتقل شده توسط قطعه ، قطعه کردن تجهیزات معدنی و به داخل کوه انتقال یافته است ....نگهبانی از این محل ها به عهده سواره نظام ماشینی پایگاه امام رضا است که از ساعت ۸ شب تا ۷ صبح در بیابان حضور دارند",
+        "date": 1785254946,
+        "city": "شهرستان شاهرود",
+        "province": "استان سمنان",
+        "id": "MzY6ZTg0ZGIzMTMyZThi",
+        "publicId": "MzY6ZTg0ZGIzMTMyZThi",
+        "sourceId": "e84db3132e8b",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T18:43:22.453Z",
+        "updatedAt": "2026-07-28T18:43:22.453Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.131646493388786,
+          33.55667152234864
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک از خمین",
+        "city": "شهرستان خمین",
+        "province": "استان مرکزی",
+        "date": "",
+        "description": "از خمین موشک بلند شد\nسه تا صدای انفجار\n\nسه تا موشک تو آسمون لرستان از سمت اراک دیده شد \nصدای انفجار تو آسمون لرستان میاد.\n\nاین موشک ها به سمت پایگاه هوایی موفق السلطی ایالات متحده در اردن شلیک شدند و در آسمان اردن رهگیری شدند.",
+        "sources": "https://x.com/Vahid/status/2082222414625169447?s=20, https://x.com/ILRedAlert/status/2082220201345454378?s=20, https://x.com/BeamTracker_/status/2082223661767909386?s=20, https://t.me/VahidOnline/77594, https://t.me/VahidOnline/77595?single, https://x.com/Osint613/status/2082226656790351983?s=20",
+        "id": "MzY6ZmJmMjgzZmM1NWFm",
+        "publicId": "MzY6ZmJmMjgzZmM1NWFm",
+        "sourceId": "fbf283fc55af",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T21:50:20.667Z",
+        "updatedAt": "2026-07-28T23:40:24.868Z"
+      }
     }
   ],
   "metadata": {
-    "total": 604,
+    "total": 608,
     "layerId": 36,
     "clustered": false,
     "simplified": false

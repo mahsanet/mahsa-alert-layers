@@ -1643,20 +1643,23 @@
         ]
       },
       "properties": {
-        "id": "MTo5NzA2",
+        "name:fa": "",
+        "unofficial_name:fa": "پایگاه مقاومت بسیج الله اکبر",
+        "description": "پایگاه مقاومت بسیج الله اکبر شهرستان آبپخش",
+        "date": "",
         "city": "آبپخش",
         "province": "استان بوشهر",
-        "unofficial_name:fa": "پایگاه مقاومت بسیج الله اکبر",
+        "id": "MTo5NzA2",
         "publicId": "MTo5NzA2",
         "sourceId": "9706",
         "layerId": 1,
         "type": "location",
         "status": "active",
         "urgency": null,
-        "verificationTag": null,
+        "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-03-11T20:52:52.421Z",
-        "updatedAt": "2026-03-11T20:52:52.421Z"
+        "updatedAt": "2026-07-28T14:17:45.125Z"
       }
     },
     {
@@ -65563,10 +65566,330 @@
         "createdAt": "2026-07-28T01:00:12.986Z",
         "updatedAt": "2026-07-28T01:00:38.812Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94085,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.06819638609886,
+          34.306129668502464
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "حسینیه حضرت زهرا",
+        "description": "محل اسقرار نیروهای بسیج در زمان اعتراضات",
+        "date": "",
+        "city": "کرمانشاه",
+        "province": "استان کرمانشاه",
+        "id": "MTpkODhjOGUzYjYyMDU",
+        "publicId": "MTpkODhjOGUzYjYyMDU",
+        "sourceId": "d88c8e3b6205",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T02:20:01.788Z",
+        "updatedAt": "2026-07-28T02:20:01.788Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94088,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.07547873248188,
+          29.36063284237025
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهدا",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج شهدا شهرستان آبپخش",
+        "date": "",
+        "city": "آبپخش",
+        "province": "استان بوشهر",
+        "id": "MTo5ZTJjM2NmYWRjNGU",
+        "publicId": "MTo5ZTJjM2NmYWRjNGU",
+        "sourceId": "9e2c3cfadc4e",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T14:12:26.504Z",
+        "updatedAt": "2026-07-28T14:12:26.504Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94090,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.077031679451466,
+          29.351522927025812
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج آبپخش",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "آبپخش",
+        "province": "استان بوشهر",
+        "id": "MTplNjA1ZTE1NWRlNWU",
+        "publicId": "MTplNjA1ZTE1NWRlNWU",
+        "sourceId": "e605e155de5e",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T14:15:47.623Z",
+        "updatedAt": "2026-07-28T14:15:47.623Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94093,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.36501835078266,
+              34.08926554845323
+            ],
+            [
+              51.36480297100064,
+              34.088758215655744
+            ],
+            [
+              51.36558504676944,
+              34.088518437713674
+            ],
+            [
+              51.36579159951154,
+              34.088597389062585
+            ],
+            [
+              51.365807488183094,
+              34.08871874006584
+            ],
+            [
+              51.365720983188595,
+              34.0888912628797
+            ],
+            [
+              51.36545793738847,
+              34.08916028080267
+            ],
+            [
+              51.36545793738847,
+              34.089163204906285
+            ],
+            [
+              51.36545793738847,
+              34.089163204906285
+            ],
+            [
+              51.36501835078266,
+              34.08926554845323
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج یزدل",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "یزدل",
+        "province": "استان اصفهان",
+        "id": "MTphZTM3NzEzYjg5MDM",
+        "publicId": "MTphZTM3NzEzYjg5MDM",
+        "sourceId": "ae37713b8903",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T14:38:01.894Z",
+        "updatedAt": "2026-07-28T14:38:01.894Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94105,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.31445519472865,
+              27.18956940387723
+            ],
+            [
+              56.31610289533532,
+              27.18994763007089
+            ],
+            [
+              56.31614786979364,
+              27.189642139784098
+            ],
+            [
+              56.31672436057664,
+              27.189689418097075
+            ],
+            [
+              56.31675298068592,
+              27.189540309502277
+            ],
+            [
+              56.31645451382653,
+              27.18948575752671
+            ],
+            [
+              56.316528108395204,
+              27.18898387810566
+            ],
+            [
+              56.31464326973554,
+              27.189031156698604
+            ],
+            [
+              56.31464326973554,
+              27.189031156698604
+            ],
+            [
+              56.31445519472865,
+              27.18956940387723
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج و مسجد سید مظفر بند عباس",
+        "unofficial_name:fa": "",
+        "description": "عموما محل شکل‌گیری هسته‌های اولیه‌ی سرکوب",
+        "date": "",
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
+        "id": "MTozZTQ2MDIyY2ZhMGQ",
+        "publicId": "MTozZTQ2MDIyY2ZhMGQ",
+        "sourceId": "3e46022cfa0d",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T19:13:48.133Z",
+        "updatedAt": "2026-07-28T19:13:48.133Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.346464947007604,
+          27.237428864022334
+        ]
+      },
+      "properties": {
+        "name:fa": "حوضه مقاومت بسیج رضایی",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرک توحید",
+        "province": "استان هرمزگان",
+        "id": "MTo5ZTY5MDBiZmVhNjU",
+        "publicId": "MTo5ZTY5MDBiZmVhNjU",
+        "sourceId": "9e6900bfea65",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T19:18:39.080Z",
+        "updatedAt": "2026-07-28T19:18:39.080Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.35247312181363,
+          27.219272340242412
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر بسیج دانشگاه",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
+        "id": "MTo3OWM5MDc0MzBkMjk",
+        "publicId": "MTo3OWM5MDc0MzBkMjk",
+        "sourceId": "79c907430d29",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T19:23:20.651Z",
+        "updatedAt": "2026-07-28T19:23:20.651Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.33816011121553,
+          35.70365861024071
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTo2ZWZjMmI3OWNlMjc",
+        "publicId": "MTo2ZWZjMmI3OWNlMjc",
+        "sourceId": "6efc2b79ce27",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T20:05:19.881Z",
+        "updatedAt": "2026-07-28T20:05:19.881Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2187,
+    "total": 2195,
     "layerId": 1,
     "clustered": false,
     "simplified": false

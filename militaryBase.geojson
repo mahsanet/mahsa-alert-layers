@@ -43037,10 +43037,73 @@
         "createdAt": "2026-07-28T00:32:08.104Z",
         "updatedAt": "2026-07-28T00:32:08.104Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94098,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.08275586499741,
+              27.107556354031203
+            ],
+            [
+              57.08432391371085,
+              27.10913950174219
+            ],
+            [
+              57.08461858058203,
+              27.108942780463778
+            ],
+            [
+              57.08557624791743,
+              27.109813972071137
+            ],
+            [
+              57.08678648685628,
+              27.10884910354318
+            ],
+            [
+              57.08437653279452,
+              27.106329164955156
+            ],
+            [
+              57.08437653279452,
+              27.106329164955156
+            ],
+            [
+              57.08275586499741,
+              27.107556354031203
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سیدالشهدا سپاه شهرستان میناب",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "میناب",
+        "province": "استان هرمزگان",
+        "id": "MTE6YzcyNDFmNjM5ODY3",
+        "publicId": "MTE6YzcyNDFmNjM5ODY3",
+        "sourceId": "c7241f639867",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T14:54:49.798Z",
+        "updatedAt": "2026-07-28T14:54:49.798Z"
+      }
     }
   ],
   "metadata": {
-    "total": 378,
+    "total": 379,
     "layerId": 11,
     "clustered": false,
     "simplified": false

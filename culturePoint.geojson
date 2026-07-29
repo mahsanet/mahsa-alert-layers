@@ -82337,10 +82337,112 @@
         "createdAt": "2026-07-24T05:36:26.469Z",
         "updatedAt": "2026-07-24T05:36:26.469Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94108,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.31690321149662,
+              27.188485023593657
+            ],
+            [
+              56.317698293179916,
+              27.18854542498181
+            ],
+            [
+              56.31799679361254,
+              27.188348234770118
+            ],
+            [
+              56.31816979329267,
+              27.187582275407067
+            ],
+            [
+              56.31820295956345,
+              27.187324507733635
+            ],
+            [
+              56.317872849240274,
+              27.187267940074705
+            ],
+            [
+              56.31784492522726,
+              27.187356977683066
+            ],
+            [
+              56.31718935411024,
+              27.18726097097064
+            ],
+            [
+              56.31718895616493,
+              27.187264452731938
+            ],
+            [
+              56.317188557581716,
+              27.187267940074705
+            ],
+            [
+              56.31690321149662,
+              27.188485023593657
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره کل شیلات استان هرمزگان",
+        "description": "بخشی از دفاتر سپاه ناحیه بندر عباس درین محیط قرار دارد. ایضا در زمان اعتراضات محل پارک ادوات موبایل سرکوب میباشد.",
+        "date": "",
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
+        "id": "MTc6NGRmNTIyNzI1Y2Ew",
+        "publicId": "MTc6NGRmNTIyNzI1Y2Ew",
+        "sourceId": "4df522725ca0",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T19:33:54.196Z",
+        "updatedAt": "2026-07-28T19:33:54.196Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3345665134604,
+          35.73249397701119
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد اجرایی فرمان امام غرب تهران",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTc6ZWM1ZWQ3ZWI2NTVm",
+        "publicId": "MTc6ZWM1ZWQ3ZWI2NTVm",
+        "sourceId": "ec5ed7eb655f",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-28T20:03:46.084Z",
+        "updatedAt": "2026-07-28T20:03:46.084Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2345,
+    "total": 2347,
     "layerId": 17,
     "clustered": false,
     "simplified": false

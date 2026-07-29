@@ -4416,39 +4416,12 @@
         ]
       },
       "properties": {
-        "id": "MTY6MTAxOTU",
         "city": "اهواز",
         "count": 4,
-        "people": [
-          {
-            "date": "1767976200",
-            "image": "photos/photo_53@18-01-2026_22-40-48.jpg",
-            "rtn_id": "209",
-            "name:fa": "ناجی سواری",
-            "sources": "https://t.me/RememberTheirNames/241"
-          },
-          {
-            "date": "1767976200",
-            "image": "photos/photo_986@24-01-2026_16-57-13.jpg",
-            "rtn_id": "995",
-            "name:fa": "حسین پوشنه",
-            "sources": "https://t.me/RememberTheirNames/1050"
-          },
-          {
-            "date": "1767976200",
-            "image": "photos/photo_2324@07-02-2026_02-39-51.jpg",
-            "rtn_id": "2339",
-            "name:fa": "محمدمهدی فتحی",
-            "sources": "https://t.me/RememberTheirNames/2461"
-          },
-          {
-            "date": "1767976200",
-            "image": "photos/photo_2706@14-02-2026_07-40-42.jpg",
-            "rtn_id": "2721",
-            "name:fa": "رهام سیف",
-            "sources": "https://t.me/RememberTheirNames/2869"
-          }
-        ],
+        "people": "[\n  {\n    \"date\": \"1767976200\",\n    \"image\": \"photos/photo_53@18-01-2026_22-40-48_new.jpg\",\n    \"rtn_id\": \"209\",\n    \"name\": \"ناجی سواری\",\n    \"namefa\": \"ناجی سواری\",\n    \"source\": \"https://t.me/RememberTheirNames/241\",\n    \"sources\": \"https://t.me/RememberTheirNames/241\"\n  },\n  {\n    \"date\": \"1767976200\",\n    \"image\": \"photos/photo_986@24-01-2026_16-57-13.jpg\",\n    \"rtn_id\": \"995\",\n    \"name\": \"حسین پوینده\",\n    \"namefa\": \"حسین پوینده\",\n    \"source\": \"https://t.me/RememberTheirNames/1050\",\n    \"sources\": \"https://t.me/RememberTheirNames/1050\"\n  },\n  {\n    \"date\": \"1767976200\",\n    \"image\": \"photos/photo_2324@07-02-2026_02-39-51.jpg\",\n    \"rtn_id\": \"2339\",\n    \"name\": \"محمدمهدی فتحی\",\n    \"namefa\": \"محمدمهدی فتحی\",\n    \"source\": \"https://t.me/RememberTheirNames/2461\",\n    \"sources\": \"https://t.me/RememberTheirNames/2461\"\n  },\n  {\n    \"date\": \"1767976200\",\n    \"image\": \"photos/photo_2706@14-02-2026_07-40-42.jpg\",\n    \"rtn_id\": \"2721\",\n    \"name\": \"رهام سیف\",\n    \"namefa\": \"رهام سیف\",\n    \"source\": \"https://t.me/RememberTheirNames/2869\",\n    \"sources\": \"https://t.me/RememberTheirNames/2869\"\n  }\n]",
+        "description": "",
+        "date": "",
+        "id": "MTY6MTAxOTU",
         "province": "استان خوزستان",
         "publicId": "MTY6MTAxOTU",
         "sourceId": "10195",
@@ -4459,7 +4432,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:43:09.897Z",
-        "updatedAt": "2026-04-03T22:10:54.627Z"
+        "updatedAt": "2026-07-28T22:34:26.348Z"
       }
     },
     {
