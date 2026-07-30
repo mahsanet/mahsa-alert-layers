@@ -16851,33 +16851,6 @@
     },
     {
       "type": "Feature",
-      "id": 44074,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.5568987,
-          29.5891531
-        ]
-      },
-      "properties": {
-        "id": "MjU6MzE2ODA",
-        "city": "شهرستان گناوه",
-        "name:fa": "بیمارستان امیرالمومنین",
-        "province": "استان بوشهر",
-        "publicId": "MjU6MzE2ODA",
-        "sourceId": "31680",
-        "layerId": 25,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:57:46.723Z",
-        "updatedAt": "2026-03-11T20:57:46.723Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 44075,
       "geometry": {
         "type": "Point",
@@ -37051,15 +37024,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.5582573,
-          29.5914214
+          50.55688959918413,
+          29.591300036399886
         ]
       },
       "properties": {
-        "id": "MjU6MzE2ODE",
+        "name:fa": "بیمارستان امیرالمومنین",
+        "description": "",
+        "date": "",
         "city": "شهرستان گناوه",
-        "name:fa": "بیمارستان سوانح سوختگی چرومی",
         "province": "استان بوشهر",
+        "id": "MjU6MzE2ODE",
         "publicId": "MjU6MzE2ODE",
         "sourceId": "31681",
         "layerId": 25,
@@ -37069,7 +37044,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:57:47.023Z",
-        "updatedAt": "2026-03-11T20:57:47.023Z"
+        "updatedAt": "2026-07-29T22:58:50.734Z"
       }
     },
     {
@@ -37089,33 +37064,6 @@
         "province": "استان خراسان رضوی",
         "publicId": "MjU6MTc5Njc",
         "sourceId": "17967",
-        "layerId": 25,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:57:47.024Z",
-        "updatedAt": "2026-03-11T20:57:47.024Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 44824,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.558041,
-          29.589272
-        ]
-      },
-      "properties": {
-        "id": "MjU6MzU2NDU",
-        "city": "شهرستان گناوه",
-        "name:fa": "بیمارستان سوانح و سوختگی شهرستان گناوه",
-        "province": "استان بوشهر",
-        "publicId": "MjU6MzU2NDU",
-        "sourceId": "35645",
         "layerId": 25,
         "type": "location",
         "status": "active",
@@ -43421,8 +43369,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.2897038,
-          37.1569444
+          50.29040270190271,
+          37.158997496818074
         ]
       },
       "properties": {
@@ -43439,7 +43387,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:57:47.122Z",
-        "updatedAt": "2026-03-11T20:57:47.122Z"
+        "updatedAt": "2026-07-30T00:37:12.887Z"
       }
     },
     {
@@ -95525,10 +95473,39 @@
         "createdAt": "2026-07-24T23:43:38.647Z",
         "updatedAt": "2026-07-24T23:43:38.647Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.558069832623005,
+          29.58950008018003
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان گناوه",
+        "description": "بیمارستان سوانح و سوختگی شهرستان گناوه\n",
+        "date": "",
+        "city": "شهرستان گناوه",
+        "province": "استان بوشهر",
+        "id": "MjU6Njc0MGNmNjA1YzRl",
+        "publicId": "MjU6Njc0MGNmNjA1YzRl",
+        "sourceId": "6740cf605c4e",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T22:57:54.286Z",
+        "updatedAt": "2026-07-29T22:57:54.286Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3537,
+    "total": 3536,
     "layerId": 25,
     "clustered": false,
     "simplified": false

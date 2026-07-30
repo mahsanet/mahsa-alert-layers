@@ -25459,10 +25459,552 @@
         "createdAt": "2026-07-28T20:44:49.891Z",
         "updatedAt": "2026-07-28T21:19:47.393Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.126627983589685,
+          36.7126822559389
+        ]
+      },
+      "properties": {
+        "name:fa": "انفجار حوالی پیرانشهر",
+        "date": 1785321000,
+        "description": "",
+        "sources": "https://t.me/snntv/499719",
+        "city": "شهرستان پیرانشهر",
+        "province": "استان آذربایجان غربی",
+        "id": "MzI6NTAzYjQ2MjMyYzNl",
+        "publicId": "MzI6NTAzYjQ2MjMyYzNl",
+        "sourceId": "503b46232c3e",
+        "layerId": 32,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-29T11:02:29.742Z",
+        "updatedAt": "2026-07-29T11:02:29.742Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.081840948284224,
+          26.56369398339035
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1785363600,
+        "geolocates": "",
+        "description": "ساعت حدود ۰۱:۵۰ صبح پنجشنبه؛ اسکله طاهرویی (سیریک) هدف اصابت یک موشک قرار گرفت.",
+        "city": "",
+        "province": "",
+        "sources": "https://t.me/iliaen/4648",
+        "id": "MzI6MDNkZjgzZTdlMjg4",
+        "publicId": "MzI6MDNkZjgzZTdlMjg4",
+        "sourceId": "03df83e7e288",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T22:32:10.478Z",
+        "updatedAt": "2026-07-29T22:34:32.335Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.12365301422034,
+          38.252793062893204
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "پایگاه موشکی الزهرا-۱۹ در شمال تبریز بمباران شد",
+        "city": "شهرستان شبستر",
+        "province": "استان آذربایجان شرقی",
+        "sources": "https://t.me/hodinews/20545",
+        "id": "MzI6Zjk5NWNmYTk5ZGM4",
+        "publicId": "MzI6Zjk5NWNmYTk5ZGM4",
+        "sourceId": "f995cfa99dc8",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T22:43:39.175Z",
+        "updatedAt": "2026-07-29T22:43:39.175Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.56709820037074,
+          30.091767548410218
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی نورآباد ممسنی",
+        "unofficial_name:fa": "",
+        "date": 1785365340,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان ممسنی",
+        "province": "استان فارس",
+        "sources": "https://t.me/VahidOnline/77627",
+        "id": "MzI6ODExYjBjYTliMTNi",
+        "publicId": "MzI6ODExYjBjYTliMTNi",
+        "sourceId": "811b0ca9b13b",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-29T23:07:15.026Z",
+        "updatedAt": "2026-07-29T23:07:15.026Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.548094334296906,
+          30.10961667722374
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "\"گزارش شنیده شدن انفجار از نورآباد و ممسنی استان فارس\nکفته میشود محدوده پایگاه نیرو زمینی نوراباد بوده.\" لوکیشن دست برسی میباشد.",
+        "city": "نورآباد",
+        "province": "استان فارس",
+        "sources": "https://t.me/hodinews/20550, https://x.com/Osinttechnical/status/2082602243803550061?s=20",
+        "id": "MzI6OThiNDc3MmNiODg0",
+        "publicId": "MzI6OThiNDc3MmNiODg0",
+        "sourceId": "98b4772cb884",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T23:28:28.478Z",
+        "updatedAt": "2026-07-29T23:30:53.788Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.31733401298385,
+          30.350397324113544
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی آبادان",
+        "unofficial_name:fa": "",
+        "date": 1785369600,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان آبادان",
+        "province": "استان خوزستان",
+        "sources": "https://t.me/VahidOnline/77629",
+        "id": "MzI6NjUyZTc5NjFhM2Nj",
+        "publicId": "MzI6NjUyZTc5NjFhM2Nj",
+        "sourceId": "652e7961a3cc",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:04:53.079Z",
+        "updatedAt": "2026-07-30T01:04:53.079Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.99612808904686,
+          26.486777723289876
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی جزیره کیش",
+        "unofficial_name:fa": "",
+        "date": 1785369600,
+        "geolocates": "",
+        "description": "",
+        "city": "",
+        "province": "",
+        "sources": "https://t.me/VahidOnline/77630",
+        "id": "MzI6MTQzMTgyMWQ3OWFj",
+        "publicId": "MzI6MTQzMTgyMWQ3OWFj",
+        "sourceId": "1431821d79ac",
+        "layerId": 32,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:06:50.339Z",
+        "updatedAt": "2026-07-30T01:06:50.339Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.3009541938078,
+          27.799380215038056
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی جم",
+        "unofficial_name:fa": "",
+        "date": 1785369900,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان جم",
+        "province": "استان بوشهر",
+        "sources": "https://t.me/VahidOnline/77631",
+        "id": "MzI6OTBmZDlkYjRhYzJk",
+        "publicId": "MzI6OTBmZDlkYjRhYzJk",
+        "sourceId": "90fd9db4ac2d",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:08:22.838Z",
+        "updatedAt": "2026-07-30T01:08:22.838Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.93391994065587,
+          28.966880047794106
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی بوشهر و چغادک",
+        "unofficial_name:fa": "",
+        "date": 1785369900,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "sources": "https://t.me/VahidOnline/77631",
+        "id": "MzI6ZTRlZDhmNWE0Zjgw",
+        "publicId": "MzI6ZTRlZDhmNWE0Zjgw",
+        "sourceId": "e4ed8f5a4f80",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:10:43.938Z",
+        "updatedAt": "2026-07-30T01:10:43.938Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.277036222029096,
+          29.251034496106428
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی برازجان",
+        "unofficial_name:fa": "",
+        "date": 1785369900,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان دشتستان",
+        "province": "استان بوشهر",
+        "sources": "https://t.me/VahidOnline/77631",
+        "id": "MzI6MzllZGZhYTYxZThj",
+        "publicId": "MzI6MzllZGZhYTYxZThj",
+        "sourceId": "39edfaa61e8c",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:11:26.738Z",
+        "updatedAt": "2026-07-30T01:11:26.738Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.38019611875208,
+          27.200838516173434
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی بندرعباس",
+        "unofficial_name:fa": "",
+        "date": 1785370320,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77632",
+        "id": "MzI6NTc0ZTJlM2VkN2Yz",
+        "publicId": "MzI6NTc0ZTJlM2VkN2Yz",
+        "sourceId": "574e2e3ed7f3",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:19:02.245Z",
+        "updatedAt": "2026-07-30T01:19:02.245Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.64072556209217,
+          29.657790779293663
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی کازرون",
+        "unofficial_name:fa": "",
+        "date": 1785370320,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان کازرون",
+        "province": "استان فارس",
+        "sources": "https://t.me/VahidOnline/77635",
+        "id": "MzI6ODI4NjVlY2U2Yzdl",
+        "publicId": "MzI6ODI4NjVlY2U2Yzdl",
+        "sourceId": "82865ece6c7e",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:21:49.889Z",
+        "updatedAt": "2026-07-30T01:21:49.889Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.67912382864523,
+          31.3294825771505
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در اهواز",
+        "unofficial_name:fa": "",
+        "date": 1785374340,
+        "geolocates": "",
+        "description": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "sources": "https://t.me/VahidOnline/77636",
+        "id": "MzI6N2M2NTcwNTM1YTFm",
+        "publicId": "MzI6N2M2NTcwNTM1YTFm",
+        "sourceId": "7c6570535a1f",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:22:44.125Z",
+        "updatedAt": "2026-07-30T01:22:44.125Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3771886502571,
+          27.197314281591375
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی بندرعباس",
+        "unofficial_name:fa": "",
+        "date": 1785373620,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/77634",
+        "id": "MzI6M2U1MDhiNTM2ZDc4",
+        "publicId": "MzI6M2U1MDhiNTM2ZDc4",
+        "sourceId": "3e508b536d78",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:23:57.822Z",
+        "updatedAt": "2026-07-30T01:23:57.822Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.65148335631079,
+          30.663217353048154
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی شادگان",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان شادگان",
+        "province": "استان خوزستان",
+        "sources": "https://t.me/tabzlive/96414",
+        "id": "MzI6YjEzMDAxZDNkYTk3",
+        "publicId": "MzI6YjEzMDAxZDNkYTk3",
+        "sourceId": "b13001d3da97",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:24:34.100Z",
+        "updatedAt": "2026-07-30T01:25:12.984Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.26322316983729,
+          26.965699552019103
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در قشم",
+        "unofficial_name:fa": "",
+        "date": 1785370200,
+        "geolocates": "",
+        "description": "",
+        "city": "قشم",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/Garajetadayoni/10170, https://t.me/snntv/499862, https://t.me/snntv/499861",
+        "id": "MzI6ZTJiMWQyNDNlYzky",
+        "publicId": "MzI6ZTJiMWQyNDNlYzky",
+        "sourceId": "e2b1d243ec92",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:28:12.108Z",
+        "updatedAt": "2026-07-30T01:28:56.716Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.63528846137817,
+          31.300995696635425
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در اطلاعات اهواز",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "ساختمان اطلاعات رو زدن اهواز گلستان. انفجارها در اهواز مرتبط با محدوده‌ اتوبان گلستان بود که منجر به قطع برق در آن منطقه نیز شد.\n\n",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "sources": "https://t.me/hodinews/20577, https://t.me/iliaen/4658",
+        "id": "MzI6ZDRiODg1MzMwMzI3",
+        "publicId": "MzI6ZDRiODg1MzMwMzI3",
+        "sourceId": "d4b885330327",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:34:05.125Z",
+        "updatedAt": "2026-07-30T01:41:11.330Z"
+      }
     }
   ],
   "metadata": {
-    "total": 813,
+    "total": 830,
     "layerId": 32,
     "clustered": false,
     "simplified": false

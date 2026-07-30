@@ -12911,38 +12911,6 @@
     },
     {
       "type": "Feature",
-      "id": 7450,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.5110109,
-          29.5724248
-        ]
-      },
-      "properties": {
-        "id": "MzQ6MTUxNzEw",
-        "city": "بندر گناوه",
-        "name:fa": "دادگستری",
-        "sources": [
-          "https://maps.google.com/?cid=6312443067747257492",
-          "https://www.openstreetmap.org/way/431694596"
-        ],
-        "category": "دادگاه",
-        "province": "استان بوشهر",
-        "publicId": "MzQ6MTUxNzEw",
-        "sourceId": "151710",
-        "layerId": 34,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:53:15.366Z",
-        "updatedAt": "2026-03-11T20:53:15.366Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 7451,
       "geometry": {
         "type": "Point",
@@ -44352,6 +44320,71 @@
         "expirationDate": null,
         "createdAt": "2026-07-22T21:59:10.683Z",
         "updatedAt": "2026-07-22T21:59:10.683Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94163,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.51027780070308,
+              29.572417122215725
+            ],
+            [
+              50.510389597562096,
+              29.571995278080266
+            ],
+            [
+              50.51097610107985,
+              29.57210597493875
+            ],
+            [
+              50.51095890156216,
+              29.5721927372564
+            ],
+            [
+              50.51141812865683,
+              29.57229745029977
+            ],
+            [
+              50.51131493155745,
+              29.57265347383334
+            ],
+            [
+              50.51127488530548,
+              29.572644516726058
+            ],
+            [
+              50.51127456377509,
+              29.572644516726058
+            ],
+            [
+              50.51027780070308,
+              29.572417122215725
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "دادگستری",
+        "description": "",
+        "date": "",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "id": "MzQ6MjAzZTJjOGUyNzhk",
+        "publicId": "MzQ6MjAzZTJjOGUyNzhk",
+        "sourceId": "203e2c8e278d",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:01:04.927Z",
+        "updatedAt": "2026-07-30T00:01:04.927Z"
       }
     }
   ],

@@ -156563,10 +156563,39 @@
         "createdAt": "2026-07-22T00:20:10.370Z",
         "updatedAt": "2026-07-22T00:20:10.370Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.51399426534772,
+          29.5650740236169
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع\n",
+        "description": "",
+        "date": "",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "id": "NDozN2QwZmY1NGE1YjM",
+        "publicId": "NDozN2QwZmY1NGE1YjM",
+        "sourceId": "37d0ff54a5b3",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T22:50:32.459Z",
+        "updatedAt": "2026-07-29T22:50:32.459Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5588,
+    "total": 5589,
     "layerId": 4,
     "clustered": false,
     "simplified": false

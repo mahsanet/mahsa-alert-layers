@@ -17747,10 +17747,522 @@
         "createdAt": "2026-07-28T21:50:20.667Z",
         "updatedAt": "2026-07-28T23:40:24.868Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.71978301554918,
+          31.33561789329447
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع پلیس",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "date": "",
+        "description": "تجمع خودروهای هایلوکس پلیس با نصب دوشکا روی وانت و مکان نیروها و تجهیزات پلیس. زمان این رویداد مشخص نشده.",
+        "sources": "",
+        "id": "MzY6ZjYxOTBkMTUxNGU5",
+        "publicId": "MzY6ZjYxOTBkMTUxNGU5",
+        "sourceId": "f6190d1514e9",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T14:06:36.116Z",
+        "updatedAt": "2026-07-29T14:06:36.116Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.662418123334646,
+          36.30679335814244
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع و سخنرانی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": "",
+        "description": "شعار دادن و پرچم تکاتی مزدوران جمهوری اسلامی کنار مسجد سخنرانی روی استند",
+        "sources": "",
+        "id": "MzY6MmU0ODQ4NjU3NWEx",
+        "publicId": "MzY6MmU0ODQ4NjU3NWEx",
+        "sourceId": "2e48486575a1",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T14:08:03.927Z",
+        "updatedAt": "2026-07-29T14:08:03.927Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.68608810007572,
+          31.3555500886405
+        ]
+      },
+      "properties": {
+        "name:fa": " استقرار نیرو سرکوب",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "date": "",
+        "description": "\"محل استقرار نیروهای نظامی و سرکوب و تجهیزات آنها.\" لوکیشن: مدرسه دکتر نجات اللهی اهواز. زمان دقیقی برای گزارش مشخص نشده.",
+        "sources": "",
+        "id": "MzY6YzI0ODI4ZWVkZGVj",
+        "publicId": "MzY6YzI0ODI4ZWVkZGVj",
+        "sourceId": "c24828eeddec",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T17:43:37.253Z",
+        "updatedAt": "2026-07-29T17:44:44.833Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37319918721914,
+          35.65248928846195
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": "",
+        "description": "گزارش فعالیت پدافندی: \"در ساعت 1:30 بامداد صدای پدافند چندین مرتبه شنیده شد\"",
+        "sources": "",
+        "id": "MzY6MTZiYTg2MDVmOWFk",
+        "publicId": "MzY6MTZiYTg2MDVmOWFk",
+        "sourceId": "16ba8605f9ad",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T23:20:38.347Z",
+        "updatedAt": "2026-07-29T23:20:38.347Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.50609750673175,
+          29.601339572691813
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی سپاه",
+        "city": "Khalifeh",
+        "province": "Bushehr Province",
+        "date": "",
+        "description": "بازرسی شبانه سپاه",
+        "sources": "",
+        "id": "MzY6ZDM3N2NjYjFkZDM4",
+        "publicId": "MzY6ZDM3N2NjYjFkZDM4",
+        "sourceId": "d377ccb1dd38",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T23:46:46.163Z",
+        "updatedAt": "2026-07-29T23:46:46.163Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.53545596078038,
+          29.582953667934362
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی سپاه",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "date": "",
+        "description": "بازرسی شبانه سپاه",
+        "sources": "",
+        "id": "MzY6YjMyZWFlNzljZTI3",
+        "publicId": "MzY6YjMyZWFlNzljZTI3",
+        "sourceId": "b32eae79ce27",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T23:47:28.953Z",
+        "updatedAt": "2026-07-29T23:47:28.953Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.33160033679968,
+          31.796693826461322
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "city": "شهرستان مسجدسلیمان",
+        "province": "استان خوزستان",
+        "date": 1779654600,
+        "description": "در گزارشی ارسالی آمده است که یک پهپاد، سوار بر یک وانت، دو بار در محل مشاهده شده؛ این خودرو یک‌بار وارد و سپس از محل خارج شده است. زمان ثبت‌شده برای این مشاهده، ۴ خرداد ۱۴۰۵، ساعت ۱۷:۲۲ اعلام شده است.",
+        "sources": "",
+        "id": "MzY6M2VjMGVkMDQ1YzU5",
+        "publicId": "MzY6M2VjMGVkMDQ1YzU5",
+        "sourceId": "3ec0ed045c59",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:14:10.908Z",
+        "updatedAt": "2026-07-30T00:16:59.833Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.27851295643697,
+          28.881271510794505
+        ]
+      },
+      "properties": {
+        "name:fa": "صدای جنگنده",
+        "city": "اهرم",
+        "province": "استان بوشهر",
+        "date": "",
+        "description": "صدای پرواز جنگنده در اهرم تنگستان استان بوشهر",
+        "sources": "",
+        "id": "MzY6Y2FmNWFiYjYzNjNl",
+        "publicId": "MzY6Y2FmNWFiYjYzNjNl",
+        "sourceId": "caf5abb6363e",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:18:29.038Z",
+        "updatedAt": "2026-07-30T00:18:29.038Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.24073999851291,
+          29.277143434311213
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش صدای انفجار",
+        "city": "شهرستان دشتستان",
+        "province": "استان بوشهر",
+        "date": "",
+        "description": "صدای انفجار از بوشهر برازجان",
+        "sources": "",
+        "id": "MzY6NTVmYWMwMGZhMTVk",
+        "publicId": "MzY6NTVmYWMwMGZhMTVk",
+        "sourceId": "55fac00fa15d",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:19:48.295Z",
+        "updatedAt": "2026-07-30T00:19:48.295Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.364918642913096,
+          27.81175009442525
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش صدای انفجار",
+        "city": "جم",
+        "province": "استان بوشهر",
+        "date": "",
+        "description": "صدای انفجار از بوشهر جم",
+        "sources": "",
+        "id": "MzY6MDZhNDI4YWMzMTVh",
+        "publicId": "MzY6MDZhNDI4YWMzMTVh",
+        "sourceId": "06a428ac315a",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:20:58.398Z",
+        "updatedAt": "2026-07-30T00:20:58.398Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.19530563600969,
+          27.18824287325195
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش صدای انفجار",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "date": "",
+        "description": "گزارش 5 انفجار از شمال بندرعباس",
+        "sources": "",
+        "id": "MzY6MGQzYmIyOTk3MDgy",
+        "publicId": "MzY6MGQzYmIyOTk3MDgy",
+        "sourceId": "0d3bb2997082",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:22:53.008Z",
+        "updatedAt": "2026-07-30T00:22:53.008Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.99833737884876,
+          26.530851568176047
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش صدای انفجار",
+        "city": "كيش",
+        "province": "استان هرمزگان",
+        "date": "",
+        "description": "انفجارهای پی در پی در کیش",
+        "sources": "",
+        "id": "MzY6MDNjMDQ2NWM0YTg1",
+        "publicId": "MzY6MDNjMDQ2NWM0YTg1",
+        "sourceId": "03c0465c4a85",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:23:54.726Z",
+        "updatedAt": "2026-07-30T00:23:54.726Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.27725674714364,
+          30.358997242585403
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش صدای انفجار",
+        "city": "آبادان",
+        "province": "استان خوزستان",
+        "date": "",
+        "description": "چندتا صدای انفجار پشت سر هم اومد از آبادان",
+        "sources": "https://t.me/hodinews/20564",
+        "id": "MzY6Y2QzMzVmOTA2OTJl",
+        "publicId": "MzY6Y2QzMzVmOTA2OTJl",
+        "sourceId": "cd335f90692e",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:25:14.635Z",
+        "updatedAt": "2026-07-30T00:35:49.767Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25692968314243,
+          26.957003212427225
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش صدای انفجار",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "date": "",
+        "description": "همین الان 3:40 دقیقه قشم با صدای انفجار بیدار شدیم",
+        "sources": "",
+        "id": "MzY6YmJlZmMzNGUzYjY2",
+        "publicId": "MzY6YmJlZmMzNGUzYjY2",
+        "sourceId": "bbefc34e3b66",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:31:47.178Z",
+        "updatedAt": "2026-07-30T00:31:47.178Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.64540794397092,
+          29.634993191095603
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "گزارش انفجار از کازرون",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "یک پادگان نظامی در اطراف شهر کازرون (فارس) هدف اصابت موشک قرار گرفت.",
+        "city": "شهرستان کازرون",
+        "province": "استان فارس",
+        "sources": "https://t.me/iliaen/4654",
+        "id": "MzY6MWQ3ODZlY2NkN2Zi",
+        "publicId": "MzY6MWQ3ODZlY2NkN2Zi",
+        "sourceId": "1d786eccd7fb",
+        "layerId": 36,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:45:28.278Z",
+        "updatedAt": "2026-07-30T00:52:43.104Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.57806118504496,
+          28.516512324489767
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش صدای انفجار",
+        "city": "جهرم",
+        "province": "استان فارس",
+        "date": "",
+        "description": "گزارش صدای انفجار از جهرم",
+        "sources": "",
+        "id": "MzY6YTk2Mzg2YzA2NTZk",
+        "publicId": "MzY6YTk2Mzg2YzA2NTZk",
+        "sourceId": "a96386c0656d",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:48:24.412Z",
+        "updatedAt": "2026-07-30T00:48:24.412Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.36932510130407,
+          27.678901178249717
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش صدای انفجار",
+        "city": "شهرستان لارستان",
+        "province": "استان فارس",
+        "date": "",
+        "description": "گزارش صدای انفجار از شهرستان لار",
+        "sources": "",
+        "id": "MzY6MTJkMTAyNTEzMjI2",
+        "publicId": "MzY6MTJkMTAyNTEzMjI2",
+        "sourceId": "12d102513226",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:50:46.655Z",
+        "updatedAt": "2026-07-30T00:50:46.655Z"
+      }
     }
   ],
   "metadata": {
-    "total": 608,
+    "total": 625,
     "layerId": 36,
     "clustered": false,
     "simplified": false

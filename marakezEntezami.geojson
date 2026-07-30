@@ -12858,34 +12858,6 @@
     },
     {
       "type": "Feature",
-      "id": 84524,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.5194407,
-          29.5613099
-        ]
-      },
-      "properties": {
-        "id": "MzoyMDE0",
-        "city": "بندر گناوه",
-        "osm_id": "n10197722494",
-        "name:fa": "آگاهی بندر گناوه",
-        "province": "استان بوشهر",
-        "publicId": "MzoyMDE0",
-        "sourceId": "2014",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:05.791Z",
-        "updatedAt": "2026-03-13T04:41:05.791Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 84525,
       "geometry": {
         "type": "Point",
@@ -41552,34 +41524,6 @@
         "province": "استان مازندران",
         "publicId": "Mzo2MjIzOA",
         "sourceId": "62238",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.339Z",
-        "updatedAt": "2026-03-13T04:41:06.339Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 85556,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.3633987,
-          36.4666971
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjI0MA",
-        "city": "آمل",
-        "osm_id": "",
-        "name:fa": "فرماندهی انتظامی شهرستان آمل",
-        "province": "استان مازندران",
-        "publicId": "Mzo2MjI0MA",
-        "sourceId": "62240",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -170272,10 +170216,292 @@
         "createdAt": "2026-07-28T02:15:21.986Z",
         "updatedAt": "2026-07-28T02:15:21.986Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94139,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.362556407000824,
+              36.468973489238124
+            ],
+            [
+              52.361761081778496,
+              36.46749564380018
+            ],
+            [
+              52.36228165075332,
+              36.46731045505709
+            ],
+            [
+              52.363296632106966,
+              36.467456455307286
+            ],
+            [
+              52.3634798715014,
+              36.4675875054066
+            ],
+            [
+              52.36377973226348,
+              36.467600676942865
+            ],
+            [
+              52.36408468809819,
+              36.467923850768884
+            ],
+            [
+              52.36412171103888,
+              36.468403399635136
+            ],
+            [
+              52.36409640883457,
+              36.46841329638137
+            ],
+            [
+              52.36409640883457,
+              36.46841329638137
+            ],
+            [
+              52.362556407000824,
+              36.468973489238124
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی نیرو انتظامی",
+        "description": "فرماندهی انتظامی شهرستان آمل\n",
+        "date": "",
+        "city": "آمل",
+        "province": "استان مازندران",
+        "id": "Mzo1ZjAxNjUxMzJkM2Q",
+        "publicId": "Mzo1ZjAxNjUxMzJkM2Q",
+        "sourceId": "5f0165132d3d",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T20:33:02.204Z",
+        "updatedAt": "2026-07-29T20:33:43.156Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.51134508103132,
+          29.572314587234246
+        ]
+      },
+      "properties": {
+        "name:fa": "دژبانی دادگستری",
+        "description": "",
+        "date": "",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "id": "MzplZmM2MjlhZTI1Mzg",
+        "publicId": "MzplZmM2MjlhZTI1Mzg",
+        "sourceId": "efc629ae2538",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T22:49:27.566Z",
+        "updatedAt": "2026-07-29T22:49:27.566Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.51464553922415,
+          29.565021823303425
+        ]
+      },
+      "properties": {
+        "name:fa": "کیوسک پلیس",
+        "description": "",
+        "date": "",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "id": "Mzo2ZjliMGRhNGZhMzA",
+        "publicId": "Mzo2ZjliMGRhNGZhMzA",
+        "sourceId": "6f9b0da4fa30",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T22:50:58.432Z",
+        "updatedAt": "2026-07-29T22:50:58.432Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.56313702836633,
+          29.57899202656239
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راه\n",
+        "description": "پلیس راه جاده برازجان - گناوه",
+        "date": "",
+        "city": "شهرستان گناوه",
+        "province": "استان بوشهر",
+        "id": "MzphZGI4MjJjNTZmZTE",
+        "publicId": "MzphZGI4MjJjNTZmZTE",
+        "sourceId": "adb822c56fe1",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T22:54:47.349Z",
+        "updatedAt": "2026-07-29T22:54:47.349Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94155,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.523712478885045,
+              30.11438642832178
+            ],
+            [
+              51.52391347872859,
+              30.114925138771383
+            ],
+            [
+              51.524160609684714,
+              30.114879533767578
+            ],
+            [
+              51.52412106873206,
+              30.114691412905415
+            ],
+            [
+              51.52460874048444,
+              30.114557447830222
+            ],
+            [
+              51.52447034714987,
+              30.114169803185703
+            ],
+            [
+              51.524453909447914,
+              30.11417330283733
+            ],
+            [
+              51.524453909447914,
+              30.11417330283733
+            ],
+            [
+              51.523712478885045,
+              30.11438642832178
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد فرماندهی انتظامی",
+        "description": "",
+        "date": "",
+        "city": "نورآباد",
+        "province": "استان فارس",
+        "id": "Mzo5ZDE2Mjg3NWM5YmE",
+        "publicId": "Mzo5ZDE2Mjg3NWM5YmE",
+        "sourceId": "9d162875c9ba",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T23:13:12.848Z",
+        "updatedAt": "2026-07-29T23:13:12.848Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94161,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.52011796398469,
+              29.561173924571065
+            ],
+            [
+              50.51926705834782,
+              29.560885556843346
+            ],
+            [
+              50.518787689273495,
+              29.561804729469486
+            ],
+            [
+              50.51965496733516,
+              29.5621034275689
+            ],
+            [
+              50.51967239483707,
+              29.56207300476757
+            ],
+            [
+              50.51967239483707,
+              29.56207300476757
+            ],
+            [
+              50.52011796398469,
+              29.561173924571065
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "آگاهی بندر گناوه",
+        "description": "",
+        "date": "",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "id": "Mzo2ZDU3MmZlMWM4ODc",
+        "publicId": "Mzo2ZDU3MmZlMWM4ODc",
+        "sourceId": "6d572fe1c887",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T23:55:57.634Z",
+        "updatedAt": "2026-07-29T23:55:57.634Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6070,
+    "total": 6074,
     "layerId": 3,
     "clustered": false,
     "simplified": false

@@ -421725,10 +421725,68 @@
         "createdAt": "2026-03-27T08:41:18.525Z",
         "updatedAt": "2026-03-31T07:10:44.794Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.36499726772308,
+          36.47408675839358
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "آمل",
+        "province": "استان مازندران",
+        "id": "Mjc6YWVjYzA0NTNjYmZk",
+        "publicId": "Mjc6YWVjYzA0NTNjYmZk",
+        "sourceId": "aecc0453cbfd",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T20:28:35.647Z",
+        "updatedAt": "2026-07-29T20:30:34.839Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.36452580504971,
+          36.46825883832078
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "آمل",
+        "province": "استان مازندران",
+        "id": "Mjc6YmZkNjgzYzUyNWU4",
+        "publicId": "Mjc6YmZkNjgzYzUyNWU4",
+        "sourceId": "bfd683c525e8",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T20:30:24.796Z",
+        "updatedAt": "2026-07-29T20:30:24.796Z"
+      }
     }
   ],
   "metadata": {
-    "total": 15621,
+    "total": 15623,
     "layerId": 27,
     "clustered": false,
     "simplified": false

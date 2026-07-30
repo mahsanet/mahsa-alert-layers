@@ -6534,10 +6534,39 @@
         "createdAt": "2026-03-11T20:58:24.376Z",
         "updatedAt": "2026-03-11T20:58:24.376Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.51131792366505,
+          29.572161059254313
+        ]
+      },
+      "properties": {
+        "name:fa": "آتش نشانی",
+        "description": "",
+        "date": "",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "id": "Mjk6ZmUyZmJkYTg5NzRi",
+        "publicId": "Mjk6ZmUyZmJkYTg5NzRi",
+        "sourceId": "fe2fbda8974b",
+        "layerId": 29,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:04:26.942Z",
+        "updatedAt": "2026-07-30T00:04:26.942Z"
+      }
     }
   ],
   "metadata": {
-    "total": 242,
+    "total": 243,
     "layerId": 29,
     "clustered": false,
     "simplified": false

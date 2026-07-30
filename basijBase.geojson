@@ -65886,10 +65886,188 @@
         "createdAt": "2026-07-28T20:05:19.881Z",
         "updatedAt": "2026-07-28T20:05:19.881Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94116,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.376677778864405,
+              35.608322953444684
+            ],
+            [
+              51.37706342410718,
+              35.60866571645239
+            ],
+            [
+              51.37678236062405,
+              35.60886233953126
+            ],
+            [
+              51.37639344720233,
+              35.60854083397648
+            ],
+            [
+              51.37639344720233,
+              35.60854349105223
+            ],
+            [
+              51.37639344720233,
+              35.60854349105223
+            ],
+            [
+              51.376677778864405,
+              35.608322953444684
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه مقاومت ۳۶۷",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج امام موسی ابن جعفر",
+        "date": "",
+        "city": "کریم آباد",
+        "province": "استان تهران",
+        "id": "MTpjN2I3MzdmOGVkY2E",
+        "publicId": "MTpjN2I3MzdmOGVkY2E",
+        "sourceId": "c7b737f8edca",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T14:04:34.817Z",
+        "updatedAt": "2026-07-29T14:04:34.817Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94119,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.86786981807623,
+              34.681352290170736
+            ],
+            [
+              50.86832747920661,
+              34.681395090536824
+            ],
+            [
+              50.868372347945154,
+              34.681014314085516
+            ],
+            [
+              50.868006219039756,
+              34.681169281457386
+            ],
+            [
+              50.867955966053586,
+              34.68123126832461
+            ],
+            [
+              50.867850075830006,
+              34.68130653803034
+            ],
+            [
+              50.867850075830006,
+              34.68130653803034
+            ],
+            [
+              50.86786981807623,
+              34.681352290170736
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج محمودآباد",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج. این پایگاه مسئول بسیاری از جنایت ها و سرکوب های قم شناخته شده.",
+        "date": "",
+        "city": "قم",
+        "province": "استان قم",
+        "id": "MTpjZDEyOTQ5NGZlOTQ",
+        "publicId": "MTpjZDEyOTQ5NGZlOTQ",
+        "sourceId": "cd129494fe94",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T14:15:02.632Z",
+        "updatedAt": "2026-07-29T14:15:02.632Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94158,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.5478795122049,
+              30.110131533971256
+            ],
+            [
+              51.54838218923396,
+              30.1099120394464
+            ],
+            [
+              51.54823617352639,
+              30.109328098807467
+            ],
+            [
+              51.54787472480493,
+              30.109272189416288
+            ],
+            [
+              51.54786835235555,
+              30.109312516460307
+            ],
+            [
+              51.54786835235555,
+              30.109312516460307
+            ],
+            [
+              51.5478795122049,
+              30.110131533971256
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه صاحب الزمان",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "نورآباد",
+        "province": "استان فارس",
+        "id": "MTpmMTI0M2Y2NmUwMDA",
+        "publicId": "MTpmMTI0M2Y2NmUwMDA",
+        "sourceId": "f1243f66e000",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T23:30:11.165Z",
+        "updatedAt": "2026-07-29T23:30:11.165Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2195,
+    "total": 2198,
     "layerId": 1,
     "clustered": false,
     "simplified": false

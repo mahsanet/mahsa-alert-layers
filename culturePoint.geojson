@@ -82439,10 +82439,198 @@
         "createdAt": "2026-07-28T20:03:46.084Z",
         "updatedAt": "2026-07-28T20:03:46.084Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.51170298829675,
+          29.570789357313217
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری شهر گناوه",
+        "description": "",
+        "date": "",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "id": "MTc6OGUxYmMxM2VhNjZj",
+        "publicId": "MTc6OGUxYmMxM2VhNjZj",
+        "sourceId": "8e1bc13ea66c",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T22:53:28.873Z",
+        "updatedAt": "2026-07-29T22:53:28.873Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94162,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.511092873018924,
+              29.57200399110755
+            ],
+            [
+              50.51151891484466,
+              29.57209900234234
+            ],
+            [
+              50.51163179772166,
+              29.571698371030678
+            ],
+            [
+              50.51152801830392,
+              29.5715732723898
+            ],
+            [
+              50.51124763180144,
+              29.5715130983056
+            ],
+            [
+              50.51123738150204,
+              29.57154440474848
+            ],
+            [
+              50.51123738150204,
+              29.57154440474848
+            ],
+            [
+              50.511092873018924,
+              29.57200399110755
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "امور مالیاتی گناوه",
+        "description": "",
+        "date": "",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "id": "MTc6Y2QyNmMxNDUxM2E4",
+        "publicId": "MTc6Y2QyNmMxNDUxM2E4",
+        "sourceId": "cd26c14513a8",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:00:15.759Z",
+        "updatedAt": "2026-07-30T00:00:15.759Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.509222112596035,
+          29.5594827501465
+        ]
+      },
+      "properties": {
+        "name:fa": "ترمینال دریایی",
+        "description": "",
+        "date": "",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "id": "MTc6MDdhNGZlMDczNTYw",
+        "publicId": "MTc6MDdhNGZlMDczNTYw",
+        "sourceId": "07a4fe073560",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T00:28:25.920Z",
+        "updatedAt": "2026-07-30T00:28:41.642Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94192,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.63194321505111,
+              31.304266412967053
+            ],
+            [
+              48.632309706892954,
+              31.303796704777795
+            ],
+            [
+              48.63054043592848,
+              31.302851882361523
+            ],
+            [
+              48.63093220307073,
+              31.302279585319226
+            ],
+            [
+              48.6323665763166,
+              31.303132630583207
+            ],
+            [
+              48.6326066916626,
+              31.303391782045324
+            ],
+            [
+              48.63432541202786,
+              31.304277210829355
+            ],
+            [
+              48.63371248601561,
+              31.30516803017251
+            ],
+            [
+              48.63371248601561,
+              31.30516803017251
+            ],
+            [
+              48.63194321505111,
+              31.304266412967053
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "id": "MTc6ODUzNDY4YmNhMjgz",
+        "publicId": "MTc6ODUzNDY4YmNhMjgz",
+        "sourceId": "853468bca283",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:49:42.724Z",
+        "updatedAt": "2026-07-30T01:49:42.724Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2347,
+    "total": 2351,
     "layerId": 17,
     "clustered": false,
     "simplified": false

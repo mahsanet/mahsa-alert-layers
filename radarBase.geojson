@@ -3838,10 +3838,40 @@
         "createdAt": "2026-07-28T01:51:54.272Z",
         "updatedAt": "2026-07-28T01:55:38.974Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.485097428969,
+          35.599908253470986
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "ایستگاه راداری",
+        "date": "",
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "id": "OToyMGZjMDM0ZTYyY2E",
+        "publicId": "OToyMGZjMDM0ZTYyY2E",
+        "sourceId": "20fc034e62ca",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T18:43:45.780Z",
+        "updatedAt": "2026-07-29T18:43:55.829Z"
+      }
     }
   ],
   "metadata": {
-    "total": 54,
+    "total": 55,
     "layerId": 9,
     "clustered": false,
     "simplified": false

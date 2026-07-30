@@ -43100,10 +43100,108 @@
         "createdAt": "2026-07-28T14:54:49.798Z",
         "updatedAt": "2026-07-28T14:54:49.798Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.48966931179166,
+          29.599863611218012
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک دریابانی",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان گناوه",
+        "province": "استان بوشهر",
+        "id": "MTE6YmJmMmQ4NmNjYjUz",
+        "publicId": "MTE6YmJmMmQ4NmNjYjUz",
+        "sourceId": "bbf2d86ccb53",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-29T22:56:03.382Z",
+        "updatedAt": "2026-07-29T22:56:03.382Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94178,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.23401749268834,
+              30.380196091045136
+            ],
+            [
+              48.23485622823799,
+              30.381546310419367
+            ],
+            [
+              48.237140308069826,
+              30.380669567359263
+            ],
+            [
+              48.2372019988764,
+              30.38040346852806
+            ],
+            [
+              48.23628144265888,
+              30.379327685863956
+            ],
+            [
+              48.236158251391004,
+              30.379375864594266
+            ],
+            [
+              48.236066268577815,
+              30.379408456074486
+            ],
+            [
+              48.236066268577815,
+              30.379408456074486
+            ],
+            [
+              48.23401749268834,
+              30.380196091045136
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "اردوگاه نظامی میثاق",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "آبادان",
+        "province": "استان خوزستان",
+        "id": "MTE6M2NlNDg1YTk5MDYw",
+        "publicId": "MTE6M2NlNDg1YTk5MDYw",
+        "sourceId": "3ce485a99060",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T01:01:17.982Z",
+        "updatedAt": "2026-07-30T01:01:17.982Z"
+      }
     }
   ],
   "metadata": {
-    "total": 379,
+    "total": 381,
     "layerId": 11,
     "clustered": false,
     "simplified": false
