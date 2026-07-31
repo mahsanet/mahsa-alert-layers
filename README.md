@@ -1,6 +1,6 @@
 # Mahsa Alert Data
 
-Open snapshots of the [Mahsa Alert](https://mahsaalert.com) map layers in GeoJSON format, automatically published from the live database. Each layer is committed once per day, and only when its contents have actually changed.
+Open snapshots of the [Mahsa Alert](https://mahsaalert.app) map layers in GeoJSON format, automatically published from the live database. Each layer is committed once per day, and only when its contents have actually changed.
 
 ## Structure
 
@@ -51,7 +51,7 @@ Every feature is a GeoJSON `Feature` with a `Point` (or polygon, for zones) geom
 }
 ```
 
-Notable fields: `name:fa` (Farsi label), `date` (Unix epoch seconds, sometimes a `start-end` range), `publicId` (opens at `https://mahsaalert.com/fa/<publicId>`), and `verificationTag` (set when a feature originated from a citizen report).
+Notable fields: `name:fa` (Farsi label), `date` (Unix epoch seconds, sometimes a `start-end` range), `publicId` (opens at `https://mahsaalert.app/fa/<publicId>`), and `verificationTag` (set when a feature originated from a citizen report).
 
 ## Layers
 
@@ -110,7 +110,7 @@ Notable fields: `name:fa` (Farsi label), `date` (Unix epoch seconds, sometimes a
 
 ## Source
 
-Data is exported daily from [mahsaalert.com](https://mahsaalert.com) — a platform tracking human rights incidents in Iran.
+Data is exported daily from [mahsaalert.app](https://mahsaalert.app) — a platform tracking human rights incidents in Iran.
 
 ## License
 
