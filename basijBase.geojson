@@ -66064,10 +66064,100 @@
         "createdAt": "2026-07-29T23:30:11.165Z",
         "updatedAt": "2026-07-29T23:30:11.165Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.47108617797494,
+          36.5885926870514
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج",
+        "unofficial_name:fa": "دفتر بسیج و مسجد صاحب الزمان",
+        "description": "",
+        "date": "",
+        "city": "واسکس",
+        "province": "استان مازندران",
+        "id": "MTo2ZmNjNzdjNzBjOGE",
+        "publicId": "MTo2ZmNjNzdjNzBjOGE",
+        "sourceId": "6fcc77c70c8a",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T05:25:08.676Z",
+        "updatedAt": "2026-07-30T05:25:08.676Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.37007334828377,
+          36.48294814125548
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج الزهرا",
+        "unofficial_name:fa": "مسجد و بسیج الزهرا",
+        "description": "",
+        "date": "",
+        "city": "آمل",
+        "province": "استان مازندران",
+        "id": "MTozYTczMjBlYTlmNGE",
+        "publicId": "MTozYTczMjBlYTlmNGE",
+        "sourceId": "3a7320ea9f4a",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T18:30:59.412Z",
+        "updatedAt": "2026-07-30T18:30:59.412Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.445562255985266,
+          36.337691040687446
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر بسیج",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTo3NGM0OTA2NjM0YTM",
+        "publicId": "MTo3NGM0OTA2NjM0YTM",
+        "sourceId": "74c4906634a3",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T20:17:19.050Z",
+        "updatedAt": "2026-07-30T20:17:37.617Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2198,
+    "total": 2201,
     "layerId": 1,
     "clustered": false,
     "simplified": false

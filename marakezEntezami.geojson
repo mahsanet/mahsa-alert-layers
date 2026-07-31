@@ -74408,34 +74408,6 @@
     },
     {
       "type": "Feature",
-      "id": 86753,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.2732886,
-          33.4731667
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NDExNw",
-        "city": "گلپایگان",
-        "osm_id": "",
-        "name:fa": "کلانتری ۱۱ گلپایگان",
-        "province": "استان اصفهان",
-        "publicId": "Mzo2NDExNw",
-        "sourceId": "64117",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.906Z",
-        "updatedAt": "2026-03-13T04:41:06.906Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 86754,
       "geometry": {
         "type": "Point",
@@ -111296,11 +111268,13 @@
         ]
       },
       "properties": {
-        "id": "Mzo2NjE4Mw",
-        "city": "گلپایگان",
-        "osm_id": "w318308145",
         "name:fa": "پاسگاه نیروی انتظامی",
+        "description": "کلانتری ۱۱ گلپایگان",
+        "date": "",
+        "city": "گلپایگان",
         "province": "استان اصفهان",
+        "id": "Mzo2NjE4Mw",
+        "osm_id": "w318308145",
         "publicId": "Mzo2NjE4Mw",
         "sourceId": "66183",
         "layerId": 3,
@@ -111310,7 +111284,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.550Z",
-        "updatedAt": "2026-03-13T04:41:07.550Z"
+        "updatedAt": "2026-07-30T18:29:08.698Z"
       }
     },
     {
@@ -170501,7 +170475,7 @@
     }
   ],
   "metadata": {
-    "total": 6074,
+    "total": 6073,
     "layerId": 3,
     "clustered": false,
     "simplified": false

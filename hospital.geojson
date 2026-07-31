@@ -13584,33 +13584,6 @@
     },
     {
       "type": "Feature",
-      "id": 43953,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.3578291,
-          36.4743272
-        ]
-      },
-      "properties": {
-        "id": "MjU6MTc4MzE",
-        "city": "آمل",
-        "name:fa": "بیمارستان امام رضا",
-        "province": "استان مازندران",
-        "publicId": "MjU6MTc4MzE",
-        "sourceId": "17831",
-        "layerId": 25,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:57:46.675Z",
-        "updatedAt": "2026-03-11T20:57:46.675Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 43954,
       "geometry": {
         "type": "Point",
@@ -95505,7 +95478,7 @@
     }
   ],
   "metadata": {
-    "total": 3536,
+    "total": 3535,
     "layerId": 25,
     "clustered": false,
     "simplified": false

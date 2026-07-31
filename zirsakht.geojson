@@ -62971,10 +62971,39 @@
         "createdAt": "2026-07-24T05:36:26.921Z",
         "updatedAt": "2026-07-24T05:36:26.921Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.28909257876842,
+          33.45639361554599
+        ]
+      },
+      "properties": {
+        "name": "مخابرات گلپایگان",
+        "description": "",
+        "date": "",
+        "city": "گلپایگان",
+        "province": "استان اصفهان",
+        "id": "MzU6ZTgwYzkyYWI3MjQ2",
+        "publicId": "MzU6ZTgwYzkyYWI3MjQ2",
+        "sourceId": "e80c92ab7246",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T18:15:10.069Z",
+        "updatedAt": "2026-07-30T18:15:10.069Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2014,
+    "total": 2015,
     "layerId": 35,
     "clustered": false,
     "simplified": false

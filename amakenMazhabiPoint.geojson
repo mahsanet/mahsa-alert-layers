@@ -156592,10 +156592,129 @@
         "createdAt": "2026-07-29T22:50:32.459Z",
         "updatedAt": "2026-07-29T22:50:32.459Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.444577274229005,
+          36.33817389390538
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد اعتدالی",
+        "description": "",
+        "date": "",
+        "city": "نوچاه",
+        "province": "استان خراسان رضوی",
+        "id": "NDowYTdiYTU5YmRhMjE",
+        "publicId": "NDowYTdiYTU5YmRhMjE",
+        "sourceId": "0a7ba59bda21",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T16:48:46.800Z",
+        "updatedAt": "2026-07-30T16:48:46.800Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.28997389104285,
+          33.45659427912952
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد میرزاابولحسن",
+        "description": "",
+        "date": "",
+        "city": "گلپایگان",
+        "province": "استان اصفهان",
+        "id": "NDo5ODBhOWU3Yjg3Y2Q",
+        "publicId": "NDo5ODBhOWU3Yjg3Y2Q",
+        "sourceId": "980a9e7b87cd",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T18:19:46.555Z",
+        "updatedAt": "2026-07-30T18:19:46.555Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94221,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.472854607815464,
+              36.586358587674695
+            ],
+            [
+              52.47316972524334,
+              36.58634694210265
+            ],
+            [
+              52.473209279732714,
+              36.58612038244077
+            ],
+            [
+              52.473173680691986,
+              36.58605156745797
+            ],
+            [
+              52.472849333883886,
+              36.58613414542964
+            ],
+            [
+              52.47284930188911,
+              36.58615551123137
+            ],
+            [
+              52.47284930188911,
+              36.58615551123137
+            ],
+            [
+              52.472854607815464,
+              36.586358587674695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام حسین",
+        "description": "",
+        "date": "",
+        "city": "واسکس",
+        "province": "استان مازندران",
+        "id": "NDo0NTkyNmRlNGZhZTE",
+        "publicId": "NDo0NTkyNmRlNGZhZTE",
+        "sourceId": "45926de4fae1",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T21:49:18.662Z",
+        "updatedAt": "2026-07-30T21:49:18.662Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5589,
+    "total": 5592,
     "layerId": 4,
     "clustered": false,
     "simplified": false

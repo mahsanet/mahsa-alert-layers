@@ -537716,10 +537716,165 @@
         "createdAt": "2026-07-25T21:19:31.261Z",
         "updatedAt": "2026-07-25T21:19:31.261Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.464061640203,
+          36.591654433110705
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "در همه جای ورودی و خروجی همه روستاها در آمل دوربین مداربسته گذاشته اند چون که نصف شب بعضی از حماسه سازان روی دیوار شعار ضدحکومتی می نوشتن و دوربین مداربسته گذاشته اند تا ورود و خروج مردم را شناسایی کنند، دقیقاً در این نقطه دو دوربین مداربسته حکومتی وجود دارد",
+        "city": "شهرستان آمل",
+        "province": "استان مازندران",
+        "id": "MjA6MmM2OWUxMDgwODdk",
+        "publicId": "MjA6MmM2OWUxMDgwODdk",
+        "sourceId": "2c69e108087d",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T18:32:26.595Z",
+        "updatedAt": "2026-07-30T18:32:26.595Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.474925592541695,
+          36.590649388348865
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "دوربین مداربسته حکومتی\n",
+        "city": "مرزنگو",
+        "province": "استان مازندران",
+        "id": "MjA6ZWVjOGFkYTZhODNj",
+        "publicId": "MjA6ZWVjOGFkYTZhODNj",
+        "sourceId": "eec8ada6a83c",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T21:26:48.747Z",
+        "updatedAt": "2026-07-30T21:26:48.747Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.46916593736077,
+          36.583679487137275
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته حکومتی",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "شهرستان آمل",
+        "province": "استان مازندران",
+        "id": "MjA6N2I3NmU0ODAzMDQ4",
+        "publicId": "MjA6N2I3NmU0ODAzMDQ4",
+        "sourceId": "7b76e4803048",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T21:28:33.011Z",
+        "updatedAt": "2026-07-30T21:28:39.317Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.468955960306005,
+          36.59616888362031
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته حکومتی",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "واسکس",
+        "province": "استان مازندران",
+        "id": "MjA6ZTg1ZTljMzRkYjFj",
+        "publicId": "MjA6ZTg1ZTljMzRkYjFj",
+        "sourceId": "e85e9c34db1c",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T21:29:48.637Z",
+        "updatedAt": "2026-07-30T21:29:54.620Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.47125947382864,
+          36.589658669825184
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته حکومتی",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "واسکس",
+        "province": "استان مازندران",
+        "id": "MjA6NTk2YTkxNDdmMjlk",
+        "publicId": "MjA6NTk2YTkxNDdmMjlk",
+        "sourceId": "596a9147f29d",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T21:47:12.556Z",
+        "updatedAt": "2026-07-30T21:47:19.472Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18541,
+    "total": 18546,
     "layerId": 20,
     "clustered": false,
     "simplified": false

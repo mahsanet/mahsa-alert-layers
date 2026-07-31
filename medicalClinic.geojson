@@ -148116,10 +148116,39 @@
         "createdAt": "2026-07-22T21:59:09.831Z",
         "updatedAt": "2026-07-22T21:59:09.831Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.47153762727976,
+          36.58967394267508
+        ]
+      },
+      "properties": {
+        "name:fa": "بهداری",
+        "description": "بهداری روستای واسکس فقط برای ساعات اداری",
+        "date": "",
+        "city": "واسکس",
+        "province": "استان مازندران",
+        "id": "MjY6YmIwNzBmMjk4MmIx",
+        "publicId": "MjY6YmIwNzBmMjk4MmIx",
+        "sourceId": "bb070f2982b1",
+        "layerId": 26,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T21:45:19.339Z",
+        "updatedAt": "2026-07-30T21:45:19.339Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5486,
+    "total": 5487,
     "layerId": 26,
     "clustered": false,
     "simplified": false

@@ -3868,10 +3868,80 @@
         "createdAt": "2026-07-29T18:43:45.780Z",
         "updatedAt": "2026-07-29T18:43:55.829Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94212,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.54326818669301,
+              34.1456779835721
+            ],
+            [
+              48.54328344089805,
+              34.145307661722526
+            ],
+            [
+              48.54341971180497,
+              34.14520413964213
+            ],
+            [
+              48.54358649112311,
+              34.14527567930483
+            ],
+            [
+              48.54389462608199,
+              34.14530682008015
+            ],
+            [
+              48.54392920228227,
+              34.14555005438967
+            ],
+            [
+              48.54385903293473,
+              34.14561149408718
+            ],
+            [
+              48.5433149662573,
+              34.14567293373992
+            ],
+            [
+              48.5433149662573,
+              34.14567293373992
+            ],
+            [
+              48.54326818669301,
+              34.1456779835721
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان ملایر",
+        "province": "استان همدان",
+        "id": "OTozYTAzOWEzZTlhOGM",
+        "publicId": "OTozYTAzOWEzZTlhOGM",
+        "sourceId": "3a039a3e9a8c",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T20:02:12.331Z",
+        "updatedAt": "2026-07-30T20:02:12.331Z"
+      }
     }
   ],
   "metadata": {
-    "total": 55,
+    "total": 56,
     "layerId": 9,
     "clustered": false,
     "simplified": false

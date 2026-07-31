@@ -33458,37 +33458,6 @@
     },
     {
       "type": "Feature",
-      "id": 8109,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.2887169,
-          33.45669
-        ]
-      },
-      "properties": {
-        "id": "MzQ6MTUyMzY5",
-        "city": "گلپایگان",
-        "name:fa": "محله ابشار",
-        "sources": [
-          "https://maps.google.com/?cid=10550133097308136866"
-        ],
-        "category": "دادگستری",
-        "province": "استان اصفهان",
-        "publicId": "MzQ6MTUyMzY5",
-        "sourceId": "152369",
-        "layerId": 34,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:53:15.645Z",
-        "updatedAt": "2026-03-11T20:53:15.645Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 8110,
       "geometry": {
         "type": "Point",
@@ -44389,7 +44358,7 @@
     }
   ],
   "metadata": {
-    "total": 1410,
+    "total": 1409,
     "layerId": 34,
     "clustered": false,
     "simplified": false

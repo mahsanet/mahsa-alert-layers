@@ -18259,10 +18259,310 @@
         "createdAt": "2026-07-30T00:50:46.655Z",
         "updatedAt": "2026-07-30T00:50:46.655Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94196,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.28970962847137,
+          31.807665558950873
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچ موشک از یزد",
+        "city": "شهرستان یزد",
+        "province": "استان یزد",
+        "date": "",
+        "description": "پیام‌های دریافتی درباره پرتاب موشک از یزد. موقعیت جغرافیایی لانچ تقریبی میباشد.",
+        "sources": "https://t.me/VahidOnline/77639",
+        "id": "MzY6OGZkYmQ1ZmRhMWRj",
+        "publicId": "MzY6OGZkYmQ1ZmRhMWRj",
+        "sourceId": "8fdbd5fda1dc",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T03:58:04.498Z",
+        "updatedAt": "2026-07-30T04:05:58.119Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.13103448834477,
+          33.55647760115059
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچ موشک از خمین",
+        "city": "شهرستان خمین",
+        "province": "استان مرکزی",
+        "date": "",
+        "description": "از پیام‌های دریافتی درباره پرتاب موشک از اطراف خمین. موقعیت جغرافیایی لانچ تقریبی میباشد.",
+        "sources": "https://t.me/VahidOnline/77640",
+        "id": "MzY6Mzg1MTFkYmFlYzNl",
+        "publicId": "MzY6Mzg1MTFkYmFlYzNl",
+        "sourceId": "38511dbaec3e",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T04:08:07.499Z",
+        "updatedAt": "2026-07-30T04:08:07.499Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.171053660920194,
+          37.97704755734868
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "لانچ موشک از تبریز",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "پیام‌های دریافتی درباره پرتاب موشک از اطراف تبریز.",
+        "city": "شهرستان تبریز",
+        "province": "استان آذربایجان شرقی",
+        "sources": "https://t.me/VahidOnline/77641",
+        "id": "MzY6ODljNTRlMDMwMTYx",
+        "publicId": "MzY6ODljNTRlMDMwMTYx",
+        "sourceId": "89c54e030161",
+        "layerId": 36,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T04:10:23.141Z",
+        "updatedAt": "2026-07-30T04:11:01.451Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56223577260971,
+          36.329945312848935
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع و حضور گارد امنیتی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": "",
+        "description": "دیده شدن دوباره مزدوران جمهوری اسلامی و تجمع شلوغ و حضور گارد امنیتی و پخش تلویزیون بزرگ",
+        "sources": "",
+        "id": "MzY6MDUzYWM2YzM3MDAy",
+        "publicId": "MzY6MDUzYWM2YzM3MDAy",
+        "sourceId": "053ac6c37002",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T16:38:08.753Z",
+        "updatedAt": "2026-07-30T16:38:08.753Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61129102855921,
+          36.29005333231022
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور نیرو انتظامی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": "",
+        "description": "حضور ماشین نیرو انتظامی و کشیک دادن با اسلحه هنگام ورودی به سمت حرم دور میدان",
+        "sources": "",
+        "id": "MzY6ZjI5OTBhYWU1OTU2",
+        "publicId": "MzY6ZjI5OTBhYWU1OTU2",
+        "sourceId": "f2990aae5956",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T16:40:12.531Z",
+        "updatedAt": "2026-07-30T16:40:12.531Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.614796340465546,
+          36.31162222471255
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور نیروهای سپاه",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": "",
+        "description": "شعار دادن مزدوران جمهوری اسلامی و شعار کاغذی ، حضور گارد های سپاه و بسیج",
+        "sources": "",
+        "id": "MzY6NzhhNzY3OTNiYzk3",
+        "publicId": "MzY6NzhhNzY3OTNiYzk3",
+        "sourceId": "78a76793bc97",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T16:41:07.903Z",
+        "updatedAt": "2026-07-30T16:41:07.903Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61279172450304,
+          36.291352379437896
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع و پرچم گردانی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": "",
+        "description": "تجمع و پرچم گردانی جمهوری اسلامی و حزب الله توسط تروریست های نظام خیابان شیرازی مشهد",
+        "sources": "",
+        "id": "MzY6NTM2ZmVkZjgwNmEx",
+        "publicId": "MzY6NTM2ZmVkZjgwNmEx",
+        "sourceId": "536fedf806a1",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T16:42:00.524Z",
+        "updatedAt": "2026-07-30T16:42:00.524Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.34646085649729,
+          36.470195463531084
+        ]
+      },
+      "properties": {
+        "name:fa": "تظاهرات حکومتی آمل",
+        "city": "آمل",
+        "province": "استان مازندران",
+        "date": "",
+        "description": "میدان ۱۷ شهریور آمل هر شب مأموران خامنه ای شعار ضد آمریکایی می گویند.",
+        "sources": "",
+        "id": "MzY6NzdlNDNiNDFiYTY4",
+        "publicId": "MzY6NzdlNDNiNDFiYTY4",
+        "sourceId": "77e43b41ba68",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T19:21:44.185Z",
+        "updatedAt": "2026-07-30T19:21:44.185Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94218,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.46788557020261,
+              36.59545141943997
+            ],
+            [
+              52.468009476131044,
+              36.595894001367085
+            ],
+            [
+              52.46876302647286,
+              36.59573970703846
+            ],
+            [
+              52.46869475177658,
+              36.5953620906695
+            ],
+            [
+              52.468591075388275,
+              36.595240278543514
+            ],
+            [
+              52.468591075388275,
+              36.595240278543514
+            ],
+            [
+              52.46788557020261,
+              36.59545141943997
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مدرسه",
+        "city": "واسکس",
+        "province": "استان مازندران",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MzY6NGVjODE5ODZjYWVj",
+        "publicId": "MzY6NGVjODE5ODZjYWVj",
+        "sourceId": "4ec81986caec",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T21:43:52.032Z",
+        "updatedAt": "2026-07-30T21:43:52.032Z"
+      }
     }
   ],
   "metadata": {
-    "total": 625,
+    "total": 634,
     "layerId": 36,
     "clustered": false,
     "simplified": false

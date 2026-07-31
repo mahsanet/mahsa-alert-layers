@@ -25989,7 +25989,7 @@
         "description": "ساختمان اطلاعات رو زدن اهواز گلستان. انفجارها در اهواز مرتبط با محدوده‌ اتوبان گلستان بود که منجر به قطع برق در آن منطقه نیز شد.\n\n",
         "city": "اهواز",
         "province": "استان خوزستان",
-        "sources": "https://t.me/hodinews/20577, https://t.me/iliaen/4658",
+        "sources": "https://x.com/mhmiranusa/status/2082835782926999822?s=20, https://x.com/zarGEOINT/status/2082817109646557328?s=20, https://x.com/jshaliraqi/status/2082647937390195038?s=20, https://t.me/hodinews/20577, https://t.me/iliaen/4658,  https://t.me/hodinews/20582",
         "id": "MzI6ZDRiODg1MzMwMzI3",
         "publicId": "MzI6ZDRiODg1MzMwMzI3",
         "sourceId": "d4b885330327",
@@ -25999,12 +25999,76 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-07-30T01:34:05.125Z",
-        "updatedAt": "2026-07-30T01:41:11.330Z"
+        "updatedAt": "2026-07-30T19:34:53.359Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.65637056529522,
+          31.37495364833798
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "گزارش انفجار در اهواز",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "۸ مرداد ساعت ۵:۳۴ دقیقه نیروی هوایی رو بد زد آتیش سوزی شد",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "sources": "",
+        "id": "MzI6ZmJiOGY5MzJhMDZh",
+        "publicId": "MzI6ZmJiOGY5MzJhMDZh",
+        "sourceId": "fbb8f932a06a",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T02:36:22.490Z",
+        "updatedAt": "2026-07-30T04:51:20.465Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.138646990060806,
+          28.812663949597834
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به سپاه فراشبند",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "ارتش ایالات متحده آمریکا در بامداد 8 مرداد 1405 به سپاه پاسداران انقلاب اسلامی در شهرستان فراشبند استان فارس حمله کرد.",
+        "city": "شهرستان فراشبند",
+        "province": "استان فارس",
+        "sources": "",
+        "id": "MzI6NGQzNzMxZjc5MjQ5",
+        "publicId": "MzI6NGQzNzMxZjc5MjQ5",
+        "sourceId": "4d3731f79249",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T06:21:13.236Z",
+        "updatedAt": "2026-07-30T06:21:19.718Z"
       }
     }
   ],
   "metadata": {
-    "total": 830,
+    "total": 832,
     "layerId": 32,
     "clustered": false,
     "simplified": false

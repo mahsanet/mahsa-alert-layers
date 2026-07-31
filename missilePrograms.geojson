@@ -15709,10 +15709,41 @@
         "createdAt": "2026-07-25T21:19:31.407Z",
         "updatedAt": "2026-07-25T21:19:31.407Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.50013256072998,
+          34.053460546866134
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "محل دقیق دقیقش رو نمیدونم.ولی از جایی نزدیک این کارخونه موشک شلیک میشه.چون پشت تپه هست تشخیص محل دقیق امکان نداره\n",
+        "date": "",
+        "city": "شهرستان نهاوند",
+        "province": "استان همدان",
+        "id": "Nzo5MTMwOWJhYmMxYTI",
+        "publicId": "Nzo5MTMwOWJhYmMxYTI",
+        "sourceId": "91309babc1a2",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-30T20:15:24.084Z",
+        "updatedAt": "2026-07-30T20:15:24.084Z"
+      }
     }
   ],
   "metadata": {
-    "total": 148,
+    "total": 149,
     "layerId": 7,
     "clustered": false,
     "simplified": false
