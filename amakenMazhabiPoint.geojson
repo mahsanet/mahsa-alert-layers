@@ -115255,8 +115255,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.2624355,
-          26.965705
+          56.26222114157301,
+          26.9654087561818
         ]
       },
       "properties": {
@@ -115274,7 +115274,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:53:49.277Z",
-        "updatedAt": "2026-03-11T20:53:49.277Z"
+        "updatedAt": "2026-07-31T18:41:47.360Z"
       }
     },
     {
@@ -142525,8 +142525,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.2728306,
-          26.9547486
+          56.27276021949871,
+          26.954882946878342
         ]
       },
       "properties": {
@@ -142544,7 +142544,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:53:49.664Z",
-        "updatedAt": "2026-03-11T20:53:49.664Z"
+        "updatedAt": "2026-07-31T18:43:30.603Z"
       }
     },
     {
@@ -156711,10 +156711,242 @@
         "createdAt": "2026-07-30T21:49:18.662Z",
         "updatedAt": "2026-07-30T21:49:18.662Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.23312581330538,
+          38.087823861654016
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد مهاجرین",
+        "description": "",
+        "date": "",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "NDpjM2Q2ZDdmOTUyMzY",
+        "publicId": "NDpjM2Q2ZDdmOTUyMzY",
+        "sourceId": "c3d6d7f95236",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T14:35:07.060Z",
+        "updatedAt": "2026-07-31T14:35:07.060Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.46754851192236,
+          36.5910545305065
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "مسجد سوم روستای واسکس در اینجا است. این مسجد به عنوان پایگاهی برای مأموران حکومتی استفاده می‌شود.",
+        "date": "",
+        "city": "واسکس",
+        "province": "استان مازندران",
+        "id": "NDo4YjE4Y2M5NjRjODU",
+        "publicId": "NDo4YjE4Y2M5NjRjODU",
+        "sourceId": "8b18cc964c85",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T14:39:27.154Z",
+        "updatedAt": "2026-07-31T14:39:27.154Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.42209771485213,
+          35.6406553822241
+        ]
+      },
+      "properties": {
+        "name:fa": "حسنیه بهاریها",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "NDpmZWEwYzA2YTY1MjM",
+        "publicId": "NDpmZWEwYzA2YTY1MjM",
+        "sourceId": "fea0c06a6523",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T16:19:56.120Z",
+        "updatedAt": "2026-07-31T16:19:56.120Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31462133662859,
+          35.78781157888653
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام علی",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "NDo3MDRjODMzMGEyODI",
+        "publicId": "NDo3MDRjODMzMGEyODI",
+        "sourceId": "704c8330a282",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T16:28:37.100Z",
+        "updatedAt": "2026-07-31T16:28:37.100Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.26505216801394,
+          26.965419610482186
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام علی",
+        "description": "",
+        "date": "",
+        "city": "قشم",
+        "province": "استان هرمزگان",
+        "id": "NDo0OTE4N2JjNTQ1NDM",
+        "publicId": "NDo0OTE4N2JjNTQ1NDM",
+        "sourceId": "49187bc54543",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T18:41:33.798Z",
+        "updatedAt": "2026-07-31T18:41:33.798Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.27031284617209,
+          26.960075594419635
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد عثمان",
+        "description": "",
+        "date": "",
+        "city": "قشم",
+        "province": "استان هرمزگان",
+        "id": "NDowMjQyY2U3Yzk2ZDA",
+        "publicId": "NDowMjQyY2U3Yzk2ZDA",
+        "sourceId": "0242ce7c96d0",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T18:42:42.936Z",
+        "updatedAt": "2026-07-31T18:42:42.936Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.26993412293493,
+          26.957907915837794
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد الکمال",
+        "description": "",
+        "date": "",
+        "city": "قشم",
+        "province": "استان هرمزگان",
+        "id": "NDo5YzZlYTg5YTE5NTg",
+        "publicId": "NDo5YzZlYTg5YTE5NTg",
+        "sourceId": "9c6ea89a1958",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T18:43:19.466Z",
+        "updatedAt": "2026-07-31T18:43:19.466Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.22094383905056,
+          26.971324834897786
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد عمر بن خطاب",
+        "description": "",
+        "date": "",
+        "city": "طولا",
+        "province": "استان هرمزگان",
+        "id": "NDo1MDBlZWUxMWYwMWY",
+        "publicId": "NDo1MDBlZWUxMWYwMWY",
+        "sourceId": "500eee11f01f",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T18:44:26.432Z",
+        "updatedAt": "2026-07-31T18:44:26.432Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5592,
+    "total": 5600,
     "layerId": 4,
     "clustered": false,
     "simplified": false

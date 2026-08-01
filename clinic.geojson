@@ -145699,10 +145699,39 @@
         "createdAt": "2026-07-15T01:53:45.869Z",
         "updatedAt": "2026-07-15T01:53:45.869Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.422006542131385,
+          35.64055567900952
+        ]
+      },
+      "properties": {
+        "name:fa": "درمانگاه کاشانی",
+        "description": "به علت مجاورت با پایگاه بسیج و حسینیه در زمان اعتراضات از مراجه به این درمانگاه در حد امکان پرهیز شود. ",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MjM6NmNkNjBmZmFhZWM4",
+        "publicId": "MjM6NmNkNjBmZmFhZWM4",
+        "sourceId": "6cd60ffaaec8",
+        "layerId": 23,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T16:23:50.311Z",
+        "updatedAt": "2026-07-31T16:23:50.311Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5396,
+    "total": 5397,
     "layerId": 23,
     "clustered": false,
     "simplified": false

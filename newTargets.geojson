@@ -25940,38 +25940,6 @@
     },
     {
       "type": "Feature",
-      "id": 94189,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          56.26322316983729,
-          26.965699552019103
-        ]
-      },
-      "properties": {
-        "status": "active",
-        "name:fa": "انفجار در قشم",
-        "unofficial_name:fa": "",
-        "date": 1785370200,
-        "geolocates": "",
-        "description": "",
-        "city": "قشم",
-        "province": "استان هرمزگان",
-        "sources": "https://t.me/Garajetadayoni/10170, https://t.me/snntv/499862, https://t.me/snntv/499861",
-        "id": "MzI6ZTJiMWQyNDNlYzky",
-        "publicId": "MzI6ZTJiMWQyNDNlYzky",
-        "sourceId": "e2b1d243ec92",
-        "layerId": 32,
-        "type": "event",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-07-30T01:28:12.108Z",
-        "updatedAt": "2026-07-30T01:28:56.716Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 94190,
       "geometry": {
         "type": "Point",
@@ -26065,10 +26033,138 @@
         "createdAt": "2026-07-30T06:21:13.236Z",
         "updatedAt": "2026-07-30T06:21:19.718Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.26413072883568,
+          26.96409728903369
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1785357000,
+        "geolocates": "محل ایمپکت حاصل از حملات آمریکا در ۳۰ جولای. محله چاه‌تنگو در جزیره قشم ایران.",
+        "description": "",
+        "city": "قشم",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/zargeoint/status/2083255436963123565, https://t.me/Garajetadayoni/10170, https://t.me/snntv/499862, https://t.me/snntv/499861",
+        "id": "MzI6NzljZmRhYjMzYjlh",
+        "publicId": "MzI6NzljZmRhYjMzYjlh",
+        "sourceId": "79cfdab33b9a",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T18:22:45.081Z",
+        "updatedAt": "2026-07-31T18:39:05.694Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.24336492431016,
+          26.971215834771044
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انهدام انبارها",
+        "unofficial_name:fa": "",
+        "date": 1785357000,
+        "geolocates": "",
+        "description": "انهدام سه انبار در جزیره قشم؛ انبارهایی که بنا بر گزارش‌ها متعلق به سپاه پاسداران بوده‌اند و در پی حملات آمریکا در ۸ مرداد ۱۴۰۵ تخریب شده‌اند.\n\nگزارش‌های منتشرشده حاکی از آن است که هدف این حملات، مجموعه «شهید رودکی» در جزیره قشم، واقع در استان هرمزگان، بوده است؛ این سایت متعلق به قرارگاه مدینه منوره نیروی زمینی سپاه پاسداران میباشد.",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/zargeoint/status/2083246650659586070, https://x.com/hey_itsmyturn/status/2082746830060675304?s=46",
+        "id": "MzI6Y2Q3ZWQ4OGZiM2Y3",
+        "publicId": "MzI6Y2Q3ZWQ4OGZiM2Y3",
+        "sourceId": "cd7ed88fb3f7",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T18:29:32.812Z",
+        "updatedAt": "2026-07-31T18:33:13.820Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.871107265990815,
+          28.933471974344542
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "date": 1785357000,
+        "geolocates": "",
+        "description": "ساختمان متعلق به مرکز نیرو انتظامی نصر بوشهر که در پی حملات آمریکا در ۸ مرداد ۱۴۰۵ تخریب شده‌",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "sources": "https://x.com/geo27752/status/2082807883868098847",
+        "id": "MzI6YzRkOTBmN2VhZmVm",
+        "publicId": "MzI6YzRkOTBmN2VhZmVm",
+        "sourceId": "c4d90f7eafef",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T19:40:48.454Z",
+        "updatedAt": "2026-07-31T19:52:56.015Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8457452952556,
+          28.970785155097587
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تخریب ساختمان",
+        "unofficial_name:fa": "",
+        "date": 1785357000,
+        "geolocates": "",
+        "description": "این ساختمان در پی حملات آمریکا در ۸ مرداد ۱۴۰۵ تخریب شده‌",
+        "city": "بوشهر",
+        "province": "استان بوشهر",
+        "sources": "https://x.com/geo27752/status/2082806412669792490",
+        "id": "MzI6NDZhZGVlNzA0OGVl",
+        "publicId": "MzI6NDZhZGVlNzA0OGVl",
+        "sourceId": "46adee7048ee",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T19:51:16.750Z",
+        "updatedAt": "2026-07-31T19:51:16.750Z"
+      }
     }
   ],
   "metadata": {
-    "total": 832,
+    "total": 835,
     "layerId": 32,
     "clustered": false,
     "simplified": false

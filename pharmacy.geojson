@@ -421783,10 +421783,68 @@
         "createdAt": "2026-07-29T20:30:24.796Z",
         "updatedAt": "2026-07-29T20:30:24.796Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.237182319164276,
+          38.09056082029093
+        ]
+      },
+      "properties": {
+        "name:fa": "داروخانه",
+        "description": "داروخانه خسروی\n\n",
+        "date": "",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mjc6MDg5MTZhYzZlNTQ4",
+        "publicId": "Mjc6MDg5MTZhYzZlNTQ4",
+        "sourceId": "08916ac6e548",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T14:36:59.072Z",
+        "updatedAt": "2026-07-31T14:36:59.072Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.23843893408775,
+          38.08831019914135
+        ]
+      },
+      "properties": {
+        "name:fa": "داروخانه\n",
+        "description": "داروخانه ابراهیمی",
+        "date": "",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mjc6YWYzNDhkMTM3NzRi",
+        "publicId": "Mjc6YWYzNDhkMTM3NzRi",
+        "sourceId": "af348d13774b",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T14:38:17.322Z",
+        "updatedAt": "2026-07-31T14:38:17.322Z"
+      }
     }
   ],
   "metadata": {
-    "total": 15623,
+    "total": 15625,
     "layerId": 27,
     "clustered": false,
     "simplified": false

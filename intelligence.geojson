@@ -12117,10 +12117,125 @@
         "createdAt": "2026-07-30T01:53:22.976Z",
         "updatedAt": "2026-07-30T01:53:22.976Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94223,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.07025958861169,
+              39.3363544714866
+            ],
+            [
+              45.07190995486377,
+              39.337115989536045
+            ],
+            [
+              45.07212562772557,
+              39.33706159566455
+            ],
+            [
+              45.07237412037088,
+              39.335433386190346
+            ],
+            [
+              45.071318201371525,
+              39.33571700729334
+            ],
+            [
+              45.071318201371525,
+              39.33571700729334
+            ],
+            [
+              45.07025958861169,
+              39.3363544714866
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "اطلاعات پلدشت",
+        "description": "اداره اطلاعات هنگ مرزی پلدشت",
+        "date": "",
+        "city": "پلدشت",
+        "province": "استان آذربایجان غربی",
+        "id": "MjozYTRlMzgyMzliNjk",
+        "publicId": "MjozYTRlMzgyMzliNjk",
+        "sourceId": "3a4e38239b69",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T14:32:16.265Z",
+        "updatedAt": "2026-07-31T14:32:16.265Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31179321776182,
+          35.79181669478264
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "حفاظت اطلاعات سپاه دانشگاه علوم و تحقیقات",
+        "description": "اتاق مانیتورینگ حفاظت اطلاعات سپاه دانشگاه علوم و تحقیقات (بخش ابن سینا)",
+        "date": "",
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "id": "Mjo5NGNmNzgyY2ZiYzY",
+        "publicId": "Mjo5NGNmNzgyY2ZiYzY",
+        "sourceId": "94cf782cfbc6",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T16:28:10.061Z",
+        "updatedAt": "2026-07-31T16:28:10.061Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31893337628915,
+          35.779724190648295
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "حفاظت اطلاعات سپاه دانشگاه علوم و تحقیقات",
+        "description": "حفاظت اطلاعات سپاه دانشگاه علوم و تحقیقات بخش مرکزی",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "Mjo3MGQ2MTc0ODgwYTU",
+        "publicId": "Mjo3MGQ2MTc0ODgwYTU",
+        "sourceId": "70d6174880a5",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T16:30:34.874Z",
+        "updatedAt": "2026-07-31T16:30:34.874Z"
+      }
     }
   ],
   "metadata": {
-    "total": 343,
+    "total": 346,
     "layerId": 2,
     "clustered": false,
     "simplified": false

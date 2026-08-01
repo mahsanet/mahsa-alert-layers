@@ -82627,10 +82627,68 @@
         "createdAt": "2026-07-30T01:49:42.724Z",
         "updatedAt": "2026-07-30T01:49:42.724Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.356827426701784,
+          36.47132542315623
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "اداره ثبت اسناد و املاک شهرستان آمل",
+        "date": "",
+        "city": "آمل",
+        "province": "استان مازندران",
+        "id": "MTc6OThhNjYyZmJkOWNj",
+        "publicId": "MTc6OThhNjYyZmJkOWNj",
+        "sourceId": "98a662fbd9cc",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T14:30:54.495Z",
+        "updatedAt": "2026-07-31T14:30:54.495Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.232219226658344,
+          38.08571275529604
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری",
+        "description": "شهرداری منطقه 6 تبریز",
+        "date": "",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTc6Mzg3MjA5OGZkYWNl",
+        "publicId": "MTc6Mzg3MjA5OGZkYWNl",
+        "sourceId": "3872098fdace",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T14:33:20.227Z",
+        "updatedAt": "2026-07-31T14:33:20.227Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2351,
+    "total": 2353,
     "layerId": 17,
     "clustered": false,
     "simplified": false

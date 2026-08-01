@@ -44355,10 +44355,39 @@
         "createdAt": "2026-07-30T00:01:04.927Z",
         "updatedAt": "2026-07-30T00:01:04.927Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.361501678824425,
+          36.46791756476193
+        ]
+      },
+      "properties": {
+        "name": "دادگستری کل آمل",
+        "description": "",
+        "date": "",
+        "city": "آمل",
+        "province": "استان مازندران",
+        "id": "MzQ6NGI0NDJhNGM1MWIz",
+        "publicId": "MzQ6NGI0NDJhNGM1MWIz",
+        "sourceId": "4b442a4c51b3",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T14:40:19.332Z",
+        "updatedAt": "2026-07-31T14:40:19.332Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1409,
+    "total": 1410,
     "layerId": 34,
     "clustered": false,
     "simplified": false

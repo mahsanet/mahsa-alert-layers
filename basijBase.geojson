@@ -66154,10 +66154,40 @@
         "createdAt": "2026-07-30T20:17:19.050Z",
         "updatedAt": "2026-07-30T20:17:37.617Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.42232971265912,
+          35.64058778801838
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MTowMzg2YzQ3MWI2MWY",
+        "publicId": "MTowMzg2YzQ3MWI2MWY",
+        "sourceId": "0386c471b61f",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T16:19:26.211Z",
+        "updatedAt": "2026-07-31T16:19:26.211Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2201,
+    "total": 2202,
     "layerId": 1,
     "clustered": false,
     "simplified": false

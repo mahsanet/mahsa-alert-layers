@@ -28315,34 +28315,6 @@
     },
     {
       "type": "Feature",
-      "id": 85077,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.2379615,
-          38.0905397
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MTUzMw",
-        "city": "تبریز",
-        "osm_id": "",
-        "name:fa": "کلانتری ۱۸ تبریز",
-        "province": "استان آذربایجان شرقی",
-        "publicId": "Mzo2MTUzMw",
-        "sourceId": "61533",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.079Z",
-        "updatedAt": "2026-03-13T04:41:06.079Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85078,
       "geometry": {
         "type": "Point",
@@ -170471,6 +170443,63 @@
         "expirationDate": null,
         "createdAt": "2026-07-29T23:55:57.634Z",
         "updatedAt": "2026-07-29T23:55:57.634Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94247,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.86901055950142,
+              28.933723672462307
+            ],
+            [
+              50.87140706256059,
+              28.934667145898345
+            ],
+            [
+              50.87188791430685,
+              28.932773402766188
+            ],
+            [
+              50.87007694981659,
+              28.932406182901204
+            ],
+            [
+              50.86960470235758,
+              28.932637710959085
+            ],
+            [
+              50.86960470235758,
+              28.932637710959085
+            ],
+            [
+              50.86901055950142,
+              28.933723672462307
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پارکینگ نیرو انتظامی",
+        "description": "",
+        "date": "",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "id": "MzpmN2UwMWExN2FiZDg",
+        "publicId": "MzpmN2UwMWExN2FiZDg",
+        "sourceId": "f7e01a17abd8",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-31T19:37:35.328Z",
+        "updatedAt": "2026-07-31T19:37:35.328Z"
       }
     }
   ],

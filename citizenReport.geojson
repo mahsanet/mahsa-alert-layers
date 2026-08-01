@@ -18504,60 +18504,32 @@
     },
     {
       "type": "Feature",
-      "id": 94218,
+      "id": 94238,
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              52.46788557020261,
-              36.59545141943997
-            ],
-            [
-              52.468009476131044,
-              36.595894001367085
-            ],
-            [
-              52.46876302647286,
-              36.59573970703846
-            ],
-            [
-              52.46869475177658,
-              36.5953620906695
-            ],
-            [
-              52.468591075388275,
-              36.595240278543514
-            ],
-            [
-              52.468591075388275,
-              36.595240278543514
-            ],
-            [
-              52.46788557020261,
-              36.59545141943997
-            ]
-          ]
+          57.328908517956734,
+          37.47215198232733
         ]
       },
       "properties": {
-        "name:fa": "مدرسه",
-        "city": "واسکس",
-        "province": "استان مازندران",
+        "name:fa": "تجمع حامیان حکومت",
+        "city": "بجنورد",
+        "province": "استان خراسان شمالی",
         "date": "",
-        "description": "",
+        "description": "تجمع و شعار دادن حامیان حکومت",
         "sources": "",
-        "id": "MzY6NGVjODE5ODZjYWVj",
-        "publicId": "MzY6NGVjODE5ODZjYWVj",
-        "sourceId": "4ec81986caec",
+        "id": "MzY6OWExODQyY2NkNDAz",
+        "publicId": "MzY6OWExODQyY2NkNDAz",
+        "sourceId": "9a1842ccd403",
         "layerId": 36,
-        "type": "location",
+        "type": "event",
         "status": "active",
         "urgency": null,
-        "verificationTag": "verified",
+        "verificationTag": "not-verified",
         "expirationDate": null,
-        "createdAt": "2026-07-30T21:43:52.032Z",
-        "updatedAt": "2026-07-30T21:43:52.032Z"
+        "createdAt": "2026-07-31T18:17:12.079Z",
+        "updatedAt": "2026-07-31T18:17:12.079Z"
       }
     }
   ],
