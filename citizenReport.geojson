@@ -10211,36 +10211,6 @@
     },
     {
       "type": "Feature",
-      "id": 92951,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.01893437989318,
-          36.54574535667011
-        ]
-      },
-      "properties": {
-        "name:fa": "ایست بازرسی",
-        "city": "شهرستان ساری",
-        "province": "استان مازندران",
-        "date": 1775503745,
-        "description": "ایست بازرسی بسیج و نیرو انتظامی",
-        "sources": "",
-        "id": "MzY6OWY5ZDI4YjlhN2I5",
-        "publicId": "MzY6OWY5ZDI4YjlhN2I5",
-        "sourceId": "9f9d28b9a7b9",
-        "layerId": 36,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-04-06T19:35:18.214Z",
-        "updatedAt": "2026-07-21T21:34:31.763Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92952,
       "geometry": {
         "type": "Point",
@@ -18531,10 +18501,130 @@
         "createdAt": "2026-07-31T18:17:12.079Z",
         "updatedAt": "2026-07-31T18:17:12.079Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2891255098275,
+          27.196079815821363
+        ]
+      },
+      "properties": {
+        "name:fa": "تخلیه ادارات هرمزگان",
+        "city": "بندر عباس",
+        "province": "استان هرمزگان",
+        "date": "",
+        "description": "گزارش‌ها حاکی است امروز، ۱۰ مرداد ۱۴۰۵، دستور تخلیه کارکنان از ساختمان‌های دولتی در استان هرمزگان صادر شده است. جزئیات گزارش در دست برسی میباشد.",
+        "sources": "https://x.com/hey_itsmyturn/status/2083509995795079319?s=20",
+        "id": "MzY6NWRjZmQ5N2RhY2Zi",
+        "publicId": "MzY6NWRjZmQ5N2RhY2Zi",
+        "sourceId": "5dcfd97dacfb",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T11:29:20.401Z",
+        "updatedAt": "2026-08-01T11:29:20.401Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.30583047866821,
+          35.70363743334718
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حامیان حکومت",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": "",
+        "description": "پرچم تکانی حکومتی\n",
+        "sources": "",
+        "id": "MzY6Y2ExODlmNjY0NWRh",
+        "publicId": "MzY6Y2ExODlmNjY0NWRh",
+        "sourceId": "ca189f6645da",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T18:58:41.796Z",
+        "updatedAt": "2026-08-01T18:58:47.372Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.38395366072655,
+          31.853910070474058
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حامیان حکومت",
+        "city": "یزد",
+        "province": "استان یزد",
+        "date": "",
+        "description": "تجمعات حکومتی",
+        "sources": "",
+        "id": "MzY6N2Y1ZWE0YzRmZTU2",
+        "publicId": "MzY6N2Y1ZWE0YzRmZTU2",
+        "sourceId": "7f5ea4c4fe56",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T19:12:34.460Z",
+        "updatedAt": "2026-08-02T00:17:43.106Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.505984518676996,
+          29.57004926038917
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حامیان حکومت",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "date": "",
+        "description": "محل تجمع شبانه عرازشه",
+        "sources": "",
+        "id": "MzY6MDY5NTNmNjQzMjQ1",
+        "publicId": "MzY6MDY5NTNmNjQzMjQ1",
+        "sourceId": "06953f643245",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-02T00:16:16.249Z",
+        "updatedAt": "2026-08-02T00:16:16.249Z"
+      }
     }
   ],
   "metadata": {
-    "total": 634,
+    "total": 637,
     "layerId": 36,
     "clustered": false,
     "simplified": false

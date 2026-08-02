@@ -519035,60 +519035,6 @@
     },
     {
       "type": "Feature",
-      "id": 43054,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          57.040276,
-          25.995308
-        ]
-      },
-      "properties": {
-        "name:fa": "دوربین خودپرداز",
-        "lastReport": "2020-08-09 17:19:03.000000",
-        "addressDescription": "شهرستان جاسک هرمزگان بخش مرکزی شهرستان جاسک گنگان ",
-        "id": "MjA6MTc5MDE",
-        "publicId": "MjA6MTc5MDE",
-        "sourceId": "17901",
-        "layerId": 20,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:55:13.374Z",
-        "updatedAt": "2026-03-11T20:55:13.374Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 43055,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          57.040264,
-          25.995296
-        ]
-      },
-      "properties": {
-        "name:fa": "دوربین خودپرداز",
-        "lastReport": "2020-08-09 17:19:03.000000",
-        "addressDescription": "شهرستان جاسک هرمزگان بخش مرکزی شهرستان جاسک گنگان ",
-        "id": "MjA6MTc5MDI",
-        "publicId": "MjA6MTc5MDI",
-        "sourceId": "17902",
-        "layerId": 20,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:55:13.374Z",
-        "updatedAt": "2026-03-11T20:55:13.374Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 43056,
       "geometry": {
         "type": "Point",
@@ -537870,6 +537816,68 @@
         "expirationDate": null,
         "createdAt": "2026-07-30T21:47:12.556Z",
         "updatedAt": "2026-07-30T21:47:19.472Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.01951661705971,
+          36.54613729882574
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین ایست بازرسی",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "دوربین ایست بازرسی نیرو انتظامی",
+        "city": "شهرستان ساری",
+        "province": "استان مازندران",
+        "id": "MjA6ZWYxYTAyZDg4NWMz",
+        "publicId": "MjA6ZWYxYTAyZDg4NWMz",
+        "sourceId": "ef1a02d885c3",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T16:28:17.434Z",
+        "updatedAt": "2026-08-01T16:28:17.434Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62454487117677,
+          36.25735030224217
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین حکومتی",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "دوربین مداربسته پایگاه چهاردهم شکاری",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MjA6ZTdlMTkyYTFkZGZm",
+        "publicId": "MjA6ZTdlMTkyYTFkZGZm",
+        "sourceId": "e7e192a1ddff",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T19:10:46.547Z",
+        "updatedAt": "2026-08-01T19:10:46.547Z"
       }
     }
   ],

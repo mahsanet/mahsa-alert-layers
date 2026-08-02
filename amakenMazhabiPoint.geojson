@@ -14647,34 +14647,6 @@
     },
     {
       "type": "Feature",
-      "id": 20034,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.5209168,
-          29.5635299
-        ]
-      },
-      "properties": {
-        "id": "NDo2ODY3",
-        "city": "بندر گناوه",
-        "osm_id": "n6939073674",
-        "name:fa": "مسجد غدیر",
-        "province": "استان بوشهر",
-        "publicId": "NDo2ODY3",
-        "sourceId": "6867",
-        "layerId": 4,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:53:47.828Z",
-        "updatedAt": "2026-03-11T20:53:47.828Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 20035,
       "geometry": {
         "type": "Point",
@@ -156943,10 +156915,184 @@
         "createdAt": "2026-07-31T18:44:26.432Z",
         "updatedAt": "2026-07-31T18:44:26.432Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25742353779796,
+          26.94326026370139
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "قشم",
+        "province": "استان هرمزگان",
+        "id": "NDozYTU1YWEyMzc5ZDU",
+        "publicId": "NDozYTU1YWEyMzc5ZDU",
+        "sourceId": "3a55aa2379d5",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:42:01.915Z",
+        "updatedAt": "2026-08-01T10:42:01.915Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25985542473191,
+          26.941783567137435
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ابوذر",
+        "description": "",
+        "date": "",
+        "city": "قشم",
+        "province": "استان هرمزگان",
+        "id": "NDo3ZTc5YzNlOTAyNDE",
+        "publicId": "NDo3ZTc5YzNlOTAyNDE",
+        "sourceId": "7e79c3e90241",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:42:38.325Z",
+        "updatedAt": "2026-08-01T10:42:38.325Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.135467221291265,
+          26.86429238672895
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع",
+        "description": "",
+        "date": "",
+        "city": "برکه خلف",
+        "province": "استان هرمزگان",
+        "id": "NDo4YTMzZWQ4OWQ1MmQ",
+        "publicId": "NDo4YTMzZWQ4OWQ1MmQ",
+        "sourceId": "8a33ed89d52d",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:43:51.510Z",
+        "updatedAt": "2026-08-01T10:43:51.510Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.12525227673797,
+          26.845892798027066
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "ریگو",
+        "province": "استان هرمزگان",
+        "id": "NDoyNTliYTA0NzVkOGQ",
+        "publicId": "NDoyNTliYTA0NzVkOGQ",
+        "sourceId": "259ba0475d8d",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:44:16.786Z",
+        "updatedAt": "2026-08-01T10:44:16.786Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.74194401056462,
+          27.206462995293563
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد رسول",
+        "description": "",
+        "date": "",
+        "city": "خرگي‎",
+        "province": "استان هرمزگان",
+        "id": "NDplYWI5MzRkYzc0YmM",
+        "publicId": "NDplYWI5MzRkYzc0YmM",
+        "sourceId": "eab934dc74bc",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:56:43.441Z",
+        "updatedAt": "2026-08-01T10:56:43.441Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.52078075706959,
+          29.563471840808162
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد الغدیر",
+        "description": "",
+        "date": "",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "id": "NDplNmM0MTE2ZDQzNDY",
+        "publicId": "NDplNmM0MTE2ZDQzNDY",
+        "sourceId": "e6c4116d4346",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-02T00:18:48.799Z",
+        "updatedAt": "2026-08-02T00:18:48.799Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5600,
+    "total": 5605,
     "layerId": 4,
     "clustered": false,
     "simplified": false

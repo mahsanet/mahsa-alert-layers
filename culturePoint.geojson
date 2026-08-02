@@ -82685,10 +82685,181 @@
         "createdAt": "2026-07-31T14:33:20.227Z",
         "updatedAt": "2026-07-31T14:33:20.227Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94259,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.44687034875341,
+              27.093102494781476
+            ],
+            [
+              56.44662821280363,
+              27.092720871401156
+            ],
+            [
+              56.44711970546507,
+              27.09247812734533
+            ],
+            [
+              56.447356516526185,
+              27.092861882275045
+            ],
+            [
+              56.447356516526185,
+              27.092861882275045
+            ],
+            [
+              56.44687034875341,
+              27.093102494781476
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره بندرگاه هرمز",
+        "description": "",
+        "date": "",
+        "city": "هرمز",
+        "province": "استان هرمزگان",
+        "id": "MTc6OTE2MTg0NTgyMGUz",
+        "publicId": "MTc6OTE2MTg0NTgyMGUz",
+        "sourceId": "9161845820e3",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:53:00.140Z",
+        "updatedAt": "2026-08-01T10:53:00.140Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94263,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.3250715311338,
+              29.22917914986283
+            ],
+            [
+              50.32638645159793,
+              29.229488148026903
+            ],
+            [
+              50.32673265183212,
+              29.228287612434897
+            ],
+            [
+              50.325752684051395,
+              29.22808138616074
+            ],
+            [
+              50.32572377263804,
+              29.228109275044304
+            ],
+            [
+              50.32572377263804,
+              29.228109275044304
+            ],
+            [
+              50.3250715311338,
+              29.22917914986283
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "گمرک خارک",
+        "description": "",
+        "date": "",
+        "city": "خارک",
+        "province": "استان بوشهر",
+        "id": "MTc6NmJhZDE1ZDgxYjI1",
+        "publicId": "MTc6NmJhZDE1ZDgxYjI1",
+        "sourceId": "6bad15d81b25",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T11:02:28.991Z",
+        "updatedAt": "2026-08-01T11:02:28.991Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94278,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.02094716440786,
+              26.55469321838153
+            ],
+            [
+              54.021127399971675,
+              26.554729045521754
+            ],
+            [
+              54.02131709440923,
+              26.55398516558664
+            ],
+            [
+              54.02124406571886,
+              26.553968831398436
+            ],
+            [
+              54.02113191053985,
+              26.553985163267043
+            ],
+            [
+              54.02109669903098,
+              26.554105319083675
+            ],
+            [
+              54.02109669903098,
+              26.554105319083675
+            ],
+            [
+              54.02094716440786,
+              26.55469321838153
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "كيش",
+        "province": "استان هرمزگان",
+        "id": "MTc6ZGQxZmVmOWQ3MjM3",
+        "publicId": "MTc6ZGQxZmVmOWQ3MjM3",
+        "sourceId": "dd1fef9d7237",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T23:50:06.465Z",
+        "updatedAt": "2026-08-01T23:50:06.465Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2353,
+    "total": 2356,
     "layerId": 17,
     "clustered": false,
     "simplified": false

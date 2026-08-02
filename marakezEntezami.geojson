@@ -1660,34 +1660,6 @@
     },
     {
       "type": "Feature",
-      "id": 84124,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          56.4496045,
-          27.0924733
-        ]
-      },
-      "properties": {
-        "id": "MzoyNTU1",
-        "city": "هرمز",
-        "osm_id": "n10909412704",
-        "name:fa": "کلانتری هرمز",
-        "province": "استان هرمزگان",
-        "publicId": "MzoyNTU1",
-        "sourceId": "2555",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:05.594Z",
-        "updatedAt": "2026-03-13T04:41:05.594Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 84125,
       "geometry": {
         "type": "Point",
@@ -20682,34 +20654,6 @@
         "province": "استان خوزستان",
         "publicId": "MzoyMzI3",
         "sourceId": "2327",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:05.922Z",
-        "updatedAt": "2026-03-13T04:41:05.922Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 84804,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.7678929,
-          30.114583
-        ]
-      },
-      "properties": {
-        "id": "MzoyNTg2",
-        "city": "بحرکان",
-        "osm_id": "n11188885240",
-        "name:fa": "پاسگاه دریایی میر محمد",
-        "province": "Khuzestan Province",
-        "publicId": "MzoyNTg2",
-        "sourceId": "2586",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -51364,62 +51308,6 @@
     },
     {
       "type": "Feature",
-      "id": 85920,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3577057,
-          35.7727973
-        ]
-      },
-      "properties": {
-        "id": "Mzo2Mjc5NA",
-        "city": "تهران",
-        "osm_id": "",
-        "name:fa": "پلیس ۱۰+",
-        "province": "استان تهران",
-        "publicId": "Mzo2Mjc5NA",
-        "sourceId": "62794",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.486Z",
-        "updatedAt": "2026-03-13T04:41:06.486Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 85921,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3623272,
-          35.773609
-        ]
-      },
-      "properties": {
-        "id": "Mzo2Mjc5Nw",
-        "city": "تهران",
-        "osm_id": "",
-        "name:fa": "پلیس دیپلماتیمک",
-        "province": "استان تهران",
-        "publicId": "Mzo2Mjc5Nw",
-        "sourceId": "62797",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.487Z",
-        "updatedAt": "2026-03-13T04:41:06.487Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85922,
       "geometry": {
         "type": "Point",
@@ -52620,34 +52508,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.502Z",
         "updatedAt": "2026-03-13T04:41:06.502Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 85965,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3537589,
-          35.7597413
-        ]
-      },
-      "properties": {
-        "id": "Mzo2Mjg2Mg",
-        "city": "تهران",
-        "osm_id": "",
-        "name:fa": "پلیس دیپلماتیک 296",
-        "province": "استان تهران",
-        "publicId": "Mzo2Mjg2Mg",
-        "sourceId": "62862",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.503Z",
-        "updatedAt": "2026-03-13T04:41:06.503Z"
       }
     },
     {
@@ -57220,8 +57080,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.6087176,
-          35.676495
+          51.60870005935328,
+          35.67816920054115
         ]
       },
       "properties": {
@@ -57239,7 +57099,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.566Z",
-        "updatedAt": "2026-03-13T04:41:06.566Z"
+        "updatedAt": "2026-08-01T22:42:22.560Z"
       }
     },
     {
@@ -80124,8 +79984,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.9363121,
-          32.1944266
+          47.93633530884014,
+          32.19862388547274
         ]
       },
       "properties": {
@@ -80143,7 +80003,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.996Z",
-        "updatedAt": "2026-03-13T04:41:06.996Z"
+        "updatedAt": "2026-08-01T22:55:34.449Z"
       }
     },
     {
@@ -82837,8 +82697,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.9839628,
-          31.4411391
+          49.984007081588686,
+          31.439567865074764
         ]
       },
       "properties": {
@@ -82856,7 +82716,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.036Z",
-        "updatedAt": "2026-03-13T04:41:07.036Z"
+        "updatedAt": "2026-08-01T22:57:25.676Z"
       }
     },
     {
@@ -84321,8 +84181,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          48.6128175,
-          31.1504852
+          48.6128265062826,
+          31.148233108279527
         ]
       },
       "properties": {
@@ -84340,7 +84200,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.059Z",
-        "updatedAt": "2026-03-13T04:41:07.059Z"
+        "updatedAt": "2026-08-01T17:05:03.495Z"
       }
     },
     {
@@ -93303,34 +93163,6 @@
     },
     {
       "type": "Feature",
-      "id": 87437,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.8181767,
-          28.9606026
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NTE2NA",
-        "city": "بوشهر",
-        "osm_id": "",
-        "name:fa": "فرماندهی انتظامی شهرستان بوشهر",
-        "province": "استان بوشهر",
-        "publicId": "Mzo2NTE2NA",
-        "sourceId": "65164",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.193Z",
-        "updatedAt": "2026-03-13T04:41:07.193Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 87438,
       "geometry": {
         "type": "Point",
@@ -98277,34 +98109,6 @@
     },
     {
       "type": "Feature",
-      "id": 87615,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          56.6281003,
-          27.1869818
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NTQwMw",
-        "city": "شهرستان بندرعباس",
-        "osm_id": "",
-        "name:fa": "کلانتری کولغان",
-        "province": "استان هرمزگان",
-        "publicId": "Mzo2NTQwMw",
-        "sourceId": "65403",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.268Z",
-        "updatedAt": "2026-03-13T04:41:07.268Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 87616,
       "geometry": {
         "type": "Point",
@@ -98579,32 +98383,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.272Z",
         "updatedAt": "2026-03-13T04:41:07.272Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 87626,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          56.4570343,
-          27.0984079
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NTQxOQ",
-        "name:fa": "پاسگاه هرمز",
-        "osm_id": "",
-        "publicId": "Mzo2NTQxOQ",
-        "sourceId": "65419",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.273Z",
-        "updatedAt": "2026-03-13T04:41:07.273Z"
       }
     },
     {
@@ -99637,62 +99415,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.291Z",
         "updatedAt": "2026-03-13T04:41:07.291Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 87665,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.0202743,
-          26.541338
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NTQ3Mw",
-        "city": "كيش",
-        "osm_id": "",
-        "name:fa": "پلیس راهنمایی و رانندگی",
-        "province": "استان هرمزگان",
-        "publicId": "Mzo2NTQ3Mw",
-        "sourceId": "65473",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.292Z",
-        "updatedAt": "2026-03-13T04:41:07.292Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 87666,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.0203963,
-          26.5407849
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NTQ3NA",
-        "city": "كيش",
-        "osm_id": "",
-        "name:fa": "راهنمایی ورانندگی کیش",
-        "province": "استان هرمزگان",
-        "publicId": "Mzo2NTQ3NA",
-        "sourceId": "65474",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.292Z",
-        "updatedAt": "2026-03-13T04:41:07.292Z"
       }
     },
     {
@@ -113657,34 +113379,6 @@
         "province": "استان خراسان رضوی",
         "publicId": "Mzo2NjMxMQ",
         "sourceId": "66311",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.608Z",
-        "updatedAt": "2026-03-13T04:41:07.608Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 88364,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.8838223,
-          28.932218
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NjMxMw",
-        "city": "شهرستان بوشهر",
-        "osm_id": "w466034623",
-        "name:fa": "فرماندهی نیرو انتظامی استان بوشهر",
-        "province": "استان بوشهر",
-        "publicId": "Mzo2NjMxMw",
-        "sourceId": "66313",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -134432,34 +134126,6 @@
         "province": "استان بوشهر",
         "publicId": "Mzo2NzM5NA",
         "sourceId": "67394",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.964Z",
-        "updatedAt": "2026-03-13T04:41:07.964Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 89208,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.8848706,
-          28.8960791
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NzM5NQ",
-        "city": "شهرستان بوشهر",
-        "osm_id": "",
-        "name:fa": "کلانتری 14",
-        "province": "استان بوشهر",
-        "publicId": "Mzo2NzM5NQ",
-        "sourceId": "67395",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -164626,35 +164292,6 @@
     },
     {
       "type": "Feature",
-      "id": 91776,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.82097456939837,
-          28.963045852707836
-        ]
-      },
-      "properties": {
-        "city": "بوشهر",
-        "date": 1771868083,
-        "name:fa": "فرماندهی انتظامی",
-        "province": "استان بوشهر",
-        "description": "فرماندهی انتظامی بوشهر",
-        "id": "Mzo0ZjVmMWVhYTA2NGQ",
-        "publicId": "Mzo0ZjVmMWVhYTA2NGQ",
-        "sourceId": "4f5f1eaa064d",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-02-23T17:34:43.324Z",
-        "updatedAt": "2026-04-08T20:49:25.398Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 91777,
       "geometry": {
         "type": "Point",
@@ -170501,10 +170138,507 @@
         "createdAt": "2026-07-31T19:37:35.328Z",
         "updatedAt": "2026-07-31T19:37:35.328Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94250,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.8200229457359,
+              28.963663530042368
+            ],
+            [
+              50.82127853462916,
+              28.963703371431322
+            ],
+            [
+              50.82146013080251,
+              28.963644399554525
+            ],
+            [
+              50.82150295359523,
+              28.963562703778422
+            ],
+            [
+              50.821474370666834,
+              28.962439246329026
+            ],
+            [
+              50.82152251822589,
+              28.961930455984316
+            ],
+            [
+              50.820779815400215,
+              28.9619133041587
+            ],
+            [
+              50.82073918785278,
+              28.962126737164596
+            ],
+            [
+              50.82059534019447,
+              28.962136956795632
+            ],
+            [
+              50.820595184525104,
+              28.962412155680283
+            ],
+            [
+              50.819984642918484,
+              28.962385698319906
+            ],
+            [
+              50.820021879431266,
+              28.963626410337852
+            ],
+            [
+              50.820021879431266,
+              28.963626410337852
+            ],
+            [
+              50.8200229457359,
+              28.963663530042368
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی مرزبانی استان بوشهر",
+        "description": "",
+        "date": "",
+        "city": "بوشهر",
+        "province": "استان بوشهر",
+        "id": "Mzo5Nzc5OTUwY2ZiNzk",
+        "publicId": "Mzo5Nzc5OTUwY2ZiNzk",
+        "sourceId": "9779950cfb79",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:32:44.674Z",
+        "updatedAt": "2026-08-01T10:32:44.674Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94251,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.88162468204601,
+              28.935115887151156
+            ],
+            [
+              50.880245202777985,
+              28.930797076815992
+            ],
+            [
+              50.88595174851315,
+              28.92939314912178
+            ],
+            [
+              50.88743041133492,
+              28.933595647346607
+            ],
+            [
+              50.88743041133492,
+              28.933595647346607
+            ],
+            [
+              50.88162468204601,
+              28.935115887151156
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی نیرو انتظامی استان بوشهر",
+        "description": "",
+        "date": "",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "id": "Mzo5OWYwOGE5N2ZlYTY",
+        "publicId": "Mzo5OWYwOGE5N2ZlYTY",
+        "sourceId": "99f08a97fea6",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:35:51.981Z",
+        "updatedAt": "2026-08-01T10:35:51.981Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94252,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.884604858683076,
+              28.89624053116826
+            ],
+            [
+              50.88459748337263,
+              28.89578804294804
+            ],
+            [
+              50.88520330065313,
+              28.89576907579793
+            ],
+            [
+              50.88522652568679,
+              28.896217399144177
+            ],
+            [
+              50.88522652568679,
+              28.896217399144177
+            ],
+            [
+              50.884604858683076,
+              28.89624053116826
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 14",
+        "description": "",
+        "date": "",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "id": "MzphMGVlMTk1ODljMTY",
+        "publicId": "MzphMGVlMTk1ODljMTY",
+        "sourceId": "a0ee19589c16",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:40:26.869Z",
+        "updatedAt": "2026-08-01T10:40:26.869Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94258,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.44950201633273,
+              27.09256596703402
+            ],
+            [
+              56.449518333561485,
+              27.092345932351137
+            ],
+            [
+              56.44988827560263,
+              27.092361003538215
+            ],
+            [
+              56.44987096162325,
+              27.092579594754554
+            ],
+            [
+              56.44987096162325,
+              27.092579594754554
+            ],
+            [
+              56.44950201633273,
+              27.09256596703402
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه انتظامی هرمز",
+        "description": "",
+        "date": "",
+        "city": "هرمز",
+        "province": "استان هرمزگان",
+        "id": "Mzo1NjJlOTJlMjViMjg",
+        "publicId": "Mzo1NjJlOTJlMjViMjg",
+        "sourceId": "562e92e25b28",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:50:36.399Z",
+        "updatedAt": "2026-08-01T10:50:36.399Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94261,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.62753721978174,
+              27.190206084121613
+            ],
+            [
+              56.62777140657178,
+              27.190767772557976
+            ],
+            [
+              56.62834128663667,
+              27.190462682483997
+            ],
+            [
+              56.62816041061674,
+              27.190030375196272
+            ],
+            [
+              56.62816234857641,
+              27.190030375196272
+            ],
+            [
+              56.62753721978174,
+              27.190206084121613
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری کولغان",
+        "description": "",
+        "date": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "id": "Mzo5YWE0Y2FlMTk4ZjQ",
+        "publicId": "Mzo5YWE0Y2FlMTk4ZjQ",
+        "sourceId": "9aa4cae198f4",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:55:59.532Z",
+        "updatedAt": "2026-08-01T10:55:59.532Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94267,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.76776746113393,
+              30.115016543681335
+            ],
+            [
+              49.76826954549071,
+              30.115256256049918
+            ],
+            [
+              49.76855544051756,
+              30.114835440667605
+            ],
+            [
+              49.76808837771165,
+              30.114581378964033
+            ],
+            [
+              49.76808837771165,
+              30.114581378964033
+            ],
+            [
+              49.76776746113393,
+              30.115016543681335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه دریایی میر محمد",
+        "description": "",
+        "date": "",
+        "city": "بحرکان",
+        "province": "Khuzestan Province",
+        "id": "MzpkODBiODMwYWFiMDU",
+        "publicId": "MzpkODBiODMwYWFiMDU",
+        "sourceId": "d80b830aab05",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T11:08:13.538Z",
+        "updatedAt": "2026-08-01T11:08:13.538Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.01888039669228,
+          36.54569910632094
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "description": "ایست بازرسی بسیج و نیرو انتظامی",
+        "date": "",
+        "city": "شهرستان ساری",
+        "province": "استان مازندران",
+        "id": "Mzo4YTQ1M2QzNTc5ZjE",
+        "publicId": "Mzo4YTQ1M2QzNTc5ZjE",
+        "sourceId": "8a453d3579f1",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T16:29:04.258Z",
+        "updatedAt": "2026-08-01T16:30:04.613Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94271,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              53.01870486106313,
+              36.545398228957225
+            ],
+            [
+              53.01884586715872,
+              36.54547069285711
+            ],
+            [
+              53.01893720713963,
+              36.545369793737706
+            ],
+            [
+              53.01878250004697,
+              36.5452973297441
+            ],
+            [
+              53.0187758398238,
+              36.54530559972483
+            ],
+            [
+              53.0187758398238,
+              36.54530559972483
+            ],
+            [
+              53.01870486106313,
+              36.545398228957225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "پایگاه کنترل و ایست بازرسی نیروی انتظامی",
+        "date": "",
+        "city": "شهرستان ساری",
+        "province": "استان مازندران",
+        "id": "Mzo2NzVlOGFmZGQ4YTY",
+        "publicId": "Mzo2NzVlOGFmZGQ4YTY",
+        "sourceId": "675e8afdd8a6",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T16:31:14.659Z",
+        "updatedAt": "2026-08-01T16:31:14.659Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94272,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.64934986036775,
+              31.226304707367916
+            ],
+            [
+              48.64915073316814,
+              31.22589125373254
+            ],
+            [
+              48.648283001109746,
+              31.226175347891598
+            ],
+            [
+              48.64852233328574,
+              31.226688734353303
+            ],
+            [
+              48.64938490791039,
+              31.226371687588937
+            ],
+            [
+              48.64936622104318,
+              31.226337019800596
+            ],
+            [
+              48.64936622104318,
+              31.226337019800596
+            ],
+            [
+              48.64934986036775,
+              31.226304707367916
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 11",
+        "description": "کلانتری 11 شهر کارون",
+        "date": "",
+        "city": "کوت عبدالله",
+        "province": "استان خوزستان",
+        "id": "MzpmZGM3NDcxODg0OTg",
+        "publicId": "MzpmZGM3NDcxODg0OTg",
+        "sourceId": "fdc747188498",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T17:07:29.911Z",
+        "updatedAt": "2026-08-01T17:09:30.438Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6073,
+    "total": 6069,
     "layerId": 3,
     "clustered": false,
     "simplified": false

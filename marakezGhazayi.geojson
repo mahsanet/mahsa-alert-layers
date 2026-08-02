@@ -35538,38 +35538,6 @@
     },
     {
       "type": "Feature",
-      "id": 8178,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.9551502,
-          36.4042559
-        ]
-      },
-      "properties": {
-        "id": "MzQ6MTUyNDM4",
-        "city": "شاهرود",
-        "name:fa": "سازمان قضایی نیروهای مسلح",
-        "sources": [
-          "https://maps.google.com/?cid=17114169018599286516",
-          "https://maps.google.com/?cid=16842141890260429237"
-        ],
-        "category": "دادسرا",
-        "province": "استان سمنان",
-        "publicId": "MzQ6MTUyNDM4",
-        "sourceId": "152438",
-        "layerId": 34,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:53:15.673Z",
-        "updatedAt": "2026-03-11T20:53:15.673Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 8179,
       "geometry": {
         "type": "Point",
@@ -44383,6 +44351,67 @@
         "expirationDate": null,
         "createdAt": "2026-07-31T14:40:19.332Z",
         "updatedAt": "2026-07-31T14:40:19.332Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94277,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.954543511269264,
+              36.404479452066894
+            ],
+            [
+              54.95451725961925,
+              36.404296977823975
+            ],
+            [
+              54.95535253937044,
+              36.40396468152338
+            ],
+            [
+              54.955430666693445,
+              36.40398547767484
+            ],
+            [
+              54.955385927966205,
+              36.404411655899395
+            ],
+            [
+              54.954554311273995,
+              36.40447915122766
+            ],
+            [
+              54.954554311273995,
+              36.40447915122766
+            ],
+            [
+              54.954543511269264,
+              36.404479452066894
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "دادسرا",
+        "description": "سازمان قضایی نیروهای مسلح",
+        "date": "",
+        "city": "شاهرود",
+        "province": "استان سمنان",
+        "id": "MzQ6ZTUyZDQ0NTlhYTMy",
+        "publicId": "MzQ6ZTUyZDQ0NTlhYTMy",
+        "sourceId": "e52d4459aa32",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T22:35:17.953Z",
+        "updatedAt": "2026-08-01T22:35:17.953Z"
       }
     }
   ],

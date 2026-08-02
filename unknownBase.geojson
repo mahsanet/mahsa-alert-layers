@@ -70198,10 +70198,84 @@
         "createdAt": "2026-07-31T18:36:24.315Z",
         "updatedAt": "2026-07-31T18:36:24.315Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94264,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.765911566674106,
+              30.114344682734597
+            ],
+            [
+              49.76620563304448,
+              30.113953639023777
+            ],
+            [
+              49.76760792095547,
+              30.114757065051037
+            ],
+            [
+              49.76769152566223,
+              30.114651157660504
+            ],
+            [
+              49.76776521355103,
+              30.11469922206733
+            ],
+            [
+              49.76778920281626,
+              30.114751298231013
+            ],
+            [
+              49.76759768188376,
+              30.115002629203985
+            ],
+            [
+              49.767615363477375,
+              30.11501337399676
+            ],
+            [
+              49.767453750933214,
+              30.115222708172865
+            ],
+            [
+              49.767453750933214,
+              30.115222708172865
+            ],
+            [
+              49.765911566674106,
+              30.114344682734597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "بحرکان",
+        "province": "Khuzestan Province",
+        "id": "MTI6OTMxOThjMmI1MTQy",
+        "publicId": "MTI6OTMxOThjMmI1MTQy",
+        "sourceId": "93198c2b5142",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T11:07:16.296Z",
+        "updatedAt": "2026-08-01T11:07:16.296Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1022,
+    "total": 1023,
     "layerId": 12,
     "clustered": false,
     "simplified": false

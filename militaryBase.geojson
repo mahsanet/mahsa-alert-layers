@@ -42920,6 +42920,36 @@
     },
     {
       "type": "Feature",
+      "id": 93628,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.64246627843485,
+          36.25455986507873
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه چهاردهم شکاری",
+        "unofficial_name:fa": "",
+        "description": "پایگاه چهاردهم شکاری",
+        "date": 1783092237,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTE6YjRiMzU0ZGViZWM3",
+        "publicId": "MTE6YjRiMzU0ZGViZWM3",
+        "sourceId": "b4b354debec7",
+        "layerId": 11,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-15T01:53:51.896Z",
+        "updatedAt": "2026-08-01T19:17:19.075Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 93664,
       "geometry": {
         "type": "Point",
@@ -43201,7 +43231,7 @@
     }
   ],
   "metadata": {
-    "total": 381,
+    "total": 382,
     "layerId": 11,
     "clustered": false,
     "simplified": false

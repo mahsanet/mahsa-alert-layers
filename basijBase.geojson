@@ -64786,35 +64786,6 @@
     },
     {
       "type": "Feature",
-      "id": 93628,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          59.624550634498945,
-          36.25741353927525
-        ]
-      },
-      "properties": {
-        "name:fa": "بسیج پایگاه چهاردهم شکاری",
-        "description": "بسیج 62 دوربین مداربسته پایگاه چهاردهم شکاری",
-        "date": 1783092237,
-        "city": "مشهد",
-        "province": "استان خراسان رضوی",
-        "id": "MTpiNGIzNTRkZWJlYzc",
-        "publicId": "MTpiNGIzNTRkZWJlYzc",
-        "sourceId": "b4b354debec7",
-        "layerId": 1,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-15T01:53:51.896Z",
-        "updatedAt": "2026-07-15T01:53:51.896Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93629,
       "geometry": {
         "type": "Point",
@@ -66187,7 +66158,7 @@
     }
   ],
   "metadata": {
-    "total": 2202,
+    "total": 2201,
     "layerId": 1,
     "clustered": false,
     "simplified": false

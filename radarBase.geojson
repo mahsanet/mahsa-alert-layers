@@ -3938,10 +3938,154 @@
         "createdAt": "2026-07-30T20:02:12.331Z",
         "updatedAt": "2026-07-30T20:02:12.331Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94257,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.53771180411445,
+              26.29289958240298
+            ],
+            [
+              54.538049064645804,
+              26.292972843556342
+            ],
+            [
+              54.53811366510135,
+              26.292656753751274
+            ],
+            [
+              54.53778022864495,
+              26.292616857513266
+            ],
+            [
+              54.53778022864495,
+              26.292616857513266
+            ],
+            [
+              54.53771180411445,
+              26.29289958240298
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان ابوموسی",
+        "province": "استان هرمزگان",
+        "id": "OTo5NmU4MzFiNjRkYzk",
+        "publicId": "OTo5NmU4MzFiNjRkYzk",
+        "sourceId": "96e831b64dc9",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:48:51.840Z",
+        "updatedAt": "2026-08-01T10:48:51.840Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.4470140532716,
+          27.092692061402644
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "هرمز",
+        "province": "استان هرمزگان",
+        "id": "OTo3NzE2MGU0Y2VjMDk",
+        "publicId": "OTo3NzE2MGU0Y2VjMDk",
+        "sourceId": "77160e4cec09",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T10:53:18.518Z",
+        "updatedAt": "2026-08-01T10:53:18.518Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.76770554889276,
+          30.114779730634297
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "بحرکان",
+        "province": "Khuzestan Province",
+        "id": "OTpkOGNlNjQ2NTRjOGU",
+        "publicId": "OTpkOGNlNjQ2NTRjOGU",
+        "sourceId": "d8ce64654c8e",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T11:07:30.703Z",
+        "updatedAt": "2026-08-01T11:07:30.703Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.76806051747232,
+          30.11472529250797
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "بحرکان",
+        "province": "Khuzestan Province",
+        "id": "OTo5MjM5YjFhOTAxYjc",
+        "publicId": "OTo5MjM5YjFhOTAxYjc",
+        "sourceId": "9239b1a901b7",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-01T11:07:42.327Z",
+        "updatedAt": "2026-08-01T11:07:42.327Z"
+      }
     }
   ],
   "metadata": {
-    "total": 56,
+    "total": 60,
     "layerId": 9,
     "clustered": false,
     "simplified": false
