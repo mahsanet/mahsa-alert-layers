@@ -537879,10 +537879,41 @@
         "createdAt": "2026-08-01T19:10:46.547Z",
         "updatedAt": "2026-08-01T19:10:46.547Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.265726564577534,
+          35.71286725241977
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "id": "MjA6ZDU2ZjVhYTE0YmM5",
+        "publicId": "MjA6ZDU2ZjVhYTE0YmM5",
+        "sourceId": "d56f5aa14bc9",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-02T15:49:02.612Z",
+        "updatedAt": "2026-08-02T15:49:02.612Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18546,
+    "total": 18547,
     "layerId": 20,
     "clustered": false,
     "simplified": false

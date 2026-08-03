@@ -65840,7 +65840,7 @@
       },
       "properties": {
         "name:fa": "پایگاه بسیج",
-        "unofficial_name:fa": "",
+        "unofficial_name:fa": "حوزه مقاومت بسیج 117 نینوا",
         "description": "",
         "date": "",
         "city": "تهران",
@@ -65855,7 +65855,7 @@
         "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-07-28T20:05:19.881Z",
-        "updatedAt": "2026-07-28T20:05:19.881Z"
+        "updatedAt": "2026-08-02T16:41:09.940Z"
       }
     },
     {
@@ -66155,10 +66155,68 @@
         "createdAt": "2026-07-31T16:19:26.211Z",
         "updatedAt": "2026-07-31T16:19:26.211Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94287,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.99940435813508,
+              36.43064375098717
+            ],
+            [
+              54.99960293873821,
+              36.43071886822325
+            ],
+            [
+              54.99977780822343,
+              36.430429129910664
+            ],
+            [
+              54.999620722075605,
+              36.43035758941956
+            ],
+            [
+              54.99960655948942,
+              36.43037437552425
+            ],
+            [
+              54.99960655948942,
+              36.43037437552425
+            ],
+            [
+              54.99940435813508,
+              36.43064375098717
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شاهرود",
+        "province": "استان سمنان",
+        "id": "MTpiNDY4ZTA1OTM4YjE",
+        "publicId": "MTpiNDY4ZTA1OTM4YjE",
+        "sourceId": "b468e05938b1",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-02T20:34:13.385Z",
+        "updatedAt": "2026-08-02T20:34:13.385Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2201,
+    "total": 2202,
     "layerId": 1,
     "clustered": false,
     "simplified": false

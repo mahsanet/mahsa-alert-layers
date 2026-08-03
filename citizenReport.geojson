@@ -18621,10 +18621,40 @@
         "createdAt": "2026-08-02T00:16:16.249Z",
         "updatedAt": "2026-08-02T00:16:16.249Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94288,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.501315262168646,
+          36.327085796573584
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور نیروهای سپاه",
+        "city": "کوی صاحب الزمان",
+        "province": "استان خراسان رضوی",
+        "date": "",
+        "description": "بر اساس گزارش دریافتی، نیروهای سپاه هر شب از ساعت ۲۰ تا ۲۴ با سلاح و خودروی های مجهز به دوشکا مستقر می‌شوند و اقدام به نمایش قدرت می‌کنند.",
+        "sources": "",
+        "id": "MzY6ODM1YzAxYjQ2M2Y4",
+        "publicId": "MzY6ODM1YzAxYjQ2M2Y4",
+        "sourceId": "835c01b463f8",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-02T21:39:44.649Z",
+        "updatedAt": "2026-08-02T21:39:44.649Z"
+      }
     }
   ],
   "metadata": {
-    "total": 637,
+    "total": 638,
     "layerId": 36,
     "clustered": false,
     "simplified": false

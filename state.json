@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-02T02:00:07.233Z",
+  "lastUpdated": "2026-08-03T02:00:06.254Z",
   "layers": {
     "missilePrograms": "ddcdcda7e8614527979d9bd0cbbedaf3cec0f0a6",
     "targets": "d6ac5c62843fdb291978055002427368d0602313",
     "strikePoint": "10d6f3e0d8382ccd7d21914ba685463b277a8b9d",
     "evacArea": "52ba2ca45210baf04d70be94a4078154f75d0433",
     "evacAreaII": "48dc8d08733fdb66dbd390107684c4bc7c4d243b",
-    "intelligence": "5b8f0d4a6f72a07e90c9de493efe48897a60072d",
+    "intelligence": "62266a2f9809bb67ee5f6797907a7d3dc70f846c",
     "antiAirBase": "778900106ad1bd03c904ce4d0f55289620d65984",
     "chelom": "c6d74126d5e5daa48a06181fadb5495e026d53f8",
     "rescueBase": "e220516c7ef20d8a7b9e0fe52ba1cf2828fa13a1",
@@ -19,12 +19,12 @@
     "newTargets": "f8dd43ab2f13a492f8e5c88f461a6cbf5a3315b7",
     "javidnam": "92d4dc7f23a7bf939337d70979408cec41c93c56",
     "areowayBase": "be4ac9a815547bf5b857d77bdc0e8422c180babb",
-    "basijBase": "c8d70104ee739a9b174c34c7724c46b98b39858b",
-    "culturePoint": "59517d174716913ed04e8c74cf27c8bc6b3a44e7",
+    "basijBase": "603b70ff07c28a29cb2f0df686acb6caa3512355",
+    "culturePoint": "aaee4234bd9df563519236b9be2f9d8ffa387262",
     "marakezGhazayi": "c94f6d26bd9c61c9e0e6da3cac3db94b07296683",
-    "unknownBase": "1f0e5e597f07c749ec227c48480a29934a241354",
+    "unknownBase": "8e71893a2a7eb8c2aecbb56f5579354683840ac5",
     "hospital": "0c33fcac4d04e97906a797eaa7a325636fdaa044",
-    "citizenReport": "7a1d5f5e5155800c6ec82558d711dcb6cc30a5a8",
+    "citizenReport": "c01ee564f6a112f398af1ca244fc4725acd152d2",
     "emergencyBase": "8b88bb56ec696a01db6912ae2c8e1a8a54ccaada",
     "medicalClinic": "a29b70215319b10f3350dfb86aafa5a85c21d51c",
     "marakezEntezami": "2d8ddca8651e4871e04daeae52d591a46c52ec8c",
@@ -34,6 +34,6 @@
     "amakenMazhabiPoint": "a8d794c4a34786d909cd4485fba47225b732a9c2",
     "chatroom": "bc5bfe6bd89a09aa47ee8057806c13ff93bcb4b7",
     "pharmacy": "9d8897ada00e9e1e12aed16299bb22aa2d8af79f",
-    "cameraPoint": "b573fde7449423c389cb20fb8293992b26945b78"
+    "cameraPoint": "1d224ab5ab1160a92681477eeb29eceb531fe50c"
   }
 }

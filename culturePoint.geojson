@@ -82856,10 +82856,126 @@
         "createdAt": "2026-08-01T23:50:06.465Z",
         "updatedAt": "2026-08-01T23:50:06.465Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.52332919090986,
+          29.55614314901571
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره استاندار بندرگناوه",
+        "description": "",
+        "date": "",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "id": "MTc6NmZlNDM0ZGFjODE0",
+        "publicId": "MTc6NmZlNDM0ZGFjODE0",
+        "sourceId": "6fe434dac814",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-02T02:10:39.896Z",
+        "updatedAt": "2026-08-02T02:10:39.896Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.50930645558455,
+          29.58620112278716
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره تعزیرات",
+        "description": "اداره تعزیرات حکومتی بندر گناوه",
+        "date": "",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "id": "MTc6ZDUxOWRiZDUwOTEz",
+        "publicId": "MTc6ZDUxOWRiZDUwOTEz",
+        "sourceId": "d519dbd50913",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-02T02:14:38.590Z",
+        "updatedAt": "2026-08-02T02:15:00.454Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.506095327436924,
+          29.592110450406352
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر تامین اجتماعی",
+        "description": "سازمان تامین اجتماعی شعبه گناوه",
+        "date": "",
+        "city": "Khalifeh",
+        "province": "Bushehr Province",
+        "id": "MTc6OTc5MWIwYjVhMmI3",
+        "publicId": "MTc6OTc5MWIwYjVhMmI3",
+        "sourceId": "9791b0b5a2b7",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-02T02:16:10.548Z",
+        "updatedAt": "2026-08-02T02:16:10.548Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.506124161183834,
+          29.593301399364478
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره ثبت اسناد",
+        "description": "اداره ثبت اسناد گناوه",
+        "date": "",
+        "city": "Khalifeh",
+        "province": "Bushehr Province",
+        "id": "MTc6OTcxN2U4MmU1ODQ3",
+        "publicId": "MTc6OTcxN2U4MmU1ODQ3",
+        "sourceId": "9717e82e5847",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-02T02:16:51.438Z",
+        "updatedAt": "2026-08-02T02:16:51.438Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2356,
+    "total": 2360,
     "layerId": 17,
     "clustered": false,
     "simplified": false
