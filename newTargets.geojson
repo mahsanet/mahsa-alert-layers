@@ -12937,30 +12937,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.419105696861834,
-          35.70294135189046
+          51.419023995047354,
+          35.703153937371795
         ]
       },
       "properties": {
         "status": "active",
         "name:fa": "پلیس دیپلمات",
         "unofficial_name:fa": "",
-        "date": 1773001800,
-        "sources": "",
+        "date": 1772424000,
         "geolocates": "",
         "description": "",
         "city": "تهران",
         "province": "استان تهران",
+        "sources": "https://x.com/Osint613/status/2084212840529879399?s=20, https://t.me/Tasnimnews/391446",
         "id": "MzI6MWVjZjNlMDQyMTEw",
         "publicId": "MzI6MWVjZjNlMDQyMTEw",
         "sourceId": "1ecf3e042110",
         "layerId": 32,
         "type": "event",
         "urgency": null,
-        "verificationTag": "not-verified",
+        "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-03-24T01:53:35.971Z",
-        "updatedAt": "2026-07-21T21:26:30.339Z"
+        "updatedAt": "2026-08-03T18:13:11.156Z"
       }
     },
     {
@@ -26161,10 +26161,42 @@
         "createdAt": "2026-07-31T19:51:16.750Z",
         "updatedAt": "2026-07-31T19:51:16.750Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.54163044572013,
+          26.43289219807076
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله ج.ا به کشتی",
+        "unofficial_name:fa": "اصابت پرتابه به کشتی باری در تنگه هرمز",
+        "date": "",
+        "geolocates": "",
+        "description": "شامگاه ۱۳ مرداد ۱۴۰۵، یک کشتی باری در فاصله حدود ۲۰ مایل دریایی شمال‌شرق خصب عمان، در تنگه هرمز، هدف یک پرتابه ناشناس قرار گرفت.\n\nبر اساس هشدار مرکز عملیات تجارت دریایی بریتانیا، این حادثه ساعت ۲۲:۰۰ به وقت جهانی رخ داده و خدمه کشتی از طریق کانال ۱۶ رادیویی اعلام کرده‌اند که شناور مورد اصابت قرار گرفته است.\n\nبه شناورها توصیه شده با احتیاط از منطقه عبور کرده و هرگونه فعالیت مشکوک را به مرکز عملیات تجارت دریایی بریتانیا گزارش دهند.",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/ILRedAlert/status/2084425980446232680?s=20, https://x.com/mhmiranusa/status/2084427614135914510?s=20, https://www.ukmto.org/recent-incidents#9e124204-b960-4ff1-bdb6-7a2379c26b09",
+        "id": "MzI6MWEwYjNmOTZkYmEy",
+        "publicId": "MzI6MWEwYjNmOTZkYmEy",
+        "sourceId": "1a0b3f96dba2",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-04T00:11:13.034Z",
+        "updatedAt": "2026-08-04T00:22:52.524Z"
+      }
     }
   ],
   "metadata": {
-    "total": 835,
+    "total": 836,
     "layerId": 32,
     "clustered": false,
     "simplified": false

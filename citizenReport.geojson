@@ -14058,93 +14058,6 @@
     },
     {
       "type": "Feature",
-      "id": 93470,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.1085,
-          28.844826
-        ]
-      },
-      "properties": {
-        "name:fa": "ایست بازرسی",
-        "description": "ایست بازرسی",
-        "date": 1783577788,
-        "city": "فراشبند",
-        "province": "استان فارس",
-        "id": "MzY6MTNlMTliNDc2MWQx",
-        "publicId": "MzY6MTNlMTliNDc2MWQx",
-        "sourceId": "13e19b4761d1",
-        "layerId": 36,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-13T01:17:14.871Z",
-        "updatedAt": "2026-07-21T21:34:31.763Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 93471,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.108839,
-          28.844316
-        ]
-      },
-      "properties": {
-        "name:fa": "ایست بازرسی",
-        "description": "دوربین ایست بازرسی در ورودی شهر",
-        "date": 1783577731,
-        "city": "شهرستان فراشبند",
-        "province": "استان فارس",
-        "id": "MzY6MWVlZTkyMjQ4MTdk",
-        "publicId": "MzY6MWVlZTkyMjQ4MTdk",
-        "sourceId": "1eee9224817d",
-        "layerId": 36,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-13T01:17:14.944Z",
-        "updatedAt": "2026-07-21T21:34:31.763Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 93472,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.10848870026041,
-          28.844869259505103
-        ]
-      },
-      "properties": {
-        "name:fa": "ایست بازرسی",
-        "description": "ایست بازرسی",
-        "date": 1783574817,
-        "city": "فراشبند",
-        "province": "استان فارس",
-        "id": "MzY6MWUxOGNiYzBiNTQw",
-        "publicId": "MzY6MWUxOGNiYzBiNTQw",
-        "sourceId": "1e18cbc0b540",
-        "layerId": 36,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-13T01:17:15.019Z",
-        "updatedAt": "2026-07-21T21:34:31.763Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93473,
       "geometry": {
         "type": "Point",
@@ -18651,10 +18564,40 @@
         "createdAt": "2026-08-02T21:39:44.649Z",
         "updatedAt": "2026-08-02T21:39:44.649Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.097199987620115,
+          28.853714479771625
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حامیان حکومت",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "date": "",
+        "description": "",
+        "sources": "",
+        "id": "MzY6ZWY2MWY1ZGZlOTBi",
+        "publicId": "MzY6ZWY2MWY1ZGZlOTBi",
+        "sourceId": "ef61f5dfe90b",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T14:57:06.436Z",
+        "updatedAt": "2026-08-03T14:57:43.859Z"
+      }
     }
   ],
   "metadata": {
-    "total": 638,
+    "total": 636,
     "layerId": 36,
     "clustered": false,
     "simplified": false

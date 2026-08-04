@@ -10132,10 +10132,39 @@
         "createdAt": "2026-07-15T01:53:49.662Z",
         "updatedAt": "2026-07-15T01:53:49.662Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.12460508942604,
+          28.279894734552045
+        ]
+      },
+      "properties": {
+        "name": "ندامتگاه مرکزی خاش",
+        "description": "",
+        "date": "",
+        "city": "شهرستان خاش",
+        "province": "استان سیستان و بلوچستان",
+        "id": "NTphZjMyYjRjOWE3MmI",
+        "publicId": "NTphZjMyYjRjOWE3MmI",
+        "sourceId": "af32b4c9a72b",
+        "layerId": 5,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:01:19.584Z",
+        "updatedAt": "2026-08-03T18:01:19.584Z"
+      }
     }
   ],
   "metadata": {
-    "total": 183,
+    "total": 184,
     "layerId": 5,
     "clustered": false,
     "simplified": false

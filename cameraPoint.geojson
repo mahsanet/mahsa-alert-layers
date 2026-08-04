@@ -422620,8 +422620,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.515926,
-          29.567562
+          50.516064908050254,
+          29.56751997610364
         ]
       },
       "properties": {
@@ -422640,36 +422640,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:55:12.015Z",
-        "updatedAt": "2026-03-11T20:55:12.015Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 39729,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.51579,
-          29.567505
-        ]
-      },
-      "properties": {
-        "id": "MjA6MTQ1NzY",
-        "city": "بندر گناوه",
-        "name:fa": "دوربین بانک انصار",
-        "province": "استان بوشهر",
-        "lastReport": "2020-08-09 17:19:03.000000",
-        "addressDescription": "شهرستان گناوه استان بوشهر بخش مرکزی شهرستان گناوه حیات داود بندر گناوه محله عبدامام خیابان بسیج ",
-        "publicId": "MjA6MTQ1NzY",
-        "sourceId": "14576",
-        "layerId": 20,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:55:12.015Z",
-        "updatedAt": "2026-03-11T20:55:12.015Z"
+        "updatedAt": "2026-08-03T15:19:06.614Z"
       }
     },
     {
@@ -422852,8 +422823,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.5159,
-          29.567354
+          50.515908267099206,
+          29.56739611593015
         ]
       },
       "properties": {
@@ -422872,7 +422843,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:55:12.018Z",
-        "updatedAt": "2026-03-11T20:55:12.018Z"
+        "updatedAt": "2026-08-03T15:19:14.036Z"
       }
     },
     {
@@ -447473,8 +447444,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.51558,
-          29.567387
+          50.51553168418417,
+          29.567227659119652
         ]
       },
       "properties": {
@@ -447493,7 +447464,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:55:12.365Z",
-        "updatedAt": "2026-03-11T20:55:12.365Z"
+        "updatedAt": "2026-08-03T15:18:52.796Z"
       }
     },
     {
@@ -447805,35 +447776,6 @@
         "addressDescription": "شهرستان باغ ملک خوزستان بخش مرکزی منگشت باغملک کوی درویشان کوچه فرعی اول یوسفی ",
         "publicId": "MjA6MTU0NDQ",
         "sourceId": "15444",
-        "layerId": 20,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:55:12.369Z",
-        "updatedAt": "2026-03-11T20:55:12.369Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 40598,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.51367,
-          29.566517
-        ]
-      },
-      "properties": {
-        "id": "MjA6MTU0NDU",
-        "city": "بندر گناوه",
-        "name:fa": "دوربین پست بانک",
-        "province": "استان بوشهر",
-        "lastReport": "2020-08-09 17:19:03.000000",
-        "addressDescription": "شهرستان گناوه استان بوشهر بخش مرکزی شهرستان گناوه حیات داود بندر گناوه محله عبدامام بلوار امام خمینی ",
-        "publicId": "MjA6MTU0NDU",
-        "sourceId": "15445",
         "layerId": 20,
         "type": "location",
         "status": "active",
@@ -449963,35 +449905,6 @@
     },
     {
       "type": "Feature",
-      "id": 40672,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.51371,
-          29.564804
-        ]
-      },
-      "properties": {
-        "id": "MjA6MTU1MTk",
-        "city": "بندر گناوه",
-        "name:fa": "دوربین بانک ملی",
-        "province": "استان بوشهر",
-        "lastReport": "2020-08-09 17:19:03.000000",
-        "addressDescription": "شهرستان گناوه استان بوشهر بخش مرکزی شهرستان گناوه حیات داود بندر گناوه نوروز آباد میدان امام ",
-        "publicId": "MjA6MTU1MTk",
-        "sourceId": "15519",
-        "layerId": 20,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:55:12.398Z",
-        "updatedAt": "2026-03-11T20:55:12.398Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 40673,
       "geometry": {
         "type": "Point",
@@ -450108,41 +450021,12 @@
     },
     {
       "type": "Feature",
-      "id": 40677,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.513763,
-          29.566462
-        ]
-      },
-      "properties": {
-        "id": "MjA6MTU1MjQ",
-        "city": "بندر گناوه",
-        "name:fa": "دوربین پست بانک",
-        "province": "استان بوشهر",
-        "lastReport": "2020-08-09 17:19:03.000000",
-        "addressDescription": "شهرستان گناوه استان بوشهر بخش مرکزی شهرستان گناوه حیات داود بندر گناوه محله عبدامام بلوار امام خمینی ",
-        "publicId": "MjA6MTU1MjQ",
-        "sourceId": "15524",
-        "layerId": 20,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:55:12.400Z",
-        "updatedAt": "2026-03-11T20:55:12.400Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 40678,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.515575,
-          29.567463
+          50.51573504614552,
+          29.567311538733364
         ]
       },
       "properties": {
@@ -450161,36 +450045,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:55:12.400Z",
-        "updatedAt": "2026-03-11T20:55:12.400Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 40679,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.515713,
-          29.56753
-        ]
-      },
-      "properties": {
-        "id": "MjA6MTU1MjY",
-        "city": "بندر گناوه",
-        "name:fa": "دوربین بانک",
-        "province": "استان بوشهر",
-        "lastReport": "2020-08-09 17:19:03.000000",
-        "addressDescription": "شهرستان گناوه استان بوشهر بخش مرکزی شهرستان گناوه حیات داود بندر گناوه محله عبدامام خیابان بسیج ",
-        "publicId": "MjA6MTU1MjY",
-        "sourceId": "15526",
-        "layerId": 20,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:55:12.400Z",
-        "updatedAt": "2026-03-11T20:55:12.400Z"
+        "updatedAt": "2026-08-03T15:18:56.889Z"
       }
     },
     {
@@ -450212,35 +450067,6 @@
         "addressDescription": "شهرستان گناوه استان بوشهر بخش مرکزی شهرستان گناوه حیات داود بندر گناوه محله عبدامام خیابان بسیج ",
         "publicId": "MjA6MTU1Mjc",
         "sourceId": "15527",
-        "layerId": 20,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:55:12.401Z",
-        "updatedAt": "2026-03-11T20:55:12.401Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 40681,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.513702,
-          29.567287
-        ]
-      },
-      "properties": {
-        "id": "MjA6MTU1Mjg",
-        "city": "بندر گناوه",
-        "name:fa": "دوربین بانک کشاورزی",
-        "province": "استان بوشهر",
-        "lastReport": "2020-08-09 17:19:03.000000",
-        "addressDescription": "شهرستان گناوه استان بوشهر بخش مرکزی شهرستان گناوه حیات داود بندر گناوه محله عبدامام سی و پنجم ",
-        "publicId": "MjA6MTU1Mjg",
-        "sourceId": "15528",
         "layerId": 20,
         "type": "location",
         "status": "active",
@@ -535575,6 +535401,36 @@
     },
     {
       "type": "Feature",
+      "id": 93471,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.108839,
+          28.844316
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان فراشبند",
+        "province": "استان فارس",
+        "date": 1783577731,
+        "description": "دوربین ایست بازرسی در ورودی شهر",
+        "sources": "",
+        "id": "MjA6MWVlZTkyMjQ4MTdk",
+        "publicId": "MjA6MWVlZTkyMjQ4MTdk",
+        "sourceId": "1eee9224817d",
+        "layerId": 20,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-07-13T01:17:14.944Z",
+        "updatedAt": "2026-08-03T15:00:01.712Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 93505,
       "geometry": {
         "type": "Point",
@@ -537910,10 +537766,289 @@
         "createdAt": "2026-08-02T15:49:02.612Z",
         "updatedAt": "2026-08-02T15:49:02.612Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09667980670929,
+          28.855301956615364
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک ملت",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6ZDg0YTc0MTljODll",
+        "publicId": "MjA6ZDg0YTc0MTljODll",
+        "sourceId": "d84a7419c89e",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T14:57:34.788Z",
+        "updatedAt": "2026-08-03T14:58:18.885Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.078401893377304,
+          28.87693192290604
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6YThjOTg2MzBkNjY5",
+        "publicId": "MjA6YThjOTg2MzBkNjY5",
+        "sourceId": "a8c98630d669",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T15:00:42.053Z",
+        "updatedAt": "2026-08-03T15:00:42.053Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.07845122160518,
+          28.876227489656628
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6YWUxNGEzMzY1NTM2",
+        "publicId": "MjA6YWUxNGEzMzY1NTM2",
+        "sourceId": "ae14a3365536",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T15:01:02.828Z",
+        "updatedAt": "2026-08-03T15:01:16.375Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09163507446647,
+          28.85987704910856
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6ZWVmMzQ2MjcyNzcw",
+        "publicId": "MjA6ZWVmMzQ2MjcyNzcw",
+        "sourceId": "eef346272770",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T15:06:19.236Z",
+        "updatedAt": "2026-08-03T15:06:19.236Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09535697475076,
+          28.85796193909573
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک سپه",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6YjViNGQ3MmRhNDg3",
+        "publicId": "MjA6YjViNGQ3MmRhNDg3",
+        "sourceId": "b5b4d72da487",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T15:11:25.577Z",
+        "updatedAt": "2026-08-03T15:11:25.577Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.08940498530865,
+          28.86930893563577
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک قرض الحسنه",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6NzNkYWUyMmUzNTIz",
+        "publicId": "MjA6NzNkYWUyMmUzNTIz",
+        "sourceId": "73dae22e3523",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:22:41.623Z",
+        "updatedAt": "2026-08-03T18:22:41.623Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09517106413841,
+          28.859026970131268
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک کشاورزی",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6MjEzMDhlY2Q0YTEx",
+        "publicId": "MjA6MjEzMDhlY2Q0YTEx",
+        "sourceId": "21308ecd4a11",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:29:23.465Z",
+        "updatedAt": "2026-08-03T18:29:23.465Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09490988403559,
+          28.85960587613799
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک مسکن",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6OTc3ZmNmZTgxYzYw",
+        "publicId": "MjA6OTc3ZmNmZTgxYzYw",
+        "sourceId": "977fcfe81c60",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:29:51.884Z",
+        "updatedAt": "2026-08-03T18:29:51.884Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09564974283472,
+          28.85736096918221
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک ملی",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6NDUwMzNjNDhlMjIw",
+        "publicId": "MjA6NDUwMzNjNDhlMjIw",
+        "sourceId": "45033c48e220",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:32:18.745Z",
+        "updatedAt": "2026-08-03T18:32:23.611Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18547,
+    "total": 18551,
     "layerId": 20,
     "clustered": false,
     "simplified": false

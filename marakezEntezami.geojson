@@ -12380,34 +12380,6 @@
     },
     {
       "type": "Feature",
-      "id": 84508,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.0025928,
-          35.6958004
-        ]
-      },
-      "properties": {
-        "id": "MzoyNjQ5",
-        "city": "مسکن مهر گیلاوند",
-        "osm_id": "n11775079378",
-        "name:fa": "کلانتری ۱۲ گیلاوند",
-        "province": "استان تهران",
-        "publicId": "MzoyNjQ5",
-        "sourceId": "2649",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:05.783Z",
-        "updatedAt": "2026-03-13T04:41:05.783Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 84509,
       "geometry": {
         "type": "Point",
@@ -92381,34 +92353,6 @@
     },
     {
       "type": "Feature",
-      "id": 87409,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          60.7411994,
-          29.241852
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NTEyOQ",
-        "city": "قطار خنجک",
-        "osm_id": "",
-        "name:fa": "ایستگاه پلیس قطار خنجک",
-        "province": "استان سیستان و بلوچستان",
-        "publicId": "Mzo2NTEyOQ",
-        "sourceId": "65129",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.180Z",
-        "updatedAt": "2026-03-13T04:41:07.180Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 87410,
       "geometry": {
         "type": "Point",
@@ -106760,11 +106704,13 @@
         ]
       },
       "properties": {
-        "id": "Mzo2NTk2Ng",
-        "city": "تهران",
-        "osm_id": "n9774133803",
         "name:fa": "پلیس دیپلماتیک فردوسی",
+        "description": "",
+        "date": 1772397000,
+        "city": "تهران",
         "province": "استان تهران",
+        "id": "Mzo2NTk2Ng",
+        "osm_id": "n9774133803",
         "publicId": "Mzo2NTk2Ng",
         "sourceId": "65966",
         "layerId": 3,
@@ -106774,7 +106720,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.475Z",
-        "updatedAt": "2026-03-13T04:41:07.475Z"
+        "updatedAt": "2026-08-03T14:42:01.869Z"
       }
     },
     {
@@ -138254,34 +138200,6 @@
     },
     {
       "type": "Feature",
-      "id": 89360,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.2312317,
-          30.5818736
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NzYyOA",
-        "city": "بهبهان",
-        "osm_id": "",
-        "name:fa": "کلانتری ۱۱ شهرستان بهبهان استان خوزستان",
-        "province": "استان خوزستان",
-        "publicId": "Mzo2NzYyOA",
-        "sourceId": "67628",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:08.024Z",
-        "updatedAt": "2026-03-13T04:41:08.024Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 89361,
       "geometry": {
         "type": "Point",
@@ -169019,35 +168937,6 @@
     },
     {
       "type": "Feature",
-      "id": 93575,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.092031,
-          28.86017
-        ]
-      },
-      "properties": {
-        "name:fa": "کلانتری 110",
-        "description": "کلانتری 110",
-        "date": 1783577396,
-        "city": "فراشبند",
-        "province": "استان فارس",
-        "id": "MzpmODA4ZWU0MmZlZDg",
-        "publicId": "MzpmODA4ZWU0MmZlZDg",
-        "sourceId": "f808ee42fed8",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-15T01:53:47.955Z",
-        "updatedAt": "2026-07-15T01:53:47.955Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93587,
       "geometry": {
         "type": "Point",
@@ -170635,10 +170524,624 @@
         "createdAt": "2026-08-01T17:07:29.911Z",
         "updatedAt": "2026-08-01T17:09:30.438Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.10836151499575,
+          28.84481856711777
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی شهر",
+        "description": "",
+        "date": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MzpiOGI3MTlhMzhjYjM",
+        "publicId": "MzpiOGI3MTlhMzhjYjM",
+        "sourceId": "b8b719a38cb3",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T14:59:49.342Z",
+        "updatedAt": "2026-08-03T14:59:49.342Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94301,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.09166497167578,
+              28.860185845552067
+            ],
+            [
+              52.09209502016279,
+              28.860352833133703
+            ],
+            [
+              52.09220079260669,
+              28.860166343335152
+            ],
+            [
+              52.091745788506955,
+              28.859983120200766
+            ],
+            [
+              52.09170135089889,
+              28.86008676044527
+            ],
+            [
+              52.09170135089889,
+              28.86008676044527
+            ],
+            [
+              52.09166497167578,
+              28.860185845552067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 110",
+        "description": "",
+        "date": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "Mzo0ODljZjI5ZDg5NDg",
+        "publicId": "Mzo0ODljZjI5ZDg5NDg",
+        "sourceId": "489cf29d8948",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T15:06:44.145Z",
+        "updatedAt": "2026-08-03T15:06:44.145Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.12859251443055,
+          28.28045237847654
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "description": "",
+        "date": "",
+        "city": "شهرستان خاش",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MzpiYmFiZDAyZjVlZDU",
+        "publicId": "MzpiYmFiZDAyZjVlZDU",
+        "sourceId": "bbabd02f5ed5",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:02:34.342Z",
+        "updatedAt": "2026-08-03T18:02:34.342Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94317,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.892327214326656,
+              29.458768923504138
+            ],
+            [
+              60.89252258087137,
+              29.459057276170114
+            ],
+            [
+              60.893063412646484,
+              29.458773072468787
+            ],
+            [
+              60.89275003319884,
+              29.45830719780487
+            ],
+            [
+              60.89275003319884,
+              29.45830719780487
+            ],
+            [
+              60.892327214326656,
+              29.458768923504138
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه نیروی انتظامی",
+        "description": "پاسگاه نیروی انتظامی جاده علامه محمداقبال لاهوری",
+        "date": "",
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "Mzo2MTczYzE2Y2M3NjA",
+        "publicId": "Mzo2MTczYzE2Y2M3NjA",
+        "sourceId": "6173c16cc760",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:07:15.557Z",
+        "updatedAt": "2026-08-03T18:07:32.978Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94318,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.73973615461907,
+              29.24114118943571
+            ],
+            [
+              60.739679585989876,
+              29.240677751186624
+            ],
+            [
+              60.74083295746129,
+              29.240589999329444
+            ],
+            [
+              60.74087695528226,
+              29.24096294420373
+            ],
+            [
+              60.74071896918986,
+              29.240978004520215
+            ],
+            [
+              60.74077188726642,
+              29.241645615043026
+            ],
+            [
+              60.740319526110255,
+              29.24169143715443
+            ],
+            [
+              60.74023745068939,
+              29.241101621579958
+            ],
+            [
+              60.74021510857435,
+              29.24110233079554
+            ],
+            [
+              60.74021510857435,
+              29.24110233079554
+            ],
+            [
+              60.73973615461907,
+              29.24114118943571
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی قطار خنجک",
+        "description": "ایست بازرسی قطار خنجک زیر نظر وزارت اطلاعات و اطلاعات سپاه",
+        "date": "",
+        "city": "قطار خنجک",
+        "province": "استان سیستان و بلوچستان",
+        "id": "Mzo1ZTE4YmM5NGJkZmQ",
+        "publicId": "Mzo1ZTE4YmM5NGJkZmQ",
+        "sourceId": "5e18bc94bdfd",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:08:41.555Z",
+        "updatedAt": "2026-08-03T18:09:01.901Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94319,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.804040977431015,
+              29.37532501267232
+            ],
+            [
+              60.80480080296854,
+              29.37658946158578
+            ],
+            [
+              60.805550824304845,
+              29.376200730652883
+            ],
+            [
+              60.805570432705935,
+              29.376239176635536
+            ],
+            [
+              60.80601652382805,
+              29.37609820796196
+            ],
+            [
+              60.805962600725906,
+              29.3760042287374
+            ],
+            [
+              60.80583024401929,
+              29.375965782666043
+            ],
+            [
+              60.80535474029483,
+              29.37522248909933
+            ],
+            [
+              60.8054478802006,
+              29.375192586371
+            ],
+            [
+              60.80529101299285,
+              29.374970451542524
+            ],
+            [
+              60.80510473318276,
+              29.375047344422654
+            ],
+            [
+              60.80497727857741,
+              29.3748593839468
+            ],
+            [
+              60.80492000392687,
+              29.37488812252606
+            ],
+            [
+              60.80492000392687,
+              29.37488812252606
+            ],
+            [
+              60.804040977431015,
+              29.37532501267232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه پلیس راه",
+        "description": "پاسگاه پلیس راه زاهدان - تفتان - خاش: ایست بازرسی زیر نظر وزارت اطلاعات",
+        "date": "",
+        "city": "زاهدان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MzoyZTBiYjRkNTUyOTU",
+        "publicId": "MzoyZTBiYjRkNTUyOTU",
+        "sourceId": "2e0bb4d55295",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:18:54.394Z",
+        "updatedAt": "2026-08-03T18:19:10.281Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94322,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.08924200802849,
+              28.86181036812907
+            ],
+            [
+              52.08954151536463,
+              28.861521297496438
+            ],
+            [
+              52.090024394538005,
+              28.861886650522806
+            ],
+            [
+              52.08968362853909,
+              28.862146277900067
+            ],
+            [
+              52.08968362853909,
+              28.862146277900067
+            ],
+            [
+              52.08924200802849,
+              28.86181036812907
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس امنیت عمومی",
+        "description": "پلیس امنیت عمومی فراشبند",
+        "date": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MzpiYTk0MDExMzliN2Y",
+        "publicId": "MzpiYTk0MDExMzliN2Y",
+        "sourceId": "ba9401139b7f",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:24:20.435Z",
+        "updatedAt": "2026-08-03T18:24:20.435Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94323,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.230985437521326,
+              30.58190198241394
+            ],
+            [
+              50.23111926908547,
+              30.58203426732034
+            ],
+            [
+              50.23125970961516,
+              30.582032844902727
+            ],
+            [
+              50.23169259689672,
+              30.581697153815284
+            ],
+            [
+              50.231538938434255,
+              30.58155491147906
+            ],
+            [
+              50.23143154273396,
+              30.58162603267361
+            ],
+            [
+              50.23138362773017,
+              30.58158051511495
+            ],
+            [
+              50.23133632926658,
+              30.581617753174015
+            ],
+            [
+              50.23133632926658,
+              30.581617753174015
+            ],
+            [
+              50.230985437521326,
+              30.58190198241394
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۱ شهرستان بهبهان استان خوزستان",
+        "description": "ساختمان کلانتری ۱۱ و گردان فتح",
+        "date": "",
+        "city": "بهبهان",
+        "province": "استان خوزستان",
+        "id": "MzpiY2Q0ZjA4NGIyYzY",
+        "publicId": "MzpiY2Q0ZjA4NGIyYzY",
+        "sourceId": "bcd4f084b2c6",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:28:18.924Z",
+        "updatedAt": "2026-08-03T18:28:37.071Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94332,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.00229788839334,
+              35.695748566361885
+            ],
+            [
+              52.00237858541229,
+              35.69598730507033
+            ],
+            [
+              52.00276477829149,
+              35.69592020864296
+            ],
+            [
+              52.002816654945576,
+              35.69570019437968
+            ],
+            [
+              52.00280704815793,
+              35.69554883669801
+            ],
+            [
+              52.00277822779495,
+              35.695444290501854
+            ],
+            [
+              52.00261244130638,
+              35.69554249685915
+            ],
+            [
+              52.00261244130638,
+              35.69554249685915
+            ],
+            [
+              52.00229788839334,
+              35.695748566361885
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری مسکن مهر دماوند",
+        "description": "",
+        "date": "",
+        "city": "مسکن مهر گیلاوند",
+        "province": "استان تهران",
+        "id": "MzozYTcxZGVhYjNmNmE",
+        "publicId": "MzozYTcxZGVhYjNmNmE",
+        "sourceId": "3a71deab3f6a",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:43:55.049Z",
+        "updatedAt": "2026-08-03T18:43:55.049Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94334,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.02177994092847,
+              35.68503845554257
+            ],
+            [
+              52.021874396234125,
+              35.68522931967438
+            ],
+            [
+              52.02242269776275,
+              35.68539211518994
+            ],
+            [
+              52.02245725458164,
+              35.68538088792367
+            ],
+            [
+              52.022551709887296,
+              35.685414569718645
+            ],
+            [
+              52.022540190948064,
+              35.68542205455921
+            ],
+            [
+              52.02350317430532,
+              35.68565969790326
+            ],
+            [
+              52.022689937163875,
+              35.684699764144824
+            ],
+            [
+              52.0223987877539,
+              35.68481620607987
+            ],
+            [
+              52.022379315841704,
+              35.684859491497036
+            ],
+            [
+              52.02212675774615,
+              35.68492995369519
+            ],
+            [
+              52.02210113680917,
+              35.68490747859738
+            ],
+            [
+              52.021982255661925,
+              35.68494743432257
+            ],
+            [
+              52.021988404686766,
+              35.684959088071125
+            ],
+            [
+              52.02177216397871,
+              35.68503150776033
+            ],
+            [
+              52.02177216397871,
+              35.68503150776033
+            ],
+            [
+              52.02177994092847,
+              35.68503845554257
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد فرماندهی نیروی انتظامی دماوند",
+        "description": "",
+        "date": "",
+        "city": "دماوند",
+        "province": "استان تهران",
+        "id": "MzplYzE5MTkwYjZmZWQ",
+        "publicId": "MzplYzE5MTkwYjZmZWQ",
+        "sourceId": "ec19190b6fed",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:46:53.019Z",
+        "updatedAt": "2026-08-03T18:46:53.019Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6069,
+    "total": 6075,
     "layerId": 3,
     "clustered": false,
     "simplified": false

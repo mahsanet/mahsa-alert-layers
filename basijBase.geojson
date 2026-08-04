@@ -66213,10 +66213,40 @@
         "createdAt": "2026-08-02T20:34:13.385Z",
         "updatedAt": "2026-08-02T20:34:13.385Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48897725343704,
+          34.80962550488182
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد و پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "همدان",
+        "province": "استان همدان",
+        "id": "MToyNzYyZWZkN2NkYjE",
+        "publicId": "MToyNzYyZWZkN2NkYjE",
+        "sourceId": "2762efd7cdb1",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T16:17:19.796Z",
+        "updatedAt": "2026-08-03T16:17:19.796Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2202,
+    "total": 2203,
     "layerId": 1,
     "clustered": false,
     "simplified": false

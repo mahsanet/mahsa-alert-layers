@@ -26599,10 +26599,40 @@
         "createdAt": "2026-04-03T22:10:54.789Z",
         "updatedAt": "2026-04-03T22:10:54.789Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.89312642812729,
+          29.50287806673748
+        ]
+      },
+      "properties": {
+        "city": "زاهدان",
+        "count": "",
+        "people": "جاویدنام محمداقبال نائب زهی",
+        "description": "جاویدنام محمداقبال نائب زهی کشته شده در انقلاب ژینا امینی",
+        "date": "",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTY6ZGNmNDI5ZWY2N2Ex",
+        "publicId": "MTY6ZGNmNDI5ZWY2N2Ex",
+        "sourceId": "dcf429ef67a1",
+        "layerId": 16,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:04:04.772Z",
+        "updatedAt": "2026-08-03T18:04:04.772Z"
+      }
     }
   ],
   "metadata": {
-    "total": 174,
+    "total": 175,
     "layerId": 16,
     "clustered": false,
     "simplified": false

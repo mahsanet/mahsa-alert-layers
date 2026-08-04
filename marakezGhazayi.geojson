@@ -44413,10 +44413,39 @@
         "createdAt": "2026-08-01T22:35:17.953Z",
         "updatedAt": "2026-08-01T22:35:17.953Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09606608375907,
+          28.85726806271728
+        ]
+      },
+      "properties": {
+        "name": "دفتر قوه قضاییه",
+        "description": "دفتر آمار و فناوری اطلاعات قوه قضاییه (خدمات قضایی)",
+        "date": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MzQ6YTZiYTFjMjIxNzgz",
+        "publicId": "MzQ6YTZiYTFjMjIxNzgz",
+        "sourceId": "a6ba1c221783",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:45:20.362Z",
+        "updatedAt": "2026-08-03T18:45:20.362Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1410,
+    "total": 1411,
     "layerId": 34,
     "clustered": false,
     "simplified": false

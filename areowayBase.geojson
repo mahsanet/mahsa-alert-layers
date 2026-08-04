@@ -27926,10 +27926,77 @@
         "createdAt": "2026-07-17T21:36:04.104Z",
         "updatedAt": "2026-07-17T21:36:04.104Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94336,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.59623655576871,
+              35.74877975090038
+            ],
+            [
+              51.59606928832221,
+              35.74777857369017
+            ],
+            [
+              51.60171456461603,
+              35.745640424263755
+            ],
+            [
+              51.60443266060793,
+              35.745216181437954
+            ],
+            [
+              51.607652558938014,
+              35.74611557354429
+            ],
+            [
+              51.60970158514908,
+              35.74847430834089
+            ],
+            [
+              51.60241092412622,
+              35.74863423699135
+            ],
+            [
+              51.60241092412622,
+              35.74863423699135
+            ],
+            [
+              51.59623655576871,
+              35.74877975090038
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرودگاه سپهر",
+        "name:fa:military": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "id": "MTA6ZmNiZDY2NWVkMDc0",
+        "publicId": "MTA6ZmNiZDY2NWVkMDc0",
+        "sourceId": "fcbd665ed074",
+        "layerId": 10,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-04T00:03:50.857Z",
+        "updatedAt": "2026-08-04T00:03:50.857Z"
+      }
     }
   ],
   "metadata": {
-    "total": 211,
+    "total": 212,
     "layerId": 10,
     "clustered": false,
     "simplified": false

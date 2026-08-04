@@ -92095,34 +92095,6 @@
     },
     {
       "type": "Feature",
-      "id": 22803,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.0344488,
-          35.6904354
-        ]
-      },
-      "properties": {
-        "id": "NDozMjAy",
-        "city": "دماوند",
-        "osm_id": "n4198291822",
-        "name:fa": "حسینیه حضرت اباالفضل علیه السلام شهرک جهاد",
-        "province": "استان تهران",
-        "publicId": "NDozMjAy",
-        "sourceId": "3202",
-        "layerId": 4,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:53:48.943Z",
-        "updatedAt": "2026-03-11T20:53:48.943Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 22804,
       "geometry": {
         "type": "Point",
@@ -157089,10 +157061,232 @@
         "createdAt": "2026-08-02T00:18:48.799Z",
         "updatedAt": "2026-08-02T00:18:48.799Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.08663694560528,
+          28.86438411337933
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه قدس",
+        "description": "",
+        "date": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "NDowZGY5NzhlZjA1Nzk",
+        "publicId": "NDowZGY5NzhlZjA1Nzk",
+        "sourceId": "0df978ef0579",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T15:02:17.798Z",
+        "updatedAt": "2026-08-03T15:02:17.798Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94303,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09410119883822,
+          28.859936640212055
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع اعظم",
+        "description": "",
+        "date": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "NDo4M2U4M2QxMmY2NmM",
+        "publicId": "NDo4M2U4M2QxMmY2NmM",
+        "sourceId": "83e83d12f66c",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T15:09:41.962Z",
+        "updatedAt": "2026-08-03T15:09:47.697Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94304,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.091709673404694,
+          28.866636177554128
+        ]
+      },
+      "properties": {
+        "name:fa": "امامزاده جعفر",
+        "description": "",
+        "date": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "NDphZDcyOGQ3NWZiMTg",
+        "publicId": "NDphZDcyOGQ3NWZiMTg",
+        "sourceId": "ad728d75fb18",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T15:10:15.404Z",
+        "updatedAt": "2026-08-03T15:10:15.404Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09747049807396,
+          28.862012928665436
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد شهدا",
+        "description": "",
+        "date": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "NDo1NGIzODUxMzQ2MmU",
+        "publicId": "NDo1NGIzODUxMzQ2MmU",
+        "sourceId": "54b38513462e",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T15:11:59.564Z",
+        "updatedAt": "2026-08-03T15:12:09.568Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.104897733219985,
+          28.85484083202607
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد چهارده معصوم",
+        "description": "",
+        "date": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "NDozNDlkZjE2OWZhMDk",
+        "publicId": "NDozNDlkZjE2OWZhMDk",
+        "sourceId": "349df169fa09",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:33:08.059Z",
+        "updatedAt": "2026-08-03T18:33:08.059Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94329,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.034226926391995,
+              35.690335860739566
+            ],
+            [
+              52.03421076692044,
+              35.69037113264099
+            ],
+            [
+              52.03421581675522,
+              35.69041542756554
+            ],
+            [
+              52.03455108662868,
+              35.690702394352215
+            ],
+            [
+              52.03479953851172,
+              35.690497325791384
+            ],
+            [
+              52.03475812986403,
+              35.69046369449653
+            ],
+            [
+              52.03463289395589,
+              35.69045631201581
+            ],
+            [
+              52.03436525270075,
+              35.6903890493781
+            ],
+            [
+              52.03436020286594,
+              35.690374284401386
+            ],
+            [
+              52.03422801757745,
+              35.69033074774653
+            ],
+            [
+              52.03422801757745,
+              35.69033074774653
+            ],
+            [
+              52.034226926391995,
+              35.690335860739566
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه حضرت اباالفضل علیه السلام شهرک جهاد",
+        "description": "",
+        "date": "",
+        "city": "دماوند",
+        "province": "استان تهران",
+        "id": "NDpiZjhiNTc5ZDhmMjk",
+        "publicId": "NDpiZjhiNTc5ZDhmMjk",
+        "sourceId": "bf8b579d8f29",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:36:34.317Z",
+        "updatedAt": "2026-08-03T18:36:34.317Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5605,
+    "total": 5610,
     "layerId": 4,
     "clustered": false,
     "simplified": false

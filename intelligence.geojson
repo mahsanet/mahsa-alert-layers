@@ -9468,64 +9468,6 @@
     },
     {
       "type": "Feature",
-      "id": 91975,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.02646087019204,
-          35.679684399747345
-        ]
-      },
-      "properties": {
-        "name:fa": "اداره اطلاعات",
-        "description": "اطلاعات دماوند",
-        "date": 1772148332,
-        "city": "دماوند",
-        "province": "استان تهران",
-        "id": "MjpmNjNlY2E1ZjNkMGU",
-        "publicId": "MjpmNjNlY2E1ZjNkMGU",
-        "sourceId": "f63eca5f3d0e",
-        "layerId": 2,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-02-26T23:25:32.656Z",
-        "updatedAt": "2026-03-27T22:03:26.182Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 91976,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.02659353922357,
-          35.6796511013259
-        ]
-      },
-      "properties": {
-        "name:fa": "اداره اطلاعات",
-        "description": "اداره کل اطلاعات شرق استان تهران",
-        "date": 1772148315,
-        "city": "دماوند",
-        "province": "استان تهران",
-        "id": "Mjo5MDllMWNkYWZkOWM",
-        "publicId": "Mjo5MDllMWNkYWZkOWM",
-        "sourceId": "909e1cdafd9c",
-        "layerId": 2,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-02-26T23:25:15.367Z",
-        "updatedAt": "2026-03-27T22:03:26.240Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 91977,
       "geometry": {
         "type": "Point",
@@ -12232,10 +12174,87 @@
         "createdAt": "2026-07-31T16:30:34.874Z",
         "updatedAt": "2026-07-31T16:30:34.874Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94331,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.02592875168429,
+              35.67906171585365
+            ],
+            [
+              52.02591124410674,
+              35.67916046533236
+            ],
+            [
+              52.0264140039954,
+              35.679773792300665
+            ],
+            [
+              52.026898578204,
+              35.679699846556204
+            ],
+            [
+              52.02695146156259,
+              35.679695953785796
+            ],
+            [
+              52.02687022789959,
+              35.67943908257823
+            ],
+            [
+              52.02683271177597,
+              35.67930912009727
+            ],
+            [
+              52.026616523886645,
+              35.679326254015336
+            ],
+            [
+              52.02653792159086,
+              35.67909772859646
+            ],
+            [
+              52.02648126686242,
+              35.67892364676588
+            ],
+            [
+              52.02648126686242,
+              35.67892364676588
+            ],
+            [
+              52.02592875168429,
+              35.67906171585365
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "اداره کل اطلاعات شرق استان تهران (دماوند)",
+        "description": "",
+        "date": "",
+        "city": "دماوند",
+        "province": "استان تهران",
+        "id": "MjpmNmI2MjkyNWI4N2E",
+        "publicId": "MjpmNmI2MjkyNWI4N2E",
+        "sourceId": "f6b62925b87a",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-03T18:41:48.277Z",
+        "updatedAt": "2026-08-03T18:41:48.277Z"
+      }
     }
   ],
   "metadata": {
-    "total": 346,
+    "total": 345,
     "layerId": 2,
     "clustered": false,
     "simplified": false
