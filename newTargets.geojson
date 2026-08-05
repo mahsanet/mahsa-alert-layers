@@ -26193,10 +26193,42 @@
         "createdAt": "2026-08-04T00:11:13.034Z",
         "updatedAt": "2026-08-04T00:22:52.524Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.21743150649249,
+          35.34107421307168
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در شمس آباد",
+        "unofficial_name:fa": "انفجار در شهرک صنعتی شمس آباد",
+        "date": 1785835560,
+        "geolocates": "",
+        "description": "دست کم سه انفجار در شهرک صنعتی شمس آباد. سخنگوی اورژانس استان تهران، از مصدوم‌شدن دست‌کم ۱۸ نفر در پی وقوع حریق در شهرک صنعتی شمس‌آباد خبر داده است.\n\nبه گفته او، این حادثه ساعت ۱۲ و ۵۶ دقیقه روز سه‌شنبه ۱۳ مرداد به اورژانس تهران گزارش شد و نیروهای امدادی به محل اعزام شدند.\n\nتبریزی گفت چهار نفر از مصدومان برای ادامه درمان به مراکز درمانی منتقل شده‌اند و ۱۴ نفر دیگر در محل حادثه خدمات درمانی دریافت کرده‌اند.\n",
+        "city": "شهرک صنعتی شمس آباد",
+        "province": "استان تهران",
+        "sources": "https://x.com/kouruch55/status/2084600163213914219?s=20, https://x.com/NewsNow4world1/status/2084594090528702728?s=20, https://x.com/c14english/status/2084581653431603698?s=20, https://x.com/Rppress0/status/2084605609068945715?s=20, https://x.com/hey_itsmyturn/status/2084617362527940885?s=46",
+        "id": "MzI6YmY2ZTlhMmJhY2Yw",
+        "publicId": "MzI6YmY2ZTlhMmJhY2Yw",
+        "sourceId": "bf6e9a2bacf0",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-04T13:12:46.464Z",
+        "updatedAt": "2026-08-04T19:43:44.904Z"
+      }
     }
   ],
   "metadata": {
-    "total": 836,
+    "total": 837,
     "layerId": 32,
     "clustered": false,
     "simplified": false

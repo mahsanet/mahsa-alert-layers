@@ -12251,10 +12251,96 @@
         "createdAt": "2026-08-03T18:41:48.277Z",
         "updatedAt": "2026-08-03T18:41:48.277Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.03393220993351,
+          35.62699594270646
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "حوضه اطلاعات سپاه ۵ قمر بنی هاشم",
+        "description": "حوضه سپاه ۵ قمر بنی هاشم که اطلاعات سپاه هستش و مردم رو توش میبرن زندانی میکنن",
+        "date": "",
+        "city": "شهریار",
+        "province": "استان تهران",
+        "id": "Mjo1MTZjNjZkOTI3OGU",
+        "publicId": "Mjo1MTZjNjZkOTI3OGU",
+        "sourceId": "516c66d9278e",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-04T19:14:37.110Z",
+        "updatedAt": "2026-08-04T19:14:45.369Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94349,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.91256840960247,
+              37.4113428696657
+            ],
+            [
+              57.91223491136455,
+              37.41088548157356
+            ],
+            [
+              57.91307977356581,
+              37.410493432413816
+            ],
+            [
+              57.9134288350551,
+              37.41096141878603
+            ],
+            [
+              57.913165661862536,
+              37.41108403695131
+            ],
+            [
+              57.913165661862536,
+              37.41108403695131
+            ],
+            [
+              57.91256840960247,
+              37.4113428696657
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "اداره اطلاعات سپاه شیروان",
+        "description": "",
+        "date": "",
+        "city": "شیروان",
+        "province": "استان خراسان شمالی",
+        "id": "Mjo2YzI4YTQ2MmU3MDg",
+        "publicId": "Mjo2YzI4YTQ2MmU3MDg",
+        "sourceId": "6c28a462e708",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-04T22:52:22.533Z",
+        "updatedAt": "2026-08-04T22:52:46.477Z"
+      }
     }
   ],
   "metadata": {
-    "total": 345,
+    "total": 347,
     "layerId": 2,
     "clustered": false,
     "simplified": false

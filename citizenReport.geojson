@@ -18594,10 +18594,70 @@
         "createdAt": "2026-08-03T14:57:06.436Z",
         "updatedAt": "2026-08-03T14:57:43.859Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.791980695522966,
+          35.17911668495839
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع مردم",
+        "city": "قروه",
+        "province": "استان کردستان",
+        "date": 1785872580,
+        "description": "هم اکنون تجمع مردم در میدان سردار آزمون در قروه. صحت گزارش در دست برسی میباشد",
+        "sources": "",
+        "id": "MzY6NjgzZjNjZjk3YzQ0",
+        "publicId": "MzY6NjgzZjNjZjk3YzQ0",
+        "sourceId": "683f3cf97c44",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-04T22:48:46.153Z",
+        "updatedAt": "2026-08-04T22:48:46.153Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94350,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.50186989083886,
+          29.795321983340685
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حکومتیان",
+        "city": "شهرجدیدصدرا",
+        "province": "استان فارس",
+        "date": 1785875400,
+        "description": "تجمع حکومتیان و ایجاد ربعو وحشت",
+        "sources": "",
+        "id": "MzY6YzViNDdiN2U2MWFk",
+        "publicId": "MzY6YzViNDdiN2U2MWFk",
+        "sourceId": "c5b47b7e61ad",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-05T00:44:27.764Z",
+        "updatedAt": "2026-08-05T00:44:27.764Z"
+      }
     }
   ],
   "metadata": {
-    "total": 636,
+    "total": 638,
     "layerId": 36,
     "clustered": false,
     "simplified": false

@@ -10920,34 +10920,6 @@
     },
     {
       "type": "Feature",
-      "id": 84456,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.2396884,
-          36.6279857
-        ]
-      },
-      "properties": {
-        "id": "MzoyODUz",
-        "city": "شهرستان محمودآباد",
-        "osm_id": "n6325593286",
-        "name:fa": "ستاد فرماندهی انتظامی شهرستان محودآباد",
-        "province": "استان مازندران",
-        "publicId": "MzoyODUz",
-        "sourceId": "2853",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:05.760Z",
-        "updatedAt": "2026-03-13T04:41:05.760Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 84457,
       "geometry": {
         "type": "Point",
@@ -39400,34 +39372,6 @@
         "province": "استان خراسان رضوی",
         "publicId": "Mzo2MjEwOQ",
         "sourceId": "62109",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.309Z",
-        "updatedAt": "2026-03-13T04:41:06.309Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 85482,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.2397301,
-          36.6248781
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjExMQ",
-        "city": "شهرستان محمودآباد",
-        "osm_id": "",
-        "name:fa": "فرماندهی انتظامی شهرستان محمود آباد",
-        "province": "استان مازندران",
-        "publicId": "Mzo2MjExMQ",
-        "sourceId": "62111",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -171138,10 +171082,67 @@
         "createdAt": "2026-08-03T18:46:53.019Z",
         "updatedAt": "2026-08-03T18:46:53.019Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94339,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.238718336692585,
+              36.62788071521659
+            ],
+            [
+              52.239163831702115,
+              36.62626960109503
+            ],
+            [
+              52.24046924105025,
+              36.62671676682976
+            ],
+            [
+              52.24005840859684,
+              36.62762841921749
+            ],
+            [
+              52.23980106226847,
+              36.62818810257181
+            ],
+            [
+              52.23980106226847,
+              36.62818810257181
+            ],
+            [
+              52.238718336692585,
+              36.62788071521659
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی شهرستان محمود آباد",
+        "description": "",
+        "date": "",
+        "city": "شهرستان محمودآباد",
+        "province": "استان مازندران",
+        "id": "Mzo4NTM3ODFlODk0ZGQ",
+        "publicId": "Mzo4NTM3ODFlODk0ZGQ",
+        "sourceId": "853781e894dd",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-04T13:20:00.310Z",
+        "updatedAt": "2026-08-04T13:20:00.310Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6075,
+    "total": 6074,
     "layerId": 3,
     "clustered": false,
     "simplified": false

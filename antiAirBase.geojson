@@ -6877,10 +6877,85 @@
         "createdAt": "2026-07-31T18:49:40.905Z",
         "updatedAt": "2026-07-31T18:49:40.905Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94344,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.41876428703091,
+              38.70247397067422
+            ],
+            [
+              45.4188608465486,
+              38.70237768318253
+            ],
+            [
+              45.418965452689946,
+              38.702333725806795
+            ],
+            [
+              45.41893058397673,
+              38.70227302271934
+            ],
+            [
+              45.41912906742786,
+              38.702155802818254
+            ],
+            [
+              45.41897349931719,
+              38.701910896332976
+            ],
+            [
+              45.418909126306545,
+              38.701732972292405
+            ],
+            [
+              45.41843973976822,
+              38.70194020142662
+            ],
+            [
+              45.4185890497356,
+              38.70218626970657
+            ],
+            [
+              45.4185890497356,
+              38.70218626970657
+            ],
+            [
+              45.41876428703091,
+              38.70247397067422
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان مرند",
+        "province": "استان آذربایجان شرقی",
+        "Source": "https://x.com/mhmiranusa/status/2084622972023914567",
+        "id": "ODpmNTUyYWFhYjVmMDY",
+        "publicId": "ODpmNTUyYWFhYjVmMDY",
+        "sourceId": "f552aaab5f06",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-04T15:32:51.798Z",
+        "updatedAt": "2026-08-04T15:32:51.798Z"
+      }
     }
   ],
   "metadata": {
-    "total": 105,
+    "total": 106,
     "layerId": 8,
     "clustered": false,
     "simplified": false
