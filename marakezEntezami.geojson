@@ -153462,34 +153462,6 @@
     },
     {
       "type": "Feature",
-      "id": 89926,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.5510855,
-          36.2117199
-        ]
-      },
-      "properties": {
-        "id": "Mzo2ODYyNg",
-        "city": "ربط",
-        "osm_id": "",
-        "name:fa": "پاسگاه عبدالله کرده",
-        "province": "استان آذربایجان غربی",
-        "publicId": "Mzo2ODYyNg",
-        "sourceId": "68626",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:08.266Z",
-        "updatedAt": "2026-03-13T04:41:08.266Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 89927,
       "geometry": {
         "type": "Point",
@@ -171142,7 +171114,7 @@
     }
   ],
   "metadata": {
-    "total": 6074,
+    "total": 6073,
     "layerId": 3,
     "clustered": false,
     "simplified": false

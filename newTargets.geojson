@@ -26225,10 +26225,42 @@
         "createdAt": "2026-08-04T13:12:46.464Z",
         "updatedAt": "2026-08-04T19:43:44.904Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94356,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.31941472177107,
+          29.207730231864872
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به خارک",
+        "unofficial_name:fa": "",
+        "date": 1785629160,
+        "geolocates": "",
+        "description": "در ۱۱ مرداد ۱۴۰۵، مکان‌سنجی یک ویدئو در جزیره خارک، محل اصابت بمب GBU-39 به موضع توپ ضدهوایی ZU-23-2 ایران را در حملات هفته پیش نشان می‌دهد. بخشی از باله بمب نیز در نقطه برخورد دیده می‌شود.",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/GEOIMINT/status/2085105831209566596?s=20",
+        "id": "MzI6NGI3NGU3NDU0MTM0",
+        "publicId": "MzI6NGI3NGU3NDU0MTM0",
+        "sourceId": "4b74e7454134",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-05T21:32:49.272Z",
+        "updatedAt": "2026-08-05T21:34:47.374Z"
+      }
     }
   ],
   "metadata": {
-    "total": 837,
+    "total": 838,
     "layerId": 32,
     "clustered": false,
     "simplified": false

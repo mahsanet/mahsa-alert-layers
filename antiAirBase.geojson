@@ -6952,10 +6952,64 @@
         "createdAt": "2026-08-04T15:32:51.798Z",
         "updatedAt": "2026-08-04T15:32:51.798Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94357,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.318723381666985,
+              29.208121900994385
+            ],
+            [
+              50.31989614775196,
+              29.208285685230564
+            ],
+            [
+              50.320016030507276,
+              29.20755547849383
+            ],
+            [
+              50.318897993505914,
+              29.207257479856935
+            ],
+            [
+              50.318897993505914,
+              29.207257479856935
+            ],
+            [
+              50.318723381666985,
+              29.208121900994385
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "",
+        "province": "",
+        "id": "ODozNDM3NGZiNzZiYTI",
+        "publicId": "ODozNDM3NGZiNzZiYTI",
+        "sourceId": "34374fb76ba2",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-05T21:33:40.013Z",
+        "updatedAt": "2026-08-05T21:33:40.013Z"
+      }
     }
   ],
   "metadata": {
-    "total": 106,
+    "total": 107,
     "layerId": 8,
     "clustered": false,
     "simplified": false

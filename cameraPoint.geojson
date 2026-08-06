@@ -25639,35 +25639,6 @@
     },
     {
       "type": "Feature",
-      "id": 26038,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.88986539840699,
-          34.07366173963747
-        ]
-      },
-      "properties": {
-        "id": "MjA6ODg1",
-        "city": "شهرستان آران و بیدگل",
-        "name:fa": "دوربین کنترل ترافیک",
-        "province": "استان اصفهان",
-        "lastReport": "2020-08-09 17:19:03.000000",
-        "addressDescription": "شهرستان آران و بیدگل استان اصفهان بخش کویرات کویر ",
-        "publicId": "MjA6ODg1",
-        "sourceId": "885",
-        "layerId": 20,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:55:06.376Z",
-        "updatedAt": "2026-03-11T20:55:06.376Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 26039,
       "geometry": {
         "type": "Point",
@@ -538048,7 +538019,7 @@
     }
   ],
   "metadata": {
-    "total": 18551,
+    "total": 18550,
     "layerId": 20,
     "clustered": false,
     "simplified": false

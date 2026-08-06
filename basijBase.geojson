@@ -66303,10 +66303,40 @@
         "createdAt": "2026-08-05T00:47:45.618Z",
         "updatedAt": "2026-08-05T00:47:45.618Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.550837218761444,
+          36.21258193398526
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج امام علی ربط",
+        "date": "",
+        "city": "ربط",
+        "province": "استان آذربایجان غربی",
+        "id": "MTo4OTM5NmQ4MDM5ODg",
+        "publicId": "MTo4OTM5NmQ4MDM5ODg",
+        "sourceId": "89396d803988",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-05T19:30:43.109Z",
+        "updatedAt": "2026-08-05T19:32:03.204Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2205,
+    "total": 2206,
     "layerId": 1,
     "clustered": false,
     "simplified": false
