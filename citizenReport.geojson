@@ -18507,36 +18507,6 @@
     },
     {
       "type": "Feature",
-      "id": 94279,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.505984518676996,
-          29.57004926038917
-        ]
-      },
-      "properties": {
-        "name:fa": "تجمع حامیان حکومت",
-        "city": "بندر گناوه",
-        "province": "استان بوشهر",
-        "date": "",
-        "description": "محل تجمع شبانه عرازشه",
-        "sources": "",
-        "id": "MzY6MDY5NTNmNjQzMjQ1",
-        "publicId": "MzY6MDY5NTNmNjQzMjQ1",
-        "sourceId": "06953f643245",
-        "layerId": 36,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-08-02T00:16:16.249Z",
-        "updatedAt": "2026-08-02T00:16:16.249Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 94288,
       "geometry": {
         "type": "Point",
@@ -18654,10 +18624,132 @@
         "createdAt": "2026-08-05T00:44:27.764Z",
         "updatedAt": "2026-08-05T02:24:53.720Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94358,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.14101992920041,
+          38.021434057551716
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور نیروهای سپاه",
+        "city": "سردرود",
+        "province": "استان آذربایجان شرقی",
+        "date": 1804354200,
+        "description": "حضور نیروهای سپاه و بسیج",
+        "sources": "",
+        "id": "MzY6NTFmZDMwNzBlZTI1",
+        "publicId": "MzY6NTFmZDMwNzBlZTI1",
+        "sourceId": "51fd3070ee25",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-06T18:33:01.244Z",
+        "updatedAt": "2026-08-06T18:43:14.545Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94362,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.50592785701156,
+          29.570191127300163
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حامیان حکومت",
+        "city": "بندر گناوه",
+        "province": "استان بوشهر",
+        "date": 1804357800,
+        "description": "",
+        "sources": "",
+        "id": "MzY6NzliN2JmODIwMzdi",
+        "publicId": "MzY6NzliN2JmODIwMzdi",
+        "sourceId": "79b7bf82037b",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-06T18:40:37.553Z",
+        "updatedAt": "2026-08-06T18:40:37.553Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94366,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25185230374902,
+          26.95667183901533
+        ]
+      },
+      "properties": {
+        "name:fa": "صدای انفجار قشم",
+        "city": "قشم",
+        "province": "استان هرمزگان",
+        "date": 1786039800,
+        "description": "در حوالی ساعت ۲۱ و ۴۰ دقیقه پانزدهم مرداد ۱۴۰۵ گزارش ها حاکی از شنیده شدن صدای انفجار از قشم بود. کمی پیشتر خبرگزاری حکومتی تسنیم علت این صدا را مقابله با اهدافی در ورودی تنگه هرمز عنوان کردند. همچنین اعلام کرد جزئیاتی بیشتر را تا ساعات آینده منتشر خواهد کرد.",
+        "sources": "https://x.com/ilredalert/status/2085448754836987974?s=46",
+        "status": "active",
+        "unofficial_name:fa": "",
+        "geolocates": "",
+        "id": "MzY6NTY0MDk3YjJjYjc4",
+        "publicId": "MzY6NTY0MDk3YjJjYjc4",
+        "sourceId": "564097b2cb78",
+        "layerId": 36,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-06T19:38:17.170Z",
+        "updatedAt": "2026-08-06T19:39:01.739Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94367,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.54297949920655,
+          35.80652112511447
+        ]
+      },
+      "properties": {
+        "name:fa": "فعالیت جت‌های جنگنده",
+        "city": "شهرستان شمیرانات",
+        "province": "استان تهران",
+        "date": 1785978000,
+        "description": "گزارش شده است که هم‌اکنون در ساعت ۴:۳۰ روز ۱۴۰۵/۵/۱۵ چند فروند جت در حال حرکت به سمت شرق بر فراز شمال‌شرق تهران هستند.",
+        "sources": "https://x.com/hey_itsmyturn/status/2085533966988144953?s=46",
+        "id": "MzY6YmY2ZDY3Mzg0MTFj",
+        "publicId": "MzY6YmY2ZDY3Mzg0MTFj",
+        "sourceId": "bf6d6738411c",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-07T01:27:30.617Z",
+        "updatedAt": "2026-08-07T01:27:30.617Z"
+      }
     }
   ],
   "metadata": {
-    "total": 638,
+    "total": 641,
     "layerId": 36,
     "clustered": false,
     "simplified": false

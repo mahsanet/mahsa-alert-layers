@@ -32175,34 +32175,6 @@
     },
     {
       "type": "Feature",
-      "id": 20661,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.1474456,
-          38.0235274
-        ]
-      },
-      "properties": {
-        "id": "NDo0MjIz",
-        "city": "سردرود",
-        "osm_id": "n3765530570",
-        "name:fa": "مسجد امام خمینی",
-        "province": "استان آذربایجان شرقی",
-        "publicId": "NDo0MjIz",
-        "sourceId": "4223",
-        "layerId": 4,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:53:48.077Z",
-        "updatedAt": "2026-03-11T20:53:48.077Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 20662,
       "geometry": {
         "type": "Point",
@@ -157282,6 +157254,35 @@
         "expirationDate": null,
         "createdAt": "2026-08-03T18:36:34.317Z",
         "updatedAt": "2026-08-03T18:36:34.317Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94365,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.14109379177023,
+          38.019934083713224
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام صادق",
+        "description": "",
+        "date": "",
+        "city": "سردرود",
+        "province": "استان آذربایجان شرقی",
+        "id": "NDphZWRkYmU5YjMyZTY",
+        "publicId": "NDphZWRkYmU5YjMyZTY",
+        "sourceId": "aeddbe9b32e6",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-06T18:48:18.597Z",
+        "updatedAt": "2026-08-06T18:48:18.597Z"
       }
     }
   ],

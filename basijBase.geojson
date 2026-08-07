@@ -39610,33 +39610,6 @@
     },
     {
       "type": "Feature",
-      "id": 5284,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.141275,
-          38.021617
-        ]
-      },
-      "properties": {
-        "id": "MToxMzIxMw",
-        "city": "سردرود",
-        "name:fa": "حوزه مقاومت بسیج",
-        "province": "استان آذربایجان شرقی",
-        "publicId": "MToxMzIxMw",
-        "sourceId": "13213",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:52.967Z",
-        "updatedAt": "2026-03-11T20:52:52.967Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 5285,
       "geometry": {
         "type": "Point",
@@ -50520,6 +50493,36 @@
         "expirationDate": null,
         "createdAt": "2026-03-11T20:52:53.136Z",
         "updatedAt": "2026-03-11T20:52:53.136Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1474456,
+          38.0235274
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج امام خمینی",
+        "description": "بسیج و مسجد امام خمینی",
+        "date": "",
+        "city": "سردرود",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTo0MjIz",
+        "osm_id": "n3765530570",
+        "publicId": "MTo0MjIz",
+        "sourceId": "4223",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:53:48.077Z",
+        "updatedAt": "2026-08-06T18:36:26.234Z"
       }
     },
     {
@@ -66333,10 +66336,134 @@
         "createdAt": "2026-08-05T19:30:43.109Z",
         "updatedAt": "2026-08-05T19:32:03.204Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94359,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.14669928182295,
+          38.022757483247375
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "سردرود",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTo4NTViY2Y3NDEyOGU",
+        "publicId": "MTo4NTViY2Y3NDEyOGU",
+        "sourceId": "855bcf74128e",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-06T18:37:02.851Z",
+        "updatedAt": "2026-08-06T18:37:02.851Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94364,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.14107529233797,
+              38.021846393189236
+            ],
+            [
+              46.14145044663687,
+              38.02190108296091
+            ],
+            [
+              46.14147754598207,
+              38.021821947359285
+            ],
+            [
+              46.14155525037057,
+              38.0216180893089
+            ],
+            [
+              46.14160944905802,
+              38.02147895444398
+            ],
+            [
+              46.14150432228604,
+              38.0214951497197
+            ],
+            [
+              46.14147722293964,
+              38.02148042674193
+            ],
+            [
+              46.141373030628785,
+              38.021503615430476
+            ],
+            [
+              46.14140573673458,
+              38.0215319571511
+            ],
+            [
+              46.14134733297277,
+              38.02154483974746
+            ],
+            [
+              46.14125636817337,
+              38.021588285098744
+            ],
+            [
+              46.14116140461715,
+              38.02168477873832
+            ],
+            [
+              46.14109830264695,
+              38.021769885286204
+            ],
+            [
+              46.14107821175267,
+              38.02181736669078
+            ],
+            [
+              46.14107821175267,
+              38.02181736669078
+            ],
+            [
+              46.14107529233797,
+              38.021846393189236
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه مقاومت بسیج و سپاه",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "سردرود",
+        "province": "استان آذربایجان شرقی",
+        "id": "MToxOGY0OWQzN2Q1NTM",
+        "publicId": "MToxOGY0OWQzN2Q1NTM",
+        "sourceId": "18f49d37d553",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-06T18:47:24.210Z",
+        "updatedAt": "2026-08-06T18:47:24.210Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2206,
+    "total": 2208,
     "layerId": 1,
     "clustered": false,
     "simplified": false
