@@ -18728,7 +18728,7 @@
         ]
       },
       "properties": {
-        "name:fa": "فعالیت جت‌های جنگنده",
+        "name:fa": "فعالیت جت جنگنده",
         "city": "شهرستان شمیرانات",
         "province": "استان تهران",
         "date": 1785978000,
@@ -18744,7 +18744,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-08-07T01:27:30.617Z",
-        "updatedAt": "2026-08-07T01:27:30.617Z"
+        "updatedAt": "2026-08-07T17:45:26.139Z"
       }
     }
   ],
