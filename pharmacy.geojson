@@ -210559,33 +210559,6 @@
     },
     {
       "type": "Feature",
-      "id": 68203,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.4775468,
-          34.0654943
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NzgwMw",
-        "city": "آران وبیدگل",
-        "name:fa": "داروخانه دکتر نمکی",
-        "province": "استان اصفهان",
-        "publicId": "Mjc6NzgwMw",
-        "sourceId": "7803",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:48.936Z",
-        "updatedAt": "2026-03-11T20:58:48.936Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 68204,
       "geometry": {
         "type": "Point",
@@ -391621,33 +391594,6 @@
     },
     {
       "type": "Feature",
-      "id": 74910,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.006642299999996,
-          27.7603238
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MTQ1MTA",
-        "city": "اوز",
-        "name:fa": "داروخانه دکتر فداکار",
-        "province": "استان فارس",
-        "publicId": "Mjc6MTQ1MTA",
-        "sourceId": "14510",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:51.728Z",
-        "updatedAt": "2026-03-11T20:58:51.728Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 74911,
       "geometry": {
         "type": "Point",
@@ -421844,7 +421790,7 @@
     }
   ],
   "metadata": {
-    "total": 15625,
+    "total": 15623,
     "layerId": 27,
     "clustered": false,
     "simplified": false

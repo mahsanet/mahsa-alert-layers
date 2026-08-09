@@ -66460,10 +66460,68 @@
         "createdAt": "2026-08-06T18:47:24.210Z",
         "updatedAt": "2026-08-06T18:47:24.210Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94372,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.54701353415484,
+              36.32987565041343
+            ],
+            [
+              59.54692381008181,
+              36.32957817560391
+            ],
+            [
+              59.547331019333626,
+              36.32950728190734
+            ],
+            [
+              59.54741039062745,
+              36.329807537122846
+            ],
+            [
+              59.5472089452837,
+              36.329843850029775
+            ],
+            [
+              59.5472089452837,
+              36.329843850029775
+            ],
+            [
+              59.54701353415484,
+              36.32987565041343
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه  بسیج ثامن الائمه",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "MTo0ZjYxNTY1YTg2ZWU",
+        "publicId": "MTo0ZjYxNTY1YTg2ZWU",
+        "sourceId": "4f61565a86ee",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-08T18:43:14.748Z",
+        "updatedAt": "2026-08-08T18:43:14.748Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2208,
+    "total": 2209,
     "layerId": 1,
     "clustered": false,
     "simplified": false

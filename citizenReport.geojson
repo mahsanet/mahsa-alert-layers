@@ -18746,10 +18746,40 @@
         "createdAt": "2026-08-07T01:27:30.617Z",
         "updatedAt": "2026-08-07T17:45:26.139Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94375,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.67182568460703,
+          27.131796209272153
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "city": "مهرستان",
+        "province": "استان سیستان و بلوچستان",
+        "date": "",
+        "description": "سالن آموزش و پرورش در زمان جنگ چهل روزه به‌عنوان محل اختفای نیروهای نظامی بوده است.",
+        "sources": "",
+        "id": "MzY6NDUxMWNiMThhZmM1",
+        "publicId": "MzY6NDUxMWNiMThhZmM1",
+        "sourceId": "4511cb18afc5",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-08T22:18:36.464Z",
+        "updatedAt": "2026-08-08T22:18:36.464Z"
+      }
     }
   ],
   "metadata": {
-    "total": 641,
+    "total": 642,
     "layerId": 36,
     "clustered": false,
     "simplified": false

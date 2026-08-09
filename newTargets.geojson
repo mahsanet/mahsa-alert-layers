@@ -25250,7 +25250,7 @@
         "status": "active",
         "name:fa": "",
         "unofficial_name:fa": "",
-        "date": 1772829000,
+        "date": 1772800320,
         "geolocates": "",
         "description": "",
         "city": "یزدل",
@@ -25262,10 +25262,10 @@
         "layerId": 32,
         "type": "event",
         "urgency": null,
-        "verificationTag": "not-verified",
+        "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-07-28T14:40:54.264Z",
-        "updatedAt": "2026-07-28T14:40:54.264Z"
+        "updatedAt": "2026-08-08T15:49:29.958Z"
       }
     },
     {
@@ -26257,10 +26257,42 @@
         "createdAt": "2026-08-05T21:32:49.272Z",
         "updatedAt": "2026-08-05T21:34:47.374Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94371,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.69537611960675,
+          26.097124761343323
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به کشتی",
+        "unofficial_name:fa": "",
+        "date": 1786197600,
+        "geolocates": "",
+        "description": "در ۱۷ مرداد ۱۴۰۵، مرکز عملیات تجارت دریایی بریتانیا (UKMTO) از وقوع یک حادثه در ۱۸ مایل دریایی شرق خصب عمان خبر داد. بر اساس گزارش یک منبع تأییدشده، یک شناور هدف پرتابه‌ای ناشناس قرار گرفت که باعث آتش‌سوزی در کشتی شد. آتش مهار شده و کشتی و خدمه در وضعیت ایمن گزارش شده‌اند. همچنین تاکنون هیچ پیامد زیست‌محیطی گزارش نشده است.\n\nمقام‌ها در حال بررسی حادثه هستند و به شناورها توصیه شده با احتیاط از منطقه عبور کرده و هرگونه فعالیت مشکوک را به UKMTO گزارش دهند.",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/Osinttechnical/status/2086081373085855895?s=20, https://x.com/MenchOsint/status/2086054598825976259?s=20",
+        "id": "MzI6Y2E4NDhkYWQ2ZjFi",
+        "publicId": "MzI6Y2E4NDhkYWQ2ZjFi",
+        "sourceId": "ca848dad6f1b",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-08T15:56:13.642Z",
+        "updatedAt": "2026-08-08T15:58:00.532Z"
+      }
     }
   ],
   "metadata": {
-    "total": 838,
+    "total": 839,
     "layerId": 32,
     "clustered": false,
     "simplified": false

@@ -28847,34 +28847,6 @@
     },
     {
       "type": "Feature",
-      "id": 85102,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.1633465,
-          38.0391495
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MTU2NQ",
-        "city": "شهرستان تبریز",
-        "osm_id": "",
-        "name:fa": "کلانتری ۲۴ سردرود",
-        "province": "استان آذربایجان شرقی",
-        "publicId": "Mzo2MTU2NQ",
-        "sourceId": "61565",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.090Z",
-        "updatedAt": "2026-03-13T04:41:06.090Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85103,
       "geometry": {
         "type": "Point",
@@ -171187,7 +171159,7 @@
     }
   ],
   "metadata": {
-    "total": 6074,
+    "total": 6073,
     "layerId": 3,
     "clustered": false,
     "simplified": false

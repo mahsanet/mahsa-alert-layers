@@ -157284,10 +157284,129 @@
         "createdAt": "2026-08-06T18:48:18.597Z",
         "updatedAt": "2026-08-06T18:48:18.597Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94368,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56244894316151,
+          36.35984740110925
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جوادلائمه ",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "NDozYTA4MTI5NDkxNTU",
+        "publicId": "NDozYTA4MTI5NDkxNTU",
+        "sourceId": "3a0812949155",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-08T02:45:35.533Z",
+        "updatedAt": "2026-08-08T02:45:44.699Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94369,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56323730569105,
+          36.36275055307493
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام حسن مجتبی",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "NDoyYWEyYzhmMTgyNDc",
+        "publicId": "NDoyYWEyYzhmMTgyNDc",
+        "sourceId": "2aa2c8f18247",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-08T02:46:23.500Z",
+        "updatedAt": "2026-08-08T02:46:28.327Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94373,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.546857431995704,
+              36.329334362037116
+            ],
+            [
+              59.54692066842176,
+              36.32956776018979
+            ],
+            [
+              59.547320675582256,
+              36.329499044054714
+            ],
+            [
+              59.54728685144778,
+              36.32927749334614
+            ],
+            [
+              59.547258023471755,
+              36.32925919170387
+            ],
+            [
+              59.54705164138986,
+              36.32929781270849
+            ],
+            [
+              59.54705082886181,
+              36.32929781270849
+            ],
+            [
+              59.546857431995704,
+              36.329334362037116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ثامن الائمه",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "id": "NDoxMjI2OWI1NmVmNGU",
+        "publicId": "NDoxMjI2OWI1NmVmNGU",
+        "sourceId": "12269b56ef4e",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-08T18:44:09.995Z",
+        "updatedAt": "2026-08-08T18:44:09.995Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5610,
+    "total": 5613,
     "layerId": 4,
     "clustered": false,
     "simplified": false

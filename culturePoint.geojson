@@ -83826,10 +83826,71 @@
         "createdAt": "2026-08-06T18:38:06.262Z",
         "updatedAt": "2026-08-06T18:38:06.262Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94374,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.671174962674,
+              27.13120446008807
+            ],
+            [
+              61.67156795686799,
+              27.130903430290928
+            ],
+            [
+              61.67233440888825,
+              27.131599106476074
+            ],
+            [
+              61.6723022888462,
+              27.13169070990243
+            ],
+            [
+              61.67175748460187,
+              27.132124971923147
+            ],
+            [
+              61.67119361466871,
+              27.131234318785502
+            ],
+            [
+              61.67119361466871,
+              27.131234318785502
+            ],
+            [
+              61.671174962674,
+              27.13120446008807
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "آموزش و پرورش",
+        "description": "",
+        "date": "",
+        "city": "مهرستان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTc6OGY5Y2M3OTY4M2Rl",
+        "publicId": "MTc6OGY5Y2M3OTY4M2Rl",
+        "sourceId": "8f9cc79683de",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-08T22:17:47.652Z",
+        "updatedAt": "2026-08-08T22:17:47.652Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2374,
+    "total": 2375,
     "layerId": 17,
     "clustered": false,
     "simplified": false
