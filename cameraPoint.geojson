@@ -538016,10 +538016,72 @@
         "createdAt": "2026-08-03T18:32:18.745Z",
         "updatedAt": "2026-08-03T18:32:23.611Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.09478599950671,
+          28.85906998811177
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "دوربین فروشگاه وابسته سپاه - افق کوروش",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6NzQxMzNmNGRlMjY4",
+        "publicId": "MjA6NzQxMzNmNGRlMjY4",
+        "sourceId": "74133f4de268",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-09T16:02:17.331Z",
+        "updatedAt": "2026-08-09T16:02:17.331Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94381,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.092091049999,
+          28.860433046918104
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین فرمانداری\n\n",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MjA6ZmY5YTYwYTRmNTY4",
+        "publicId": "MjA6ZmY5YTYwYTRmNTY4",
+        "sourceId": "ff9a60a4f568",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-09T16:07:01.874Z",
+        "updatedAt": "2026-08-09T16:07:01.874Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18550,
+    "total": 18552,
     "layerId": 20,
     "clustered": false,
     "simplified": false

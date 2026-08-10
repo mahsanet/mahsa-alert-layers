@@ -157403,10 +157403,39 @@
         "createdAt": "2026-08-08T18:44:09.995Z",
         "updatedAt": "2026-08-08T18:44:09.995Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.098163068294525,
+          28.851281975405172
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد صاحب الزمان",
+        "description": "محل استقرار نیروی های سرکوبگر در دی ماه 1404",
+        "date": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "NDo0YTM0NzdiZmE5ODI",
+        "publicId": "NDo0YTM0NzdiZmE5ODI",
+        "sourceId": "4a3477bfa982",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-09T16:05:52.663Z",
+        "updatedAt": "2026-08-09T16:05:52.663Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5613,
+    "total": 5614,
     "layerId": 4,
     "clustered": false,
     "simplified": false

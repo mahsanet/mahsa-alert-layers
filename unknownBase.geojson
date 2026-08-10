@@ -70647,10 +70647,40 @@
         "createdAt": "2026-08-04T15:29:32.915Z",
         "updatedAt": "2026-08-04T15:29:32.915Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.08884892985225,
+          28.860340992561433
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله سپاه پاسداران",
+        "unofficial_name:fa": "",
+        "description": "سوله درون شهری سپاه پاسداران",
+        "date": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MTI6YzJiYTE5YjEyZjVm",
+        "publicId": "MTI6YzJiYTE5YjEyZjVm",
+        "sourceId": "c2ba19b12f5f",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-09T16:03:57.197Z",
+        "updatedAt": "2026-08-09T16:03:57.197Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1026,
+    "total": 1027,
     "layerId": 12,
     "clustered": false,
     "simplified": false

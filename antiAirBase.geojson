@@ -5899,34 +5899,6 @@
     },
     {
       "type": "Feature",
-      "id": 84056,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.452506447990025,
-          35.627401942788005
-        ]
-      },
-      "properties": {
-        "name:fa": "توپ ضد هوایی",
-        "unofficial_name:fa": "",
-        "city": "ری",
-        "province": "استان تهران",
-        "id": "ODo1NGZiZDlkOGViNTA",
-        "publicId": "ODo1NGZiZDlkOGViNTA",
-        "sourceId": "54fbd9d8eb50",
-        "layerId": 8,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-12T20:25:35.492Z",
-        "updatedAt": "2026-03-26T02:08:17.418Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 90733,
       "geometry": {
         "type": "Point",
@@ -7005,6 +6977,96 @@
         "expirationDate": null,
         "createdAt": "2026-08-05T21:33:40.013Z",
         "updatedAt": "2026-08-05T21:33:40.013Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94376,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.44970808851599,
+              35.62889737313468
+            ],
+            [
+              51.451223946848614,
+              35.62855238429009
+            ],
+            [
+              51.452669065125576,
+              35.62802668414059
+            ],
+            [
+              51.45370995451424,
+              35.627435267340644
+            ],
+            [
+              51.453699848792866,
+              35.62702455865596
+            ],
+            [
+              51.452355787736764,
+              35.62699991606739
+            ],
+            [
+              51.45059910827911,
+              35.62689050850804
+            ],
+            [
+              51.450316426528815,
+              35.62702315998
+            ],
+            [
+              51.45019402824599,
+              35.6271676550825
+            ],
+            [
+              51.44989094677416,
+              35.62769115155257
+            ],
+            [
+              51.44989968950867,
+              35.62815068861022
+            ],
+            [
+              51.45007162995455,
+              35.62828333799072
+            ],
+            [
+              51.449835390331515,
+              35.6287394933523
+            ],
+            [
+              51.449835390331515,
+              35.6287394933523
+            ],
+            [
+              51.44970808851599,
+              35.62889737313468
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان پدافند هوایی",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "ری",
+        "province": "استان تهران",
+        "id": "ODo0MThhNTNmZTk3ZDA",
+        "publicId": "ODo0MThhNTNmZTk3ZDA",
+        "sourceId": "418a53fe97d0",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-09T15:58:50.175Z",
+        "updatedAt": "2026-08-09T15:59:15.490Z"
       }
     }
   ],

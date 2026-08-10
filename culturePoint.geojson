@@ -83887,10 +83887,63 @@
         "createdAt": "2026-08-08T22:17:47.652Z",
         "updatedAt": "2026-08-08T22:17:47.652Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94377,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.09134998099759,
+              28.854170947744592
+            ],
+            [
+              52.09188175658866,
+              28.854370247829934
+            ],
+            [
+              52.09202521232905,
+              28.854129787896596
+            ],
+            [
+              52.09150333023766,
+              28.853900158973417
+            ],
+            [
+              52.09150580361293,
+              28.853900158973417
+            ],
+            [
+              52.09134998099759,
+              28.854170947744592
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ثبت احوال فراشبند",
+        "description": "",
+        "date": "",
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "id": "MTc6MTYwY2UxNjZiNGI4",
+        "publicId": "MTc6MTYwY2UxNjZiNGI4",
+        "sourceId": "160ce166b4b8",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-09T16:01:08.475Z",
+        "updatedAt": "2026-08-09T16:01:08.475Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2375,
+    "total": 2376,
     "layerId": 17,
     "clustered": false,
     "simplified": false
