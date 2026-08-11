@@ -538078,10 +538078,72 @@
         "createdAt": "2026-08-09T16:07:01.874Z",
         "updatedAt": "2026-08-09T16:07:01.874Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94385,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1410428956151,
+          38.02118881804864
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "دوربین ۳۶۰ و چند دوربین ثابت در اطراف میدان",
+        "city": "سردرود",
+        "province": "استان آذربایجان شرقی",
+        "id": "MjA6YjQxNTZjNjBmZTAw",
+        "publicId": "MjA6YjQxNTZjNjBmZTAw",
+        "sourceId": "b4156c60fe00",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-10T04:26:10.479Z",
+        "updatedAt": "2026-08-10T04:26:10.479Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94388,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.14795840124424,
+          38.0235203994784
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "سردرود",
+        "province": "استان آذربایجان شرقی",
+        "id": "MjA6NGZiNDU5YjVmNzhk",
+        "publicId": "MjA6NGZiNDU5YjVmNzhk",
+        "sourceId": "4fb459b5f78d",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-10T04:30:53.315Z",
+        "updatedAt": "2026-08-10T04:30:58.088Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18552,
+    "total": 18554,
     "layerId": 20,
     "clustered": false,
     "simplified": false

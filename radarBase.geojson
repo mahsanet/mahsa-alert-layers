@@ -4186,10 +4186,70 @@
         "createdAt": "2026-08-08T02:53:22.314Z",
         "updatedAt": "2026-08-08T02:53:22.314Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94387,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.18959514909699,
+          28.216094090697965
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "خاش",
+        "province": "استان سیستان و بلوچستان",
+        "id": "OTozNTljN2M1NTMwMjM",
+        "publicId": "OTozNTljN2M1NTMwMjM",
+        "sourceId": "359c7c553023",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-10T04:30:26.455Z",
+        "updatedAt": "2026-08-10T04:30:26.455Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94390,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.1855125547045,
+          26.650088414416572
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان سراوان",
+        "province": "استان سیستان و بلوچستان",
+        "id": "OTpmNTc1ZTJjY2YxZTI",
+        "publicId": "OTpmNTc1ZTJjY2YxZTI",
+        "sourceId": "f575e2ccf1e2",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-10T04:34:07.696Z",
+        "updatedAt": "2026-08-10T04:34:07.696Z"
+      }
     }
   ],
   "metadata": {
-    "total": 62,
+    "total": 64,
     "layerId": 9,
     "clustered": false,
     "simplified": false

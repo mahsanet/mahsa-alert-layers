@@ -95011,34 +95011,6 @@
     },
     {
       "type": "Feature",
-      "id": 87509,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          60.1414977,
-          28.2028043
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NTI1Mw",
-        "city": "شهرستان ایرانشهر",
-        "osm_id": "",
-        "name:fa": "کلانتری سحرکان",
-        "province": "استان سیستان و بلوچستان",
-        "publicId": "Mzo2NTI1Mw",
-        "sourceId": "65253",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.222Z",
-        "updatedAt": "2026-03-13T04:41:07.222Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 87510,
       "geometry": {
         "type": "Point",
@@ -171156,10 +171128,165 @@
         "createdAt": "2026-08-06T18:39:02.115Z",
         "updatedAt": "2026-08-06T18:39:02.115Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.14489505067468,
+          38.022023843970885
+        ]
+      },
+      "properties": {
+        "name:fa": "کیوسک پلیس کنترل ترافیک",
+        "description": "",
+        "date": "",
+        "city": "سردرود",
+        "province": "استان آذربایجان شرقی",
+        "id": "Mzo3YmFhZmE3OWRhNmE",
+        "publicId": "Mzo3YmFhZmE3OWRhNmE",
+        "sourceId": "7baafa79da6a",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-10T04:24:27.455Z",
+        "updatedAt": "2026-08-10T04:24:27.455Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94398,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.14424406550478,
+              28.26092852860812
+            ],
+            [
+              61.145519875093015,
+              28.261682812891237
+            ],
+            [
+              61.14669664923332,
+              28.260194763945293
+            ],
+            [
+              61.145390952570324,
+              28.25941023560847
+            ],
+            [
+              61.14533937330128,
+              28.25946898346487
+            ],
+            [
+              61.14517485319746,
+              28.25969457496933
+            ],
+            [
+              61.14517485319746,
+              28.25969457496933
+            ],
+            [
+              61.14424406550478,
+              28.26092852860812
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راه خاش",
+        "description": "محل استقرار نیروهای دولتی یگان ویژه سرکوب مردم",
+        "date": "",
+        "city": "شهرستان خاش",
+        "province": "استان سیستان و بلوچستان",
+        "id": "Mzo2NzFjZjA3OTc5NmM",
+        "publicId": "Mzo2NzFjZjA3OTc5NmM",
+        "sourceId": "671cf079796c",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-10T14:12:01.117Z",
+        "updatedAt": "2026-08-10T14:12:37.339Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94399,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.1943260997364,
+              28.211926293854276
+            ],
+            [
+              61.19455121586037,
+              28.211682036335716
+            ],
+            [
+              61.19579782014972,
+              28.212569771577535
+            ],
+            [
+              61.19580837333626,
+              28.212633599708226
+            ],
+            [
+              61.19611300435511,
+              28.21285277912125
+            ],
+            [
+              61.19589805862108,
+              28.213088601323904
+            ],
+            [
+              61.194430110921985,
+              28.212005169207302
+            ],
+            [
+              61.194430110921985,
+              28.212005169207302
+            ],
+            [
+              61.1943260997364,
+              28.211926293854276
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 12 خاش",
+        "description": "",
+        "date": "",
+        "city": "خاش",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MzpkYTI0MjU2ZjUwNTY",
+        "publicId": "MzpkYTI0MjU2ZjUwNTY",
+        "sourceId": "da24256f5056",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-10T14:13:58.855Z",
+        "updatedAt": "2026-08-10T14:13:58.855Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6073,
+    "total": 6075,
     "layerId": 3,
     "clustered": false,
     "simplified": false

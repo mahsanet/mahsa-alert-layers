@@ -66518,10 +66518,184 @@
         "createdAt": "2026-08-08T18:43:14.748Z",
         "updatedAt": "2026-08-08T18:43:14.748Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.358193557709455,
+          31.918425001230574
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "یزد",
+        "province": "استان یزد",
+        "id": "MTo4MTQzYTU4OTQyNjU",
+        "publicId": "MTo4MTQzYTU4OTQyNjU",
+        "sourceId": "8143a5894265",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-10T02:58:09.773Z",
+        "updatedAt": "2026-08-10T02:58:09.773Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.14486873149872,
+          38.02056614109412
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج",
+        "unofficial_name:fa": "پایگاه مقاومت بسیج سردرود",
+        "description": "پایگاه مقاومت بسیج، محل نگهداری اسلحه و مکانی استراتژیک",
+        "date": "",
+        "city": "سردرود",
+        "province": "استان آذربایجان شرقی",
+        "id": "MTplODBkNDRkNGU5YWI",
+        "publicId": "MTplODBkNDRkNGU5YWI",
+        "sourceId": "e80d44d4e9ab",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-10T04:25:42.167Z",
+        "updatedAt": "2026-08-10T04:25:42.167Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94393,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.20641682296991,
+          28.21167137430355
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "محل اقامت بسیج",
+        "date": "",
+        "city": "خاش",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTpiMDFmNjU5N2Y2N2Y",
+        "publicId": "MTpiMDFmNjU5N2Y2N2Y",
+        "sourceId": "b01f6597f67f",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-10T04:47:36.260Z",
+        "updatedAt": "2026-08-10T04:47:36.260Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94396,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.19712306995467,
+              28.29431462972083
+            ],
+            [
+              61.19749304566781,
+              28.294471277722593
+            ],
+            [
+              61.19777013386104,
+              28.294096985655003
+            ],
+            [
+              61.19740802997171,
+              28.29392231557304
+            ],
+            [
+              61.19740802997171,
+              28.29392231557304
+            ],
+            [
+              61.19712306995467,
+              28.29431462972083
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان خاش",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MToyZjAwODY4YmRkMmY",
+        "publicId": "MToyZjAwODY4YmRkMmY",
+        "sourceId": "2f00868bdd2f",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-10T14:07:32.753Z",
+        "updatedAt": "2026-08-10T14:07:32.753Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.189749240875244,
+          28.21605425141297
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "خاش",
+        "province": "استان سیستان و بلوچستان",
+        "id": "MTo1NTFmNTY5OTU0OTI",
+        "publicId": "MTo1NTFmNTY5OTU0OTI",
+        "sourceId": "551f56995492",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-10T14:14:39.561Z",
+        "updatedAt": "2026-08-10T14:14:39.561Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2209,
+    "total": 2214,
     "layerId": 1,
     "clustered": false,
     "simplified": false
