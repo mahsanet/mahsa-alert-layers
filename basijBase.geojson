@@ -55494,10 +55494,12 @@
       "properties": {
         "name:fa": " پایگاه بسیج شهران",
         "unofficial_name:fa": "",
-        "description": "",
+        "description": "حوزه بسیج ۱۰۱ فجر",
+        "date": "",
         "city": "تهران",
         "province": "استان تهران",
         "name:en": "Shahran Basij Base",
+        "description:en": "101 Fajr Basij District",
         "city:en": "Tehran",
         "province:en": "Tehran",
         "id": "MTo0ODI4ZDIyY2FhN2M",
@@ -55510,7 +55512,7 @@
         "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-03-19T07:10:02.682Z",
-        "updatedAt": "2026-03-26T02:08:40.321Z"
+        "updatedAt": "2026-08-13T17:54:02.091Z"
       }
     },
     {

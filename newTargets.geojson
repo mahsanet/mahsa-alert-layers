@@ -28936,10 +28936,45 @@
         "createdAt": "2026-08-08T15:56:13.642Z",
         "updatedAt": "2026-08-08T15:58:00.532Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.64627492104486,
+          32.60443769116837
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در اصفهان",
+        "unofficial_name:fa": "حمله به ساختمان شماره یک اطلاعات سپاه اصفهان طی جنگ",
+        "date": 1772595000,
+        "geolocates": "",
+        "description": "",
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "sources": "https://x.com/UnSansVisage/status/2029065556498792860?s=20",
+        "name:en": "Explosion in Isfahan",
+        "city:en": "Isfahan",
+        "province:en": "Isfahan",
+        "id": "MzI6OTdjZTMwZDJiMGQ2",
+        "publicId": "MzI6OTdjZTMwZDJiMGQ2",
+        "sourceId": "97ce30d2b0d6",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-14T01:54:10.968Z",
+        "updatedAt": "2026-08-14T01:54:10.968Z"
+      }
     }
   ],
   "metadata": {
-    "total": 839,
+    "total": 840,
     "layerId": 32,
     "clustered": false,
     "simplified": false

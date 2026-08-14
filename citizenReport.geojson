@@ -21263,10 +21263,44 @@
         "createdAt": "2026-08-08T22:18:36.464Z",
         "updatedAt": "2026-08-08T22:18:36.464Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94424,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.069616701453924,
+          36.89280768424051
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سپاه",
+        "city": "بندرترکمن",
+        "province": "استان گلستان",
+        "date": 1786644000,
+        "description": "تجمع نیروهای سپاه در شب‌ها",
+        "sources": "",
+        "name:en": "Gathering of IRGC Forces",
+        "description:en": "Gathering of IRGC forces at night",
+        "city:en": "Bandar Torkaman",
+        "province:en": "Golestan",
+        "id": "MzY6MmNhMmY4ZDdiMmY0",
+        "publicId": "MzY6MmNhMmY4ZDdiMmY0",
+        "sourceId": "2ca2f8d7b2f4",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-13T17:54:50.753Z",
+        "updatedAt": "2026-08-13T17:54:50.753Z"
+      }
     }
   ],
   "metadata": {
-    "total": 642,
+    "total": 643,
     "layerId": 36,
     "clustered": false,
     "simplified": false

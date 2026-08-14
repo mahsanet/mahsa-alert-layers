@@ -174544,10 +174544,43 @@
         "createdAt": "2026-08-11T14:07:56.371Z",
         "updatedAt": "2026-08-11T14:07:56.371Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.95694046467543,
+          35.841500182783136
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج و مسجد امام حسن",
+        "description": "در این مسجد نیروهای بسیج و سپاه موتور و سلاح‌های خود را نگهداری کرده و از این مکان اعزام می‌شوند.",
+        "date": 1786592121,
+        "city": "کرج",
+        "province": "استان البرز",
+        "name:en": "Basij Base and Imam Hassan Mosque",
+        "description:en": "In this mosque, Basij and IRGC forces store their motorcycles and weapons and are deployed from this location.",
+        "city:en": "Karaj",
+        "province:en": "Alborz",
+        "id": "NDplZGJhYjFhNzQ5ODQ",
+        "publicId": "NDplZGJhYjFhNzQ5ODQ",
+        "sourceId": "edbab1a74984",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-13T04:52:17.493Z",
+        "updatedAt": "2026-08-13T04:52:17.493Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5620,
+    "total": 5621,
     "layerId": 4,
     "clustered": false,
     "simplified": false

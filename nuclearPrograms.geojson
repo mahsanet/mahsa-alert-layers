@@ -4374,10 +4374,89 @@
         "createdAt": "2026-06-05T15:18:26.296Z",
         "updatedAt": "2026-06-05T15:18:26.296Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94425,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.06617501443367,
+              32.33695488182178
+            ],
+            [
+              51.06560955528394,
+              32.33682112321881
+            ],
+            [
+              51.065205516870776,
+              32.33607799544667
+            ],
+            [
+              51.065791865298934,
+              32.335855264085595
+            ],
+            [
+              51.06631908615586,
+              32.33596350743235
+            ],
+            [
+              51.06651864171312,
+              32.33656508828882
+            ],
+            [
+              51.06635357723911,
+              32.336862754846294
+            ],
+            [
+              51.066264885879804,
+              32.33697307856649
+            ],
+            [
+              51.06620487524458,
+              32.33696118930399
+            ],
+            [
+              51.06620487524458,
+              32.33696118930399
+            ],
+            [
+              51.06617501443367,
+              32.33695488182178
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار هسته‌ای",
+        "geolocates": "",
+        "sources": "",
+        "description": "انبار تسلیحات",
+        "date": "",
+        "city": "شهرستان لنجان",
+        "province": "استان اصفهان",
+        "name:en": "Nuclear Depot",
+        "description:en": "Weapons Depot",
+        "city:en": "Lenjan County",
+        "province:en": "Isfahan",
+        "id": "NjphNGYzNDlmOTBiOWQ",
+        "publicId": "NjphNGYzNDlmOTBiOWQ",
+        "sourceId": "a4f349f90b9d",
+        "layerId": 6,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-13T22:32:02.088Z",
+        "updatedAt": "2026-08-13T22:32:02.088Z"
+      }
     }
   ],
   "metadata": {
-    "total": 31,
+    "total": 32,
     "layerId": 6,
     "clustered": false,
     "simplified": false
