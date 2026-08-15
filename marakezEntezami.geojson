@@ -189548,10 +189548,43 @@
         "createdAt": "2026-08-10T14:13:58.855Z",
         "updatedAt": "2026-08-10T14:13:58.855Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.415176428854465,
+          35.58020771110233
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر نیروهای نوپو",
+        "description": "مقر نیرو و خودروهای نوپو",
+        "date": 1786728487,
+        "city": "شهرستان ری",
+        "province": "استان تهران",
+        "name:en": "NOPO Forces Headquarters",
+        "description:en": "Headquarters of NOPO forces and vehicles",
+        "city:en": "Rey County",
+        "province:en": "Tehran",
+        "id": "Mzo0MzU0MzczMzViYTA",
+        "publicId": "Mzo0MzU0MzczMzViYTA",
+        "sourceId": "435437335ba0",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-14T17:29:26.975Z",
+        "updatedAt": "2026-08-14T17:29:26.975Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6075,
+    "total": 6076,
     "layerId": 3,
     "clustered": false,
     "simplified": false

@@ -21297,10 +21297,112 @@
         "createdAt": "2026-08-13T17:54:50.753Z",
         "updatedAt": "2026-08-13T17:54:50.753Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.575923562049866,
+          35.75940380809223
+        ]
+      },
+      "properties": {
+        "name:fa": "محل استقرار نیروها",
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "date": 1786730476,
+        "description": "در مواقع جنگ خودروهای پشتیبان سلاح و اتوبوس‌های نیرو در این مکان پارک می‌شوند. هنگام بمباران دانشگاه حدود ۲۰۰ نیرو در این مکان حضور داشتند.",
+        "sources": "",
+        "name:en": "Forces Deployment Location",
+        "description:en": "During wartime, weapon support vehicles and troop buses are parked at this location. Around 200 personnel were present at this location during the bombing of the university.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6YTAyMjY1NzVkYTEw",
+        "publicId": "MzY6YTAyMjY1NzVkYTEw",
+        "sourceId": "a0226575da10",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-14T18:12:53.704Z",
+        "updatedAt": "2026-08-14T18:12:53.704Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.54154971241951,
+          35.76030938536243
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله ستاد بحران",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1786730784,
+        "description": "سوله ستاد بحران، محل زندانی کردن مردم معترض در هنگام اعتراضات",
+        "sources": "",
+        "name:en": "Crisis Management Shed",
+        "description:en": "Crisis Management Shed, a place used to detain protesting people during protests.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6OGE0NDk4MGJlYjli",
+        "publicId": "MzY6OGE0NDk4MGJlYjli",
+        "sourceId": "8a44980beb9b",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-14T18:14:30.830Z",
+        "updatedAt": "2026-08-14T18:14:30.830Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94432,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.495195776224136,
+          35.62061328746414
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مشیریه",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1786730964,
+        "description": "محل دستگیری و نگهداری مردم در اعتراضات و تردد زیاد آمبولانس‌های بی‌پلاک",
+        "sources": "",
+        "name:en": "Moshiriyeh Base",
+        "description:en": "Location for the arrest and detention of people during protests, with high traffic of ambulances without license plates.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6NzRhYjM1MTIzOTA0",
+        "publicId": "MzY6NzRhYjM1MTIzOTA0",
+        "sourceId": "74ab35123904",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-14T18:15:46.097Z",
+        "updatedAt": "2026-08-14T18:15:46.097Z"
+      }
     }
   ],
   "metadata": {
-    "total": 643,
+    "total": 646,
     "layerId": 36,
     "clustered": false,
     "simplified": false

@@ -28971,10 +28971,44 @@
         "createdAt": "2026-08-14T01:54:10.968Z",
         "updatedAt": "2026-08-14T01:54:10.968Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.44315518142605,
+          26.508424416063562
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله پهپادی هرمز",
+        "unofficial_name:fa": "",
+        "date": "",
+        "geolocates": "",
+        "description": "در ۲۳ مرداد ۱۴۰۵، مرکز عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد یک نفتکش هنگام خروج از تنگه هرمز با یک پهپاد برخورد کرده است. بر اساس گزارش مقام‌های نظامی، کشتی خسارت جزئی دیده، خدمه در سلامت هستند و هیچ‌گونه اثر زیست‌محیطی گزارش نشده است. UKMTO به شناورها توصیه کرده با احتیاط تردد کرده و هرگونه فعالیت مشکوک را گزارش کنند",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/uk_mto/status/2088176654409507310?s=46",
+        "name:en": "Hormuz Drone Attack",
+        "description:en": "On August 14, 2026, the United Kingdom Maritime Trade Operations (UKMTO) announced that an oil tanker was struck by a drone while exiting the Strait of Hormuz. According to military officials, the ship sustained minor damage, the crew is safe, and no environmental impact has been reported. UKMTO has advised vessels to transit with caution and report any suspicious activity.",
+        "id": "MzI6OGVhYjBmMzhjY2Nk",
+        "publicId": "MzI6OGVhYjBmMzhjY2Nk",
+        "sourceId": "8eab0f38cccd",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-14T13:32:08.999Z",
+        "updatedAt": "2026-08-14T13:32:08.999Z"
+      }
     }
   ],
   "metadata": {
-    "total": 840,
+    "total": 841,
     "layerId": 32,
     "clustered": false,
     "simplified": false
