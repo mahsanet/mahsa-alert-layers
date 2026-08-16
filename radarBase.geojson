@@ -4412,10 +4412,130 @@
         "createdAt": "2026-08-10T04:34:07.696Z",
         "updatedAt": "2026-08-10T04:34:07.696Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94451,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.035723123326164,
+              25.866169446939367
+            ],
+            [
+              55.03608253933376,
+              25.866488027630595
+            ],
+            [
+              55.03658947683704,
+              25.866606288426325
+            ],
+            [
+              55.03672626949802,
+              25.866413209515258
+            ],
+            [
+              55.03662434555551,
+              25.866362526248736
+            ],
+            [
+              55.03671822287123,
+              25.86621771679664
+            ],
+            [
+              55.03635344244458,
+              25.865986021303485
+            ],
+            [
+              55.03635903636615,
+              25.865503320928937
+            ],
+            [
+              55.03620883266265,
+              25.865505734436283
+            ],
+            [
+              55.035919154088646,
+              25.86556365858739
+            ],
+            [
+              55.03588160316235,
+              25.865730190363863
+            ],
+            [
+              55.03590306083498,
+              25.865877413912372
+            ],
+            [
+              55.03569223192318,
+              25.866146549432145
+            ],
+            [
+              55.03569223192318,
+              25.866146549432145
+            ],
+            [
+              55.035723123326164,
+              25.866169446939367
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "رادار ج.ا «مطلع‌الفجر» مستقر در جزیره ابوموسی",
+        "date": "",
+        "city": "",
+        "province": "",
+        "id": "OToyMzg5NzRlNDE5OTU",
+        "publicId": "OToyMzg5NzRlNDE5OTU",
+        "sourceId": "238974e41995",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T23:08:37.484Z",
+        "updatedAt": "2026-08-15T23:08:37.484Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94458,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.04747997504646,
+          25.86084296277636
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "",
+        "province": "",
+        "id": "OTo1YjlkNTM3Yzg3NjE",
+        "publicId": "OTo1YjlkNTM3Yzg3NjE",
+        "sourceId": "5b9d537c8761",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T23:25:53.863Z",
+        "updatedAt": "2026-08-15T23:25:53.863Z"
+      }
     }
   ],
   "metadata": {
-    "total": 64,
+    "total": 66,
     "layerId": 9,
     "clustered": false,
     "simplified": false

@@ -61841,39 +61841,6 @@
     },
     {
       "type": "Feature",
-      "id": 91453,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.34987533241238,
-          33.503173881117064
-        ]
-      },
-      "properties": {
-        "name:fa": "سپاه ثارالله خرم",
-        "description": "سپاه ثارالله خرم آباد  مقر موتور های سپاه و بسیج و ماشین های زرهی",
-        "date": 1772416782,
-        "city": "خرم آباد",
-        "province": "استان لرستان",
-        "name:en": "Khorram Sarallah IRGC",
-        "description:en": "Khorramabad Sarallah IRGC, headquarters for IRGC and Basij motorcycles and armored vehicles",
-        "city:en": "Khorramabad",
-        "province:en": "Lorestan",
-        "id": "MTI6YmJlMTBiY2E1MWNj",
-        "publicId": "MTI6YmJlMTBiY2E1MWNj",
-        "sourceId": "bbe10bca51cc",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-02T01:59:42.001Z",
-        "updatedAt": "2026-03-26T23:40:00.636Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 91454,
       "geometry": {
         "type": "Point",
@@ -73685,10 +73652,350 @@
         "createdAt": "2026-08-09T16:03:57.197Z",
         "updatedAt": "2026-08-09T16:03:57.197Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94438,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.348409600574286,
+              33.5032051469054
+            ],
+            [
+              48.34986169769658,
+              33.50383614488061
+            ],
+            [
+              48.35009689652679,
+              33.50346095744936
+            ],
+            [
+              48.35028437385452,
+              33.50308861073968
+            ],
+            [
+              48.35007644445477,
+              33.50256845960034
+            ],
+            [
+              48.349377665322464,
+              33.5024092870423
+            ],
+            [
+              48.348948171807734,
+              33.502696365908065
+            ],
+            [
+              48.348685703548654,
+              33.50292659678571
+            ],
+            [
+              48.348685703548654,
+              33.50292659678571
+            ],
+            [
+              48.348409600574286,
+              33.5032051469054
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه ثارالله خرم",
+        "unofficial_name:fa": "",
+        "description": "سپاه ثارالله خرم آباد مقر موتور های سپاه و بسیج و ماشین های زرهی",
+        "date": "",
+        "city": "خرم آباد",
+        "province": "استان لرستان",
+        "name:en": "Tharallah Corps Khorram",
+        "description:en": "Tharallah Corps Khorramabad, headquarters for IRGC and Basij motorcycles and armored vehicles",
+        "city:en": "Khorramabad",
+        "province:en": "Lorestan",
+        "id": "MTI6NDkyOTg2Y2U3MzFm",
+        "publicId": "MTI6NDkyOTg2Y2U3MzFm",
+        "sourceId": "492986ce731f",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T02:59:33.784Z",
+        "updatedAt": "2026-08-15T02:59:49.969Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94441,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.30856991813363,
+              31.8732002828761
+            ],
+            [
+              54.30900149613737,
+              31.872833778005614
+            ],
+            [
+              54.30848771279861,
+              31.872409677694534
+            ],
+            [
+              54.30746719451474,
+              31.872425533697935
+            ],
+            [
+              54.307925436932834,
+              31.87276604048668
+            ],
+            [
+              54.307975774169336,
+              31.87271739673703
+            ],
+            [
+              54.307975774169336,
+              31.87271739673703
+            ],
+            [
+              54.30856991813363,
+              31.8732002828761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه امام علی",
+        "unofficial_name:fa": "",
+        "description": "گردان های امام علی بیت المقدس",
+        "date": "",
+        "city": "یزد",
+        "province": "استان یزد",
+        "name:en": "Imam Ali Base",
+        "description:en": "Imam Ali Beit-ol-Moqaddas Battalions",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "id": "MTI6YzgzZTg4OTFlODky",
+        "publicId": "MTI6YzgzZTg4OTFlODky",
+        "sourceId": "c83e8891e892",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T15:25:23.639Z",
+        "updatedAt": "2026-08-15T15:25:23.639Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94453,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.03427803471524,
+              25.867095872802608
+            ],
+            [
+              55.033502556639775,
+              25.865722106997623
+            ],
+            [
+              55.033260219740384,
+              25.86426110044519
+            ],
+            [
+              55.0359016919395,
+              25.86386858814369
+            ],
+            [
+              55.03653176787745,
+              25.86208046005278
+            ],
+            [
+              55.03951251173794,
+              25.86256020439167
+            ],
+            [
+              55.04380187485174,
+              25.862582010905925
+            ],
+            [
+              55.046346412292564,
+              25.86487167254454
+            ],
+            [
+              55.0483381073071,
+              25.8662983013254
+            ],
+            [
+              55.04857132006018,
+              25.867618547632503
+            ],
+            [
+              55.0482166423385,
+              25.868737720360485
+            ],
+            [
+              55.04437836714155,
+              25.870276517116324
+            ],
+            [
+              55.04326574799643,
+              25.870949755581933
+            ],
+            [
+              55.04017674476094,
+              25.871493757384286
+            ],
+            [
+              55.03945281352122,
+              25.871974637442733
+            ],
+            [
+              55.03682168480617,
+              25.87119894620527
+            ],
+            [
+              55.035100629437125,
+              25.870560472820827
+            ],
+            [
+              55.03488124104044,
+              25.86919659829732
+            ],
+            [
+              55.03514051823768,
+              25.868039087173457
+            ],
+            [
+              55.03535990663437,
+              25.86767119366661
+            ],
+            [
+              55.03489235063344,
+              25.867402066450822
+            ],
+            [
+              55.034884704396575,
+              25.867402066450822
+            ],
+            [
+              55.03427803471524,
+              25.867095872802608
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "",
+        "province": "",
+        "id": "MTI6YTIzNDRjM2VhNzcx",
+        "publicId": "MTI6YTIzNDRjM2VhNzcx",
+        "sourceId": "a2344c3ea771",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T23:11:01.322Z",
+        "updatedAt": "2026-08-15T23:11:01.322Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94457,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.04115342886081,
+              25.873977252592084
+            ],
+            [
+              55.04091295396492,
+              25.872488420160295
+            ],
+            [
+              55.0418175976196,
+              25.87151989625694
+            ],
+            [
+              55.043666964076465,
+              25.871107756016954
+            ],
+            [
+              55.04501820396385,
+              25.871190184180293
+            ],
+            [
+              55.04545334901243,
+              25.871947490235925
+            ],
+            [
+              55.04486361296031,
+              25.87297267913526
+            ],
+            [
+              55.04453152858008,
+              25.87400301077335
+            ],
+            [
+              55.044457095875174,
+              25.874363624723856
+            ],
+            [
+              55.04207030000626,
+              25.874162803763767
+            ],
+            [
+              55.04207030000626,
+              25.874162803763767
+            ],
+            [
+              55.04115342886081,
+              25.873977252592084
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "",
+        "province": "",
+        "id": "MTI6NjVjMDE4NTdjZjY0",
+        "publicId": "MTI6NjVjMDE4NTdjZjY0",
+        "sourceId": "65c01857cf64",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T23:22:55.747Z",
+        "updatedAt": "2026-08-15T23:22:55.747Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1027,
+    "total": 1030,
     "layerId": 12,
     "clustered": false,
     "simplified": false

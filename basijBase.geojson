@@ -51578,11 +51578,14 @@
         ]
       },
       "properties": {
-        "id": "MToxMzUxOQ",
+        "name:fa": "پایگاه مقاومت بسیج شهید لنگری",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
         "city": "تجریش",
-        "name:fa": "پایگاه مقاومت بسیج شهید لنگرودی",
         "province": "استان تهران",
-        "name:en": "Shahid Langaroudi Basij Resistance Base",
+        "id": "MToxMzUxOQ",
+        "name:en": "Shahid Langari Basij Resistance Base",
         "city:en": "Tajrish",
         "province:en": "Tehran",
         "publicId": "MToxMzUxOQ",
@@ -51594,7 +51597,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:52:53.092Z",
-        "updatedAt": "2026-03-11T20:52:53.092Z"
+        "updatedAt": "2026-08-15T03:00:26.457Z"
       }
     },
     {

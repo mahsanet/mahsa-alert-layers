@@ -594094,10 +594094,45 @@
         "createdAt": "2026-08-11T14:08:28.863Z",
         "updatedAt": "2026-08-11T14:08:35.188Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94444,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.00088216240172,
+          36.279421158043675
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "lastReport": "",
+        "date": 1786772424,
+        "addressDescription": "",
+        "description": "مانیتورینگ چهره",
+        "city": "قزوین",
+        "province": "استان قزوین",
+        "name:en": "Camera",
+        "description:en": "Facial monitoring",
+        "city:en": "Qazvin",
+        "province:en": "Qazvin",
+        "id": "MjA6M2QxNTFkNTRkZDE5",
+        "publicId": "MjA6M2QxNTFkNTRkZDE5",
+        "sourceId": "3d151d54dd19",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T15:34:54.278Z",
+        "updatedAt": "2026-08-15T15:35:01.526Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18558,
+    "total": 18559,
     "layerId": 20,
     "clustered": false,
     "simplified": false

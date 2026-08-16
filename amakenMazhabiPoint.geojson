@@ -174577,10 +174577,76 @@
         "createdAt": "2026-08-13T04:52:17.493Z",
         "updatedAt": "2026-08-13T04:52:17.493Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94447,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.21031083911657,
+          36.57616436106851
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام حسین",
+        "unofficial_name:fa": "",
+        "description": "مسجد امام حسین، از مراکز سرکوب و محل اعزام نیروهای سرکوبگر به چناران و گلبهار.",
+        "date": 1786824189,
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "name:en": "Imam Hossein Mosque",
+        "description:en": "Imam Hossein Mosque, one of the centers of repression and a dispatch location for repressive forces to Chenaran and Golbahar.",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo4MmVlYjUxY2NjODc",
+        "publicId": "NDo4MmVlYjUxY2NjODc",
+        "sourceId": "82eeb51ccc87",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T21:09:00.146Z",
+        "updatedAt": "2026-08-15T21:09:08.758Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46385837629089,
+          35.737082263722826
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد المهدی",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Al-Mahdi Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "NDo5ODk0NDJhMTVjYzU",
+        "publicId": "NDo5ODk0NDJhMTVjYzU",
+        "sourceId": "989442a15cc5",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-16T00:15:24.875Z",
+        "updatedAt": "2026-08-16T00:15:24.875Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5621,
+    "total": 5623,
     "layerId": 4,
     "clustered": false,
     "simplified": false

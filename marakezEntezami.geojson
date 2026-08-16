@@ -178002,38 +178002,6 @@
     },
     {
       "type": "Feature",
-      "id": 90912,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.290704083930876,
-          38.20452136997602
-        ]
-      },
-      "properties": {
-        "name:fa": "فرماندهی یگان ویژه",
-        "description": "",
-        "date": 1772051400,
-        "city": "اردبیل",
-        "province": "استان اردبیل",
-        "name:en": "Special Unit Command",
-        "city:en": "Ardabil",
-        "province:en": "Ardabil",
-        "id": "MzphMjRlMDc1ZTE0MGI",
-        "publicId": "MzphMjRlMDc1ZTE0MGI",
-        "sourceId": "a24e075e140b",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-21T22:20:47.135Z",
-        "updatedAt": "2026-03-26T02:08:59.102Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 90930,
       "geometry": {
         "type": "Point",
@@ -189580,6 +189548,99 @@
         "expirationDate": null,
         "createdAt": "2026-08-14T17:29:26.975Z",
         "updatedAt": "2026-08-14T17:29:26.975Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94464,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.286977822224486,
+              38.20488814300282
+            ],
+            [
+              48.286339040794616,
+              38.20409589316964
+            ],
+            [
+              48.28825153700271,
+              38.20320384582439
+            ],
+            [
+              48.29048727200728,
+              38.20399308149038
+            ],
+            [
+              48.29128767283544,
+              38.205226812056424
+            ],
+            [
+              48.289674590603994,
+              38.205769718771506
+            ],
+            [
+              48.28945909807413,
+              38.20582112337448
+            ],
+            [
+              48.2890127206893,
+              38.20630190584626
+            ],
+            [
+              48.288512470171696,
+              38.20592695626638
+            ],
+            [
+              48.28784675217776,
+              38.20515890835634
+            ],
+            [
+              48.28740738866378,
+              38.2048041368308
+            ],
+            [
+              48.28721498461874,
+              38.20478599378043
+            ],
+            [
+              48.28708457222814,
+              38.20486111908326
+            ],
+            [
+              48.28708457222814,
+              38.20486111908326
+            ],
+            [
+              48.286977822224486,
+              38.20488814300282
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی یگان ویژه",
+        "description": "فرماندهی یگان ویژه اردبیل و انبار تسلیحات",
+        "date": "",
+        "city": "اردبیل",
+        "province": "استان اردبیل",
+        "name:en": "Special Units Command",
+        "description:en": "Ardabil Special Units Command and weapons depot",
+        "city:en": "Ardabil",
+        "province:en": "Ardabil",
+        "id": "MzpjYjY1M2VmMGQxM2Q",
+        "publicId": "MzpjYjY1M2VmMGQxM2Q",
+        "sourceId": "cb653ef0d13d",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-16T00:13:26.861Z",
+        "updatedAt": "2026-08-16T00:13:26.861Z"
       }
     }
   ],

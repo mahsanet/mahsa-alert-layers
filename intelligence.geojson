@@ -9924,39 +9924,6 @@
     },
     {
       "type": "Feature",
-      "id": 91962,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.46043308413911,
-          35.75728974175243
-        ]
-      },
-      "properties": {
-        "name:fa": "اداره اطلاعات",
-        "description": "ادامه‌ی بخش بالایی محوطه و خانه‌های وزرارت اطلاعات در مساحت بین شهید عراقی و ربانی و گلرومفرد و زین‌الدین",
-        "date": 1772304584,
-        "city": "تهران",
-        "province": "استان تهران",
-        "name:en": "Department of Intelligence",
-        "description:en": "Continuation of the upper section of the Ministry of Intelligence premises and residences located between Shahid Iraqi, Rabbani, Golroomfard, and Zeinoddin streets.",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "id": "MjoyNWY0OTBiYTQ3OWQ",
-        "publicId": "MjoyNWY0OTBiYTQ3OWQ",
-        "sourceId": "25f490ba479d",
-        "layerId": 2,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-02-28T18:49:44.642Z",
-        "updatedAt": "2026-03-27T22:03:25.205Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 91963,
       "geometry": {
         "type": "Point",
@@ -13592,10 +13559,190 @@
         "createdAt": "2026-08-14T18:12:06.347Z",
         "updatedAt": "2026-08-14T18:12:06.347Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94445,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.459984133685055,
+              35.757301003524105
+            ],
+            [
+              51.4600395259792,
+              35.75723064568652
+            ],
+            [
+              51.46001785073403,
+              35.757150515851336
+            ],
+            [
+              51.46025387007546,
+              35.757019571800456
+            ],
+            [
+              51.460607899089894,
+              35.75698830154731
+            ],
+            [
+              51.46074517564537,
+              35.75691989782588
+            ],
+            [
+              51.46099082843111,
+              35.75686517480638
+            ],
+            [
+              51.461234072855746,
+              35.75688080995896
+            ],
+            [
+              51.46132077383777,
+              35.75714660707672
+            ],
+            [
+              51.4614652754766,
+              35.757170059720934
+            ],
+            [
+              51.46152789285239,
+              35.75745539967252
+            ],
+            [
+              51.46131354875607,
+              35.75747689784619
+            ],
+            [
+              51.46138339121518,
+              35.758029985236746
+            ],
+            [
+              51.460774075973745,
+              35.75809447927581
+            ],
+            [
+              51.4603855849179,
+              35.75815957782687
+            ],
+            [
+              51.460282025409896,
+              35.75770421007836
+            ],
+            [
+              51.460231449836414,
+              35.75751268123402
+            ],
+            [
+              51.4601172054644,
+              35.75741356113248
+            ],
+            [
+              51.4601172054644,
+              35.75741356113248
+            ],
+            [
+              51.459984133685055,
+              35.757301003524105
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "وزرارت اطلاعات",
+        "description": "ادامه‌ی بخش بالایی محوطه و خانه‌های وزرارت اطلاعات در مساحت بین شهید عراقی و ربانی و گلرومفرد و زین‌الدین",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "description:en": "Continuation of the upper section of the Ministry of Intelligence grounds and housing in the area between Shahid Iraqi, Rabbani, Golromafard, and Zein-o-Din.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MjoyYzM1ZjliNThjOTA",
+        "publicId": "MjoyYzM1ZjliNThjOTA",
+        "sourceId": "2c35f9b58c90",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T21:04:06.087Z",
+        "updatedAt": "2026-08-15T21:04:06.087Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.26242061331868,
+          38.224277818448684
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "ساختمان وزارت اطلاعات اردبیل",
+        "date": 1786831186,
+        "city": "اردبیل",
+        "province": "استان اردبیل",
+        "name:fa": "وزارت اطلاعات اردبیل",
+        "name:en": "Ardabil Ministry of Intelligence",
+        "description:en": "Ardabil Ministry of Intelligence building",
+        "city:en": "Ardabil",
+        "province:en": "Ardabil",
+        "id": "Mjo3N2IzY2E1ZDgxMzg",
+        "publicId": "Mjo3N2IzY2E1ZDgxMzg",
+        "sourceId": "77b3ca5d8138",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-16T00:12:05.068Z",
+        "updatedAt": "2026-08-16T00:12:05.068Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.378058176487684,
+          35.69646891900409
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "طبقات بالا بخشی از اداره اطلاعات و دکلهای آنتن و بی سیم",
+        "date": 1786815241,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:fa": "اداره اطلاعات",
+        "name:en": "Intelligence Department",
+        "description:en": "The upper floors are part of the Intelligence Department and its antenna and wireless towers.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "Mjo3ZjE4ZjAzMWI4MWM",
+        "publicId": "Mjo3ZjE4ZjAzMWI4MWM",
+        "sourceId": "7f18f031b81c",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-16T00:16:08.886Z",
+        "updatedAt": "2026-08-16T00:16:08.886Z"
+      }
     }
   ],
   "metadata": {
-    "total": 348,
+    "total": 350,
     "layerId": 2,
     "clustered": false,
     "simplified": false

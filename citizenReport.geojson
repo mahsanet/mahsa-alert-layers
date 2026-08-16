@@ -21399,10 +21399,384 @@
         "createdAt": "2026-08-14T18:15:46.097Z",
         "updatedAt": "2026-08-14T18:15:46.097Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94433,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.261439081281424,
+          35.693990276715326
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای حکومتی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1786753284,
+        "description": "محل تجمع نیروهای حکومتی در ایام جنگ",
+        "sources": "",
+        "name:en": "Gathering of Government Forces",
+        "description:en": "Gathering location of government forces during wartime",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6NGI4ZTZkMTRmZDQ0",
+        "publicId": "MzY6NGI4ZTZkMTRmZDQ0",
+        "sourceId": "4b8e6d14fd44",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T02:53:21.893Z",
+        "updatedAt": "2026-08-15T02:53:21.893Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94435,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35478097200394,
+          33.51141305851006
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار نیروهای سرکوب",
+        "city": "خرم آباد",
+        "province": "استان لرستان",
+        "date": 1786748765,
+        "description": "استقرار نیروهای مسلح به همراه خودرو تویوتا هایلوکس و تیربار دوشکا",
+        "sources": "",
+        "name:en": "Deployment of Repressive Forces",
+        "description:en": "Deployment of armed forces along with a Toyota Hilux vehicle and a DShK machine gun",
+        "city:en": "Khorramabad",
+        "province:en": "Lorestan",
+        "id": "MzY6ZWNjM2NlOWZjYWFi",
+        "publicId": "MzY6ZWNjM2NlOWZjYWFi",
+        "sourceId": "ecc3ce9fcaab",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T02:55:54.554Z",
+        "updatedAt": "2026-08-15T02:55:54.554Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94436,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35387036204338,
+          33.503307547074826
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار نیروهای سرکوب",
+        "city": "خرم آباد",
+        "province": "استان لرستان",
+        "date": 1786748668,
+        "description": "استقرار خودروی زرهی و بیش از ۱۰ نیرو با ادوات سنگین مانند دوشکا و تیربار PK در اطراف میدان.",
+        "sources": "",
+        "name:en": "Deployment of Repressive Forces",
+        "description:en": "Deployment of an armored vehicle and over 10 personnel with heavy equipment such as a DShK and PK machine gun around the square.",
+        "city:en": "Khorramabad",
+        "province:en": "Lorestan",
+        "id": "MzY6ZjdiNGIxODcyMTgy",
+        "publicId": "MzY6ZjdiNGIxODcyMTgy",
+        "sourceId": "f7b4b1872182",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T02:57:49.608Z",
+        "updatedAt": "2026-08-15T02:57:49.608Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41416070982814,
+          35.579302269793004
+        ]
+      },
+      "properties": {
+        "name:fa": "نیروهای نوپو",
+        "city": "شهرستان ری",
+        "province": "استان تهران",
+        "date": 1786741504,
+        "description": "محل پارک نیروهای نوپو و خودروهای ضد شورش در هنگام اعتراضات",
+        "sources": "",
+        "name:en": "NOPO Forces",
+        "description:en": "Parking location for NOPO forces and anti-riot vehicles during protests",
+        "city:en": "Rey",
+        "province:en": "Tehran",
+        "id": "MzY6NGEwYzExYzg3ZjNm",
+        "publicId": "MzY6NGEwYzExYzg3ZjNm",
+        "sourceId": "4a0c11c87f3f",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T03:02:36.398Z",
+        "updatedAt": "2026-08-15T03:02:36.398Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.71158708895291,
+          35.9684601505074
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "مهستان",
+        "province": "استان البرز",
+        "date": 1786796676,
+        "description": "محل ایست بازرسی نیروهای حکومتی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Location of a government forces checkpoint",
+        "city:en": "Mehestan",
+        "province:en": "Alborz",
+        "id": "MzY6ZmNkM2U2MjAzZDlj",
+        "publicId": "MzY6ZmNkM2U2MjAzZDlj",
+        "sourceId": "fcd3e6203d9c",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T15:23:50.702Z",
+        "updatedAt": "2026-08-15T15:23:57.688Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94442,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.71581121534109,
+          35.98852698665371
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار بسیج",
+        "city": "مهستان",
+        "province": "استان البرز",
+        "date": 1786796785,
+        "description": "در زمان جنگ این مدرسه تعطیل شد و به پایگاه بسیج تبدیل شده بود.",
+        "sources": "",
+        "name:en": "Basij Deployment",
+        "description:en": "During the war, this school was closed and converted into a Basij base.",
+        "city:en": "Mahestan",
+        "province:en": "Alborz",
+        "id": "MzY6ZGI5MTRmNzQyMWZk",
+        "publicId": "MzY6ZGI5MTRmNzQyMWZk",
+        "sourceId": "db914f7421fd",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T15:32:09.114Z",
+        "updatedAt": "2026-08-15T15:32:09.114Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94443,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.52963215485215,
+          35.73507982308641
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حامیان رژیم",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1786803473,
+        "description": "تجمع شبانه حامیان رژیم و پرچم‌گردانی",
+        "sources": "",
+        "name:en": "Rally of Regime Supporters",
+        "description:en": "Nighttime gathering of regime supporters and flag-waving",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6NDBhYzdlY2MzYjVi",
+        "publicId": "MzY6NDBhYzdlY2MzYjVi",
+        "sourceId": "40ac7ecc3b5b",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T15:33:14.953Z",
+        "updatedAt": "2026-08-15T15:33:14.953Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94446,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.21086370944977,
+          36.581650107853605
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه پدافند هوایی",
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "date": 1786824071,
+        "description": "در طول جنگ صدای پدافند و شلیک پدافند از این پایگاه دیده و شنیده شده.",
+        "sources": "",
+        "name:en": "Air Defense Base",
+        "description:en": "During the war, the sound of air defense and air defense firing were seen and heard from this base.",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "MzY6NGQxOTNlYTAxM2Yw",
+        "publicId": "MzY6NGQxOTNlYTAxM2Yw",
+        "sourceId": "4d193ea013f0",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-15T21:06:05.296Z",
+        "updatedAt": "2026-08-15T21:06:05.296Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94460,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.28142389655113,
+          38.20253768745334
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع یگان ویژه",
+        "city": "اردبیل",
+        "province": "استان اردبیل",
+        "date": 1786831293,
+        "description": "محل تجمع یگان ویژه",
+        "sources": "",
+        "name:en": "Special Unit Assembly",
+        "description:en": "Gathering location of the Special Unit",
+        "city:en": "Ardabil",
+        "province:en": "Ardabil",
+        "id": "MzY6MTAxNDM1NjZlYTJi",
+        "publicId": "MzY6MTAxNDM1NjZlYTJi",
+        "sourceId": "10143566ea2b",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-16T00:10:29.439Z",
+        "updatedAt": "2026-08-16T00:10:45.744Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.292191959917545,
+          38.243451748828875
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع یگان‌های ویژه",
+        "city": "اردبیل",
+        "province": "استان اردبیل",
+        "date": 1786830985,
+        "description": "محل تجمع یگان‌های سرکوب هنگام اعتراضات",
+        "sources": "",
+        "name:en": "Special Units Staging Area",
+        "description:en": "Gathering location for suppression units during protests",
+        "city:en": "Ardabil",
+        "province:en": "Ardabil",
+        "id": "MzY6YzQ3Mzc5M2M5MjBi",
+        "publicId": "MzY6YzQ3Mzc5M2M5MjBi",
+        "sourceId": "c473793c920b",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-16T00:11:27.003Z",
+        "updatedAt": "2026-08-16T00:11:27.003Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46402817219496,
+          35.737023511675275
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع عوامل سرکوب",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1786817922,
+        "description": "مسجد محل جلسات و تجمع عوامل سرکوب در محله مجیدیه در دی ماه ۱۴۰۴",
+        "sources": "",
+        "name:en": "Gathering of Repressive Forces",
+        "description:en": "A mosque used as a meeting and gathering place for repressive forces in the Majidieh neighborhood in Dey 1404 (December 2025–January 2026).",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6YWI0MzRmMzc0MmI1",
+        "publicId": "MzY6YWI0MzRmMzc0MmI1",
+        "sourceId": "ab434f3742b5",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-16T00:14:27.716Z",
+        "updatedAt": "2026-08-16T00:14:27.716Z"
+      }
     }
   ],
   "metadata": {
-    "total": 646,
+    "total": 657,
     "layerId": 36,
     "clustered": false,
     "simplified": false
