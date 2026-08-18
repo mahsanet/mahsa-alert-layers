@@ -11491,40 +11491,6 @@
     },
     {
       "type": "Feature",
-      "id": 92948,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.285310053847695,
-          38.07119693593606
-        ]
-      },
-      "properties": {
-        "name:fa": "استقرار نیروهای بسیج",
-        "city": "تبریز",
-        "province": "استان آذربایجان شرقی",
-        "date": 1775495577,
-        "description": "محل استقرار نیروهای بسیج و نیروهای سرکوب در تعداد زیاد",
-        "sources": "",
-        "name:en": "Deployment of Basij Forces",
-        "description:en": "Deployment location of a large number of Basij forces and repressive forces.",
-        "city:en": "Tabriz",
-        "province:en": "East Azerbaijan",
-        "id": "MzY6Njg1MWU3Nzc4ZTIx",
-        "publicId": "MzY6Njg1MWU3Nzc4ZTIx",
-        "sourceId": "6851e7778e21",
-        "layerId": 36,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-04-06T19:04:22.746Z",
-        "updatedAt": "2026-07-21T21:34:31.763Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92950,
       "geometry": {
         "type": "Point",
@@ -21773,10 +21739,175 @@
         "createdAt": "2026-08-16T00:14:27.716Z",
         "updatedAt": "2026-08-16T00:14:27.716Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.98074377110538,
+          26.54705634380518
+        ]
+      },
+      "properties": {
+        "name:fa": "توقیف نفتکش اماراتی",
+        "city": "",
+        "province": "",
+        "date": 1786653000,
+        "description": "به گزارش جهان نیوز، داده ناوبری دریایی، توقیف یک نفتکش اماراتی در تنگه هرمز را تایید کرد.\n \nطبق ترتیبات ایران برای عبور امن از تنگه هرمز، مسیر یکی از شروط است و پرداخت بهای خدمات و اجازه ایران از دیگر شروطی است که نفتکش‌ها باید رعایت کنند.\n \nنفتکش امارات در نزدیکی قشم متوقف شده است.",
+        "sources": "https://x.com/mhmiranusa/status/2089383334988116226?s=20",
+        "name:en": "Seizure of an Emirati Oil Tanker",
+        "description:en": "According to Jahan News, maritime navigation data has confirmed the seizure of an Emirati oil tanker in the Strait of Hormuz.\n \nUnder Iran's arrangements for safe passage through the Strait of Hormuz, following the designated route is one of the conditions, and paying service fees and obtaining Iran's permission are among other conditions that tankers must observe.\n \nThe Emirati tanker has been stopped near Qeshm.",
+        "id": "MzY6N2Q5ZjJhOThjYzcz",
+        "publicId": "MzY6N2Q5ZjJhOThjYzcz",
+        "sourceId": "7d9f2a98cc73",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T19:02:14.628Z",
+        "updatedAt": "2026-08-17T19:02:54.361Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94472,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.285344902426004,
+          38.0710710833101
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سرکوب",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "date": 1786890600,
+        "description": "محل تجمع نیروهای سرکوب، به طور تقریبی ۷ نفر و ۵ موتور (۲۵ مرداد ۱۴۰۵، ساعت ۱۸)",
+        "sources": "",
+        "name:en": "Gathering of Repressive Forces",
+        "description:en": "Gathering location of repressive forces, approximately 7 individuals and 5 motorcycles (25 Mordad 1405, 18:00)",
+        "city:en": "Tabriz",
+        "province:en": "East Azerbaijan",
+        "id": "MzY6MzYwZmJkZGZhYWNi",
+        "publicId": "MzY6MzYwZmJkZGZhYWNi",
+        "sourceId": "360fbddfaacb",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T20:26:37.822Z",
+        "updatedAt": "2026-08-17T20:26:37.822Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94477,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.917266,
+          36.375699
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی شاهرود",
+        "description": "ایست و بازرسی نیروی انتظامی شهرستان شاهرود جهت کشف اسلحه و مهمات جنگی",
+        "date": 1786995795,
+        "city": "شاهرود",
+        "province": "استان سمنان",
+        "name:en": "Shahroud Checkpoint",
+        "description:en": "Law Enforcement Command checkpoint in Shahroud County for discovering weapons and military ammunition.",
+        "city:en": "Shahroud",
+        "province:en": "Semnan",
+        "id": "MzY6YzQyMjQ1OGYzOWZk",
+        "publicId": "MzY6YzQyMjQ1OGYzOWZk",
+        "sourceId": "c422458f39fd",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T22:14:05.350Z",
+        "updatedAt": "2026-08-17T22:14:05.350Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.976799,
+          36.444195
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی سپاه شاهرود",
+        "description": "ایست و بازرسی سپاه پاسداران شاهرود جهت بازرسی از خودروهای منطقه و کشف اسلحه، مشروبات الکلی و مهمات جنگی.",
+        "date": 1786995665,
+        "city": "شاهرود",
+        "province": "استان سمنان",
+        "name:en": "Shahroud IRGC Checkpoint",
+        "description:en": "Islamic Revolutionary Guard Corps checkpoint in Shahroud for inspecting regional vehicles and discovering weapons, alcoholic beverages, and military ammunition.",
+        "city:en": "Shahroud",
+        "province:en": "Semnan",
+        "id": "MzY6YTY0ZDliNGE3ZjYx",
+        "publicId": "MzY6YTY0ZDliNGE3ZjYx",
+        "sourceId": "a64d9b4a7f61",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T22:14:05.483Z",
+        "updatedAt": "2026-08-17T22:14:05.483Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6642045349968,
+          32.69569598639322
+        ]
+      },
+      "properties": {
+        "name:fa": "محل جمع‌آوری اطلاعات رفت‌وآمد",
+        "description": "در اینجا به بهانه چای نذری اطلاعات رفت و آمد مردم را جمع آوری می‌کنند",
+        "date": 1786969014,
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "name:en": "Movement Information Collection Point",
+        "description:en": "Here, under the pretext of offering votive tea, they collect information on people's movements.",
+        "city:en": "Isfahan",
+        "province:en": "Isfahan",
+        "id": "MzY6MTY1MzFkY2MwYjYz",
+        "publicId": "MzY6MTY1MzFkY2MwYjYz",
+        "sourceId": "16531dcc0b63",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T22:14:05.592Z",
+        "updatedAt": "2026-08-17T22:14:05.592Z"
+      }
     }
   ],
   "metadata": {
-    "total": 657,
+    "total": 661,
     "layerId": 36,
     "clustered": false,
     "simplified": false

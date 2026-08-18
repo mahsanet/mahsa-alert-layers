@@ -72905,10 +72905,112 @@
         "createdAt": "2026-08-11T14:11:33.594Z",
         "updatedAt": "2026-08-11T14:11:33.594Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94470,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49971901252866,
+          36.367318974316035
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج صاحب الزمان",
+        "unofficial_name:fa": "",
+        "description": "ساختمان بسیج مسجد صاحب الزمان",
+        "date": 1786843272,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Saheb ol-Zaman Basij",
+        "description:en": "Basij building of Saheb ol-Zaman Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTo5M2QxYWZhYmI4ZjE",
+        "publicId": "MTo5M2QxYWZhYmI4ZjE",
+        "sourceId": "93d1afabb8f1",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T20:24:51.915Z",
+        "updatedAt": "2026-08-17T20:24:51.915Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94471,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.57491270452738,
+          29.859265871816547
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج گردان ۲۰۶ عشایری",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج گردان ۲۰۶ عشایری",
+        "date": 1786981130,
+        "city": "شهرستان کازرون",
+        "province": "استان فارس",
+        "name:en": "Basij 206th Nomadic Battalion",
+        "description:en": "Basij base of the 206th Nomadic Battalion",
+        "city:en": "Kazerun County",
+        "province:en": "Fars",
+        "id": "MTpiMTUwN2ZhYjdjNTA",
+        "publicId": "MTpiMTUwN2ZhYjdjNTA",
+        "sourceId": "b1507fab7c50",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T20:25:32.065Z",
+        "updatedAt": "2026-08-17T20:25:32.065Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94475,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.07270582765341,
+          36.5107786113531
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج",
+        "date": 1786856437,
+        "city": "بالادزا",
+        "province": "استان مازندران",
+        "name:en": "Basij Base",
+        "description:en": "Basij Resistance Base",
+        "city:en": "Baladza",
+        "province:en": "Mazandaran",
+        "id": "MToyZTg4MzQ1ZWVmNDc",
+        "publicId": "MToyZTg4MzQ1ZWVmNDc",
+        "sourceId": "2e88345eef47",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T20:32:45.445Z",
+        "updatedAt": "2026-08-17T20:32:45.445Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2216,
+    "total": 2219,
     "layerId": 1,
     "clustered": false,
     "simplified": false

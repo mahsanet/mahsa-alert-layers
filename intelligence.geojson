@@ -13540,11 +13540,11 @@
       },
       "properties": {
         "unofficial_name:fa": "اطلاعات سپاه",
-        "description": "دانشگاه اطلاعات سپاه بیش از ۲۰هزار نفر نیرو. کل محوطه ۳هکتار.",
+        "description": "دانشگاه اطلاعات سپاه بیش از ۲۰هزار نفر نیرو. کل محوطه ۳هکتار. کل این ساختمان‌های سپاه دارای پارکینگ منفی ۹ بوده و محل ذخیره ادوات، تجهیزات و سلاح در زمان اعتراضات و جنگ است. محوطه شامل ۱۰ مجتمع ۱۲ طبقه و سالن‌های بزرگ به مساحت ۵ هکتار می‌باشد.",
         "date": "",
         "city": "تهران",
         "province": "استان تهران",
-        "description:en": "IRGC Intelligence University, over 20,000 personnel. Total area 3 hectares.",
+        "description:en": "IRGC Intelligence University, over 20,000 personnel. The total area is 3 hectares. All of these IRGC buildings have a level -9 basement parking and serve as a storage site for tools, equipment, and weapons during protests and war. The site includes 10 12-story complexes and large halls with an area of 5 hectares.",
         "city:en": "Tehran",
         "province:en": "Tehran",
         "id": "MjozMWZjNjRiZWVlZDU",
@@ -13557,7 +13557,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-08-14T18:12:06.347Z",
-        "updatedAt": "2026-08-14T18:12:06.347Z"
+        "updatedAt": "2026-08-17T20:27:38.897Z"
       }
     },
     {

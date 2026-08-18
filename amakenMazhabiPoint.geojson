@@ -174643,10 +174643,75 @@
         "createdAt": "2026-08-16T00:15:24.875Z",
         "updatedAt": "2026-08-16T00:15:24.875Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49940603226423,
+          36.36700998718268
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد صاحب الزمان",
+        "description": "تجمعات نیروهای حکومت از مسجد الصاحب الزمان تا سر کوچه",
+        "date": 1786843210,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Saheb Al-Zaman Mosque",
+        "description:en": "Gatherings of government forces from the Saheb Al-Zaman Mosque to the corner of the alley",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDpmNjM0MTk5OTJlYjA",
+        "publicId": "NDpmNjM0MTk5OTJlYjA",
+        "sourceId": "f63419992eb0",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T20:24:19.401Z",
+        "updatedAt": "2026-08-17T20:24:19.401Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94476,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.07248356692955,
+          36.51052113404694
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه",
+        "description": "",
+        "date": "",
+        "city": "بالادزا",
+        "province": "استان مازندران",
+        "name:en": "Hosseiniyeh",
+        "city:en": "Baladaza",
+        "province:en": "Mazandaran",
+        "id": "NDo3Y2M2OWExMzQ4NDE",
+        "publicId": "NDo3Y2M2OWExMzQ4NDE",
+        "sourceId": "7cc69a134841",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T20:33:07.542Z",
+        "updatedAt": "2026-08-17T20:33:18.205Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5623,
+    "total": 5625,
     "layerId": 4,
     "clustered": false,
     "simplified": false

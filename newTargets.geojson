@@ -29005,10 +29005,46 @@
         "createdAt": "2026-08-14T13:32:08.999Z",
         "updatedAt": "2026-08-14T13:32:08.999Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94474,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.02260664105415,
+          35.75133069646998
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله موشکی",
+        "unofficial_name:fa": "",
+        "date": 1771705800,
+        "geolocates": "",
+        "description": "محل اصابت موشک هوا به زمین در جنگ چهل روزه، انبار احتمالی برنامه موشکی سپاه",
+        "city": "شهرستان فردیس",
+        "province": "استان البرز",
+        "sources": "",
+        "name:en": "Missile Attack",
+        "description:en": "Location of an air-to-surface missile strike during the Forty-Day War, suspected warehouse for the IRGC missile program",
+        "city:en": "Fardis County",
+        "province:en": "Alborz",
+        "id": "MzI6ZmNiZjBjMmFjOTY4",
+        "publicId": "MzI6ZmNiZjBjMmFjOTY4",
+        "sourceId": "fcbf0c2ac968",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T20:31:08.825Z",
+        "updatedAt": "2026-08-17T20:31:08.825Z"
+      }
     }
   ],
   "metadata": {
-    "total": 841,
+    "total": 842,
     "layerId": 32,
     "clustered": false,
     "simplified": false

@@ -48673,10 +48673,42 @@
         "createdAt": "2026-08-03T18:45:20.362Z",
         "updatedAt": "2026-08-03T18:45:20.362Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94473,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.393605433404446,
+          35.680335260873065
+        ]
+      },
+      "properties": {
+        "name": "دادستانی ویژه روحانیت",
+        "description": "دادستانی ویژه روحانیت، مقر اصلی اطلاعاتی‌های سپاه",
+        "date": 1786815157,
+        "city": "تهران",
+        "province": "استان تهران",
+        "description:en": "Special Court for the Clergy, main headquarters of IRGC intelligence personnel",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzQ6Y2U2M2I1MGNiNWEy",
+        "publicId": "MzQ6Y2U2M2I1MGNiNWEy",
+        "sourceId": "ce63b50cb5a2",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T20:29:28.946Z",
+        "updatedAt": "2026-08-17T20:29:28.946Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1411,
+    "total": 1412,
     "layerId": 34,
     "clustered": false,
     "simplified": false

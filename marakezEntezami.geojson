@@ -153045,37 +153045,6 @@
     },
     {
       "type": "Feature",
-      "id": 89374,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.5915064,
-          29.8498647
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NzY0OQ",
-        "city": "قائمیه",
-        "osm_id": "",
-        "name:fa": "پاسگاه نیروی انتظامی",
-        "province": "استان فارس",
-        "name:en": "Law Enforcement Post",
-        "city:en": "Qaemiyeh",
-        "province:en": "Fars",
-        "publicId": "Mzo2NzY0OQ",
-        "sourceId": "67649",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:08.029Z",
-        "updatedAt": "2026-03-13T04:41:08.029Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 89375,
       "geometry": {
         "type": "Point",
@@ -189645,7 +189614,7 @@
     }
   ],
   "metadata": {
-    "total": 6076,
+    "total": 6075,
     "layerId": 3,
     "clustered": false,
     "simplified": false
