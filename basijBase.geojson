@@ -73007,10 +73007,44 @@
         "createdAt": "2026-08-17T20:32:45.445Z",
         "updatedAt": "2026-08-17T20:32:45.445Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94481,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.45227316394448,
+          29.667633654862797
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "حوزه مقاومت بسیج فعال در اعتراضات از ۹۸ تا ۴۰۴",
+        "date": 1787040198,
+        "city": "شیراز",
+        "province": "استان فارس",
+        "name:en": "Basij Resistance Headquarters",
+        "description:en": "Basij Resistance Headquarters active in protests from 98 to 404",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "id": "MTphNDk0MDg0ODRiNzA",
+        "publicId": "MTphNDk0MDg0ODRiNzA",
+        "sourceId": "a49408484b70",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-18T14:41:27.273Z",
+        "updatedAt": "2026-08-18T14:41:27.273Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2219,
+    "total": 2220,
     "layerId": 1,
     "clustered": false,
     "simplified": false

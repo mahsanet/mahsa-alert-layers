@@ -29041,10 +29041,118 @@
         "createdAt": "2026-08-17T20:31:08.825Z",
         "updatedAt": "2026-08-17T20:31:08.825Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94480,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.589877154678106,
+          33.524601272568276
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اصابت به فراجا",
+        "unofficial_name:fa": "",
+        "date": 1772978100,
+        "geolocates": "",
+        "description": "ستاد مرکزی فراجای شهرستان کوهدشت که در تاریخ ۱۷ اسفند ۱۴۰۴ ساعت ۱۷:۲۵ مورد اصابت قرار گرفت",
+        "city": "كوهدشت",
+        "province": "استان لرستان",
+        "sources": "",
+        "name:en": "Strike on Faraja",
+        "description:en": "The central headquarters of Faraja in Kuhdasht County, which was struck on March 8, 2026, at 17:25.",
+        "city:en": "Kuhdasht",
+        "province:en": "Lorestan",
+        "id": "MzI6NGM1NmVmNmMwOTEw",
+        "publicId": "MzI6NGM1NmVmNmMwOTEw",
+        "sourceId": "4c56ef6c0910",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-18T14:40:07.519Z",
+        "updatedAt": "2026-08-18T14:40:07.519Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94482,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44996602088213,
+          35.63779309985178
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به کلانتری",
+        "unofficial_name:fa": "",
+        "date": 1773261000,
+        "geolocates": "",
+        "description": "زمان جنگ کلانتری کیانشهر مورد هدف قرار گرفت.",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "name:en": "Attack on Police Station",
+        "description:en": "During the war, the Kianshahr police station was targeted.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzI6ZDIyNjIwMDZhMmQ3",
+        "publicId": "MzI6ZDIyNjIwMDZhMmQ3",
+        "sourceId": "d2262006a2d7",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-18T14:44:23.178Z",
+        "updatedAt": "2026-08-18T14:44:23.178Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94483,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.45843593403697,
+          35.64409950421317
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اصابت به سالن یگان",
+        "unofficial_name:fa": "",
+        "date": 1773174600,
+        "geolocates": "",
+        "description": "زمان جنگ مورد هدف قرار گرفته، این سالن محل نیروهای یگان بوده است.",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "name:en": "Strike on the Unit Hall",
+        "description:en": "Targeted during the war, this hall was the location of unit forces.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzI6ZDY5Y2YzNWYxMzQ2",
+        "publicId": "MzI6ZDY5Y2YzNWYxMzQ2",
+        "sourceId": "d69cf35f1346",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-18T14:46:32.622Z",
+        "updatedAt": "2026-08-18T14:46:32.622Z"
+      }
     }
   ],
   "metadata": {
-    "total": 842,
+    "total": 845,
     "layerId": 32,
     "clustered": false,
     "simplified": false
