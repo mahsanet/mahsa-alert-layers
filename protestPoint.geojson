@@ -9729,10 +9729,45 @@
         "createdAt": "2026-07-24T23:43:38.794Z",
         "updatedAt": "2026-07-24T23:43:38.794Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94487,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.96673778758935,
+          36.42387073642725
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تیراندازی به معترضان",
+        "date": 1768249800,
+        "sources": "",
+        "geolocates": "",
+        "description": "شلیک به سمت مردم در قیام دی‌ماه از بالای مجتمع تجاری اردکانی واقع در خیابان امام خمینی شاهرود.",
+        "city": "شاهرود",
+        "province": "استان سمنان",
+        "name:en": "Shooting at Protesters",
+        "description:en": "Firing at people during the Dey uprising from the top of the Ardakani Commercial Complex located on Imam Khomeini Street in Shahroud.",
+        "city:en": "Shahroud",
+        "province:en": "Semnan",
+        "id": "MTU6NzI1YTg3YjllMTdi",
+        "publicId": "MTU6NzI1YTg3YjllMTdi",
+        "sourceId": "725a87b9e17b",
+        "layerId": 15,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-19T17:23:00.237Z",
+        "updatedAt": "2026-08-19T17:23:00.237Z"
+      }
     }
   ],
   "metadata": {
-    "total": 287,
+    "total": 288,
     "layerId": 15,
     "clustered": false,
     "simplified": false

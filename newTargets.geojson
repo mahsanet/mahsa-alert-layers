@@ -29149,10 +29149,46 @@
         "createdAt": "2026-08-18T14:46:32.622Z",
         "updatedAt": "2026-08-18T14:46:32.622Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50336679071188,
+          35.731461474970345
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به سپاه",
+        "unofficial_name:fa": "",
+        "date": 1772483400,
+        "geolocates": "",
+        "description": "در روز سوم جنگ ۴۰ روزه هدف قرار گرفت که زیرساخت نظامی سپاه بود و هنوز از نظر ظاهری تغییری نکرده است.",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "name:en": "Attack on the IRGC",
+        "description:en": "Targeted on the third day of the 40-day war, this was an IRGC military infrastructure and visually has not changed yet.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzI6Y2E3OTQwNjdjZTQw",
+        "publicId": "MzI6Y2E3OTQwNjdjZTQw",
+        "sourceId": "ca794067ce40",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-19T17:19:32.371Z",
+        "updatedAt": "2026-08-19T17:19:32.371Z"
+      }
     }
   ],
   "metadata": {
-    "total": 845,
+    "total": 846,
     "layerId": 32,
     "clustered": false,
     "simplified": false

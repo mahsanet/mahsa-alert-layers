@@ -2331,10 +2331,82 @@
         "createdAt": "2026-04-02T12:39:57.793Z",
         "updatedAt": "2026-04-02T12:39:57.793Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94484,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.40244700014591,
+          35.709793806444154
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اصابت در جنگ ۱۲ روزه",
+        "unofficial_name:fa": "",
+        "date": 1750105800,
+        "geolocates": "",
+        "sources": "",
+        "description": "محل اصابت در جنگ دوازده روزه و تخریب کامل منازل کوچه",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Impact location in the 12-day war",
+        "description:en": "Impact location during the twelve-day war and complete destruction of homes in the alley",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTM6YmIzNzk4ZDJmMzYz",
+        "publicId": "MTM6YmIzNzk4ZDJmMzYz",
+        "sourceId": "bb3798d2f363",
+        "layerId": 13,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-19T17:15:22.538Z",
+        "updatedAt": "2026-08-19T17:15:22.538Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94485,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50418218225241,
+          35.73168533016039
+        ]
+      },
+      "properties": {
+        "name:fa": "حمله هوایی",
+        "unofficial_name:fa": "",
+        "date": 1750021200,
+        "geolocates": "",
+        "sources": "",
+        "description": "جنگ دوازده روزه، روز چهارم ساعت ۱۲:۳۰ شب با جنگنده اینجا را زدند",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Airstrike",
+        "description:en": "Twelve-Day War, fourth day at 12:30 AM, they struck this place with a fighter jet.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTM6MGVjYmZhNjA5NDEw",
+        "publicId": "MTM6MGVjYmZhNjA5NDEw",
+        "sourceId": "0ecbfa609410",
+        "layerId": 13,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-19T17:18:00.470Z",
+        "updatedAt": "2026-08-19T17:18:00.470Z"
+      }
     }
   ],
   "metadata": {
-    "total": 71,
+    "total": 73,
     "layerId": 13,
     "clustered": false,
     "simplified": false
