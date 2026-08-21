@@ -21904,10 +21904,42 @@
         "createdAt": "2026-08-17T22:14:05.592Z",
         "updatedAt": "2026-08-17T22:14:05.592Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.42713870445803,
+          29.24262592623269
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نفتکش‌ها",
+        "city": "",
+        "province": "",
+        "date": 1787085000,
+        "description": "تجمع نفتکش‌های ج.ا در اطراف جزیره خارک: در تصاویر مربوط به روز گذشته، ۲۸ مرداد ۱۴۰۵، چندین نفتکش ج.ا در اطراف خارک دیده میشوند؛ در حالی که هیچ‌کدام در اسکله مشغول بارگیری نیستند.",
+        "sources": "https://t.me/hodinews/21487",
+        "name:en": "Gathering of Oil Tankers",
+        "description:en": "Concentration of Islamic Republic oil tankers around Kharg Island: In images from yesterday, Mordad 28, 1405, several I.R. oil tankers are visible around Kharg, while none of them are loading at the pier.",
+        "id": "MzY6YWZkMmEwMDEzYWIx",
+        "publicId": "MzY6YWZkMmEwMDEzYWIx",
+        "sourceId": "afd2a0013ab1",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-20T19:39:44.265Z",
+        "updatedAt": "2026-08-20T19:39:44.265Z"
+      }
     }
   ],
   "metadata": {
-    "total": 661,
+    "total": 662,
     "layerId": 36,
     "clustered": false,
     "simplified": false
