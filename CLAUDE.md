@@ -23,7 +23,7 @@ The automated publisher already commits with this identity; manual commits must 
 Public open-data repo (CC BY 4.0) — no code. It holds:
 
 - **~35 GeoJSON files at the root**, one `FeatureCollection` per map layer (`newTargets`, `basijBase`, `cameraPoint`, …).
-- **`state.json`** — publish manifest: `lastUpdated` plus per-layer git blob SHA.
+- **`state.json`** — publish manifest: `lastUpdated`, a monotonic `serial` (opaque publish serial number), plus per-layer git blob SHA.
 - **`README.md`** — the feature schema and layer catalog.
 
 ## How it gets updated — do NOT hand-edit the data

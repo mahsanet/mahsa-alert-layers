@@ -13,17 +13,20 @@ hospital.geojson
 ...
 ```
 
-`state.json` is the manifest. It records the last publish time and a content hash per layer, so you can tell what changed without diffing the (large) GeoJSON files:
+`state.json` is the manifest. It records the last publish time, a monotonic publish serial, and a content hash per layer, so you can tell what changed without diffing the (large) GeoJSON files:
 
 ```json
 {
   "lastUpdated": "2026-06-12T02:00:02.872Z",
+  "serial": 2954,
   "layers": {
     "newTargets": "089af4c5539a5cfe0aac34c9d2bb133c656c18b5",
     "militaryBase": "4abf0118f21ed07f0940fd15c929b3deb71e14ec"
   }
 }
 ```
+
+`serial` is an opaque, strictly increasing dataset serial number (in the spirit of a DNS SOA serial). Consumers can use it to order snapshots; it carries no other public meaning.
 
 Commit history is the change log: each daily export lands as a `data: YYYY-MM-DD (N layers changed)` commit touching only the layers that moved that day.
 
