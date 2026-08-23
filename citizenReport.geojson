@@ -1787,14 +1787,11 @@
       },
       "properties": {
         "name:fa": "ایست بازرسی",
-        "date": 1773174600,
-        "description": "محل استقرار لباس شخصی در کانتینر",
         "city": "تهران",
         "province": "استان تهران",
-        "name:en": "Checkpoint",
-        "description:en": "Deployment location of plainclothes forces in a container",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
+        "date": 1773174600,
+        "description": "محل استقرار لباس شخصی در کانتینر پلیس",
+        "sources": "",
         "id": "MzY6YzhhM2I5ZTY5NGFk",
         "publicId": "MzY6YzhhM2I5ZTY5NGFk",
         "sourceId": "c8a3b9e694ad",
@@ -1805,7 +1802,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-03-17T03:13:11.961Z",
-        "updatedAt": "2026-07-21T21:34:31.763Z"
+        "updatedAt": "2026-08-23T03:35:59.455Z"
       }
     },
     {
