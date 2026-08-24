@@ -1792,6 +1792,10 @@
         "date": 1773174600,
         "description": "محل استقرار لباس شخصی در کانتینر پلیس",
         "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Stationing location of plainclothes agents inside a police container",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
         "id": "MzY6YzhhM2I5ZTY5NGFk",
         "publicId": "MzY6YzhhM2I5ZTY5NGFk",
         "sourceId": "c8a3b9e694ad",
@@ -21933,10 +21937,78 @@
         "createdAt": "2026-08-20T19:39:44.265Z",
         "updatedAt": "2026-08-20T19:39:44.265Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94489,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.68288507470581,
+          35.96904129142824
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع و بستن راه",
+        "city": "هشتگرد",
+        "province": "استان تهران",
+        "date": 1787171400,
+        "description": "تجمع و بستن راه توسط افراد رژیم",
+        "sources": "",
+        "name:en": "Gathering and Road Closure",
+        "description:en": "Gathering and road closure by regime forces",
+        "city:en": "Hashtgerd",
+        "province:en": "Tehran",
+        "id": "MzY6NThhOTRjOTg1MTdk",
+        "publicId": "MzY6NThhOTRjOTg1MTdk",
+        "sourceId": "58a94c98517d",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-23T16:31:08.203Z",
+        "updatedAt": "2026-08-23T16:31:14.966Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94490,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.49469990283251,
+          35.62305905129699
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای بسیج",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1787257800,
+        "description": "گزارش کمین نیروهای بسیج و حضور افراد مسلح به کلاشنیکف در محله مشیریه",
+        "sources": "",
+        "name:en": "Gathering of Basij Forces",
+        "description:en": "Report of an ambush by Basij forces and the presence of individuals armed with Kalashnikovs in the Moshiriyeh neighborhood",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6MjU5YzZjNmFiOWFj",
+        "publicId": "MzY6MjU5YzZjNmFiOWFj",
+        "sourceId": "259c6c6ab9ac",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-23T16:32:31.367Z",
+        "updatedAt": "2026-08-23T16:32:31.367Z"
+      }
     }
   ],
   "metadata": {
-    "total": 662,
+    "total": 664,
     "layerId": 36,
     "clustered": false,
     "simplified": false

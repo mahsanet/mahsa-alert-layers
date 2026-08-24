@@ -594129,10 +594129,150 @@
         "createdAt": "2026-08-15T15:34:54.278Z",
         "updatedAt": "2026-08-15T15:35:01.526Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32712307665682,
+          29.199617087830404
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1787468923,
+        "addressDescription": "",
+        "description": "دوربین امنیتی هوش مصنوعی",
+        "city": "نی‌ریز",
+        "province": "استان فارس",
+        "name:en": "Security Camera",
+        "description:en": "AI security camera",
+        "city:en": "Neyriz",
+        "province:en": "Fars",
+        "id": "MjA6NTJiZmQ3YzUzZTgw",
+        "publicId": "MjA6NTJiZmQ3YzUzZTgw",
+        "sourceId": "52bfd7c53e80",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-23T16:33:51.113Z",
+        "updatedAt": "2026-08-23T16:33:57.362Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32760524428437,
+          29.199766539361363
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1787469051,
+        "addressDescription": "",
+        "description": "دوربین امنیتی هوش مصنوعی",
+        "city": "نی‌ریز",
+        "province": "استان فارس",
+        "name:en": "Security Camera",
+        "description:en": "AI security camera",
+        "city:en": "Neyriz",
+        "province:en": "Fars",
+        "id": "MjA6YzYwMGI2NzJhYjBj",
+        "publicId": "MjA6YzYwMGI2NzJhYjBj",
+        "sourceId": "c600b672ab0c",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-23T16:34:22.817Z",
+        "updatedAt": "2026-08-23T16:34:27.989Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32745033856244,
+          29.200141500173714
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1787469008,
+        "addressDescription": "",
+        "description": "دوربین امنیتی هوش مصنوعی",
+        "city": "نی‌ریز",
+        "province": "استان فارس",
+        "name:en": "Security Camera",
+        "description:en": "Artificial intelligence security camera",
+        "city:en": "Neyriz",
+        "province:en": "Fars",
+        "id": "MjA6Mzc1OWNiM2FhNmRh",
+        "publicId": "MjA6Mzc1OWNiM2FhNmRh",
+        "sourceId": "3759cb3aa6da",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-23T16:34:55.709Z",
+        "updatedAt": "2026-08-23T16:35:00.329Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32695816397526,
+          29.199887566890112
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1787468966,
+        "addressDescription": "",
+        "description": "دوربین امنیتی هوش مصنوعی",
+        "city": "نی‌ریز",
+        "province": "استان فارس",
+        "name:en": "Security Camera",
+        "description:en": "AI security camera",
+        "city:en": "Neyriz",
+        "province:en": "Fars",
+        "id": "MjA6NWY0MmMwZjVmMTNk",
+        "publicId": "MjA6NWY0MmMwZjVmMTNk",
+        "sourceId": "5f42c0f5f13d",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-23T16:35:17.448Z",
+        "updatedAt": "2026-08-23T16:35:24.675Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18559,
+    "total": 18563,
     "layerId": 20,
     "clustered": false,
     "simplified": false

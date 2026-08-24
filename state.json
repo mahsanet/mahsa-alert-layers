@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-23T03:36:05.850Z",
-  "serial": 2863,
+  "lastUpdated": "2026-08-24T02:00:05.942Z",
+  "serial": 2881,
   "layers": {
     "missilePrograms": "6de36af1ed7693726681649fd9f5a86f449c0d48",
     "targets": "e61d00a9e0a95d4c2015b16e4f9cd2d0e7ee282e",
@@ -25,7 +25,7 @@
     "marakezGhazayi": "856f3719a49f822de022979ca352b1db4d29032c",
     "unknownBase": "fa483978d3866497c2f2ddf2dd0a855a43813ae3",
     "hospital": "fcbf2f053f5e12dead95845b137077a7bd88d69b",
-    "citizenReport": "90cba74ca7537f0d013d85f23b208ac3d1243b63",
+    "citizenReport": "a564f73deded5fc352cd5249f89ffc5c07751f5b",
     "emergencyBase": "52b6f6abbb54c0c45ad97cd3cc23e9756a180957",
     "medicalClinic": "d0b90689c37e6454d3cf1b44fc46eaf28c427d71",
     "marakezEntezami": "60c7d92b4cc010ef40eee2256f1ee3ecec08025d",
@@ -35,6 +35,6 @@
     "amakenMazhabiPoint": "0b9eaed2bd61a8d5647cc31f0f7d0bbaf6e2d1a8",
     "chatroom": "6e056deda2068580cce5234e1153811ff41ad34e",
     "pharmacy": "2d558189415ddfeb576468d81d3a2b57a4937ac3",
-    "cameraPoint": "f62edcc972193a9d200cd454e34ee3fa10206dd6"
+    "cameraPoint": "e61ef7dc01d1efcda37a249ca213d72627e13255"
   }
 }
