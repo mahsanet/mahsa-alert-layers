@@ -594269,10 +594269,45 @@
         "createdAt": "2026-08-23T16:35:17.448Z",
         "updatedAt": "2026-08-23T16:35:24.675Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.594630151987076,
+          36.33007037124206
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1787580807,
+        "addressDescription": "",
+        "description": "دوربین مداربسته پاسگاه کلانتری شفا مشهد",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "CCTV camera of Shefa Police Station in Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6YzU4YTcxMjNjZWU1",
+        "publicId": "MjA6YzU4YTcxMjNjZWU1",
+        "sourceId": "c58a7123cee5",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-24T18:32:23.298Z",
+        "updatedAt": "2026-08-24T18:32:23.298Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18563,
+    "total": 18564,
     "layerId": 20,
     "clustered": false,
     "simplified": false

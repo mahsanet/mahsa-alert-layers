@@ -91245,10 +91245,76 @@
         "createdAt": "2026-08-11T14:03:33.432Z",
         "updatedAt": "2026-08-11T14:03:33.432Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61995581098461,
+          36.320889702168344
+        ]
+      },
+      "properties": {
+        "name:fa": "کمیته امداد",
+        "description": "کمیته امداد امام خمینی اداره ۳ مشهد",
+        "date": 1787579967,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Relief Committee",
+        "description:en": "Imam Khomeini Relief Committee, District 3 Office of Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6MzI4YjAyZjM0ZDk2",
+        "publicId": "MTc6MzI4YjAyZjM0ZDk2",
+        "sourceId": "328b02f34d96",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-24T17:49:46.349Z",
+        "updatedAt": "2026-08-24T17:49:54.799Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.47668135166168,
+          36.33460083405724
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز اسناد",
+        "description": "مرکز اسناد و کتابخانه ملی شمال شرق کشور",
+        "date": 1787579335,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Document Center",
+        "description:en": "Document Center and National Library of the Northeast of the Country",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6YTMxNTNmZDUzNDg4",
+        "publicId": "MTc6YTMxNTNmZDUzNDg4",
+        "sourceId": "a3153fd53488",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-24T18:34:46.759Z",
+        "updatedAt": "2026-08-24T18:34:46.759Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2377,
+    "total": 2379,
     "layerId": 17,
     "clustered": false,
     "simplified": false

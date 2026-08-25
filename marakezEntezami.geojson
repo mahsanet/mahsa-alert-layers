@@ -189611,10 +189611,75 @@
         "createdAt": "2026-08-16T00:13:26.861Z",
         "updatedAt": "2026-08-16T00:13:26.861Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.885984133929014,
+          34.65016527523561
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۳",
+        "description": "کلانتری ۱۳ تازه تأسیس، منتقل شده از خیابان ایستگاه",
+        "date": 1787573321,
+        "city": "قم",
+        "province": "استان قم",
+        "name:en": "Police Station 13",
+        "description:en": "Newly established Police Station 13, relocated from Istgah Street",
+        "city:en": "Qom",
+        "province:en": "Qom",
+        "id": "Mzo5MjRjNDRlYzZhYTM",
+        "publicId": "Mzo5MjRjNDRlYzZhYTM",
+        "sourceId": "924c44ec6aa3",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-24T18:30:30.977Z",
+        "updatedAt": "2026-08-24T18:30:30.977Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59431993232744,
+          36.33014010546346
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری شفا",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Shafa Police Station",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MzozZWU4NmZiM2IxZTQ",
+        "publicId": "MzozZWU4NmZiM2IxZTQ",
+        "sourceId": "3ee86fb3b1e4",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-24T18:32:54.701Z",
+        "updatedAt": "2026-08-24T18:32:54.701Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6075,
+    "total": 6077,
     "layerId": 3,
     "clustered": false,
     "simplified": false

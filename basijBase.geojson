@@ -73041,10 +73041,112 @@
         "createdAt": "2026-08-18T14:41:27.273Z",
         "updatedAt": "2026-08-18T14:41:27.273Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61845263501144,
+          36.32695603018365
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر بسیج",
+        "unofficial_name:fa": "",
+        "description": "دفتر مقاومت بسیج مدرسه شهید گلدوزان صفدری نژاد مشهد",
+        "date": 1787581169,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Office",
+        "description:en": "Basij Resistance Office of Shahid Goldouzan Safdarinejad School in Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTo5MTk3Njk0ZTJjZWQ",
+        "publicId": "MTo5MTk3Njk0ZTJjZWQ",
+        "sourceId": "9197694e2ced",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-24T17:29:09.832Z",
+        "updatedAt": "2026-08-24T17:29:14.630Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.457324355844804,
+          36.337611196295995
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج پادگان شهید برونسی سپاه امام رضا/بسیج عشایری",
+        "date": 1787580472,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Basij Resistance Base of Shahid Boronsi Garrison, Imam Reza Corps / Nomadic Basij",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTo4NTYwY2Y3MzgxOGM",
+        "publicId": "MTo4NTYwY2Y3MzgxOGM",
+        "sourceId": "8560cf73818c",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-24T17:41:12.310Z",
+        "updatedAt": "2026-08-24T17:41:18.553Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60720846197913,
+          36.297340340963046
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج شیخ فضل الله نوری",
+        "date": 1787579640,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Sheikh Fazlollah Nouri Basij Resistance Base",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTo3NzY3ZDNhMDU4MjI",
+        "publicId": "MTo3NzY3ZDNhMDU4MjI",
+        "sourceId": "7767d3a05822",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-24T17:54:20.107Z",
+        "updatedAt": "2026-08-24T17:54:26.864Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2220,
+    "total": 2223,
     "layerId": 1,
     "clustered": false,
     "simplified": false

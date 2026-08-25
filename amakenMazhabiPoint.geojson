@@ -174708,10 +174708,42 @@
         "createdAt": "2026-08-17T20:33:07.542Z",
         "updatedAt": "2026-08-17T20:33:18.205Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.607083648444274,
+          36.29726768957211
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد حوض لقمان",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Hoz-e Loghman Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo3ZmZkNDE1NDQwMWY",
+        "publicId": "NDo3ZmZkNDE1NDQwMWY",
+        "sourceId": "7ffd4154401f",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-24T17:55:16.581Z",
+        "updatedAt": "2026-08-24T17:55:16.581Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5625,
+    "total": 5626,
     "layerId": 4,
     "clustered": false,
     "simplified": false

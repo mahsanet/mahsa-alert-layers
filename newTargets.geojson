@@ -29185,10 +29185,42 @@
         "createdAt": "2026-08-19T17:19:32.371Z",
         "updatedAt": "2026-08-19T17:19:32.371Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.59777085654332,
+          26.32803139811236
+        ]
+      },
+      "properties": {
+        "name:fa": "حمله به نفتکش",
+        "city": "",
+        "province": "",
+        "date": 1787603100,
+        "description": "در ۲ شهریور ۱۴۰۵، حدود ساعت ۲۳:۵۵ به وقت ایران، در حمله‌ای پهپادی یا موشکی از سوی سپاه، یک پرتابه به اتاق موتور یک نفتکش در تنگه هرمز، حدود ۹ مایلی شمال‌شرق روستای الشیشه عمان، برخورد کرد. این برخورد نفتکش را از کار انداخته است. به خدمه آسیبی وارد نشده و میزان خسارت زیست‌محیطی در منطقه هنوز مشخص نیست.",
+        "sources": "https://x.com/mhmiranusa/status/2092027555394031682",
+        "name:en": "Attack on Oil Tanker",
+        "description:en": "On Shahrivar 2, 1405 (August 24, 2026), at around 23:55 Iran time, in a drone or missile attack by the IRGC, a projectile struck the engine room of an oil tanker in the Strait of Hormuz, about 9 miles northeast of the village of Al-Shishe in Oman. The strike disabled the tanker. The crew was not harmed, and the extent of environmental damage in the area is not yet known.",
+        "id": "MzI6ZmM2ZDRhZGViNjc4",
+        "publicId": "MzI6ZmM2ZDRhZGViNjc4",
+        "sourceId": "fc6d4adeb678",
+        "layerId": 32,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-24T23:45:42.384Z",
+        "updatedAt": "2026-08-24T23:46:13.508Z"
+      }
     }
   ],
   "metadata": {
-    "total": 846,
+    "total": 847,
     "layerId": 32,
     "clustered": false,
     "simplified": false
