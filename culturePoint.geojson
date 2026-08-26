@@ -91311,10 +91311,43 @@
         "createdAt": "2026-08-24T18:34:46.759Z",
         "updatedAt": "2026-08-24T18:34:46.759Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.633596278727055,
+          36.3234490231151
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره تأمین اجتماعی",
+        "description": "اداره تأمین اجتماعی شعبه ۶ مشهد",
+        "date": 1787664578,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Social Security Office",
+        "description:en": "Social Security Office Branch 6 of Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6MjZlZmRkN2JhODZm",
+        "publicId": "MTc6MjZlZmRkN2JhODZm",
+        "sourceId": "26efdd7ba86f",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:11:33.651Z",
+        "updatedAt": "2026-08-25T20:11:33.651Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2379,
+    "total": 2380,
     "layerId": 17,
     "clustered": false,
     "simplified": false

@@ -20790,35 +20790,6 @@
     },
     {
       "type": "Feature",
-      "id": 4547,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          59.6104277,
-          36.2669923
-        ]
-      },
-      "properties": {
-        "id": "MToxMjQwMg",
-        "city": "مشهد",
-        "province": "استان خراسان رضوی",
-        "unofficial_name:fa": "حوزه مقاومت بسیج ۷ مقداد",
-        "city:en": "Mashhad",
-        "province:en": "Razavi Khorasan",
-        "publicId": "MToxMjQwMg",
-        "sourceId": "12402",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:52.660Z",
-        "updatedAt": "2026-03-11T20:52:52.660Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 4548,
       "geometry": {
         "type": "Point",
@@ -73143,10 +73114,206 @@
         "createdAt": "2026-08-24T17:54:20.107Z",
         "updatedAt": "2026-08-24T17:54:26.864Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.43147588893771,
+          32.29856814260687
+        ]
+      },
+      "properties": {
+        "name:fa": "ناحیه بسیج",
+        "unofficial_name:fa": "",
+        "description": "ناحیه بسیج مسلم بن عقیل",
+        "date": 1787687930,
+        "city": "شمس آباد",
+        "province": "استان خوزستان",
+        "name:en": "Basij District",
+        "description:en": "Moslem Ibn Aqil Basij District",
+        "city:en": "Shamsabad",
+        "province:en": "Khuzestan",
+        "id": "MTpkN2VjYmIzYTNkZDA",
+        "publicId": "MTpkN2VjYmIzYTNkZDA",
+        "sourceId": "d7ecbb3a3dd0",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:04:48.516Z",
+        "updatedAt": "2026-08-25T20:04:48.516Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61869040504098,
+          36.317915404883706
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج",
+        "date": 1787665112,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Basij Resistance Base",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTpkYjAxZDRmZDliMzI",
+        "publicId": "MTpkYjAxZDRmZDliMzI",
+        "sourceId": "db01d4fd9b32",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:08:49.866Z",
+        "updatedAt": "2026-08-25T20:08:49.866Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63296612724662,
+          36.3215078644737
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج شهید موسوی",
+        "date": 1787664511,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Resistance Base",
+        "description:en": "Shahid Mousavi Basij Resistance Base",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTplNWJkMDU4NWNkNTk",
+        "publicId": "MTplNWJkMDU4NWNkNTk",
+        "sourceId": "e5bd0585cd59",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:11:09.759Z",
+        "updatedAt": "2026-08-25T20:11:09.759Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94516,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.609408312369055,
+              36.267907129379395
+            ],
+            [
+              59.60937597244259,
+              36.26777675736416
+            ],
+            [
+              59.609394750464304,
+              36.26772124405318
+            ],
+            [
+              59.609624259619295,
+              36.267492461505626
+            ],
+            [
+              59.609979998811895,
+              36.26714423973249
+            ],
+            [
+              59.61042721569484,
+              36.266716267940055
+            ],
+            [
+              59.61144092905735,
+              36.267366005802245
+            ],
+            [
+              59.61356676308688,
+              36.26875649350964
+            ],
+            [
+              59.61352325926194,
+              36.26878826451831
+            ],
+            [
+              59.61355281123781,
+              36.2688425355168
+            ],
+            [
+              59.61299136533978,
+              36.269168889675015
+            ],
+            [
+              59.612278272769515,
+              36.269558265731334
+            ],
+            [
+              59.61197945071342,
+              36.26937491800264
+            ],
+            [
+              59.61197945071342,
+              36.26937491800264
+            ],
+            [
+              59.609408312369055,
+              36.267907129379395
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان مقاومت بسیج ۷ مقداد",
+        "unofficial_name:fa": "",
+        "description": "حوزه مقاومت بسیج ۷ مقداد/سپاه\n",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Resistance Barracks 7 Meghdad",
+        "description:en": "Basij Resistance District 7 Meghdad / IRGC",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTo4M2M2YWExYmNjNGE",
+        "publicId": "MTo4M2M2YWExYmNjNGE",
+        "sourceId": "83c6aa1bcc4a",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:14:56.819Z",
+        "updatedAt": "2026-08-25T20:14:56.819Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2223,
+    "total": 2226,
     "layerId": 1,
     "clustered": false,
     "simplified": false

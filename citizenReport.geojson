@@ -22005,10 +22005,77 @@
         "createdAt": "2026-08-23T16:32:31.367Z",
         "updatedAt": "2026-08-23T16:32:31.367Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.42736975103617,
+          35.71823698085488
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1787686578,
+        "description": "بعضی شب‌ها به صورت رندوم ایست بازرسی می‌گذارند و به تفتیش بدنی و بررسی گوشی می‌پردازند.",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Some nights they randomly set up checkpoints, conducting body searches and inspecting mobile phones.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6MTBjYWYwYzRjYmQ1",
+        "publicId": "MzY6MTBjYWYwYzRjYmQ1",
+        "sourceId": "10caf0c4cbd5",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:01:12.101Z",
+        "updatedAt": "2026-08-25T20:01:12.101Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.53999638929963,
+          34.802504678089406
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع عرزشی‌ها",
+        "city": "همدان",
+        "province": "استان همدان",
+        "date": 1787642277,
+        "description": "",
+        "sources": "",
+        "name:en": "Gathering of Arzashis",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "id": "MzY6YmMzM2RiOTI2YWQw",
+        "publicId": "MzY6YmMzM2RiOTI2YWQw",
+        "sourceId": "bc33db926ad0",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:01:59.597Z",
+        "updatedAt": "2026-08-25T20:01:59.597Z"
+      }
     }
   ],
   "metadata": {
-    "total": 664,
+    "total": 666,
     "layerId": 36,
     "clustered": false,
     "simplified": false

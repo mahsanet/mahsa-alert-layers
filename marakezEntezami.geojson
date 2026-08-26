@@ -189676,10 +189676,43 @@
         "createdAt": "2026-08-24T18:32:54.701Z",
         "updatedAt": "2026-08-24T18:32:54.701Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.42858896615152,
+          32.27918879437742
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "description": "ایست بازرسی پلیس صفی آباد",
+        "date": "",
+        "city": "شهرستان دزفول",
+        "province": "استان خوزستان",
+        "name:en": "Checkpoint",
+        "description:en": "Safiabad police checkpoint",
+        "city:en": "Dezful County",
+        "province:en": "Khuzestan",
+        "id": "Mzo2NmE0YjhlMzViYzc",
+        "publicId": "Mzo2NmE0YjhlMzViYzc",
+        "sourceId": "66a4b8e35bc7",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:03:58.832Z",
+        "updatedAt": "2026-08-25T20:04:03.673Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6077,
+    "total": 6078,
     "layerId": 3,
     "clustered": false,
     "simplified": false

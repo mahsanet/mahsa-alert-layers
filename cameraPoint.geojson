@@ -594304,10 +594304,150 @@
         "createdAt": "2026-08-24T18:32:23.298Z",
         "updatedAt": "2026-08-24T18:32:23.298Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62403839454055,
+          36.31822377643044
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1787663811,
+        "addressDescription": "",
+        "description": "دوربین مداربسته بانک صادرات",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "Bank Saderat CCTV camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6Njg2MGExN2QzNTlj",
+        "publicId": "MjA6Njg2MGExN2QzNTlj",
+        "sourceId": "6860a17d359c",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:07:46.117Z",
+        "updatedAt": "2026-08-25T20:07:46.117Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58899952471256,
+          36.287806499935726
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بیمارستان",
+        "lastReport": "",
+        "date": 1787665025,
+        "addressDescription": "",
+        "description": "دوربین مداربسته بیمارستان ۵۵۰ ارتش",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Hospital Camera",
+        "description:en": "CCTV camera of 550 Army Hospital",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6MWE2ZjUwNWRjYzQw",
+        "publicId": "MjA6MWE2ZjUwNWRjYzQw",
+        "sourceId": "1a6f505dcc40",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:09:21.227Z",
+        "updatedAt": "2026-08-25T20:09:21.227Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.47677170857787,
+          36.334632704505196
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1787664049,
+        "addressDescription": "",
+        "description": "دوربین مداربسته مرکز اسناد و کتابخانه ملی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "CCTV camera at the National Library and Archives Center",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6OTlkYzI0YjQwZTEz",
+        "publicId": "MjA6OTlkYzI0YjQwZTEz",
+        "sourceId": "99dc24b40e13",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:10:05.857Z",
+        "updatedAt": "2026-08-25T20:10:05.857Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.598213247954845,
+          36.29404350280528
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1787666019,
+        "addressDescription": "",
+        "description": "دوربین مداربسته بنیاد شهید خراسان رضوی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "CCTV camera of the Razavi Khorasan Martyrs Foundation",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6MzA5ODE0OTliYTcx",
+        "publicId": "MjA6MzA5ODE0OTliYTcx",
+        "sourceId": "30981499ba71",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:16:28.557Z",
+        "updatedAt": "2026-08-25T20:16:28.557Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18564,
+    "total": 18568,
     "layerId": 20,
     "clustered": false,
     "simplified": false

@@ -174740,10 +174740,98 @@
         "createdAt": "2026-08-24T17:55:16.581Z",
         "updatedAt": "2026-08-24T17:55:16.581Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94515,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63426045977266,
+          36.323783008664364
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه سید الشهدا",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Seyyed al-Shohada Hosseiniyeh",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDplMDQ1YjNiMTBhYTU",
+        "publicId": "NDplMDQ1YjNiMTBhYTU",
+        "sourceId": "e045b3b10aa5",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:11:59.022Z",
+        "updatedAt": "2026-08-25T20:11:59.022Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94517,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.61156461899671,
+              36.26731725928546
+            ],
+            [
+              59.612537119565076,
+              36.26793675093951
+            ],
+            [
+              59.61285262547392,
+              36.267610545801475
+            ],
+            [
+              59.6118912604081,
+              36.267006015246764
+            ],
+            [
+              59.6118912604081,
+              36.267006015246764
+            ],
+            [
+              59.61156461899671,
+              36.26731725928546
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه امام خمینی",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Imam Khomeini Hosseiniyeh",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo5MDViZDU4MTJkZTQ",
+        "publicId": "NDo5MDViZDU4MTJkZTQ",
+        "sourceId": "905bd5812de4",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-25T20:15:44.361Z",
+        "updatedAt": "2026-08-25T20:15:44.361Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5626,
+    "total": 5628,
     "layerId": 4,
     "clustered": false,
     "simplified": false
