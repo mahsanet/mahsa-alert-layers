@@ -73310,10 +73310,44 @@
         "createdAt": "2026-08-25T20:14:56.819Z",
         "updatedAt": "2026-08-25T20:14:56.819Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.46566401049495,
+          36.40125648502152
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج شهید صفایی",
+        "date": 1787691660,
+        "city": "منزل آباد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Shahid Safaei Basij Resistance Base",
+        "city:en": "Manzelabad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTpiYTc5NjllYjA4MjA",
+        "publicId": "MTpiYTc5NjllYjA4MjA",
+        "sourceId": "ba7969eb0820",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-26T06:12:53.918Z",
+        "updatedAt": "2026-08-26T06:12:53.918Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2226,
+    "total": 2227,
     "layerId": 1,
     "clustered": false,
     "simplified": false

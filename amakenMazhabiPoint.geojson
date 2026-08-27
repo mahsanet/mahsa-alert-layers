@@ -174828,10 +174828,74 @@
         "createdAt": "2026-08-25T20:15:44.361Z",
         "updatedAt": "2026-08-25T20:15:44.361Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94520,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.465589128583304,
+          36.40123916959098
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "منزل آباد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mosque",
+        "city:en": "Manzel Abad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDozZDdkZDU0MDliZTQ",
+        "publicId": "NDozZDdkZDU0MDliZTQ",
+        "sourceId": "3d7dd5409be4",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-26T06:13:25.440Z",
+        "updatedAt": "2026-08-26T06:13:25.440Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.601187829136535,
+          36.33526888743572
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ولیعصر",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Valiasr Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo0OWY0MDg4NDM5ZjE",
+        "publicId": "NDo0OWY0MDg4NDM5ZjE",
+        "sourceId": "49f4088439f1",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-26T06:18:46.066Z",
+        "updatedAt": "2026-08-26T06:18:50.252Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5628,
+    "total": 5630,
     "layerId": 4,
     "clustered": false,
     "simplified": false

@@ -15753,12 +15753,13 @@
       },
       "properties": {
         "name:fa": "تجمع سرکوبگران",
-        "description": "محل تجمع سرکوبگران در کانکس",
-        "date": 1783603694,
         "city": "شیراز",
         "province": "استان فارس",
+        "date": 1783603694,
+        "description": "محل تجمع سرکوبگران در کانکس. آموزشگاه لباس شخصی‌ها.",
+        "sources": "",
         "name:en": "Gathering of Repressors",
-        "description:en": "Gathering place of repressors in a portable cabin",
+        "description:en": "Gathering location of repressors in a portable cabin. Training facility for plainclothes forces.",
         "city:en": "Shiraz",
         "province:en": "Fars",
         "id": "MzY6ZjZjZTA5NTk5NGY1",
@@ -15771,7 +15772,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-07-13T01:17:14.576Z",
-        "updatedAt": "2026-07-21T21:34:31.763Z"
+        "updatedAt": "2026-08-26T06:20:04.287Z"
       }
     },
     {
