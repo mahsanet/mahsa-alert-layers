@@ -594444,10 +594444,290 @@
         "createdAt": "2026-08-25T20:16:28.557Z",
         "updatedAt": "2026-08-25T20:16:28.557Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.291036408394575,
+          31.874855712324646
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1787764287,
+        "addressDescription": "",
+        "description": "دوربین امنیتی هوش مصنوعی تشخیص چهره (دوربین‌های چینی پیشرفته)",
+        "city": "یزد",
+        "province": "استان یزد",
+        "name:en": "Security Camera",
+        "description:en": "AI facial recognition security camera (advanced Chinese cameras)",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "id": "MjA6N2QyMTQ3MmQ2M2Iw",
+        "publicId": "MjA6N2QyMTQ3MmQ2M2Iw",
+        "sourceId": "7d21472d63b0",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:06:54.970Z",
+        "updatedAt": "2026-08-27T18:06:54.970Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.30239975452423,
+          31.855235580482088
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1787764038,
+        "addressDescription": "",
+        "description": "دوربین امنیتی هوش مصنوعی تشخیص چهره",
+        "city": "یزد",
+        "province": "استان یزد",
+        "name:en": "Security Camera",
+        "description:en": "AI facial recognition security camera",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "id": "MjA6MzExNWFmODNlMjBj",
+        "publicId": "MjA6MzExNWFmODNlMjBj",
+        "sourceId": "3115af83e20c",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:07:18.953Z",
+        "updatedAt": "2026-08-27T18:07:18.953Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.297963716089725,
+          31.86340636147007
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1787763894,
+        "addressDescription": "",
+        "description": "دوربین امنیتی هوش مصنوعی تشخیص چهره",
+        "city": "یزد",
+        "province": "استان یزد",
+        "name:en": "Security Camera",
+        "description:en": "Facial recognition AI security camera",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "id": "MjA6NjRkOTc3OTE1YTcy",
+        "publicId": "MjA6NjRkOTc3OTE1YTcy",
+        "sourceId": "64d977915a72",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:07:46.404Z",
+        "updatedAt": "2026-08-27T18:07:46.404Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.29331377148628,
+          31.861444819299805
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1787763966,
+        "addressDescription": "",
+        "description": "دوربین امنیتی هوش مصنوعی تشخیص چهره",
+        "city": "یزد",
+        "province": "استان یزد",
+        "name:en": "Security Camera",
+        "description:en": "Facial recognition AI security camera",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "id": "MjA6ZWE2YWQ3NWJhOTE5",
+        "publicId": "MjA6ZWE2YWQ3NWJhOTE5",
+        "sourceId": "ea6ad75ba919",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:10:41.722Z",
+        "updatedAt": "2026-08-27T18:10:41.722Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94529,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.303191006183624,
+          31.867725821467545
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1787763836,
+        "addressDescription": "",
+        "description": "دوربین امنیتی هوش مصنوعی تشخیص چهره",
+        "city": "یزد",
+        "province": "استان یزد",
+        "name:en": "Security Camera",
+        "description:en": "Facial recognition AI security camera",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "id": "MjA6N2E1OWRkNmU1ZGQ5",
+        "publicId": "MjA6N2E1OWRkNmU1ZGQ5",
+        "sourceId": "7a59dd6e5dd9",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:11:30.896Z",
+        "updatedAt": "2026-08-27T18:11:30.896Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94531,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.30813683196902,
+          31.871634929818214
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1787763780,
+        "addressDescription": "",
+        "description": "دوربین امنیتی هوش مصنوعی تشخیص چهره",
+        "city": "یزد",
+        "province": "استان یزد",
+        "name:en": "Security Camera",
+        "description:en": "Facial recognition AI security camera",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "id": "MjA6ZThmNTRjOGVhYzk0",
+        "publicId": "MjA6ZThmNTRjOGVhYzk0",
+        "sourceId": "e8f54c8eac94",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:12:39.237Z",
+        "updatedAt": "2026-08-27T18:12:39.237Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.31280789896846,
+          31.875833000524068
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1787763718,
+        "addressDescription": "",
+        "description": "دوربین امنیتی هوش مصنوعی تشخیص چهره",
+        "city": "یزد",
+        "province": "استان یزد",
+        "name:en": "Security Camera",
+        "description:en": "Facial recognition AI security camera",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "id": "MjA6YTMzZDFjZDI2MDli",
+        "publicId": "MjA6YTMzZDFjZDI2MDli",
+        "sourceId": "a33d1cd2609b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:13:13.296Z",
+        "updatedAt": "2026-08-27T18:13:13.296Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.593518543988466,
+          36.27701437115125
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1787753120,
+        "addressDescription": "",
+        "description": "دوربین مداربسته شرکت مخابرات استان خراسان رضوی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "CCTV camera of the Telecommunication Company of Razavi Khorasan Province",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6N2ZlY2RjMmFjYjUw",
+        "publicId": "MjA6N2ZlY2RjMmFjYjUw",
+        "sourceId": "7fecdc2acb50",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:15:16.907Z",
+        "updatedAt": "2026-08-27T18:15:16.907Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18568,
+    "total": 18576,
     "layerId": 20,
     "clustered": false,
     "simplified": false

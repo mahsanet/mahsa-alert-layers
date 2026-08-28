@@ -91344,10 +91344,43 @@
         "createdAt": "2026-08-25T20:11:33.651Z",
         "updatedAt": "2026-08-25T20:11:33.651Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57405626773834,
+          36.31041078089058
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر پلیس ۱۰+",
+        "description": "دفتر پلیس ۱۰+ گوهرشاد مشهد",
+        "date": 1787752752,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Police +10 Office",
+        "description:en": "Goharshad Police +10 Office in Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6M2I4MmFhMjgyOTU3",
+        "publicId": "MTc6M2I4MmFhMjgyOTU3",
+        "sourceId": "3b82aa282957",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:16:53.568Z",
+        "updatedAt": "2026-08-27T18:16:53.568Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2380,
+    "total": 2381,
     "layerId": 17,
     "clustered": false,
     "simplified": false

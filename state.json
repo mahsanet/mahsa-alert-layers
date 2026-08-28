@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-08-27T02:00:05.761Z",
-  "serial": 2949,
+  "lastUpdated": "2026-08-28T02:00:08.607Z",
+  "serial": 2991,
   "layers": {
     "missilePrograms": "6de36af1ed7693726681649fd9f5a86f449c0d48",
     "targets": "e61d00a9e0a95d4c2015b16e4f9cd2d0e7ee282e",
     "strikePoint": "4bdef2128b33c19bf41dd1d165e033f612be6ba6",
     "evacArea": "82568dee517290a1512a708a6fdd9ce86a034101",
     "evacAreaII": "56c9d3ac682324089b3db71e68897544be5810a2",
-    "intelligence": "c2ab03ec98596b5bfe57f03b8471c21424a29497",
+    "intelligence": "85aad654ee3d9ee16cb4a9e8c9a872b1789b6ef4",
     "antiAirBase": "6ad96c8e85231d3949772af8971a6a5ee348e037",
     "chelom": "6a8dafc34745a5e51ce68c76a85f2e1eebbfac92",
     "rescueBase": "359f6dbf52c92b5740cf5f59360f10b0fc243e35",
@@ -16,12 +16,12 @@
     "prisonPoly": "84699640853eeac0de800d566858b9a9861fabe3",
     "redCrescent": "c8f5707cc2e80e9beaebb32b5accd3020a60db48",
     "protestPoint": "a70a26c667f4a64ede8c8c373989e57ba5dbabf4",
-    "militaryBase": "af7425bd2b6dee445b4c1940c35c9dc8d94c57a3",
-    "newTargets": "b18b20608aa37749cffc42b66854039f3b08fade",
+    "militaryBase": "559204234ee6be1562d43123a96534da006b4c4b",
+    "newTargets": "0e3364be7942cfd49230feb28dd6e468a001dc4e",
     "javidnam": "1a58eddb7e947afa17d4c00d695f6e2538ad0cbb",
     "areowayBase": "49e4f8dda73558c6fc6d7c147bd3e0433778b9d0",
-    "basijBase": "b44ade1f10715fa038b76b883209a138dec6a7b6",
-    "culturePoint": "d95311ba0fb0d88e5fdb5a96478a6f82f1032a04",
+    "basijBase": "aee6643c31e4d1154bc019df7b33a1897f851ca2",
+    "culturePoint": "e4ffd23dde93f107a122c132cfa547852ec992ca",
     "marakezGhazayi": "856f3719a49f822de022979ca352b1db4d29032c",
     "unknownBase": "fa483978d3866497c2f2ddf2dd0a855a43813ae3",
     "hospital": "fcbf2f053f5e12dead95845b137077a7bd88d69b",
@@ -32,9 +32,9 @@
     "healthCenter": "b1e01a2085be0cf9f29d4448cc1a6056d724a400",
     "zirsakht": "d0faaa4c40909d75ff495d1caeaea6e2fd6ab0ef",
     "clinic": "11d178a0c0a8d24ace383cdc55cb70b853fe77b4",
-    "amakenMazhabiPoint": "efcdfdd18d501316859a0116af779649e46c2593",
+    "amakenMazhabiPoint": "962006104330387d49cdf155f957fec41560331e",
     "chatroom": "6e056deda2068580cce5234e1153811ff41ad34e",
     "pharmacy": "56d48445532a547bd5afd26c09959b7ec15be4a7",
-    "cameraPoint": "d30c01e26a88ac04530f16e0370287593e789d61"
+    "cameraPoint": "e8bac8d197e0dbb0bf110d98bf4338344dfa3de0"
   }
 }

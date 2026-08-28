@@ -29217,10 +29217,44 @@
         "createdAt": "2026-08-24T23:45:42.384Z",
         "updatedAt": "2026-08-24T23:46:13.508Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.50457845136228,
+          26.38290336829408
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اصابت به نفتکش",
+        "unofficial_name:fa": "",
+        "date": 1787776200,
+        "geolocates": "",
+        "description": "در ۵ شهریور ۱۴۰۵، UKMTO از وقوع یک حادثه در تنگه هرمز خبر داد. به گفته مقام‌های محلی، یک نفتکش با پرتابه‌ای ناشناس هدف قرار گرفته و دچار آتش‌سوزی شده است. آتش مهار شده و تمامی خدمه سالم و حاضر گزارش شده‌اند. تاکنون گزارشی از پیامد زیست‌محیطی منتشر نشده و مقام‌ها در حال بررسی حادثه هستند.",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/UK_MTO/status/2092777815103901864?s=20",
+        "name:en": "Hit on an Oil Tanker",
+        "description:en": "On August 27, 2026, UKMTO reported an incident in the Strait of Hormuz. According to local officials, an oil tanker was struck by an unidentified projectile and caught fire. The fire has been contained, and all crew members are reported safe and accounted for. No environmental impact has been reported so far, and authorities are investigating the incident.",
+        "id": "MzI6ZTE5NzA2NDg5YzI0",
+        "publicId": "MzI6ZTE5NzA2NDg5YzI0",
+        "sourceId": "e19706489c24",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:26:01.484Z",
+        "updatedAt": "2026-08-27T18:26:01.484Z"
+      }
     }
   ],
   "metadata": {
-    "total": 847,
+    "total": 848,
     "layerId": 32,
     "clustered": false,
     "simplified": false

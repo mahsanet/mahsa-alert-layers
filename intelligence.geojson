@@ -13739,10 +13739,44 @@
         "createdAt": "2026-08-16T00:16:08.886Z",
         "updatedAt": "2026-08-16T00:16:08.886Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.34946179313408,
+          31.869369390162746
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "مرکز وزارت اطلاعات و اطلاعات کشوری زیر استانداری",
+        "date": 1787859025,
+        "city": "یزد",
+        "province": "استان یزد",
+        "name:fa": "مرکز وزارت اطلاعات",
+        "name:en": "Ministry of Intelligence Center",
+        "description:en": "Ministry of Intelligence center and national intelligence under the governorate",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "id": "Mjo3OGNlMzE5MDMxNGY",
+        "publicId": "Mjo3OGNlMzE5MDMxNGY",
+        "sourceId": "78ce3190314f",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T19:33:28.110Z",
+        "updatedAt": "2026-08-27T19:33:38.592Z"
+      }
     }
   ],
   "metadata": {
-    "total": 350,
+    "total": 351,
     "layerId": 2,
     "clustered": false,
     "simplified": false

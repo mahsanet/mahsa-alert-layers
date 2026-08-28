@@ -174892,10 +174892,74 @@
         "createdAt": "2026-08-26T06:18:46.066Z",
         "updatedAt": "2026-08-26T06:18:50.252Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.30120502909125,
+          31.860378551245745
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "یزد",
+        "province": "استان یزد",
+        "name:en": "Mosque",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "id": "NDo5NWQwMWEwMDY2NTA",
+        "publicId": "NDo5NWQwMWEwMDY2NTA",
+        "sourceId": "95d01a006650",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:09:11.475Z",
+        "updatedAt": "2026-08-27T18:09:11.475Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94530,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.30224408658296,
+          31.868161533176334
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد موسی بن جعفر",
+        "description": "",
+        "date": "",
+        "city": "یزد",
+        "province": "استان یزد",
+        "name:en": "Musa ibn Jafar Mosque",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "id": "NDowMmNiNzcwMDc3OGI",
+        "publicId": "NDowMmNiNzcwMDc3OGI",
+        "sourceId": "02cb7700778b",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:11:57.836Z",
+        "updatedAt": "2026-08-27T18:11:57.836Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5630,
+    "total": 5632,
     "layerId": 4,
     "clustered": false,
     "simplified": false

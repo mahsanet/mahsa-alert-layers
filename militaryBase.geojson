@@ -44551,10 +44551,45 @@
         "createdAt": "2026-08-10T22:15:18.887Z",
         "updatedAt": "2026-08-10T22:15:18.887Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.587778616696596,
+          36.27615444476244
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر استخدام ارتش",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "دفتر استخدام و جذب نیروی زمینی ارتش جمهوری اسلامی",
+        "date": 1787752431,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Army Recruitment Office",
+        "description:en": "Recruitment and employment office of the Ground Forces of the Army of the Islamic Republic",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTE6YmJkZDhmZjZlYTMy",
+        "publicId": "MTE6YmJkZDhmZjZlYTMy",
+        "sourceId": "bbdd8ff6ea32",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-27T18:17:39.673Z",
+        "updatedAt": "2026-08-27T18:17:53.534Z"
+      }
     }
   ],
   "metadata": {
-    "total": 387,
+    "total": 388,
     "layerId": 11,
     "clustered": false,
     "simplified": false
