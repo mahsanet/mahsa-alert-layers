@@ -16860,10 +16860,46 @@
         "createdAt": "2026-08-05T12:45:13.121Z",
         "updatedAt": "2026-08-05T12:45:13.121Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.08686372328776,
+          26.563484315161304
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "در ۶ شهریور ۱۴۰۵، گزارش‌های اولیه از شلیک موشک‌های بالستیک ضدکشتی توسط نیروهای دریایی سپاه به سمت تنگه هرمز خبر می‌دهند. بر اساس این گزارش‌ها، هدف این حمله یک شناور در حال عبور از تنگه بوده که بدون هماهنگی با سپاه در حال تردد بوده است. همچنین دو موشک بالستیک ضدکشتی دیگر از منطقه سیریک به سمت تنگه هرمز شلیک شده و شمار پرتاب‌های موشکی ایران در ساعات شب افزایش یافته است.",
+        "date": 1787862600,
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/BeamTracker_/status/2093447844367597666?s=20, https://x.com/MoloWarMonitor/status/2093470453767754101?s=20",
+        "name:en": "Missile Launch",
+        "description:en": "On August 28, 2026, initial reports indicated the firing of anti-ship ballistic missiles by IRGC naval forces toward the Strait of Hormuz. According to these reports, the target of the attack was a vessel transiting the strait without coordination with the IRGC. Additionally, two other anti-ship ballistic missiles were fired from the Sirik area toward the Strait of Hormuz, and the number of Iranian missile launches increased during the nighttime hours.",
+        "city:en": "Sirik",
+        "province:en": "Hormozgan",
+        "id": "NzozNWNjMzYwN2RmOWU",
+        "publicId": "NzozNWNjMzYwN2RmOWU",
+        "sourceId": "35cc3607df9e",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-08-29T01:16:12.913Z",
+        "updatedAt": "2026-08-29T01:32:57.331Z"
+      }
     }
   ],
   "metadata": {
-    "total": 154,
+    "total": 155,
     "layerId": 7,
     "clustered": false,
     "simplified": false

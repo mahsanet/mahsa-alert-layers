@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-28T02:00:08.607Z",
-  "serial": 2991,
+  "lastUpdated": "2026-08-29T02:00:02.957Z",
+  "serial": 2999,
   "layers": {
-    "missilePrograms": "6de36af1ed7693726681649fd9f5a86f449c0d48",
+    "missilePrograms": "d41a244aea641359fa6702bab75a9c2268cc88b0",
     "targets": "e61d00a9e0a95d4c2015b16e4f9cd2d0e7ee282e",
     "strikePoint": "4bdef2128b33c19bf41dd1d165e033f612be6ba6",
     "evacArea": "82568dee517290a1512a708a6fdd9ce86a034101",
@@ -17,7 +17,7 @@
     "redCrescent": "c8f5707cc2e80e9beaebb32b5accd3020a60db48",
     "protestPoint": "a70a26c667f4a64ede8c8c373989e57ba5dbabf4",
     "militaryBase": "559204234ee6be1562d43123a96534da006b4c4b",
-    "newTargets": "0e3364be7942cfd49230feb28dd6e468a001dc4e",
+    "newTargets": "be2790b1dfb4e8b5bcbbc49dd5ba15b6a97c6cc5",
     "javidnam": "1a58eddb7e947afa17d4c00d695f6e2538ad0cbb",
     "areowayBase": "49e4f8dda73558c6fc6d7c147bd3e0433778b9d0",
     "basijBase": "aee6643c31e4d1154bc019df7b33a1897f851ca2",

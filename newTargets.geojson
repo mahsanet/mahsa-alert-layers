@@ -29246,10 +29246,10 @@
         "layerId": 32,
         "type": "event",
         "urgency": null,
-        "verificationTag": "verified",
+        "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-08-27T18:26:01.484Z",
-        "updatedAt": "2026-08-27T18:26:01.484Z"
+        "updatedAt": "2026-08-29T01:03:17.338Z"
       }
     }
   ],
