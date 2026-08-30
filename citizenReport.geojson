@@ -22073,10 +22073,78 @@
         "createdAt": "2026-08-25T20:01:59.597Z",
         "updatedAt": "2026-08-25T20:01:59.597Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94543,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.616481605917215,
+          36.320310621456684
+        ]
+      },
+      "properties": {
+        "name:fa": "گشت‌زنی بسیج",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": 1788028200,
+        "description": "گشت‌زنی نیروهای بسیج با موتورسیکلت و تفتیش وسایل اواخر شب در پارک مطهر",
+        "sources": "",
+        "name:en": "Basij Patrol",
+        "description:en": "Patrolling by Basij forces on motorcycles and searching belongings late at night in Motahar Park.",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MzY6OTU4OWE1MjIyNDVi",
+        "publicId": "MzY6OTU4OWE1MjIyNDVi",
+        "sourceId": "9589a522245b",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-29T17:39:27.482Z",
+        "updatedAt": "2026-08-29T17:39:27.482Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94544,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.80252571776509,
+          36.212090549142005
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع شبانه ",
+        "city": "نیشابور",
+        "province": "استان خراسان رضوی",
+        "date": 1787938200,
+        "description": "هر شب تجمعات حکومتی هست و پرچم تکان می‌دهند",
+        "sources": "",
+        "name:en": "Night Gathering",
+        "description:en": "Every night there are government gatherings and they wave flags.",
+        "city:en": "Neyshabur",
+        "province:en": "Razavi Khorasan",
+        "id": "MzY6ZmY1MWY1NjFlYjgx",
+        "publicId": "MzY6ZmY1MWY1NjFlYjgx",
+        "sourceId": "ff51f561eb81",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-29T17:40:52.722Z",
+        "updatedAt": "2026-08-29T17:40:52.722Z"
+      }
     }
   ],
   "metadata": {
-    "total": 666,
+    "total": 668,
     "layerId": 36,
     "clustered": false,
     "simplified": false

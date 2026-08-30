@@ -174956,10 +174956,42 @@
         "createdAt": "2026-08-27T18:11:57.836Z",
         "updatedAt": "2026-08-27T18:11:57.836Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.605499463324406,
+          36.29569726418987
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه حضرت خدیجه",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Hazrat Khadijeh Hosseiniyeh",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDpkYzdkOWFhM2U3MGM",
+        "publicId": "NDpkYzdkOWFhM2U3MGM",
+        "sourceId": "dc7d9aa3e70c",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-08-29T17:48:19.302Z",
+        "updatedAt": "2026-08-29T17:48:19.302Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5632,
+    "total": 5633,
     "layerId": 4,
     "clustered": false,
     "simplified": false
