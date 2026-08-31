@@ -16896,10 +16896,44 @@
         "createdAt": "2026-08-29T01:16:12.913Z",
         "updatedAt": "2026-08-29T01:32:57.331Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.88749907910824,
+          35.88476996555909
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز تولید قطعات",
+        "description": "تولیدکننده قطعات ریز پهپاد و موشک",
+        "date": 1788050896,
+        "city": "شهرستان کرج",
+        "province": "استان البرز",
+        "sources": "",
+        "name:en": "Parts Production Center",
+        "description:en": "Manufacturer of drone and missile micro-components",
+        "city:en": "Karaj County",
+        "province:en": "Alborz",
+        "id": "NzplYjk2MjZhZGJiY2I",
+        "publicId": "NzplYjk2MjZhZGJiY2I",
+        "sourceId": "eb9626adbbcb",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-31T01:07:56.652Z",
+        "updatedAt": "2026-08-31T01:07:56.652Z"
+      }
     }
   ],
   "metadata": {
-    "total": 155,
+    "total": 156,
     "layerId": 7,
     "clustered": false,
     "simplified": false

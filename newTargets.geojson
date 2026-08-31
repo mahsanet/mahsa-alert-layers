@@ -29251,10 +29251,46 @@
         "createdAt": "2026-08-27T18:26:01.484Z",
         "updatedAt": "2026-08-29T01:03:17.338Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.35133117437363,
+          26.829982802049244
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به لارک",
+        "unofficial_name:fa": "",
+        "date": 1788118200,
+        "geolocates": "",
+        "description": "گزارش حمله به لارک و شنیده شدن صدای شدید انفجار که باعث لرزش در و پنجره‌ها شده است.",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/IranIntl/status/2094144732448375259?s=20",
+        "name:en": "Attack on Larak",
+        "description:en": "Report of an attack on Larak and hearing a loud explosion that caused doors and windows to shake.",
+        "city:en": "Qeshm County",
+        "province:en": "Hormozgan",
+        "id": "MzI6ODY0MWNjMDdiYzgy",
+        "publicId": "MzI6ODY0MWNjMDdiYzgy",
+        "sourceId": "8641cc07bc82",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-31T00:03:54.420Z",
+        "updatedAt": "2026-08-31T00:04:42.874Z"
+      }
     }
   ],
   "metadata": {
-    "total": 848,
+    "total": 849,
     "layerId": 32,
     "clustered": false,
     "simplified": false

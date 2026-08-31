@@ -22088,7 +22088,7 @@
         "name:fa": "گشت‌زنی بسیج",
         "city": "مشهد",
         "province": "استان خراسان رضوی",
-        "date": 1788028200,
+        "date": 1787769000,
         "description": "گشت‌زنی نیروهای بسیج با موتورسیکلت و تفتیش وسایل اواخر شب در پارک مطهر",
         "sources": "",
         "name:en": "Basij Patrol",
@@ -22105,7 +22105,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-08-29T17:39:27.482Z",
-        "updatedAt": "2026-08-29T17:39:27.482Z"
+        "updatedAt": "2026-08-31T01:00:53.526Z"
       }
     },
     {
@@ -22141,10 +22141,112 @@
         "createdAt": "2026-08-29T17:40:52.722Z",
         "updatedAt": "2026-08-29T17:40:52.722Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.531442921608686,
+          29.595003980068213
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شیراز",
+        "province": "استان فارس",
+        "date": 1788028200,
+        "description": "",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "id": "MzY6ZWEzMzBlMTRkM2Nl",
+        "publicId": "MzY6ZWEzMzBlMTRkM2Nl",
+        "sourceId": "ea330e14d3ce",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-31T00:57:51.435Z",
+        "updatedAt": "2026-08-31T00:57:51.435Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.95379574224353,
+          35.844275499537915
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع حکومتی",
+        "city": "کرج",
+        "province": "استان البرز",
+        "date": 1788112800,
+        "description": "تجمع هر شب حامیان رژیم برای شعار دادن",
+        "sources": "",
+        "status": "active",
+        "geolocates": "",
+        "name:en": "Pro-Government Gathering Location",
+        "description:en": "Nightly gathering of regime supporters to chant slogans",
+        "city:en": "Karaj",
+        "province:en": "Alborz",
+        "id": "MzY6YTM1OTdjMmIzY2Ri",
+        "publicId": "MzY6YTM1OTdjMmIzY2Ri",
+        "sourceId": "a3597c2b3cdb",
+        "layerId": 36,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-31T00:59:15.758Z",
+        "updatedAt": "2026-08-31T00:59:41.388Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94556,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.079543210566044,
+          27.10090221470655
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی سپاه",
+        "city": "میناب",
+        "province": "استان هرمزگان",
+        "date": 1788028200,
+        "description": "ایست بازرسی لباس شخصی‌های سپاه (هر شب بعد از ساعت ۱۰)",
+        "sources": "",
+        "name:en": "Sepah Checkpoint",
+        "description:en": "Sepah plainclothes checkpoint (every night after 10 PM)",
+        "city:en": "Minab",
+        "province:en": "Hormozgan",
+        "id": "MzY6ODdiZjBlYTliMThh",
+        "publicId": "MzY6ODdiZjBlYTliMThh",
+        "sourceId": "87bf0ea9b18a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-31T01:04:18.012Z",
+        "updatedAt": "2026-08-31T01:04:18.012Z"
+      }
     }
   ],
   "metadata": {
-    "total": 668,
+    "total": 671,
     "layerId": 36,
     "clustered": false,
     "simplified": false

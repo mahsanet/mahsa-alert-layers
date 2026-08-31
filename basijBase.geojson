@@ -73683,10 +73683,146 @@
         "createdAt": "2026-08-29T17:45:37.599Z",
         "updatedAt": "2026-08-29T17:45:37.599Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54404811342917,
+          36.275157617660966
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج",
+        "date": 1788123736,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Basij Resistance Base",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTowOGE2ZWJlN2JmMTc",
+        "publicId": "MTowOGE2ZWJlN2JmMTc",
+        "sourceId": "08a6ebe7bf17",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-31T00:39:08.264Z",
+        "updatedAt": "2026-08-31T00:39:14.785Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.47746455669403,
+          36.321849988414755
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج مسجد امام حسین",
+        "date": 1788123624,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Imam Hossein Mosque Basij Resistance Base",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTphNjAxMTEwZjdhYmQ",
+        "publicId": "MTphNjAxMTEwZjdhYmQ",
+        "sourceId": "a601110f7abd",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-31T00:56:16.882Z",
+        "updatedAt": "2026-08-31T00:56:16.882Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50027607381344,
+          36.290537065721395
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج",
+        "date": 1788123682,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Basij Resistance Base",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTpmMDk2YjA5MDY0YzA",
+        "publicId": "MTpmMDk2YjA5MDY0YzA",
+        "sourceId": "f096b09064c0",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-31T01:04:58.618Z",
+        "updatedAt": "2026-08-31T01:04:58.618Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.53495367807636,
+          36.38494046402829
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج توس",
+        "date": 1788123399,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Toos Basij Resistance Base",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTphMzFmODI3N2M4NjQ",
+        "publicId": "MTphMzFmODI3N2M4NjQ",
+        "sourceId": "a31f8277c864",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-31T01:06:30.415Z",
+        "updatedAt": "2026-08-31T01:06:35.555Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2237,
+    "total": 2241,
     "layerId": 1,
     "clustered": false,
     "simplified": false
