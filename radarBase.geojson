@@ -4532,10 +4532,43 @@
         "createdAt": "2026-08-15T23:25:53.863Z",
         "updatedAt": "2026-08-15T23:25:53.863Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.35228499870044,
+          26.82771510727973
+        ]
+      },
+      "properties": {
+        "name:fa": "رادار",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "name:en": "Radar",
+        "city:en": "Qeshm County",
+        "province:en": "Hormozgan",
+        "id": "OToyOWMzYmQ3NDgyNzQ",
+        "publicId": "OToyOWMzYmQ3NDgyNzQ",
+        "sourceId": "29c3bd748274",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-08-31T03:39:34.373Z",
+        "updatedAt": "2026-08-31T03:39:34.373Z"
+      }
     }
   ],
   "metadata": {
-    "total": 66,
+    "total": 67,
     "layerId": 9,
     "clustered": false,
     "simplified": false

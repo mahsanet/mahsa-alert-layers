@@ -16930,10 +16930,44 @@
         "createdAt": "2026-08-31T01:07:56.652Z",
         "updatedAt": "2026-08-31T01:07:56.652Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.08494253788771,
+          26.563435748875975
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "description": "ساعت ۰۰:۴۵ بامداد سه‌شنبه؛ تعداد ۳ موشک از سیریک (هرمزگان) به سمت تنگه هرمز شلیک شد.",
+        "date": 1788124500,
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/iliaen/4687",
+        "name:en": "Missile Launch",
+        "description:en": "At 00:45 AM on Tuesday, 3 missiles were fired from Sirik (Hormozgan) toward the Strait of Hormuz.",
+        "city:en": "Sirik County",
+        "province:en": "Hormozgan",
+        "id": "NzplYzk5ZGIzMjdlYWQ",
+        "publicId": "NzplYzk5ZGIzMjdlYWQ",
+        "sourceId": "ec99db327ead",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-08-31T21:26:49.395Z",
+        "updatedAt": "2026-08-31T21:26:49.395Z"
+      }
     }
   ],
   "metadata": {
-    "total": 156,
+    "total": 157,
     "layerId": 7,
     "clustered": false,
     "simplified": false
