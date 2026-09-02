@@ -205905,10 +205905,98 @@
         "createdAt": "2026-07-15T01:53:49.037Z",
         "updatedAt": "2026-07-15T01:53:49.037Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94567,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.93649614850602,
+          36.90185066422025
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز خدمات درمانی بام",
+        "description": "",
+        "date": "",
+        "city": "بام",
+        "province": "استان خراسان شمالی",
+        "name:en": "Bam Healthcare Services Center",
+        "city:en": "Bam",
+        "province:en": "North Khorasan",
+        "id": "MzE6ZmU0NDQ5MDA1YjAw",
+        "publicId": "MzE6ZmU0NDQ5MDA1YjAw",
+        "sourceId": "fe4449005b00",
+        "layerId": 31,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T04:17:11.893Z",
+        "updatedAt": "2026-09-01T04:17:11.893Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94581,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.390358860476255,
+              26.883051380673834
+            ],
+            [
+              56.39040223529335,
+              26.883410767280935
+            ],
+            [
+              56.39080174019051,
+              26.88337309791659
+            ],
+            [
+              56.39075871737228,
+              26.883012161144464
+            ],
+            [
+              56.39075871737228,
+              26.883012161144464
+            ],
+            [
+              56.390358860476255,
+              26.883051380673834
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "درمانگاه جزیره لارک",
+        "description": "",
+        "date": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "name:en": "Larak Island Clinic",
+        "city:en": "Qeshm County",
+        "province:en": "Hormozgan",
+        "id": "MzE6M2Y2YmNkYmZlMTNi",
+        "publicId": "MzE6M2Y2YmNkYmZlMTNi",
+        "sourceId": "3f6bcdbfe13b",
+        "layerId": 31,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T09:18:03.893Z",
+        "updatedAt": "2026-09-01T09:18:03.893Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6864,
+    "total": 6866,
     "layerId": 31,
     "clustered": false,
     "simplified": false

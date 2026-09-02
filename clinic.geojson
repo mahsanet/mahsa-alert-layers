@@ -43741,36 +43741,6 @@
     },
     {
       "type": "Feature",
-      "id": 48430,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          56.3904597,
-          26.8832373
-        ]
-      },
-      "properties": {
-        "id": "MjM6MTQ1OQ",
-        "city": "شهرستان قشم",
-        "name:fa": "درمانگاه جزیره لارک",
-        "province": "استان هرمزگان",
-        "name:en": "Larak Island Clinic",
-        "city:en": "Qeshm County",
-        "province:en": "Hormozgan",
-        "publicId": "MjM6MTQ1OQ",
-        "sourceId": "1459",
-        "layerId": 23,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:00.228Z",
-        "updatedAt": "2026-03-11T20:58:00.228Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 48431,
       "geometry": {
         "type": "Point",
@@ -161922,7 +161892,7 @@
     }
   ],
   "metadata": {
-    "total": 5397,
+    "total": 5396,
     "layerId": 23,
     "clustered": false,
     "simplified": false

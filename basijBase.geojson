@@ -73819,10 +73819,44 @@
         "createdAt": "2026-08-31T01:06:30.415Z",
         "updatedAt": "2026-08-31T01:06:35.555Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.93624797835946,
+          36.90255195621441
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج بام",
+        "unofficial_name:fa": "",
+        "description": "نبش شهدای 6، این پایگاه فعالیت زیادی دارد.",
+        "date": 1788121800,
+        "city": "بام",
+        "province": "استان خراسان شمالی",
+        "name:en": "Bam Basij",
+        "description:en": "At the corner of Shohada 6, this base is very active.",
+        "city:en": "Bam",
+        "province:en": "North Khorasan",
+        "id": "MTpkNThiMjhlODY0MDI",
+        "publicId": "MTpkNThiMjhlODY0MDI",
+        "sourceId": "d58b28e86402",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T04:15:49.868Z",
+        "updatedAt": "2026-09-01T04:15:49.868Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2241,
+    "total": 2242,
     "layerId": 1,
     "clustered": false,
     "simplified": false

@@ -29287,10 +29287,786 @@
         "createdAt": "2026-08-31T00:03:54.420Z",
         "updatedAt": "2026-08-31T00:04:42.874Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.65888708588568,
+          25.30463619627342
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در چابهار",
+        "unofficial_name:fa": "",
+        "date": 1788277800,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان چابهار",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://x.com/ilredalert/status/2094819967812436234",
+        "name:en": "Explosion in Chabahar",
+        "city:en": "Chabahar County",
+        "province:en": "Sistan and Baluchestan",
+        "id": "MzI6YWRkYWViZDcxYzM0",
+        "publicId": "MzI6YWRkYWViZDcxYzM0",
+        "sourceId": "addaebd71c34",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T16:15:04.732Z",
+        "updatedAt": "2026-09-01T16:15:04.732Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.245056250831,
+          26.954778308008244
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در قشم",
+        "unofficial_name:fa": "",
+        "date": 1788277980,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/molowarmonitor/status/2094820326421025162",
+        "name:en": "Explosion in Qeshm",
+        "city:en": "Qeshm County",
+        "province:en": "Hormozgan",
+        "id": "MzI6NmM4NmM1NTZjNmIw",
+        "publicId": "MzI6NmM4NmM1NTZjNmIw",
+        "sourceId": "6c86c556c6b0",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T16:16:16.543Z",
+        "updatedAt": "2026-09-01T16:17:00.515Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.27966301175931,
+          27.20588539562418
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در بندعباس",
+        "unofficial_name:fa": "",
+        "date": 1788278580,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/molowarmonitor/status/2094820326421025162",
+        "name:en": "Explosion in Bandar Abbas",
+        "city:en": "Bandar Abbas County",
+        "province:en": "Hormozgan",
+        "id": "MzI6Mzk5MDRjODlkOGVl",
+        "publicId": "MzI6Mzk5MDRjODlkOGVl",
+        "sourceId": "39904c89d8ee",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T16:18:23.143Z",
+        "updatedAt": "2026-09-01T16:18:23.143Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.089665825880104,
+          26.55943294853175
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در سیریک",
+        "unofficial_name:fa": "",
+        "date": 1788278820,
+        "geolocates": "",
+        "description": "",
+        "city": "سرخور طاهرویی",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/ILRedAlert/status/2094821306466476037?s=20",
+        "name:en": "Explosion in Sirik",
+        "city:en": "Sorkhor Taheruii",
+        "province:en": "Hormozgan",
+        "id": "MzI6YjYwOGRmMjIzZjA3",
+        "publicId": "MzI6YjYwOGRmMjIzZjA3",
+        "sourceId": "b608df223f07",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T16:20:08.205Z",
+        "updatedAt": "2026-09-01T18:46:40.014Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.400180889541645,
+          25.33931800492971
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در کنارک",
+        "unofficial_name:fa": "",
+        "date": 1788278940,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان کنارک",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://x.com/Osint613/status/2094822145830334596?s=20",
+        "name:en": "Explosion in Konarak",
+        "city:en": "Konarak County",
+        "province:en": "Sistan and Baluchestan",
+        "id": "MzI6ZjQzMjA4ZDVkODdl",
+        "publicId": "MzI6ZjQzMjA4ZDVkODdl",
+        "sourceId": "f43208d5d87e",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T16:21:36.987Z",
+        "updatedAt": "2026-09-01T16:21:36.987Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.988017251351636,
+          27.114053865469174
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار دوباره در بندعباس",
+        "unofficial_name:fa": "",
+        "date": 1788279360,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/hey_itsmyturn/status/2094821806087561480",
+        "name:en": "Another Explosion in Bandar Abbas",
+        "city:en": "Bandar Abbas County",
+        "province:en": "Hormozgan",
+        "id": "MzI6NjcyYTkzZDdlODli",
+        "publicId": "MzI6NjcyYTkzZDdlODli",
+        "sourceId": "672a93d7e89b",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T16:33:10.811Z",
+        "updatedAt": "2026-09-01T16:33:10.811Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.28941044773552,
+          35.667134577106054
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "آتشسوزی در جنوب مهرآباد",
+        "unofficial_name:fa": "",
+        "date": 1788273660,
+        "geolocates": "",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "https://x.com/hey_itsmyturn/status/2094761867566563412/photo/1",
+        "name:en": "Fire in South Mehrabad",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzI6ZTBkNmYzYzA0ZmEy",
+        "publicId": "MzI6ZTBkNmYzYzA0ZmEy",
+        "sourceId": "e0d6f3c04fa2",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T16:46:47.703Z",
+        "updatedAt": "2026-09-01T16:46:47.703Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94590,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.17336710484773,
+          27.179011412605846
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در بندعباس",
+        "unofficial_name:fa": "",
+        "date": 1788283320,
+        "geolocates": "",
+        "description": "گزارش دو انفجار دیگر از بندعباس",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/VahidOnline/78147",
+        "name:en": "Explosion in Bandar Abbas",
+        "description:en": "Report of two other explosions from Bandar Abbas",
+        "city:en": "Bandar Abbas",
+        "province:en": "Hormozgan",
+        "id": "MzI6YzMyNWYyMDU1MDU3",
+        "publicId": "MzI6YzMyNWYyMDU1MDU3",
+        "sourceId": "c325f2055057",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T17:26:31.842Z",
+        "updatedAt": "2026-09-01T17:26:38.645Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94592,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.668154357077015,
+          28.73178095046825
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به فرودگاه جیرفت",
+        "unofficial_name:fa": "",
+        "date": 1788286800,
+        "geolocates": "",
+        "description": "خبرگزاری صداوسیمای رژیم جمهوری اسلامی شامگاه سه‌شنبه ۱۰ شهریور گزارش داد دقایقی پیش فرودگاه غیرنظامی جیرفت هدف حمله آمریکا قرار گرفته است.\n این رسانه افزود اطلاعات تکمیلی درباره این حمله منتشر خواهد شد.",
+        "city": "شهرستان جیرفت",
+        "province": "استان کرمان",
+        "sources": "https://t.me/VahidOnline/78153",
+        "name:en": "Attack on Jiroft Airport",
+        "description:en": "The Islamic Republic regime's IRIB news agency reported on Tuesday evening, Shahrivar 10, that minutes ago, the civilian airport of Jiroft was targeted in a US attack.\nThis outlet added that additional details regarding this attack will be published.",
+        "city:en": "Jiroft County",
+        "province:en": "Kerman",
+        "id": "MzI6MTcyMDViY2UzZjBk",
+        "publicId": "MzI6MTcyMDViY2UzZjBk",
+        "sourceId": "17205bce3f0d",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T18:28:01.348Z",
+        "updatedAt": "2026-09-01T18:28:01.348Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.090013216624016,
+          26.520256338643634
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در محدوده اطلاعات",
+        "unofficial_name:fa": "",
+        "date": 1788288180,
+        "geolocates": "",
+        "description": "یک موشک با دکل ساختمان وزارت اطلاعات سیریک (هرمزگان) برخورد کرد؛ شاهدان می‌گویند دکل متلاشی شده است.",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/iliaen/4691",
+        "name:en": "Explosion in the Vicinity of the Intelligence Office",
+        "description:en": "A missile struck the mast of the Sirik Ministry of Intelligence building (Hormozgan); witnesses report that the mast was destroyed.",
+        "city:en": "Sirik County",
+        "province:en": "Hormozgan",
+        "id": "MzI6NTY3YzdhMjUzMGJm",
+        "publicId": "MzI6NTY3YzdhMjUzMGJm",
+        "sourceId": "567c7a2530bf",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T18:48:22.053Z",
+        "updatedAt": "2026-09-01T18:49:00.746Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.82179591772692,
+          25.66363742044713
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در بندر جاسک",
+        "unofficial_name:fa": "",
+        "date": 1788288780,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان جاسک",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/hodinews/22105",
+        "name:en": "Explosion in Bandar Jask",
+        "city:en": "Jask",
+        "province:en": "Hormozgan",
+        "id": "MzI6NDczODEyYTBjOTRl",
+        "publicId": "MzI6NDczODEyYTBjOTRl",
+        "sourceId": "473812a0c94e",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T18:52:20.160Z",
+        "updatedAt": "2026-09-01T18:59:48.814Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94599,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8969563868356,
+          26.56572719090738
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در بندر لنگه",
+        "unofficial_name:fa": "",
+        "date": 1788288780,
+        "geolocates": "",
+        "description": "",
+        "city": "بندرلنگه",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/hodinews/22105",
+        "name:en": "Explosion in Bandar Lengeh",
+        "city:en": "Bandar Lengeh",
+        "province:en": "Hormozgan",
+        "id": "MzI6ODUxOTIwMWI0OTc1",
+        "publicId": "MzI6ODUxOTIwMWI0OTc1",
+        "sourceId": "8519201b4975",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T18:53:52.906Z",
+        "updatedAt": "2026-09-01T18:58:58.083Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94600,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.624673314791096,
+          27.488655483913377
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در عسلویه",
+        "unofficial_name:fa": "",
+        "date": 1788288060,
+        "geolocates": "",
+        "description": "",
+        "city": "عسلویه",
+        "province": "استان بوشهر",
+        "sources": "https://t.me/hodinews/22098",
+        "name:en": "Explosion in Asaluyeh",
+        "city:en": "Asaluyeh",
+        "province:en": "Bushehr",
+        "id": "MzI6NDVhMDVmODEwYjg1",
+        "publicId": "MzI6NDVhMDVmODEwYjg1",
+        "sourceId": "45a05f810b85",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T18:55:55.978Z",
+        "updatedAt": "2026-09-01T19:00:07.470Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94601,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.3559162175446,
+          26.813487886410115
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در لاوان",
+        "unofficial_name:fa": "",
+        "date": 1788288120,
+        "geolocates": "",
+        "description": "",
+        "city": "لاوان",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/hodinews/22098",
+        "name:en": "Explosion in Lavan",
+        "city:en": "Lavan",
+        "province:en": "Hormozgan",
+        "id": "MzI6NTA2MjU0ODcyOGQw",
+        "publicId": "MzI6NTA2MjU0ODcyOGQw",
+        "sourceId": "5062548728d0",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T18:57:08.707Z",
+        "updatedAt": "2026-09-01T18:59:33.842Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.24070128900627,
+          26.947408132961257
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در قشم",
+        "unofficial_name:fa": "",
+        "date": 1788288060,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/hodinews/22098",
+        "name:en": "Explosion in Qeshm",
+        "city:en": "Qeshm County",
+        "province:en": "Hormozgan",
+        "id": "MzI6MmZhN2RjZTBjOWUy",
+        "publicId": "MzI6MmZhN2RjZTBjOWUy",
+        "sourceId": "2fa7dce0c9e2",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T18:57:44.555Z",
+        "updatedAt": "2026-09-01T18:58:13.273Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.237278761537254,
+          26.96140486164957
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در قشم",
+        "unofficial_name:fa": "",
+        "date": 1788289320,
+        "geolocates": "",
+        "description": "پنج انفجار شدید در اطراف قشم",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/hey_itsmyturn/status/2094863184687468650?s=46",
+        "name:en": "Explosion in Qeshm",
+        "description:en": "Five severe explosions around Qeshm",
+        "city:en": "Qeshm County",
+        "province:en": "Hormozgan",
+        "id": "MzI6MDIzZDk3ZDk1OGI4",
+        "publicId": "MzI6MDIzZDk3ZDk1OGI4",
+        "sourceId": "023d97d958b8",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:02:50.630Z",
+        "updatedAt": "2026-09-01T19:06:57.114Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.02457415052413,
+          26.802455037631503
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "برخورد موشک به کوهستک",
+        "unofficial_name:fa": "",
+        "date": 1788288660,
+        "geolocates": "",
+        "description": "لحظاتی قبل یک موشک در شهرستان کوهستک (هرمزگان) به مناطق مسکونی برخورد کرد؛ متاسفانه یک مراسم عروسی در نزدیک محل برخورد جریان داشت. برق و آنتن تلفن همراه در محدوده شهرستان کوهستک (هرمزگان) قطع شد؛\n\nبر اساس آخرین گزارش‌ها پیش از قطع برق، برخی از مردم زیر آوار بودند و چند تن کشته شدند. نیروهای نظامی ورودی شهر را مسدود کردند.",
+        "city": "کوهستک",
+        "province": "استان هرمزگان",
+        "sources": "https://t.me/iliaen/4692, https://t.me/iliaen/4693",
+        "name:en": "Missile Strike in Kuhestak",
+        "description:en": "A short while ago, a missile struck residential areas in Kuhestak County (Hormozgan); unfortunately, a wedding ceremony was taking place near the impact site. Electricity and mobile phone service were cut off in the Kuhestak County (Hormozgan) area.\n\nAccording to the latest reports before the power outage, some people were trapped under the rubble and several were killed. Military forces have blocked the entrance to the city.",
+        "city:en": "Kuhestak",
+        "province:en": "Hormozgan",
+        "id": "MzI6OTAzM2NjZDg3ZDFl",
+        "publicId": "MzI6OTAzM2NjZDg3ZDFl",
+        "sourceId": "9033ccd87d1e",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:05:55.430Z",
+        "updatedAt": "2026-09-01T19:24:55.642Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.198979359173705,
+          27.18480617543645
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در بندرعباس",
+        "unofficial_name:fa": "",
+        "date": 1788290100,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان بندرعباس",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/sentdefender/status/2094866549186113787",
+        "name:en": "Explosion in Bandar Abbas",
+        "city:en": "Bandar Abbas County",
+        "province:en": "Hormozgan",
+        "id": "MzI6NWEzZmFkM2I1Yzc5",
+        "publicId": "MzI6NWEzZmFkM2I1Yzc5",
+        "sourceId": "5a3fad3b5c79",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:17:30.283Z",
+        "updatedAt": "2026-09-01T19:17:30.283Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.61275087619288,
+          25.33887208178534
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در چابهار",
+        "unofficial_name:fa": "",
+        "date": 1788289980,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان چابهار",
+        "province": "استان سیستان و بلوچستان",
+        "sources": "https://x.com/sentdefender/status/2094866549186113787, https://x.com/rppress0/status/2094848352181510382?s=46",
+        "name:en": "Explosion in Chabahar",
+        "city:en": "Chabahar County",
+        "province:en": "Sistan and Baluchestan",
+        "id": "MzI6MTMwODAwNDcwMWE0",
+        "publicId": "MzI6MTMwODAwNDcwMWE0",
+        "sourceId": "1308004701a4",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:18:18.558Z",
+        "updatedAt": "2026-09-01T19:34:22.706Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.023770967802534,
+          26.802297923040356
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تخریب مخابرات کوهستک",
+        "unofficial_name:fa": "",
+        "date": 1788290340,
+        "geolocates": "",
+        "description": "تخریب کامل مخابرات کوهستک طی حملات",
+        "city": "کوهستک",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/Osint613/status/2094867617810919438?s=20, https://x.com/faytuksnetwork/status/2094875993911533912?s=46",
+        "name:en": "Destruction of Kuhestak Telecommunications",
+        "description:en": "Complete destruction of Kuhestak telecommunications during attacks",
+        "city:en": "Kuhestak",
+        "province:en": "Hormozgan",
+        "id": "MzI6NjJlNzdhNDk4ZWFm",
+        "publicId": "MzI6NjJlNzdhNDk4ZWFm",
+        "sourceId": "62e77a498eaf",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:21:56.945Z",
+        "updatedAt": "2026-09-01T19:57:23.393Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94615,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.651399276323616,
+          31.340308008850272
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در اهواز",
+        "unofficial_name:fa": "",
+        "date": 1788291540,
+        "geolocates": "",
+        "description": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "sources": "https://x.com/osint613/status/2094872750175211553?s=46",
+        "name:en": "Explosion in Ahvaz",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MzI6ZmFmZDNhMjBiM2E2",
+        "publicId": "MzI6ZmFmZDNhMjBiM2E2",
+        "sourceId": "fafd3a20b3a6",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:42:16.328Z",
+        "updatedAt": "2026-09-01T19:42:16.328Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94620,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.77515325775724,
+          31.33390687486009
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در اهواز",
+        "unofficial_name:fa": "",
+        "date": 1788292020,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان اهواز",
+        "province": "استان خوزستان",
+        "sources": "https://t.me/hodinews/22114",
+        "name:en": "Explosion in Ahvaz",
+        "city:en": "Ahvaz County",
+        "province:en": "Khuzestan",
+        "id": "MzI6MTY4MjIyMjlhZjQw",
+        "publicId": "MzI6MTY4MjIyMjlhZjQw",
+        "sourceId": "16822229af40",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:56:13.653Z",
+        "updatedAt": "2026-09-01T19:56:50.664Z"
+      }
     }
   ],
   "metadata": {
-    "total": 849,
+    "total": 871,
     "layerId": 32,
     "clustered": false,
     "simplified": false

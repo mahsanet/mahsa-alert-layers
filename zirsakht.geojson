@@ -69079,10 +69079,65 @@
         "createdAt": "2026-08-06T18:41:08.593Z",
         "updatedAt": "2026-08-06T18:41:08.593Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94607,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.02348199495708,
+              26.802343645848964
+            ],
+            [
+              57.023804563186104,
+              26.80242735855316
+            ],
+            [
+              57.02394864942619,
+              26.80219896106037
+            ],
+            [
+              57.02357859186904,
+              26.802085816286265
+            ],
+            [
+              57.02357859186904,
+              26.802085816286265
+            ],
+            [
+              57.02348199495708,
+              26.802343645848964
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "مخابرات سیریک",
+        "description": "",
+        "date": "",
+        "city": "کوهستک",
+        "province": "استان هرمزگان",
+        "city:en": "Kuhestak",
+        "province:en": "Hormozgan",
+        "id": "MzU6NWQ2YzBiNThlNzdh",
+        "publicId": "MzU6NWQ2YzBiNThlNzdh",
+        "sourceId": "5d6c0b58e77a",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:20:26.108Z",
+        "updatedAt": "2026-09-01T19:20:26.108Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2016,
+    "total": 2017,
     "layerId": 35,
     "clustered": false,
     "simplified": false

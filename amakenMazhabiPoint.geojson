@@ -174988,10 +174988,286 @@
         "createdAt": "2026-08-29T17:48:19.302Z",
         "updatedAt": "2026-08-29T17:48:19.302Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94568,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9371526684717,
+          36.907100108258575
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد قمر بنی هاشم",
+        "description": "",
+        "date": "",
+        "city": "بام",
+        "province": "استان خراسان شمالی",
+        "name:en": "Qamar Bani Hashem Mosque",
+        "city:en": "Bam",
+        "province:en": "North Khorasan",
+        "id": "NDplNmM0NTE2YzRlY2M",
+        "publicId": "NDplNmM0NTE2YzRlY2M",
+        "sourceId": "e6c4516c4ecc",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T04:17:40.946Z",
+        "updatedAt": "2026-09-01T04:17:40.946Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94569,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.672252782465364,
+              29.451670163025526
+            ],
+            [
+              55.67241854753627,
+              29.451424525751932
+            ],
+            [
+              55.673202278047455,
+              29.451794215648704
+            ],
+            [
+              55.67304626316371,
+              29.4520373786808
+            ],
+            [
+              55.67268544271471,
+              29.45187182799023
+            ],
+            [
+              55.67268544271471,
+              29.45187182799023
+            ],
+            [
+              55.672252782465364,
+              29.451670163025526
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه امام خمینی",
+        "description": "",
+        "date": "",
+        "city": "سيرجان",
+        "province": "استان کرمان",
+        "name:en": "Imam Khomeini Hosseiniyeh",
+        "city:en": "Sirjan",
+        "province:en": "Kerman",
+        "id": "NDpiNjQyNjkyMTVmMDM",
+        "publicId": "NDpiNjQyNjkyMTVmMDM",
+        "sourceId": "b64269215f03",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T04:19:24.476Z",
+        "updatedAt": "2026-09-01T04:24:16.917Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94571,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.69580812881043,
+              31.311590712854382
+            ],
+            [
+              48.695915891746864,
+              31.31182272309016
+            ],
+            [
+              48.69616159124311,
+              31.31173433830527
+            ],
+            [
+              48.69604520727097,
+              31.311508220188273
+            ],
+            [
+              48.69604520727097,
+              31.311508220188273
+            ],
+            [
+              48.69580812881043,
+              31.311590712854382
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد فاطمه زهرا",
+        "description": "",
+        "date": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Fatimah Zahra Mosque",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "NDowODFiOTY5YTlhZjk",
+        "publicId": "NDowODFiOTY5YTlhZjk",
+        "sourceId": "081b969a9af9",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T04:23:36.199Z",
+        "updatedAt": "2026-09-01T04:23:36.199Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.38716229327315,
+          26.883313207527124
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد لارک",
+        "description": "",
+        "date": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "name:en": "Larak Mosque",
+        "city:en": "Qeshm County",
+        "province:en": "Hormozgan",
+        "id": "NDo0MWJiM2RjODA0MDI",
+        "publicId": "NDo0MWJiM2RjODA0MDI",
+        "sourceId": "41bb3dc80402",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T09:17:18.785Z",
+        "updatedAt": "2026-09-01T09:17:18.785Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.023497963251856,
+          26.803777316220888
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "کوهستک",
+        "province": "استان هرمزگان",
+        "name:en": "Mosque",
+        "city:en": "Kuhestak",
+        "province:en": "Hormozgan",
+        "id": "NDphYTU0NWI4ODNkNGM",
+        "publicId": "NDphYTU0NWI4ODNkNGM",
+        "sourceId": "aa545b883d4c",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:25:28.008Z",
+        "updatedAt": "2026-09-01T19:25:28.008Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.027879616125205,
+          26.80318447726046
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "کوهستک",
+        "province": "استان هرمزگان",
+        "name:en": "Mosque",
+        "city:en": "Kuhestak",
+        "province:en": "Hormozgan",
+        "id": "NDo3NjM5ZTc5YmRiMWI",
+        "publicId": "NDo3NjM5ZTc5YmRiMWI",
+        "sourceId": "7639e79bdb1b",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:25:56.043Z",
+        "updatedAt": "2026-09-01T19:25:56.043Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.02442474779542,
+          26.803069363876943
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد علی ابی طالب",
+        "description": "",
+        "date": "",
+        "city": "کوهستک",
+        "province": "استان هرمزگان",
+        "name:en": "Ali ibn Abi Talib Mosque",
+        "city:en": "Kuhestak",
+        "province:en": "Hormozgan",
+        "id": "NDo2MDhhMmQ1YTYxMWQ",
+        "publicId": "NDo2MDhhMmQ1YTYxMWQ",
+        "sourceId": "608a2d5a611d",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:26:40.969Z",
+        "updatedAt": "2026-09-01T19:26:40.969Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5633,
+    "total": 5640,
     "layerId": 4,
     "clustered": false,
     "simplified": false

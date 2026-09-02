@@ -16964,10 +16964,443 @@
         "createdAt": "2026-08-31T21:26:49.395Z",
         "updatedAt": "2026-08-31T21:26:49.395Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.69601931422949,
+          31.31167721441234
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه شهید مصطفی خمینی",
+        "description": "پایگاه مخفی موشکی اهواز - پایگاه شهید مصطفی خمینی، مسجد فاطمه زهرا",
+        "date": 1788174966,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "sources": "",
+        "name:en": "Shahid Mostafa Khomeini Base",
+        "description:en": "Ahvaz Secret Missile Base - Shahid Mostafa Khomeini Base, Fatemeh Zahra Mosque",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "NzpkMWU4NTYyZDQ1M2Y",
+        "publicId": "NzpkMWU4NTYyZDQ1M2Y",
+        "sourceId": "d1e8562d453f",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T04:25:09.407Z",
+        "updatedAt": "2026-09-01T04:25:09.407Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.294559266496066,
+          38.15009452208071
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "description": "شلیک موشک از تبریز",
+        "date": 1788287760,
+        "city": "شهرستان تبریز",
+        "province": "استان آذربایجان شرقی",
+        "sources": "https://x.com/osint613/status/2094856521695793199?s=46",
+        "name:en": "Missile Launch",
+        "description:en": "Missile launch from Tabriz",
+        "city:en": "Tabriz County",
+        "province:en": "East Azerbaijan",
+        "id": "NzpiNTk4ZTA2ZDE4NzU",
+        "publicId": "NzpiNTk4ZTA2ZDE4NzU",
+        "sourceId": "b598e06d1875",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T18:36:53.286Z",
+        "updatedAt": "2026-09-01T18:36:53.286Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.19772347376622,
+          34.3835840840555
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "description": "شلیک موشک از کرمانشاه",
+        "date": 1788287820,
+        "city": "شهرستان کرمانشاه",
+        "province": "استان کرمانشاه",
+        "sources": "https://x.com/hey_itsmyturn/status/2094854384484012249",
+        "name:en": "Missile Launch",
+        "description:en": "Missile launch from Kermanshah",
+        "city:en": "Kermanshah County",
+        "province:en": "Kermanshah",
+        "id": "NzoxM2FhMjk3Zjc3NDA",
+        "publicId": "NzoxM2FhMjk3Zjc3NDA",
+        "sourceId": "13aa297f7740",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T18:39:13.878Z",
+        "updatedAt": "2026-09-01T18:39:13.878Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94596,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.12915536417927,
+          33.5600185749032
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک ناموفق موشک",
+        "description": "شلیک ناموفق موشک از خمین",
+        "date": 1788288060,
+        "city": "شهرستان خمین",
+        "province": "استان مرکزی",
+        "sources": "https://t.me/hodinews/22100",
+        "name:en": "Unsuccessful Missile Launch",
+        "description:en": "Failed missile launch from Khomein",
+        "city:en": "Khomein",
+        "province:en": "Markazi",
+        "id": "Nzo3MmQ2ZTY4YTU0MTQ",
+        "publicId": "Nzo3MmQ2ZTY4YTU0MTQ",
+        "sourceId": "72d6e68a5414",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T18:42:05.473Z",
+        "updatedAt": "2026-09-01T18:42:05.473Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.13292479052711,
+          33.556873254631284
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک از خمین",
+        "description": "",
+        "date": 1788290760,
+        "city": "شهرستان خمین",
+        "province": "استان مرکزی",
+        "sources": "https://t.me/VahidOnline/78159, https://x.com/vahid/status/2094871158998880458?s=46",
+        "name:en": "Missile Launch from Khomein",
+        "city:en": "Khomein County",
+        "province:en": "Markazi",
+        "id": "Nzo5YzhiODFlYjQzZDU",
+        "publicId": "Nzo5YzhiODFlYjQzZDU",
+        "sourceId": "9c8b81eb43d5",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:29:13.149Z",
+        "updatedAt": "2026-09-01T19:36:10.385Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.21369036833809,
+          33.55407299270517
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک از لرستان",
+        "description": "",
+        "date": 1788290580,
+        "city": "شهرستان چگنی",
+        "province": "استان لرستان",
+        "sources": "https://x.com/Osint613/status/2094869967661343150?s=20, https://x.com/vahid/status/2094871158998880458?s=46",
+        "name:en": "Missile Launch from Lorestan",
+        "city:en": "Chegeni County",
+        "province:en": "Lorestan",
+        "id": "NzphNzNiOTMyNWJiZjc",
+        "publicId": "NzphNzNiOTMyNWJiZjc",
+        "sourceId": "a73b9325bbf7",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:30:24.528Z",
+        "updatedAt": "2026-09-01T19:36:54.938Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94614,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.29921963274336,
+          31.799331433084873
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک از یزد",
+        "description": "",
+        "date": 1788291180,
+        "city": "شهرستان تفت",
+        "province": "استان یزد",
+        "sources": "https://x.com/osint613/status/2094872191326126337?s=46",
+        "name:en": "Missile launch from Yazd",
+        "city:en": "Taft County",
+        "province:en": "Yazd",
+        "id": "Nzo3OGNmNmEyNGVjZGU",
+        "publicId": "Nzo3OGNmNmEyNGVjZGU",
+        "sourceId": "78cf6a24ecde",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:38:58.049Z",
+        "updatedAt": "2026-09-01T19:39:02.026Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94616,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.22706464456513,
+          34.35960829645586
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "description": "",
+        "date": 1788291780,
+        "city": "شهرستان کرمانشاه",
+        "province": "استان کرمانشاه",
+        "sources": "https://t.me/VahidOnline/78165",
+        "name:en": "Missile Firing",
+        "city:en": "Kermanshah",
+        "province:en": "Kermanshah",
+        "id": "NzoyMzViYjgzMGRmOGM",
+        "publicId": "NzoyMzViYjgzMGRmOGM",
+        "sourceId": "235bb830df8c",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:45:42.464Z",
+        "updatedAt": "2026-09-01T19:45:42.464Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94617,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.90360158324924,
+          35.62490922159104
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "description": "",
+        "date": 1788291900,
+        "city": "شهرستان ملارد",
+        "province": "استان تهران",
+        "sources": "https://x.com/FaytuksNetwork/status/2094874236170928567?s=20",
+        "name:en": "Missile Launch",
+        "city:en": "Malard County",
+        "province:en": "Tehran",
+        "id": "Nzo4NmQ4YzNlN2FhMzU",
+        "publicId": "Nzo4NmQ4YzNlN2FhMzU",
+        "sourceId": "86d8c3e7aa35",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:47:00.155Z",
+        "updatedAt": "2026-09-01T19:47:00.155Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43429044624324,
+          32.707418787504906
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "description": "",
+        "date": 1788291780,
+        "city": "شهرستان نجف آباد",
+        "province": "استان اصفهان",
+        "sources": "https://t.me/Missile_Force/778",
+        "name:en": "Missile Launch",
+        "city:en": "Najafabad County",
+        "province:en": "Isfahan",
+        "id": "NzpkY2NhM2E3ZTM3MDk",
+        "publicId": "NzpkY2NhM2E3ZTM3MDk",
+        "sourceId": "dcca3a7e3709",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:48:51.945Z",
+        "updatedAt": "2026-09-01T19:48:51.945Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.31389471271339,
+          38.28259379671408
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "description": "",
+        "date": 1788292260,
+        "city": "شهرستان اردبیل",
+        "province": "استان اردبیل",
+        "sources": "https://t.me/hodinews/22115",
+        "name:en": "Missile Launch",
+        "city:en": "Ardabil County",
+        "province:en": "Ardabil",
+        "id": "NzoyNmI4MjBjNDFiYmY",
+        "publicId": "NzoyNmI4MjBjNDFiYmY",
+        "sourceId": "26b820c41bbf",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:54:39.100Z",
+        "updatedAt": "2026-09-01T19:54:39.100Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94622,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.93474363547554,
+          35.874530035844785
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "description": "",
+        "date": 1788295260,
+        "city": "شهرستان کرج",
+        "province": "استان البرز",
+        "sources": "https://t.me/hodinews/22122",
+        "name:en": "Missile Launch",
+        "city:en": "Karaj County",
+        "province:en": "Alborz",
+        "id": "NzoxYjUwYzM4NjgzMTI",
+        "publicId": "NzoxYjUwYzM4NjgzMTI",
+        "sourceId": "1b50c3868312",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T20:45:11.758Z",
+        "updatedAt": "2026-09-01T20:45:11.758Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3975912370189,
+          33.60363323477958
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "description": "",
+        "date": 1788215340,
+        "city": "شهرستان ایلام",
+        "province": "استان ایلام",
+        "sources": "https://x.com/hey_itsmyturn/status/2094914021027688748?s=46",
+        "name:en": "Missile Firing",
+        "city:en": "Ilam",
+        "province:en": "Ilam",
+        "id": "Nzo3NzhkOWNiYWY3MDE",
+        "publicId": "Nzo3NzhkOWNiYWY3MDE",
+        "sourceId": "778d9cbaf701",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T22:30:10.390Z",
+        "updatedAt": "2026-09-01T22:30:10.390Z"
+      }
     }
   ],
   "metadata": {
-    "total": 157,
+    "total": 170,
     "layerId": 7,
     "clustered": false,
     "simplified": false

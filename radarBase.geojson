@@ -4565,10 +4565,42 @@
         "createdAt": "2026-08-31T03:39:34.373Z",
         "updatedAt": "2026-08-31T03:39:34.373Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3923837186463,
+          26.845882610221594
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "city:en": "Qeshm County",
+        "province:en": "Hormozgan",
+        "id": "OTplOTZmNmE0NjAzY2M",
+        "publicId": "OTplOTZmNmE0NjAzY2M",
+        "sourceId": "e96f6a4603cc",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T09:13:44.923Z",
+        "updatedAt": "2026-09-01T09:13:44.923Z"
+      }
     }
   ],
   "metadata": {
-    "total": 67,
+    "total": 68,
     "layerId": 9,
     "clustered": false,
     "simplified": false

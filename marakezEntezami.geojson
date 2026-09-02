@@ -100728,37 +100728,6 @@
     },
     {
       "type": "Feature",
-      "id": 87370,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.6879485,
-          29.4594236
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NTA4MA",
-        "city": "سيرجان",
-        "osm_id": "",
-        "name:fa": "کلانتری 13 استقلال",
-        "province": "استان کرمان",
-        "name:en": "Esteghlal Police Station 13",
-        "city:en": "Sirjan",
-        "province:en": "Kerman",
-        "publicId": "Mzo2NTA4MA",
-        "sourceId": "65080",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.165Z",
-        "updatedAt": "2026-03-13T04:41:07.165Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 87371,
       "geometry": {
         "type": "Point",
@@ -101166,8 +101135,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.6859931,
-          29.4556472
+          55.68596930754893,
+          29.45702197051375
         ]
       },
       "properties": {
@@ -101188,7 +101157,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.170Z",
-        "updatedAt": "2026-03-13T04:41:07.170Z"
+        "updatedAt": "2026-09-01T04:27:04.153Z"
       }
     },
     {
@@ -189709,10 +189678,109 @@
         "createdAt": "2026-08-25T20:03:58.832Z",
         "updatedAt": "2026-08-25T20:04:03.673Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.67834682762623,
+          29.449000893580546
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس مبارزه با موادمخدر",
+        "description": "پلیس مبارزه با موادمخدر سیرجان",
+        "date": 1788235247,
+        "city": "سيرجان",
+        "province": "استان کرمان",
+        "name:en": "Anti-Narcotics Police",
+        "description:en": "Sirjan Anti-Narcotics Police",
+        "city:en": "Sirjan",
+        "province:en": "Kerman",
+        "id": "MzoxZjcxODZhYzJkY2I",
+        "publicId": "MzoxZjcxODZhYzJkY2I",
+        "sourceId": "1f7186ac2dcb",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T04:10:32.152Z",
+        "updatedAt": "2026-09-01T04:10:32.152Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.93615996837616,
+          36.90098405499853
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه انتظامی",
+        "description": "پاسگاه به صورت شبانه گشتی یگان ویژه دارد.",
+        "date": 1788234188,
+        "city": "بام",
+        "province": "استان خراسان شمالی",
+        "name:en": "Police Station",
+        "description:en": "The station has night patrols by the Special Unit.",
+        "city:en": "Bam",
+        "province:en": "North Khorasan",
+        "id": "MzpjOWEzYWZmNDllZWQ",
+        "publicId": "MzpjOWEzYWZmNDllZWQ",
+        "sourceId": "c9a3aff49eed",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T04:14:07.826Z",
+        "updatedAt": "2026-09-01T04:14:07.826Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94574,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6879653967917,
+          29.462791681148886
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۳ سیرجان",
+        "description": "کلانتری ۱۳ استقلال سیرجان",
+        "date": 1788236014,
+        "city": "سيرجان",
+        "province": "استان کرمان",
+        "name:en": "Police Station 13 of Sirjan",
+        "description:en": "Esteghlal Police Station 13 of Sirjan",
+        "city:en": "Sirjan",
+        "province:en": "Kerman",
+        "id": "Mzo2M2JmZTdmYTkyODg",
+        "publicId": "Mzo2M2JmZTdmYTkyODg",
+        "sourceId": "63bfe7fa9288",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T04:26:09.572Z",
+        "updatedAt": "2026-09-01T04:26:09.572Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6078,
+    "total": 6080,
     "layerId": 3,
     "clustered": false,
     "simplified": false

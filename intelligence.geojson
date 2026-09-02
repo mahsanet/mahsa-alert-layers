@@ -13773,10 +13773,41 @@
         "createdAt": "2026-08-27T19:33:28.110Z",
         "updatedAt": "2026-08-27T19:33:38.592Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.67848898470402,
+          29.449061036565695
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "پلیس اطلاعات سیرجان",
+        "description": "",
+        "date": 1788235670,
+        "city": "سيرجان",
+        "province": "استان کرمان",
+        "city:en": "Sirjan",
+        "province:en": "Kerman",
+        "id": "MjoxMTljZWRhMmVmMzU",
+        "publicId": "MjoxMTljZWRhMmVmMzU",
+        "sourceId": "119ceda2ef35",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T04:11:45.043Z",
+        "updatedAt": "2026-09-01T04:11:45.043Z"
+      }
     }
   ],
   "metadata": {
-    "total": 351,
+    "total": 352,
     "layerId": 2,
     "clustered": false,
     "simplified": false

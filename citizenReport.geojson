@@ -22243,10 +22243,180 @@
         "createdAt": "2026-08-31T01:04:18.012Z",
         "updatedAt": "2026-08-31T01:04:18.012Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.295530796051025,
+          35.6956325934631
+        ]
+      },
+      "properties": {
+        "name:fa": "فعالیت جنگنده",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1788242580,
+        "description": "تیک‌آف و فعالیت حداقل دو فروند جنگنده از فرودگاه مهرآباد امروز صبح",
+        "sources": "",
+        "name:en": "Fighter Jet Activity",
+        "description:en": "Takeoff and activity of at least two fighter jets from Mehrabad Airport this morning",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6M2FhNzFkYWQzZWNl",
+        "publicId": "MzY6M2FhNzFkYWQzZWNl",
+        "sourceId": "3aa71dad3ece",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T16:41:46.006Z",
+        "updatedAt": "2026-09-01T16:42:34.688Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94591,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.09091067314148,
+          34.420186267372
+        ]
+      },
+      "properties": {
+        "name:fa": "فعالیت جنگنده ها",
+        "city": "شهرستان کرمانشاه",
+        "province": "استان کرمانشاه",
+        "date": 1788283800,
+        "description": "کرمانشاه ساعت ۹ شب صدای جنگنده شنیده می‌شود",
+        "sources": "https://x.com/hey_itsmyturn/status/2094839038477807760",
+        "name:en": "Fighter Jet Activity",
+        "description:en": "At 9 PM in Kermanshah, the sound of fighter jets is heard.",
+        "city:en": "Kermanshah",
+        "province:en": "Kermanshah",
+        "id": "MzY6NGVkMTcxZmE2Yjk2",
+        "publicId": "MzY6NGVkMTcxZmE2Yjk2",
+        "sourceId": "4ed171fa6b96",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T17:33:49.359Z",
+        "updatedAt": "2026-09-01T17:35:07.840Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38721825554967,
+          35.635183337168925
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع بسیجی‌ها",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1788284580,
+        "description": "تجمع شبانه بسیجی‌ها روبروی مسجد ولیعصر",
+        "sources": "",
+        "name:en": "Basiji Gathering",
+        "description:en": "Nighttime gathering of Basijis in front of Valiasr Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6ZjFlYWRkYmNiYmRl",
+        "publicId": "MzY6ZjFlYWRkYmNiYmRl",
+        "sourceId": "f1eaddbcbbde",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T18:34:28.091Z",
+        "updatedAt": "2026-09-01T18:34:28.091Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.60494163104764,
+          35.75258374228933
+        ]
+      },
+      "properties": {
+        "name:fa": "فعالیت پدافندی",
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "date": 1788292560,
+        "description": "فعالیت پدافندی از شرق تهران",
+        "sources": "https://t.me/VahidOnLive/8974",
+        "name:en": "Air Defense Activity",
+        "description:en": "Air defense activity from eastern Tehran",
+        "city:en": "Tehran County",
+        "province:en": "Tehran",
+        "id": "MzY6Zjg3OWFjMWMzZDY1",
+        "publicId": "MzY6Zjg3OWFjMWMzZDY1",
+        "sourceId": "f879ac1c3d65",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T19:58:56.843Z",
+        "updatedAt": "2026-09-01T19:59:37.980Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.469897641539774,
+          36.33689252158568
+        ]
+      },
+      "properties": {
+        "name:fa": "زیرگیری بسیجیان",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": 1788298140,
+        "description": "ویدیویی با این توضیح منتشر شده است که در مشهد یک خودرو به تجمع بسیجیان برخورد کرده است.",
+        "sources": "https://x.com/mhmiranusa/status/2094904476930834632?s=20",
+        "name:en": "Basijis Run Over by Vehicle",
+        "description:en": "A video has been published with the caption stating that a car struck a gathering of Basijis in Mashhad.",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MzY6MTI4ZDU0NGJlZWQ4",
+        "publicId": "MzY6MTI4ZDU0NGJlZWQ4",
+        "sourceId": "128d544beed8",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T22:12:54.158Z",
+        "updatedAt": "2026-09-01T22:14:27.795Z"
+      }
     }
   ],
   "metadata": {
-    "total": 671,
+    "total": 676,
     "layerId": 36,
     "clustered": false,
     "simplified": false

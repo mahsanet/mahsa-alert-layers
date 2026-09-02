@@ -17614,9 +17614,15 @@
         ]
       },
       "properties": {
-        "id": "MTI6MTUwMA",
+        "name:fa": "سپاه امام علی",
+        "unofficial_name:fa": "",
+        "description": "مرکز سایبری امام علی سپاه پاسداران در شهر ماهدشت کرج\n",
+        "date": "",
         "city": "شهرستان کرج",
         "province": "استان البرز",
+        "id": "MTI6MTUwMA",
+        "name:en": "Imam Ali Corps",
+        "description:en": "Imam Ali Cyber Center of the Islamic Revolutionary Guard Corps in Mahdasht city, Karaj",
         "city:en": "Karaj County",
         "province:en": "Alborz",
         "publicId": "MTI6MTUwMA",
@@ -17628,7 +17634,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:49:59.239Z",
-        "updatedAt": "2026-03-11T20:49:59.239Z"
+        "updatedAt": "2026-09-01T04:21:18.646Z"
       }
     },
     {
@@ -22640,210 +22646,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-11T20:49:59.258Z",
         "updatedAt": "2026-03-11T20:49:59.258Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1411,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              60.6216386,
-              25.3298299
-            ],
-            [
-              60.6215286,
-              25.3301354
-            ],
-            [
-              60.6208232,
-              25.3320312
-            ],
-            [
-              60.6196994,
-              25.3348312
-            ],
-            [
-              60.6196001,
-              25.3350179
-            ],
-            [
-              60.6189859,
-              25.3360433
-            ],
-            [
-              60.6183475,
-              25.3368482
-            ],
-            [
-              60.6146032,
-              25.3405353
-            ],
-            [
-              60.6137127,
-              25.3414226
-            ],
-            [
-              60.6132781,
-              25.3420625
-            ],
-            [
-              60.6130099,
-              25.3426589
-            ],
-            [
-              60.6128812,
-              25.3432067
-            ],
-            [
-              60.6128436,
-              25.3435703
-            ],
-            [
-              60.6129026,
-              25.3443993
-            ],
-            [
-              60.6130797,
-              25.3449811
-            ],
-            [
-              60.613305,
-              25.3454853
-            ],
-            [
-              60.6139809,
-              25.3466149
-            ],
-            [
-              60.6143457,
-              25.3473179
-            ],
-            [
-              60.6145388,
-              25.3479093
-            ],
-            [
-              60.6111592,
-              25.348748
-            ],
-            [
-              60.6089276,
-              25.3492328
-            ],
-            [
-              60.6086379,
-              25.3494994
-            ],
-            [
-              60.6067336,
-              25.3497224
-            ],
-            [
-              60.605371,
-              25.3500618
-            ],
-            [
-              60.6012082,
-              25.3507599
-            ],
-            [
-              60.6002533,
-              25.3495188
-            ],
-            [
-              60.599851,
-              25.3493491
-            ],
-            [
-              60.5983758,
-              25.3505611
-            ],
-            [
-              60.5952644,
-              25.3498049
-            ],
-            [
-              60.5927539,
-              25.3472064
-            ],
-            [
-              60.5954575,
-              25.3433085
-            ],
-            [
-              60.596981,
-              25.3364821
-            ],
-            [
-              60.6016588,
-              25.332487
-            ],
-            [
-              60.6068194,
-              25.3324385
-            ],
-            [
-              60.6119799,
-              25.33239
-            ],
-            [
-              60.615204,
-              25.3314348
-            ],
-            [
-              60.6184655,
-              25.3314591
-            ],
-            [
-              60.619002,
-              25.3309063
-            ],
-            [
-              60.6198013,
-              25.3306057
-            ],
-            [
-              60.620209,
-              25.3304118
-            ],
-            [
-              60.6205201,
-              25.3301015
-            ],
-            [
-              60.6209868,
-              25.3298251
-            ],
-            [
-              60.6214964,
-              25.3297766
-            ],
-            [
-              60.6216386,
-              25.3298299
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "MTI6MTA1MQ",
-        "city": "شهرستان چابهار",
-        "province": "استان سیستان و بلوچستان",
-        "city:en": "Chabahar",
-        "province:en": "Sistan and Baluchestan",
-        "publicId": "MTI6MTA1MQ",
-        "sourceId": "1051",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:49:59.259Z",
-        "updatedAt": "2026-03-11T20:49:59.259Z"
       }
     },
     {
@@ -73992,10 +73794,308 @@
         "createdAt": "2026-08-15T23:22:55.747Z",
         "updatedAt": "2026-08-15T23:22:55.747Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83551183342934,
+          35.73356841049143
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز آموزش یگان ویژه",
+        "unofficial_name:fa": "",
+        "description": "مرکز آموزش یگان ویژه نیروی انتظامی که بارها مورد حملات قرار گرفته است.",
+        "date": 1788177364,
+        "city": "شهرستان کرج",
+        "province": "استان البرز",
+        "name:en": "Special Unit Training Center",
+        "description:en": "The Law Enforcement Special Unit training center, which has been attacked multiple times.",
+        "city:en": "Karaj County",
+        "province:en": "Alborz",
+        "id": "MTI6ZjA4N2RkOTZiZmRh",
+        "publicId": "MTI6ZjA4N2RkOTZiZmRh",
+        "sourceId": "f087dd96bfda",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T04:20:43.435Z",
+        "updatedAt": "2026-09-01T04:20:43.435Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.67288239424164,
+          29.451803432425393
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه پاسداران سیرجان",
+        "unofficial_name:fa": "",
+        "description": "مرکز سپاه پاسداران سیرجان کنار پاررک هادی",
+        "date": "",
+        "city": "سيرجان",
+        "province": "استان کرمان",
+        "name:en": "Sirjan Sepah Pasdaran",
+        "description:en": "Sirjan Islamic Revolutionary Guard Corps center, next to Hadi Park",
+        "city:en": "Sirjan",
+        "province:en": "Kerman",
+        "id": "MTI6ZjcyYmU4YjJiMmU4",
+        "publicId": "MTI6ZjcyYmU4YjJiMmU4",
+        "sourceId": "f72be8b2b2e8",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-01T04:24:41.110Z",
+        "updatedAt": "2026-09-01T04:24:41.110Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94575,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.35761996353153,
+              26.860995727724983
+            ],
+            [
+              56.3585547592088,
+              26.861463693531547
+            ],
+            [
+              56.358868599482605,
+              26.861273707647186
+            ],
+            [
+              56.35889550007872,
+              26.8609857284343
+            ],
+            [
+              56.35876548053628,
+              26.860733746022362
+            ],
+            [
+              56.35837990534057,
+              26.8606057547411
+            ],
+            [
+              56.35780602598035,
+              26.860755744509248
+            ],
+            [
+              56.35779930083126,
+              26.860755744509248
+            ],
+            [
+              56.35761996353153,
+              26.860995727724983
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "city:en": "Qeshm",
+        "province:en": "Hormozgan",
+        "id": "MTI6ZmY3MTkxMjIxMzZj",
+        "publicId": "MTI6ZmY3MTkxMjIxMzZj",
+        "sourceId": "ff719122136c",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T09:09:36.607Z",
+        "updatedAt": "2026-09-01T09:14:48.101Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94577,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.39232407222676,
+              26.845238889840047
+            ],
+            [
+              56.39275859631047,
+              26.844562891201093
+            ],
+            [
+              56.39472675991166,
+              26.845925205451394
+            ],
+            [
+              56.39413405597915,
+              26.846422417328583
+            ],
+            [
+              56.39413405597915,
+              26.84652013501207
+            ],
+            [
+              56.39336243845693,
+              26.846956436102502
+            ],
+            [
+              56.3929662287631,
+              26.8473674226789
+            ],
+            [
+              56.39266093203878,
+              26.847623827593154
+            ],
+            [
+              56.39121782681218,
+              26.84698579329455
+            ],
+            [
+              56.39187449276574,
+              26.845894343707585
+            ],
+            [
+              56.39187449276574,
+              26.845894343707585
+            ],
+            [
+              56.39232407222676,
+              26.845238889840047
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "city:en": "Qeshm County",
+        "province:en": "Hormozgan",
+        "id": "MTI6MDA2ZjQzNDg1NmVk",
+        "publicId": "MTI6MDA2ZjQzNDg1NmVk",
+        "sourceId": "006f434856ed",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T09:13:19.726Z",
+        "updatedAt": "2026-09-01T09:13:26.503Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94579,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.40120383633624,
+              26.87530598435434
+            ],
+            [
+              56.401942857145116,
+              26.874283868059578
+            ],
+            [
+              56.401877126237395,
+              26.87381822719665
+            ],
+            [
+              56.401174155226244,
+              26.87376310133321
+            ],
+            [
+              56.40080593231423,
+              26.873707975443693
+            ],
+            [
+              56.39996133710491,
+              26.874277608341387
+            ],
+            [
+              56.39979911302598,
+              26.87443839130151
+            ],
+            [
+              56.399871212617455,
+              26.874573908189575
+            ],
+            [
+              56.399734738402856,
+              26.875001129859186
+            ],
+            [
+              56.39986091269631,
+              26.875029649383762
+            ],
+            [
+              56.39986091269631,
+              26.875029649383762
+            ],
+            [
+              56.40120383633624,
+              26.87530598435434
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان قشم",
+        "province": "استان هرمزگان",
+        "city:en": "Qeshm County",
+        "province:en": "Hormozgan",
+        "id": "MTI6Y2NlMTYxYzFlNzhl",
+        "publicId": "MTI6Y2NlMTYxYzFlNzhl",
+        "sourceId": "cce161c1e78e",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-01T09:14:26.058Z",
+        "updatedAt": "2026-09-01T09:14:26.058Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1030,
+    "total": 1034,
     "layerId": 12,
     "clustered": false,
     "simplified": false
