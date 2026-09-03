@@ -144281,8 +144281,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.9029794,
-          35.8596368
+          50.90296432944547,
+          35.859613270085475
         ]
       },
       "properties": {
@@ -144303,7 +144303,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:53:49.490Z",
-        "updatedAt": "2026-03-11T20:53:49.490Z"
+        "updatedAt": "2026-09-02T23:19:03.081Z"
       }
     },
     {
@@ -175264,10 +175264,74 @@
         "createdAt": "2026-09-01T19:26:40.969Z",
         "updatedAt": "2026-09-01T19:26:40.969Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94640,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.33640197559737,
+          36.16545276941447
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امیرالمومنین",
+        "description": "",
+        "date": "",
+        "city": "دامغان",
+        "province": "استان سمنان",
+        "name:en": "Amir al-Mu'minin Mosque",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "NDpkN2M3YjA2NjExODg",
+        "publicId": "NDpkN2M3YjA2NjExODg",
+        "sourceId": "d7c7b0661188",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-02T18:18:37.444Z",
+        "updatedAt": "2026-09-02T18:18:37.444Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59673425812488,
+          36.322654537466306
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امیر المومنین",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Amir al-Momenin Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo4NDIzNmY2YzY4ZDk",
+        "publicId": "NDo4NDIzNmY2YzY4ZDk",
+        "sourceId": "84236f6c68d9",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-02T23:18:11.516Z",
+        "updatedAt": "2026-09-02T23:18:11.516Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5640,
+    "total": 5642,
     "layerId": 4,
     "clustered": false,
     "simplified": false

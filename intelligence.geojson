@@ -13804,10 +13804,78 @@
         "createdAt": "2026-09-01T04:11:45.043Z",
         "updatedAt": "2026-09-01T04:11:45.043Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32992458343506,
+          36.15103732350818
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "فرماندهی اطلاعات سپاه و نیروهای بسیج دامغان",
+        "date": 1788334171,
+        "city": "دامغان",
+        "province": "استان سمنان",
+        "name:fa": "فرماندهی اطلاعات سپاه دامغان",
+        "name:en": "Damghan IRGC Intelligence Command",
+        "description:en": "IRGC Intelligence Command and Basij forces of Damghan",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "MjpkZTM5MDczYmJiMTA",
+        "publicId": "MjpkZTM5MDczYmJiMTA",
+        "sourceId": "de39073bbb10",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T18:15:29.863Z",
+        "updatedAt": "2026-09-02T18:15:29.863Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.33461979031563,
+          36.15796754260123
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "اداره اطلاعات دامغان",
+        "date": 1788361644,
+        "city": "دامغان",
+        "province": "استان سمنان",
+        "name:fa": "اداره اطلاعات دامغان",
+        "name:en": "Damghan Intelligence Office",
+        "description:en": "Damghan Intelligence Office",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "MjoxNDk1ODFlNDIxYTA",
+        "publicId": "MjoxNDk1ODFlNDIxYTA",
+        "sourceId": "149581e421a0",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T18:20:56.722Z",
+        "updatedAt": "2026-09-02T18:20:56.722Z"
+      }
     }
   ],
   "metadata": {
-    "total": 352,
+    "total": 354,
     "layerId": 2,
     "clustered": false,
     "simplified": false

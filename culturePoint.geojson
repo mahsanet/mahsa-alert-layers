@@ -91457,10 +91457,76 @@
         "createdAt": "2026-09-01T04:16:39.613Z",
         "updatedAt": "2026-09-01T04:16:39.613Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94630,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.66018332540989,
+          31.310604904663847
+        ]
+      },
+      "properties": {
+        "name:fa": "نهاد رهبری دانشگاه اهواز",
+        "description": "نهاد رهبری جمهوری اسلامی در دانشگاه اهواز",
+        "date": 1788308551,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Office of the Supreme Leader at Ahvaz University",
+        "description:en": "Office of the Supreme Leader of the Islamic Republic at Ahvaz University",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTc6ZDVlZTAxZjQyZWI2",
+        "publicId": "MTc6ZDVlZTAxZjQyZWI2",
+        "sourceId": "d5ee01f42eb6",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T02:22:11.917Z",
+        "updatedAt": "2026-09-02T02:22:11.917Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94644,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.33612048625946,
+          36.15925822824556
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره راهداری و ترابری دامغان",
+        "description": "اداره راهداری و ترابری دامغان",
+        "date": 1788361674,
+        "city": "دامغان",
+        "province": "استان سمنان",
+        "name:en": "Damghan Road and Transportation Office",
+        "description:en": "Damghan Road and Transportation Office",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "MTc6MDUzYjYwOTFjZDE4",
+        "publicId": "MTc6MDUzYjYwOTFjZDE4",
+        "sourceId": "053b6091cd18",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T18:21:44.562Z",
+        "updatedAt": "2026-09-02T18:21:44.562Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2382,
+    "total": 2384,
     "layerId": 17,
     "clustered": false,
     "simplified": false

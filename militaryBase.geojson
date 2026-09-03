@@ -44884,10 +44884,185 @@
         "createdAt": "2026-09-01T09:10:36.742Z",
         "updatedAt": "2026-09-01T09:10:36.742Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94627,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.58109156504963,
+              31.27131757705054
+            ],
+            [
+              48.585337387461635,
+              31.27247320525231
+            ],
+            [
+              48.585493018982135,
+              31.271874608238733
+            ],
+            [
+              48.58470999789495,
+              31.271571151357165
+            ],
+            [
+              48.58278889065505,
+              31.269895928552813
+            ],
+            [
+              48.58109156504963,
+              31.27131757705054
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان نیروی زمینی سپاه پاسداران",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "IRGC Ground Forces Garrison",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTE6MmU5NTQyYzIwMDBm",
+        "publicId": "MTE6MmU5NTQyYzIwMDBm",
+        "sourceId": "2e9542c2000f",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T02:19:07.041Z",
+        "updatedAt": "2026-09-02T02:19:07.041Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94628,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.58469231746099,
+              31.271484089976624
+            ],
+            [
+              48.58607354720175,
+              31.27185405816597
+            ],
+            [
+              48.586686346312746,
+              31.270278565585315
+            ],
+            [
+              48.58530998005662,
+              31.26987533502343
+            ],
+            [
+              48.58530998005662,
+              31.26987533502343
+            ],
+            [
+              48.58469231746099,
+              31.271484089976624
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد فرماندهی نیروی زمینی سپاه پاسداران",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "ستاد فرماندهی نیروی زمینی سپاه پاسداران (جنب بیمارستان بقایی دارای راهرو اتصال)",
+        "date": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "IRGC Ground Forces Command Headquarters",
+        "description:en": "IRGC Ground Forces Command Headquarters (adjacent to Baqaei Hospital, with a connecting corridor)",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTE6MDJjOWQ0MTY4MTYw",
+        "publicId": "MTE6MDJjOWQ0MTY4MTYw",
+        "sourceId": "02c9d4168160",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T02:20:08.133Z",
+        "updatedAt": "2026-09-02T02:20:08.133Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94629,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.58589403523774,
+              31.269938888899304
+            ],
+            [
+              48.586010800710994,
+              31.26951056118679
+            ],
+            [
+              48.58674058492187,
+              31.269714328982047
+            ],
+            [
+              48.586604358536135,
+              31.270146814273147
+            ],
+            [
+              48.586604358536135,
+              31.270146814273147
+            ],
+            [
+              48.58589403523774,
+              31.269938888899304
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار مهمات نیروی زمینی سپاه پاسداران\n",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "IRGC Ground Forces Ammunition Depot",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTE6Nzk0OTc2NmFiNWRl",
+        "publicId": "MTE6Nzk0OTc2NmFiNWRl",
+        "sourceId": "7949766ab5de",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T02:20:43.811Z",
+        "updatedAt": "2026-09-02T02:20:43.811Z"
+      }
     }
   ],
   "metadata": {
-    "total": 390,
+    "total": 393,
     "layerId": 11,
     "clustered": false,
     "simplified": false

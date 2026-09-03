@@ -17397,10 +17397,146 @@
         "createdAt": "2026-09-01T22:30:10.390Z",
         "updatedAt": "2026-09-01T22:30:10.390Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94625,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.926792447982876,
+          35.23862146977555
+        ]
+      },
+      "properties": {
+        "name:fa": "شلیک موشک",
+        "description": "پرتاب موشک از سایت کویر",
+        "date": 1788293160,
+        "city": "شهرستان سمنان",
+        "province": "استان سمنان",
+        "sources": "",
+        "name:en": "Missile Launch",
+        "description:en": "Missile launch from the Kavir site",
+        "city:en": "Semnan County",
+        "province:en": "Semnan",
+        "id": "Nzo2NWNiYmZmYzVlMzM",
+        "publicId": "Nzo2NWNiYmZmYzVlMzM",
+        "sourceId": "65cbbffc5e33",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T02:16:51.896Z",
+        "updatedAt": "2026-09-02T02:16:56.470Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94626,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.661929443478584,
+          31.30575608468908
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز تحقیقات موشکی",
+        "description": "مرکز تحقیقات موشکی و اپتیک دانشگاه شهید چمران اهواز",
+        "date": 1788308524,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "sources": "",
+        "name:en": "Missile Research Center",
+        "description:en": "Missile and Optics Research Center of Shahid Chamran University of Ahvaz",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "Nzo0MmM4OThkYzU2YjI",
+        "publicId": "Nzo0MmM4OThkYzU2YjI",
+        "sourceId": "42c898dc56b2",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T02:17:59.255Z",
+        "updatedAt": "2026-09-02T02:17:59.255Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94641,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.329017996788025,
+          35.7921010311713
+        ]
+      },
+      "properties": {
+        "name:fa": "شهر موشکی",
+        "description": "ورودی تونل‌های شهر موشکی و انبار مهمات آمادگاه شهید هاشمی دامغان",
+        "date": 1788345444,
+        "city": "شهرستان دامغان",
+        "province": "استان سمنان",
+        "sources": "",
+        "name:en": "Missile City",
+        "description:en": "Entrance to the Missile City tunnels and the ammunition depot of Shahid Hashemi Support Base in Damghan",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "Nzo5YjZiMmI5NDlkMDM",
+        "publicId": "Nzo5YjZiMmI5NDlkMDM",
+        "sourceId": "9b6b2b949d03",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T18:19:38.974Z",
+        "updatedAt": "2026-09-02T18:19:38.974Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.302324652671814,
+          35.80169945877391
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچرهای موشکی",
+        "description": "محل لانچرهای پرتاب موشکی آمادگاه شهید هاشمی دامغان",
+        "date": 1788345512,
+        "city": "شهرستان دامغان",
+        "province": "استان سمنان",
+        "sources": "",
+        "name:en": "Missile Launchers",
+        "description:en": "Location of missile launchers at Shahid Hashemi Depot in Damghan",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "Nzo3MjFiNDM3MWNjNzg",
+        "publicId": "Nzo3MjFiNDM3MWNjNzg",
+        "sourceId": "721b4371cc78",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T18:20:11.450Z",
+        "updatedAt": "2026-09-02T18:20:11.450Z"
+      }
     }
   ],
   "metadata": {
-    "total": 170,
+    "total": 174,
     "layerId": 7,
     "clustered": false,
     "simplified": false

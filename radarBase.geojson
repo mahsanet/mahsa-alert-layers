@@ -4597,10 +4597,44 @@
         "createdAt": "2026-09-01T09:13:44.923Z",
         "updatedAt": "2026-09-01T09:13:44.923Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.14006659761071,
+          36.02703536928591
+        ]
+      },
+      "properties": {
+        "name:fa": "رادار مخابراتی سپاه",
+        "unofficial_name:fa": "",
+        "description": "رادار مخابراتی سپاه",
+        "date": 1788333610,
+        "city": "امیریه",
+        "province": "استان سمنان",
+        "name:en": "IRGC Telecommunications Radar",
+        "description:en": "IRGC Telecommunications Radar",
+        "city:en": "Amiriyeh",
+        "province:en": "Semnan",
+        "id": "OTpjY2EyMjY5OWIzMjA",
+        "publicId": "OTpjY2EyMjY5OWIzMjA",
+        "sourceId": "cca22699b320",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T18:13:41.935Z",
+        "updatedAt": "2026-09-02T18:13:41.935Z"
+      }
     }
   ],
   "metadata": {
-    "total": 68,
+    "total": 69,
     "layerId": 9,
     "clustered": false,
     "simplified": false

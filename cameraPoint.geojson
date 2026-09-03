@@ -594724,10 +594724,150 @@
         "createdAt": "2026-08-27T18:15:16.907Z",
         "updatedAt": "2026-08-27T18:15:16.907Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50897514820099,
+          36.29476717310304
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1788379452,
+        "addressDescription": "",
+        "description": "دوربین مداربسته شهرنت بانک شهر",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Surveillance Camera",
+        "description:en": "Shahr Bank ShahrNet CCTV camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6MDBjNmRlYWJmOTFh",
+        "publicId": "MjA6MDBjNmRlYWJmOTFh",
+        "sourceId": "00c6deabf91a",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T23:14:17.557Z",
+        "updatedAt": "2026-09-02T23:14:17.557Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49977634474635,
+          36.288715888405164
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1788379653,
+        "addressDescription": "",
+        "description": "دوربین مداربسته خودپرداز",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "ATM CCTV camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6YTAwNDBiM2RlZjQ0",
+        "publicId": "MjA6YTAwNDBiM2RlZjQ0",
+        "sourceId": "a0040b3def44",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T23:16:11.430Z",
+        "updatedAt": "2026-09-02T23:16:11.430Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94656,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50896576046944,
+          36.30036795960045
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1788379840,
+        "addressDescription": "",
+        "description": "دوربین مداربسته خودپرداز",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "ATM CCTV camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6MGZkNDQ3YjA0ZWUx",
+        "publicId": "MjA6MGZkNDQ3YjA0ZWUx",
+        "sourceId": "0fd447b04ee1",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T23:16:34.138Z",
+        "updatedAt": "2026-09-02T23:16:34.138Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.511314034461975,
+          36.29466354111784
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1788389734,
+        "addressDescription": "",
+        "description": "دوربین مداربسته خودپرداز",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "ATM CCTV camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6MDNkNmY1ZGYyYTMw",
+        "publicId": "MjA6MDNkNmY1ZGYyYTMw",
+        "sourceId": "03d6f5df2a30",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T23:16:55.260Z",
+        "updatedAt": "2026-09-02T23:16:55.260Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18576,
+    "total": 18580,
     "layerId": 20,
     "clustered": false,
     "simplified": false

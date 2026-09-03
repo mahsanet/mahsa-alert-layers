@@ -31735,10 +31735,44 @@
         "createdAt": "2026-08-12T07:23:55.170Z",
         "updatedAt": "2026-08-12T07:23:55.170Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38982653617859,
+          35.62989283947459
+        ]
+      },
+      "properties": {
+        "city": "تهران",
+        "count": "",
+        "people": "مهدی جعفری",
+        "description": "",
+        "date": 1767904200,
+        "name:fa": "مهدی جعفری",
+        "province": "استان تهران",
+        "name:en": "Mehdi Jafari",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTY6YTg1MmJmMWIyOWJi",
+        "publicId": "MTY6YTg1MmJmMWIyOWJi",
+        "sourceId": "a852bf1b29bb",
+        "layerId": 16,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T02:24:21.183Z",
+        "updatedAt": "2026-09-02T02:25:49.681Z"
+      }
     }
   ],
   "metadata": {
-    "total": 171,
+    "total": 172,
     "layerId": 16,
     "clustered": false,
     "simplified": false

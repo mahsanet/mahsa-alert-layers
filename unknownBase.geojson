@@ -74092,10 +74092,78 @@
         "createdAt": "2026-09-01T09:14:26.058Z",
         "updatedAt": "2026-09-01T09:14:26.058Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.589900732040405,
+          31.27123795131456
+        ]
+      },
+      "properties": {
+        "name:fa": "هتل فرماندهان سپاه",
+        "unofficial_name:fa": "",
+        "description": "هتل فرماندهان سپاه پاسداران",
+        "date": 1788308373,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "IRGC Commanders Hotel",
+        "description:en": "Hotel of the Islamic Revolutionary Guard Corps commanders",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTI6ZDQyYzAwYjdkZGJh",
+        "publicId": "MTI6ZDQyYzAwYjdkZGJh",
+        "sourceId": "d42c00b7ddba",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T02:22:46.662Z",
+        "updatedAt": "2026-09-02T02:22:46.662Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94636,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32996716350317,
+          36.149979328364495
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله مهمات سپاه دامغان",
+        "unofficial_name:fa": "",
+        "description": "سوله مهمات و اسلحه خانه سپاه پاسداران دامغان",
+        "date": 1788361482,
+        "city": "دامغان",
+        "province": "استان سمنان",
+        "name:en": "Damghan IRGC Ammunition Shed",
+        "description:en": "Ammunition shed and armory of the Islamic Revolutionary Guard Corps in Damghan.",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "MTI6NmMwZGFlNmE1MTdm",
+        "publicId": "MTI6NmMwZGFlNmE1MTdm",
+        "sourceId": "6c0dae6a517f",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T18:16:02.940Z",
+        "updatedAt": "2026-09-02T18:16:02.940Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1034,
+    "total": 1036,
     "layerId": 12,
     "clustered": false,
     "simplified": false

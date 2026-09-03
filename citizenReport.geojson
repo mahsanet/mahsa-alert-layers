@@ -22413,10 +22413,44 @@
         "createdAt": "2026-09-01T22:12:54.158Z",
         "updatedAt": "2026-09-01T22:14:27.795Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.00399035215378,
+          28.020460428321883
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی بسیج",
+        "city": "رودبار",
+        "province": "استان کرمان",
+        "date": 1788369369,
+        "description": "ایست بازرسی بسیجی‌ها، از ساعت ۱۰ تا ۶ صبح بسته است.",
+        "sources": "",
+        "name:en": "Basij Checkpoint",
+        "description:en": "The Basij checkpoint is closed from 10 PM to 6 AM.",
+        "city:en": "Rudbar",
+        "province:en": "Kerman",
+        "id": "MzY6MjJmY2VhMmYyYmI2",
+        "publicId": "MzY6MjJmY2VhMmYyYmI2",
+        "sourceId": "22fcea2f2bb6",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T18:16:35.119Z",
+        "updatedAt": "2026-09-02T18:16:35.119Z"
+      }
     }
   ],
   "metadata": {
-    "total": 676,
+    "total": 677,
     "layerId": 36,
     "clustered": false,
     "simplified": false

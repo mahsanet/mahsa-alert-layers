@@ -48189,37 +48189,6 @@
     },
     {
       "type": "Feature",
-      "id": 85646,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          59.6085978,
-          36.3004802
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjM3Mw",
-        "city": "مشهد",
-        "osm_id": "",
-        "name:fa": "پلیس راهنمایی و رانندگی مشهد مقدس",
-        "province": "استان خراسان رضوی",
-        "name:en": "Holy Mashhad Traffic Police",
-        "city:en": "Mashhad",
-        "province:en": "Razavi Khorasan",
-        "publicId": "Mzo2MjM3Mw",
-        "sourceId": "62373",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.383Z",
-        "updatedAt": "2026-03-13T04:41:06.383Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85647,
       "geometry": {
         "type": "Point",
@@ -51122,37 +51091,6 @@
         "province:en": "Semnan",
         "publicId": "Mzo2MjUzMw",
         "sourceId": "62533",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.420Z",
-        "updatedAt": "2026-03-13T04:41:06.420Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 85743,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.339897,
-          36.1660383
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjUzNA",
-        "city": "دامغان",
-        "osm_id": "",
-        "name:fa": "فرماندهی انتظامی دامغان",
-        "province": "استان سمنان",
-        "name:en": "Damghan Law Enforcement Command",
-        "city:en": "Damghan",
-        "province:en": "Semnan",
-        "publicId": "Mzo2MjUzNA",
-        "sourceId": "62534",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -189776,6 +189714,73 @@
         "expirationDate": null,
         "createdAt": "2026-09-01T04:26:09.572Z",
         "updatedAt": "2026-09-01T04:26:09.572Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.33990139514208,
+          36.16740086029405
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز فرماندهی فراجا",
+        "city": "دامغان",
+        "province": "استان سمنان",
+        "date": 1788361819,
+        "description": "استقرار یگان ویژه و مرکز فرماندهی نیروهای فراجا",
+        "sources": "",
+        "name:en": "FARAJA Command Center",
+        "description:en": "Deployment of the Special Unit and command center for Faraja forces",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "Mzo1ZGJlMTIyZGI4OWI",
+        "publicId": "Mzo1ZGJlMTIyZGI4OWI",
+        "sourceId": "5dbe122db89b",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T18:17:12.611Z",
+        "updatedAt": "2026-09-02T18:17:20.464Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.140071123838425,
+          36.05959537161689
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راه",
+        "description": "مقر پلیس راه صید آباد دامغان و ایست و بازرسی‌های موردی",
+        "date": 1788361174,
+        "city": "شهرستان دامغان",
+        "province": "استان سمنان",
+        "name:en": "Road Police",
+        "description:en": "Headquarters of the Seyyedabad Damghan Road Police and occasional checkpoints",
+        "city:en": "Damghan County",
+        "province:en": "Semnan",
+        "id": "Mzo3ZjRlNmNhM2NjMmY",
+        "publicId": "Mzo3ZjRlNmNhM2NjMmY",
+        "sourceId": "7f4e6ca3cc2f",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-02T18:22:23.835Z",
+        "updatedAt": "2026-09-02T18:22:23.835Z"
       }
     }
   ],
