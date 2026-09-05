@@ -22447,10 +22447,78 @@
         "createdAt": "2026-09-02T18:16:35.119Z",
         "updatedAt": "2026-09-02T18:16:35.119Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.867274049669504,
+          35.867166968436564
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای بسیج",
+        "city": "کمال شهر",
+        "province": "استان البرز",
+        "date": 1788459664,
+        "description": "محل تجمع بسیجی",
+        "sources": "",
+        "name:en": "Gathering of Basij Forces",
+        "description:en": "Basij gathering location",
+        "city:en": "Kamalshahr",
+        "province:en": "Alborz",
+        "id": "MzY6ZmRmNzAyNjJhNjlk",
+        "publicId": "MzY6ZmRmNzAyNjJhNjlk",
+        "sourceId": "fdf70262a69d",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:10:26.197Z",
+        "updatedAt": "2026-09-04T06:10:26.197Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.5318492166698,
+          28.479526186802715
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع سرکوبگران",
+        "city": "جهرم",
+        "province": "استان فارس",
+        "date": 1788399345,
+        "description": "پایگاه سرکوبگران در مسجد ایثارگران در زمان اعتراضات",
+        "sources": "",
+        "name:en": "Gathering Place of Repressors",
+        "description:en": "Repressors' base at Isargaran Mosque during protests",
+        "city:en": "Jahrom",
+        "province:en": "Fars",
+        "id": "MzY6MGJhODk2ODU3NTRi",
+        "publicId": "MzY6MGJhODk2ODU3NTRi",
+        "sourceId": "0ba89685754b",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:12:18.285Z",
+        "updatedAt": "2026-09-04T06:12:18.285Z"
+      }
     }
   ],
   "metadata": {
-    "total": 677,
+    "total": 679,
     "layerId": 36,
     "clustered": false,
     "simplified": false

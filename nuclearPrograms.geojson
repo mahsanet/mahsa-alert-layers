@@ -4596,10 +4596,45 @@
         "createdAt": "2026-08-15T21:33:57.962Z",
         "updatedAt": "2026-08-15T21:34:53.931Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.66266906261444,
+          31.30774181936387
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز تحقیقات لیزر و پلاسما",
+        "geolocates": "",
+        "sources": "",
+        "description": "مرکز تحقیقات لیزر و پلاسما",
+        "date": 1788397353,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Laser and Plasma Research Center",
+        "description:en": "Laser and Plasma Research Center",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "NjphMDIxYmRhNTY2MWQ",
+        "publicId": "NjphMDIxYmRhNTY2MWQ",
+        "sourceId": "a021bda5661d",
+        "layerId": 6,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:09:45.428Z",
+        "updatedAt": "2026-09-04T06:09:45.428Z"
+      }
     }
   ],
   "metadata": {
-    "total": 33,
+    "total": 34,
     "layerId": 6,
     "clustered": false,
     "simplified": false

@@ -175328,10 +175328,237 @@
         "createdAt": "2026-09-02T23:18:11.516Z",
         "updatedAt": "2026-09-02T23:18:11.516Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.53170565706398,
+          28.479686663745795
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "جهرم",
+        "province": "استان فارس",
+        "name:en": "Mosque",
+        "city:en": "Jahrom",
+        "province:en": "Fars",
+        "id": "NDpjYWYwZTZkYWYyMzA",
+        "publicId": "NDpjYWYwZTZkYWYyMzA",
+        "sourceId": "caf0e6daf230",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:12:34.181Z",
+        "updatedAt": "2026-09-04T06:12:34.181Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61397647924372,
+          36.330367297034556
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد اباالفضل",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Aba al-Fazl Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDoyMTQxMjE4ZGU0NjQ",
+        "publicId": "NDoyMTQxMjE4ZGU0NjQ",
+        "sourceId": "2141218de464",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:16:34.068Z",
+        "updatedAt": "2026-09-04T06:16:34.068Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60748992485833,
+          36.29974857238069
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": 1788433382,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo3Nzg2MWFiOWVlYWU",
+        "publicId": "NDo3Nzg2MWFiOWVlYWU",
+        "sourceId": "77861ab9eeae",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:17:29.061Z",
+        "updatedAt": "2026-09-04T06:20:05.664Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59510339424014,
+          36.326648074553205
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه علی ابوطالب",
+        "description": "",
+        "date": 1788433931,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Ali Abu Talib Hosseiniyeh",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo2YzdiMTJkMzZjZDQ",
+        "publicId": "NDo2YzdiMTJkMzZjZDQ",
+        "sourceId": "6c7b12d36cd4",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:19:00.906Z",
+        "updatedAt": "2026-09-04T06:19:00.906Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.593476969748735,
+          36.32458895180119
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ابوطالب",
+        "description": "مسجد ابوطالب",
+        "date": 1788433656,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Abu Talib Mosque",
+        "description:en": "Abu Talib Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDphNTdkMTJjNjRlZjI",
+        "publicId": "NDphNTdkMTJjNjRlZjI",
+        "sourceId": "a57d12c64ef2",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:19:18.654Z",
+        "updatedAt": "2026-09-04T06:19:18.654Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61781969293952,
+          36.3258837771084
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام خمینی",
+        "description": "مسجد امام خمینی",
+        "date": 1788553624,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Imam Khomeini Mosque",
+        "description:en": "Imam Khomeini Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDoxYzZiMmU2ZmNhYjE",
+        "publicId": "NDoxYzZiMmU2ZmNhYjE",
+        "sourceId": "1c6b2e6fcab1",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-05T01:57:27.148Z",
+        "updatedAt": "2026-09-05T01:57:27.148Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94694,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.618116077035666,
+          36.32311365940433
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام حسن عسکری",
+        "description": "مسجد امام حسن عسکری",
+        "date": 1788553388,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Imam Hassan Askari Mosque",
+        "description:en": "Imam Hassan Askari Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo1MDE1ZjZmYTEzOTI",
+        "publicId": "NDo1MDE1ZjZmYTEzOTI",
+        "sourceId": "5015f6fa1392",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-05T01:59:18.075Z",
+        "updatedAt": "2026-09-05T01:59:18.075Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5642,
+    "total": 5649,
     "layerId": 4,
     "clustered": false,
     "simplified": false

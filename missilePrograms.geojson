@@ -17533,10 +17533,44 @@
         "createdAt": "2026-09-02T18:20:11.450Z",
         "updatedAt": "2026-09-02T18:20:11.450Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94662,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.65735091269016,
+          31.300558945087275
+        ]
+      },
+      "properties": {
+        "name:fa": "دانشکده فیزیک",
+        "description": "دانشکده فیزیک (مرکز تحقیقات موشکی و اپتیک)",
+        "date": 1788397287,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "sources": "",
+        "name:en": "Faculty of Physics",
+        "description:en": "Faculty of Physics (Missile and Optics Research Center)",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "NzpiZGVmYjliNzQ0OTY",
+        "publicId": "NzpiZGVmYjliNzQ0OTY",
+        "sourceId": "bdefb9b74496",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:08:34.421Z",
+        "updatedAt": "2026-09-04T06:08:34.421Z"
+      }
     }
   ],
   "metadata": {
-    "total": 174,
+    "total": 175,
     "layerId": 7,
     "clustered": false,
     "simplified": false

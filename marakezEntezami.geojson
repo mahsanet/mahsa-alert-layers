@@ -50855,37 +50855,6 @@
     },
     {
       "type": "Feature",
-      "id": 85735,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.339366,
-          36.1742187
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjUyMg",
-        "city": "دامغان",
-        "osm_id": "",
-        "name:fa": "راهنمایی و رانندگی",
-        "province": "استان سمنان",
-        "name:en": "Traffic Police",
-        "city:en": "Damghan",
-        "province:en": "Semnan",
-        "publicId": "Mzo2MjUyMg",
-        "sourceId": "62522",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.417Z",
-        "updatedAt": "2026-03-13T04:41:06.417Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85736,
       "geometry": {
         "type": "Point",
@@ -120119,37 +120088,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.516Z",
         "updatedAt": "2026-03-13T04:41:07.516Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 88182,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.3134851,
-          36.1458079
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NjA4OQ",
-        "city": "شهرستان دامغان",
-        "osm_id": "n13305201001",
-        "name:fa": "راهنمایی و رانندگی",
-        "province": "استان سمنان",
-        "name:en": "Traffic Police",
-        "city:en": "Damghan County",
-        "province:en": "Semnan",
-        "publicId": "Mzo2NjA4OQ",
-        "sourceId": "66089",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.517Z",
-        "updatedAt": "2026-03-13T04:41:07.517Z"
       }
     },
     {
@@ -189782,10 +189720,136 @@
         "createdAt": "2026-09-02T18:22:23.835Z",
         "updatedAt": "2026-09-02T18:22:23.835Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94682,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.31146324886063,
+              36.146799165204655
+            ],
+            [
+              54.3131641710427,
+              36.14786816244771
+            ],
+            [
+              54.31472067530217,
+              36.14568480105399
+            ],
+            [
+              54.314800907480645,
+              36.14525071305958
+            ],
+            [
+              54.31307591564564,
+              36.14449915204611
+            ],
+            [
+              54.31307591564564,
+              36.14449915204611
+            ],
+            [
+              54.31146324886063,
+              36.146799165204655
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز پلیس راهور و تعویض پلاک دامغان",
+        "description": "",
+        "date": "",
+        "city": "شهرستان دامغان",
+        "province": "استان سمنان",
+        "name:en": "Damghan Traffic Police and License Plate Exchange Center",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "MzpiOWY0MzdjN2Y2ZjM",
+        "publicId": "MzpiOWY0MzdjN2Y2ZjM",
+        "sourceId": "b9f437c7f6f3",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:23:13.255Z",
+        "updatedAt": "2026-09-04T06:23:13.255Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.29115526378155,
+          35.928458514124
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه انتظامی صلح آباد",
+        "description": "مقر پاسگاه انتظامی روستای صلح آباد",
+        "date": 1788414698,
+        "city": "صلح آباد",
+        "province": "استان سمنان",
+        "name:en": "Solhabad Police Station",
+        "description:en": "Headquarters of the police post in Solhabad village",
+        "city:en": "Solhabad",
+        "province:en": "Semnan",
+        "id": "MzowNjY4ZWZkODY2MWQ",
+        "publicId": "MzowNjY4ZWZkODY2MWQ",
+        "sourceId": "0668efd8661d",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:24:34.145Z",
+        "updatedAt": "2026-09-04T06:24:34.145Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94684,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.61657194793224,
+          31.371975153869485
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره پلیس آگاهی",
+        "description": "اداره پلیس آگاهی کل استان خوزستان",
+        "date": 1788397489,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Criminal Investigation Police Department",
+        "description:en": "General Criminal Investigation Police Department of Khuzestan Province",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MzpjYjRkMTM2ZDJhOTA",
+        "publicId": "MzpjYjRkMTM2ZDJhOTA",
+        "sourceId": "cb4d136d2a90",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:25:42.727Z",
+        "updatedAt": "2026-09-04T06:25:42.727Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6080,
+    "total": 6081,
     "layerId": 3,
     "clustered": false,
     "simplified": false

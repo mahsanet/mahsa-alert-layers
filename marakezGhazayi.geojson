@@ -48705,10 +48705,44 @@
         "createdAt": "2026-08-17T20:29:28.946Z",
         "updatedAt": "2026-08-17T20:29:28.946Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32172775268555,
+          36.166893899086645
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "دادسرای دامغان",
+        "date": 1788420855,
+        "city": "دامغان",
+        "province": "استان سمنان",
+        "name:fa": "دادسرای دامغان",
+        "name:en": "Damghan Prosecutor's Office",
+        "description:en": "Damghan Prosecutor's Office",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "MzQ6OGFhOGIzYTQ5NWRm",
+        "publicId": "MzQ6OGFhOGIzYTQ5NWRm",
+        "sourceId": "8aa8b3a495df",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:21:43.572Z",
+        "updatedAt": "2026-09-04T06:21:43.572Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1412,
+    "total": 1413,
     "layerId": 34,
     "clustered": false,
     "simplified": false

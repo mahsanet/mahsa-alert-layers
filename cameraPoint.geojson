@@ -594864,10 +594864,45 @@
         "createdAt": "2026-09-02T23:16:55.260Z",
         "updatedAt": "2026-09-02T23:16:55.260Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94692,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57731934264302,
+          36.30621610580231
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1788562163,
+        "addressDescription": "",
+        "description": "دوربین مداربسته بانک صادرات",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "Bank Saderat CCTV camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6MTU1MmFiNTI1YTRk",
+        "publicId": "MjA6MTU1MmFiNTI1YTRk",
+        "sourceId": "1552ab525a4d",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-05T01:57:54.728Z",
+        "updatedAt": "2026-09-05T01:57:54.728Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18580,
+    "total": 18581,
     "layerId": 20,
     "clustered": false,
     "simplified": false

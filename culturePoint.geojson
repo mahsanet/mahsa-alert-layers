@@ -91523,10 +91523,76 @@
         "createdAt": "2026-09-02T18:21:44.562Z",
         "updatedAt": "2026-09-02T18:21:44.562Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.575532991439104,
+          36.28721829696491
+        ]
+      },
+      "properties": {
+        "name:fa": "وزارت ارتباطات و فناوری اطلاعات",
+        "description": "وزارت ارتباطات و فناوری اطلاعات",
+        "date": 1788435702,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Ministry of Information and Communications Technology",
+        "description:en": "Ministry of Information and Communications Technology",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6NzkzZmFjNjczYTlj",
+        "publicId": "MTc6NzkzZmFjNjczYTlj",
+        "sourceId": "793fac673a9c",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:18:07.391Z",
+        "updatedAt": "2026-09-04T06:18:07.391Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61459685117006,
+          36.32300709367014
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره مهندسی شهرداری",
+        "description": "اداره مهندسی و نظارت بر ساخت و سازها شهرداری منطقه ۳",
+        "date": 1788434167,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Municipal Engineering Office",
+        "description:en": "Department of Engineering and Construction Supervision, District 3 Municipality",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6ZDhlMmE3NzJiODZk",
+        "publicId": "MTc6ZDhlMmE3NzJiODZk",
+        "sourceId": "d8e2a772b86d",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:18:39.315Z",
+        "updatedAt": "2026-09-04T06:18:39.315Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2384,
+    "total": 2386,
     "layerId": 17,
     "clustered": false,
     "simplified": false

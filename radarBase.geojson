@@ -4631,10 +4631,43 @@
         "createdAt": "2026-09-02T18:13:41.935Z",
         "updatedAt": "2026-09-02T18:13:41.935Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.59885761141777,
+          35.23055758522207
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "مرکز راداری هوافضای سپاه در منطقه جنوب دامغان",
+        "date": 1788414084,
+        "city": "شهرستان دامغان",
+        "province": "استان سمنان",
+        "description:en": "IRGC Aerospace Force radar center in the region south of Damghan",
+        "city:en": "Damghan County",
+        "province:en": "Semnan",
+        "id": "OTo1YWY5NTU1Njk4OGY",
+        "publicId": "OTo1YWY5NTU1Njk4OGY",
+        "sourceId": "5af95556988f",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:26:56.586Z",
+        "updatedAt": "2026-09-04T06:26:56.586Z"
+      }
     }
   ],
   "metadata": {
-    "total": 69,
+    "total": 70,
     "layerId": 9,
     "clustered": false,
     "simplified": false

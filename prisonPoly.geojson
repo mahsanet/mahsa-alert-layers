@@ -10720,10 +10720,44 @@
         "createdAt": "2026-08-10T04:36:32.298Z",
         "updatedAt": "2026-08-10T04:36:32.298Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94685,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.27493829280138,
+          36.12091868112131
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "مجموعه زندان و بازداشتگاه دامغان",
+        "date": 1788413956,
+        "city": "شهرستان دامغان",
+        "province": "استان سمنان",
+        "name:fa": "زندان و بازداشتگاه دامغان",
+        "name:en": "Damghan Prison and Detention Center",
+        "description:en": "Damghan Prison and Detention Center complex",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "NTowMTZmOWU3NzM4MWQ",
+        "publicId": "NTowMTZmOWU3NzM4MWQ",
+        "sourceId": "016f9e77381d",
+        "layerId": 5,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:26:13.454Z",
+        "updatedAt": "2026-09-04T06:26:13.454Z"
+      }
     }
   ],
   "metadata": {
-    "total": 184,
+    "total": 185,
     "layerId": 5,
     "clustered": false,
     "simplified": false

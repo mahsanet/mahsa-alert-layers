@@ -13872,10 +13872,42 @@
         "createdAt": "2026-09-02T18:20:56.722Z",
         "updatedAt": "2026-09-02T18:20:56.722Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.63697500899434,
+          31.29938810244053
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "انبار سپاه پاسداران (زیر زمین امتداد تا پایگاه اطلاعات)",
+        "date": 1788397155,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "description:en": "IRGC warehouse (underground extending to the intelligence base)",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "Mjo0YTQzOTdjZDVmYmY",
+        "publicId": "Mjo0YTQzOTdjZDVmYmY",
+        "sourceId": "4a4397cd5fbf",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:07:47.553Z",
+        "updatedAt": "2026-09-04T06:07:47.553Z"
+      }
     }
   ],
   "metadata": {
-    "total": 354,
+    "total": 355,
     "layerId": 2,
     "clustered": false,
     "simplified": false

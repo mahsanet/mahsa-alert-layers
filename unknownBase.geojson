@@ -74160,10 +74160,44 @@
         "createdAt": "2026-09-02T18:16:02.940Z",
         "updatedAt": "2026-09-02T18:16:02.940Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.656477853655815,
+          31.30232764333836
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر سپاه پاسداران",
+        "unofficial_name:fa": "",
+        "description": "پایگاه متعلق به سپاه پاسداران",
+        "date": 1788397207,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Sepah-e Pasdaran Office",
+        "description:en": "Base belonging to Sepah-e Pasdaran",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTI6MGYxNWVkZGJkNmRh",
+        "publicId": "MTI6MGYxNWVkZGJkNmRh",
+        "sourceId": "0f15eddbd6da",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-04T06:09:16.163Z",
+        "updatedAt": "2026-09-04T06:09:16.163Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1036,
+    "total": 1037,
     "layerId": 12,
     "clustered": false,
     "simplified": false
