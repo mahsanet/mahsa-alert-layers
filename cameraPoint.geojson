@@ -594899,10 +594899,325 @@
         "createdAt": "2026-09-05T01:57:54.728Z",
         "updatedAt": "2026-09-05T01:57:54.728Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58412125706673,
+          36.292137958708324
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "lastReport": "",
+        "date": 1788639930,
+        "addressDescription": "",
+        "description": "دوربین بانک رفاه",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Camera",
+        "description:en": "Refah Bank camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6Yjg4NmJlYjdiZTEw",
+        "publicId": "MjA6Yjg4NmJlYjdiZTEw",
+        "sourceId": "b886beb7be10",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T06:51:02.915Z",
+        "updatedAt": "2026-09-07T06:51:02.915Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32962032034993,
+          29.202183704455635
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1788701161,
+        "addressDescription": "",
+        "description": "دوربین امنیتی تشخیص چهره هوش مصنوعی",
+        "city": "نی‌ریز",
+        "province": "استان فارس",
+        "name:en": "Security Camera",
+        "description:en": "AI facial recognition security camera",
+        "city:en": "Neyriz",
+        "province:en": "Fars",
+        "id": "MjA6NDk5NWI2NzYzYjAw",
+        "publicId": "MjA6NDk5NWI2NzYzYjAw",
+        "sourceId": "4995b6763b00",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T06:53:10.776Z",
+        "updatedAt": "2026-09-07T06:53:10.776Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94701,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.543460980057716,
+          36.32405883301121
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1788738873,
+        "addressDescription": "",
+        "description": "دوربین مداربسته خودپرداز بانک ملل",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "CCTV camera of Melal Bank ATM",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6OGEyZWNiMzI1M2Rj",
+        "publicId": "MjA6OGEyZWNiMzI1M2Rj",
+        "sourceId": "8a2ecb3253dc",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T06:59:15.964Z",
+        "updatedAt": "2026-09-07T06:59:15.964Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94715,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.571893233805895,
+          36.297142158887596
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1788738501,
+        "addressDescription": "",
+        "description": "دوربین مداربسته بانک سپه",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "Bank Sepah CCTV camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6ZWQyOTBiZTM3MTkw",
+        "publicId": "MjA6ZWQyOTBiZTM3MTkw",
+        "sourceId": "ed290be37190",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:10:46.707Z",
+        "updatedAt": "2026-09-07T07:10:46.707Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94717,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.564134776592255,
+          36.30125788206284
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1788737981,
+        "addressDescription": "",
+        "description": "دوربین مداربسته حکومتی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Surveillance Camera",
+        "description:en": "Government surveillance camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6MjAwMjY3MmE1ZDdh",
+        "publicId": "MjA6MjAwMjY3MmE1ZDdh",
+        "sourceId": "2002672a5d7a",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:12:47.524Z",
+        "updatedAt": "2026-09-07T07:12:47.524Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94720,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58789747208357,
+          36.288932626678516
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1788737396,
+        "addressDescription": "",
+        "description": "دوربین مداربسته بیمارستان ۵۵۰ ارتش",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "CCTV camera at 550 Army Hospital",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6OWEyZmJjN2Q0MGVk",
+        "publicId": "MjA6OWEyZmJjN2Q0MGVk",
+        "sourceId": "9a2fbc7d40ed",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:13:54.787Z",
+        "updatedAt": "2026-09-07T07:13:54.787Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59374502301216,
+          36.336541126374925
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1788703098,
+        "addressDescription": "",
+        "description": "دوربین مداربسته پارک حجاب",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "CCTV camera at Hejab Park",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6ZTY5MGEwZTNiNzhh",
+        "publicId": "MjA6ZTY5MGEwZTNiNzhh",
+        "sourceId": "e690a0e3b78a",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:14:22.566Z",
+        "updatedAt": "2026-09-07T07:14:22.566Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57476269453764,
+          36.2959649434888
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1788639762,
+        "addressDescription": "",
+        "description": "دوربین مداربسته مخابرات انقلاب",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "Enghelab Telecommunications CCTV camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6OTc0N2ZmMGM4M2E4",
+        "publicId": "MjA6OTc0N2ZmMGM4M2E4",
+        "sourceId": "9747ff0c83a8",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:16:14.479Z",
+        "updatedAt": "2026-09-07T07:16:14.479Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94731,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62462646886706,
+          36.31791878171407
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1788805704,
+        "addressDescription": "",
+        "description": "دوربین مداربسته بانک رفاه کارگران",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "Refah Kargaran Bank CCTV camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6NjhiNGRiMDA5MmVi",
+        "publicId": "MjA6NjhiNGRiMDA5MmVi",
+        "sourceId": "68b4db0092eb",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T21:30:14.985Z",
+        "updatedAt": "2026-09-07T21:30:14.985Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18581,
+    "total": 18590,
     "layerId": 20,
     "clustered": false,
     "simplified": false

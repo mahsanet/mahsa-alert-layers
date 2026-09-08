@@ -48739,10 +48739,44 @@
         "createdAt": "2026-09-04T06:21:43.572Z",
         "updatedAt": "2026-09-04T06:21:43.572Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94711,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.545016158372164,
+          36.326393084473665
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "کانون کارشناسان رسمی دادگستری خراسان رضوی",
+        "date": 1788739437,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:fa": "کانون کارشناسان رسمی دادگستری",
+        "name:en": "Official Justice Experts Association",
+        "description:en": "Razavi Khorasan Official Justice Experts Association",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MzQ6M2EwNzZjYTJmNTQy",
+        "publicId": "MzQ6M2EwNzZjYTJmNTQy",
+        "sourceId": "3a076ca2f542",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:08:16.181Z",
+        "updatedAt": "2026-09-07T07:08:16.181Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1413,
+    "total": 1414,
     "layerId": 34,
     "clustered": false,
     "simplified": false

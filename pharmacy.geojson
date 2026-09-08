@@ -468396,10 +468396,43 @@
         "createdAt": "2026-07-31T14:38:17.322Z",
         "updatedAt": "2026-07-31T14:38:17.322Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.619777873158455,
+          36.328821669038476
+        ]
+      },
+      "properties": {
+        "name:fa": "داروخانه",
+        "description": "داروخانه",
+        "date": 1788739203,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Pharmacy",
+        "description:en": "Pharmacy",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "Mjc6OWU0MDQ2NGFhNmY0",
+        "publicId": "Mjc6OWU0MDQ2NGFhNmY0",
+        "sourceId": "9e40464aa6f4",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:09:19.907Z",
+        "updatedAt": "2026-09-07T07:09:19.907Z"
+      }
     }
   ],
   "metadata": {
-    "total": 15623,
+    "total": 15624,
     "layerId": 27,
     "clustered": false,
     "simplified": false

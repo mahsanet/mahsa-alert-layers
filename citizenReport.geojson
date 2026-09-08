@@ -22515,10 +22515,248 @@
         "createdAt": "2026-09-04T06:12:18.285Z",
         "updatedAt": "2026-09-04T06:12:18.285Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32903593406081,
+          29.20183031243009
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حامیان رژیم",
+        "city": "نی‌ریز",
+        "province": "استان فارس",
+        "date": 1788590094,
+        "description": "محل تجمع حامیان رژیم",
+        "sources": "",
+        "name:en": "Gathering of Regime Supporters",
+        "description:en": "Gathering location of regime supporters",
+        "city:en": "Neyriz",
+        "province:en": "Fars",
+        "id": "MzY6Y2IyYzcyNDBlOTky",
+        "publicId": "MzY6Y2IyYzcyNDBlOTky",
+        "sourceId": "cb2c7240e992",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T06:54:33.740Z",
+        "updatedAt": "2026-09-07T06:54:33.740Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94702,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32727187871933,
+          29.20011791692282
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع عرزشی‌ها",
+        "city": "نی‌ریز",
+        "province": "استان فارس",
+        "date": 1788590135,
+        "description": "محل تجمع عرزشی‌ها هر شب",
+        "sources": "",
+        "name:en": "Gathering place of Arzashis",
+        "description:en": "Gathering place of Arzashis every night",
+        "city:en": "Neyriz",
+        "province:en": "Fars",
+        "id": "MzY6MDdjYmFlOWIxOTgy",
+        "publicId": "MzY6MDdjYmFlOWIxOTgy",
+        "sourceId": "07cbae9b1982",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:00:08.644Z",
+        "updatedAt": "2026-09-07T07:00:08.644Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94703,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58952188491821,
+          36.32059291529613
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حکومتی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": 1788737516,
+        "description": "تجمعات حکومتی هیئت الشهدا کارکنان بانک سپه",
+        "sources": "",
+        "name:en": "Government Rally",
+        "description:en": "Government-organized gathering of the Heyat al-Shohada of Bank Sepah employees",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MzY6NjZhOWI5OWZlMWE1",
+        "publicId": "MzY6NjZhOWI5OWZlMWE1",
+        "sourceId": "66a9b99fe1a5",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:01:58.480Z",
+        "updatedAt": "2026-09-07T07:01:58.480Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.166030716151,
+          27.659194438478067
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "گراش",
+        "province": "استان فارس",
+        "date": 1788704201,
+        "description": "ایست بازرسی و محل تجمع نیروها",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint and gathering location for forces",
+        "city:en": "Gerash",
+        "province:en": "Fars",
+        "id": "MzY6ZmNiZWU4ZTI2MzMz",
+        "publicId": "MzY6ZmNiZWU4ZTI2MzMz",
+        "sourceId": "fcbee8e26333",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:02:32.453Z",
+        "updatedAt": "2026-09-07T07:02:32.453Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94705,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.28880515694618,
+          35.76580193886349
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای حکومتی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1788662446,
+        "description": "محل تجمع نیروهای حکومتی",
+        "sources": "",
+        "name:en": "Gathering of Government Forces",
+        "description:en": "Gathering place of government forces",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6NDQ2MjAzZmRkYjY5",
+        "publicId": "MzY6NDQ2MjAzZmRkYjY5",
+        "sourceId": "446203fddb69",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:03:26.323Z",
+        "updatedAt": "2026-09-07T07:03:26.323Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94706,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56725622766879,
+          36.284681287499566
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حکومتی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": 1788701914,
+        "description": "تجمعات حکومتی و پرچم تکانی، ترویج آلودگی صوتی",
+        "sources": "",
+        "name:en": "Pro-Government Gathering",
+        "description:en": "Pro-government gatherings, flag-waving, and promoting noise pollution.",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MzY6MDk0NjY2NjVkMThj",
+        "publicId": "MzY6MDk0NjY2NjVkMThj",
+        "sourceId": "09466665d18c",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:03:57.898Z",
+        "updatedAt": "2026-09-07T07:04:14.778Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94730,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.56826462224126,
+          29.58616147174382
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای حکومتی",
+        "city": "شیراز",
+        "province": "استان فارس",
+        "date": 1788785835,
+        "description": "محل تجمع نیروهای حکومتی",
+        "sources": "",
+        "name:en": "Gathering of Government Forces",
+        "description:en": "Gathering location of government forces",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "id": "MzY6ZjEzYzFhZGY3Zjdj",
+        "publicId": "MzY6ZjEzYzFhZGY3Zjdj",
+        "sourceId": "f13c1adf7f7c",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T21:29:27.114Z",
+        "updatedAt": "2026-09-07T21:29:27.114Z"
+      }
     }
   ],
   "metadata": {
-    "total": 679,
+    "total": 686,
     "layerId": 36,
     "clustered": false,
     "simplified": false

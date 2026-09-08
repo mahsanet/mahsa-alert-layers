@@ -175555,10 +175555,173 @@
         "createdAt": "2026-09-05T01:59:18.075Z",
         "updatedAt": "2026-09-05T01:59:18.075Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94700,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.329069540418715,
+          29.202542087331537
+        ]
+      },
+      "properties": {
+        "name:fa": "امامزاده موسی کاظم",
+        "description": "",
+        "date": "",
+        "city": "نی‌ریز",
+        "province": "استان فارس",
+        "name:en": "Emamzadeh Mousa Kazem",
+        "city:en": "Neyriz",
+        "province:en": "Fars",
+        "id": "NDozMTM3OGQ3OGM1ODc",
+        "publicId": "NDozMTM3OGQ3OGM1ODc",
+        "sourceId": "31378d78c587",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-07T06:56:15.428Z",
+        "updatedAt": "2026-09-07T06:56:15.428Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94709,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.53496692702174,
+          36.293005680865576
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام رضا",
+        "description": "",
+        "date": 1788739921,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Imam Reza Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDpjNDRkMTljNzViZDQ",
+        "publicId": "NDpjNDRkMTljNzViZDQ",
+        "sourceId": "c44d19c75bd4",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:05:46.078Z",
+        "updatedAt": "2026-09-07T07:05:51.124Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60659481585026,
+          36.32251437720238
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد و حسینیه امام رضا",
+        "description": "مسجد و حسینیه امام رضا",
+        "date": 1788737684,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Imam Reza Mosque and Hussainiya",
+        "description:en": "Imam Reza Mosque and Hussainiya",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDowY2VlZjMxMDY3NGE",
+        "publicId": "NDowY2VlZjMxMDY3NGE",
+        "sourceId": "0ceef310674a",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:13:32.235Z",
+        "updatedAt": "2026-09-07T07:13:37.484Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59489367902279,
+          36.33572939108568
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد و حسینیه",
+        "description": "مسجد و حسینیه چهارده معصوم",
+        "date": 1788702933,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mosque and Hussainiya",
+        "description:en": "Chahardah Masoum Mosque and Hussainiya",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo0Mjk0NDYxN2E3N2Q",
+        "publicId": "NDo0Mjk0NDYxN2E3N2Q",
+        "sourceId": "42944617a77d",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:14:44.035Z",
+        "updatedAt": "2026-09-07T07:14:44.035Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94729,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.568319104611874,
+          29.58612502662693
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه",
+        "description": "حسینیه‌ای که نیروهای حکومتی هر شب در آن جمع می‌شوند.",
+        "date": 1788785927,
+        "city": "شیراز",
+        "province": "استان فارس",
+        "name:en": "Hosseiniyeh",
+        "description:en": "A Hosseiniyeh where government forces gather every night.",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "id": "NDo5MTU2OTkyOTdlZWY",
+        "publicId": "NDo5MTU2OTkyOTdlZWY",
+        "sourceId": "915699297eef",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T21:29:06.963Z",
+        "updatedAt": "2026-09-07T21:29:06.963Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5649,
+    "total": 5654,
     "layerId": 4,
     "clustered": false,
     "simplified": false

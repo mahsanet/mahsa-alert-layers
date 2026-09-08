@@ -189846,10 +189846,43 @@
         "createdAt": "2026-09-04T06:25:42.727Z",
         "updatedAt": "2026-09-04T06:25:42.727Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.55650523304939,
+          36.31756434879952
+        ]
+      },
+      "properties": {
+        "name:fa": "کیوسک انتظامی",
+        "description": "کیوسک فرماندهی انتظامی سازمان ملل",
+        "date": 1788738304,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Police Kiosk",
+        "description:en": "Law Enforcement Command Kiosk of Sazman-e Melal",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MzplYjIwODJjNDc3YzY",
+        "publicId": "MzplYjIwODJjNDc3YzY",
+        "sourceId": "eb2082c477c6",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:18:25.269Z",
+        "updatedAt": "2026-09-07T07:18:25.269Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6081,
+    "total": 6082,
     "layerId": 3,
     "clustered": false,
     "simplified": false

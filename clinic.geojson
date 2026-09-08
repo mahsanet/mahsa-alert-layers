@@ -161889,10 +161889,42 @@
         "createdAt": "2026-07-31T16:23:50.311Z",
         "updatedAt": "2026-07-31T16:23:50.311Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94713,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61954706961683,
+          36.328864271091774
+        ]
+      },
+      "properties": {
+        "name:fa": "کلینیک",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Clinic",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjM6ZmMyN2IyYWViMmVk",
+        "publicId": "MjM6ZmMyN2IyYWViMmVk",
+        "sourceId": "fc27b2aeb2ed",
+        "layerId": 23,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:09:56.658Z",
+        "updatedAt": "2026-09-07T07:09:56.658Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5396,
+    "total": 5397,
     "layerId": 23,
     "clustered": false,
     "simplified": false

@@ -91589,10 +91589,76 @@
         "createdAt": "2026-09-04T06:18:39.315Z",
         "updatedAt": "2026-09-04T06:18:39.315Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.66596953570843,
+          36.304160901478824
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه چهار",
+        "description": "شهرداری منطقه چهار",
+        "date": 1788783454,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "District 4 Municipality",
+        "description:en": "District 4 Municipality",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6YjJkZWExZWU4ZjEy",
+        "publicId": "MTc6YjJkZWExZWU4ZjEy",
+        "sourceId": "b2dea1ee8f12",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T21:30:44.770Z",
+        "updatedAt": "2026-09-07T21:30:44.770Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52320326119661,
+          36.37902084051396
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره کل دامپزشکی",
+        "description": "اداره کل دامپزشکی خراسان رضوی",
+        "date": 1788784237,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "General Directorate of Veterinary Medicine",
+        "description:en": "General Directorate of Veterinary Medicine of Razavi Khorasan",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6NWM1ZmZjZTNhZGZk",
+        "publicId": "MTc6NWM1ZmZjZTNhZGZk",
+        "sourceId": "5c5ffce3adfd",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T21:31:57.114Z",
+        "updatedAt": "2026-09-07T21:31:57.114Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2386,
+    "total": 2388,
     "layerId": 17,
     "clustered": false,
     "simplified": false

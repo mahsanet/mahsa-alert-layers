@@ -16687,13 +16687,15 @@
       },
       "properties": {
         "name:fa": "",
-        "unofficial_name:fa": "",
-        "operator": "",
-        "description": "",
+        "description": "پایگاه و انبار موشکی لار",
         "date": "",
         "city": "شهرستان لارستان",
         "province": "استان فارس",
-        "city:en": "Larestan County",
+        "sources": "",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description:en": "Lar Missile Base and Depot",
+        "city:en": "Larestan",
         "province:en": "Fars",
         "id": "Nzo1OWVkYTA3MzAwZjk",
         "publicId": "Nzo1OWVkYTA3MzAwZjk",
@@ -16705,7 +16707,7 @@
         "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-08-05T12:39:32.478Z",
-        "updatedAt": "2026-08-05T12:39:32.478Z"
+        "updatedAt": "2026-09-07T06:57:23.672Z"
       }
     },
     {
@@ -17567,10 +17569,44 @@
         "createdAt": "2026-09-04T06:08:34.421Z",
         "updatedAt": "2026-09-04T06:08:34.421Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.02340278029442,
+          36.137525967062615
+        ]
+      },
+      "properties": {
+        "name:fa": "کارگاه تولید سوخت موشک",
+        "description": "کارگاه تولید سوخت موشک",
+        "date": 1788581424,
+        "city": "شهرستان نیشابور",
+        "province": "استان خراسان رضوی",
+        "sources": "",
+        "name:en": "Rocket Fuel Production Workshop",
+        "description:en": "Rocket fuel production workshop",
+        "city:en": "Neyshabur County",
+        "province:en": "Razavi Khorasan",
+        "id": "NzowM2RiNGNjYzY1NDk",
+        "publicId": "NzowM2RiNGNjYzY1NDk",
+        "sourceId": "03db4ccc6549",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-07T07:17:34.268Z",
+        "updatedAt": "2026-09-07T07:17:45.317Z"
+      }
     }
   ],
   "metadata": {
-    "total": 175,
+    "total": 176,
     "layerId": 7,
     "clustered": false,
     "simplified": false
