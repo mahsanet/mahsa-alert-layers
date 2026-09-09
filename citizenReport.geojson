@@ -21744,38 +21744,6 @@
     },
     {
       "type": "Feature",
-      "id": 94468,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.98074377110538,
-          26.54705634380518
-        ]
-      },
-      "properties": {
-        "name:fa": "توقیف نفتکش اماراتی",
-        "city": "",
-        "province": "",
-        "date": 1786653000,
-        "description": "به گزارش جهان نیوز، داده ناوبری دریایی، توقیف یک نفتکش اماراتی در تنگه هرمز را تایید کرد.\n \nطبق ترتیبات ایران برای عبور امن از تنگه هرمز، مسیر یکی از شروط است و پرداخت بهای خدمات و اجازه ایران از دیگر شروطی است که نفتکش‌ها باید رعایت کنند.\n \nنفتکش امارات در نزدیکی قشم متوقف شده است.",
-        "sources": "https://x.com/mhmiranusa/status/2089383334988116226?s=20",
-        "name:en": "Seizure of an Emirati Oil Tanker",
-        "description:en": "According to Jahan News, maritime navigation data has confirmed the seizure of an Emirati oil tanker in the Strait of Hormuz.\n \nUnder Iran's arrangements for safe passage through the Strait of Hormuz, following the designated route is one of the conditions, and paying service fees and obtaining Iran's permission are among other conditions that tankers must observe.\n \nThe Emirati tanker has been stopped near Qeshm.",
-        "id": "MzY6N2Q5ZjJhOThjYzcz",
-        "publicId": "MzY6N2Q5ZjJhOThjYzcz",
-        "sourceId": "7d9f2a98cc73",
-        "layerId": 36,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-08-17T19:02:14.628Z",
-        "updatedAt": "2026-08-17T19:02:54.361Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 94472,
       "geometry": {
         "type": "Point",
@@ -21905,38 +21873,6 @@
         "expirationDate": null,
         "createdAt": "2026-08-17T22:14:05.592Z",
         "updatedAt": "2026-08-17T22:14:05.592Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 94488,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.42713870445803,
-          29.24262592623269
-        ]
-      },
-      "properties": {
-        "name:fa": "تجمع نفتکش‌ها",
-        "city": "",
-        "province": "",
-        "date": 1787085000,
-        "description": "تجمع نفتکش‌های ج.ا در اطراف جزیره خارک: در تصاویر مربوط به روز گذشته، ۲۸ مرداد ۱۴۰۵، چندین نفتکش ج.ا در اطراف خارک دیده میشوند؛ در حالی که هیچ‌کدام در اسکله مشغول بارگیری نیستند.",
-        "sources": "https://t.me/hodinews/21487",
-        "name:en": "Gathering of Oil Tankers",
-        "description:en": "Concentration of Islamic Republic oil tankers around Kharg Island: In images from yesterday, Mordad 28, 1405, several I.R. oil tankers are visible around Kharg, while none of them are loading at the pier.",
-        "id": "MzY6YWZkMmEwMDEzYWIx",
-        "publicId": "MzY6YWZkMmEwMDEzYWIx",
-        "sourceId": "afd2a0013ab1",
-        "layerId": 36,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-08-20T19:39:44.265Z",
-        "updatedAt": "2026-08-20T19:39:44.265Z"
       }
     },
     {
@@ -22753,10 +22689,248 @@
         "createdAt": "2026-09-07T21:29:27.114Z",
         "updatedAt": "2026-09-07T21:29:27.114Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.06703594699502,
+          37.516133421784275
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی آزادگان",
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "date": 1788888262,
+        "description": "ایست بازرسی آزادگان",
+        "sources": "",
+        "name:en": "Azadegan Checkpoint",
+        "description:en": "Azadegan Checkpoint",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MzY6MTliZWNlNjU0MTRl",
+        "publicId": "MzY6MTliZWNlNjU0MTRl",
+        "sourceId": "19bece65414e",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T19:53:41.227Z",
+        "updatedAt": "2026-09-08T19:53:41.227Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.428668946027756,
+          35.80671046170113
+        ]
+      },
+      "properties": {
+        "name:fa": "ون گشت ارشاد",
+        "city": "تجریش",
+        "province": "استان تهران",
+        "date": 1788876422,
+        "description": "ون گشت ارشاد پر از نیروهای سرکوبگر با لباس کادری و جلیقه ضد گلوله",
+        "sources": "",
+        "name:en": "Guidance Patrol Van",
+        "description:en": "A Guidance Patrol van full of repressive forces in cadre uniforms and bulletproof vests",
+        "city:en": "Tajrish",
+        "province:en": "Tehran",
+        "id": "MzY6NmExY2MzYzcxNzg2",
+        "publicId": "MzY6NmExY2MzYzcxNzg2",
+        "sourceId": "6a1cc3c71786",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T19:58:06.045Z",
+        "updatedAt": "2026-09-08T19:58:06.045Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.39036601781845,
+          36.9754877908547
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان نقده",
+        "province": "استان آذربایجان غربی",
+        "date": 1788868755,
+        "description": "ایست بازرسی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint",
+        "city:en": "Naghadeh County",
+        "province:en": "West Azerbaijan",
+        "id": "MzY6MzgxYTVmOGQxYjNh",
+        "publicId": "MzY6MzgxYTVmOGQxYjNh",
+        "sourceId": "381a5f8d1b3a",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T19:58:25.522Z",
+        "updatedAt": "2026-09-08T19:58:25.522Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94743,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.393330194056034,
+          36.974418527265286
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان نقده",
+        "province": "استان آذربایجان غربی",
+        "date": 1788868636,
+        "description": "ایست بازرسی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint",
+        "city:en": "Naghadeh",
+        "province:en": "West Azerbaijan",
+        "id": "MzY6YTM5ZDRhYmY4MDUy",
+        "publicId": "MzY6YTM5ZDRhYmY4MDUy",
+        "sourceId": "a39d4abf8052",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T19:58:38.498Z",
+        "updatedAt": "2026-09-08T19:58:38.498Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94744,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.124934278428555,
+          37.521139745268826
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "date": 1788867847,
+        "description": "ایست بازرسی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MzY6ZWEwYmM2ODVlNmY3",
+        "publicId": "MzY6ZWEwYmM2ODVlNmY3",
+        "sourceId": "ea0bc685e6f7",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T19:59:02.349Z",
+        "updatedAt": "2026-09-08T19:59:02.349Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.105121806263924,
+          37.563375231027436
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست و بازرسی",
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "date": 1788867412,
+        "description": "ایست و بازرسی جاده دریا",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Darya Road Checkpoint",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MzY6YzZmN2M2ZWVlMzE2",
+        "publicId": "MzY6YzZmN2M2ZWVlMzE2",
+        "sourceId": "c6f7c6eee316",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T20:02:18.069Z",
+        "updatedAt": "2026-09-08T20:02:18.069Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.54670777916908,
+          34.83002560014394
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حکومتی",
+        "city": "شهرک شهید مدنی",
+        "province": "استان همدان",
+        "date": 1788726600,
+        "description": "تجمعات شبانه حکومتی",
+        "sources": "",
+        "name:en": "Pro-government Gathering",
+        "description:en": "Nightly pro-government gatherings",
+        "city:en": "Shahrak-e Shahid Madani",
+        "province:en": "Hamadan",
+        "id": "MzY6NzM3Zjc1ZWRlMTgz",
+        "publicId": "MzY6NzM3Zjc1ZWRlMTgz",
+        "sourceId": "737f75ede183",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T20:03:40.024Z",
+        "updatedAt": "2026-09-08T20:03:40.024Z"
+      }
     }
   ],
   "metadata": {
-    "total": 686,
+    "total": 691,
     "layerId": 36,
     "clustered": false,
     "simplified": false

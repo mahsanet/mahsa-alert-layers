@@ -74194,10 +74194,300 @@
         "createdAt": "2026-09-04T06:09:16.163Z",
         "updatedAt": "2026-09-04T06:09:16.163Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.41376704722643,
+          36.80546587095104
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر اصلی سپاه رودبار",
+        "unofficial_name:fa": "",
+        "description": "مقر اصلی سپاه در رودبار",
+        "date": 1788877930,
+        "city": "خلیل آباد",
+        "province": "استان گیلان",
+        "name:en": "Main IRGC Headquarters in Rudbar",
+        "description:en": "Main IRGC headquarters in Rudbar",
+        "city:en": "Khalilabad",
+        "province:en": "Gilan",
+        "id": "MTI6YjczNjM2ZmZlZTg3",
+        "publicId": "MTI6YjczNjM2ZmZlZTg3",
+        "sourceId": "b73636ffee87",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T19:55:01.944Z",
+        "updatedAt": "2026-09-08T19:55:01.944Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94740,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.426955413950935,
+              36.82244374251793
+            ],
+            [
+              49.42711588693231,
+              36.82249629353416
+            ],
+            [
+              49.42726031261489,
+              36.82242388990281
+            ],
+            [
+              49.42743829174077,
+              36.82243440011135
+            ],
+            [
+              49.42749372786105,
+              36.82215646299302
+            ],
+            [
+              49.42732450180745,
+              36.82211091857933
+            ],
+            [
+              49.427139228492166,
+              36.82214361707615
+            ],
+            [
+              49.42704440351312,
+              36.82229192826921
+            ],
+            [
+              49.42704440351312,
+              36.82229192826921
+            ],
+            [
+              49.426955413950935,
+              36.82244374251793
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "اینجا مکانی هست که خودرو های سپاه رفت و آمد دارد درکنار خانه های مسکونی حتی ساختمان جنوبی آن آثار تیر اندازی دی ماه در آن هست. پل مخفی که پشت پاگاه نظامی هست .توجه کنید پل دوم که پایینی هست عمومی هست.",
+        "date": "",
+        "city": "رودبار",
+        "province": "استان گیلان",
+        "description:en": "This is a place where IRGC vehicles commute next to residential houses, and even its southern building bears bullet marks from the Dey month shootings. There is a hidden bridge behind the military base. Note that the second, lower bridge is public.",
+        "city:en": "Rudbar",
+        "province:en": "Gilan",
+        "id": "MTI6NGFlOGZlNzBlMDdk",
+        "publicId": "MTI6NGFlOGZlNzBlMDdk",
+        "sourceId": "4ae8fe70e07d",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T19:56:27.842Z",
+        "updatedAt": "2026-09-08T19:57:18.109Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.06685774773359,
+          37.534173198680975
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه پاسداران",
+        "unofficial_name:fa": "",
+        "description": "سپاه پاسداران",
+        "date": 1788850015,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:en": "Sepah Pasdaran",
+        "description:en": "Sepah Pasdaran",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MTI6OWU5OGViYWVkNDUw",
+        "publicId": "MTI6OWU5OGViYWVkNDUw",
+        "sourceId": "9e98ebaed450",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T20:00:52.506Z",
+        "updatedAt": "2026-09-08T20:00:52.506Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.07115727358399,
+          37.534814513708085
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز نظامی سپاه ارومیه",
+        "unofficial_name:fa": "",
+        "description": "مرکز نظامی سپاه ارومیه",
+        "date": 1788888128,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:en": "Urmia IRGC Military Center",
+        "description:en": "Urmia IRGC Military Center",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MTI6YWJkMmM5NGExM2Q2",
+        "publicId": "MTI6YWJkMmM5NGExM2Q2",
+        "sourceId": "abd2c94a13d6",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T20:01:10.043Z",
+        "updatedAt": "2026-09-08T20:01:14.464Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.072007924318314,
+          37.53556129644495
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز نظامی سپاه",
+        "unofficial_name:fa": "",
+        "description": "مرکز نظامی سپاه",
+        "date": 1788888048,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:en": "Sepah Military Center",
+        "description:en": "Sepah Military Center",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MTI6ZjE4YTc4OTU4ZDk5",
+        "publicId": "MTI6ZjE4YTc4OTU4ZDk5",
+        "sourceId": "f18a78958d99",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T20:01:26.673Z",
+        "updatedAt": "2026-09-08T20:01:26.673Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94755,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.401368346902416,
+              29.684457360906293
+            ],
+            [
+              52.39183650781996,
+              29.6754105523232
+            ],
+            [
+              52.39295790065421,
+              29.668242118292113
+            ],
+            [
+              52.40649471414022,
+              29.661490795779386
+            ],
+            [
+              52.4187499358184,
+              29.661769209788957
+            ],
+            [
+              52.42435689998496,
+              29.665597324282132
+            ],
+            [
+              52.42195391534122,
+              29.675271364293906
+            ],
+            [
+              52.41210167830678,
+              29.682996008500908
+            ],
+            [
+              52.408096703901606,
+              29.68612745192533
+            ],
+            [
+              52.408096703901606,
+              29.68612745192533
+            ],
+            [
+              52.408096703901606,
+              29.68612745192533
+            ],
+            [
+              52.401368346902416,
+              29.684457360906293
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "در جنگ اخیر از این منطقه موشک پرتاب شد.",
+        "date": "",
+        "city": "شهرستان شیراز",
+        "province": "استان فارس",
+        "description:en": "In the recent war, missiles were launched from this area.",
+        "city:en": "Shiraz County",
+        "province:en": "Fars",
+        "id": "MTI6ZTM2MmQ5Njc2OTk4",
+        "publicId": "MTI6ZTM2MmQ5Njc2OTk4",
+        "sourceId": "e362d9676998",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T20:09:19.534Z",
+        "updatedAt": "2026-09-08T20:09:19.534Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1037,
+    "total": 1043,
     "layerId": 12,
     "clustered": false,
     "simplified": false

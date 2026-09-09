@@ -8517,36 +8517,6 @@
     },
     {
       "type": "Feature",
-      "id": 1957,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.2923041,
-          31.9703477
-        ]
-      },
-      "properties": {
-        "id": "MTc6MTExNTQ",
-        "city": "بروجن",
-        "name:fa": "حوزه علمیه برادران بروجن",
-        "province": "استان چهارمحال و بختیاری",
-        "name:en": "Borujen Men's Seminary",
-        "city:en": "Borujen",
-        "province:en": "Chaharmahal and Bakhtiari",
-        "publicId": "MTc6MTExNTQ",
-        "sourceId": "11154",
-        "layerId": 17,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:43.023Z",
-        "updatedAt": "2026-03-11T20:52:43.023Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1959,
       "geometry": {
         "type": "Point",
@@ -91658,7 +91628,7 @@
     }
   ],
   "metadata": {
-    "total": 2388,
+    "total": 2387,
     "layerId": 17,
     "clustered": false,
     "simplified": false

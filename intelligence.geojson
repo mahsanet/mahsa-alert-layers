@@ -13904,10 +13904,78 @@
         "createdAt": "2026-09-04T06:07:47.553Z",
         "updatedAt": "2026-09-04T06:07:47.553Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.068397000432014,
+          37.534244451982104
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "اطلاعات سپاه",
+        "date": 1788850129,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:fa": "اطلاعات سپاه",
+        "name:en": "IRGC Intelligence",
+        "description:en": "IRGC Intelligence",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MjozZGY4ODgwNzc0MDU",
+        "publicId": "MjozZGY4ODgwNzc0MDU",
+        "sourceId": "3df888077405",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T20:00:26.338Z",
+        "updatedAt": "2026-09-08T20:00:26.338Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.06183832883835,
+          37.541241300896914
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "دفتر اطلاعات ارتش",
+        "date": 1788849941,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:fa": "اطلاعات ارتش",
+        "name:en": "Army Intelligence",
+        "description:en": "Army Intelligence Office",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MjozYTllOTIzMWRlZGM",
+        "publicId": "MjozYTllOTIzMWRlZGM",
+        "sourceId": "3a9e9231dedc",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T20:06:31.971Z",
+        "updatedAt": "2026-09-08T20:06:31.971Z"
+      }
     }
   ],
   "metadata": {
-    "total": 355,
+    "total": 357,
     "layerId": 2,
     "clustered": false,
     "simplified": false

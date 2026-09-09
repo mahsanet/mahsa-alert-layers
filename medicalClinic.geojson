@@ -164600,10 +164600,43 @@
         "createdAt": "2026-07-30T21:45:19.339Z",
         "updatedAt": "2026-07-30T21:45:19.339Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94739,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.41378800198436,
+          36.80583699796284
+        ]
+      },
+      "properties": {
+        "name:fa": "درمانگاه امام علی",
+        "description": "درمانگاه امام علی که مسئولین سپاه در آن مستقر هستند.",
+        "date": 1788878017,
+        "city": "خلیل آباد",
+        "province": "استان گیلان",
+        "name:en": "Imam Ali Clinic",
+        "description:en": "Imam Ali Clinic, where IRGC officials are stationed.",
+        "city:en": "Khalilabad",
+        "province:en": "Gilan",
+        "id": "MjY6ODQwNDk2OGQwYzJh",
+        "publicId": "MjY6ODQwNDk2OGQwYzJh",
+        "sourceId": "8404968d0c2a",
+        "layerId": 26,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T19:55:29.408Z",
+        "updatedAt": "2026-09-08T19:55:29.408Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5487,
+    "total": 5488,
     "layerId": 26,
     "clustered": false,
     "simplified": false

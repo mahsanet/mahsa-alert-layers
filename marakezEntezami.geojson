@@ -189879,10 +189879,109 @@
         "createdAt": "2026-09-07T07:18:25.269Z",
         "updatedAt": "2026-09-07T07:18:25.269Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.06808418780565,
+          37.587351749416854
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر نیروی انتظامی",
+        "description": "مقر نیروی انتظامی",
+        "date": 1788888454,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:en": "Law Enforcement Headquarters",
+        "description:en": "Law Enforcement Headquarters",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MzoxNDE4Y2IyMjRlN2Q",
+        "publicId": "MzoxNDE4Y2IyMjRlN2Q",
+        "sourceId": "1418cb224e7d",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T20:04:06.294Z",
+        "updatedAt": "2026-09-08T20:04:06.294Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.41142313182354,
+          36.809055996321604
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری بالابازار رودبار",
+        "description": "کلانتری بالابازار رودبار",
+        "date": 1788878152,
+        "city": "خلیل آباد",
+        "province": "استان گیلان",
+        "name:en": "Bala Bazar Rudbar Police Station",
+        "description:en": "Bala Bazar Rudbar Police Station",
+        "city:en": "Khalilabad",
+        "province:en": "Gilan",
+        "id": "Mzo1ZGI2N2YwOWNhOGI",
+        "publicId": "Mzo1ZGI2N2YwOWNhOGI",
+        "sourceId": "5db67f09ca8b",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T20:04:38.388Z",
+        "updatedAt": "2026-09-08T20:04:44.310Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.416187070310116,
+          36.80858797957498
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری خلیل آباد رودبار",
+        "description": "کلانتری خلیل آباد رودبار",
+        "date": 1788878097,
+        "city": "خلیل آباد",
+        "province": "استان گیلان",
+        "name:en": "Khalilabad Rudbar Police Station",
+        "description:en": "Khalilabad Rudbar Police Station",
+        "city:en": "Khalilabad",
+        "province:en": "Gilan",
+        "id": "MzphMjUxZDJkMGE4ZTk",
+        "publicId": "MzphMjUxZDJkMGE4ZTk",
+        "sourceId": "a251d2d0a8e9",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-08T20:05:03.833Z",
+        "updatedAt": "2026-09-08T20:05:03.833Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6082,
+    "total": 6085,
     "layerId": 3,
     "clustered": false,
     "simplified": false

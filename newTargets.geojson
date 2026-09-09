@@ -30063,10 +30063,464 @@
         "createdAt": "2026-09-01T19:56:13.653Z",
         "updatedAt": "2026-09-01T19:56:50.664Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.34316855016297,
+          29.209864984579283
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار نزدیک خارک",
+        "unofficial_name:fa": "",
+        "date": 1788893760,
+        "geolocates": "",
+        "description": "خبرگزاری فارس از شنیده‌شدن صدای انفجار در نزدیکی جزیره خارگ در خلیج فارس خبر داده است. جزئیات بیشتری درباره علت یا پیامدهای این انفجارها منتشر نشده است. تاریخ: ۱۷ شهریور ۱۴۰۵.",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/osint613/status/2097397935717658858",
+        "name:en": "Explosion Near Kharg",
+        "description:en": "Fars News Agency reported the sound of an explosion heard near Kharg Island in the Persian Gulf. No further details regarding the cause or consequences of these explosions have been published. Date: September 8, 2026.",
+        "id": "MzI6NTYzMDNmY2M2ZjE4",
+        "publicId": "MzI6NTYzMDNmY2M2ZjE4",
+        "sourceId": "56303fcc6f18",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T18:57:42.067Z",
+        "updatedAt": "2026-09-08T19:00:57.676Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.775147549210004,
+          25.627652605280744
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در جاسک",
+        "unofficial_name:fa": "",
+        "date": 1788891300,
+        "geolocates": "",
+        "description": "خبرگزاری فارس گزارش داد حوالی ساعت ۲۱:۴۵ شامگاه ۱۷ شهریور ۱۴۰۵، صدای دو انفجار با فاصله کوتاه در شهرستان جاسک شنیده شده است. به گفته منابع محلی، صدا از سمت دریا و نزدیکی منطقه سنگ سیاه به گوش رسیده است.",
+        "city": "",
+        "province": "",
+        "sources": "https://t.me/VahidOnline/78280",
+        "name:en": "Explosion in Jask",
+        "description:en": "Fars News Agency reported that around 21:45 on the evening of 17 Shahrivar 1405 (September 8, 2026), the sound of two explosions in short succession was heard in Jask County. According to local sources, the sound came from the direction of the sea and near the Sang-e Siah area.",
+        "id": "MzI6YzViOTZlYTg1ODkz",
+        "publicId": "MzI6YzViOTZlYTg1ODkz",
+        "sourceId": "c5b96ea85893",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T19:14:59.843Z",
+        "updatedAt": "2026-09-08T19:14:59.843Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.34075098146809,
+          29.230391163234373
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "آتش‌سوزی نفتکش",
+        "unofficial_name:fa": "",
+        "date": 1788896220,
+        "geolocates": "",
+        "description": "در ۱۷ شهریور ۱۴۰۵ گزارش شده یک نفتکش در فاصله حدود چهار مایلی جزیره خارک دچار آتش‌سوزی شده است. همچنین ساعت ۲۳:۰۷ همان شب، چندین صدای انفجار مهیب در لنگرگاه جزیره خارک شنیده شده است.",
+        "city": "",
+        "province": "",
+        "sources": "https://t.me/iliaen/4707, https://t.me/hodinews/22499, https://t.me/Minas_Tirith2024/14628",
+        "name:en": "Oil Tanker Fire",
+        "description:en": "On September 8, 2026, an oil tanker was reported to have caught fire approximately four miles off Kharg Island. Additionally, at 23:07 that same night, several massive explosions were heard at the Kharg Island anchorage.",
+        "id": "MzI6ZDYzNjY4YTdiY2My",
+        "publicId": "MzI6ZDYzNjY4YTdiY2My",
+        "sourceId": "d63668a7bcc2",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T19:41:07.580Z",
+        "updatedAt": "2026-09-08T19:41:07.580Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94756,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.72359072699061,
+          32.57867760717562
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "date": 1788902580,
+        "geolocates": "",
+        "description": " ساعت حدود ۰۰:۵۳ بامداد چهارشنبه؛ سپاه پاسداران درحال شلیک موشک از سایت موشکی اصفهان، ابهر و یزد، به سمت جنوب خلیج فارس (بحرین و کویت) است. ",
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "sources": "https://x.com/faytuksnetwork/status/2097435824103072193?s=46, https://t.me/iliaen/4708",
+        "name:en": "Missile Launch",
+        "description:en": "At around 00:53 AM on Wednesday, the Islamic Revolutionary Guard Corps is firing missiles from missile sites in Isfahan, Abhar, and Yazd toward the southern Persian Gulf (Bahrain and Kuwait).",
+        "city:en": "Isfahan",
+        "province:en": "Isfahan",
+        "id": "MzI6OWNmYTYxMjkwMWFk",
+        "publicId": "MzI6OWNmYTYxMjkwMWFk",
+        "sourceId": "9cfa612901ad",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T21:28:41.919Z",
+        "updatedAt": "2026-09-08T21:28:41.919Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94757,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.268519794291734,
+          34.08820273582482
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "date": 1788902820,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان کاشان",
+        "province": "استان اصفهان",
+        "sources": "https://t.me/mamlekate/104394",
+        "name:en": "Missile Launch",
+        "city:en": "Kashan County",
+        "province:en": "Isfahan",
+        "id": "MzI6OWVmMThmMzUxMGVl",
+        "publicId": "MzI6OWVmMThmMzUxMGVl",
+        "sourceId": "9ef18f3510ee",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T21:31:03.307Z",
+        "updatedAt": "2026-09-08T21:31:03.307Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94758,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.310838423899185,
+          31.808615935946207
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "date": 1788902760,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان یزد",
+        "province": "استان یزد",
+        "sources": "https://t.me/mamlekate/104394",
+        "name:en": "Missile Launch",
+        "city:en": "Yazd County",
+        "province:en": "Yazd",
+        "id": "MzI6Yjk5ZDg2NTFlNGJj",
+        "publicId": "MzI6Yjk5ZDg2NTFlNGJj",
+        "sourceId": "b99d8651e4bc",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T21:32:16.517Z",
+        "updatedAt": "2026-09-08T21:36:38.802Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.24779009630012,
+          33.557687346739144
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "date": 1788902700,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان چگنی",
+        "province": "استان لرستان",
+        "sources": "https://t.me/mamlekate/104394",
+        "name:en": "Missile Launch",
+        "city:en": "Chegeni County",
+        "province:en": "Lorestan",
+        "id": "MzI6ODZmN2FmNjgyMDNl",
+        "publicId": "MzI6ODZmN2FmNjgyMDNl",
+        "sourceId": "86f7af68203e",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T21:33:02.298Z",
+        "updatedAt": "2026-09-08T21:33:02.298Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94760,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.132165888703554,
+          33.55775184764791
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "date": 1788902760,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان خمین",
+        "province": "استان مرکزی",
+        "sources": "https://t.me/hodinews/22519",
+        "name:en": "Missile Launch",
+        "city:en": "Khomein County",
+        "province:en": "Markazi",
+        "id": "MzI6NTRmZTMyZTM3ZTBj",
+        "publicId": "MzI6NTRmZTMyZTM3ZTBj",
+        "sourceId": "54fe32e37e0c",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T21:34:45.867Z",
+        "updatedAt": "2026-09-08T21:34:45.867Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94761,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.294381271947145,
+          38.13342661882021
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "date": 1788902940,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان تبریز",
+        "province": "استان آذربایجان شرقی",
+        "sources": "https://t.me/hodinews/22518",
+        "name:en": "Missile Launch",
+        "city:en": "Tabriz County",
+        "province:en": "East Azerbaijan",
+        "id": "MzI6ODg0ZTliOTJkY2Ez",
+        "publicId": "MzI6ODg0ZTliOTJkY2Ez",
+        "sourceId": "884e9b92dca3",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T21:35:43.033Z",
+        "updatedAt": "2026-09-08T21:35:43.033Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.843679683010805,
+          32.097903249651466
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "date": 1788902880,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان شهرضا",
+        "province": "استان اصفهان",
+        "sources": "https://t.me/c/3545697902/16633",
+        "name:en": "Missile Launch",
+        "city:en": "Shahreza",
+        "province:en": "Isfahan",
+        "id": "MzI6ZGNiZmU0MTY1NTll",
+        "publicId": "MzI6ZGNiZmU0MTY1NTll",
+        "sourceId": "dcbfe416559e",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T21:38:41.290Z",
+        "updatedAt": "2026-09-08T21:38:41.290Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.05510092174487,
+          35.79006738321169
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "date": 1788902820,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان کرج",
+        "province": "استان البرز",
+        "sources": "https://t.me/c/3545697902/16632",
+        "name:en": "Missile Launch",
+        "city:en": "Karaj County",
+        "province:en": "Alborz",
+        "id": "MzI6YTI5OGRlOWVlODY5",
+        "publicId": "MzI6YTI5OGRlOWVlODY5",
+        "sourceId": "a298de9ee869",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T21:39:47.025Z",
+        "updatedAt": "2026-09-08T21:39:47.025Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.324490820260564,
+          33.63370771112159
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "date": 1788903120,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرستان ایلام",
+        "province": "استان ایلام",
+        "sources": "https://t.me/hodinews/22521",
+        "name:en": "Missile Launch",
+        "city:en": "Ilam County",
+        "province:en": "Ilam",
+        "id": "MzI6ODk4ZDY1YTVkNmE4",
+        "publicId": "MzI6ODk4ZDY1YTVkNmE4",
+        "sourceId": "898d65a5d6a8",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-08T21:42:06.090Z",
+        "updatedAt": "2026-09-08T21:42:06.090Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.068164733435566,
+          27.862916377334827
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "گزارش انفجار",
+        "unofficial_name:fa": "",
+        "date": 1788914940,
+        "geolocates": "",
+        "description": "ساعت 4.19 دقیقه صبح بندرکنگان الان صدای انفجار اومد  \nدر و پنجره ها شدید لرزید",
+        "city": "شهرستان کنگان",
+        "province": "استان بوشهر",
+        "sources": "https://t.me/VahidOnline/78289",
+        "name:en": "Explosion Report",
+        "description:en": "At 4:19 AM in Bandar Kangan, the sound of an explosion was just heard.\nDoors and windows shook violently.",
+        "city:en": "Kangan",
+        "province:en": "Bushehr",
+        "id": "MzI6M2I3MmM5MzQ3ZTM4",
+        "publicId": "MzI6M2I3MmM5MzQ3ZTM4",
+        "sourceId": "3b72c9347e38",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-09T01:06:17.895Z",
+        "updatedAt": "2026-09-09T01:07:06.863Z"
+      }
     }
   ],
   "metadata": {
-    "total": 871,
+    "total": 884,
     "layerId": 32,
     "clustered": false,
     "simplified": false
