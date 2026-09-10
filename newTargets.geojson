@@ -30517,10 +30517,181 @@
         "createdAt": "2026-09-09T01:06:17.895Z",
         "updatedAt": "2026-09-09T01:07:06.863Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.815180578198266,
+          25.642598075817887
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "گزارش انفجار",
+        "unofficial_name:fa": "",
+        "date": 1788967800,
+        "geolocates": "",
+        "description": "گزارش انفجار از بند جاسک",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/osint613/status/2097720155006521852",
+        "name:en": "Explosion Report",
+        "description:en": "Explosion report from Jask Port",
+        "id": "MzI6YWY4Y2Y4N2E4Y2Ni",
+        "publicId": "MzI6YWY4Y2Y4N2E4Y2Ni",
+        "sourceId": "af8cf87a8ccb",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-09T17:12:58.705Z",
+        "updatedAt": "2026-09-09T17:12:58.705Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94768,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.380984567910815,
+          26.95187297388358
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی قشم",
+        "unofficial_name:fa": "",
+        "date": 1788987300,
+        "geolocates": "",
+        "description": "",
+        "city": "",
+        "province": "",
+        "sources": "https://t.me/VahidOnline/78305",
+        "name:en": "Explosion near Qeshm",
+        "id": "MzI6ZTViMGIzNjYzZTRl",
+        "publicId": "MzI6ZTViMGIzNjYzZTRl",
+        "sourceId": "e5b0b3663e4e",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-09T21:26:28.744Z",
+        "updatedAt": "2026-09-09T21:26:28.744Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.92960638259558,
+          26.54634475933736
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی سیریک",
+        "unofficial_name:fa": "",
+        "date": 1788988920,
+        "geolocates": "",
+        "description": "",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/no_itsmyturn/status/2097799121520177219",
+        "name:en": "Explosion in the vicinity of Sirik",
+        "id": "MzI6Nzk5YzNiYmZlNTAz",
+        "publicId": "MzI6Nzk5YzNiYmZlNTAz",
+        "sourceId": "799c3bbfe503",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-09T21:29:10.015Z",
+        "updatedAt": "2026-09-09T21:29:10.015Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94770,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.09364982697912,
+          27.09514909294394
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی میناب",
+        "unofficial_name:fa": "",
+        "date": 1788988980,
+        "geolocates": "",
+        "description": "",
+        "city": "شهرک المهدی",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/no_itsmyturn/status/2097799121520177219",
+        "name:en": "Explosion near Minab",
+        "city:en": "Shahrak-e Al-Mahdi",
+        "province:en": "Hormozgan",
+        "id": "MzI6NDgzYWI1Yjk5ZTk0",
+        "publicId": "MzI6NDgzYWI1Yjk5ZTk0",
+        "sourceId": "483ab5b99e94",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-09T21:30:07.607Z",
+        "updatedAt": "2026-09-09T21:30:54.065Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.69441139828177,
+          32.585544746039446
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "date": 1788989340,
+        "geolocates": "",
+        "description": "گزارش هایی از لانچ موشک بالستیک از اصفهان. گزارش در دست برسی میباشد.",
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "sources": "https://x.com/molowarmonitor/status/2097802774230835402",
+        "name:en": "Missile Launch",
+        "description:en": "Reports of a ballistic missile launch from Isfahan. The report is under investigation.",
+        "city:en": "Isfahan",
+        "province:en": "Isfahan",
+        "id": "MzI6NmU1YWQ1OGNmNjU0",
+        "publicId": "MzI6NmU1YWQ1OGNmNjU0",
+        "sourceId": "6e5ad58cf654",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-09T21:45:01.958Z",
+        "updatedAt": "2026-09-09T21:45:01.958Z"
+      }
     }
   ],
   "metadata": {
-    "total": 884,
+    "total": 889,
     "layerId": 32,
     "clustered": false,
     "simplified": false

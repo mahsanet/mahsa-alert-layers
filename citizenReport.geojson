@@ -21744,6 +21744,40 @@
     },
     {
       "type": "Feature",
+      "id": 94468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.98074377110538,
+          26.54705634380518
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "توقیف نفتکش اماراتی",
+        "unofficial_name:fa": "",
+        "date": 1786653000,
+        "geolocates": "",
+        "description": "به گزارش جهان نیوز، داده ناوبری دریایی، توقیف یک نفتکش اماراتی در تنگه هرمز را تایید کرد.\n \nطبق ترتیبات ایران برای عبور امن از تنگه هرمز، مسیر یکی از شروط است و پرداخت بهای خدمات و اجازه ایران از دیگر شروطی است که نفتکش‌ها باید رعایت کنند.\n \nنفتکش امارات در نزدیکی قشم متوقف شده است.",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/mhmiranusa/status/2089383334988116226?s=20",
+        "name:en": "Seizure of an Emirati Oil Tanker",
+        "description:en": "According to Jahan News, maritime navigation data has confirmed the seizure of an Emirati oil tanker in the Strait of Hormuz.\n \nUnder Iran's arrangements for safe passage through the Strait of Hormuz, following the designated route is one of the conditions, and paying service fees and obtaining Iran's permission are among other conditions that tankers must observe.\n \nThe Emirati tanker has been stopped near Qeshm.",
+        "id": "MzY6N2Q5ZjJhOThjYzcz",
+        "publicId": "MzY6N2Q5ZjJhOThjYzcz",
+        "sourceId": "7d9f2a98cc73",
+        "layerId": 36,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-17T19:02:14.628Z",
+        "updatedAt": "2026-09-09T07:08:30.735Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 94472,
       "geometry": {
         "type": "Point",
@@ -21873,6 +21907,40 @@
         "expirationDate": null,
         "createdAt": "2026-08-17T22:14:05.592Z",
         "updatedAt": "2026-08-17T22:14:05.592Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.42713870445803,
+          29.24262592623269
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تجمع نفتکش‌ها",
+        "unofficial_name:fa": "",
+        "date": 1787085000,
+        "geolocates": "",
+        "description": "تجمع نفتکش‌های ج.ا در اطراف جزیره خارک: در تصاویر مربوط به روز گذشته، ۲۸ مرداد ۱۴۰۵، چندین نفتکش ج.ا در اطراف خارک دیده میشوند؛ در حالی که هیچ‌کدام در اسکله مشغول بارگیری نیستند.",
+        "city": "",
+        "province": "",
+        "sources": "https://t.me/hodinews/21487",
+        "name:en": "Gathering of Oil Tankers",
+        "description:en": "Concentration of Islamic Republic oil tankers around Kharg Island: In images from yesterday, Mordad 28, 1405, several I.R. oil tankers are visible around Kharg, while none of them are loading at the pier.",
+        "id": "MzY6YWZkMmEwMDEzYWIx",
+        "publicId": "MzY6YWZkMmEwMDEzYWIx",
+        "sourceId": "afd2a0013ab1",
+        "layerId": 36,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-08-20T19:39:44.265Z",
+        "updatedAt": "2026-09-09T07:09:19.680Z"
       }
     },
     {
@@ -22930,7 +22998,7 @@
     }
   ],
   "metadata": {
-    "total": 691,
+    "total": 693,
     "layerId": 36,
     "clustered": false,
     "simplified": false
