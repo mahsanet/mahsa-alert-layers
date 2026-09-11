@@ -22995,10 +22995,44 @@
         "createdAt": "2026-09-08T20:03:40.024Z",
         "updatedAt": "2026-09-08T20:03:40.024Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.96849776804447,
+          35.68227524666726
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حکومتی",
+        "city": "شهرستان ملارد",
+        "province": "استان تهران",
+        "date": 1788941222,
+        "description": "محل تجمع افراد حکومتی",
+        "sources": "",
+        "name:en": "Pro-government Rally",
+        "description:en": "Gathering location for pro-government individuals.",
+        "city:en": "Malard County",
+        "province:en": "Tehran",
+        "id": "MzY6YjBmYzc4ZjY1Yjkw",
+        "publicId": "MzY6YjBmYzc4ZjY1Yjkw",
+        "sourceId": "b0fc78f65b90",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-10T04:04:59.239Z",
+        "updatedAt": "2026-09-10T04:04:59.239Z"
+      }
     }
   ],
   "metadata": {
-    "total": 693,
+    "total": 694,
     "layerId": 36,
     "clustered": false,
     "simplified": false

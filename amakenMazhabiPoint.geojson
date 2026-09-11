@@ -175718,10 +175718,42 @@
         "createdAt": "2026-09-07T21:29:06.963Z",
         "updatedAt": "2026-09-07T21:29:06.963Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.180262996046565,
+          36.590968035279246
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام حسن مجتبی",
+        "description": "",
+        "date": "",
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "name:en": "Imam Hassan Mojtaba Mosque",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo0MTc1YWU1MjQ0YmU",
+        "publicId": "NDo0MTc1YWU1MjQ0YmU",
+        "sourceId": "4175ae5244be",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-10T04:07:17.803Z",
+        "updatedAt": "2026-09-10T04:07:17.803Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5654,
+    "total": 5655,
     "layerId": 4,
     "clustered": false,
     "simplified": false

@@ -75014,10 +75014,44 @@
         "createdAt": "2026-09-07T21:26:45.824Z",
         "updatedAt": "2026-09-07T21:26:45.824Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.18051954535562,
+          36.59106010970095
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج عمار",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج عمار در مسجد امام حسن مجتبی، محل آموزش کلاس‌های ایست و بازرسی، آموزش اسلحه‌شناسی و جلسات آمادگی دفاعی.",
+        "date": 1788958385,
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "name:en": "Ammar Basij Base",
+        "description:en": "Ammar Basij Resistance Base at Imam Hassan Mojtaba Mosque, a location for checkpoint training classes, weapons training, and defense readiness meetings.",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "MTplYjk3ODIwN2RiOGE",
+        "publicId": "MTplYjk3ODIwN2RiOGE",
+        "sourceId": "eb978207db8a",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-10T04:06:42.877Z",
+        "updatedAt": "2026-09-10T04:07:25.419Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2274,
+    "total": 2275,
     "layerId": 1,
     "clustered": false,
     "simplified": false
