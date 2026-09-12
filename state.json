@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-11T02:00:03.726Z",
-  "serial": 3599,
+  "lastUpdated": "2026-09-12T02:00:02.891Z",
+  "serial": 3603,
   "layers": {
-    "missilePrograms": "6022b6a4d47e83c4820e613a02472d2fdf91d4b9",
+    "missilePrograms": "9bdd7640bc7e87d174491bf415857ac06308293f",
     "targets": "e61d00a9e0a95d4c2015b16e4f9cd2d0e7ee282e",
     "strikePoint": "4bdef2128b33c19bf41dd1d165e033f612be6ba6",
     "evacArea": "82568dee517290a1512a708a6fdd9ce86a034101",
@@ -11,7 +11,7 @@
     "antiAirBase": "6ad96c8e85231d3949772af8971a6a5ee348e037",
     "chelom": "6a8dafc34745a5e51ce68c76a85f2e1eebbfac92",
     "rescueBase": "359f6dbf52c92b5740cf5f59360f10b0fc243e35",
-    "radarBase": "d3bd762143d5d84c51f2c2607c310bb4e6ed6f4b",
+    "radarBase": "5c7d7370e858768ebcbbeedbd07f8b62de3e87b1",
     "nuclearPrograms": "4f03b972c8f8ea0a5df23767451c702120f8483f",
     "prisonPoly": "b8843e803b7ac97103cc987304b243eeb80064bb",
     "redCrescent": "c8f5707cc2e80e9beaebb32b5accd3020a60db48",

@@ -4664,10 +4664,42 @@
         "createdAt": "2026-09-04T06:26:56.586Z",
         "updatedAt": "2026-09-04T06:26:56.586Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.07849322184063,
+          26.720507237744357
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "city:en": "Sirik County",
+        "province:en": "Hormozgan",
+        "id": "OTo1OGU4M2Y1MjRmMzM",
+        "publicId": "OTo1OGU4M2Y1MjRmMzM",
+        "sourceId": "58e83f524f33",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-11T19:14:19.393Z",
+        "updatedAt": "2026-09-11T19:14:19.393Z"
+      }
     }
   ],
   "metadata": {
-    "total": 70,
+    "total": 71,
     "layerId": 9,
     "clustered": false,
     "simplified": false
