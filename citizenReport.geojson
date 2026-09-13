@@ -23029,10 +23029,44 @@
         "createdAt": "2026-09-10T04:04:59.239Z",
         "updatedAt": "2026-09-10T04:04:59.239Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.31803825685782,
+          27.379092237913497
+        ]
+      },
+      "properties": {
+        "name:fa": "تیراندازی و درگیری شدید در محله بخشان سراوان",
+        "city": "سراوان",
+        "province": "استان سیستان و بلوچستان",
+        "date": 1789173000,
+        "description": "درگیری بین «نیروهای نظامی جمهوری اسلامی» و «جبهه مبارزین مردمی» |   \n\nنیروهای شرکت کننده:\n«جبهه مبارزین مردمی» و «سپاه قدس (تیپ ۱۱۰ سلمان)»\n",
+        "sources": "https://x.com/haalvsh/status/2098602686392287708, https://x.com/haalvsh/status/2098604425891737603, https://x.com/haalvsh/status/2098605980787372479, https://x.com/haalvsh/status/2098610671340437858, https://x.com/haalvsh/status/2098615687065288995, https://x.com/haalvsh/status/2098620420215734345, https://x.com/haalvsh/status/2098622783429238935, https://x.com/haalvsh/status/2098624254082265400, https://x.com/haalvsh/status/2098634119810797747, https://x.com/haalvsh/status/2098640719976042813, https://x.com/haalvsh/status/2098642777240166442, https://x.com/haalvsh/status/2098648943471026181, https://x.com/haalvsh/status/2098650168404943090, https://x.com/haalvsh/status/2098654626102804735, https://x.com/haalvsh/status/2098659015911719034, https://x.com/haalvsh/status/2098662065745342920, https://x.com/haalvsh/status/2098668954935755002, https://x.com/haalvsh/status/2098670998358728892, https://x.com/haalvsh/status/2098675422963646701, https://x.com/haalvsh/status/2098687477120696682, https://x.com/haalvsh/status/2098705678194086268",
+        "name:en": "Shooting and Intense Clash in Bakhshan Neighborhood, Saravan",
+        "description:en": "Clash between the \"Islamic Republic military forces\" and the \"Popular Fighters Front\" |\n\nParticipating forces:\n\"Popular Fighters Front\" and \"Quds Force (110th Salman Brigade)\"",
+        "city:en": "Saravan",
+        "province:en": "Sistan and Baluchestan",
+        "id": "MzY6OWVkZWMwNGQ1MDQ5",
+        "publicId": "MzY6OWVkZWMwNGQ1MDQ5",
+        "sourceId": "9edec04d5049",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-12T12:09:21.448Z",
+        "updatedAt": "2026-09-12T12:11:38.795Z"
+      }
     }
   ],
   "metadata": {
-    "total": 694,
+    "total": 695,
     "layerId": 36,
     "clustered": false,
     "simplified": false

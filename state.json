@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-12T02:00:02.891Z",
-  "serial": 3603,
+  "lastUpdated": "2026-09-13T02:00:03.002Z",
+  "serial": 3611,
   "layers": {
     "missilePrograms": "9bdd7640bc7e87d174491bf415857ac06308293f",
     "targets": "e61d00a9e0a95d4c2015b16e4f9cd2d0e7ee282e",
@@ -25,7 +25,7 @@
     "marakezGhazayi": "a3c19b639ab0c5cd3755ebb6a78c622e34c767ed",
     "unknownBase": "f84156be2b4d4624042864f24eb697e008423db0",
     "hospital": "fcbf2f053f5e12dead95845b137077a7bd88d69b",
-    "citizenReport": "7429ebe0a042f9a47527f90ebeeee08374dc6632",
+    "citizenReport": "a55d22e60d0970b04f014263f414619441082787",
     "emergencyBase": "52b6f6abbb54c0c45ad97cd3cc23e9756a180957",
     "medicalClinic": "8d540631b1cbe96244044ec4a72e9699a4aff13f",
     "marakezEntezami": "22949a2e61bac57f088e49146f01ff4fa7574ef4",
