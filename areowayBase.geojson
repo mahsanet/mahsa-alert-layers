@@ -28413,10 +28413,45 @@
         "createdAt": "2026-08-04T00:03:50.857Z",
         "updatedAt": "2026-08-04T00:03:50.857Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94800,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.91218948364258,
+          35.664922224851296
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله پهپاد‌سازی سپاه",
+        "name:fa:military": "",
+        "unofficial_name:fa": "",
+        "description": "سوله پهپاد‌سازی سپاه با تردد روزانه کامیون‌ها و حضور نیروهای سپاه در ورودی.",
+        "date": 1789135015,
+        "city": "شهرستان ملارد",
+        "province": "استان تهران",
+        "name:en": "IRGC Drone Manufacturing Hangar",
+        "description:en": "IRGC drone manufacturing hangar with daily truck traffic and the presence of IRGC forces at the entrance.",
+        "city:en": "Malard County",
+        "province:en": "Tehran",
+        "id": "MTA6YzczMWVhYjUyZmEw",
+        "publicId": "MTA6YzczMWVhYjUyZmEw",
+        "sourceId": "c731eab52fa0",
+        "layerId": 10,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:45:13.016Z",
+        "updatedAt": "2026-09-13T06:45:13.016Z"
+      }
     }
   ],
   "metadata": {
-    "total": 212,
+    "total": 213,
     "layerId": 10,
     "clustered": false,
     "simplified": false

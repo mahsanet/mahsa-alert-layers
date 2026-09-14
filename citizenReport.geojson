@@ -23063,10 +23063,146 @@
         "createdAt": "2026-09-12T12:09:21.448Z",
         "updatedAt": "2026-09-12T12:11:38.795Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.658142656087875,
+          32.636565081594824
+        ]
+      },
+      "properties": {
+        "name:fa": "گشت ارشاد",
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "date": 1789140561,
+        "description": "حضور گشت ارشاد",
+        "sources": "",
+        "name:en": "Guidance Patrol",
+        "description:en": "Presence of the Guidance Patrol",
+        "city:en": "Isfahan",
+        "province:en": "Isfahan",
+        "id": "MzY6MDkzNDYzOWYwZDNh",
+        "publicId": "MzY6MDkzNDYzOWYwZDNh",
+        "sourceId": "0934639f0d3a",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:24:50.049Z",
+        "updatedAt": "2026-09-13T06:51:49.600Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.54656711965799,
+          35.74980394650247
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حکومتی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1789070247,
+        "description": "تجمع هرشب حکومتی زیر پل میان همراه با سخنران، بلندگو و چرخاندن پرچم",
+        "sources": "",
+        "name:en": "Pro-government Gathering",
+        "description:en": "Nightly pro-government gathering under Mian Bridge featuring a speaker, loudspeakers, and flag waving.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6M2UyNDMwNjBlMjQ0",
+        "publicId": "MzY6M2UyNDMwNjBlMjQ0",
+        "sourceId": "3e243060e244",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:25:36.414Z",
+        "updatedAt": "2026-09-13T06:25:36.414Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.802669048309326,
+          36.21974933665915
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمعات حکومتی",
+        "city": "نیشابور",
+        "province": "استان خراسان رضوی",
+        "date": 1789050225,
+        "description": "هرشب تجمعات حکومتی",
+        "sources": "",
+        "name:en": "Government Rallies",
+        "description:en": "Government rallies every night",
+        "city:en": "Nishapur",
+        "province:en": "Razavi Khorasan",
+        "id": "MzY6ZmQyZThkZjQxMGRj",
+        "publicId": "MzY6ZmQyZThkZjQxMGRj",
+        "sourceId": "fd2e8df410dc",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:26:03.401Z",
+        "updatedAt": "2026-09-13T06:26:03.401Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.8070584833622,
+          36.20911796347637
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حکومتی",
+        "city": "نیشابور",
+        "province": "استان خراسان رضوی",
+        "date": 1789049712,
+        "description": "هرشب تجمعات حکومتی",
+        "sources": "",
+        "name:en": "Pro-Government Rally",
+        "description:en": "Pro-government gatherings every night",
+        "city:en": "Neyshabur",
+        "province:en": "Razavi Khorasan",
+        "id": "MzY6MzMxNzVmMWFiNjc0",
+        "publicId": "MzY6MzMxNzVmMWFiNjc0",
+        "sourceId": "33175f1ab674",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:26:25.148Z",
+        "updatedAt": "2026-09-13T06:26:25.148Z"
+      }
     }
   ],
   "metadata": {
-    "total": 695,
+    "total": 699,
     "layerId": 36,
     "clustered": false,
     "simplified": false

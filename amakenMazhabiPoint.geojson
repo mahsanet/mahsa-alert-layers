@@ -175750,10 +175750,109 @@
         "createdAt": "2026-09-10T04:07:17.803Z",
         "updatedAt": "2026-09-10T04:07:17.803Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61031872779131,
+          36.32682972746426
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه",
+        "description": "حسینیه شهید فارسی",
+        "date": 1789140219,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Hosseiniyeh",
+        "description:en": "Shahid Farsi Hosseiniyeh",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo5NDIzOTFlMTljYTI",
+        "publicId": "NDo5NDIzOTFlMTljYTI",
+        "sourceId": "942391e19ca2",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:33:06.844Z",
+        "updatedAt": "2026-09-13T06:33:06.844Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94789,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61400290951133,
+          36.323649592345106
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه",
+        "description": "حسینیه هدایت",
+        "date": 1789140118,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Hosseiniyeh",
+        "description:en": "Hedayat Hosseiniyeh",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo2ZTNlOTg1NWY3ZWM",
+        "publicId": "NDo2ZTNlOTg1NWY3ZWM",
+        "sourceId": "6e3e9855f7ec",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:33:50.067Z",
+        "updatedAt": "2026-09-13T06:33:50.067Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.605999030172825,
+          36.300072622529854
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد و حسینیه",
+        "description": "مسجد و حسینیه یزدی آبادی",
+        "date": 1789139769,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mosque and Hosseiniyeh",
+        "description:en": "Yazdi Abadi Mosque and Hosseiniyeh",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDoxZGMyNzVkODk0M2E",
+        "publicId": "NDoxZGMyNzVkODk0M2E",
+        "sourceId": "1dc275d8943a",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:36:58.864Z",
+        "updatedAt": "2026-09-13T06:36:58.864Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5655,
+    "total": 5658,
     "layerId": 4,
     "clustered": false,
     "simplified": false

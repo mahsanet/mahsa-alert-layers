@@ -17744,10 +17744,78 @@
         "createdAt": "2026-09-11T19:16:42.246Z",
         "updatedAt": "2026-09-11T19:16:42.246Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.69533270597458,
+          27.82569370174238
+        ]
+      },
+      "properties": {
+        "name:fa": "محل نگهداری موشک و لانچر",
+        "description": "محل نگهداری برخی از لانچرها، موشک‌ها و پهپادها",
+        "date": 1789083020,
+        "city": "شهرستان لارستان",
+        "province": "استان فارس",
+        "sources": "",
+        "name:en": "Missile and Launcher Storage Location",
+        "description:en": "Storage location for some launchers, missiles, and drones",
+        "city:en": "Larestan County",
+        "province:en": "Fars",
+        "id": "NzoyOGMzMjIyOWY3NTQ",
+        "publicId": "NzoyOGMzMjIyOWY3NTQ",
+        "sourceId": "28c32229f754",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:38:33.632Z",
+        "updatedAt": "2026-09-13T06:38:33.632Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94801,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.91442862525582,
+          35.67499192005313
+        ]
+      },
+      "properties": {
+        "name:fa": "ورودی تونل",
+        "description": "ورودی مخفی تونل موشکی سپاه از طریق پمپ بنزین. ورودی دارای شیب به سمت پایین است.",
+        "date": 1789135245,
+        "city": "شهرستان ملارد",
+        "province": "استان تهران",
+        "sources": "",
+        "name:en": "Tunnel Entrance",
+        "description:en": "Secret entrance to the IRGC missile tunnel via a gas station. The entrance has a downward slope.",
+        "city:en": "Malard County",
+        "province:en": "Tehran",
+        "id": "NzowZGFlM2YwZWFhMDU",
+        "publicId": "NzowZGFlM2YwZWFhMDU",
+        "sourceId": "0dae3f0eaa05",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:46:36.944Z",
+        "updatedAt": "2026-09-13T06:46:36.944Z"
+      }
     }
   ],
   "metadata": {
-    "total": 177,
+    "total": 179,
     "layerId": 7,
     "clustered": false,
     "simplified": false

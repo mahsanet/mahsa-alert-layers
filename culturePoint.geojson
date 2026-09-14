@@ -91625,10 +91625,373 @@
         "createdAt": "2026-09-07T21:31:57.114Z",
         "updatedAt": "2026-09-07T21:31:57.114Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94784,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60973434150219,
+          36.25774964169733
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه ۷ مشهد",
+        "description": "شهرداری منطقه ۷ مشهد",
+        "date": 1789241066,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mashhad District 7 Municipality",
+        "description:en": "Mashhad District 7 Municipality",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6MGY1OTJmOTcyYmRi",
+        "publicId": "MTc6MGY1OTJmOTcyYmRi",
+        "sourceId": "0f592f972bdb",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:30:28.509Z",
+        "updatedAt": "2026-09-13T06:30:28.509Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94786,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.480650685727596,
+          36.370705333483386
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه ۱۲ مشهد",
+        "description": "شهرداری منطقه ۱۲ مشهد",
+        "date": 1789242057,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "District 12 Municipality of Mashhad",
+        "description:en": "District 12 Municipality of Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6ODU1MGE3MDM0ZTFm",
+        "publicId": "MTc6ODU1MGE3MDM0ZTFm",
+        "sourceId": "8550a7034e1f",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:31:00.850Z",
+        "updatedAt": "2026-09-13T06:31:00.850Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94787,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.528469778597355,
+          36.3622639310415
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه ۱۰ مشهد",
+        "description": "شهرداری منطقه ۱۰ مشهد",
+        "date": 1789241682,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "District 10 Municipality of Mashhad",
+        "description:en": "District 10 Municipality of Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6MmM4OTBmZGYxMzEy",
+        "publicId": "MTc6MmM4OTBmZGYxMzEy",
+        "sourceId": "2c890fdf1312",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:31:17.532Z",
+        "updatedAt": "2026-09-13T06:31:17.532Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94791,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59438640624285,
+          36.31515202800841
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه ۲ مشهد",
+        "description": "شهرداری منطقه ۲ مشهد",
+        "date": 1789240253,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mashhad District 2 Municipality",
+        "description:en": "Mashhad District 2 Municipality",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6NWY0ZmM4Yjg3MGVk",
+        "publicId": "MTc6NWY0ZmM4Yjg3MGVk",
+        "sourceId": "5f4fc8b870ed",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:34:37.149Z",
+        "updatedAt": "2026-09-13T06:34:37.149Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.591092988848686,
+          36.27513206199359
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه ۸ مشهد",
+        "description": "شهرداری منطقه ۸ مشهد",
+        "date": 1789241210,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mashhad District 8 Municipality",
+        "description:en": "Mashhad District 8 Municipality",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6MmE5MjE4ZWY2YWMw",
+        "publicId": "MTc6MmE5MjE4ZWY2YWMw",
+        "sourceId": "2a9218ef6ac0",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:34:50.906Z",
+        "updatedAt": "2026-09-13T06:34:50.906Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6436357870698,
+          36.27196928038687
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه ۶ مشهد",
+        "description": "شهرداری منطقه ۶ مشهد",
+        "date": 1789240862,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mashhad District 6 Municipality",
+        "description:en": "Mashhad District 6 Municipality",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6NDlhOGI2MzEzNGUx",
+        "publicId": "MTc6NDlhOGI2MzEzNGUx",
+        "sourceId": "49a8b63134e1",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:37:26.718Z",
+        "updatedAt": "2026-09-13T06:37:26.718Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.65155769139528,
+          36.33140548537722
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه ۳ مشهد",
+        "description": "شهرداری منطقه ۳ مشهد",
+        "date": 1789240142,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "District 3 Municipality of Mashhad",
+        "description:en": "District 3 Municipality of Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6YmEyMTY5MzgzNDg5",
+        "publicId": "MTc6YmEyMTY5MzgzNDg5",
+        "sourceId": "ba2169383489",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:37:48.874Z",
+        "updatedAt": "2026-09-13T06:37:48.874Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.64360594749451,
+          36.282933186279465
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه ۵ مشهد",
+        "description": "شهرداری منطقه ۵ مشهد",
+        "date": 1789240438,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mashhad District 5 Municipality",
+        "description:en": "Mashhad District 5 Municipality",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6Njg3NzcxN2FkODkz",
+        "publicId": "MTc6Njg3NzcxN2FkODkz",
+        "sourceId": "6877717ad893",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:47:06.407Z",
+        "updatedAt": "2026-09-13T06:47:06.407Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5376318693161,
+          36.2920644545506
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه ۹ مشهد",
+        "description": "شهرداری منطقه ۹ مشهد",
+        "date": 1789241306,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mashhad District 9 Municipality",
+        "description:en": "Mashhad District 9 Municipality",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6NDQwZDZiYjg3YjNl",
+        "publicId": "MTc6NDQwZDZiYjg3YjNl",
+        "sourceId": "440d6bb87b3e",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:47:22.594Z",
+        "updatedAt": "2026-09-13T06:47:22.594Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49321985244751,
+          36.33367239897177
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه ۱۱ مشهد",
+        "description": "شهرداری منطقه ۱۱ مشهد",
+        "date": 1789241878,
+        "city": "شهرک صدف",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mashhad District 11 Municipality",
+        "description:en": "Mashhad District 11 Municipality",
+        "city:en": "Shahrak-e Sadaf",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6YjY5Yzg0MTVlNDhj",
+        "publicId": "MTc6YjY5Yzg0MTVlNDhj",
+        "sourceId": "b69c8415e48c",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:48:07.539Z",
+        "updatedAt": "2026-09-13T06:48:07.539Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.4705830141902,
+          36.43358163269022
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه ۱۳ مشهد",
+        "description": "شهرداری منطقه ۱۳ مشهد",
+        "date": 1789242162,
+        "city": "شهرستان مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mashhad District 13 Municipality",
+        "description:en": "Mashhad District 13 Municipality",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6YzVkOWFiNWUwMzE1",
+        "publicId": "MTc6YzVkOWFiNWUwMzE1",
+        "sourceId": "c5d9ab5e0315",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:48:25.578Z",
+        "updatedAt": "2026-09-13T06:48:25.578Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2387,
+    "total": 2398,
     "layerId": 17,
     "clustered": false,
     "simplified": false

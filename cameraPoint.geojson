@@ -595214,10 +595214,45 @@
         "createdAt": "2026-09-07T21:30:14.985Z",
         "updatedAt": "2026-09-07T21:30:14.985Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60933703929186,
+          36.257944026561034
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته ",
+        "lastReport": "",
+        "date": 1789241103,
+        "addressDescription": "",
+        "description": "دوربین مداربسته خودپرداز بانک شهر",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "Shahr Bank ATM CCTV camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6MDRkOWYyNjJjMDJi",
+        "publicId": "MjA6MDRkOWYyNjJjMDJi",
+        "sourceId": "04d9f262c02b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:30:43.276Z",
+        "updatedAt": "2026-09-13T06:30:43.276Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18590,
+    "total": 18591,
     "layerId": 20,
     "clustered": false,
     "simplified": false

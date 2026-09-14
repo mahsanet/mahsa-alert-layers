@@ -30688,10 +30688,114 @@
         "createdAt": "2026-09-09T21:45:01.958Z",
         "updatedAt": "2026-09-09T21:45:01.958Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.53639404225319,
+          26.385302397716217
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اصابت پرتابه ناشناس",
+        "unofficial_name:fa": "",
+        "date": 1789245000,
+        "geolocates": "",
+        "description": "مرکز عملیات تجارت دریایی بریتانیا (UKMTO) از وقوع یک حادثه در تنگه هرمز خبر داده است. بر اساس گزارش دریافتی، یک شناور هنگام عبور از تنگه هرمز با یک پرتابه ناشناس هدف قرار گرفته است. وضعیت خدمه، میزان خسارت واردشده و پیامدهای زیست‌محیطی این حادثه تاکنون مشخص نیست. UKMTO از شناورها خواسته است با احتیاط از منطقه عبور کرده و هرگونه فعالیت مشکوک را گزارش کنند. مقام‌های مسئول در حال بررسی حادثه هستند.",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/MenchOsint/status/2099045441929101738?s=20",
+        "name:en": "Unknown Projectile Strike",
+        "description:en": "The United Kingdom Maritime Trade Operations (UKMTO) has reported an incident in the Strait of Hormuz. According to reports, a vessel was targeted by an unknown projectile while transiting the Strait of Hormuz. The status of the crew, the extent of damage, and the environmental consequences of this incident are currently unknown. UKMTO has advised vessels to navigate the area with caution and to report any suspicious activity. Authorities are investigating the incident.",
+        "id": "MzI6YTZkNmY3MGFlZTI1",
+        "publicId": "MzI6YTZkNmY3MGFlZTI1",
+        "sourceId": "a6d6f70aee25",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-13T06:54:37.208Z",
+        "updatedAt": "2026-09-13T10:40:50.704Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.08481856054098,
+          26.562976394023337
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "شلیک موشک",
+        "unofficial_name:fa": "",
+        "date": 1789329600,
+        "geolocates": "",
+        "description": "شلیک موشک از سیریک",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "sources": "https://x.com/hey_itsmyturn/status/2099230015955038587?s=20",
+        "name:en": "Missile Launch",
+        "description:en": "Missile launch from Sirik",
+        "city:en": "Sirik County",
+        "province:en": "Hormozgan",
+        "id": "MzI6YTVjYmI3NTkyNmEy",
+        "publicId": "MzI6YTVjYmI3NTkyNmEy",
+        "sourceId": "a5cbb75926a2",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-13T20:57:28.476Z",
+        "updatedAt": "2026-09-13T20:57:28.476Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.209219940307065,
+          26.819638633545154
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حمله به نفتکش",
+        "unofficial_name:fa": "",
+        "date": 1789290000,
+        "geolocates": "",
+        "description": "یک کشتی تجاری ایرانی، یکشنبه ۲۲ شهریور، در محدوده جزیره هنگام در تنگه هرمز مورد اصابت قرار گرفت. فرماندار قشم، گفت: «این حمله یک کشته و چهار مجروح برجا گذاشته است؛ دو نفر از مجروحان ایرانی و دو نفر تبعه پاکستان هستند.»",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/IranIntl/status/2099124760135266483?s=20",
+        "name:en": "Attack on Oil Tanker",
+        "description:en": "An Iranian merchant vessel was hit on Sunday, September 13, in the vicinity of Hengam Island in the Strait of Hormuz. The governor of Qeshm said: \"This attack left one dead and four injured; two of the injured are Iranian and two are Pakistani nationals.\"",
+        "id": "MzI6MDBkODJkOWYzYmNm",
+        "publicId": "MzI6MDBkODJkOWYzYmNm",
+        "sourceId": "00d82d9f3bcf",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-13T20:58:41.921Z",
+        "updatedAt": "2026-09-13T20:59:35.879Z"
+      }
     }
   ],
   "metadata": {
-    "total": 889,
+    "total": 892,
     "layerId": 32,
     "clustered": false,
     "simplified": false
