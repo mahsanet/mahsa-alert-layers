@@ -160795,37 +160795,6 @@
     },
     {
       "type": "Feature",
-      "id": 89641,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          59.1910844,
-          36.5744331
-        ]
-      },
-      "properties": {
-        "id": "Mzo2ODExMw",
-        "city": "گلبهار",
-        "osm_id": "",
-        "name:fa": "کلانتری",
-        "province": "استان خراسان رضوی",
-        "name:en": "Precinct",
-        "city:en": "Golbahar",
-        "province:en": "Razavi Khorasan",
-        "publicId": "Mzo2ODExMw",
-        "sourceId": "68113",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:08.139Z",
-        "updatedAt": "2026-03-13T04:41:08.139Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 89642,
       "geometry": {
         "type": "Point",
@@ -190079,6 +190048,66 @@
         "expirationDate": null,
         "createdAt": "2026-09-13T06:29:27.606Z",
         "updatedAt": "2026-09-13T06:29:27.606Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94813,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.19070014421092,
+              36.574608511606385
+            ],
+            [
+              59.191686660485544,
+              36.57479407452804
+            ],
+            [
+              59.191830868845415,
+              36.57432687624937
+            ],
+            [
+              59.191819397725,
+              36.57430318724725
+            ],
+            [
+              59.19087548846585,
+              36.57411893920519
+            ],
+            [
+              59.19084599130136,
+              36.5741294676764
+            ],
+            [
+              59.19070014421092,
+              36.574608511606385
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری 13 ابن سینا",
+        "description": "",
+        "date": "",
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "name:en": "Police Station 13 Ibn Sina",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "MzplNjNlNWIxMzlmMDE",
+        "publicId": "MzplNjNlNWIxMzlmMDE",
+        "sourceId": "e63e5b139f01",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-14T08:14:01.441Z",
+        "updatedAt": "2026-09-14T08:14:01.441Z"
       }
     }
   ],

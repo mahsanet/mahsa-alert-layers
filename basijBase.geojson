@@ -40236,11 +40236,15 @@
         ]
       },
       "properties": {
-        "id": "MToxMzE0MA",
-        "city": "گلبهار",
         "name:fa": "حوزه مقاومت بسیج مالک اشتر",
+        "unofficial_name:fa": "",
+        "description": "محل نگهداری تسلیحات سنگین و محل استراحت نیروی های سرکوبگر.",
+        "date": "",
+        "city": "گلبهار",
         "province": "استان خراسان رضوی",
-        "name:en": "Malek Ashtar Basij Resistance Area",
+        "id": "MToxMzE0MA",
+        "name:en": "Malek Ashtar Basij Resistance Base",
+        "description:en": "Storage site for heavy weapons and resting location for repressive forces.",
         "city:en": "Golbahar",
         "province:en": "Razavi Khorasan",
         "publicId": "MToxMzE0MA",
@@ -40252,7 +40256,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:52:52.937Z",
-        "updatedAt": "2026-03-11T20:52:52.937Z"
+        "updatedAt": "2026-09-14T08:09:42.036Z"
       }
     },
     {

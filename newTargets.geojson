@@ -30792,10 +30792,46 @@
         "createdAt": "2026-09-13T20:58:41.921Z",
         "updatedAt": "2026-09-13T20:59:35.879Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.016596654705324,
+          35.758144252147176
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "حملات",
+        "unofficial_name:fa": "",
+        "date": 1770496200,
+        "geolocates": "",
+        "description": "انفجار مهیب در شهرک وحدت کرج طی جنگ 40 روزه.",
+        "city": "شهرستان فردیس",
+        "province": "استان البرز",
+        "sources": "https://x.com/FattahiFarzad/status/2098760469104251211?s=20",
+        "name:en": "Attacks",
+        "description:en": "Massive explosion in Shahrak-e Vahdat, Karaj, during the 40-day war.",
+        "city:en": "Fardis County",
+        "province:en": "Alborz",
+        "id": "MzI6NDQ2MTcyNWE4MzY5",
+        "publicId": "MzI6NDQ2MTcyNWE4MzY5",
+        "sourceId": "4461725a8369",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-14T08:25:06.501Z",
+        "updatedAt": "2026-09-14T08:25:25.920Z"
+      }
     }
   ],
   "metadata": {
-    "total": 892,
+    "total": 893,
     "layerId": 32,
     "clustered": false,
     "simplified": false

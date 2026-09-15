@@ -595249,10 +595249,80 @@
         "createdAt": "2026-09-13T06:30:43.276Z",
         "updatedAt": "2026-09-13T06:30:43.276Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.197250325232744,
+          36.573435208313015
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1789300360,
+        "addressDescription": "",
+        "description": "دوربین مداربسته خودپرداز بانک تجارت",
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "CCTV camera of Tejarat Bank ATM",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6YzJjYzYwMjNhZTRm",
+        "publicId": "MjA6YzJjYzYwMjNhZTRm",
+        "sourceId": "c2cc6023ae4f",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-14T08:10:21.822Z",
+        "updatedAt": "2026-09-14T08:10:21.822Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.19278830289841,
+          36.572774445895334
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1789302239,
+        "addressDescription": "",
+        "description": "دوربین مداربسته بانک مهر ایران",
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "CCTV camera of Bank Mehr Iran",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6NTM1YmUyNTU5NjMx",
+        "publicId": "MjA6NTM1YmUyNTU5NjMx",
+        "sourceId": "535be2559631",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-14T08:12:02.594Z",
+        "updatedAt": "2026-09-14T08:12:02.594Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18591,
+    "total": 18593,
     "layerId": 20,
     "clustered": false,
     "simplified": false

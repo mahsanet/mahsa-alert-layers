@@ -23199,10 +23199,44 @@
         "createdAt": "2026-09-13T06:26:25.148Z",
         "updatedAt": "2026-09-13T06:26:25.148Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.99593298137188,
+          35.31183997159542
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حکومتی",
+        "city": "سنندج",
+        "province": "استان کردستان",
+        "date": 1789313400,
+        "description": "تجمع حکومتی هرشب از ساعت ۱۹ تا آخر شب.",
+        "sources": "",
+        "name:en": "Pro-government Gathering",
+        "description:en": "Pro-government gathering every night from 7 PM until late at night.",
+        "city:en": "Sanandaj",
+        "province:en": "Kurdistan",
+        "id": "MzY6MzBiN2RjNGJiMWJh",
+        "publicId": "MzY6MzBiN2RjNGJiMWJh",
+        "sourceId": "30b7dc4bb1ba",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-14T08:05:43.717Z",
+        "updatedAt": "2026-09-14T08:06:28.243Z"
+      }
     }
   ],
   "metadata": {
-    "total": 699,
+    "total": 700,
     "layerId": 36,
     "clustered": false,
     "simplified": false
