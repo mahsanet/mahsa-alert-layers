@@ -175849,10 +175849,203 @@
         "createdAt": "2026-09-13T06:36:58.864Z",
         "updatedAt": "2026-09-13T06:36:58.864Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.02391835306858,
+          25.864793699023082
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد حسن ابن طالب",
+        "description": "",
+        "date": "",
+        "city": "",
+        "province": "",
+        "name:en": "Hassan Ibn Taleb Mosque",
+        "id": "NDo0Y2E4MDQ0NzdiYjQ",
+        "publicId": "NDo0Y2E4MDQ0NzdiYjQ",
+        "sourceId": "4ca804477bb4",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-15T08:52:06.560Z",
+        "updatedAt": "2026-09-15T08:52:06.560Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.47946952559215,
+          36.351871217976694
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo0NjEzNDg0MjQ4ZmY",
+        "publicId": "NDo0NjEzNDg0MjQ4ZmY",
+        "sourceId": "4613484248ff",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:03:02.349Z",
+        "updatedAt": "2026-09-15T19:03:02.349Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35572845116258,
+          35.6788011585531
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد قمر بنی هاشم",
+        "description": "مسجد قمر بنی هاشم(ع)",
+        "date": 1789479626,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Ghamar Bani Hashem Mosque",
+        "description:en": "Ghamar Bani Hashem Mosque (PBUH)",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "NDoyOWFhNDY5MTBkMGE",
+        "publicId": "NDoyOWFhNDY5MTBkMGE",
+        "sourceId": "29aa46910d0a",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:10:50.642Z",
+        "updatedAt": "2026-09-15T19:10:50.642Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.12502442072042,
+          36.6435438588837
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "مسجد کارخانه قند چناران",
+        "date": 1789499708,
+        "city": "چناران",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mosque",
+        "description:en": "Chenaran Sugar Factory Mosque",
+        "city:en": "Chenaran",
+        "province:en": "Razavi Khorasan",
+        "id": "NDpkMzg3ODkwMDhmNWE",
+        "publicId": "NDpkMzg3ODkwMDhmNWE",
+        "sourceId": "d38789008f5a",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:20:45.651Z",
+        "updatedAt": "2026-09-15T19:20:51.154Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.11659673496402,
+          36.649277841731475
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام حسن مجتبی",
+        "description": "",
+        "date": "",
+        "city": "چناران",
+        "province": "استان خراسان رضوی",
+        "name:en": "Imam Hassan Mojtaba Mosque",
+        "city:en": "Chenaran",
+        "province:en": "Razavi Khorasan",
+        "id": "NDo4NzI0ZGViYWJmOGY",
+        "publicId": "NDo4NzI0ZGViYWJmOGY",
+        "sourceId": "8724debabf8f",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:21:49.440Z",
+        "updatedAt": "2026-09-15T19:21:49.440Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.15611378848553,
+          36.57627354132734
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "مسجد امام حسن عسکری",
+        "date": 1789500124,
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mosque",
+        "description:en": "Imam Hassan Askari Mosque",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "NDozYzZkODRhOTQyZmY",
+        "publicId": "NDozYzZkODRhOTQyZmY",
+        "sourceId": "3c6d84a942ff",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:22:49.425Z",
+        "updatedAt": "2026-09-15T19:22:49.425Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5658,
+    "total": 5664,
     "layerId": 4,
     "clustered": false,
     "simplified": false

@@ -74649,10 +74649,263 @@
         "createdAt": "2026-09-13T06:43:59.925Z",
         "updatedAt": "2026-09-13T06:43:59.925Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94820,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.01721476224995,
+              25.87786162744203
+            ],
+            [
+              55.018412571368884,
+              25.878261152915712
+            ],
+            [
+              55.01826704315846,
+              25.878512953990878
+            ],
+            [
+              55.01823345972511,
+              25.878664034378417
+            ],
+            [
+              55.01833609657095,
+              25.879580575226882
+            ],
+            [
+              55.01836791872228,
+              25.880045857340335
+            ],
+            [
+              55.01766266662426,
+              25.880030749487034
+            ],
+            [
+              55.0167876316126,
+              25.88008110899011
+            ],
+            [
+              55.01694248854341,
+              25.87915056907292
+            ],
+            [
+              55.01721476224995,
+              25.87786162744203
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "ابوموسی",
+        "province": "",
+        "city:en": "Abu Musa",
+        "id": "MTI6YWQ0NGZjMzRmN2Iz",
+        "publicId": "MTI6YWQ0NGZjMzRmN2Iz",
+        "sourceId": "ad44fc34f7b3",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-15T08:49:56.983Z",
+        "updatedAt": "2026-09-15T08:49:56.983Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94841,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.328238144516945,
+          36.15139630224077
+        ]
+      },
+      "properties": {
+        "name:fa": "پارکینگ خودروهای زرهی سپاه",
+        "unofficial_name:fa": "",
+        "description": "پارکینگ خودروهای زرهی و ضد شورش سپاه",
+        "date": 1789467090,
+        "city": "دامغان",
+        "province": "استان سمنان",
+        "name:en": "IRGC Armored Vehicle Parking Lot",
+        "description:en": "IRGC armored and anti-riot vehicle parking lot",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "MTI6ODNiY2E1MDY1MGU2",
+        "publicId": "MTI6ODNiY2E1MDY1MGU2",
+        "sourceId": "83bca50650e6",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:05:52.686Z",
+        "updatedAt": "2026-09-15T19:05:52.686Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32825222611427,
+          36.15034589226913
+        ]
+      },
+      "properties": {
+        "name:fa": "اسلحه خانه و دپوی مهمات سپاه",
+        "unofficial_name:fa": "",
+        "description": "اسلحه خانه و دپوی مهمات سپاه",
+        "date": 1789467056,
+        "city": "دامغان",
+        "province": "استان سمنان",
+        "name:en": "IRGC Armory and Ammunition Depot",
+        "description:en": "IRGC armory and ammunition depot",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "MTI6MWQ1Yjc1YmY2ZTRl",
+        "publicId": "MTI6MWQ1Yjc1YmY2ZTRl",
+        "sourceId": "1d5b75bf6e4e",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:06:08.631Z",
+        "updatedAt": "2026-09-15T19:06:08.631Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32684004306793,
+          36.15018860028651
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر فرماندهی سپاه دامغان",
+        "unofficial_name:fa": "",
+        "description": "مقر فرماندهی سپاه دامغان و مرکز استقرار نیروهای سرکوبگر",
+        "date": 1789466856,
+        "city": "دامغان",
+        "province": "استان سمنان",
+        "name:en": "Damghan IRGC Command Headquarters",
+        "description:en": "Damghan IRGC command headquarters and deployment center for repressive forces",
+        "city:en": "Damghan",
+        "province:en": "Semnan",
+        "id": "MTI6ZmQyNTkyZmRkNmNi",
+        "publicId": "MTI6ZmQyNTkyZmRkNmNi",
+        "sourceId": "fd2592fdd6cb",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:06:24.424Z",
+        "updatedAt": "2026-09-15T19:06:24.424Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94851,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.2957518978252,
+              35.75534563853496
+            ],
+            [
+              51.29603978737191,
+              35.755408855491964
+            ],
+            [
+              51.29601269188586,
+              35.75555727771568
+            ],
+            [
+              51.295721415402966,
+              35.75551879790639
+            ],
+            [
+              51.295711254594465,
+              35.75559300895097
+            ],
+            [
+              51.29593797289891,
+              35.757537403833695
+            ],
+            [
+              51.2961511266104,
+              35.759197111424285
+            ],
+            [
+              51.29700100379273,
+              35.759309421984014
+            ],
+            [
+              51.29706162215035,
+              35.75817281465859
+            ],
+            [
+              51.29762343151225,
+              35.75617279423635
+            ],
+            [
+              51.297816008265045,
+              35.755336039929574
+            ],
+            [
+              51.2957518978252,
+              35.75534563853496
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTI6MTYwNjQwNDUxMGM4",
+        "publicId": "MTI6MTYwNjQwNDUxMGM4",
+        "sourceId": "1606404510c8",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:18:54.648Z",
+        "updatedAt": "2026-09-15T19:18:54.648Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1044,
+    "total": 1049,
     "layerId": 12,
     "clustered": false,
     "simplified": false

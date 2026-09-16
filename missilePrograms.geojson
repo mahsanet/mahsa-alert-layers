@@ -17812,10 +17812,44 @@
         "createdAt": "2026-09-13T06:46:36.944Z",
         "updatedAt": "2026-09-13T06:46:36.944Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.913389436900616,
+          35.62534394960585
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچرهای موشکی",
+        "description": "لانچرهای آماده پرتاب در قپچاق",
+        "date": 1789492452,
+        "city": "شهرستان ملارد",
+        "province": "استان تهران",
+        "sources": "",
+        "name:en": "Missile Launchers",
+        "description:en": "Ready-to-launch launchers in Qapchaq",
+        "city:en": "Malard County",
+        "province:en": "Tehran",
+        "id": "NzphNTUzMTY1ZTViYzg",
+        "publicId": "NzphNTUzMTY1ZTViYzg",
+        "sourceId": "a553165e5bc8",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:23:24.069Z",
+        "updatedAt": "2026-09-15T19:25:09.672Z"
+      }
     }
   ],
   "metadata": {
-    "total": 179,
+    "total": 180,
     "layerId": 7,
     "clustered": false,
     "simplified": false

@@ -190109,10 +190109,143 @@
         "createdAt": "2026-09-14T08:14:01.441Z",
         "updatedAt": "2026-09-14T08:14:01.441Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94816,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.19202592092398,
+              36.57509949319493
+            ],
+            [
+              59.19314830291091,
+              36.57532172981546
+            ],
+            [
+              59.19343337644949,
+              36.574188686929574
+            ],
+            [
+              59.19357241580724,
+              36.57368614823193
+            ],
+            [
+              59.193814564158146,
+              36.573257206225804
+            ],
+            [
+              59.194111860790855,
+              36.57284720920785
+            ],
+            [
+              59.194197426432595,
+              36.57257594893731
+            ],
+            [
+              59.19331094192188,
+              36.572412683013496
+            ],
+            [
+              59.19312226040063,
+              36.57256707300178
+            ],
+            [
+              59.192880252527715,
+              36.572666424963074
+            ],
+            [
+              59.19270685639242,
+              36.57268564079072
+            ],
+            [
+              59.19202592092398,
+              36.57509949319493
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی شهر گلبهار",
+        "description": "",
+        "date": "",
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "name:en": "Golbahar City Police Command",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "Mzo3NTZjNGI5NGE5Y2E",
+        "publicId": "Mzo3NTZjNGI5NGE5Y2E",
+        "sourceId": "756c4b94a9ca",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-15T02:45:04.509Z",
+        "updatedAt": "2026-09-15T02:45:04.509Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94862,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.312398271348,
+              38.21734973845324
+            ],
+            [
+              48.31327700208459,
+              38.217361341679975
+            ],
+            [
+              48.313395150755355,
+              38.21731202795408
+            ],
+            [
+              48.3131551612675,
+              38.2169929383312
+            ],
+            [
+              48.312398271348,
+              38.21734973845324
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "معاونت وظیفه عمومی انتظامی اردبیل",
+        "description": "معاونت وظیفه عمومی انتظامی اردبیل",
+        "date": "",
+        "city": "اردبیل",
+        "province": "استان اردبیل",
+        "name:en": "Ardabil Law Enforcement Public Duty Department",
+        "description:en": "Ardabil Law Enforcement Public Duty Department",
+        "city:en": "Ardabil",
+        "province:en": "Ardabil",
+        "id": "Mzo1NmQ3NThmM2ExY2M",
+        "publicId": "Mzo1NmQ3NThmM2ExY2M",
+        "sourceId": "56d758f3a1cc",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:27:09.737Z",
+        "updatedAt": "2026-09-15T19:27:09.737Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6085,
+    "total": 6087,
     "layerId": 3,
     "clustered": false,
     "simplified": false

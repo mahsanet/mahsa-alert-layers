@@ -30072,9 +30072,12 @@
         ]
       },
       "properties": {
-        "id": "MjM6MTAwMw",
+        "name:fa": "درمانگاه ابوموسی",
+        "description": "",
+        "date": "",
         "city": "ابوموسی",
-        "name:fa": "درمانگاه بوموسی",
+        "province": "",
+        "id": "MjM6MTAwMw",
         "name:en": "Abu Musa Clinic",
         "city:en": "Abu Musa",
         "publicId": "MjM6MTAwMw",
@@ -30086,7 +30089,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:58:00.067Z",
-        "updatedAt": "2026-03-11T20:58:00.067Z"
+        "updatedAt": "2026-09-15T08:51:37.107Z"
       }
     },
     {

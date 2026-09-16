@@ -91988,10 +91988,41 @@
         "createdAt": "2026-09-13T06:48:25.578Z",
         "updatedAt": "2026-09-13T06:48:25.578Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.016426238613406,
+          25.876402945486973
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر خبرگزاری صدا و سیما",
+        "description": "",
+        "date": "",
+        "city": "ابوموسی",
+        "province": "",
+        "name:en": "Seda va Sima News Agency Office",
+        "city:en": "Abu Musa",
+        "id": "MTc6ZDU1Mzc5Yzc0NTQ0",
+        "publicId": "MTc6ZDU1Mzc5Yzc0NTQ0",
+        "sourceId": "d55379c74544",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-15T08:50:55.562Z",
+        "updatedAt": "2026-09-15T08:50:55.562Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2398,
+    "total": 2399,
     "layerId": 17,
     "clustered": false,
     "simplified": false

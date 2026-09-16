@@ -595319,10 +595319,45 @@
         "createdAt": "2026-09-14T08:12:02.594Z",
         "updatedAt": "2026-09-14T08:12:02.594Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.192058742046356,
+          36.57180510204472
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1789301534,
+        "addressDescription": "",
+        "description": "دوربین مداربسته بانک مسکن",
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "Bank Maskan CCTV camera",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6NzdlNDhiMzY3NWQ1",
+        "publicId": "MjA6NzdlNDhiMzY3NWQ1",
+        "sourceId": "77e48b3675d5",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T02:42:56.639Z",
+        "updatedAt": "2026-09-15T02:42:56.639Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18593,
+    "total": 18594,
     "layerId": 20,
     "clustered": false,
     "simplified": false

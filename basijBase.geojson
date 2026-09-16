@@ -18760,35 +18760,6 @@
     },
     {
       "type": "Feature",
-      "id": 4477,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.297951700000006,
-          35.7546537
-        ]
-      },
-      "properties": {
-        "id": "MToxMjMzMg",
-        "city": "تهران",
-        "province": "استان تهران",
-        "unofficial_name:fa": "ناحیه مقاومت بسیج قدس منطقه 5",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "publicId": "MToxMjMzMg",
-        "sourceId": "12332",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:52.633Z",
-        "updatedAt": "2026-03-11T20:52:52.633Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 4478,
       "geometry": {
         "type": "Point",
@@ -55427,40 +55398,6 @@
     },
     {
       "type": "Feature",
-      "id": 90595,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.297813200527685,
-          35.754894538394296
-        ]
-      },
-      "properties": {
-        "name:fa": "ناحیه مقاومت",
-        "unofficial_name:fa": "",
-        "description": "ناحیه مقاومت بسیج منطقه ۵",
-        "date": "",
-        "city": "تهران",
-        "province": "استان تهران",
-        "name:en": "Resistance Zone",
-        "description:en": "District 5 Basij Resistance Zone",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "id": "MTo1MzI1YWFmOGZhNDc",
-        "publicId": "MTo1MzI1YWFmOGZhNDc",
-        "sourceId": "5325aaf8fa47",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-19T07:06:24.251Z",
-        "updatedAt": "2026-03-26T02:08:40.259Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 90596,
       "geometry": {
         "type": "Point",
@@ -65798,39 +65735,6 @@
     },
     {
       "type": "Feature",
-      "id": 92009,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.297984341638255,
-          35.754332034997645
-        ]
-      },
-      "properties": {
-        "name:fa": "ناحیه مقاومت بسیج قدس",
-        "description": "ناحیه مقاومت بسیج قدس منطقه 5",
-        "date": 1774020031,
-        "city": "تهران",
-        "province": "استان تهران",
-        "name:en": "Qods Basij Resistance District",
-        "description:en": "Qods Basij Resistance District, Region 5",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "id": "MTpjYzA2OWI4NzVhY2Q",
-        "publicId": "MTpjYzA2OWI4NzVhY2Q",
-        "sourceId": "cc069b875acd",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-20T15:20:31.200Z",
-        "updatedAt": "2026-03-27T22:03:28.967Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92010,
       "geometry": {
         "type": "Point",
@@ -75188,10 +75092,376 @@
         "createdAt": "2026-09-13T06:50:02.675Z",
         "updatedAt": "2026-09-13T06:50:02.675Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.99714533984661,
+          35.29939607733216
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "وجود پایگاه بسیج در بیمارستان",
+        "date": 1789325376,
+        "city": "سنندج",
+        "province": "استان کردستان",
+        "name:en": "Basij Base",
+        "description:en": "Presence of a Basij base in the hospital",
+        "city:en": "Sanandaj",
+        "province:en": "Kurdistan",
+        "id": "MTo5ODgyZTExOGVlYTc",
+        "publicId": "MTo5ODgyZTExOGVlYTc",
+        "sourceId": "9882e118eea7",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T02:46:14.570Z",
+        "updatedAt": "2026-09-15T02:46:14.570Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.18788888677955,
+          35.729225065843366
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه بسیج",
+        "unofficial_name:fa": "",
+        "description": "حوزه بسیج ۱۰۹ اباصالح المهدی",
+        "date": 1789490926,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "109 Aba Saleh al-Mahdi Basij Base",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MToxNTc2MDUwMDYzYjI",
+        "publicId": "MToxNTc2MDUwMDYzYjI",
+        "sourceId": "1576050063b2",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:09:40.884Z",
+        "updatedAt": "2026-09-15T19:09:40.884Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94849,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.29762254097105,
+              35.75385454279915
+            ],
+            [
+              51.29816696469757,
+              35.753939613443166
+            ],
+            [
+              51.297837924141504,
+              35.75531581477803
+            ],
+            [
+              51.29578196374496,
+              35.75531855895332
+            ],
+            [
+              51.295710951954504,
+              35.75526093146104
+            ],
+            [
+              51.295822541911406,
+              35.7550386535997
+            ],
+            [
+              51.29602881425458,
+              35.75482735184799
+            ],
+            [
+              51.296405834469624,
+              35.75453444754703
+            ],
+            [
+              51.29653771350988,
+              35.75429570245548
+            ],
+            [
+              51.29667422654268,
+              35.75393167141664
+            ],
+            [
+              51.29682977617861,
+              35.75377250689601
+            ],
+            [
+              51.29708000820071,
+              35.75365999385315
+            ],
+            [
+              51.29730995114119,
+              35.753627063176054
+            ],
+            [
+              51.29813842202964,
+              35.75365176118531
+            ],
+            [
+              51.29762254097105,
+              35.75385454279915
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ناحیه مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "ناحیه مقاومت بسیج قدس منطقه 5",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Resistance Area",
+        "description:en": "Qods Basij Resistance Area, District 5",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MToyYjVkZDIzMTRiZTk",
+        "publicId": "MToyYjVkZDIzMTRiZTk",
+        "sourceId": "2b5dd2314be9",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:17:16.273Z",
+        "updatedAt": "2026-09-15T19:17:16.273Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94852,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.11867316812277,
+          36.637027033394915
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج برادران شهید کاظمی",
+        "date": 1789499867,
+        "city": "چناران",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Resistance Base",
+        "description:en": "Shahid Kazemi Brothers Basij Resistance Base",
+        "city:en": "Chenaran",
+        "province:en": "Razavi Khorasan",
+        "id": "MTplNGI3MWViNzgyMWU",
+        "publicId": "MTplNGI3MWViNzgyMWU",
+        "sourceId": "e4b71eb7821e",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:20:04.356Z",
+        "updatedAt": "2026-09-15T19:20:04.356Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94853,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.125071577727795,
+          36.64347744654883
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج",
+        "date": 1789499678,
+        "city": "چناران",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Resistance Base",
+        "description:en": "Basij Resistance Base",
+        "city:en": "Chenaran",
+        "province:en": "Razavi Khorasan",
+        "id": "MTowMjZiOTZjMGQ4MGQ",
+        "publicId": "MTowMjZiOTZjMGQ4MGQ",
+        "sourceId": "026b96c0d80d",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:20:30.462Z",
+        "updatedAt": "2026-09-15T19:20:30.462Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.11661624908447,
+          36.64920009832403
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج شهید دستغیب",
+        "date": 1789499424,
+        "city": "چناران",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Shahid Dastgheib Basij Resistance Base",
+        "city:en": "Chenaran",
+        "province:en": "Razavi Khorasan",
+        "id": "MToyODFiYmFlNmM0NzM",
+        "publicId": "MToyODFiYmFlNmM0NzM",
+        "sourceId": "281bbae6c473",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:21:17.403Z",
+        "updatedAt": "2026-09-15T19:21:17.403Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.15637580677867,
+          36.57632402536524
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج امام حسن عسکری",
+        "date": 1789500092,
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Imam Hassan Askari Basij Resistance Base",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "MTowMWYwNjUyYTFjNDA",
+        "publicId": "MTowMWYwNjUyYTFjNDA",
+        "sourceId": "01f0652a1c40",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:22:24.821Z",
+        "updatedAt": "2026-09-15T19:22:24.821Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94860,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.188164845108986,
+          36.57035671810317
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج امام سجاد (ع) گلبهار",
+        "date": 1789500270,
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Imam Sajjad Basij Resistance Base in Golbahar",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "MTpiNDkwMzY1OWIyYzU",
+        "publicId": "MTpiNDkwMzY1OWIyYzU",
+        "sourceId": "b4903659b2c5",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:25:51.322Z",
+        "updatedAt": "2026-09-15T19:25:51.322Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94861,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.20322611927986,
+          36.567698314935754
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج رسالت",
+        "date": 1789500332,
+        "city": "گلبهار",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Resalat Basij Resistance Base",
+        "city:en": "Golbahar",
+        "province:en": "Razavi Khorasan",
+        "id": "MTpmMWZiODJkMTk3ZTU",
+        "publicId": "MTpmMWZiODJkMTk3ZTU",
+        "sourceId": "f1fb82d197e5",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-15T19:26:13.422Z",
+        "updatedAt": "2026-09-15T19:26:13.422Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2279,
+    "total": 2285,
     "layerId": 1,
     "clustered": false,
     "simplified": false
