@@ -92019,10 +92019,76 @@
         "createdAt": "2026-09-15T08:50:55.562Z",
         "updatedAt": "2026-09-15T08:50:55.562Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54675741493702,
+          36.366549271454275
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر پلیس ۱۰+",
+        "description": "دفتر پلیس ۱۰+",
+        "date": 1789601700,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Police +10 Office",
+        "description:en": "Police +10 Office",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6OTM5ZGZkZjJlNjE4",
+        "publicId": "MTc6OTM5ZGZkZjJlNjE4",
+        "sourceId": "939dfdf2e618",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-17T01:22:33.881Z",
+        "updatedAt": "2026-09-17T01:22:44.100Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50424775481224,
+          36.39997222346332
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر دهیاری و شورای اسلامی روستای کال زرکش",
+        "description": "دفتر دهیاری و شورای اسلامی روستای کال زرکش",
+        "date": 1789601346,
+        "city": "شهرستان مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Dehyari and Islamic Council Office of Kal Zarkash Village",
+        "description:en": "Dehyari and Islamic Council Office of Kal Zarkash Village",
+        "city:en": "Mashhad County",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6ZWJlODg0YjNlY2Rk",
+        "publicId": "MTc6ZWJlODg0YjNlY2Rk",
+        "sourceId": "ebe884b3ecdd",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-17T01:25:25.299Z",
+        "updatedAt": "2026-09-17T01:25:25.299Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2399,
+    "total": 2401,
     "layerId": 17,
     "clustered": false,
     "simplified": false

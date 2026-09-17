@@ -75458,10 +75458,78 @@
         "createdAt": "2026-09-15T19:26:13.422Z",
         "updatedAt": "2026-09-15T19:26:13.422Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.467757642269135,
+          36.34372578297821
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج فاطمه الزهرا، محل رفت و آمد نیروهای سرکوب و آموزش نظامی",
+        "date": 1789600858,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Fatemeh al-Zahra Basij Resistance Base, a location for the movement of suppressive forces and military training",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTo3NTJkMTFjNTU3MmE",
+        "publicId": "MTo3NTJkMTFjNTU3MmE",
+        "sourceId": "752d11c5572a",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-17T01:21:11.075Z",
+        "updatedAt": "2026-09-17T01:21:11.075Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54514440149069,
+          36.369368328429005
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "ناحیه مقاومت بسیج سپاه بلال",
+        "date": 1789602182,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Bilal Sepah Basij Resistance District",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTpjNTliOTZhOGU1YmI",
+        "publicId": "MTpjNTliOTZhOGU1YmI",
+        "sourceId": "c59b96a8e5bb",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-17T01:24:32.892Z",
+        "updatedAt": "2026-09-17T01:24:32.892Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2285,
+    "total": 2287,
     "layerId": 1,
     "clustered": false,
     "simplified": false

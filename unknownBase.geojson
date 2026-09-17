@@ -74902,10 +74902,161 @@
         "createdAt": "2026-09-15T19:18:54.648Z",
         "updatedAt": "2026-09-15T19:18:54.648Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94902,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.58883907436916,
+              36.278582858939785
+            ],
+            [
+              59.58878759394523,
+              36.27850371761083
+            ],
+            [
+              59.58877921341076,
+              36.2783975522875
+            ],
+            [
+              59.58880315779379,
+              36.278346399853135
+            ],
+            [
+              59.58884027158791,
+              36.278311654783664
+            ],
+            [
+              59.58865949148242,
+              36.27802886795166
+            ],
+            [
+              59.58827518413173,
+              36.27835798153862
+            ],
+            [
+              59.587546807256246,
+              36.27863669543895
+            ],
+            [
+              59.58792872015297,
+              36.27924572293048
+            ],
+            [
+              59.5890969144109,
+              36.278758442787364
+            ],
+            [
+              59.58904184233069,
+              36.27864745212666
+            ],
+            [
+              59.58891733153726,
+              36.27862235856398
+            ],
+            [
+              59.58883907436916,
+              36.278582858939785
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز آموزش عقیدتی سیاسی سپاه",
+        "unofficial_name:fa": "",
+        "description": "مرکز آموزش دوره عقیدتی سیاسی امام رضا (ع) سپاه پاسداران",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "IRGC Ideological-Political Training Center",
+        "description:en": "Imam Reza Ideological-Political Training Center of the Islamic Revolutionary Guard Corps",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTI6Mjg3M2IwODY5ZWM0",
+        "publicId": "MTI6Mjg3M2IwODY5ZWM0",
+        "sourceId": "2873b0869ec4",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-17T01:28:27.963Z",
+        "updatedAt": "2026-09-17T01:28:27.963Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94906,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.14520791019385,
+              37.64754383557202
+            ],
+            [
+              45.14602843903873,
+              37.64864456055186
+            ],
+            [
+              45.146977654338485,
+              37.65011488006945
+            ],
+            [
+              45.14873369059234,
+              37.64948177082995
+            ],
+            [
+              45.14860825943171,
+              37.64938659707893
+            ],
+            [
+              45.15187992220993,
+              37.647681724869756
+            ],
+            [
+              45.14924395371412,
+              37.64544758181623
+            ],
+            [
+              45.14520791019385,
+              37.64754383557202
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "بر اساس گزارشات در این منطقه بخش‌هایی در زیر زمین قرار دارند و با پوشش استتاری پنهان شده‌اند.",
+        "date": "",
+        "city": "شهرستان ارومیه",
+        "province": "استان آذربایجان غربی",
+        "description:en": "According to reports, in this area, parts are located underground and hidden with camouflage cover.",
+        "city:en": "Urmia County",
+        "province:en": "West Azerbaijan",
+        "id": "MTI6NWQ3YmNkYjA4MjBj",
+        "publicId": "MTI6NWQ3YmNkYjA4MjBj",
+        "sourceId": "5d7bcdb0820c",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-17T01:34:22.444Z",
+        "updatedAt": "2026-09-17T01:35:33.112Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1049,
+    "total": 1051,
     "layerId": 12,
     "clustered": false,
     "simplified": false

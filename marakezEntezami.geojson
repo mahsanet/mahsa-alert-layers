@@ -190242,10 +190242,43 @@
         "createdAt": "2026-09-15T19:27:09.737Z",
         "updatedAt": "2026-09-15T19:27:09.737Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94871,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57201661542058,
+          36.30663057152384
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر نظارت همگانی ناجا ۱۹۷",
+        "description": "دفتر نظارت همگانی ناجا ۱۹۷",
+        "date": 1789501098,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "NAJA Public Supervision Office 197",
+        "description:en": "NAJA Public Supervision Office 197",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "Mzo4OGU1MDZlNTViZDU",
+        "publicId": "Mzo4OGU1MDZlNTViZDU",
+        "sourceId": "88e506e55bd5",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-16T07:15:38.010Z",
+        "updatedAt": "2026-09-16T07:15:38.010Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6087,
+    "total": 6088,
     "layerId": 3,
     "clustered": false,
     "simplified": false

@@ -1240,10 +1240,290 @@
         "createdAt": "2026-03-11T21:00:47.593Z",
         "updatedAt": "2026-03-11T21:00:47.593Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94884,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.001257836818695,
+          35.31606192401537
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اعتصابات سراسری",
+        "date": 1789555487,
+        "sources": "",
+        "geolocates": "",
+        "description": "اعتصابات سراسری کامل بازارهای گذر ۱ و ۲ در پی فراخوان ائتلاف نیروهای سیاسی کردستان ایران و سالگرد ژینا امینی",
+        "city": "سنندج",
+        "province": "استان کردستان",
+        "name:en": "Nationwide Strikes",
+        "description:en": "Complete nationwide strikes in Passages 1 and 2 bazaars following the call by the Coalition of Political Forces of Iranian Kurdistan and the anniversary of Jina Amini.",
+        "city:en": "Sanandaj",
+        "province:en": "Kurdistan",
+        "id": "MTk6NDI0ZjVlYmNiM2Y0",
+        "publicId": "MTk6NDI0ZjVlYmNiM2Y0",
+        "sourceId": "424f5ebcb3f4",
+        "layerId": 19,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-16T16:28:12.055Z",
+        "updatedAt": "2026-09-16T16:28:12.055Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.99804253876209,
+          35.317606525724514
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اعتصابات سراسری",
+        "date": 1789555406,
+        "sources": "",
+        "geolocates": "",
+        "description": "اعتصابات سراسری در خیابان شاهپور (امام) در پی فراخوان ائتلاف نیروهای سیاسی کردستان و سالگرد ژینا امینی",
+        "city": "سنندج",
+        "province": "استان کردستان",
+        "name:en": "Nationwide Strikes",
+        "description:en": "Nationwide strikes on Shahpour (Emam) Street following a call by the Coalition of Kurdistan Political Forces and the anniversary of Zhina Amini",
+        "city:en": "Sanandaj",
+        "province:en": "Kurdistan",
+        "id": "MTk6MjZiZjAwZDhkMWE5",
+        "publicId": "MTk6MjZiZjAwZDhkMWE5",
+        "sourceId": "26bf00d8d1a9",
+        "layerId": 19,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-16T16:28:53.099Z",
+        "updatedAt": "2026-09-16T16:28:53.099Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94886,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9998362660408,
+          35.317217505544235
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اعتصاب بازار طلافروشان",
+        "date": 1789555329,
+        "sources": "",
+        "geolocates": "",
+        "description": "اعتصابات سراسری بازار طلافروشان در پی فراخوان احزاب ائتلاف نیروهای سیاسی کردستان ایران و سالگرد ژینا امینی",
+        "city": "سنندج",
+        "province": "استان کردستان",
+        "name:en": "Goldsmiths Market Strike",
+        "description:en": "Nationwide strikes in the gold market following the call by the Coalition of Political Forces of Iranian Kurdistan and the anniversary of Jina Amini",
+        "city:en": "Sanandaj",
+        "province:en": "Kurdistan",
+        "id": "MTk6NjM0OWIxOTc2MDAz",
+        "publicId": "MTk6NjM0OWIxOTc2MDAz",
+        "sourceId": "6349b1976003",
+        "layerId": 19,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-16T16:29:13.808Z",
+        "updatedAt": "2026-09-16T16:29:13.808Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.99932564049959,
+          35.30535477449203
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اعتصابات سراسری",
+        "date": 1789554694,
+        "sources": "",
+        "geolocates": "",
+        "description": "اعتصابات سراسری مجتمع تجاری کوردستان در پی فراخوان ائتلاف نیروهای سیاسی کردستان ایران برای سالگرد ژینا امینی",
+        "city": "سنندج",
+        "province": "استان کردستان",
+        "name:en": "Nationwide Strikes",
+        "description:en": "Nationwide strikes at the Kurdistan Commercial Complex following a call by the Coalition of Political Forces of Iranian Kurdistan for the anniversary of Zhina Amini.",
+        "city:en": "Sanandaj",
+        "province:en": "Kurdistan",
+        "id": "MTk6YmYyYmVkZDE3MmUx",
+        "publicId": "MTk6YmYyYmVkZDE3MmUx",
+        "sourceId": "bf2bedd172e1",
+        "layerId": 19,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-16T16:31:37.179Z",
+        "updatedAt": "2026-09-16T16:31:37.179Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.999651193618774,
+          35.306300103066405
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اعتصابات سراسری",
+        "date": 1789554619,
+        "sources": "",
+        "geolocates": "",
+        "description": "اعتصابات سراسری در مجتمع تجاری بانتا آبیدر سنندج در پی فراخوان ائتلاف نیروهای سیاسی کردستان ایران",
+        "city": "سنندج",
+        "province": "استان کردستان",
+        "name:en": "Nationwide Strikes",
+        "description:en": "Nationwide strikes at the Banta Abidar Commercial Complex in Sanandaj following a call by the coalition of political forces of Iranian Kurdistan.",
+        "city:en": "Sanandaj",
+        "province:en": "Kurdistan",
+        "id": "MTk6MGRhMmYyOTZkNjNk",
+        "publicId": "MTk6MGRhMmYyOTZkNjNk",
+        "sourceId": "0da2f296d63d",
+        "layerId": 19,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-16T16:32:12.709Z",
+        "updatedAt": "2026-09-16T16:32:12.709Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.00285106897354,
+          35.32895622734206
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اعتصابات سراسری",
+        "date": 1789554419,
+        "sources": "",
+        "geolocates": "",
+        "description": "اعتصابات سراسری کامل بازار تاناکورای سنندج در پی ائتلاف نیروهای سیاسی کردستان ایران",
+        "city": "سنندج",
+        "province": "استان کردستان",
+        "name:en": "Nationwide Strikes",
+        "description:en": "Complete general strike at Sanandaj's Tanakora Market following the coalition of political forces of Iranian Kurdistan.",
+        "city:en": "Sanandaj",
+        "province:en": "Kurdistan",
+        "id": "MTk6ODFkNTU4ZWZlOThk",
+        "publicId": "MTk6ODFkNTU4ZWZlOThk",
+        "sourceId": "81d558efe98d",
+        "layerId": 19,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-16T16:32:33.108Z",
+        "updatedAt": "2026-09-16T16:32:33.108Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.997915133833885,
+          35.31490413732617
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اعتصابات سراسری",
+        "date": 1789554361,
+        "sources": "",
+        "geolocates": "",
+        "description": "اعتصابات سراسری بازار و خیابان فردوسی سنندج در پی فراخوان ائتلاف نیروهای سیاسی کردستان ایران",
+        "city": "سنندج",
+        "province": "استان کردستان",
+        "name:en": "Nationwide Strikes",
+        "description:en": "General strikes in the bazaar and Ferdowsi Street of Sanandaj following a call by the Coalition of Political Forces of Iranian Kurdistan",
+        "city:en": "Sanandaj",
+        "province:en": "Kurdistan",
+        "id": "MTk6OWZhYTdjMjViOTRm",
+        "publicId": "MTk6OWZhYTdjMjViOTRm",
+        "sourceId": "9faa7c25b94f",
+        "layerId": 19,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-16T16:32:56.791Z",
+        "updatedAt": "2026-09-16T16:32:56.791Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.997339464724064,
+          35.309455587330035
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اعتصابات سراسری",
+        "date": 1789577417,
+        "sources": "",
+        "geolocates": "",
+        "description": "اعتصابات سراسری کامل در خیابان ششم بهمن سنندج در پی فراخوان ائتلاف احزاب سیاسی کردستان و سالگرد ژینا امینی",
+        "city": "سنندج",
+        "province": "استان کردستان",
+        "name:en": "General Strikes",
+        "description:en": "Complete general strikes on Shesh-e Bahman Street in Sanandaj following the call by the coalition of Kurdish political parties and the anniversary of Zhina Amini.",
+        "city:en": "Sanandaj",
+        "province:en": "Kurdistan",
+        "id": "MTk6Zjc1MGQ4MzdlZDJk",
+        "publicId": "MTk6Zjc1MGQ4MzdlZDJk",
+        "sourceId": "f750d837ed2d",
+        "layerId": 19,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-16T17:06:14.002Z",
+        "updatedAt": "2026-09-16T17:06:14.002Z"
+      }
     }
   ],
   "metadata": {
-    "total": 40,
+    "total": 48,
     "layerId": 19,
     "clustered": false,
     "simplified": false
