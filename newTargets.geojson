@@ -30939,10 +30939,44 @@
         "createdAt": "2026-09-15T21:33:49.912Z",
         "updatedAt": "2026-09-15T21:33:49.912Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.36064592427067,
+          26.78691487600588
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "گزارش انفجار حوالی لارک",
+        "unofficial_name:fa": "",
+        "date": 1789672200,
+        "geolocates": "",
+        "description": "ساعت ۲۲:۴۰ پنجشنبه؛ ملوان‌ها در اطراف جزیره لارَک، از چندین انفجار در نزدیک کشتی خود خبر دادند.",
+        "city": "",
+        "province": "",
+        "sources": "https://t.me/iliaen/4714",
+        "name:en": "Report of Explosion Near Larak",
+        "description:en": "At 22:40 on Thursday, sailors around Larak Island reported several explosions near their ship.",
+        "id": "MzI6YTQxZDE1MDE5NjYz",
+        "publicId": "MzI6YTQxZDE1MDE5NjYz",
+        "sourceId": "a41d15019663",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-17T19:36:16.143Z",
+        "updatedAt": "2026-09-17T19:36:16.143Z"
+      }
     }
   ],
   "metadata": {
-    "total": 896,
+    "total": 897,
     "layerId": 32,
     "clustered": false,
     "simplified": false

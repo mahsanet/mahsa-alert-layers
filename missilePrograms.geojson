@@ -4333,11 +4333,15 @@
         ]
       },
       "properties": {
-        "id": "Nzo0MA",
+        "name:fa": "",
+        "description": "",
+        "date": "",
         "city": "شهرستان کرمانشاه",
+        "province": "استان کرمانشاه",
+        "sources": "https://x.com/bentzionmacales/status/2100610135471116310",
+        "id": "Nzo0MA",
         "status": "active",
         "operator": "IRGC",
-        "province": "استان کرمانشاه",
         "unofficial_name:fa": "پایگاه موشکی کرمانشاه",
         "city:en": "Kermanshah County",
         "province:en": "Kermanshah",
@@ -4349,7 +4353,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:48:29.509Z",
-        "updatedAt": "2026-03-11T20:48:29.509Z"
+        "updatedAt": "2026-09-17T18:21:41.903Z"
       }
     },
     {
@@ -17846,10 +17850,44 @@
         "createdAt": "2026-09-15T19:23:24.069Z",
         "updatedAt": "2026-09-15T19:25:09.672Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.01336745363736,
+          36.32975972550919
+        ]
+      },
+      "properties": {
+        "name:fa": "برنامه موشکی",
+        "description": "سوله مربوط به برنامه موشکی است.",
+        "date": 1789637131,
+        "city": "پیرسقا",
+        "province": "استان زنجان",
+        "sources": "",
+        "name:en": "Missile Program",
+        "description:en": "The shed is related to the missile program.",
+        "city:en": "Pir Saqqa",
+        "province:en": "Zanjan",
+        "id": "Nzo1MTQyYzdiYWRjY2Y",
+        "publicId": "Nzo1MTQyYzdiYWRjY2Y",
+        "sourceId": "5142c7badccf",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-17T16:23:24.006Z",
+        "updatedAt": "2026-09-17T16:23:28.962Z"
+      }
     }
   ],
   "metadata": {
-    "total": 180,
+    "total": 181,
     "layerId": 7,
     "clustered": false,
     "simplified": false

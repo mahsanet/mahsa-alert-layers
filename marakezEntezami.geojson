@@ -190275,10 +190275,43 @@
         "createdAt": "2026-09-16T07:15:38.010Z",
         "updatedAt": "2026-09-16T07:15:38.010Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61945969611406,
+          36.289454741842604
+        ]
+      },
+      "properties": {
+        "name:fa": "کانکس نیروی انتظامی",
+        "description": "کانکس نیرو انتظامی",
+        "date": 1789653688,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Law Enforcement Kiosk",
+        "description:en": "Law Enforcement Kiosk",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MzowNjViZmM5OTI4ZTk",
+        "publicId": "MzowNjViZmM5OTI4ZTk",
+        "sourceId": "065bfc9928e9",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-17T16:24:08.466Z",
+        "updatedAt": "2026-09-17T16:24:08.466Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6088,
+    "total": 6089,
     "layerId": 3,
     "clustered": false,
     "simplified": false
