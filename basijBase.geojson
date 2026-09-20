@@ -65281,12 +65281,13 @@
       },
       "properties": {
         "name:fa": "پایگاه",
-        "description": "یکی از مساجد مهم منطقه ۲۲ جهت حفظ و هماهنگی بسیج مردمی جمهوری اسلامی",
+        "unofficial_name:fa": "",
+        "description": "یکی از مساجد مهم منطقه ۲۲ جهت حفظ و هماهنگی بسیج مردمی جمهوری اسلامی. این مسجد به عنوان تامین تدارکات نیروهای بسیجی و ثارالله استفاده می شود.",
         "date": 1774237721,
         "city": "تهران",
         "province": "استان تهران",
         "name:en": "Base",
-        "description:en": "One of the important mosques in District 22 for maintaining and coordinating the Islamic Republic's popular Basij",
+        "description:en": "One of the important mosques in District 22 for maintaining and coordinating the popular Basij of the Islamic Republic. This mosque is used for supplying logistics to Basij and Tharallah forces.",
         "city:en": "Tehran",
         "province:en": "Tehran",
         "id": "MTo2YmI4YTM0ZTYwZjM",
@@ -65299,7 +65300,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-03-24T23:45:32.408Z",
-        "updatedAt": "2026-03-26T02:09:26.161Z"
+        "updatedAt": "2026-09-19T19:22:10.805Z"
       }
     },
     {
@@ -75526,10 +75527,282 @@
         "createdAt": "2026-09-17T01:24:32.892Z",
         "updatedAt": "2026-09-17T01:24:32.892Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94930,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61609050631523,
+          36.31469451745809
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج",
+        "date": 1789839806,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Basij Resistance Base",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MToyZDBlMzUyYTQzZTU",
+        "publicId": "MToyZDBlMzUyYTQzZTU",
+        "sourceId": "2d0e352a43e5",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:11:00.989Z",
+        "updatedAt": "2026-09-19T19:11:00.989Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61207188665867,
+          36.314269423318024
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج مسجد غدیر",
+        "date": 1789822956,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Basij Base of Ghadir Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTpjNGExNTI4OWQyODI",
+        "publicId": "MTpjNGExNTI4OWQyODI",
+        "sourceId": "c4a15289d282",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:11:23.363Z",
+        "updatedAt": "2026-09-19T19:11:23.363Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63113769888878,
+          36.33963903885682
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مقاومت",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج الرضا",
+        "date": 1789673968,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Resistance Base",
+        "description:en": "Al-Reza Basij Resistance Base",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTplYTk2OTg3ZjJjZWU",
+        "publicId": "MTplYTk2OTg3ZjJjZWU",
+        "sourceId": "ea96987f2cee",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:12:29.394Z",
+        "updatedAt": "2026-09-19T19:12:29.394Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.21973042190075,
+          35.31504338995747
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج شهدا",
+        "date": 1789751744,
+        "city": "شهرستان تربت حیدریه",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Resistance Base",
+        "description:en": "Shohada Basij Resistance Base",
+        "city:en": "Torbat-e Heydarieh",
+        "province:en": "Razavi Khorasan",
+        "id": "MTpkMWU4MzM2N2VjNmU",
+        "publicId": "MTpkMWU4MzM2N2VjNmU",
+        "sourceId": "d1e83367ec6e",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:15:49.018Z",
+        "updatedAt": "2026-09-19T19:15:49.018Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94939,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51674674078822,
+          37.114407921378074
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج مهدیه مقر نیروهای سرکوب",
+        "date": 1789750329,
+        "city": "قوچان",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Resistance Base",
+        "description:en": "Mahdiyeh Basij Resistance Base, headquarters of suppressive forces",
+        "city:en": "Quchan",
+        "province:en": "Razavi Khorasan",
+        "id": "MTpmMzJjMTc0NjNiZTk",
+        "publicId": "MTpmMzJjMTc0NjNiZTk",
+        "sourceId": "f32c17463be9",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:16:42.132Z",
+        "updatedAt": "2026-09-19T19:16:42.132Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94940,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.508567344397306,
+          37.103957702702346
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج حضرت رسول (ص)",
+        "date": 1789750250,
+        "city": "قوچان",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Hazrat Rasool Basij Resistance Base",
+        "city:en": "Quchan",
+        "province:en": "Razavi Khorasan",
+        "id": "MTplOGMyYTgwNGEwMDA",
+        "publicId": "MTplOGMyYTgwNGEwMDA",
+        "sourceId": "e8c2a804a000",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:17:01.604Z",
+        "updatedAt": "2026-09-19T19:17:01.604Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.50564893335104,
+          37.10068843789989
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج شهید موسوی قوچانی، فعالیت مخبری به عنوان کار فرهنگی",
+        "date": 1789750159,
+        "city": "قوچان",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Shahid Mousavi Qouchani Basij Resistance Base, informant activity conducted as cultural work.",
+        "city:en": "Quchan",
+        "province:en": "Razavi Khorasan",
+        "id": "MTo0NzQxMDk1ZTVhNzM",
+        "publicId": "MTo0NzQxMDk1ZTVhNzM",
+        "sourceId": "4741095e5a73",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:17:39.438Z",
+        "updatedAt": "2026-09-19T19:17:39.438Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.51340537890792,
+          37.10838312548276
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج",
+        "date": 1789749904,
+        "city": "قوچان",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Basij Base",
+        "city:en": "Quchan",
+        "province:en": "Razavi Khorasan",
+        "id": "MTowOTA0MGQ2MmVjOWY",
+        "publicId": "MTowOTA0MGQ2MmVjOWY",
+        "sourceId": "09040d62ec9f",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:19:25.651Z",
+        "updatedAt": "2026-09-19T19:19:25.651Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2287,
+    "total": 2295,
     "layerId": 1,
     "clustered": false,
     "simplified": false

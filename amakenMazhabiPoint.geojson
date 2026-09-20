@@ -176042,10 +176042,108 @@
         "createdAt": "2026-09-15T19:22:49.425Z",
         "updatedAt": "2026-09-15T19:22:49.425Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94929,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61593795567751,
+          36.314807308173826
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد حجت ابن حسن",
+        "description": "مسجد و حسینیه",
+        "date": 1789839780,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Hojjat Ibn Hassan Mosque",
+        "description:en": "Mosque and Hosseiniyeh",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDphYmU2ZGNjYmY4Yzg",
+        "publicId": "NDphYmU2ZGNjYmY4Yzg",
+        "sourceId": "abe6dccbf8c8",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:09:41.229Z",
+        "updatedAt": "2026-09-19T19:11:08.874Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63099643991194,
+          36.33966362893025
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد الرضا",
+        "description": "مسجد الرضا",
+        "date": 1789673946,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Al-Reza Mosque",
+        "description:en": "Al-Reza Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDpkZjk0MDVlNjhmZGY",
+        "publicId": "NDpkZjk0MDVlNjhmZGY",
+        "sourceId": "df9405e68fdf",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:12:13.153Z",
+        "updatedAt": "2026-09-19T19:12:36.397Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.668264586507945,
+          36.4084506186789
+        ]
+      },
+      "properties": {
+        "name:fa": "هیعت شاه حسین",
+        "description": "",
+        "date": "",
+        "city": "شهرستان مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Shah Hossein Heyat",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDphMzUwNGQ3NDFiNzg",
+        "publicId": "NDphMzUwNGQ3NDFiNzg",
+        "sourceId": "a3504d741b78",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:14:33.466Z",
+        "updatedAt": "2026-09-19T19:14:33.466Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5664,
+    "total": 5667,
     "layerId": 4,
     "clustered": false,
     "simplified": false

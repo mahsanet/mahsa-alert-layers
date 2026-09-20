@@ -92085,10 +92085,74 @@
         "createdAt": "2026-09-17T01:25:25.299Z",
         "updatedAt": "2026-09-17T01:25:25.299Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94942,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              58.50559602658052,
+              37.10072987305128
+            ],
+            [
+              58.50567155452026,
+              37.10082776183212
+            ],
+            [
+              58.50565739303195,
+              37.10095765251914
+            ],
+            [
+              58.50565739303195,
+              37.10102353901436
+            ],
+            [
+              58.5059713060281,
+              37.10137744263673
+            ],
+            [
+              58.50683043633677,
+              37.10100847924909
+            ],
+            [
+              58.5062970202662,
+              37.10033078671263
+            ],
+            [
+              58.50559602658052,
+              37.10072987305128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری قوچان",
+        "description": "",
+        "date": "",
+        "city": "قوچان",
+        "province": "استان خراسان رضوی",
+        "name:en": "Quchan Municipality",
+        "city:en": "Quchan",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6Y2YyM2RmYjI1ZTRi",
+        "publicId": "MTc6Y2YyM2RmYjI1ZTRi",
+        "sourceId": "cf23dfb25e4b",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:18:07.554Z",
+        "updatedAt": "2026-09-19T19:18:07.554Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2401,
+    "total": 2402,
     "layerId": 17,
     "clustered": false,
     "simplified": false

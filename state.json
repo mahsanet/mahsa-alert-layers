@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-19T02:00:02.894Z",
-  "serial": 3965,
+  "lastUpdated": "2026-09-20T02:00:08.875Z",
+  "serial": 4029,
   "layers": {
     "missilePrograms": "dc4fe38d8bafd9df2e78a0c13f5d95c99ee0d573",
     "targets": "e61d00a9e0a95d4c2015b16e4f9cd2d0e7ee282e",
@@ -20,22 +20,22 @@
     "newTargets": "0c818837caa58c5df0d62151cd821488819fd1e1",
     "javidnam": "c7a262960afb17eba9fac70fa4691008e296fb65",
     "areowayBase": "b0a426f80fe4014650c4d5df4ebbeed63de5f713",
-    "basijBase": "986f44bbccca30208454aea5d340f9c44c1c3541",
-    "culturePoint": "097e37a708ee57fb4fcaff5b43a4f82adbfc7cc6",
+    "basijBase": "fc62f642a34b718f3a4de6f77e4ac3195e2cfeec",
+    "culturePoint": "930f6863365bcb8787295247ef5022c5eca6ae4a",
     "marakezGhazayi": "a3c19b639ab0c5cd3755ebb6a78c622e34c767ed",
-    "unknownBase": "eb7171dae3203666c2579a5bf965d09b0d770d22",
+    "unknownBase": "f192c06c14dd5b44fd295684def7aa2c17631ded",
     "hospital": "fcbf2f053f5e12dead95845b137077a7bd88d69b",
-    "citizenReport": "653eed5b901ac34fab4af4d8c2c52d173506ef65",
+    "citizenReport": "7d39875b76264a22886eea036a6da4f72fff9d29",
     "emergencyBase": "52b6f6abbb54c0c45ad97cd3cc23e9756a180957",
     "medicalClinic": "8d540631b1cbe96244044ec4a72e9699a4aff13f",
-    "marakezEntezami": "86eaed3df4e72d4fa3a48d6c46909eff48f89732",
+    "marakezEntezami": "25afc39fcd06060f8b614296cb32a3d2ecae176f",
     "healthCenter": "6dd94c94a90103ef8fc9a8bd8e445c884912525c",
     "zirsakht": "84c2f91743283341ff935597fd486f864838492e",
     "clinic": "77281e0732a57d574a7f221a93643ab21047c5ac",
-    "amakenMazhabiPoint": "eaafc883cbfe6eef6d1f33406ea7abac5de6fb64",
+    "amakenMazhabiPoint": "604cce0ad340aa57b922594afcab96893255b121",
     "chatroom": "6e056deda2068580cce5234e1153811ff41ad34e",
     "pharmacy": "f9cbcbea2e943e392dc9086685964646ea637711",
-    "cameraPoint": "8f14341afaada1b25025395abcf9cc43096e2b8a",
+    "cameraPoint": "809277e504b300dde132027db7f667a2bd0e46ac",
     "MaritimeEvents": "0556c1677b269c9c778db80fc7937840de43d2bf"
   }
 }

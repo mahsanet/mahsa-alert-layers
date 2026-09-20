@@ -595494,10 +595494,45 @@
         "createdAt": "2026-09-16T07:16:53.476Z",
         "updatedAt": "2026-09-16T07:16:53.476Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6151389926672,
+          36.31199370516437
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1789824953,
+        "addressDescription": "",
+        "description": "دوربین مداربسته ساختمان دولتی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Surveillance Camera",
+        "description:en": "Surveillance camera of a government building",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6NmVlODNhNzE0N2Zk",
+        "publicId": "MjA6NmVlODNhNzE0N2Zk",
+        "sourceId": "6ee83a7147fd",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:11:38.034Z",
+        "updatedAt": "2026-09-19T19:11:38.034Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18598,
+    "total": 18599,
     "layerId": 20,
     "clustered": false,
     "simplified": false

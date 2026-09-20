@@ -75053,10 +75053,139 @@
         "createdAt": "2026-09-17T01:34:22.444Z",
         "updatedAt": "2026-09-17T01:35:33.112Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.457575641572475,
+          36.33800995277515
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر مهندسی پادگان سپاه برونسی",
+        "unofficial_name:fa": "",
+        "description": "دفتر مهندسی پادگان سپاه برونسی",
+        "date": 1789825167,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Engineering Office of Boronsi IRGC Garrison",
+        "description:en": "Engineering Office of Boronsi IRGC Garrison",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTI6OTA4YTQ0MTUzMWZh",
+        "publicId": "MTI6OTA4YTQ0MTUzMWZh",
+        "sourceId": "908a441531fa",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:14:58.495Z",
+        "updatedAt": "2026-09-19T19:14:58.495Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.457534737885,
+          36.337819818492136
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر استخدام پادگان سپاه برونسی",
+        "unofficial_name:fa": "",
+        "description": "دفتر استخدام پادگان سپاه برونسی",
+        "date": 1789825264,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Recruitment Office of Boronsi IRGC Barracks",
+        "description:en": "Recruitment Office of Boronsi IRGC Barracks",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTI6NjI4YWM5ODE3Nzk5",
+        "publicId": "MTI6NjI4YWM5ODE3Nzk5",
+        "sourceId": "628ac9817799",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:15:11.709Z",
+        "updatedAt": "2026-09-19T19:15:11.709Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94944,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.021358880120175,
+              26.50453076675531
+            ],
+            [
+              54.022838523589826,
+              26.504839836283125
+            ],
+            [
+              54.02317688942762,
+              26.50360626528372
+            ],
+            [
+              54.02169565674939,
+              26.503229570148093
+            ],
+            [
+              54.02158151197753,
+              26.503622083107103
+            ],
+            [
+              54.02146409751086,
+              26.503592208859274
+            ],
+            [
+              54.021358880120175,
+              26.50453076675531
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "پایگاه سپاه و اموزش های تیر اندازی و غیره",
+        "date": "",
+        "city": "كيش",
+        "province": "استان هرمزگان",
+        "description:en": "IRGC base, shooting training, etc.",
+        "city:en": "Kish",
+        "province:en": "Hormozgan",
+        "id": "MTI6ZGY0NDdmNjFmYzFi",
+        "publicId": "MTI6ZGY0NDdmNjFmYzFi",
+        "sourceId": "df447f61fc1b",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-19T19:20:34.746Z",
+        "updatedAt": "2026-09-19T19:20:52.676Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1051,
+    "total": 1054,
     "layerId": 12,
     "clustered": false,
     "simplified": false

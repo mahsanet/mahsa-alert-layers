@@ -45709,37 +45709,6 @@
     },
     {
       "type": "Feature",
-      "id": 85562,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.8400366,
-          36.4447623
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjI1NQ",
-        "city": "قائم شهر",
-        "osm_id": "",
-        "name:fa": "کلانتری ۱۲ اسکندرکلا",
-        "province": "استان مازندران",
-        "name:en": "Eskandarkola Police Station 12",
-        "city:en": "Ghaemshahr",
-        "province:en": "Mazandaran",
-        "publicId": "Mzo2MjI1NQ",
-        "sourceId": "62255",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.342Z",
-        "updatedAt": "2026-03-13T04:41:06.342Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85563,
       "geometry": {
         "type": "Point",
@@ -130237,8 +130206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.8398986,
-          36.4466564
+          52.840054049287374,
+          36.44642904511258
         ]
       },
       "properties": {
@@ -130259,7 +130228,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.687Z",
-        "updatedAt": "2026-03-13T04:41:07.687Z"
+        "updatedAt": "2026-09-19T19:05:25.815Z"
       }
     },
     {
@@ -190311,7 +190280,7 @@
     }
   ],
   "metadata": {
-    "total": 6089,
+    "total": 6088,
     "layerId": 3,
     "clustered": false,
     "simplified": false
