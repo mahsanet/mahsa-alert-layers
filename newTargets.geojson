@@ -30973,10 +30973,117 @@
         "createdAt": "2026-09-17T19:36:16.143Z",
         "updatedAt": "2026-09-17T19:36:16.143Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94971,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.20422390847361,
+          35.71928465607277
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انفجار در حوالی چیتگر",
+        "unofficial_name:fa": "",
+        "date": 1789946100,
+        "geolocates": "",
+        "description": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "https://x.com/hey_itsmyturn/status/2101865135069368721?s=20",
+        "name:en": "Explosion near Chitgar",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzI6ZGE3Y2Y3NTM2NWJm",
+        "publicId": "MzI6ZGE3Y2Y3NTM2NWJm",
+        "sourceId": "da7cf75365bf",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-21T07:33:27.250Z",
+        "updatedAt": "2026-09-21T07:35:26.766Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.60708048427904,
+          29.526846521293137
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "انهدام رادار",
+        "unofficial_name:fa": "",
+        "date": 1772310600,
+        "geolocates": "",
+        "description": "مقایسه تصاویر ماهواره‌ای گوگل در ۳۰ بهمن ۱۴۰۴ و ۱۱ اردیبهشت ۱۴۰۵ نشان می‌دهد یک سامانه راداری «مطلع‌الفجر ۳» ایران که در تصویر نخست سالم بود، تا تاریخ دوم منهدم شده است. این تخریب پس از حملات آمریکا و اسرائیل در جریان جنگ ایران در سال ۲۰۲۶ ثبت شده است.",
+        "city": "شیراز",
+        "province": "استان فارس",
+        "sources": "https://x.com/GEOIMINT/status/2102147386239865154?s=20",
+        "name:en": "Radar Destruction",
+        "description:en": "A comparison of Google satellite imagery from Bahman 30, 1404 and Ordibehesht 11, 1405 shows that an Iranian \"Matla-ul-Fajr 3\" radar system, which was intact in the first image, was destroyed by the second date. This destruction was recorded following U.S. and Israeli attacks during the 2026 Iran war.",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "id": "MzI6Y2I5YjllNDI3Mjli",
+        "publicId": "MzI6Y2I5YjllNDI3Mjli",
+        "sourceId": "cb9b9e42729b",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-21T21:57:43.183Z",
+        "updatedAt": "2026-09-21T21:57:43.183Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.607650714203544,
+          29.537802484669257
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "آسیب رادار شیراز",
+        "unofficial_name:fa": "",
+        "date": 1772310600,
+        "geolocates": "",
+        "description": "در ۱۱ اردیبهشت ۱۴۰۵، تصاویر ماهواره‌ای گوگل از فرودگاه بین‌المللی شهید دستغیب شیراز و پایگاه هفتم شکاری، آسیب به یک رادار کنترل ترافیک هوایی را پس از حملات آمریکا و اسرائیل به رژیم را نشان می‌دهد.",
+        "city": "شیراز",
+        "province": "استان فارس",
+        "sources": "https://t.me/GEOIMINT/357",
+        "name:en": "Shiraz Radar Damage",
+        "description:en": "On April 30, 2026 (11 Ordibehesht 1405), Google satellite imagery of Shiraz Shahid Dastgheib International Airport and the 7th Tactical Air Base shows damage to an air traffic control radar following US and Israeli attacks on the regime.",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "id": "MzI6ZGRhZDJkMTdmM2Iw",
+        "publicId": "MzI6ZGRhZDJkMTdmM2Iw",
+        "sourceId": "ddad2d17f3b0",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-21T21:57:53.763Z",
+        "updatedAt": "2026-09-21T21:57:53.763Z"
+      }
     }
   ],
   "metadata": {
-    "total": 897,
+    "total": 900,
     "layerId": 32,
     "clustered": false,
     "simplified": false

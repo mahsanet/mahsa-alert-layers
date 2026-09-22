@@ -92149,10 +92149,208 @@
         "createdAt": "2026-09-19T19:18:07.554Z",
         "updatedAt": "2026-09-19T19:18:07.554Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.593468084931374,
+          36.330292936870634
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره ۷ کمیته امداد مشهد",
+        "description": "کمیته امداد امام خمینی اداره ۷ مشهد",
+        "date": 1789932326,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "District 7 Relief Committee of Mashhad",
+        "description:en": "Imam Khomeini Relief Committee, District 7 Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6OGUyY2JhZmFiYzkz",
+        "publicId": "MTc6OGUyY2JhZmFiYzkz",
+        "sourceId": "8e2cbafabc93",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-21T02:38:01.290Z",
+        "updatedAt": "2026-09-21T02:38:01.290Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94966,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.597979225218296,
+          36.29364315729762
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره کل کمیته امداد امام خمینی",
+        "description": "اداره کل کمیته امداد امام خمینی",
+        "date": 1789932197,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "General Directorate of Imam Khomeini Relief Committee",
+        "description:en": "General Directorate of Imam Khomeini Relief Committee",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6NTAzNjc3MDcyNjFk",
+        "publicId": "MTc6NTAzNjc3MDcyNjFk",
+        "sourceId": "50367707261d",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-21T02:38:37.813Z",
+        "updatedAt": "2026-09-21T02:38:37.813Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94967,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60007956251502,
+          36.269349029218844
+        ]
+      },
+      "properties": {
+        "name:fa": "کمیته امداد اداره ۶ مشهد",
+        "description": "کمیته امداد امام خمینی اداره ۶ مشهد",
+        "date": 1789932026,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Relief Committee Office 6 Mashhad",
+        "description:en": "Imam Khomeini Relief Committee Office 6 Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6YWQxNGZkZTUyN2Q2",
+        "publicId": "MTc6YWQxNGZkZTUyN2Q2",
+        "sourceId": "ad14fde527d6",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-21T02:39:36.106Z",
+        "updatedAt": "2026-09-21T02:39:36.106Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94968,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62524522095919,
+          36.296750611424514
+        ]
+      },
+      "properties": {
+        "name:fa": "کمیته امداد اداره ۵ مشهد",
+        "description": "کمیته امداد امام خمینی اداره ۵ مشهد",
+        "date": 1789931847,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Relief Committee, District 5 Mashhad",
+        "description:en": "Imam Khomeini Relief Committee, District 5 Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6YzgwMTgwMmNiYjBm",
+        "publicId": "MTc6YzgwMTgwMmNiYjBm",
+        "sourceId": "c801802cbb0f",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-21T02:39:52.840Z",
+        "updatedAt": "2026-09-21T02:39:52.840Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94969,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6403356641531,
+          36.290097381901376
+        ]
+      },
+      "properties": {
+        "name:fa": "کمیته امداد اداره ۴ مشهد",
+        "description": "کمیته امداد امام خمینی اداره ۴ مشهد",
+        "date": 1789931672,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Relief Committee, Department 4 of Mashhad",
+        "description:en": "Imam Khomeini Relief Committee, Department 4 of Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6YjIwMzE5NDY1M2U5",
+        "publicId": "MTc6YjIwMzE5NDY1M2U5",
+        "sourceId": "b203194653e9",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-21T02:40:16.731Z",
+        "updatedAt": "2026-09-21T02:40:16.731Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94970,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.584794491529465,
+          36.33738256189562
+        ]
+      },
+      "properties": {
+        "name:fa": "کمیته امداد امام خمینی اداره ۲ مشهد",
+        "description": "کمیته امداد امام خمینی اداره ۲ مشهد",
+        "date": 1789931533,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Komiteh Emdad Imam Khomeini, Office 2, Mashhad",
+        "description:en": "Komiteh Emdad Imam Khomeini, Office 2, Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTc6M2ZiMTFjODZjNjc4",
+        "publicId": "MTc6M2ZiMTFjODZjNjc4",
+        "sourceId": "3fb11c86c678",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-21T02:40:53.555Z",
+        "updatedAt": "2026-09-21T02:40:53.555Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2402,
+    "total": 2408,
     "layerId": 17,
     "clustered": false,
     "simplified": false
