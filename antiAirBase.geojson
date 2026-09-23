@@ -7752,10 +7752,75 @@
         "createdAt": "2026-08-15T23:31:23.941Z",
         "updatedAt": "2026-08-15T23:31:23.941Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94983,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.711685618481056,
+              32.8657552554934
+            ],
+            [
+              51.712555595520996,
+              32.86698235188122
+            ],
+            [
+              51.71353223875292,
+              32.86962557990189
+            ],
+            [
+              51.713834303313604,
+              32.87101463006027
+            ],
+            [
+              51.71372578739894,
+              32.87251196682554
+            ],
+            [
+              51.72175596508251,
+              32.87042870879087
+            ],
+            [
+              51.71913608085316,
+              32.863709868153464
+            ],
+            [
+              51.711685618481056,
+              32.8657552554934
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "سایت پدافند هوایی",
+        "date": "",
+        "city": "شهرستان برخوار",
+        "province": "استان اصفهان",
+        "description:en": "Air defense site",
+        "city:en": "Borkhar County",
+        "province:en": "Isfahan",
+        "id": "ODpmZGNlZGM1ZTcyYjg",
+        "publicId": "ODpmZGNlZGM1ZTcyYjg",
+        "sourceId": "fdcedc5e72b8",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-22T08:26:48.098Z",
+        "updatedAt": "2026-09-22T08:26:48.098Z"
+      }
     }
   ],
   "metadata": {
-    "total": 112,
+    "total": 113,
     "layerId": 8,
     "clustered": false,
     "simplified": false

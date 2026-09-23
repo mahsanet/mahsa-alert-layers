@@ -5553,36 +5553,6 @@
     },
     {
       "type": "Feature",
-      "id": 47157,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.201974,
-          35.7684122
-        ]
-      },
-      "properties": {
-        "id": "MjM6MTg2",
-        "city": "شهرستان تهران",
-        "name:fa": "درمانگاه",
-        "province": "استان تهران",
-        "name:en": "Clinic",
-        "city:en": "Tehran County",
-        "province:en": "Tehran",
-        "publicId": "MjM6MTg2",
-        "sourceId": "186",
-        "layerId": 23,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:57:59.697Z",
-        "updatedAt": "2026-03-11T20:57:59.697Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 47158,
       "geometry": {
         "type": "Point",
@@ -161927,7 +161897,7 @@
     }
   ],
   "metadata": {
-    "total": 5397,
+    "total": 5396,
     "layerId": 23,
     "clustered": false,
     "simplified": false

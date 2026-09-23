@@ -125075,36 +125075,6 @@
     },
     {
       "type": "Feature",
-      "id": 64573,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1775377,
-          35.7582101
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NDE3Mw",
-        "city": "تهران",
-        "name:fa": "داروخانه دکتر نهالی",
-        "province": "استان تهران",
-        "name:en": "Dr. Nahali Pharmacy",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "publicId": "Mjc6NDE3Mw",
-        "sourceId": "4173",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.399Z",
-        "updatedAt": "2026-03-11T20:58:47.399Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 64574,
       "geometry": {
         "type": "Point",
@@ -125165,36 +125135,6 @@
     },
     {
       "type": "Feature",
-      "id": 64576,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1949077,
-          35.7518847
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NDE3Ng",
-        "city": "تهران",
-        "name:fa": "داروخانه رویال ایران مال",
-        "province": "استان تهران",
-        "name:en": "Royal Iran Mall Pharmacy",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "publicId": "Mjc6NDE3Ng",
-        "sourceId": "4176",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.401Z",
-        "updatedAt": "2026-03-11T20:58:47.401Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 64577,
       "geometry": {
         "type": "Point",
@@ -125225,36 +125165,6 @@
     },
     {
       "type": "Feature",
-      "id": 64578,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.19772,
-          35.7533562
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NDE3OA",
-        "city": "تهران",
-        "name:fa": "داروخانه دکتر عازم",
-        "province": "استان تهران",
-        "name:en": "Dr. Azem Pharmacy",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "publicId": "Mjc6NDE3OA",
-        "sourceId": "4178",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.402Z",
-        "updatedAt": "2026-03-11T20:58:47.402Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 64579,
       "geometry": {
         "type": "Point",
@@ -125281,36 +125191,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-11T20:58:47.402Z",
         "updatedAt": "2026-03-11T20:58:47.402Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 64580,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.2046804,
-          35.7628515
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NDE4MA",
-        "city": "تهران",
-        "name:fa": "داروخانه دكتر اسماعیلی",
-        "province": "استان تهران",
-        "name:en": "Dr. Esmaeili Pharmacy",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "publicId": "Mjc6NDE4MA",
-        "sourceId": "4180",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.403Z",
-        "updatedAt": "2026-03-11T20:58:47.403Z"
       }
     },
     {
@@ -417823,36 +417703,6 @@
     },
     {
       "type": "Feature",
-      "id": 74341,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1773801,
-          35.7572242
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MTM5NDE",
-        "city": "تهران",
-        "name:fa": "داروخانه دکتر ناهید",
-        "province": "استان تهران",
-        "name:en": "Dr. Nahid Pharmacy",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "publicId": "Mjc6MTM5NDE",
-        "sourceId": "13941",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:51.484Z",
-        "updatedAt": "2026-03-11T20:58:51.484Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 74342,
       "geometry": {
         "type": "Point",
@@ -468432,7 +468282,7 @@
     }
   ],
   "metadata": {
-    "total": 15624,
+    "total": 15619,
     "layerId": 27,
     "clustered": false,
     "simplified": false

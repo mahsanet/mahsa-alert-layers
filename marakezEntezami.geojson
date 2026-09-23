@@ -159834,37 +159834,6 @@
     },
     {
       "type": "Feature",
-      "id": 89610,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.3308947,
-          32.503649
-        ]
-      },
-      "properties": {
-        "id": "Mzo2ODA2MQ",
-        "city": "انديمشك",
-        "osm_id": "",
-        "name:fa": "پلیسراه اندیمشک",
-        "province": "استان خوزستان",
-        "name:en": "Andimeshk Highway Police",
-        "city:en": "Andimeshk",
-        "province:en": "Khuzestan",
-        "publicId": "Mzo2ODA2MQ",
-        "sourceId": "68061",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:08.125Z",
-        "updatedAt": "2026-03-13T04:41:08.125Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 89611,
       "geometry": {
         "type": "Point",
@@ -190276,6 +190245,39 @@
         "expirationDate": null,
         "createdAt": "2026-09-17T16:24:08.466Z",
         "updatedAt": "2026-09-17T16:24:08.466Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.001974386757865,
+          35.70130525759586
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر نیروی انتظامی",
+        "description": "مقر نیروی انتظامی در فرهنگ‌سرا (محل سابق مهدکودک) که دیوارهای آن را بلند کرده‌اند و به منازل مسکونی نزدیک است.",
+        "date": 1789929551,
+        "city": "شهر جدید اندیشه",
+        "province": "استان تهران",
+        "name:en": "Law Enforcement Headquarters",
+        "description:en": "Law Enforcement Headquarters in the cultural center (the former location of a kindergarten) whose walls have been raised and is close to residential houses.",
+        "city:en": "Shahre Jadide Andisheh",
+        "province:en": "Tehran",
+        "id": "Mzo1ZGZjMWE4NzAzOWU",
+        "publicId": "Mzo1ZGZjMWE4NzAzOWU",
+        "sourceId": "5dfc1a87039e",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-22T08:38:57.454Z",
+        "updatedAt": "2026-09-22T08:39:03.013Z"
       }
     }
   ],

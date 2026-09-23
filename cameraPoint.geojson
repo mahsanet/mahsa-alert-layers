@@ -239335,18 +239335,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.533703,
-          35.760433
+          51.53335457069397,
+          35.76057563816023
         ]
       },
       "properties": {
-        "id": "MjA6NzQ4MQ",
+        "name:fa": "دوربین مداربسته",
+        "lastReport": 1790066220,
+        "date": "",
+        "addressDescription": "",
+        "description": "",
         "city": "شهرک امید",
-        "name:fa": "دوربین بانک حکمت",
         "province": "استان تهران",
-        "lastReport": "2020-08-09 17:19:03.000000",
-        "addressDescription": "شهرستان تهران استان تهران بخش مرکزی شهرستان تهران تهران منطقه ۴ قنات کوثر - شهرک امید بوستان شرقی ",
-        "name:en": "Hekmat Bank Camera",
+        "id": "MjA6NzQ4MQ",
+        "name:en": "CCTV Camera",
         "city:en": "Shahrak-e Omid",
         "province:en": "Tehran",
         "publicId": "MjA6NzQ4MQ",
@@ -239358,7 +239360,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:55:09.139Z",
-        "updatedAt": "2026-03-11T20:55:09.139Z"
+        "updatedAt": "2026-09-22T08:37:58.218Z"
       }
     },
     {

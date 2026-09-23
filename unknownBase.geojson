@@ -75182,10 +75182,44 @@
         "createdAt": "2026-09-19T19:20:34.746Z",
         "updatedAt": "2026-09-19T19:20:52.676Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.20540136471391,
+          35.761123675124736
+        ]
+      },
+      "properties": {
+        "name:fa": "مکان نظامی و امنیتی",
+        "unofficial_name:fa": "",
+        "description": "مکان نظامی و امنیتی",
+        "date": 1790005278,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Military and Security Location",
+        "description:en": "Military and security location",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTI6MzQzNTg1MzNiZjY5",
+        "publicId": "MTI6MzQzNTg1MzNiZjY5",
+        "sourceId": "34358533bf69",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-22T08:31:51.827Z",
+        "updatedAt": "2026-09-22T08:31:51.827Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1054,
+    "total": 1055,
     "layerId": 12,
     "clustered": false,
     "simplified": false

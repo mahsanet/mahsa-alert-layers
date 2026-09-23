@@ -155109,36 +155109,6 @@
     },
     {
       "type": "Feature",
-      "id": 57533,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1904137,
-          35.7591003
-        ]
-      },
-      "properties": {
-        "id": "MzE6NTE3NA",
-        "city": "تهران",
-        "name:fa": "مرکز بهداشت واکسن",
-        "province": "استان تهران",
-        "name:en": "Vaccine Health Center",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "publicId": "MzE6NTE3NA",
-        "sourceId": "5174",
-        "layerId": 31,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:14.281Z",
-        "updatedAt": "2026-03-11T20:58:14.281Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 57534,
       "geometry": {
         "type": "Point",
@@ -189219,36 +189189,6 @@
     },
     {
       "type": "Feature",
-      "id": 58670,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1984871,
-          35.7634011
-        ]
-      },
-      "properties": {
-        "id": "MzE6NjMxMQ",
-        "city": "تهران",
-        "name:fa": "پایگاه بهداشت شهید باقری",
-        "province": "استان تهران",
-        "name:en": "Shahid Bagheri Health Post",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "publicId": "MzE6NjMxMQ",
-        "sourceId": "6311",
-        "layerId": 31,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:14.732Z",
-        "updatedAt": "2026-03-11T20:58:14.732Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 58671,
       "geometry": {
         "type": "Point",
@@ -205996,7 +205936,7 @@
     }
   ],
   "metadata": {
-    "total": 6866,
+    "total": 6864,
     "layerId": 31,
     "clustered": false,
     "simplified": false

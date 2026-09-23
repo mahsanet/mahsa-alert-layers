@@ -100949,36 +100949,6 @@
     },
     {
       "type": "Feature",
-      "id": 79390,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1941084,
-          35.7592777
-        ]
-      },
-      "properties": {
-        "id": "MjY6MzM2Nw",
-        "city": "تهران",
-        "name:fa": "کلینیک ایفمارک",
-        "province": "استان تهران",
-        "name:en": "IFMARC Clinic",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "publicId": "MjY6MzM2Nw",
-        "sourceId": "3367",
-        "layerId": 26,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:59:18.075Z",
-        "updatedAt": "2026-03-11T20:59:18.075Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 79391,
       "geometry": {
         "type": "Point",
@@ -102767,36 +102737,6 @@
         "province:en": "Tehran",
         "publicId": "MjY6MzQyNw",
         "sourceId": "3427",
-        "layerId": 26,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:59:18.099Z",
-        "updatedAt": "2026-03-11T20:59:18.099Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 79451,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.2030657,
-          35.7634892
-        ]
-      },
-      "properties": {
-        "id": "MjY6MzQyOA",
-        "city": "تهران",
-        "name:fa": "کلینیک تبسم",
-        "province": "استان تهران",
-        "name:en": "Tabassom Clinic",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "publicId": "MjY6MzQyOA",
-        "sourceId": "3428",
         "layerId": 26,
         "type": "location",
         "status": "active",
@@ -164636,7 +164576,7 @@
     }
   ],
   "metadata": {
-    "total": 5488,
+    "total": 5486,
     "layerId": 26,
     "clustered": false,
     "simplified": false

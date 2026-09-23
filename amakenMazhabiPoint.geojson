@@ -176140,10 +176140,75 @@
         "createdAt": "2026-09-19T19:14:33.466Z",
         "updatedAt": "2026-09-19T19:14:33.466Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.19799008592963,
+          35.76003119725732
+        ]
+      },
+      "properties": {
+        "name:fa": "اماکن مذهبی",
+        "description": "اماکن مذهبی",
+        "date": 1790005089,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Religious Places",
+        "description:en": "Religious places",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "NDowZjMzNTI5NDdkNDA",
+        "publicId": "NDowZjMzNTI5NDdkNDA",
+        "sourceId": "0f3352947d40",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-22T08:34:00.067Z",
+        "updatedAt": "2026-09-22T08:34:12.148Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.53335213007844,
+          35.760525976575764
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "شهرک امید",
+        "province": "استان تهران",
+        "name:en": "Mosque",
+        "city:en": "Shahrak-e Omid",
+        "province:en": "Tehran",
+        "id": "NDowN2M0NWE2ZTFjOTA",
+        "publicId": "NDowN2M0NWE2ZTFjOTA",
+        "sourceId": "07c45a6e1c90",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-22T08:36:30.364Z",
+        "updatedAt": "2026-09-22T08:36:30.364Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5667,
+    "total": 5669,
     "layerId": 4,
     "clustered": false,
     "simplified": false

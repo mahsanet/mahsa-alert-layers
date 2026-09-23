@@ -19378,10 +19378,14 @@
         ]
       },
       "properties": {
-        "id": "MToxMjM1NA",
+        "name:fa": "",
+        "unofficial_name:fa": "پایگاه بسیج",
+        "description": "حوزه بسیج ۱۲۱ اکباتان",
+        "date": "",
         "city": "تهران",
         "province": "استان تهران",
-        "unofficial_name:fa": "پایگاه بسیج",
+        "id": "MToxMjM1NA",
+        "description:en": "Basij Base 121 Ekbatan",
         "city:en": "Tehran",
         "province:en": "Tehran",
         "publicId": "MToxMjM1NA",
@@ -19393,7 +19397,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:52:52.642Z",
-        "updatedAt": "2026-03-11T20:52:52.642Z"
+        "updatedAt": "2026-09-22T08:30:19.616Z"
       }
     },
     {
@@ -75799,10 +75803,112 @@
         "createdAt": "2026-09-19T19:19:25.651Z",
         "updatedAt": "2026-09-19T19:19:25.651Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.700005400925875,
+          32.819047126529256
+        ]
+      },
+      "properties": {
+        "name:fa": "ناحیه مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "ناحیه مقاومت بسیج محله زمان‌آباد دولت آباد",
+        "date": 1789846581,
+        "city": "دولت آباد",
+        "province": "استان اصفهان",
+        "name:en": "Basij Resistance District",
+        "description:en": "Basij Resistance District of Zamanabad neighborhood, Dowlatabad",
+        "city:en": "Dowlatabad",
+        "province:en": "Isfahan",
+        "id": "MToxY2RjNmZiMjY4ZmQ",
+        "publicId": "MToxY2RjNmZiMjY4ZmQ",
+        "sourceId": "1cdc6fb268fd",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-22T08:27:37.889Z",
+        "updatedAt": "2026-09-22T08:27:37.889Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.691129971295595,
+          32.80399570101322
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج مهدیه",
+        "date": 1789846304,
+        "city": "دولت آباد",
+        "province": "استان اصفهان",
+        "name:en": "Basij Resistance Base",
+        "description:en": "Mahdiyeh Basij Resistance Base",
+        "city:en": "Dowlatabad",
+        "province:en": "Isfahan",
+        "id": "MTozNGZhNmJlMDQ0ODY",
+        "publicId": "MTozNGZhNmJlMDQ0ODY",
+        "sourceId": "34fa6be04486",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-22T08:28:00.947Z",
+        "updatedAt": "2026-09-22T08:28:00.947Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94986,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.69123759493232,
+          32.80231004301102
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج شهید دستغیب",
+        "date": 1789846210,
+        "city": "دولت آباد",
+        "province": "استان اصفهان",
+        "name:en": "Basij Base",
+        "description:en": "Shahid Dastgheib Basij Resistance Base",
+        "city:en": "Dowlatabad",
+        "province:en": "Isfahan",
+        "id": "MTo0OWFhNjExNjFmZGE",
+        "publicId": "MTo0OWFhNjExNjFmZGE",
+        "sourceId": "49aa61161fda",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-22T08:28:20.431Z",
+        "updatedAt": "2026-09-22T08:28:25.934Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2295,
+    "total": 2298,
     "layerId": 1,
     "clustered": false,
     "simplified": false

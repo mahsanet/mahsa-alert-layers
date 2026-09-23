@@ -17884,10 +17884,110 @@
         "createdAt": "2026-09-17T16:23:24.006Z",
         "updatedAt": "2026-09-17T16:23:28.962Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94980,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.206431677998154,
+          35.76719528284542
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "ورودی اصلی:\nبیشترین تغییرات قابل مشاهده در محدوده دامنه تپه، در بالادست مسیر دسترسی جنوبی، رخ داده است. در تصویر ژوئن ۲۰۲۳، سازه‌ای کوچک در میان پوشش متراکم درختان دیده می‌شود و چند تأسیسات پشتیبانی نیز بر فراز تپه قرار دارند. در تصویر ژوئن ۲۰۲۶، این تأسیسات از بین رفته‌اند، بخش قابل‌توجهی از پوشش گیاهی پاک‌سازی شده و دامنه تپه به‌طور گسترده خاک‌برداری شده است. در بخش حفاری‌شده، دو دهانه شبیه ورودی تونل، همراه با محوطه‌ای تازه تسطیح‌شده و آثار انباشت خاک حاصل از حفاری، قابل مشاهده است.\n\nاین تصاویر وقوع تغییرات گسترده در این محل بین سال‌های ۲۰۲۳ و ۲۰۲۶ را تأیید می‌کنند، اما به‌تنهایی مشخص نمی‌کنند که دهانه‌های نمایان‌شده مستقیماً در نتیجه حمله ژوئن ۲۰۲۵ ایجاد یا آشکار شده‌اند، در جریان پاک‌سازی پس از حمله نمایان شده‌اند، یا بخشی از عملیات ساخت‌وساز و بازسازی بعدی بوده‌اند.\n\nپیش از حمله:\nپوشش متراکم درختان، سازه‌ای در کنار مسیر دسترسی را پنهان کرده و چند تأسیسات پشتیبانی نیز بر فراز تپه دیده می‌شوند.\n\nپس از حمله:\nتأسیسات بالای تپه و بخش زیادی از پوشش گیاهی از بین رفته‌اند. خاک‌برداری گسترده، دو دهانه شبیه ورودی تونل را در دامنه تپه نمایان کرده است.",
+        "date": "",
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "sources": "https://x.com/Vahid/status/1936058237133939065, https://aftabnews.ir/fa/news/1001367/, https://www.yjc.ir/fa/news/8969227/, https://aftabnews.ir/fa/news/1027426/",
+        "description:en": "Main entrance:\nThe most visible changes have occurred along the hillside, upstream of the southern access route. In the June 2023 image, a small structure is visible among dense tree cover, and several support facilities are located atop the hill. In the June 2026 image, these facilities are gone, a significant portion of the vegetation has been cleared, and the hillside has been extensively excavated. In the excavated area, two openings resembling tunnel entrances are visible, along with a newly leveled site and soil piles resulting from the excavation.\n\nThese images confirm that widespread changes occurred at this location between 2023 and 2026, but on their own they do not determine whether the revealed openings were directly created or exposed as a result of the June 2025 attack, exposed during post-attack cleanup, or part of subsequent construction and reconstruction operations.\n\nBefore the attack:\nDense tree cover conceals a structure beside the access route, and several support facilities are visible atop the hill.\n\nAfter the attack:\nThe facilities atop the hill and much of the vegetation are gone. Extensive excavation has exposed two openings resembling tunnel entrances on the hillside.",
+        "city:en": "Tehran County",
+        "province:en": "Tehran",
+        "id": "NzowZGRiZDdhYzNkZjY",
+        "publicId": "NzowZGRiZDdhYzNkZjY",
+        "sourceId": "0ddbd7ac3df6",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-22T08:15:53.779Z",
+        "updatedAt": "2026-09-22T08:17:55.177Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94981,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.20969992141403,
+          35.77503489417943
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "مسیر خروج اضطراری:\nدر تصویر ژوئن ۲۰۲۳، ساختمانی با سقف نارنجی بر روی سکوی ترازبندی‌شده‌ای در دامنه قرار دارد و مسیر دسترسی باریکی از کنار آن عبور می‌کند. در تصویر ژوئن ۲۰۲۶، این ساختمان به‌طور کامل ناپدید شده، بخش وسیعی از زمین پیرامون آن تسطیح و خاک‌برداری شده و در بخش بالایی محل، دو دهانه مجاور شبیه ورودی تونل دیده می‌شود.\n\nاین تصاویر نشان می‌دهند که محل مورد نظر میان سال‌های ۲۰۲۳ و ۲۰۲۶ به‌طور اساسی دگرگون شده است، اما به‌تنهایی مشخص نمی‌کنند که این تغییرات مستقیماً بر اثر حمله ژوئن ۲۰۲۵ ایجاد شده‌اند، نتیجه عملیات پاک‌سازی و حفاری پس از حمله بوده‌اند، یا بخشی از تغییرات عمرانی دیگری در این بازه زمانی محسوب می‌شوند.\n\nپیش از حمله:\nساختمانی با سقف نارنجی بر روی سکوی ترازبندی‌شده در دامنه، در مجاورت مسیر دسترسی، قرار دارد.\n\nپس از حمله:\nساختمان ناپدید شده، زمین پیرامون آن به‌طور گسترده تسطیح و حفاری شده و دو دهانه مجاور شبیه ورودی تونل در بخش بالایی محل نمایان شده‌اند.",
+        "date": "",
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "sources": "https://x.com/Vahid/status/1936058237133939065, https://aftabnews.ir/fa/news/1001367/, https://www.yjc.ir/fa/news/8969227/, https://aftabnews.ir/fa/news/1027426/",
+        "description:en": "Emergency exit route:\nIn the June 2023 imagery, a building with an orange roof sits on a leveled platform on the hillside, with a narrow access path passing beside it. In the June 2026 imagery, this building has completely disappeared, a large area of surrounding land has been leveled and excavated, and two adjacent openings resembling tunnel entrances are visible in the upper section of the site.\n\nThese images show that the site in question underwent fundamental changes between 2023 and 2026, but on their own, they do not specify whether these changes were directly caused by the June 2025 attack, resulted from post-attack cleanup and excavation operations, or were part of other construction activities during this timeframe.\n\nBefore the attack:\nA building with an orange roof stands on a leveled platform on the hillside, adjacent to the access path.\n\nAfter the attack:\nThe building has disappeared, the surrounding land has been extensively leveled and excavated, and two adjacent openings resembling tunnel entrances have appeared in the upper section of the site.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "Nzo2NWY5ZWUxYTNmOWE",
+        "publicId": "Nzo2NWY5ZWUxYTNmOWE",
+        "sourceId": "65f9ee1a3f9a",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-22T08:21:27.004Z",
+        "updatedAt": "2026-09-22T08:21:27.004Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.430527213960886,
+          35.73649649970794
+        ]
+      },
+      "properties": {
+        "name:fa": "شرکت کاوشکام آسیا",
+        "description": "شرکت کاوشکام آسیا فعال در زمینه تولید تجهیزات نظامی رادیویی و ارتباطی برای پهپاد و برنامه موشکی. این شرکت پوشش تجاری برند وایزر را جهت ساخت ماژول‌های ردیاب خودرو استفاده می‌کند. نیروهای سپاه پاسداران جهت انتقال تجهیزات به سایت‌های پهپادی و موشکی به این مکان تردد دارند.",
+        "date": 1789899707,
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "name:en": "Kavoshkam Asia Company",
+        "description:en": "Kavoshkam Asia Company is active in the field of producing military radio and communication equipment for drones and missile programs. This company uses the commercial cover of the Wizer brand to manufacture vehicle tracking modules. Islamic Revolutionary Guard Corps (IRGC) forces frequent this location to transfer equipment to drone and missile sites.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "Nzo2YTUzZTg3OWQ1ZDM",
+        "publicId": "Nzo2YTUzZTg3OWQ1ZDM",
+        "sourceId": "6a53e879d5d3",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-22T08:25:32.588Z",
+        "updatedAt": "2026-09-22T08:25:32.588Z"
+      }
     }
   ],
   "metadata": {
-    "total": 181,
+    "total": 184,
     "layerId": 7,
     "clustered": false,
     "simplified": false

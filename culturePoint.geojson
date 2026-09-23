@@ -92347,10 +92347,42 @@
         "createdAt": "2026-09-21T02:40:53.555Z",
         "updatedAt": "2026-09-21T02:40:53.555Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 94990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.205047050553134,
+          35.763383784112605
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری منطقه 22",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "District 22 Municipality",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTc6MWNlMDdhNDdlZGU4",
+        "publicId": "MTc6MWNlMDdhNDdlZGU4",
+        "sourceId": "1ce07a47ede8",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-22T08:34:56.512Z",
+        "updatedAt": "2026-09-22T08:34:56.512Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2408,
+    "total": 2409,
     "layerId": 17,
     "clustered": false,
     "simplified": false
