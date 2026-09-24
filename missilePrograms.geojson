@@ -17920,39 +17920,6 @@
     },
     {
       "type": "Feature",
-      "id": 94981,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.20969992141403,
-          35.77503489417943
-        ]
-      },
-      "properties": {
-        "name:fa": "",
-        "description": "مسیر خروج اضطراری:\nدر تصویر ژوئن ۲۰۲۳، ساختمانی با سقف نارنجی بر روی سکوی ترازبندی‌شده‌ای در دامنه قرار دارد و مسیر دسترسی باریکی از کنار آن عبور می‌کند. در تصویر ژوئن ۲۰۲۶، این ساختمان به‌طور کامل ناپدید شده، بخش وسیعی از زمین پیرامون آن تسطیح و خاک‌برداری شده و در بخش بالایی محل، دو دهانه مجاور شبیه ورودی تونل دیده می‌شود.\n\nاین تصاویر نشان می‌دهند که محل مورد نظر میان سال‌های ۲۰۲۳ و ۲۰۲۶ به‌طور اساسی دگرگون شده است، اما به‌تنهایی مشخص نمی‌کنند که این تغییرات مستقیماً بر اثر حمله ژوئن ۲۰۲۵ ایجاد شده‌اند، نتیجه عملیات پاک‌سازی و حفاری پس از حمله بوده‌اند، یا بخشی از تغییرات عمرانی دیگری در این بازه زمانی محسوب می‌شوند.\n\nپیش از حمله:\nساختمانی با سقف نارنجی بر روی سکوی ترازبندی‌شده در دامنه، در مجاورت مسیر دسترسی، قرار دارد.\n\nپس از حمله:\nساختمان ناپدید شده، زمین پیرامون آن به‌طور گسترده تسطیح و حفاری شده و دو دهانه مجاور شبیه ورودی تونل در بخش بالایی محل نمایان شده‌اند.",
-        "date": "",
-        "city": "شهرستان تهران",
-        "province": "استان تهران",
-        "sources": "https://x.com/Vahid/status/1936058237133939065, https://aftabnews.ir/fa/news/1001367/, https://www.yjc.ir/fa/news/8969227/, https://aftabnews.ir/fa/news/1027426/",
-        "description:en": "Emergency exit route:\nIn the June 2023 imagery, a building with an orange roof sits on a leveled platform on the hillside, with a narrow access path passing beside it. In the June 2026 imagery, this building has completely disappeared, a large area of surrounding land has been leveled and excavated, and two adjacent openings resembling tunnel entrances are visible in the upper section of the site.\n\nThese images show that the site in question underwent fundamental changes between 2023 and 2026, but on their own, they do not specify whether these changes were directly caused by the June 2025 attack, resulted from post-attack cleanup and excavation operations, or were part of other construction activities during this timeframe.\n\nBefore the attack:\nA building with an orange roof stands on a leveled platform on the hillside, adjacent to the access path.\n\nAfter the attack:\nThe building has disappeared, the surrounding land has been extensively leveled and excavated, and two adjacent openings resembling tunnel entrances have appeared in the upper section of the site.",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "id": "Nzo2NWY5ZWUxYTNmOWE",
-        "publicId": "Nzo2NWY5ZWUxYTNmOWE",
-        "sourceId": "65f9ee1a3f9a",
-        "layerId": 7,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-09-22T08:21:27.004Z",
-        "updatedAt": "2026-09-22T08:21:27.004Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 94982,
       "geometry": {
         "type": "Point",
@@ -17987,7 +17954,7 @@
     }
   ],
   "metadata": {
-    "total": 184,
+    "total": 183,
     "layerId": 7,
     "clustered": false,
     "simplified": false
