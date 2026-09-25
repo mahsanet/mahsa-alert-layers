@@ -75905,10 +75905,112 @@
         "createdAt": "2026-09-22T08:28:20.431Z",
         "updatedAt": "2026-09-22T08:28:25.934Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95029,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60676044225693,
+          36.327673428779676
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه مقاومت بسیج شهید شوشتری",
+        "date": 1790118892,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "Shahid Shushtari Basij Resistance Base",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MTo1NjNiZTdhY2MwYjE",
+        "publicId": "MTo1NjNiZTdhY2MwYjE",
+        "sourceId": "563be7acc0b1",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:10:21.204Z",
+        "updatedAt": "2026-09-24T12:10:21.204Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95035,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35148923099041,
+          35.43214012986269
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج روستای عبدالمومن",
+        "date": 1790100321,
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "name:en": "Basij Base",
+        "description:en": "Basij base in Abdolmomen village",
+        "city:en": "Kabudarahang County",
+        "province:en": "Hamadan",
+        "id": "MTo4OWEyYjRhYjNmNGY",
+        "publicId": "MTo4OWEyYjRhYjNmNGY",
+        "sourceId": "89a2b4ab3f4f",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:15:14.053Z",
+        "updatedAt": "2026-09-24T12:15:14.053Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86842131614685,
+          38.42818692553689
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج",
+        "date": 1790105141,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Basij Base",
+        "description:en": "Basij Base",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "id": "MTo5NGJhYmYwMzY4MGM",
+        "publicId": "MTo5NGJhYmYwMzY4MGM",
+        "sourceId": "94babf03680c",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:15:57.829Z",
+        "updatedAt": "2026-09-24T12:15:57.829Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2298,
+    "total": 2301,
     "layerId": 1,
     "clustered": false,
     "simplified": false

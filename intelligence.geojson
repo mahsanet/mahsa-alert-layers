@@ -14038,10 +14038,66 @@
         "createdAt": "2026-09-15T19:05:34.912Z",
         "updatedAt": "2026-09-15T19:05:34.912Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95033,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.37284609644837,
+              34.182241928237985
+            ],
+            [
+              48.37412827867985,
+              34.182582063538646
+            ],
+            [
+              48.37432191537408,
+              34.18223165544374
+            ],
+            [
+              48.37427955734756,
+              34.18215656780592
+            ],
+            [
+              48.37306731095623,
+              34.18183619313183
+            ],
+            [
+              48.37284609644837,
+              34.182241928237985
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "اداره کل اطلاعات نهاوند",
+        "date": "",
+        "city": "نهاوند",
+        "province": "استان همدان",
+        "description:en": "General Intelligence Department of Nahavand",
+        "city:en": "Nahavand",
+        "province:en": "Hamadan",
+        "id": "MjpmYTI5MjkxYzM1M2Y",
+        "publicId": "MjpmYTI5MjkxYzM1M2Y",
+        "sourceId": "fa29291c353f",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:13:27.683Z",
+        "updatedAt": "2026-09-24T12:13:27.683Z"
+      }
     }
   ],
   "metadata": {
-    "total": 359,
+    "total": 360,
     "layerId": 2,
     "clustered": false,
     "simplified": false

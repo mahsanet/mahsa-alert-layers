@@ -595531,10 +595531,430 @@
         "createdAt": "2026-09-19T19:11:38.034Z",
         "updatedAt": "2026-09-19T19:11:38.034Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95017,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.708584517240524,
+          33.1493653549407
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌ ترافیکی هوشمند",
+        "lastReport": "",
+        "date": 1790185937,
+        "addressDescription": "",
+        "description": "دوربین‌های ترافیکی هوشمند چراغ راهنمایی، مربوط به راهنمایی و رانندگی",
+        "city": "پلدختر",
+        "province": "استان لرستان",
+        "name:en": "Smart Traffic Camera",
+        "description:en": "Smart traffic light cameras, related to traffic control and policing.",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6ZjFlZGYyNTQ3NWU2",
+        "publicId": "MjA6ZjFlZGYyNTQ3NWU2",
+        "sourceId": "f1edf25475e6",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:06:15.079Z",
+        "updatedAt": "2026-09-24T12:06:15.079Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95018,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.714470624923706,
+          33.15086657505793
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین خودپرداز",
+        "lastReport": "",
+        "date": 1790185599,
+        "addressDescription": "",
+        "description": "دوربین خودپرداز بانک صادرات",
+        "city": "پلدختر",
+        "province": "استان لرستان",
+        "name:en": "ATM Camera",
+        "description:en": "Bank Saderat ATM camera",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6YjNiYjNkZjc2NjJk",
+        "publicId": "MjA6YjNiYjNkZjc2NjJk",
+        "sourceId": "b3bb3df7662d",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:06:42.692Z",
+        "updatedAt": "2026-09-24T12:06:42.692Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95019,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.714281529188156,
+          33.15148299981229
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین خودپرداز",
+        "lastReport": "",
+        "date": 1790185768,
+        "addressDescription": "",
+        "description": "دوربین خودپرداز پست بانک",
+        "city": "پلدختر",
+        "province": "استان لرستان",
+        "name:en": "ATM Camera",
+        "description:en": "Post Bank ATM camera",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6YTIxNmRjZDE2OTA1",
+        "publicId": "MjA6YTIxNmRjZDE2OTA1",
+        "sourceId": "a216dcd16905",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:06:53.432Z",
+        "updatedAt": "2026-09-24T12:06:53.432Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95020,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.714533656835556,
+          33.152046648528525
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین خودپرداز",
+        "lastReport": "",
+        "date": 1790185659,
+        "addressDescription": "",
+        "description": "دوربین خودپرداز بانک تجارت",
+        "city": "پلدختر",
+        "province": "استان لرستان",
+        "name:en": "ATM Camera",
+        "description:en": "Tejarat Bank ATM camera",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6ZTI4YTMxYjMxNjVi",
+        "publicId": "MjA6ZTI4YTMxYjMxNjVi",
+        "sourceId": "e28a31b3165b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:07:08.674Z",
+        "updatedAt": "2026-09-24T12:07:08.674Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.713993191719055,
+          33.15325365301939
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های امنیتی",
+        "lastReport": "",
+        "date": 1790185209,
+        "addressDescription": "",
+        "description": "دوربین‌های امنیتی ۳۶۰ درجه اطلاعات نیروی انتظامی و سپاه در وسط بلوار.",
+        "city": "پلدختر",
+        "province": "استان لرستان",
+        "name:en": "Security Cameras",
+        "description:en": "360-degree police and IRGC intelligence security cameras in the middle of the boulevard.",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6MGIzODU1NmI1NjI4",
+        "publicId": "MjA6MGIzODU1NmI1NjI4",
+        "sourceId": "0b38556b5628",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:07:21.592Z",
+        "updatedAt": "2026-09-24T12:07:21.592Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95022,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.708988189697266,
+          33.152948254382906
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های امنیتی",
+        "lastReport": "",
+        "date": 1790185148,
+        "addressDescription": "",
+        "description": "دوربین‌های امنیتی ۳۶۰ درجه اطلاعات، نیروی انتظامی و سپاه در وسط میدان",
+        "city": "پلدختر",
+        "province": "استان لرستان",
+        "name:en": "Security Cameras",
+        "description:en": "360-degree security cameras of the Intelligence Ministry, Law Enforcement, and IRGC in the middle of the square",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6YzljNTY5MDc5MzIw",
+        "publicId": "MjA6YzljNTY5MDc5MzIw",
+        "sourceId": "c9c569079320",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:07:36.002Z",
+        "updatedAt": "2026-09-24T12:07:36.002Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.702142521739006,
+          33.15256650459199
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های امنیتی",
+        "lastReport": "",
+        "date": 1790185064,
+        "addressDescription": "",
+        "description": "دوربین‌های امنیتی ۳۶۰ درجه اطلاعات نیروی انتظامی و سپاه در وسط میدان",
+        "city": "پلدختر",
+        "province": "استان لرستان",
+        "name:en": "Security Cameras",
+        "description:en": "360-degree security cameras of police intelligence and the IRGC in the middle of the square",
+        "city:en": "Pol-e Dokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6ODVlZmFkNzM4ZGE0",
+        "publicId": "MjA6ODVlZmFkNzM4ZGE0",
+        "sourceId": "85efad738da4",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:07:49.456Z",
+        "updatedAt": "2026-09-24T12:07:49.456Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72169180214405,
+          33.145064503407866
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های امنیتی",
+        "lastReport": "",
+        "date": 1790185252,
+        "addressDescription": "",
+        "description": "دوربین‌های امنیتی ۳۶۰ درجه اطلاعات، نیروی انتظامی و سپاه در وسط میدان",
+        "city": "پلدختر",
+        "province": "استان لرستان",
+        "name:en": "Security Cameras",
+        "description:en": "360-degree security cameras of the Ministry of Intelligence, Law Enforcement, and IRGC in the middle of the square",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6NjlhZWUwNDA1ZWQw",
+        "publicId": "MjA6NjlhZWUwNDA1ZWQw",
+        "sourceId": "69aee0405ed0",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:08:06.019Z",
+        "updatedAt": "2026-09-24T12:08:06.019Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95025,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72239252924919,
+          33.14634767881783
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌ مداربسته",
+        "lastReport": "",
+        "date": 1790185337,
+        "addressDescription": "",
+        "description": "دوربین‌های ورودی به اداره سپاه ناحیه پلدختر",
+        "city": "پلدختر",
+        "province": "استان لرستان",
+        "name:en": "CCTV Cameras",
+        "description:en": "Cameras at the entrance to the IRGC district headquarters in Poldokhtar",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6YjFjODY0M2Y5MWE5",
+        "publicId": "MjA6YjFjODY0M2Y5MWE5",
+        "sourceId": "b1c8643f91a9",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:08:34.872Z",
+        "updatedAt": "2026-09-24T12:08:34.872Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95026,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70308816805482,
+          33.15515226554116
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های امنیتی",
+        "lastReport": "",
+        "date": 1790185476,
+        "addressDescription": "",
+        "description": "دوربین‌های ۳۶۰ درجه امنیتی اداره اطلاعات، انتظامی و سپاه",
+        "city": "پلدختر",
+        "province": "استان لرستان",
+        "name:en": "Security Cameras",
+        "description:en": "360-degree security cameras of the Intelligence Department, Law Enforcement, and IRGC",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6M2FlNTBjMjU1NmYz",
+        "publicId": "MjA6M2FlNTBjMjU1NmYz",
+        "sourceId": "3ae50c2556f3",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:08:49.938Z",
+        "updatedAt": "2026-09-24T12:08:49.938Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95027,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.563997983932495,
+          36.323229409345956
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1790119333,
+        "addressDescription": "",
+        "description": "دوربین مداربسته بانک صادرات",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "Bank Saderat CCTV camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6NmEyNzM3ZGYyYmU2",
+        "publicId": "MjA6NmEyNzM3ZGYyYmU2",
+        "sourceId": "6a2737df2be6",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:09:13.350Z",
+        "updatedAt": "2026-09-24T12:09:13.350Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95028,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56225320696831,
+          36.32567024789091
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین مداربسته",
+        "lastReport": "",
+        "date": 1790119274,
+        "addressDescription": "",
+        "description": "دوربین مداربسته بانک ملی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "CCTV Camera",
+        "description:en": "Bank Melli CCTV camera",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "MjA6YmFhNjdkMTE3Yjk3",
+        "publicId": "MjA6YmFhNjdkMTE3Yjk3",
+        "sourceId": "baa67d117b97",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:09:25.007Z",
+        "updatedAt": "2026-09-24T12:09:25.007Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18599,
+    "total": 18611,
     "layerId": 20,
     "clustered": false,
     "simplified": false

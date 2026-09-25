@@ -176205,10 +176205,107 @@
         "createdAt": "2026-09-22T08:36:30.364Z",
         "updatedAt": "2026-09-22T08:36:30.364Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95030,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60672390713765,
+          36.32772876623788
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد رسول",
+        "description": "مسجد رسول",
+        "date": 1790118834,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Rasul Mosque",
+        "description:en": "Rasul Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "NDozM2NjOThhZjM4NTU",
+        "publicId": "NDozM2NjOThhZjM4NTU",
+        "sourceId": "33cc98af3855",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:10:30.960Z",
+        "updatedAt": "2026-09-24T12:10:44.514Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35189057957109,
+          35.43211974747358
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد صاحب الزمان",
+        "description": "",
+        "date": "",
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "name:en": "Saheb ol-Zaman Mosque",
+        "city:en": "Kabudarahang County",
+        "province:en": "Hamadan",
+        "id": "NDo2ODJiNDlhZDY1MTE",
+        "publicId": "NDo2ODJiNDlhZDY1MTE",
+        "sourceId": "682b49ad6511",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:15:41.125Z",
+        "updatedAt": "2026-09-24T12:15:41.125Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95038,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86853058716528,
+          38.428358238170375
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام جعفر صادق",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Imam Jafar Sadiq Mosque",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "id": "NDowNTA3MDgzNDZkN2Q",
+        "publicId": "NDowNTA3MDgzNDZkN2Q",
+        "sourceId": "050708346d7d",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-24T12:16:27.845Z",
+        "updatedAt": "2026-09-24T12:16:27.845Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5669,
+    "total": 5672,
     "layerId": 4,
     "clustered": false,
     "simplified": false

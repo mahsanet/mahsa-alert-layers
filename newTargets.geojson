@@ -31113,10 +31113,46 @@
         "createdAt": "2026-09-22T08:21:27.004Z",
         "updatedAt": "2026-09-23T18:02:46.459Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.59183134883642,
+          29.72640953211345
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "گزارش انفجار",
+        "unofficial_name:fa": "",
+        "date": 1790197209,
+        "geolocates": "",
+        "description": "شنیده شدن صدای انفجار همراه با صدای پهپاد در کوه‌های باجگاه",
+        "city": "شهرستان شیراز",
+        "province": "استان فارس",
+        "sources": "",
+        "name:en": "Explosion Report",
+        "description:en": "The sound of an explosion accompanied by the sound of a drone was heard in the Bajgah mountains.",
+        "city:en": "Shiraz County",
+        "province:en": "Fars",
+        "id": "MzI6M2VjZWIyZTlkYWVh",
+        "publicId": "MzI6M2VjZWIyZTlkYWVh",
+        "sourceId": "3eceb2e9daea",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-24T11:58:59.571Z",
+        "updatedAt": "2026-09-24T11:58:59.571Z"
+      }
     }
   ],
   "metadata": {
-    "total": 901,
+    "total": 902,
     "layerId": 32,
     "clustered": false,
     "simplified": false
