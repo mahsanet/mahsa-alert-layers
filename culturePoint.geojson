@@ -92379,10 +92379,43 @@
         "createdAt": "2026-09-22T08:34:56.512Z",
         "updatedAt": "2026-09-22T08:34:56.512Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95054,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.005393624305725,
+          36.28332345175424
+        ]
+      },
+      "properties": {
+        "name:fa": "سازمان تبلیغات اسلامی قزوین",
+        "description": "سازمان تبلیغات اسلامی استان قزوین",
+        "date": 1790379428,
+        "city": "قزوین",
+        "province": "استان قزوین",
+        "name:en": "Qazvin Islamic Propagation Organization",
+        "description:en": "Islamic Propagation Organization of Qazvin Province",
+        "city:en": "Qazvin",
+        "province:en": "Qazvin",
+        "id": "MTc6NDE1M2NjYWJiMjMy",
+        "publicId": "MTc6NDE1M2NjYWJiMjMy",
+        "sourceId": "4153ccabb232",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-25T23:38:53.255Z",
+        "updatedAt": "2026-09-25T23:38:53.255Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2409,
+    "total": 2410,
     "layerId": 17,
     "clustered": false,
     "simplified": false

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-25T02:00:07.433Z",
-  "serial": 4284,
+  "lastUpdated": "2026-09-26T02:00:03.616Z",
+  "serial": 4310,
   "layers": {
     "missilePrograms": "685fbcb165099d60d603d406a10dad8e8664480a",
     "targets": "e61d00a9e0a95d4c2015b16e4f9cd2d0e7ee282e",
@@ -21,11 +21,11 @@
     "javidnam": "c7a262960afb17eba9fac70fa4691008e296fb65",
     "areowayBase": "b0a426f80fe4014650c4d5df4ebbeed63de5f713",
     "basijBase": "aa53da66dfe7685da2a2c52d1f922f60e65ceefb",
-    "culturePoint": "12d22e6d064cbecb6434ae59060816956d45907f",
+    "culturePoint": "0ebfc8569475da4e213f06b1e185acecdf7fb3f6",
     "marakezGhazayi": "a3c19b639ab0c5cd3755ebb6a78c622e34c767ed",
     "unknownBase": "9dd5c2bfd1cb069d44819f9b1d1b59115785e699",
     "hospital": "fcbf2f053f5e12dead95845b137077a7bd88d69b",
-    "citizenReport": "fffb57dd32dae8a21ae4e49854d77411019e8917",
+    "citizenReport": "2057b0acb0d70013e19e8de5199019ccaf09fd9d",
     "emergencyBase": "52b6f6abbb54c0c45ad97cd3cc23e9756a180957",
     "medicalClinic": "1e27d2ce6c90ea000debbf30997d08bb72bae833",
     "marakezEntezami": "be1ee9233abe80094d18467b2f7c5d17866cc551",
