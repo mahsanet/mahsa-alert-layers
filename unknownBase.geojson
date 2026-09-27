@@ -75216,10 +75216,113 @@
         "createdAt": "2026-09-22T08:31:51.827Z",
         "updatedAt": "2026-09-22T08:31:51.827Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95075,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.8442035657001,
+              32.34642638688385
+            ],
+            [
+              50.84530701198577,
+              32.347485006775145
+            ],
+            [
+              50.845366236503764,
+              32.34750080697849
+            ],
+            [
+              50.8461891455988,
+              32.34703206644774
+            ],
+            [
+              50.845188562949744,
+              32.34567586527659
+            ],
+            [
+              50.84495166487659,
+              32.345797002518836
+            ],
+            [
+              50.84490179159863,
+              32.34577593518422
+            ],
+            [
+              50.84437812217445,
+              32.34614724624112
+            ],
+            [
+              50.8442035657001,
+              32.34642638688385
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعات سپاه ۱۱۴",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهركرد",
+        "province": "استان چهارمحال و بختیاری",
+        "name:en": "IRGC Intelligence 114",
+        "city:en": "Shahrekord",
+        "province:en": "Chaharmahal and Bakhtiari",
+        "id": "MTI6MmQ3ZTc0MTk3Y2Uz",
+        "publicId": "MTI6MmQ3ZTc0MTk3Y2Uz",
+        "sourceId": "2d7e74197ce3",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:06:40.413Z",
+        "updatedAt": "2026-09-26T22:06:40.413Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95091,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.32426731288433,
+          35.64081762030615
+        ]
+      },
+      "properties": {
+        "name:fa": "قرارگاه سازندگی خاتم",
+        "unofficial_name:fa": "",
+        "description": "سوله مشکوک به نام قرارگاه سازندگی خاتم",
+        "date": 1790380623,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Khatam Construction Headquarters",
+        "description:en": "Suspicious shed under the name of Khatam Construction Headquarters",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTI6OWY3YTAwYTVkMzlj",
+        "publicId": "MTI6OWY3YTAwYTVkMzlj",
+        "sourceId": "9f7a00a5d39c",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:27:20.986Z",
+        "updatedAt": "2026-09-26T22:27:20.986Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1055,
+    "total": 1057,
     "layerId": 12,
     "clustered": false,
     "simplified": false

@@ -1527,13 +1527,15 @@
         ]
       },
       "properties": {
-        "id": "MzoyMzEy",
+        "name:fa": "کلانتری 11 طالقانی",
+        "description": "",
+        "date": "",
         "city": "نیشابور",
-        "osm_id": "n7580385910",
-        "name:fa": "کلانتری",
         "province": "استان خراسان رضوی",
-        "name:en": "Police Station",
-        "city:en": "Nishapur",
+        "id": "MzoyMzEy",
+        "osm_id": "n7580385910",
+        "name:en": "Police Station 11 Taleghani",
+        "city:en": "Neyshabur",
         "province:en": "Razavi Khorasan",
         "publicId": "MzoyMzEy",
         "sourceId": "2312",
@@ -1544,7 +1546,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:05.590Z",
-        "updatedAt": "2026-03-13T04:41:05.590Z"
+        "updatedAt": "2026-09-26T22:14:30.778Z"
       }
     },
     {
@@ -50828,8 +50830,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          58.8110121,
-          36.1902835
+          58.81051420923242,
+          36.18721667328208
         ]
       },
       "properties": {
@@ -50850,7 +50852,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.418Z",
-        "updatedAt": "2026-03-13T04:41:06.418Z"
+        "updatedAt": "2026-09-26T22:16:55.366Z"
       }
     },
     {
@@ -50874,37 +50876,6 @@
         "province:en": "Razavi Khorasan",
         "publicId": "Mzo2MjUyNQ",
         "sourceId": "62525",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.418Z",
-        "updatedAt": "2026-03-13T04:41:06.418Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 85738,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          58.8183747,
-          36.1781267
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjUyNg",
-        "city": "شهرستان نیشابور",
-        "osm_id": "",
-        "name:fa": "اداره پلیس راهنمایی",
-        "province": "استان خراسان رضوی",
-        "name:en": "Traffic Police Department",
-        "city:en": "Nishapur County",
-        "province:en": "Razavi Khorasan",
-        "publicId": "Mzo2MjUyNg",
-        "sourceId": "62526",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -135689,37 +135660,6 @@
     },
     {
       "type": "Feature",
-      "id": 88758,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          59.6470682,
-          36.2807549
-        ]
-      },
-      "properties": {
-        "id": "Mzo2Njc4Mg",
-        "city": "مشهد",
-        "osm_id": "w871970575",
-        "name:fa": "کلانتری ۲۴ میرزا کوچک خان",
-        "province": "استان خراسان رضوی",
-        "name:en": "Mirza Kouchak Khan Police Station 24",
-        "city:en": "Mashhad",
-        "province:en": "Razavi Khorasan",
-        "publicId": "Mzo2Njc4Mg",
-        "sourceId": "66782",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.782Z",
-        "updatedAt": "2026-03-13T04:41:07.782Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 88759,
       "geometry": {
         "type": "Point",
@@ -190278,6 +190218,96 @@
         "expirationDate": null,
         "createdAt": "2026-09-22T08:38:57.454Z",
         "updatedAt": "2026-09-22T08:39:03.013Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95065,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.64699654505782,
+              36.28071975436009
+            ],
+            [
+              59.64720387518537,
+              36.28105190704724
+            ],
+            [
+              59.64744269849439,
+              36.28095670419195
+            ],
+            [
+              59.64721437291249,
+              36.2805970479145
+            ],
+            [
+              59.64697817403345,
+              36.28070494497169
+            ],
+            [
+              59.64699654505782,
+              36.28071975436009
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۲۴ میرزا کوچک خان",
+        "description": "کلانتری ۲۴ میرزا کوچک خان",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "24 Mirza Kouchek Khan Police Station",
+        "description:en": "24 Mirza Kouchek Khan Police Station",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "id": "Mzo4MWY0YzdiMDU2Mzk",
+        "publicId": "Mzo4MWY0YzdiMDU2Mzk",
+        "sourceId": "81f4c7b05639",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-26T21:56:19.462Z",
+        "updatedAt": "2026-09-26T21:56:19.462Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95089,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.345302537083626,
+          35.63694580488077
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه پنجم پلیس آگاهی",
+        "description": "کلانتری شهرک ولیعصر - پایگاه پنجم پلیس آگاهی",
+        "date": 1790380204,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Fifth Base of Criminal Investigation Police",
+        "description:en": "Shahrak-e Valiasr Police Station - Fifth Base of Criminal Investigation Police",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzpkZDAwZTU2ZWMyMzM",
+        "publicId": "MzpkZDAwZTU2ZWMyMzM",
+        "sourceId": "dd00e56ec233",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:25:43.098Z",
+        "updatedAt": "2026-09-26T22:25:43.098Z"
       }
     }
   ],

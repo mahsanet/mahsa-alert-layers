@@ -451623,8 +451623,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          58.795807,
-          36.19512
+          58.79577873013781,
+          36.19520008687999
         ]
       },
       "properties": {
@@ -451646,7 +451646,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:55:11.838Z",
-        "updatedAt": "2026-03-11T20:55:11.838Z"
+        "updatedAt": "2026-09-26T22:14:15.620Z"
       }
     },
     {
@@ -595951,10 +595951,220 @@
         "createdAt": "2026-09-24T12:09:25.007Z",
         "updatedAt": "2026-09-24T12:09:25.007Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.85936191678047,
+          36.46278089130011
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1790418961,
+        "addressDescription": "",
+        "description": "دوربین کنترل امنیت تجمعات حکومتی، تازه اضافه شده",
+        "city": "قائم شهر",
+        "province": "استان مازندران",
+        "name:en": "Security Camera",
+        "description:en": "Security control camera for state gatherings, newly added",
+        "city:en": "Ghaemshahr",
+        "province:en": "Mazandaran",
+        "id": "MjA6MmNlNzhhMzY1ZWJm",
+        "publicId": "MjA6MmNlNzhhMzY1ZWJm",
+        "sourceId": "2ce78a365ebf",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:01:06.964Z",
+        "updatedAt": "2026-09-26T22:01:06.964Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95073,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7165050804615,
+          33.149140787269204
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین خودپرداز",
+        "lastReport": "",
+        "date": 1790275801,
+        "addressDescription": "",
+        "description": "دوربین خودپرداز سیار بانک",
+        "city": "پلدختر",
+        "province": "استان لرستان",
+        "name:en": "ATM Camera",
+        "description:en": "Bank mobile ATM camera",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6NGE5ZTJjYzkyYjI1",
+        "publicId": "MjA6NGE5ZTJjYzkyYjI1",
+        "sourceId": "4a9e2cc92b25",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:04:42.766Z",
+        "updatedAt": "2026-09-26T22:04:42.766Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.73121565580368,
+          33.21583510921792
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های امنیتی",
+        "lastReport": "",
+        "date": 1790276048,
+        "addressDescription": "",
+        "description": "دوربین‌های کنترل ترافیک و پلاک‌خوان اداره راهنمایی و رانندگی و استفاده اطلاعات از آن برای مقاصد خود",
+        "city": "شهرستان پلدختر",
+        "province": "استان لرستان",
+        "name:en": "Security Cameras",
+        "description:en": "Traffic control and license plate recognition cameras of the Traffic Police Department, and the use of their data by intelligence services for their own purposes.",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6MjQ0ZjFjYWY4YzQ2",
+        "publicId": "MjA6MjQ0ZjFjYWY4YzQ2",
+        "sourceId": "244f1caf8c46",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:18:15.470Z",
+        "updatedAt": "2026-09-26T22:18:15.470Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95082,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72739350795746,
+          33.19812221651415
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های امنیتی",
+        "lastReport": "",
+        "date": 1790276002,
+        "addressDescription": "",
+        "description": "دوربین‌های کنترل ترافیک و پلاک‌خوان اداره راهنمایی و رانندگی",
+        "city": "شهرستان پلدختر",
+        "province": "استان لرستان",
+        "name:en": "Security Cameras",
+        "description:en": "Traffic control and license plate recognition cameras of the Traffic Police Department",
+        "city:en": "Poldokhtar County",
+        "province:en": "Lorestan",
+        "id": "MjA6YThjZWFhNDY3NmEx",
+        "publicId": "MjA6YThjZWFhNDY3NmEx",
+        "sourceId": "a8ceaa4676a1",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:18:35.184Z",
+        "updatedAt": "2026-09-26T22:18:35.184Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95083,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70618125796318,
+          33.14938332032956
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های امنیتی",
+        "lastReport": "",
+        "date": 1790275623,
+        "addressDescription": "",
+        "description": "دوربین‌های هوشمند ۳۶۰ درجه امنیتی اداره اطلاعات، انتظامی و سپاه",
+        "city": "پلدختر",
+        "province": "استان لرستان",
+        "name:en": "Security Cameras",
+        "description:en": "Smart 360-degree security cameras of the Intelligence Department, Police, and IRGC",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "MjA6OWJlNDlmZWQzZWU5",
+        "publicId": "MjA6OWJlNDlmZWQzZWU5",
+        "sourceId": "9be49fed3ee9",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:18:49.763Z",
+        "updatedAt": "2026-09-26T22:18:49.763Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95084,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.73618310689926,
+          33.21823219818374
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های کنترل ترافیک",
+        "lastReport": "",
+        "date": 1790276106,
+        "addressDescription": "",
+        "description": "دوربین‌های کنترل ترافیک و پلاک‌خوان اداره راهنمایی و رانندگی و استفاده اطلاعاتی از آن‌ها",
+        "city": "شهرستان پلدختر",
+        "province": "استان لرستان",
+        "name:en": "Traffic Control Cameras",
+        "description:en": "Traffic control and license plate recognition cameras of the Traffic Police Department and their use for intelligence purposes.",
+        "city:en": "Poldokhtar County",
+        "province:en": "Lorestan",
+        "id": "MjA6MmQ2MTU5ZDMyMDcz",
+        "publicId": "MjA6MmQ2MTU5ZDMyMDcz",
+        "sourceId": "2d6159d32073",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:19:21.361Z",
+        "updatedAt": "2026-09-26T22:19:21.361Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18611,
+    "total": 18617,
     "layerId": 20,
     "clustered": false,
     "simplified": false

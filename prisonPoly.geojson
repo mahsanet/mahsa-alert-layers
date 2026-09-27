@@ -10754,10 +10754,44 @@
         "createdAt": "2026-09-04T06:26:13.454Z",
         "updatedAt": "2026-09-04T06:26:13.454Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95085,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.72467106580734,
+          33.122499053778256
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "زندان پلدختر",
+        "date": 1790276374,
+        "city": "شهرستان پلدختر",
+        "province": "استان لرستان",
+        "name:fa": "زندان نیروی انتظامی",
+        "name:en": "Law Enforcement Prison",
+        "description:en": "Poldokhtar Prison",
+        "city:en": "Poldokhtar",
+        "province:en": "Lorestan",
+        "id": "NToyM2Q2ZjQ5YWE3NmE",
+        "publicId": "NToyM2Q2ZjQ5YWE3NmE",
+        "sourceId": "23d6f49aa76a",
+        "layerId": 5,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:20:13.319Z",
+        "updatedAt": "2026-09-26T22:20:18.840Z"
+      }
     }
   ],
   "metadata": {
-    "total": 185,
+    "total": 186,
     "layerId": 5,
     "clustered": false,
     "simplified": false

@@ -176302,10 +176302,74 @@
         "createdAt": "2026-09-24T12:16:27.845Z",
         "updatedAt": "2026-09-24T12:16:27.845Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.858119160155354,
+          32.35622285119307
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام حسن عسگری",
+        "description": "",
+        "date": "",
+        "city": "شهركرد",
+        "province": "استان چهارمحال و بختیاری",
+        "name:en": "Imam Hassan Asgari Mosque",
+        "city:en": "Shahrekord",
+        "province:en": "Chaharmahal and Bakhtiari",
+        "id": "NDo2NjQ3MzY2N2U1MjM",
+        "publicId": "NDo2NjQ3MzY2N2U1MjM",
+        "sourceId": "66473667e523",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:08:08.799Z",
+        "updatedAt": "2026-09-26T22:08:08.799Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48895706958075,
+          34.809699944573325
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ولیعصر",
+        "description": "",
+        "date": "",
+        "city": "همدان",
+        "province": "استان همدان",
+        "name:en": "Valiasr Mosque",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "id": "NDpiMjZjYjhiMjY2MmM",
+        "publicId": "NDpiMjZjYjhiMjY2MmM",
+        "sourceId": "b26cb8b2662c",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:15:34.818Z",
+        "updatedAt": "2026-09-26T22:15:34.818Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5672,
+    "total": 5674,
     "layerId": 4,
     "clustered": false,
     "simplified": false

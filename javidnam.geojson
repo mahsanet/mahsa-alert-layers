@@ -31769,10 +31769,45 @@
         "createdAt": "2026-09-02T02:24:21.183Z",
         "updatedAt": "2026-09-02T02:25:49.681Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95092,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.616896878927946,
+          35.89011036119456
+        ]
+      },
+      "properties": {
+        "city": "تنکمان",
+        "count": "",
+        "people": "جاویدنام بهرام اخلاقی",
+        "description": "جاویدنام بهرام اخلاقی تنکمان",
+        "date": 1790459027,
+        "name:fa": "جاویدنام بهرام اخلاقی تنکمان",
+        "province": "استان البرز",
+        "name:en": "The late Bahram Akhlaghi Tankaman",
+        "description:en": "The late Bahram Akhlaghi Tankaman",
+        "city:en": "Tankaman",
+        "province:en": "Alborz",
+        "id": "MTY6ZDk5ZTU2ODNkYmEw",
+        "publicId": "MTY6ZDk5ZTU2ODNkYmEw",
+        "sourceId": "d99e5683dba0",
+        "layerId": 16,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:30:16.826Z",
+        "updatedAt": "2026-09-26T22:30:56.670Z"
+      }
     }
   ],
   "metadata": {
-    "total": 172,
+    "total": 173,
     "layerId": 16,
     "clustered": false,
     "simplified": false

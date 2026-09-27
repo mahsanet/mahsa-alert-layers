@@ -76007,10 +76007,112 @@
         "createdAt": "2026-09-24T12:15:57.829Z",
         "updatedAt": "2026-09-24T12:15:57.829Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95076,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.858299378305674,
+          32.35616204944718
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج",
+        "date": 1790426358,
+        "city": "شهركرد",
+        "province": "استان چهارمحال و بختیاری",
+        "name:en": "Basij Base",
+        "description:en": "Basij Base",
+        "city:en": "Shahrekord",
+        "province:en": "Chaharmahal and Bakhtiari",
+        "id": "MTowMjFjMDM3OTdjYzM",
+        "publicId": "MTowMjFjMDM3OTdjYzM",
+        "sourceId": "021c03797cc3",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:07:45.387Z",
+        "updatedAt": "2026-09-26T22:07:45.387Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.868139397352934,
+          32.34528729135627
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج حضرت رسول",
+        "date": 1790426220,
+        "city": "شهركرد",
+        "province": "استان چهارمحال و بختیاری",
+        "name:en": "Basij Base",
+        "description:en": "Hazrat Rasool Basij Base",
+        "city:en": "Shahrekord",
+        "province:en": "Chaharmahal and Bakhtiari",
+        "id": "MToxNmM0ZjI5OGQ3ZDA",
+        "publicId": "MToxNmM0ZjI5OGQ3ZDA",
+        "sourceId": "16c4f298d7d0",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:08:47.843Z",
+        "updatedAt": "2026-09-26T22:08:47.843Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95088,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36781683191657,
+          35.65699822228747
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر بسیج",
+        "unofficial_name:fa": "",
+        "description": "مرکز بسیج و اطلاعات.",
+        "date": 1790340097,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Office",
+        "description:en": "Basij and intelligence center.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTozNjQxMzk2Mjc0NTA",
+        "publicId": "MTozNjQxMzk2Mjc0NTA",
+        "sourceId": "364139627450",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-26T22:24:30.277Z",
+        "updatedAt": "2026-09-26T22:24:30.277Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2301,
+    "total": 2304,
     "layerId": 1,
     "clustered": false,
     "simplified": false
