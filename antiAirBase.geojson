@@ -7817,10 +7817,44 @@
         "createdAt": "2026-09-22T08:26:48.098Z",
         "updatedAt": "2026-09-22T08:26:48.098Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.896342776715755,
+          35.15226235244275
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی و پرتابگر موشک",
+        "unofficial_name:fa": "",
+        "description": "گزارش اسکان پدافند هوایی و پرتابگر موشک در این مکان",
+        "date": 1790349641,
+        "city": "شهرستان فامنین",
+        "province": "استان همدان",
+        "name:en": "Air Defense and Missile Launcher",
+        "description:en": "Report of air defense and missile launcher deployment at this location",
+        "city:en": "Famenin",
+        "province:en": "Hamadan",
+        "id": "ODpmZjY0NjlhZjE0ODI",
+        "publicId": "ODpmZjY0NjlhZjE0ODI",
+        "sourceId": "ff6469af1482",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T20:37:25.121Z",
+        "updatedAt": "2026-09-27T20:37:25.121Z"
+      }
     }
   ],
   "metadata": {
-    "total": 113,
+    "total": 114,
     "layerId": 8,
     "clustered": false,
     "simplified": false

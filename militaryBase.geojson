@@ -45059,10 +45059,81 @@
         "createdAt": "2026-09-02T02:20:43.811Z",
         "updatedAt": "2026-09-02T02:20:43.811Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95126,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.06255914168119,
+              37.58901347372944
+            ],
+            [
+              45.061233339034885,
+              37.58866970687579
+            ],
+            [
+              45.06112386907071,
+              37.58931547321302
+            ],
+            [
+              45.06047921273796,
+              37.589125920493615
+            ],
+            [
+              45.060690043739584,
+              37.58772835587776
+            ],
+            [
+              45.06212126188771,
+              37.58746490397537
+            ],
+            [
+              45.062068554137284,
+              37.588001445278564
+            ],
+            [
+              45.06272537379695,
+              37.588059275847456
+            ],
+            [
+              45.06255914168119,
+              37.58901347372944
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان امنیتی سپاه",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "ساختمان سپاه احتمال شنود یا رادار از روی دکل هایی وجود دارد",
+        "date": "",
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:en": "Sepah Security Unit",
+        "description:en": "Sepah building; there is a possibility of wiretapping or radar from the towers.",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MTE6NDJmN2QzYjI3ZDQy",
+        "publicId": "MTE6NDJmN2QzYjI3ZDQy",
+        "sourceId": "42f7d3b27d42",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-27T20:35:34.012Z",
+        "updatedAt": "2026-09-27T20:35:34.012Z"
+      }
     }
   ],
   "metadata": {
-    "total": 393,
+    "total": 394,
     "layerId": 11,
     "clustered": false,
     "simplified": false

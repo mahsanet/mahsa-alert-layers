@@ -75319,10 +75319,78 @@
         "createdAt": "2026-09-26T22:27:20.986Z",
         "updatedAt": "2026-09-26T22:27:20.986Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.039025112986565,
+          35.67152350697948
+        ]
+      },
+      "properties": {
+        "name:fa": "تیپ سپاه",
+        "unofficial_name:fa": "",
+        "description": "تیپ سپاه و محل استقرار نیروهای حکومتی",
+        "date": 1790531740,
+        "city": "شهریار",
+        "province": "استان تهران",
+        "name:en": "Sepah Brigade",
+        "description:en": "Sepah Brigade and deployment location of government forces",
+        "city:en": "Shahriar",
+        "province:en": "Tehran",
+        "id": "MTI6NzE1Y2Q1ZjExZWI5",
+        "publicId": "MTI6NzE1Y2Q1ZjExZWI5",
+        "sourceId": "715cd5f11eb9",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T19:46:57.486Z",
+        "updatedAt": "2026-09-27T19:46:57.486Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.236256659030914,
+          35.624363936810695
+        ]
+      },
+      "properties": {
+        "name:fa": "محل سنگرسازی سپاه",
+        "unofficial_name:fa": "",
+        "description": "محل سنگرسازی و سنگربندی سپاه برای موقعیت‌های حساس و جنگی",
+        "date": 1790516039,
+        "city": "شهرستان اسلامشهر",
+        "province": "استان تهران",
+        "name:en": "IRGC Fortification Site",
+        "description:en": "IRGC entrenchment and fortification site for sensitive and wartime situations.",
+        "city:en": "Eslamshahr",
+        "province:en": "Tehran",
+        "id": "MTI6MDE0OTMyODAxYzdk",
+        "publicId": "MTI6MDE0OTMyODAxYzdk",
+        "sourceId": "014932801c7d",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T20:03:54.820Z",
+        "updatedAt": "2026-09-27T20:03:54.820Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1057,
+    "total": 1059,
     "layerId": 12,
     "clustered": false,
     "simplified": false

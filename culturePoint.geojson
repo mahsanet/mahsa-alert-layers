@@ -63669,36 +63669,6 @@
     },
     {
       "type": "Feature",
-      "id": 3439,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.9310755,
-          34.8034041
-        ]
-      },
-      "properties": {
-        "id": "MTc6MTA1NDg",
-        "city": "كامياران",
-        "name:fa": "حوزه علمیه امام باقر علیه السلام",
-        "province": "استان کردستان",
-        "name:en": "Imam Baqir Seminary",
-        "city:en": "Kamyaran",
-        "province:en": "Kurdistan",
-        "publicId": "MTc6MTA1NDg",
-        "sourceId": "10548",
-        "layerId": 17,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:43.706Z",
-        "updatedAt": "2026-03-11T20:52:43.706Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 3440,
       "geometry": {
         "type": "Polygon",
@@ -92411,6 +92381,58 @@
         "expirationDate": null,
         "createdAt": "2026-09-25T23:38:53.255Z",
         "updatedAt": "2026-09-25T23:38:53.255Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95103,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.03844333426278,
+              35.67172914949677
+            ],
+            [
+              51.03928116171227,
+              35.671726382720394
+            ],
+            [
+              51.03928967621948,
+              35.6712546459035
+            ],
+            [
+              51.03840587043297,
+              35.671244962127304
+            ],
+            [
+              51.03844333426278,
+              35.67172914949677
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری ناحیه 5 شهریار",
+        "description": "",
+        "date": "",
+        "city": "شهریار",
+        "province": "استان تهران",
+        "name:en": "Shahriar District 5 Municipality",
+        "city:en": "Shahriar",
+        "province:en": "Tehran",
+        "id": "MTc6Y2YwZDc2NzRlNzc0",
+        "publicId": "MTc6Y2YwZDc2NzRlNzc0",
+        "sourceId": "cf0d7674e774",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-27T19:46:28.590Z",
+        "updatedAt": "2026-09-27T19:46:28.590Z"
       }
     }
   ],

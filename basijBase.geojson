@@ -76109,10 +76109,282 @@
         "createdAt": "2026-09-26T22:24:30.277Z",
         "updatedAt": "2026-09-26T22:24:30.277Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95098,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.68672696873546,
+          31.321043328886873
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "date": 1790536454,
+        "description": "پایگاه نیروهای سرکوبگر، تمام افراد این پایگاه مسلح و خطرناک هستند",
+        "sources": "",
+        "name:en": "Basij Base",
+        "description:en": "A base for repressive forces; all individuals at this base are armed and dangerous.",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTo4ZTRmN2QyYzlmMzA",
+        "publicId": "MTo4ZTRmN2QyYzlmMzA",
+        "sourceId": "8e4f7d2c9f30",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T19:41:37.966Z",
+        "updatedAt": "2026-09-27T19:41:50.260Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.69229171425104,
+          31.324365262257032
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج، محل استقرار نیروهای مسلح سرکوبگر، بسیار خطرناک",
+        "date": 1790536630,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Basij Base",
+        "description:en": "Basij base, stationing location of repressive armed forces, extremely dangerous.",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTplYWE1NjMyYmEyOTg",
+        "publicId": "MTplYWE1NjMyYmEyOTg",
+        "sourceId": "eaa5632ba298",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T19:44:03.827Z",
+        "updatedAt": "2026-09-27T19:44:03.827Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.03944504633546,
+          35.67153821492704
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه ۷ مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "حوزه ۷ مقاومت بسیج",
+        "date": 1790506660,
+        "city": "شهریار",
+        "province": "استان تهران",
+        "name:en": "District 7 Basij Resistance Area",
+        "description:en": "District 7 Basij Resistance Area",
+        "city:en": "Shahriar",
+        "province:en": "Tehran",
+        "id": "MToxOTkyN2I4MmQ2MmQ",
+        "publicId": "MToxOTkyN2I4MmQ2MmQ",
+        "sourceId": "19927b82d62d",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T19:45:29.144Z",
+        "updatedAt": "2026-09-27T19:45:29.144Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.945063043385744,
+          34.80436295483241
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج مسجد امام حسن پشت هلال احمر کامیاران، مرکز جذب دانش‌آموزان برای شرکت در مراسمات و حضور در گشت رضوی.",
+        "date": 1790508674,
+        "city": "كامياران",
+        "province": "استان کردستان",
+        "name:en": "Basij Base",
+        "description:en": "Basij base of Imam Hassan Mosque behind the Red Crescent in Kamyaran, a center for recruiting students to participate in ceremonies and join the Razavi Patrol.",
+        "city:en": "Kamyaran",
+        "province:en": "Kurdistan",
+        "id": "MToyMjE5MDU4MWZhOWY",
+        "publicId": "MToyMjE5MDU4MWZhOWY",
+        "sourceId": "22190581fa9f",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T19:51:23.310Z",
+        "updatedAt": "2026-09-27T19:51:23.310Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.96524616330862,
+          34.792877996362876
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج با ۱۰ نفر نیروی فعال. یک دستگاه خودرو وانت مزدا قدیمی مسلح به دوشکا در باغ سمت راست پایگاه اختفا کرده است. ساختمان سمت چپ آن دهیاری و کتابخانه روستای شیروانه، سالن با سقف آبی سالن فوتسال و ساختمان جنوبی داخل حیاط خوابگاه بسیجی‌های کارت سبز است.",
+        "date": 1790508197,
+        "city": "شهرستان کامیاران",
+        "province": "استان کردستان",
+        "name:en": "Basij Base",
+        "description:en": "Basij base with 10 active personnel. An old Mazda pickup truck armed with a Dushka is concealed in the garden on the right side of the base. The building to its left is the Shirvaneh village municipal office and library, the blue-roofed hall is a futsal hall, and the southern building inside the yard is the dormitory for green-card Basij members.",
+        "city:en": "Kamyaran",
+        "province:en": "Kurdistan",
+        "id": "MTphOWI3MjM0ZTYwYjI",
+        "publicId": "MTphOWI3MjM0ZTYwYjI",
+        "sourceId": "a9b7234e60b2",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T19:52:51.649Z",
+        "updatedAt": "2026-09-27T19:52:51.649Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.56016618385911,
+          31.01431465817403
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج، ایست و بازرسی و مرکز ساماندهی سرکوبگران",
+        "date": 1790479643,
+        "city": "جوادیه الهیه",
+        "province": "استان کرمان",
+        "name:en": "Basij Base",
+        "description:en": "Basij base, checkpoint, and organizing center for repressors",
+        "city:en": "Javadiyeh Elahiyeh",
+        "province:en": "Kerman",
+        "id": "MTo3MmMwNjlhNzE1MmM",
+        "publicId": "MTo3MmMwNjlhNzE1MmM",
+        "sourceId": "72c069a7152c",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T20:21:23.063Z",
+        "updatedAt": "2026-09-27T20:21:23.063Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.18213001638651,
+          35.541177874572796
+        ]
+      },
+      "properties": {
+        "name:fa": "کانکس فرماندهی اطلاعات بسیج و سپاه",
+        "unofficial_name:fa": "",
+        "description": "کانکس فرماندهی اطلاعات بسیج و سپاه در پوشش فروش کفپوش خودرو",
+        "date": 1790514515,
+        "city": "شهرستان بهارستان",
+        "province": "استان تهران",
+        "name:en": "Basij and IRGC Intelligence Command Kiosk",
+        "description:en": "Basij and IRGC intelligence command kiosk under the guise of selling car floor mats",
+        "city:en": "Baharestan County",
+        "province:en": "Tehran",
+        "id": "MTo2NzliZmJmM2ExYmU",
+        "publicId": "MTo2NzliZmJmM2ExYmU",
+        "sourceId": "679bfbf3a1be",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T20:22:23.338Z",
+        "updatedAt": "2026-09-27T20:22:23.338Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.16559453308582,
+          35.556863525890435
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "حوزه مقاومت بسیج نسیم شهر",
+        "date": 1790514893,
+        "city": "نسیم شهر",
+        "province": "استان تهران",
+        "name:en": "Basij Resistance District",
+        "description:en": "Nasim Shahr Basij Resistance District",
+        "city:en": "Nasim Shahr",
+        "province:en": "Tehran",
+        "id": "MTo0Njk3ODdmNThiOGY",
+        "publicId": "MTo0Njk3ODdmNThiOGY",
+        "sourceId": "469787f58b8f",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T20:25:00.068Z",
+        "updatedAt": "2026-09-27T20:25:00.068Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2304,
+    "total": 2312,
     "layerId": 1,
     "clustered": false,
     "simplified": false

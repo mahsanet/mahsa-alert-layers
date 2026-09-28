@@ -4728,10 +4728,44 @@
         "createdAt": "2026-09-15T19:18:12.398Z",
         "updatedAt": "2026-09-15T19:18:12.398Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.12141097991815,
+          35.41854742916084
+        ]
+      },
+      "properties": {
+        "name:fa": "رادار",
+        "unofficial_name:fa": "",
+        "description": "رادار جدید بعد از جنگ ۴۰ روزه ترمیم شده و کار می کند به رنگ قرمز",
+        "date": "",
+        "city": "شهرستان ری",
+        "province": "استان تهران",
+        "name:en": "Radar",
+        "description:en": "The new radar has been repaired after the 40-day war and is working, colored red.",
+        "city:en": "Rey County",
+        "province:en": "Tehran",
+        "id": "OTo2NjJmOGM3M2MwNjc",
+        "publicId": "OTo2NjJmOGM3M2MwNjc",
+        "sourceId": "662f8c73c067",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-27T20:23:17.387Z",
+        "updatedAt": "2026-09-27T20:23:17.387Z"
+      }
     }
   ],
   "metadata": {
-    "total": 72,
+    "total": 73,
     "layerId": 9,
     "clustered": false,
     "simplified": false

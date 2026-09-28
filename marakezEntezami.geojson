@@ -66051,18 +66051,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.1650869,
-          35.5818488
+          51.159000179974186,
+          35.59023016033244
         ]
       },
       "properties": {
         "id": "Mzo2MzMzMQ",
-        "city": "شهرستان بهارستان",
+        "city": "شهرستان شهریار",
         "osm_id": "",
         "name:fa": "جایگاه پلیس راهور",
         "province": "استان تهران",
         "name:en": "Traffic Police Post",
-        "city:en": "Baharestan County",
+        "city:en": "Shahriar",
         "province:en": "Tehran",
         "publicId": "Mzo2MzMzMQ",
         "sourceId": "63331",
@@ -66073,7 +66073,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.621Z",
-        "updatedAt": "2026-03-13T04:41:06.621Z"
+        "updatedAt": "2026-09-27T20:29:15.435Z"
       }
     },
     {
@@ -66268,8 +66268,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.1645572,
-          35.5590368
+          51.16498287413694,
+          35.5543691765413
         ]
       },
       "properties": {
@@ -66290,7 +66290,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.635Z",
-        "updatedAt": "2026-03-13T04:41:06.635Z"
+        "updatedAt": "2026-09-27T20:27:33.866Z"
       }
     },
     {
@@ -190309,10 +190309,43 @@
         "createdAt": "2026-09-26T22:25:43.098Z",
         "updatedAt": "2026-09-26T22:25:43.098Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.236044093966484,
+          35.62552000179963
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راه تهران - ساوه",
+        "description": "پلیس راه تهران و ساوه",
+        "date": 1790516078,
+        "city": "شهرستان اسلامشهر",
+        "province": "استان تهران",
+        "name:en": "Tehran - Saveh Highway Police",
+        "description:en": "Tehran and Saveh Highway Police",
+        "city:en": "Islamshahr County",
+        "province:en": "Tehran",
+        "id": "MzozMGJlYzE5MjAzMDg",
+        "publicId": "MzozMGJlYzE5MjAzMDg",
+        "sourceId": "30bec1920308",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T20:04:15.466Z",
+        "updatedAt": "2026-09-27T20:04:15.466Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6088,
+    "total": 6089,
     "layerId": 3,
     "clustered": false,
     "simplified": false

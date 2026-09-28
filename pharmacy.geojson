@@ -87819,18 +87819,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          59.6238837,
-          36.2974809
+          51.15899585824977,
+          35.59021048677131
         ]
       },
       "properties": {
         "id": "Mjc6MjkzMQ",
-        "city": "مشهد",
+        "city": "شهرستان شهریار",
         "name:fa": "داروخانه دکتر فریفته",
-        "province": "استان خراسان رضوی",
+        "province": "استان تهران",
         "name:en": "Dr. Farifteh Pharmacy",
-        "city:en": "Mashhad",
-        "province:en": "Razavi Khorasan",
+        "city:en": "Shahriar County",
+        "province:en": "Tehran",
         "publicId": "Mjc6MjkzMQ",
         "sourceId": "2931",
         "layerId": 27,
@@ -87840,7 +87840,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:58:46.863Z",
-        "updatedAt": "2026-03-11T20:58:46.863Z"
+        "updatedAt": "2026-09-27T20:28:42.836Z"
       }
     },
     {
@@ -88239,18 +88239,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          59.6405053,
-          36.285278
+          51.16494900246224,
+          35.554385776408424
         ]
       },
       "properties": {
         "id": "Mjc6Mjk0NQ",
-        "city": "مشهد",
+        "city": "نسیم شهر",
         "name:fa": "داروخانه دکتر هادی بختیاری",
-        "province": "استان خراسان رضوی",
+        "province": "استان تهران",
         "name:en": "Dr. Hadi Bakhtiari Pharmacy",
-        "city:en": "Mashhad",
-        "province:en": "Razavi Khorasan",
+        "city:en": "Nasim Shahr",
+        "province:en": "Tehran",
         "publicId": "Mjc6Mjk0NQ",
         "sourceId": "2945",
         "layerId": 27,
@@ -88260,7 +88260,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:58:46.869Z",
-        "updatedAt": "2026-03-11T20:58:46.869Z"
+        "updatedAt": "2026-09-27T20:27:23.836Z"
       }
     },
     {

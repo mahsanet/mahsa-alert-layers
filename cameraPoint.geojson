@@ -596161,10 +596161,150 @@
         "createdAt": "2026-09-26T22:19:21.361Z",
         "updatedAt": "2026-09-26T22:19:21.361Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.168780997395515,
+          35.56334281741549
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1790515461,
+        "addressDescription": "",
+        "description": "دوربین نظارتی",
+        "city": "نسیم شهر",
+        "province": "استان تهران",
+        "name:en": "Surveillance Camera",
+        "description:en": "Surveillance camera",
+        "city:en": "Nasimshahr",
+        "province:en": "Tehran",
+        "id": "MjA6ZWRiNDhkYmQyNzVm",
+        "publicId": "MjA6ZWRiNDhkYmQyNzVm",
+        "sourceId": "edb48dbd275f",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T20:24:31.245Z",
+        "updatedAt": "2026-09-27T20:24:31.245Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.16497052759232,
+          35.557302462383404
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1790515070,
+        "addressDescription": "",
+        "description": "دوربین نظارتی",
+        "city": "نسیم شهر",
+        "province": "استان تهران",
+        "name:en": "Surveillance Camera",
+        "description:en": "Surveillance camera",
+        "city:en": "Nasim Shahr",
+        "province:en": "Tehran",
+        "id": "MjA6MTcxMTFhMjg4ODU3",
+        "publicId": "MjA6MTcxMTFhMjg4ODU3",
+        "sourceId": "17111a288857",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T20:25:37.961Z",
+        "updatedAt": "2026-09-27T20:25:42.380Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.16500277072191,
+          35.559591899099104
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1790515245,
+        "addressDescription": "",
+        "description": "دو عدد دوربین اسپیددام بلند و ثابت، مشرف به خیابان در تمام جهات.",
+        "city": "نسیم شهر",
+        "province": "استان تهران",
+        "name:en": "Surveillance Camera",
+        "description:en": "Two speed dome cameras, tall and fixed, overlooking the street in all directions.",
+        "city:en": "Nasim Shahr",
+        "province:en": "Tehran",
+        "id": "MjA6ZTI5YjM0MTY2MWVm",
+        "publicId": "MjA6ZTI5YjM0MTY2MWVm",
+        "sourceId": "e29b341661ef",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T20:26:16.114Z",
+        "updatedAt": "2026-09-27T20:26:16.114Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.15624234011054,
+          35.56478305146189
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های نظارتی",
+        "lastReport": "",
+        "date": 1790515362,
+        "addressDescription": "",
+        "description": "دو عدد دوربین اسپید دام بلند و چند عدد دوربین ثابت به جهات مختلف مشرف به خیابان‌ها",
+        "city": "نسیم شهر",
+        "province": "استان تهران",
+        "name:en": "Surveillance Cameras",
+        "description:en": "Two tall speed dome cameras and several fixed cameras pointing in various directions overlooking the streets.",
+        "city:en": "Nasim Shahr",
+        "province:en": "Tehran",
+        "id": "MjA6MDZjZDYwMDVmMzkx",
+        "publicId": "MjA6MDZjZDYwMDVmMzkx",
+        "sourceId": "06cd6005f391",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-27T20:27:59.998Z",
+        "updatedAt": "2026-09-27T20:28:07.951Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18617,
+    "total": 18621,
     "layerId": 20,
     "clustered": false,
     "simplified": false
