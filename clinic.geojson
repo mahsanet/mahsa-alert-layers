@@ -28743,36 +28743,6 @@
     },
     {
       "type": "Feature",
-      "id": 47931,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7373028,
-          35.9785608
-        ]
-      },
-      "properties": {
-        "id": "MjM6OTYw",
-        "city": "مهستان",
-        "name:fa": "درمانگاه بهبودستان",
-        "province": "استان البرز",
-        "name:en": "Behboudestan Clinic",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "publicId": "MjM6OTYw",
-        "sourceId": "960",
-        "layerId": 23,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:00.049Z",
-        "updatedAt": "2026-03-11T20:58:00.049Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 47932,
       "geometry": {
         "type": "Point",
@@ -87480,36 +87450,6 @@
     },
     {
       "type": "Feature",
-      "id": 49890,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7222328,
-          35.9812489
-        ]
-      },
-      "properties": {
-        "id": "MjM6MjkxOQ",
-        "city": "مهستان",
-        "name:fa": "درمانگاه شبانه روزی نیکان",
-        "province": "استان البرز",
-        "name:en": "Nikan 24-Hour Clinic",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "publicId": "MjM6MjkxOQ",
-        "sourceId": "2919",
-        "layerId": 23,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:00.736Z",
-        "updatedAt": "2026-03-11T20:58:00.736Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 49891,
       "geometry": {
         "type": "Point",
@@ -141742,8 +141682,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.7293245,
-          35.976948
+          50.72946762324909,
+          35.974699273337436
         ]
       },
       "properties": {
@@ -141763,7 +141703,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:58:01.421Z",
-        "updatedAt": "2026-03-11T20:58:01.421Z"
+        "updatedAt": "2026-09-28T09:35:06.673Z"
       }
     },
     {
@@ -161897,7 +161837,7 @@
     }
   ],
   "metadata": {
-    "total": 5396,
+    "total": 5394,
     "layerId": 23,
     "clustered": false,
     "simplified": false

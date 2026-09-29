@@ -98765,66 +98765,6 @@
     },
     {
       "type": "Feature",
-      "id": 63696,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.716572,
-          35.986561
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MzI5Ng",
-        "city": "مهستان",
-        "name:fa": "داروخانه دکتر اسدپور",
-        "province": "استان البرز",
-        "name:en": "Dr. Asadpour Pharmacy",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "publicId": "Mjc6MzI5Ng",
-        "sourceId": "3296",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.017Z",
-        "updatedAt": "2026-03-11T20:58:47.017Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 63697,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7308051,
-          35.9817275
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MzI5Nw",
-        "city": "مهستان",
-        "name:fa": "داروخانه دکتر شیما شهباززاده",
-        "province": "استان البرز",
-        "name:en": "Dr. Shima Shahbazzadeh Pharmacy",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "publicId": "Mjc6MzI5Nw",
-        "sourceId": "3297",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.018Z",
-        "updatedAt": "2026-03-11T20:58:47.018Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 63698,
       "geometry": {
         "type": "Point",
@@ -99263,36 +99203,6 @@
         "province:en": "Tehran",
         "publicId": "Mjc6MzMxMg",
         "sourceId": "3312",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.025Z",
-        "updatedAt": "2026-03-11T20:58:47.025Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 63713,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7290469,
-          35.976871
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MzMxMw",
-        "city": "مهستان",
-        "name:fa": "داروخانه شبانه روزی دكتر امین اسكافی",
-        "province": "استان البرز",
-        "name:en": "Dr. Amin Eskafi 24/7 Pharmacy",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "publicId": "Mjc6MzMxMw",
-        "sourceId": "3313",
         "layerId": 27,
         "type": "location",
         "status": "active",
@@ -468279,10 +468189,43 @@
         "createdAt": "2026-09-07T07:09:19.907Z",
         "updatedAt": "2026-09-07T07:09:19.907Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.741985873328446,
+          35.982720165856676
+        ]
+      },
+      "properties": {
+        "name:fa": "داروخانه ارکیده",
+        "description": "داروخانه ارکیده در بلوار ارکیده، فاز دو، بخش مرکزی ساوجبلاغ، مهستان",
+        "date": 1790554562,
+        "city": "مهستان",
+        "province": "استان البرز",
+        "name:en": "Orkideh Pharmacy",
+        "description:en": "Orkideh Pharmacy on Orkideh Boulevard, Phase 2, Central District of Savojbolagh, Mehestan",
+        "city:en": "Mehestan",
+        "province:en": "Alborz",
+        "id": "Mjc6NzRmOWU2YmExNGQ0",
+        "publicId": "Mjc6NzRmOWU2YmExNGQ0",
+        "sourceId": "74f9e6ba14d4",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-28T09:31:36.939Z",
+        "updatedAt": "2026-09-28T09:31:46.017Z"
+      }
     }
   ],
   "metadata": {
-    "total": 15619,
+    "total": 15617,
     "layerId": 27,
     "clustered": false,
     "simplified": false

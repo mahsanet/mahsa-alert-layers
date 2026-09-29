@@ -69329,8 +69329,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.7267107,
-          35.9770479
+          50.722286889669704,
+          35.979070067871874
         ]
       },
       "properties": {
@@ -69350,7 +69350,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:58:13.105Z",
-        "updatedAt": "2026-03-11T20:58:13.105Z"
+        "updatedAt": "2026-09-28T09:34:04.380Z"
       }
     },
     {
@@ -136917,36 +136917,6 @@
         "province:en": "Khuzestan",
         "publicId": "MzE6NDU2Nw",
         "sourceId": "4567",
-        "layerId": 31,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:14.038Z",
-        "updatedAt": "2026-03-11T20:58:14.038Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 56927,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7358597,
-          35.9787778
-        ]
-      },
-      "properties": {
-        "id": "MzE6NDU2OA",
-        "city": "مهستان",
-        "name:fa": "مرکز بهداشت شهر جدید مهستان",
-        "province": "استان البرز",
-        "name:en": "Mahsatan New Town Health Center",
-        "city:en": "Mahsatan",
-        "province:en": "Alborz",
-        "publicId": "MzE6NDU2OA",
-        "sourceId": "4568",
         "layerId": 31,
         "type": "location",
         "status": "active",
@@ -205932,6 +205902,39 @@
         "expirationDate": null,
         "createdAt": "2026-09-01T09:18:03.893Z",
         "updatedAt": "2026-09-01T09:18:03.893Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.736304465681314,
+          35.982042636657056
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه بهداشت فاز یک",
+        "description": "خانه بهداشت فاز یک",
+        "date": 1790554648,
+        "city": "مهستان",
+        "province": "استان البرز",
+        "name:en": "Phase 1 Health Center",
+        "description:en": "Phase 1 Health Center",
+        "city:en": "Mahestan",
+        "province:en": "Alborz",
+        "id": "MzE6ZDQyMGZlMzhjMDE5",
+        "publicId": "MzE6ZDQyMGZlMzhjMDE5",
+        "sourceId": "d420fe38c019",
+        "layerId": 31,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-28T09:43:04.447Z",
+        "updatedAt": "2026-09-28T09:43:04.447Z"
       }
     }
   ],

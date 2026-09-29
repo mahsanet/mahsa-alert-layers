@@ -76381,10 +76381,146 @@
         "createdAt": "2026-09-27T20:25:00.068Z",
         "updatedAt": "2026-09-27T20:25:00.068Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.23375968747803,
+          35.75952626403459
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه بسیج",
+        "unofficial_name:fa": "",
+        "description": "حوزه بسیج مسجد سید الشهدا",
+        "date": 1790575115,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "Basij Base of Sayyid al-Shohada Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTowZTVmY2M3NjRlZDE",
+        "publicId": "MTowZTVmY2M3NjRlZDE",
+        "sourceId": "0e5fcc764ed1",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-28T09:29:35.796Z",
+        "updatedAt": "2026-09-28T09:29:42.702Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.21620010584593,
+          35.75348050450113
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج مسجد علی ابن ابیطالب",
+        "date": 1790574986,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "Basij Base of Ali ibn Abi Talib Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTo5MDk3NDg3ZDIxODc",
+        "publicId": "MTo5MDk3NDg3ZDIxODc",
+        "sourceId": "9097487d2187",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-28T09:30:45.700Z",
+        "updatedAt": "2026-09-28T09:30:45.700Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.20567478239536,
+          35.76118978649039
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج مصطفی باقری در مسجد جامع پیامبر اعظم، شهرک شهید باقری",
+        "date": 1790574812,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "Mostafa Bagheri Basij Base at Payambar-e Azam Grand Mosque, Shahrak-e Shahid Bagheri",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTpkZDNmYmE0ZTIxYjc",
+        "publicId": "MTpkZDNmYmE0ZTIxYjc",
+        "sourceId": "dd3fba4e21b7",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-28T09:31:08.376Z",
+        "updatedAt": "2026-09-28T09:31:08.376Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.28944989293814,
+          35.75834966888674
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج قائم آل محمد",
+        "date": 1790574410,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "Ghaem Al-Mohammad Basij Base",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTo1NzU2NDU2M2QxYWI",
+        "publicId": "MTo1NzU2NDU2M2QxYWI",
+        "sourceId": "57564563d1ab",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-28T09:50:24.374Z",
+        "updatedAt": "2026-09-28T09:50:24.374Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2312,
+    "total": 2316,
     "layerId": 1,
     "clustered": false,
     "simplified": false

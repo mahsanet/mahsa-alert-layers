@@ -3689,36 +3689,6 @@
     },
     {
       "type": "Feature",
-      "id": 76147,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7240728,
-          35.973182
-        ]
-      },
-      "properties": {
-        "id": "MjY6MTI0",
-        "city": "مهستان",
-        "name:fa": "مرکز درمانی و جراحی آسمان",
-        "province": "استان البرز",
-        "name:en": "Aseman Medical and Surgical Center",
-        "city:en": "Mahsestan",
-        "province:en": "Alborz",
-        "publicId": "MjY6MTI0",
-        "sourceId": "124",
-        "layerId": 26,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:59:16.705Z",
-        "updatedAt": "2026-03-11T20:59:16.705Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 76148,
       "geometry": {
         "type": "Point",
@@ -18535,36 +18505,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-11T20:59:16.929Z",
         "updatedAt": "2026-03-11T20:59:16.929Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 76642,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7276179,
-          35.974531
-        ]
-      },
-      "properties": {
-        "id": "MjY6NjE5",
-        "city": "مهستان",
-        "name:fa": "خدمات جامع سلامت حضرت ولیعصر",
-        "province": "استان البرز",
-        "name:en": "Hazrat Vali-e Asr Comprehensive Health Services",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "publicId": "MjY6NjE5",
-        "sourceId": "619",
-        "layerId": 26,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:59:16.930Z",
-        "updatedAt": "2026-03-11T20:59:16.930Z"
       }
     },
     {
@@ -164576,7 +164516,7 @@
     }
   ],
   "metadata": {
-    "total": 5486,
+    "total": 5484,
     "layerId": 26,
     "clustered": false,
     "simplified": false

@@ -52314,37 +52314,6 @@
     },
     {
       "type": "Feature",
-      "id": 85787,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7349679,
-          35.981772
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjU5Nw",
-        "city": "مهستان",
-        "osm_id": "",
-        "name:fa": "پلیس راهنمایی رانندگی",
-        "province": "استان البرز",
-        "name:en": "Traffic Police",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "publicId": "Mzo2MjU5Nw",
-        "sourceId": "62597",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.436Z",
-        "updatedAt": "2026-03-13T04:41:06.436Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85788,
       "geometry": {
         "type": "Point",
@@ -52380,8 +52349,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.7464062,
-          35.9827205
+          50.746856419407976,
+          35.986699688854486
         ]
       },
       "properties": {
@@ -52402,7 +52371,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.437Z",
-        "updatedAt": "2026-03-13T04:41:06.437Z"
+        "updatedAt": "2026-09-28T09:44:26.791Z"
       }
     },
     {
@@ -118323,37 +118292,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.488Z",
         "updatedAt": "2026-03-13T04:41:07.488Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 88113,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7355878,
-          35.9790647
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NjAxMA",
-        "city": "مهستان",
-        "osm_id": "n10778267659",
-        "name:fa": "ایستگاه راهور",
-        "province": "استان البرز",
-        "name:en": "Rahvar Traffic Station",
-        "city:en": "Mehestan",
-        "province:en": "Alborz",
-        "publicId": "Mzo2NjAxMA",
-        "sourceId": "66010",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.489Z",
-        "updatedAt": "2026-03-13T04:41:07.489Z"
       }
     },
     {
@@ -190345,7 +190283,7 @@
     }
   ],
   "metadata": {
-    "total": 6089,
+    "total": 6087,
     "layerId": 3,
     "clustered": false,
     "simplified": false
