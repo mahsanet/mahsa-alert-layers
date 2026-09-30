@@ -7851,10 +7851,78 @@
         "createdAt": "2026-09-27T20:37:25.121Z",
         "updatedAt": "2026-09-27T20:37:25.121Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.034960225224495,
+          35.4689877538687
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند ضدهوایی",
+        "unofficial_name:fa": "",
+        "description": "پدافند ضد هوایی جدید مستقر شده",
+        "date": 1790634372,
+        "city": "رباط کریم",
+        "province": "استان تهران",
+        "name:en": "Anti-Aircraft Defense",
+        "description:en": "Newly deployed anti-aircraft defense.",
+        "city:en": "Robat Karim",
+        "province:en": "Tehran",
+        "id": "ODpkZGQzZThiMzMyOGY",
+        "publicId": "ODpkZGQzZThiMzMyOGY",
+        "sourceId": "ddd3e8b3328f",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-29T08:13:33.075Z",
+        "updatedAt": "2026-09-29T08:13:33.075Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.84675303363454,
+          32.344619492451756
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی",
+        "unofficial_name:fa": "",
+        "description": "پدافند هوایی",
+        "date": 1790426550,
+        "city": "شهركرد",
+        "province": "استان چهارمحال و بختیاری",
+        "name:en": "Air Defense",
+        "description:en": "Air defense",
+        "city:en": "Shahrekord",
+        "province:en": "Chaharmahal and Bakhtiari",
+        "id": "ODo5MzRlNDFmNzIxYzY",
+        "publicId": "ODo5MzRlNDFmNzIxYzY",
+        "sourceId": "934e41f721c6",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-29T08:15:26.683Z",
+        "updatedAt": "2026-09-29T08:15:34.538Z"
+      }
     }
   ],
   "metadata": {
-    "total": 114,
+    "total": 116,
     "layerId": 8,
     "clustered": false,
     "simplified": false

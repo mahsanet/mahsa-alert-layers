@@ -5094,8 +5094,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.3233,
-          35.661
+          51.32375509843615,
+          35.661231462743174
         ]
       },
       "properties": {
@@ -5118,7 +5118,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:42:19.631Z",
-        "updatedAt": "2026-07-21T21:26:30.339Z"
+        "updatedAt": "2026-09-29T08:31:46.755Z"
       }
     },
     {
@@ -31149,10 +31149,46 @@
         "createdAt": "2026-09-24T11:58:59.571Z",
         "updatedAt": "2026-09-24T11:58:59.571Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.32447987794876,
+          35.65845238156723
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "پایگاه بسیج مسلم ابن عقیل",
+        "unofficial_name:fa": "",
+        "date": 1772483400,
+        "geolocates": "",
+        "description": "پایگاه بسیج مسلم ابن عقیل - انبار مهمات نظامی - مورد حمله قرار گرفته در جنگ اسفند ۱۴۰۴",
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "name:en": "Moslem Ibn Aqil Basij Base",
+        "description:en": "Moslem Ibn Aqil Basij Base - Military ammunition depot - Attacked in the Esfand 1404 war",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzI6NGIzN2I0OGRlM2Iy",
+        "publicId": "MzI6NGIzN2I0OGRlM2Iy",
+        "sourceId": "4b37b48de3b2",
+        "layerId": 32,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-29T08:17:22.004Z",
+        "updatedAt": "2026-09-29T08:17:22.004Z"
+      }
     }
   ],
   "metadata": {
-    "total": 902,
+    "total": 903,
     "layerId": 32,
     "clustered": false,
     "simplified": false

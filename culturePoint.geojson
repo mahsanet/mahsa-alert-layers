@@ -92434,10 +92434,146 @@
         "createdAt": "2026-09-27T19:46:28.590Z",
         "updatedAt": "2026-09-27T19:46:28.590Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95149,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.50308001319462,
+              32.34794884954799
+            ],
+            [
+              51.50321628870523,
+              32.34854886505198
+            ],
+            [
+              51.50404997418363,
+              32.3484269660612
+            ],
+            [
+              51.50394095377558,
+              32.34768473310962
+            ],
+            [
+              51.50358503420503,
+              32.3477443286813
+            ],
+            [
+              51.503613892549396,
+              32.34786216526388
+            ],
+            [
+              51.50308001319462,
+              32.34794884954799
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره آموزش و پرورش مبارکه",
+        "description": "",
+        "date": "",
+        "city": "مباركه",
+        "province": "استان اصفهان",
+        "name:en": "Mobarakeh Department of Education",
+        "city:en": "Mobarakeh",
+        "province:en": "Isfahan",
+        "id": "MTc6MzlhODlhNDc4NDFi",
+        "publicId": "MTc6MzlhODlhNDc4NDFi",
+        "sourceId": "39a89a47841b",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-29T08:21:17.173Z",
+        "updatedAt": "2026-09-29T08:21:17.173Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95150,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.50407821643017,
+              32.3484221413685
+            ],
+            [
+              51.50386125810451,
+              32.34732394294055
+            ],
+            [
+              51.50418814342004,
+              32.34748503573353
+            ],
+            [
+              51.5045048135695,
+              32.34768927796935
+            ],
+            [
+              51.50460015511919,
+              32.34778996059154
+            ],
+            [
+              51.50470769986708,
+              32.34794622236909
+            ],
+            [
+              51.504744535163695,
+              32.348057595522604
+            ],
+            [
+              51.50472708686493,
+              32.34814112529796
+            ],
+            [
+              51.50461851967677,
+              32.348336027806354
+            ],
+            [
+              51.50432577600665,
+              32.34841464382575
+            ],
+            [
+              51.50407821643017,
+              32.3484221413685
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری مبارکه",
+        "description": "",
+        "date": "",
+        "city": "مباركه",
+        "province": "استان اصفهان",
+        "name:en": "Mobarakeh Municipality",
+        "city:en": "Mobarakeh",
+        "province:en": "Isfahan",
+        "id": "MTc6ZGY4ODFmMWU3YWVi",
+        "publicId": "MTc6ZGY4ODFmMWU3YWVi",
+        "sourceId": "df881f1e7aeb",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-29T08:21:48.336Z",
+        "updatedAt": "2026-09-29T08:21:48.336Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2410,
+    "total": 2412,
     "layerId": 17,
     "clustered": false,
     "simplified": false

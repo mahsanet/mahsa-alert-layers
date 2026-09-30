@@ -176465,10 +176465,42 @@
         "createdAt": "2026-09-27T19:57:50.977Z",
         "updatedAt": "2026-09-27T19:58:03.599Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.170758333977574,
+          35.5678697976294
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "نسیم شهر",
+        "province": "استان تهران",
+        "name:en": "Mosque",
+        "city:en": "Nasim Shahr",
+        "province:en": "Tehran",
+        "id": "NDozODllYzYzZjg2NGE",
+        "publicId": "NDozODllYzYzZjg2NGE",
+        "sourceId": "389ec63f864a",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-29T08:28:32.317Z",
+        "updatedAt": "2026-09-29T08:28:32.317Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5677,
+    "total": 5678,
     "layerId": 4,
     "clustered": false,
     "simplified": false

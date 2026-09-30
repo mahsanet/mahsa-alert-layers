@@ -66020,18 +66020,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.159000179974186,
-          35.59023016033244
+          51.164946106216945,
+          35.585227844293925
         ]
       },
       "properties": {
         "id": "Mzo2MzMzMQ",
-        "city": "شهرستان شهریار",
+        "city": "شهرستان بهارستان",
         "osm_id": "",
         "name:fa": "جایگاه پلیس راهور",
         "province": "استان تهران",
         "name:en": "Traffic Police Post",
-        "city:en": "Shahriar",
+        "city:en": "Baharestan",
         "province:en": "Tehran",
         "publicId": "Mzo2MzMzMQ",
         "sourceId": "63331",
@@ -66042,7 +66042,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.621Z",
-        "updatedAt": "2026-09-27T20:29:15.435Z"
+        "updatedAt": "2026-09-29T08:11:22.647Z"
       }
     },
     {
@@ -190280,10 +190280,62 @@
         "createdAt": "2026-09-27T20:04:15.466Z",
         "updatedAt": "2026-09-27T20:04:15.466Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95141,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.158844992739546,
+              35.59020473819936
+            ],
+            [
+              51.1588874328655,
+              35.590296637234175
+            ],
+            [
+              51.159121347049876,
+              35.59022600741744
+            ],
+            [
+              51.15907643947418,
+              35.590129292624056
+            ],
+            [
+              51.158844992739546,
+              35.59020473819936
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "محل استقرار پلیس",
+        "description": "",
+        "date": "",
+        "city": "شهرستان شهریار",
+        "province": "استان تهران",
+        "name:en": "Police Deployment Location",
+        "city:en": "Shahriar County",
+        "province:en": "Tehran",
+        "id": "Mzo4NjQzMjU5YWYzZTY",
+        "publicId": "Mzo4NjQzMjU5YWYzZTY",
+        "sourceId": "8643259af3e6",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-09-29T08:11:07.555Z",
+        "updatedAt": "2026-09-29T08:11:07.555Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6087,
+    "total": 6088,
     "layerId": 3,
     "clustered": false,
     "simplified": false

@@ -153999,36 +153999,6 @@
     },
     {
       "type": "Feature",
-      "id": 57497,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1967558,
-          35.5724235
-        ]
-      },
-      "properties": {
-        "id": "MzE6NTEzOA",
-        "city": "شهرستان اسلامشهر",
-        "name:fa": "مرکز بهداشت و درمان چیچکلو",
-        "province": "استان تهران",
-        "name:en": "Chichaklu Health Center",
-        "city:en": "Islamshahr County",
-        "province:en": "Tehran",
-        "publicId": "MzE6NTEzOA",
-        "sourceId": "5138",
-        "layerId": 31,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:14.265Z",
-        "updatedAt": "2026-03-11T20:58:14.265Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 57498,
       "geometry": {
         "type": "Point",
@@ -205939,7 +205909,7 @@
     }
   ],
   "metadata": {
-    "total": 6864,
+    "total": 6863,
     "layerId": 31,
     "clustered": false,
     "simplified": false

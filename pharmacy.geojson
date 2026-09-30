@@ -87815,36 +87815,6 @@
     },
     {
       "type": "Feature",
-      "id": 63331,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.15899585824977,
-          35.59021048677131
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MjkzMQ",
-        "city": "شهرستان شهریار",
-        "name:fa": "داروخانه دکتر فریفته",
-        "province": "استان تهران",
-        "name:en": "Dr. Farifteh Pharmacy",
-        "city:en": "Shahriar County",
-        "province:en": "Tehran",
-        "publicId": "Mjc6MjkzMQ",
-        "sourceId": "2931",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:46.863Z",
-        "updatedAt": "2026-09-27T20:28:42.836Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 63332,
       "geometry": {
         "type": "Point",
@@ -196055,66 +196025,6 @@
     },
     {
       "type": "Feature",
-      "id": 66948,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.170737,
-          35.568083
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NjU0OA",
-        "city": "نسیم شهر",
-        "name:fa": "داروخانه دکتر رضوان شاه پروری",
-        "province": "استان تهران",
-        "name:en": "Dr. Rezvan Shahparvari Pharmacy",
-        "city:en": "Nasimshahr",
-        "province:en": "Tehran",
-        "publicId": "Mjc6NjU0OA",
-        "sourceId": "6548",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:48.411Z",
-        "updatedAt": "2026-03-11T20:58:48.411Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 66949,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.172809,
-          35.56326
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NjU0OQ",
-        "city": "نسیم شهر",
-        "name:fa": "داروخانه شبانهروزی کرمانیان",
-        "province": "استان تهران",
-        "name:en": "Kermanian 24-Hour Pharmacy",
-        "city:en": "Nasimshahr",
-        "province:en": "Tehran",
-        "publicId": "Mjc6NjU0OQ",
-        "sourceId": "6549",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:48.412Z",
-        "updatedAt": "2026-03-11T20:58:48.412Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 66950,
       "geometry": {
         "type": "Point",
@@ -196141,36 +196051,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-11T20:58:48.412Z",
         "updatedAt": "2026-03-11T20:58:48.412Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 66951,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.1759083,
-          35.5638099
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NjU1MQ",
-        "city": "شهرستان بهارستان",
-        "name:fa": "داروخانه دکتر سامان قریشی",
-        "province": "استان تهران",
-        "name:en": "Dr. Saman Ghoreshi Pharmacy",
-        "city:en": "Baharestan County",
-        "province:en": "Tehran",
-        "publicId": "Mjc6NjU1MQ",
-        "sourceId": "6551",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:48.413Z",
-        "updatedAt": "2026-03-11T20:58:48.413Z"
       }
     },
     {
@@ -384419,36 +384299,6 @@
     },
     {
       "type": "Feature",
-      "id": 73232,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.9999704,
-          30.4009507
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MTI4MzI",
-        "city": "رفسنجان",
-        "name:fa": "داروخانه سینا",
-        "province": "استان کرمان",
-        "name:en": "Sina Pharmacy",
-        "city:en": "Rafsanjan",
-        "province:en": "Kerman",
-        "publicId": "Mjc6MTI4MzI",
-        "sourceId": "12832",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:51.026Z",
-        "updatedAt": "2026-03-11T20:58:51.026Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 73233,
       "geometry": {
         "type": "Point",
@@ -468225,7 +468075,7 @@
     }
   ],
   "metadata": {
-    "total": 15617,
+    "total": 15612,
     "layerId": 27,
     "clustered": false,
     "simplified": false

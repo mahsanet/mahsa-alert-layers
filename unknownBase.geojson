@@ -75387,10 +75387,121 @@
         "createdAt": "2026-09-27T20:03:54.820Z",
         "updatedAt": "2026-09-27T20:03:54.820Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8876815661788,
+          26.551431928104336
+        ]
+      },
+      "properties": {
+        "name:fa": "محل نگهداری موشک و پهپاد بندر لنگه",
+        "unofficial_name:fa": "",
+        "description": "نگهداری موشک، پهپاد و موتور جنگنده در بلوار امام خمینی، بندر لنگه",
+        "date": 1790595921,
+        "city": "بندرلنگه",
+        "province": "استان هرمزگان",
+        "name:en": "Bandar Lengeh Missile and Drone Storage Facility",
+        "description:en": "Storage of missiles, drones, and fighter jet engines on Imam Khomeini Boulevard, Bandar Lengeh",
+        "city:en": "Bandar Lengeh",
+        "province:en": "Hormozgan",
+        "id": "MTI6ZDMwZGUwNWQxMjli",
+        "publicId": "MTI6ZDMwZGUwNWQxMjli",
+        "sourceId": "d30de05d129b",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-29T08:14:34.928Z",
+        "updatedAt": "2026-09-29T08:14:34.928Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95156,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.12008768236018,
+              35.37153501635689
+            ],
+            [
+              51.115462739029454,
+              35.358252563227296
+            ],
+            [
+              51.12518182284009,
+              35.35081780852633
+            ],
+            [
+              51.138788540173124,
+              35.34737353578295
+            ],
+            [
+              51.15078658156588,
+              35.34141405037211
+            ],
+            [
+              51.15454015876068,
+              35.34414781385222
+            ],
+            [
+              51.160170524553536,
+              35.35087247833792
+            ],
+            [
+              51.15534449673149,
+              35.357487252434694
+            ],
+            [
+              51.145156215773056,
+              35.364757412101056
+            ],
+            [
+              51.13329223070781,
+              35.371808294914786
+            ],
+            [
+              51.12008768236018,
+              35.37153501635689
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "محدوده تقریبی ورودی تونل دارای آسناسور حتی برای خودرو نظامی و دارای استتار محیطی",
+        "date": "",
+        "city": "شهرستان ری",
+        "province": "استان تهران",
+        "description:en": "Approximate area of the tunnel entrance, equipped with an elevator even for military vehicles and featuring environmental camouflage.",
+        "city:en": "Ray County",
+        "province:en": "Tehran",
+        "id": "MTI6YWU4ZTU1NmM1OWQ4",
+        "publicId": "MTI6YWU4ZTU1NmM1OWQ4",
+        "sourceId": "ae8e556c59d8",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-09-29T08:30:22.166Z",
+        "updatedAt": "2026-09-29T08:30:54.803Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1059,
+    "total": 1061,
     "layerId": 12,
     "clustered": false,
     "simplified": false
