@@ -55871,6 +55871,63 @@
     },
     {
       "type": "Feature",
+      "id": 4185,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.37657758459,
+              31.8791041725
+            ],
+            [
+              54.37657624349,
+              31.87908367377
+            ],
+            [
+              54.37682837114,
+              31.87880238519
+            ],
+            [
+              54.37703624234,
+              31.87894246018
+            ],
+            [
+              54.37677338585,
+              31.87923513649
+            ],
+            [
+              54.37657758459,
+              31.8791041725
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "استقرار نیروهای سرکوب شامل دو خودروی سرکوب، ۴۰ دستگاه موتور، تجهیزات ضدشورش و حدود ۱۰۰ نیرو در کوچه شهدای مکتب امام.",
+        "date": 1790886600,
+        "city": "عباس آباد",
+        "province": "استان مازندران",
+        "id": "MTI6MTYzMw",
+        "description:en": "Deployment of repressive forces including two suppression vehicles, 40 motorcycles, anti-riot equipment, and about 100 personnel in Shohada-ye Maktab-e Imam Alley.",
+        "city:en": "Abbasabad",
+        "province:en": "Mazandaran",
+        "publicId": "MTI6MTYzMw",
+        "sourceId": "1633",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:52:52.490Z",
+        "updatedAt": "2026-10-01T23:00:48.364Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 90185,
       "geometry": {
         "type": "Point",
@@ -75501,7 +75558,7 @@
     }
   ],
   "metadata": {
-    "total": 1061,
+    "total": 1062,
     "layerId": 12,
     "clustered": false,
     "simplified": false

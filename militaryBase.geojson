@@ -45130,10 +45130,45 @@
         "createdAt": "2026-09-27T20:35:34.012Z",
         "updatedAt": "2026-09-27T20:35:34.012Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.82361399754882,
+          35.739211805491195
+        ]
+      },
+      "properties": {
+        "name:fa": "گردان امام علی پردیس",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "گردان امام علی، تابلوی آن بعد از جنگ ۴۱ روزه کنده شده است.",
+        "date": 1790879012,
+        "city": "پردیس",
+        "province": "استان تهران",
+        "name:en": "Imam Ali Battalion of Pardis",
+        "description:en": "Imam Ali Battalion, its sign was removed after the 41-day war.",
+        "city:en": "Pardis",
+        "province:en": "Tehran",
+        "id": "MTE6ZmJmZWM0M2UxNjJk",
+        "publicId": "MTE6ZmJmZWM0M2UxNjJk",
+        "sourceId": "fbfec43e162d",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-01T22:57:52.548Z",
+        "updatedAt": "2026-10-01T22:57:52.548Z"
+      }
     }
   ],
   "metadata": {
-    "total": 394,
+    "total": 395,
     "layerId": 11,
     "clustered": false,
     "simplified": false

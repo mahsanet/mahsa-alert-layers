@@ -8334,60 +8334,6 @@
     },
     {
       "type": "Feature",
-      "id": 4185,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              54.37657758459,
-              31.8791041725
-            ],
-            [
-              54.37657624349,
-              31.87908367377
-            ],
-            [
-              54.37682837114,
-              31.87880238519
-            ],
-            [
-              54.37703624234,
-              31.87894246018
-            ],
-            [
-              54.37677338585,
-              31.87923513649
-            ],
-            [
-              54.37657758459,
-              31.8791041725
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "MToxNjMz",
-        "city": "یزد",
-        "osm_id": "w675843402",
-        "province": "استان یزد",
-        "unofficial_name:fa": "بسیج",
-        "city:en": "Yazd",
-        "province:en": "Yazd",
-        "publicId": "MToxNjMz",
-        "sourceId": "1633",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:52.490Z",
-        "updatedAt": "2026-03-11T20:52:52.490Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 4186,
       "geometry": {
         "type": "Polygon",
@@ -76517,10 +76463,78 @@
         "createdAt": "2026-09-28T09:50:24.374Z",
         "updatedAt": "2026-09-28T09:50:24.374Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.83420654386282,
+          35.739513061974634
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج فعال و مسلح و مسجد فعال در زمینه تهدید و ارعاب معترضین",
+        "date": 1790879440,
+        "city": "پردیس",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "An active and armed Basij base and an active mosque involved in threatening and intimidating protesters",
+        "city:en": "Pardis",
+        "province:en": "Tehran",
+        "id": "MTozNWNmMWM1MzUxMzM",
+        "publicId": "MTozNWNmMWM1MzUxMzM",
+        "sourceId": "35cf1c535133",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-01T22:58:22.962Z",
+        "updatedAt": "2026-10-01T22:58:22.962Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37133642216358,
+          35.66054086211038
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج ",
+        "unofficial_name:fa": "",
+        "description": "پایگاه تجمع نیروهای بسیج در مواقع ضروری در مسجد",
+        "date": 1790862652,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "A gathering base for Basij forces during emergencies in the mosque.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTozZjM4MDRlM2U5MDY",
+        "publicId": "MTozZjM4MDRlM2U5MDY",
+        "sourceId": "3f3804e3e906",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-01T23:04:38.876Z",
+        "updatedAt": "2026-10-01T23:04:49.258Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2316,
+    "total": 2317,
     "layerId": 1,
     "clustered": false,
     "simplified": false

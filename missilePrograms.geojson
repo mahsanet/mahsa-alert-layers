@@ -17917,44 +17917,10 @@
         "createdAt": "2026-09-22T08:15:53.779Z",
         "updatedAt": "2026-09-22T08:17:55.177Z"
       }
-    },
-    {
-      "type": "Feature",
-      "id": 94982,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.430527213960886,
-          35.73649649970794
-        ]
-      },
-      "properties": {
-        "name:fa": "شرکت کاوشکام آسیا",
-        "description": "شرکت کاوشکام آسیا فعال در زمینه تولید تجهیزات نظامی رادیویی و ارتباطی برای پهپاد و برنامه موشکی. این شرکت پوشش تجاری برند وایزر را جهت ساخت ماژول‌های ردیاب خودرو استفاده می‌کند. نیروهای سپاه پاسداران جهت انتقال تجهیزات به سایت‌های پهپادی و موشکی به این مکان تردد دارند.",
-        "date": 1789899707,
-        "city": "تهران",
-        "province": "استان تهران",
-        "sources": "",
-        "name:en": "Kavoshkam Asia Company",
-        "description:en": "Kavoshkam Asia Company is active in the field of producing military radio and communication equipment for drones and missile programs. This company uses the commercial cover of the Wizer brand to manufacture vehicle tracking modules. Islamic Revolutionary Guard Corps (IRGC) forces frequent this location to transfer equipment to drone and missile sites.",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "id": "Nzo2YTUzZTg3OWQ1ZDM",
-        "publicId": "Nzo2YTUzZTg3OWQ1ZDM",
-        "sourceId": "6a53e879d5d3",
-        "layerId": 7,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-09-22T08:25:32.588Z",
-        "updatedAt": "2026-09-22T08:25:32.588Z"
-      }
     }
   ],
   "metadata": {
-    "total": 183,
+    "total": 182,
     "layerId": 7,
     "clustered": false,
     "simplified": false

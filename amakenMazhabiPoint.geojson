@@ -32464,8 +32464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.3713848,
-          35.6605889
+          51.37136243502485,
+          35.660435201782064
         ]
       },
       "properties": {
@@ -32486,7 +32486,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:53:48.038Z",
-        "updatedAt": "2026-03-11T20:53:48.038Z"
+        "updatedAt": "2026-10-01T23:04:59.311Z"
       }
     },
     {
@@ -176497,10 +176497,75 @@
         "createdAt": "2026-09-29T08:28:32.317Z",
         "updatedAt": "2026-09-29T08:28:32.317Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.83402094031382,
+          35.73951422682454
+        ]
+      },
+      "properties": {
+        "name:fa": "هیئت بیت الکریم",
+        "description": "",
+        "date": "",
+        "city": "پردیس",
+        "province": "استان تهران",
+        "name:en": "Heyat Beyt ol-Karim",
+        "city:en": "Pardis",
+        "province:en": "Tehran",
+        "id": "NDozMjM4MGEyNmE4N2Y",
+        "publicId": "NDozMjM4MGEyNmE4N2Y",
+        "sourceId": "32380a26a87f",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-01T22:58:46.983Z",
+        "updatedAt": "2026-10-01T22:58:46.983Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.02505878089633,
+          35.65578382996192
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه علی",
+        "description": "حسینیه علی",
+        "date": 1790878415,
+        "city": "شهریار",
+        "province": "استان تهران",
+        "name:en": "Ali Hosseiniyeh",
+        "description:en": "Ali Hosseiniyeh",
+        "city:en": "Shahriar",
+        "province:en": "Tehran",
+        "id": "NDo1MmQ3ZTJjMWI1YWM",
+        "publicId": "NDo1MmQ3ZTJjMWI1YWM",
+        "sourceId": "52d7e2c1b5ac",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-01T23:08:46.153Z",
+        "updatedAt": "2026-10-01T23:08:50.336Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5678,
+    "total": 5680,
     "layerId": 4,
     "clustered": false,
     "simplified": false
