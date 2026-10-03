@@ -25460,7 +25460,7 @@
         "name:fa": "ایست بازرسی",
         "city": "مشهد",
         "province": "استان خراسان رضوی",
-        "date": 1790446483,
+        "date": 1790886600,
         "description": "ایست بازرسی نیروهای بسیج",
         "sources": "",
         "name:en": "Checkpoint",
@@ -25477,7 +25477,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-09-26T21:55:24.500Z",
-        "updatedAt": "2026-09-26T21:55:24.500Z"
+        "updatedAt": "2026-10-02T07:27:11.433Z"
       }
     },
     {
@@ -26196,103 +26196,6 @@
     },
     {
       "type": "Feature",
-      "id": 95164,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              51.521273,
-              32.912116
-            ],
-            [
-              51.535153,
-              32.828436
-            ],
-            [
-              51.562431,
-              32.832129
-            ],
-            [
-              51.60518,
-              32.821052
-            ],
-            [
-              51.586239,
-              32.856997
-            ],
-            [
-              51.608652,
-              32.865145
-            ],
-            [
-              51.5955,
-              32.875591
-            ],
-            [
-              51.57986,
-              32.865816
-            ],
-            [
-              51.563284,
-              32.894186
-            ],
-            [
-              51.567301,
-              32.904693
-            ],
-            [
-              51.557696,
-              32.895418
-            ],
-            [
-              51.547963,
-              32.904974
-            ],
-            [
-              51.549894,
-              32.899396
-            ],
-            [
-              51.535203,
-              32.89507
-            ],
-            [
-              51.532575,
-              32.906874
-            ],
-            [
-              51.521273,
-              32.912116
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "گزارش میدانی",
-        "description": "فعالیت کوتاه پدافند هوایی در شاهین‌شهر",
-        "date": 1790893014,
-        "city": "شاهین شهر",
-        "province": "اصفهان",
-        "name:en": "Field Report",
-        "description:en": "Brief air defense activity in Shahin Shahr",
-        "city:en": "Shahin Shahr",
-        "province:en": "Isfahan",
-        "id": "MzY6N2NjNjhhOTE2YTBm",
-        "publicId": "MzY6N2NjNjhhOTE2YTBm",
-        "sourceId": "7cc68a916a0f",
-        "layerId": 36,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": "2026-10-02T22:16:58.736Z",
-        "createdAt": "2026-10-01T22:16:58.765Z",
-        "updatedAt": "2026-10-01T22:16:58.765Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 95165,
       "geometry": {
         "type": "Point",
@@ -26630,10 +26533,112 @@
         "createdAt": "2026-10-01T23:07:22.103Z",
         "updatedAt": "2026-10-01T23:07:22.103Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.362524665892124,
+          35.68694643325583
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1790904279,
+        "description": "ایست بازرسی و نیروی سرکوبگر",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint and repressive forces",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6YmM0OWQzMzdhZTk1",
+        "publicId": "MzY6YmM0OWQzMzdhZTk1",
+        "sourceId": "bc49d337ae95",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-02T07:23:03.239Z",
+        "updatedAt": "2026-10-02T07:23:03.239Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.373838894069195,
+          35.681447759372816
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای حکومتی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1790904218,
+        "description": "تجمع حکومتی و نیروهای سرکوبگر",
+        "sources": "",
+        "name:en": "Gathering of Government Forces",
+        "description:en": "Pro-government gathering and repressive forces",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MzY6NWFjMzU2NGE1NDg4",
+        "publicId": "MzY6NWFjMzU2NGE1NDg4",
+        "sourceId": "5ac3564a5488",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-02T07:24:24.830Z",
+        "updatedAt": "2026-10-02T07:24:24.830Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.86681053042412,
+          35.86734832813778
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای حکومتی",
+        "city": "کمال شهر",
+        "province": "استان البرز",
+        "date": 1790812227,
+        "description": "تجمعات شبانه نیروهای وابسته به حکومت در محدوده میدان شهید بهشتی کمالشهر",
+        "sources": "",
+        "name:en": "Gathering of Government Forces",
+        "description:en": "Nighttime gatherings of government-affiliated forces around Shahid Beheshti Square in Kamalshahr.",
+        "city:en": "Kamalshahr",
+        "province:en": "Alborz",
+        "id": "MzY6ZDY4NTM4N2NkYWFk",
+        "publicId": "MzY6ZDY4NTM4N2NkYWFk",
+        "sourceId": "d685387cdaad",
+        "layerId": 36,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-02T07:26:09.808Z",
+        "updatedAt": "2026-10-02T07:26:09.808Z"
+      }
     }
   ],
   "metadata": {
-    "total": 798,
+    "total": 800,
     "layerId": 36,
     "clustered": false,
     "simplified": false

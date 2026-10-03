@@ -76531,10 +76531,44 @@
         "createdAt": "2026-10-01T23:04:38.876Z",
         "updatedAt": "2026-10-01T23:04:49.258Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31509751081467,
+          35.747731318189096
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "نیروهای بسیج و سپاه در این محل اسکان دارند. یک پایگاه موقت در کنار مسجد در سمت غرب قرار دارد و مسجد نیز محل پایگاه دیگری از بسیج است.",
+        "date": 1790898416,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "Basij and IRGC forces are stationed at this location. A temporary base is located next to the mosque on the west side, and the mosque itself is also the location of another Basij base.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTpmZTI1YTdmMzI0MDU",
+        "publicId": "MTpmZTI1YTdmMzI0MDU",
+        "sourceId": "fe25a7f32405",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-02T07:23:47.616Z",
+        "updatedAt": "2026-10-02T07:23:47.616Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2317,
+    "total": 2318,
     "layerId": 1,
     "clustered": false,
     "simplified": false

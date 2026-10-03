@@ -177043,10 +177043,12 @@
       },
       "properties": {
         "name:fa": "کلانتری کمالشهر",
-        "description": "",
+        "description": "این کلانتری در ۱۸ و ۱۹ دی به شدت مردم را سرکوب کرد و کلی لباس شخصی را مسلح کرده بود",
+        "date": "",
         "city": "کمال شهر",
         "province": "استان البرز",
         "name:en": "Kamalshahr Police Station",
+        "description:en": "This police station severely suppressed the people on January 8 and 9 and had armed numerous plainclothes agents.",
         "city:en": "Kamalshahr",
         "province:en": "Alborz",
         "id": "MzpkNWNhMDg1YjZjYWE",
@@ -177059,7 +177061,7 @@
         "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-03-16T22:44:21.185Z",
-        "updatedAt": "2026-03-26T02:08:27.046Z"
+        "updatedAt": "2026-10-02T07:25:41.518Z"
       }
     },
     {
