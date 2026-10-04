@@ -15927,8 +15927,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.506976,
-          33.045575
+          51.50730135913287,
+          33.04563401759118
         ]
       },
       "properties": {
@@ -15953,7 +15953,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-07-20T03:20:57.986Z",
-        "updatedAt": "2026-07-28T01:15:23.118Z"
+        "updatedAt": "2026-10-03T10:54:32.634Z"
       }
     },
     {
@@ -17917,10 +17917,44 @@
         "createdAt": "2026-09-22T08:15:53.779Z",
         "updatedAt": "2026-09-22T08:17:55.177Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.51058518886566,
+          36.06884918158613
+        ]
+      },
+      "properties": {
+        "name:fa": "سایت و پایگاه موشکی",
+        "description": "محل پرتاب و لانچر موشک در زیر کوه، دارای برج دیده‌بانی و سیم خاردار.",
+        "date": 1790857854,
+        "city": "شهرستان بیجار",
+        "province": "استان کردستان",
+        "sources": "",
+        "name:en": "Missile Site and Base",
+        "description:en": "Missile launch site and launcher under the mountain, featuring a watchtower and barbed wire.",
+        "city:en": "Bijar County",
+        "province:en": "Kurdistan",
+        "id": "NzpjMzg0MzI2NzQxMDI",
+        "publicId": "NzpjMzg0MzI2NzQxMDI",
+        "sourceId": "c38432674102",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:51:30.234Z",
+        "updatedAt": "2026-10-03T10:51:30.234Z"
+      }
     }
   ],
   "metadata": {
-    "total": 182,
+    "total": 183,
     "layerId": 7,
     "clustered": false,
     "simplified": false

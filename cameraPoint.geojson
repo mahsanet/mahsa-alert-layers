@@ -596301,10 +596301,113 @@
         "createdAt": "2026-09-27T20:27:59.998Z",
         "updatedAt": "2026-09-27T20:28:07.951Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.40515895560384,
+          30.771516962426134
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین بانک",
+        "lastReport": "",
+        "date": 1790887811,
+        "addressDescription": "",
+        "description": "دوربین باجه لوتک بانک صادرات",
+        "city": "شهرستان هامون",
+        "province": "استان سیستان و بلوچستان",
+        "name:en": "Bank Camera",
+        "description:en": "Camera at the Lotak counter of Saderat Bank",
+        "city:en": "Hamun",
+        "province:en": "Sistan and Baluchestan",
+        "id": "MjA6NWMyMTU5OGQ2ODY2",
+        "publicId": "MjA6NWMyMTU5OGQ2ODY2",
+        "sourceId": "5c21598d6866",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:48:03.457Z",
+        "updatedAt": "2026-10-03T10:48:03.457Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.61511208489537,
+          29.583872984429973
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "lastReport": "",
+        "date": 1790698522,
+        "addressDescription": "",
+        "description": "",
+        "city": "شیراز",
+        "province": "استان فارس",
+        "name:en": "Camera",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "id": "MjA6MzJkNjhhZGFmNjg5",
+        "publicId": "MjA6MzJkNjhhZGFmNjg5",
+        "sourceId": "32d68adaf689",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:56:31.856Z",
+        "updatedAt": "2026-10-03T10:56:31.856Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.60718012228608,
+          29.5921053483916
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "lastReport": "",
+        "date": 1790698638,
+        "addressDescription": "",
+        "description": "",
+        "city": "شیراز",
+        "province": "استان فارس",
+        "name:en": "Camera",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "id": "MjA6MmYyNDFhZDlkYmUw",
+        "publicId": "MjA6MmYyNDFhZDlkYmUw",
+        "sourceId": "2f241ad9dbe0",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:56:51.562Z",
+        "updatedAt": "2026-10-03T10:56:51.562Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18621,
+    "total": 18624,
     "layerId": 20,
     "clustered": false,
     "simplified": false

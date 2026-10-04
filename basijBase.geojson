@@ -31151,35 +31151,6 @@
     },
     {
       "type": "Feature",
-      "id": 4908,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.4055177,
-          35.7087952
-        ]
-      },
-      "properties": {
-        "id": "MToxMjc2Mw",
-        "city": "تهران",
-        "province": "استان تهران",
-        "unofficial_name:fa": "مسکن و عمران اجتماعی بسیج",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "publicId": "MToxMjc2Mw",
-        "sourceId": "12763",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:52.814Z",
-        "updatedAt": "2026-03-11T20:52:52.814Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 4909,
       "geometry": {
         "type": "Point",
@@ -76565,10 +76536,248 @@
         "createdAt": "2026-10-02T07:23:47.616Z",
         "updatedAt": "2026-10-02T07:23:47.616Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.50349695235491,
+          30.980759981434147
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه بسیج",
+        "unofficial_name:fa": "",
+        "description": "حوزه شهید هراتی اسکندری",
+        "date": 1790887580,
+        "city": "شهرستان زابل",
+        "province": "استان سیستان و بلوچستان",
+        "name:en": "Basij Base",
+        "description:en": "Shahid Harati Eskandari Base",
+        "city:en": "Zabol",
+        "province:en": "Sistan and Baluchestan",
+        "id": "MTphNmUyNjkxZTNjMjE",
+        "publicId": "MTphNmUyNjkxZTNjMjE",
+        "sourceId": "a6e2691e3c21",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:44:42.421Z",
+        "updatedAt": "2026-10-03T10:44:42.421Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.72087841108441,
+          35.93527533267549
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج و سپاه در منطقه ینگی امام، ساوجبلاغ، هشتگرد",
+        "date": 1790968752,
+        "city": "شهرستان ساوجبلاغ",
+        "province": "استان البرز",
+        "name:en": "Basij Base",
+        "description:en": "Basij and IRGC base in Yengi Imam area, Savojbolagh, Hashtgerd",
+        "city:en": "Savojbolagh",
+        "province:en": "Alborz",
+        "id": "MTo3ZjRkOGFkYmRjYzI",
+        "publicId": "MTo3ZjRkOGFkYmRjYzI",
+        "sourceId": "7f4d8adbdcc2",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:45:34.172Z",
+        "updatedAt": "2026-10-03T10:45:34.172Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.30432978272438,
+          35.7500312874419
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "استفاده از مسجد همزه میدان چهارباغ به عنوان پایگاه سپاه، بسیج و نیروهای یگان ویژه و تجمع هر شبه نیروهای هوادار دور میدان.",
+        "date": 1790898655,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "Use of Hamzeh Mosque in Chaharbagh Square as a base for IRGC, Basij, and Special Unit forces, along with nightly gatherings of pro-regime forces around the square.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTo3NjgzNTdlYTYzZjM",
+        "publicId": "MTo3NjgzNTdlYTYzZjM",
+        "sourceId": "768357ea63f3",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:47:28.255Z",
+        "updatedAt": "2026-10-03T10:47:28.255Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.65471128374338,
+          31.296102961738768
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر بسیج",
+        "unofficial_name:fa": "",
+        "description": "دفتر بسیج پزشکی سپاه پاسداران",
+        "date": 1790875065,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Basij Office",
+        "description:en": "Medical Basij Office of the Islamic Revolutionary Guard Corps",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTpkNjlkMWY2Y2FmZTM",
+        "publicId": "MTpkNjlkMWY2Y2FmZTM",
+        "sourceId": "d69d1f6cafe3",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:49:26.882Z",
+        "updatedAt": "2026-10-03T10:49:26.882Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.364155281335115,
+          35.657604624636264
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه کلیدی بسیج و جذب نیروهای اطلاعاتی در مسجد جامع ابوذر",
+        "date": 1790863133,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "Key Basij base and recruitment of intelligence forces at Jameh Abu Zar Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTphZmI0OWEzZmNhMGE",
+        "publicId": "MTphZmI0OWEzZmNhMGE",
+        "sourceId": "afb49a3fca0a",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:50:13.811Z",
+        "updatedAt": "2026-10-03T10:50:13.811Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.617547530680895,
+          29.584504954994657
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج مسجد زهرا",
+        "date": 1790699013,
+        "city": "شیراز",
+        "province": "استان فارس",
+        "name:en": "Basij Base",
+        "description:en": "Zahra Mosque Basij Base",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "id": "MTphZGY4YTMyNDMxZGM",
+        "publicId": "MTphZGY4YTMyNDMxZGM",
+        "sourceId": "adf8a32431dc",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:55:49.522Z",
+        "updatedAt": "2026-10-03T10:55:49.522Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.61937713250518,
+          29.583724139114523
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج",
+        "date": 1790698952,
+        "city": "شیراز",
+        "province": "استان فارس",
+        "name:en": "Basij Base",
+        "description:en": "Basij Base",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "id": "MTpiNWZmMjc1MTZhMjQ",
+        "publicId": "MTpiNWZmMjc1MTZhMjQ",
+        "sourceId": "b5ff27516a24",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:56:12.981Z",
+        "updatedAt": "2026-10-03T10:56:12.981Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2318,
+    "total": 2324,
     "layerId": 1,
     "clustered": false,
     "simplified": false

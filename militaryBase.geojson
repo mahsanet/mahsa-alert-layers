@@ -45165,10 +45165,64 @@
         "createdAt": "2026-10-01T22:57:52.548Z",
         "updatedAt": "2026-10-01T22:57:52.548Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95187,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.501639572642006,
+              31.01181747136522
+            ],
+            [
+              61.502195054671915,
+              31.012054921408023
+            ],
+            [
+              61.5023769991586,
+              31.011741865257576
+            ],
+            [
+              61.50182703059792,
+              31.01149378229448
+            ],
+            [
+              61.501639572642006,
+              31.01181747136522
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه و گردان امنیتی امام علی\n",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "زابل",
+        "province": "استان سیستان و بلوچستان",
+        "name:en": "Imam Ali Security District and Battalion",
+        "city:en": "Zabol",
+        "province:en": "Sistan and Baluchestan",
+        "id": "MTE6ZWFkMjIzZmExZDQ3",
+        "publicId": "MTE6ZWFkMjIzZmExZDQ3",
+        "sourceId": "ead223fa1d47",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:32:43.896Z",
+        "updatedAt": "2026-10-03T10:32:43.896Z"
+      }
     }
   ],
   "metadata": {
-    "total": 395,
+    "total": 396,
     "layerId": 11,
     "clustered": false,
     "simplified": false

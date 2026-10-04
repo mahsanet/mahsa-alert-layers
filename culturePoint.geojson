@@ -92570,10 +92570,76 @@
         "createdAt": "2026-09-29T08:21:48.336Z",
         "updatedAt": "2026-09-29T08:21:48.336Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5173901244998,
+          31.048732895138215
+        ]
+      },
+      "properties": {
+        "name:fa": "معاونت منابع آب سیستان",
+        "description": "قرارگاه پیشرفت و آبادانی سپاه",
+        "date": 1790984959,
+        "city": "شهرستان زابل",
+        "province": "استان سیستان و بلوچستان",
+        "name:en": "Sistan Water Resources Directorate",
+        "description:en": "IRGC Progress and Development Headquarters",
+        "city:en": "Zabol County",
+        "province:en": "Sistan and Baluchestan",
+        "id": "MTc6MWVhMjI5MTgwY2Mz",
+        "publicId": "MTc6MWVhMjI5MTgwY2Mz",
+        "sourceId": "1ea229180cc3",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:44:15.403Z",
+        "updatedAt": "2026-10-03T10:44:15.403Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.090342082083225,
+          28.854668994974247
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره ویژه منابع طبیعی",
+        "description": "اداره ویژه منابع طبیعی",
+        "date": 1790822045,
+        "city": "فراشبند",
+        "province": "استان فارس",
+        "name:en": "Special Department of Natural Resources",
+        "description:en": "Special Department of Natural Resources",
+        "city:en": "Farashband",
+        "province:en": "Fars",
+        "id": "MTc6ZTNlM2YxNTJjZWVh",
+        "publicId": "MTc6ZTNlM2YxNTJjZWVh",
+        "sourceId": "e3e3f152ceea",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T11:00:28.031Z",
+        "updatedAt": "2026-10-03T11:00:28.031Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2412,
+    "total": 2414,
     "layerId": 17,
     "clustered": false,
     "simplified": false

@@ -75555,10 +75555,111 @@
         "createdAt": "2026-09-29T08:30:22.166Z",
         "updatedAt": "2026-09-29T08:30:54.803Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.497514955699444,
+          31.035681934858502
+        ]
+      },
+      "properties": {
+        "name:fa": "گردان سایبری سپاه و بسیج زابل",
+        "unofficial_name:fa": "",
+        "description": "گردان سایبری سپاه و بسیج زابل",
+        "date": 1790985155,
+        "city": "زابل",
+        "province": "استان سیستان و بلوچستان",
+        "name:en": "Zabol IRGC and Basij Cyber Battalion",
+        "description:en": "Zabol IRGC and Basij Cyber Battalion",
+        "city:en": "Zabol",
+        "province:en": "Sistan and Baluchestan",
+        "id": "MTI6NGFlOTdlOWZmNjM1",
+        "publicId": "MTI6NGFlOTdlOWZmNjM1",
+        "sourceId": "4ae97e9ff635",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:34:49.068Z",
+        "updatedAt": "2026-10-03T10:34:49.068Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38481851667166,
+          35.68678140911257
+        ]
+      },
+      "properties": {
+        "name:fa": "تیپ فاطمه زهرا سپاه پاسداران",
+        "unofficial_name:fa": "",
+        "description": "تیپ فاطمه زهرا سپاه پاسداران یکی از مراکز اصلی تجمع نیروهای سرکوب",
+        "date": 1790977323,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Fatemeh Zahra Brigade of the IRGC",
+        "description:en": "The Fatemeh Zahra Brigade of the IRGC is one of the main assembly centers for repressive forces.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "MTI6YWFmM2ViNGFmOGM4",
+        "publicId": "MTI6YWFmM2ViNGFmOGM4",
+        "sourceId": "aaf3eb4af8c8",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:40:26.550Z",
+        "updatedAt": "2026-10-03T10:40:26.550Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.200361996889114,
+          35.57996843344999
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "محدوده وسیع نظامی ارتش جهت موشک‌سازی، دارای ورودی ریل قطار و ورودی کامیون از پایانه بار نسیم‌شهر",
+        "date": 1790634830,
+        "city": "شهرستان اسلامشهر",
+        "province": "استان تهران",
+        "description:en": "A vast military area of the army for missile manufacturing, featuring a railway entrance and a truck entrance from the Nasimshahr freight terminal.",
+        "city:en": "Islamshahr County",
+        "province:en": "Tehran",
+        "id": "MTI6ODBjZDdkZDYzOTVh",
+        "publicId": "MTI6ODBjZDdkZDYzOTVh",
+        "sourceId": "80cd7dd6395a",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:58:59.111Z",
+        "updatedAt": "2026-10-03T10:58:59.111Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1062,
+    "total": 1065,
     "layerId": 12,
     "clustered": false,
     "simplified": false

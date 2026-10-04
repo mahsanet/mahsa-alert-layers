@@ -109378,33 +109378,6 @@
     },
     {
       "type": "Feature",
-      "id": 87663,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.8874271,
-          26.5498152
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NTQ3MQ",
-        "name:fa": "کلانتری ۱۱ بندر لنگه",
-        "osm_id": "",
-        "name:en": "Bandar Lengeh Police Station 11",
-        "publicId": "Mzo2NTQ3MQ",
-        "sourceId": "65471",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.291Z",
-        "updatedAt": "2026-03-13T04:41:07.291Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 87664,
       "geometry": {
         "type": "Point",
@@ -190417,6 +190390,39 @@
         "expirationDate": null,
         "createdAt": "2026-10-01T22:57:19.630Z",
         "updatedAt": "2026-10-01T22:57:19.630Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.393534652888775,
+          33.63890696907333
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اسکان نیروهای پلیس",
+        "description": "محل اسکان خودروهای پلیس و نیروهای موقت کلانتری‌های تخریب شده",
+        "date": 1791005384,
+        "city": "ایلام",
+        "province": "استان ایلام",
+        "name:en": "Police Forces Accommodation Location",
+        "description:en": "Accommodation site for police vehicles and temporary personnel from destroyed police stations",
+        "city:en": "Ilam",
+        "province:en": "Ilam",
+        "id": "MzozOTUzMGNjNGJjN2I",
+        "publicId": "MzozOTUzMGNjNGJjN2I",
+        "sourceId": "39530cc4bc7b",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:38:53.885Z",
+        "updatedAt": "2026-10-03T10:38:53.885Z"
       }
     }
   ],

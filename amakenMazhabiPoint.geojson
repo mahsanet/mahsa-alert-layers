@@ -176562,10 +176562,235 @@
         "createdAt": "2026-10-01T23:08:46.153Z",
         "updatedAt": "2026-10-01T23:08:50.336Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.50145394727588,
+          31.012330954209816
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد رضوان",
+        "description": "مسجد رضوان",
+        "date": 1790887990,
+        "city": "زابل",
+        "province": "استان سیستان و بلوچستان",
+        "name:en": "Rezvan Mosque",
+        "description:en": "Rezvan Mosque",
+        "city:en": "Zabol",
+        "province:en": "Sistan and Baluchestan",
+        "id": "NDo3ODdhOTczODMyZTU",
+        "publicId": "NDo3ODdhOTczODMyZTU",
+        "sourceId": "787a973832e5",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:32:14.724Z",
+        "updatedAt": "2026-10-03T10:32:14.724Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.503920753238646,
+          30.974964805837033
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "شهرستان زابل",
+        "province": "استان سیستان و بلوچستان",
+        "name:en": "Mosque",
+        "city:en": "Zabol County",
+        "province:en": "Sistan and Baluchestan",
+        "id": "NDpiNTUyMDlhMGYyZjc",
+        "publicId": "NDpiNTUyMDlhMGYyZjc",
+        "sourceId": "b55209a0f2f7",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:44:58.001Z",
+        "updatedAt": "2026-10-03T10:44:58.001Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.721292153728314,
+          35.93528002885259
+        ]
+      },
+      "properties": {
+        "name:fa": "امامزاده",
+        "description": "",
+        "date": "",
+        "city": "شهرستان ساوجبلاغ",
+        "province": "استان البرز",
+        "name:en": "Imamzadeh",
+        "city:en": "Savojbolagh County",
+        "province:en": "Alborz",
+        "id": "NDpkMTQ2ZjBhZmE1NmU",
+        "publicId": "NDpkMTQ2ZjBhZmE1NmU",
+        "sourceId": "d146f0afa56e",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:45:47.631Z",
+        "updatedAt": "2026-10-03T10:45:47.631Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.398147353105,
+          30.775399272193027
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد یاسر",
+        "description": "",
+        "date": "",
+        "city": "اسلام آباد",
+        "province": "استان سیستان و بلوچستان",
+        "name:en": "Yaser Mosque",
+        "city:en": "Eslamabad",
+        "province:en": "Sistan and Baluchestan",
+        "id": "NDplZDZhYmI5OTJkNDY",
+        "publicId": "NDplZDZhYmI5OTJkNDY",
+        "sourceId": "ed6abb992d46",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:48:27.875Z",
+        "updatedAt": "2026-10-03T10:48:27.875Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.39557799629259,
+          30.77418815837632
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد النبی",
+        "description": "",
+        "date": "",
+        "city": "اسلام آباد",
+        "province": "استان سیستان و بلوچستان",
+        "name:en": "Al-Nabi Mosque",
+        "city:en": "Islamabad",
+        "province:en": "Sistan and Baluchestan",
+        "id": "NDo2ZTU0NzY5ZjY3YmM",
+        "publicId": "NDo2ZTU0NzY5ZjY3YmM",
+        "sourceId": "6e54769f67bc",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:48:47.922Z",
+        "updatedAt": "2026-10-03T10:48:47.922Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36420175493362,
+          35.65755936406579
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "id": "NDozNTdhMGUwODQ2NTc",
+        "publicId": "NDozNTdhMGUwODQ2NTc",
+        "sourceId": "357a0e084657",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:50:29.427Z",
+        "updatedAt": "2026-10-03T10:50:29.427Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.20135162503078,
+          35.57554809562616
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "شهرستان اسلامشهر",
+        "province": "استان تهران",
+        "name:en": "Mosque",
+        "city:en": "Islamshahr",
+        "province:en": "Tehran",
+        "id": "NDo4YmFlZDZkMTZmNjQ",
+        "publicId": "NDo4YmFlZDZkMTZmNjQ",
+        "sourceId": "8baed6d16f64",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:58:08.299Z",
+        "updatedAt": "2026-10-03T10:58:08.299Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5680,
+    "total": 5687,
     "layerId": 4,
     "clustered": false,
     "simplified": false

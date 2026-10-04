@@ -4762,10 +4762,44 @@
         "createdAt": "2026-09-27T20:23:17.387Z",
         "updatedAt": "2026-09-27T20:23:17.387Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4084866642952,
+          35.833248399457645
+        ]
+      },
+      "properties": {
+        "name:fa": "رادار",
+        "unofficial_name:fa": "",
+        "description": "رادار دید در شب در جاده ایستگاه سوم به پنجم توچال، دهستان رودبار قصران",
+        "date": 1790671319,
+        "city": "شهرستان شمیرانات",
+        "province": "استان تهران",
+        "name:en": "Radar",
+        "description:en": "Night-vision radar on the road from the third to the fifth station of Tochal, Rudbar-e Qasran Rural District",
+        "city:en": "Shemiranat County",
+        "province:en": "Tehran",
+        "id": "OTpiYzQzNzZmMTk1YmE",
+        "publicId": "OTpiYzQzNzZmMTk1YmE",
+        "sourceId": "bc4376f195ba",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:57:25.928Z",
+        "updatedAt": "2026-10-03T10:57:25.928Z"
+      }
     }
   ],
   "metadata": {
-    "total": 73,
+    "total": 74,
     "layerId": 9,
     "clustered": false,
     "simplified": false

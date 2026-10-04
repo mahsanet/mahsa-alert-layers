@@ -14094,10 +14094,128 @@
         "createdAt": "2026-09-24T12:13:27.683Z",
         "updatedAt": "2026-09-24T12:13:27.683Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95189,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.49755988007183,
+              31.035434878731806
+            ],
+            [
+              61.498129673777925,
+              31.03566625557204
+            ],
+            [
+              61.49791729563796,
+              31.036220862560853
+            ],
+            [
+              61.49784545208499,
+              31.036284543790288
+            ],
+            [
+              61.49776122170988,
+              31.036297280031476
+            ],
+            [
+              61.49768937815685,
+              31.036263316719015
+            ],
+            [
+              61.497572942051534,
+              31.036443746678216
+            ],
+            [
+              61.49703039934781,
+              31.03619751276588
+            ],
+            [
+              61.49755988007183,
+              31.035434878731806
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "اطلاعات سپاه زابل",
+        "description": "",
+        "date": "",
+        "city": "زابل",
+        "province": "استان سیستان و بلوچستان",
+        "city:en": "Zabol",
+        "province:en": "Sistan and Baluchestan",
+        "id": "MjpjMDMxZjcxMDk2MTg",
+        "publicId": "MjpjMDMxZjcxMDk2MTg",
+        "sourceId": "c031f7109618",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:34:22.397Z",
+        "updatedAt": "2026-10-03T10:34:22.397Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95191,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.50838552947849,
+              31.039418143218924
+            ],
+            [
+              61.50952118489619,
+              31.03994389945275
+            ],
+            [
+              61.50990355275027,
+              31.039312206909813
+            ],
+            [
+              61.50876560770246,
+              31.038796256163394
+            ],
+            [
+              61.50838552947849,
+              31.039418143218924
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "اطلاعات زابل",
+        "description": "",
+        "date": "",
+        "city": "زابل",
+        "province": "استان سیستان و بلوچستان",
+        "city:en": "Zabol",
+        "province:en": "Sistan and Baluchestan",
+        "id": "Mjo2YWIwODIxMTM3MWM",
+        "publicId": "Mjo2YWIwODIxMTM3MWM",
+        "sourceId": "6ab08211371c",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-03T10:36:10.298Z",
+        "updatedAt": "2026-10-03T10:36:10.298Z"
+      }
     }
   ],
   "metadata": {
-    "total": 360,
+    "total": 362,
     "layerId": 2,
     "clustered": false,
     "simplified": false
