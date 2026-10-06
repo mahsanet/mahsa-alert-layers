@@ -74372,12 +74372,12 @@
       "properties": {
         "name:fa": "سپاه پاسداران",
         "unofficial_name:fa": "",
-        "description": "سپاه پاسداران",
+        "description": "سپاه پاسداران - سپاه شهدا",
         "date": 1788850015,
         "city": "ارومیه",
         "province": "استان آذربایجان غربی",
         "name:en": "Sepah Pasdaran",
-        "description:en": "Sepah Pasdaran",
+        "description:en": "Sepah Pasdaran - Sepah Shohada",
         "city:en": "Urmia",
         "province:en": "West Azerbaijan",
         "id": "MTI6OWU5OGViYWVkNDUw",
@@ -74390,7 +74390,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-09-08T20:00:52.506Z",
-        "updatedAt": "2026-09-08T20:00:52.506Z"
+        "updatedAt": "2026-10-05T09:50:47.852Z"
       }
     },
     {
@@ -75656,10 +75656,78 @@
         "createdAt": "2026-10-03T10:58:59.111Z",
         "updatedAt": "2026-10-03T10:58:59.111Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.029406398534775,
+          37.52691936277479
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله نظامی",
+        "unofficial_name:fa": "",
+        "description": "معرفی شده به عنوان سالن ورزشی بسیج",
+        "date": 1791121837,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:en": "Military Shed",
+        "description:en": "Described as a Basij sports hall",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MTI6NTBkMDVkN2U3YmVk",
+        "publicId": "MTI6NTBkMDVkN2U3YmVk",
+        "sourceId": "50d05d7e7bed",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-05T09:38:13.248Z",
+        "updatedAt": "2026-10-05T09:38:13.248Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9719212949276,
+          37.602110589864
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان سپاه جاده انهر",
+        "unofficial_name:fa": "",
+        "description": "پادگان سپاه در جاده انهر که از آن نیرو برای ایست بازرسی و شناسایی مناطق اعزام می‌شود.",
+        "date": 1791117056,
+        "city": "شهرستان ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:en": "IRGC Barracks on Anhar Road",
+        "description:en": "IRGC barracks on Anhar Road from which forces are dispatched for checkpoints and area reconnaissance.",
+        "city:en": "Urmia County",
+        "province:en": "West Azerbaijan",
+        "id": "MTI6Y2FlYWFmMDRlMWM5",
+        "publicId": "MTI6Y2FlYWFmMDRlMWM5",
+        "sourceId": "caeaaf04e1c9",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-05T09:52:22.908Z",
+        "updatedAt": "2026-10-05T09:52:22.908Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1065,
+    "total": 1067,
     "layerId": 12,
     "clustered": false,
     "simplified": false

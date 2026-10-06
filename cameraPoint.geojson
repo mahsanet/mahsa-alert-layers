@@ -596404,10 +596404,45 @@
         "createdAt": "2026-10-03T10:56:51.562Z",
         "updatedAt": "2026-10-03T10:56:51.562Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.24904006719589,
+          35.55357056150767
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین حفاظتی",
+        "lastReport": "",
+        "date": 1791061881,
+        "addressDescription": "",
+        "description": "یک دوربین حفاظتی با پایه‌ای بسیار بلند برای رصد خیابان و مکان‌های اطراف نصب شده است.",
+        "city": "اسلامشهر",
+        "province": "استان تهران",
+        "name:en": "Security Camera",
+        "description:en": "A security camera with a very tall pole has been installed to monitor the street and surrounding areas.",
+        "city:en": "Eslamshahr",
+        "province:en": "Tehran",
+        "id": "MjA6ZjJmYjVjOWNjMjM5",
+        "publicId": "MjA6ZjJmYjVjOWNjMjM5",
+        "sourceId": "f2fb5c9cc239",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-05T10:02:16.400Z",
+        "updatedAt": "2026-10-05T10:02:16.400Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18624,
+    "total": 18625,
     "layerId": 20,
     "clustered": false,
     "simplified": false

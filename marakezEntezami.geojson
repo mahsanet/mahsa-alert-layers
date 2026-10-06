@@ -33634,37 +33634,6 @@
     },
     {
       "type": "Feature",
-      "id": 85164,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.0323099,
-          37.5259241
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MTY1OA",
-        "city": "ارومیه",
-        "osm_id": "",
-        "name:fa": "پاسگاه مرکزی ارومیه",
-        "province": "استان آذربایجان غربی",
-        "name:en": "Urmia Central Police Post",
-        "city:en": "Urmia",
-        "province:en": "West Azerbaijan",
-        "publicId": "Mzo2MTY1OA",
-        "sourceId": "61658",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.117Z",
-        "updatedAt": "2026-03-13T04:41:06.117Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85165,
       "geometry": {
         "type": "Point",
@@ -190423,6 +190392,38 @@
         "expirationDate": null,
         "createdAt": "2026-10-03T10:38:53.885Z",
         "updatedAt": "2026-10-03T10:38:53.885Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.032130731798475,
+          37.52402995931733
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه مرکزی ارومیه",
+        "description": "",
+        "date": "",
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:en": "Urmia Central Police Station",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MzozM2MzZTZlYmM2YjA",
+        "publicId": "MzozM2MzZTZlYmM2YjA",
+        "sourceId": "33c3e6ebc6b0",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-05T09:39:07.944Z",
+        "updatedAt": "2026-10-05T09:39:07.944Z"
       }
     }
   ],

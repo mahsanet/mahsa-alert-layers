@@ -468072,10 +468072,43 @@
         "createdAt": "2026-09-28T09:31:36.939Z",
         "updatedAt": "2026-09-28T09:31:46.017Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.32641673088074,
+          38.077813246204045
+        ]
+      },
+      "properties": {
+        "name:fa": "داروخانه دکتر آرمین کریمی",
+        "description": "داروخانه دکتر آرمین کریمی واقع در چهارراه عباسی تبریز",
+        "date": 1791153498,
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Dr. Armin Karimi Pharmacy",
+        "description:en": "Dr. Armin Karimi Pharmacy located at Abbasi Intersection in Tabriz",
+        "city:en": "Tabriz",
+        "province:en": "East Azerbaijan",
+        "id": "Mjc6MmIwMzJhZDZiMDRl",
+        "publicId": "Mjc6MmIwMzJhZDZiMDRl",
+        "sourceId": "2b032ad6b04e",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-05T08:41:05.164Z",
+        "updatedAt": "2026-10-05T08:41:05.164Z"
+      }
     }
   ],
   "metadata": {
-    "total": 15612,
+    "total": 15613,
     "layerId": 27,
     "clustered": false,
     "simplified": false

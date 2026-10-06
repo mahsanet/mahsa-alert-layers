@@ -92636,10 +92636,76 @@
         "createdAt": "2026-10-03T11:00:28.031Z",
         "updatedAt": "2026-10-03T11:00:28.031Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.06721230223775,
+          37.5412012911454
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره گاز ارومیه",
+        "description": "اداره گاز ارومیه",
+        "date": 1791107348,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:en": "Urmia Gas Office",
+        "description:en": "Urmia Gas Office",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MTc6NzgxMjA0NWVmZGMx",
+        "publicId": "MTc6NzgxMjA0NWVmZGMx",
+        "sourceId": "7812045efdc1",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-05T09:49:15.037Z",
+        "updatedAt": "2026-10-05T09:49:15.037Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95246,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.05618339404464,
+          37.53910254354844
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره برق ارومیه",
+        "description": "اداره برق (شرکت توزیع نیروی برق آذربایجان غربی)",
+        "date": 1791107228,
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "name:en": "Urmia Electricity Office",
+        "description:en": "Electricity Office (West Azerbaijan Electricity Distribution Company)",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MTc6NTJmZTYzYTJkNmNl",
+        "publicId": "MTc6NTJmZTYzYTJkNmNl",
+        "sourceId": "52fe63a2d6ce",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-05T09:50:09.664Z",
+        "updatedAt": "2026-10-05T09:50:09.664Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2414,
+    "total": 2416,
     "layerId": 17,
     "clustered": false,
     "simplified": false

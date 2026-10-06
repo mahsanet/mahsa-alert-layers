@@ -76774,10 +76774,44 @@
         "createdAt": "2026-10-03T10:56:12.981Z",
         "updatedAt": "2026-10-03T10:56:12.981Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.05616137385368,
+          37.345545695535336
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه بسیج",
+        "unofficial_name:fa": "",
+        "description": "حوزه بسیج بناب",
+        "date": 1791124812,
+        "city": "بناب",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Basij Base",
+        "description:en": "Bonab Basij Base",
+        "city:en": "Bonab",
+        "province:en": "East Azerbaijan",
+        "id": "MTo0ZWM4OWFmY2EwYzE",
+        "publicId": "MTo0ZWM4OWFmY2EwYzE",
+        "sourceId": "4ec89afca0c1",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-05T09:35:54.860Z",
+        "updatedAt": "2026-10-05T09:35:54.860Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2324,
+    "total": 2325,
     "layerId": 1,
     "clustered": false,
     "simplified": false

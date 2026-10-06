@@ -17951,10 +17951,44 @@
         "createdAt": "2026-10-03T10:51:30.234Z",
         "updatedAt": "2026-10-03T10:51:30.234Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.16305735334754,
+          37.60706014233182
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اختفای موشک",
+        "description": "محل مخفی کردن موشک",
+        "date": 1791121929,
+        "city": "شهرستان ارومیه",
+        "province": "استان آذربایجان غربی",
+        "sources": "",
+        "name:en": "Missile Concealment Site",
+        "description:en": "Location for hiding missiles",
+        "city:en": "Urmia County",
+        "province:en": "West Azerbaijan",
+        "id": "NzphNmFmMWQ0NmFjNjE",
+        "publicId": "NzphNmFmMWQ0NmFjNjE",
+        "sourceId": "a6af1d46ac61",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-05T09:36:26.186Z",
+        "updatedAt": "2026-10-05T09:36:26.186Z"
+      }
     }
   ],
   "metadata": {
-    "total": 183,
+    "total": 184,
     "layerId": 7,
     "clustered": false,
     "simplified": false

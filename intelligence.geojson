@@ -4280,37 +4280,6 @@
     },
     {
       "type": "Feature",
-      "id": 90828,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.71452551766052,
-          36.76327116622498
-        ]
-      },
-      "properties": {
-        "unofficial_name:fa": "اداره اطلاعات مهاباد",
-        "description": "",
-        "date": 1772483400,
-        "city": "مهاباد",
-        "province": "استان آذربایجان غربی",
-        "city:en": "Mahabad",
-        "province:en": "West Azerbaijan",
-        "id": "MjpkNmI3YTAzZmY4NDc",
-        "publicId": "MjpkNmI3YTAzZmY4NDc",
-        "sourceId": "d6b7a03ff847",
-        "layerId": 2,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-20T10:37:22.846Z",
-        "updatedAt": "2026-03-26T02:08:52.603Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 90838,
       "geometry": {
         "type": "Point",
@@ -6002,8 +5971,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.45243417276498,
-          39.29574371233514
+          44.45253705497686,
+          39.29586548281682
         ]
       },
       "properties": {
@@ -6026,7 +5995,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-03-20T16:05:29.835Z",
-        "updatedAt": "2026-04-08T20:49:25.351Z"
+        "updatedAt": "2026-10-05T09:51:46.556Z"
       }
     },
     {
@@ -11408,39 +11377,6 @@
     },
     {
       "type": "Feature",
-      "id": 92779,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.05487857251768,
-          37.5319676178643
-        ]
-      },
-      "properties": {
-        "city": "ارومیه",
-        "date": 1774985264,
-        "name:fa": "خانه سازمانی اطلاعات",
-        "province": "استان آذربایجان غربی",
-        "description": "اطلاعات خانه س ا ز م ا ن ی",
-        "name:en": "Intelligence Organizational Housing",
-        "description:en": "Intelligence organizational housing",
-        "city:en": "Urmia",
-        "province:en": "West Azerbaijan",
-        "id": "MjpjOThkNGIxMTZlNzQ",
-        "publicId": "MjpjOThkNGIxMTZlNzQ",
-        "sourceId": "c98d4b116e74",
-        "layerId": 2,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-31T19:27:44.878Z",
-        "updatedAt": "2026-04-02T06:52:52.521Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92780,
       "geometry": {
         "type": "Point",
@@ -12425,39 +12361,6 @@
         "expirationDate": null,
         "createdAt": "2026-07-15T01:53:42.424Z",
         "updatedAt": "2026-07-15T01:53:42.424Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 93510,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.05454289675379,
-          37.530636128566755
-        ]
-      },
-      "properties": {
-        "name:fa": "خانه سازمانی اطلاعات",
-        "description": "خانه سازمانی اطلاعات",
-        "date": 1783971324,
-        "city": "ارومیه",
-        "province": "استان آذربایجان غربی",
-        "name:en": "Intelligence Organizational Housing",
-        "description:en": "Intelligence organizational housing",
-        "city:en": "Urmia",
-        "province:en": "West Azerbaijan",
-        "id": "MjoyMDRkNmIwOWYzYzk",
-        "publicId": "MjoyMDRkNmIwOWYzYzk",
-        "sourceId": "204d6b09f3c9",
-        "layerId": 2,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-15T01:53:43.269Z",
-        "updatedAt": "2026-07-15T01:53:43.269Z"
       }
     },
     {
@@ -14211,6 +14114,221 @@
         "expirationDate": null,
         "createdAt": "2026-10-03T10:36:10.298Z",
         "updatedAt": "2026-10-03T10:36:10.298Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95240,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.05246627467082,
+              37.52900576890181
+            ],
+            [
+              45.053668664460616,
+              37.530159263318836
+            ],
+            [
+              45.05402552195795,
+              37.530668661021934
+            ],
+            [
+              45.05413257920256,
+              37.53060057351212
+            ],
+            [
+              45.054670359918134,
+              37.53105297994563
+            ],
+            [
+              45.05467800686492,
+              37.53112372898694
+            ],
+            [
+              45.05517015155988,
+              37.53158479561439
+            ],
+            [
+              45.05533328641553,
+              37.531685864932186
+            ],
+            [
+              45.056072491230736,
+              37.53110370378867
+            ],
+            [
+              45.055264463906525,
+              37.530573403282915
+            ],
+            [
+              45.054211734291925,
+              37.52984973316207
+            ],
+            [
+              45.05297189853374,
+              37.529000512406114
+            ],
+            [
+              45.0528648412847,
+              37.52898434074224
+            ],
+            [
+              45.05266092271475,
+              37.52884283853396
+            ],
+            [
+              45.05246627467082,
+              37.52900576890181
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "خانه سازمانی اطلاعات ارومیه",
+        "date": "",
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "description:en": "Ministry of Intelligence organizational housing in Urmia",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "MjoyOGI1NzA1ZmQzMTE",
+        "publicId": "MjoyOGI1NzA1ZmQzMTE",
+        "sourceId": "28b5705fd311",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-05T09:44:06.923Z",
+        "updatedAt": "2026-10-05T09:44:32.760Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95241,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.05314531352175,
+              37.532115861415576
+            ],
+            [
+              45.05331969305698,
+              37.532269177301615
+            ],
+            [
+              45.054946562385794,
+              37.53261211645004
+            ],
+            [
+              45.05578055146893,
+              37.53204695304558
+            ],
+            [
+              45.055132314499104,
+              37.53160804659632
+            ],
+            [
+              45.05465087534796,
+              37.53113306273666
+            ],
+            [
+              45.05314531352175,
+              37.532115861415576
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "خانه سازمانی اطلاعات",
+        "date": "",
+        "city": "ارومیه",
+        "province": "استان آذربایجان غربی",
+        "description:en": "Intelligence Department organizational housing",
+        "city:en": "Urmia",
+        "province:en": "West Azerbaijan",
+        "id": "Mjo1YWIzOGU1MzYyOGU",
+        "publicId": "Mjo1YWIzOGU1MzYyOGU",
+        "sourceId": "5ab38e53628e",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-05T09:45:44.576Z",
+        "updatedAt": "2026-10-05T09:45:44.576Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95242,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.714166372597106,
+              36.76363670523358
+            ],
+            [
+              45.71439910846357,
+              36.7636482550687
+            ],
+            [
+              45.71440528729252,
+              36.7637208539939
+            ],
+            [
+              45.71488517629362,
+              36.763719204019154
+            ],
+            [
+              45.714808970743945,
+              36.76287111226682
+            ],
+            [
+              45.7141416572839,
+              36.76301301154051
+            ],
+            [
+              45.71410372233083,
+              36.76310068252715
+            ],
+            [
+              45.714166372597106,
+              36.76363670523358
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "وزارت اطلاعات کشوری مهاباد\n",
+        "description": "",
+        "date": "",
+        "city": "مهاباد",
+        "province": "استان آذربایجان غربی",
+        "city:en": "Mahabad",
+        "province:en": "West Azerbaijan",
+        "id": "Mjo1ZjJhZGI2NTE5NmM",
+        "publicId": "Mjo1ZjJhZGI2NTE5NmM",
+        "sourceId": "5f2adb65196c",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-05T09:47:11.589Z",
+        "updatedAt": "2026-10-05T09:47:11.589Z"
       }
     }
   ],
