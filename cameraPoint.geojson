@@ -596439,10 +596439,150 @@
         "createdAt": "2026-10-05T10:02:16.400Z",
         "updatedAt": "2026-10-05T10:02:16.400Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.692765064537525,
+          34.083715961979706
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های نظارتی",
+        "lastReport": "",
+        "date": 1791286041,
+        "addressDescription": "",
+        "description": "در مختصات **34°05'01.6\"N 49°41'34.3\"E** چهار دوربین نصب شده است. یک دوربین از نوع بشقابی/گنبدی و سه دوربین از نوع کشیده با بدنه سفید، بخش اصلی مشکی و پوشش شیشه‌ای محافظ هستند. دوربین بشقابی روی یک پایه عصاییِ معکوس نصب شده و معمولاً رو به ابتدای ملک، در محدوده باغ ملی، قرار دارد. از سه دوربین دیگر، یکی به سمت خیابان ۱۷ شهریور، یکی به سمت باغ ملی و دیگری به سمت انتهای ملک جهت‌گیری شده است.\n\nدر مختصات **34°04'56.2\"N 49°41'41.4\"E** سه دوربین وجود دارد؛ یک دوربین بشقابی و دو دوربین کشیده. از دو دوربین کشیده، یکی بخش بالایی ملک را پوشش می‌دهد و دیگری به سمت داخل خیابان ۱۲ اسدآبادی قرار گرفته است.\n\nدر مختصات **34°04'50.9\"N 49°41'48.6\"E** دو دوربین کشیده نصب شده که یکی به سمت انتهای ملک و دیگری به سمت ابتدای ملک جهت‌گیری دارد.\n\nدر مختصات **34°04'43.8\"N 49°41'55.7\"E** چهار دوربین دیده می‌شود. سه دوربین از نوع کشیده هستند که جهت پوشش آن‌ها شامل ابتدا و انتهای خیابان قدوسی و همچنین سمت ملک است. یک دوربین بشقابی نیز در این نقطه وجود دارد. پایه دوربین‌ها در این محل دارای ساختار صلیبی‌شکل است.",
+        "city": "اراک",
+        "province": "استان مرکزی",
+        "name:en": "Surveillance Cameras",
+        "description:en": "At coordinates **34°05'01.6\"N 49°41'34.3\"E**, four cameras are installed. One camera is a dome/ptz type and three are bullet-style cameras with a white body, black main section, and protective glass housing. The dome camera is mounted on an inverted gooseneck pole and is usually facing the front of the property, in the area of Bagh-e Melli. Of the other three cameras, one is pointed toward 17 Shahrivar Street, one toward Bagh-e Melli, and the other toward the rear of the property.\n\nAt coordinates **34°04'56.2\"N 49°41'41.4\"E**, there are three cameras: one dome camera and two bullet cameras. Of the two bullet cameras, one covers the upper section of the property and the other is directed down 12 Asadabadi Street.\n\nAt coordinates **34°04'50.9\"N 49°41'48.6\"E**, two bullet cameras are installed, one pointing toward the rear of the property and the other toward the front of the property.\n\nAt coordinates **34°04'43.8\"N 49°41'55.7\"E**, four cameras are visible. Three are bullet cameras covering the beginning and end of Ghoddusi Street as well as the property side. A dome camera is also located at this spot. The camera mount at this location features a cross-shaped structure.",
+        "city:en": "Arak",
+        "province:en": "Markazi",
+        "id": "MjA6ZTFjMGIzMzMwZTU5",
+        "publicId": "MjA6ZTFjMGIzMzMwZTU5",
+        "sourceId": "e1c0b3330e59",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:19:51.094Z",
+        "updatedAt": "2026-10-07T00:19:51.094Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.69882501603874,
+          34.07886914351144
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های نظارتی",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "در مختصات **34°05'01.6\"N 49°41'34.3\"E** چهار دوربین نصب شده است. یک دوربین از نوع بشقابی/گنبدی و سه دوربین از نوع کشیده با بدنه سفید، بخش اصلی مشکی و پوشش شیشه‌ای محافظ هستند. دوربین بشقابی روی یک پایه عصاییِ معکوس نصب شده و معمولاً رو به ابتدای ملک، در محدوده باغ ملی، قرار دارد. از سه دوربین دیگر، یکی به سمت خیابان ۱۷ شهریور، یکی به سمت باغ ملی و دیگری به سمت انتهای ملک جهت‌گیری شده است. در مختصات **34°04'56.2\"N 49°41'41.4\"E** سه دوربین وجود دارد؛ یک دوربین بشقابی و دو دوربین کشیده. از دو دوربین کشیده، یکی بخش بالایی ملک را پوشش می‌دهد و دیگری به سمت داخل خیابان ۱۲ اسدآبادی قرار گرفته است. در مختصات **34°04'50.9\"N 49°41'48.6\"E** دو دوربین کشیده نصب شده که یکی به سمت انتهای ملک و دیگری به سمت ابتدای ملک جهت‌گیری دارد. در مختصات **34°04'43.8\"N 49°41'55.7\"E** چهار دوربین دیده می‌شود. سه دوربین از نوع کشیده هستند که جهت پوشش آن‌ها شامل ابتدا و انتهای خیابان قدوسی و همچنین سمت ملک است. یک دوربین بشقابی نیز در این نقطه وجود دارد. پایه دوربین‌ها در این محل دارای ساختار صلیبی‌شکل است.\n",
+        "city": "اراک",
+        "province": "استان مرکزی",
+        "name:en": "Surveillance Cameras",
+        "description:en": "At coordinates **34°05'01.6\"N 49°41'34.3\"E**, four cameras are installed. One is a dish/dome camera and three are bullet-style cameras with a white body, black main section, and a protective glass cover. The dome camera is mounted on an inverted gooseneck pole and usually faces the front of the property, within the Bagh-e Melli area. Of the other three cameras, one is pointed toward 17 Shahrivar Street, one toward Bagh-e Melli, and the other toward the rear of the property. At coordinates **34°04'56.2\"N 49°41'41.4\"E**, there are three cameras: one dome camera and two bullet cameras. Of the two bullet cameras, one covers the upper section of the property and the other is directed toward 12 Asadabadi Street. At coordinates **34°04'50.9\"N 49°41'48.6\"E**, two bullet cameras are installed, one facing the rear of the property and the other facing the front. At coordinates **34°04'43.8\"N 49°41'55.7\"E**, four cameras are visible. Three are bullet cameras positioned to cover the beginning and end of Qoddusi Street as well as the property side. A dome camera is also present at this point. The camera mount at this location has a cross-shaped structure.",
+        "city:en": "Arak",
+        "province:en": "Markazi",
+        "id": "MjA6MDVmZmI2YjE5NzQx",
+        "publicId": "MjA6MDVmZmI2YjE5NzQx",
+        "sourceId": "05ffb6b19741",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:21:49.851Z",
+        "updatedAt": "2026-10-07T00:23:44.481Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.69683014937715,
+          34.08080326146565
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های نظارتی",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "در مختصات **34°05'01.6\"N 49°41'34.3\"E** چهار دوربین نصب شده است. یک دوربین از نوع بشقابی/گنبدی و سه دوربین از نوع کشیده با بدنه سفید، بخش اصلی مشکی و پوشش شیشه‌ای محافظ هستند. دوربین بشقابی روی یک پایه عصاییِ معکوس نصب شده و معمولاً رو به ابتدای ملک، در محدوده باغ ملی، قرار دارد. از سه دوربین دیگر، یکی به سمت خیابان ۱۷ شهریور، یکی به سمت باغ ملی و دیگری به سمت انتهای ملک جهت‌گیری شده است. در مختصات **34°04'56.2\"N 49°41'41.4\"E** سه دوربین وجود دارد؛ یک دوربین بشقابی و دو دوربین کشیده. از دو دوربین کشیده، یکی بخش بالایی ملک را پوشش می‌دهد و دیگری به سمت داخل خیابان ۱۲ اسدآبادی قرار گرفته است. در مختصات **34°04'50.9\"N 49°41'48.6\"E** دو دوربین کشیده نصب شده که یکی به سمت انتهای ملک و دیگری به سمت ابتدای ملک جهت‌گیری دارد. در مختصات **34°04'43.8\"N 49°41'55.7\"E** چهار دوربین دیده می‌شود. سه دوربین از نوع کشیده هستند که جهت پوشش آن‌ها شامل ابتدا و انتهای خیابان قدوسی و همچنین سمت ملک است. یک دوربین بشقابی نیز در این نقطه وجود دارد. پایه دوربین‌ها در این محل دارای ساختار صلیبی‌شکل است.",
+        "city": "اراک",
+        "province": "استان مرکزی",
+        "name:en": "Surveillance Cameras",
+        "description:en": "Four cameras are installed at coordinates **34°05'01.6\"N 49°41'34.3\"E**. One is a dome camera and three are bullet-style cameras with white bodies, black main sections, and protective glass covers. The dome camera is mounted on an inverted gooseneck pole and usually faces the front of the property, in the Bagh-e Melli area. Of the other three cameras, one points toward 17 Shahrivar Street, one toward Bagh-e Melli, and the other toward the rear of the property. At coordinates **34°04'56.2\"N 49°41'41.4\"E**, there are three cameras: one dome camera and two bullet cameras. Of the two bullet cameras, one covers the upper section of the property and the other points toward 12 Asadabadi Street. At coordinates **34°04'50.9\"N 49°41'48.6\"E**, two bullet cameras are installed, one pointing toward the rear of the property and the other toward the front of the property. At coordinates **34°04'43.8\"N 49°41'55.7\"E**, four cameras are visible. Three are bullet cameras positioned to cover the beginning and end of Qoddusi Street as well as the property side. A dome camera is also located at this point. The camera pole at this location has a cross-shaped structure.",
+        "city:en": "Arak",
+        "province:en": "Markazi",
+        "id": "MjA6ZGY2YzJhYWVhZjk5",
+        "publicId": "MjA6ZGY2YzJhYWVhZjk5",
+        "sourceId": "df6c2aaeaf99",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:22:31.374Z",
+        "updatedAt": "2026-10-07T00:22:31.374Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.69483868227499,
+          34.08229613224091
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های نظارتی",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "در مختصات **34°05'01.6\"N 49°41'34.3\"E** چهار دوربین نصب شده است. یک دوربین از نوع بشقابی/گنبدی و سه دوربین از نوع کشیده با بدنه سفید، بخش اصلی مشکی و پوشش شیشه‌ای محافظ هستند. دوربین بشقابی روی یک پایه عصاییِ معکوس نصب شده و معمولاً رو به ابتدای ملک، در محدوده باغ ملی، قرار دارد. از سه دوربین دیگر، یکی به سمت خیابان ۱۷ شهریور، یکی به سمت باغ ملی و دیگری به سمت انتهای ملک جهت‌گیری شده است. در مختصات **34°04'56.2\"N 49°41'41.4\"E** سه دوربین وجود دارد؛ یک دوربین بشقابی و دو دوربین کشیده. از دو دوربین کشیده، یکی بخش بالایی ملک را پوشش می‌دهد و دیگری به سمت داخل خیابان ۱۲ اسدآبادی قرار گرفته است. در مختصات **34°04'50.9\"N 49°41'48.6\"E** دو دوربین کشیده نصب شده که یکی به سمت انتهای ملک و دیگری به سمت ابتدای ملک جهت‌گیری دارد. در مختصات **34°04'43.8\"N 49°41'55.7\"E** چهار دوربین دیده می‌شود. سه دوربین از نوع کشیده هستند که جهت پوشش آن‌ها شامل ابتدا و انتهای خیابان قدوسی و همچنین سمت ملک است. یک دوربین بشقابی نیز در این نقطه وجود دارد. پایه دوربین‌ها در این محل دارای ساختار صلیبی‌شکل است.",
+        "city": "اراک",
+        "province": "استان مرکزی",
+        "name:en": "Surveillance Cameras",
+        "description:en": "Four cameras are installed at coordinates **34°05'01.6\"N 49°41'34.3\"E**. One is a dome/dish camera and three are bullet cameras with white bodies, black main sections, and protective glass covers. The dome camera is mounted on an inverted swan-neck pole and usually faces the front of the property, in the Bagh-e Melli area. Of the other three cameras, one is pointed toward 17 Shahrivar Street, one toward Bagh-e Melli, and the other toward the rear of the property. At coordinates **34°04'56.2\"N 49°41'41.4\"E**, there are three cameras: one dome camera and two bullet cameras. Of the two bullet cameras, one covers the upper section of the property and the other is directed toward 12 Asadabadi Street. At coordinates **34°04'50.9\"N 49°41'48.6\"E**, two bullet cameras are installed, one pointing toward the rear of the property and the other toward the front of the property. At coordinates **34°04'43.8\"N 49°41'55.7\"E**, four cameras are visible. Three are bullet cameras covering the beginning and end of Ghoddosi Street as well as facing the property. A dome camera is also located at this point. The camera pole at this location has a cross-shaped structure.",
+        "city:en": "Arak",
+        "province:en": "Markazi",
+        "id": "MjA6ZGYxMWU2OTQ3YmVi",
+        "publicId": "MjA6ZGYxMWU2OTQ3YmVi",
+        "sourceId": "df11e6947beb",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:23:13.483Z",
+        "updatedAt": "2026-10-07T00:23:13.483Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18625,
+    "total": 18629,
     "layerId": 20,
     "clustered": false,
     "simplified": false

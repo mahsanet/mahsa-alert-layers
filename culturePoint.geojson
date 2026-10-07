@@ -92702,10 +92702,115 @@
         "createdAt": "2026-10-05T09:50:09.664Z",
         "updatedAt": "2026-10-05T09:50:09.664Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95257,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.90514883597257,
+              34.143583856394045
+            ],
+            [
+              45.905709460037144,
+              34.14400974766134
+            ],
+            [
+              45.90617966086552,
+              34.14363420148018
+            ],
+            [
+              45.90550559674125,
+              34.1431157817258
+            ],
+            [
+              45.90514883597257,
+              34.143583856394045
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره راه و شهرسازی",
+        "description": "",
+        "date": "",
+        "city": "گیلان غرب",
+        "province": "استان کرمانشاه",
+        "name:en": "Road and Urban Development Department",
+        "city:en": "Gilan-e Gharb",
+        "province:en": "Kermanshah",
+        "id": "MTc6MmY4NzQyZTEzZDhk",
+        "publicId": "MTc6MmY4NzQyZTEzZDhk",
+        "sourceId": "2f8742e13d8d",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:12:29.253Z",
+        "updatedAt": "2026-10-07T00:12:29.253Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95270,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.66832115735335,
+              31.316355609937673
+            ],
+            [
+              48.66959066345501,
+              31.318591754572594
+            ],
+            [
+              48.67138548241982,
+              31.31781107917027
+            ],
+            [
+              48.66965632755199,
+              31.315761928992643
+            ],
+            [
+              48.66832115735335,
+              31.316355609937673
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره کل گمرک استان خوزستان",
+        "description": "(واردات و صادرات از عراق)",
+        "date": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Khuzestan Province General Directorate of Customs",
+        "description:en": "(Imports and exports from Iraq)",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTc6ZTUwZjdlOTkzNzEw",
+        "publicId": "MTc6ZTUwZjdlOTkzNzEw",
+        "sourceId": "e50f7e993710",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:27:01.443Z",
+        "updatedAt": "2026-10-07T00:27:51.821Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2416,
+    "total": 2418,
     "layerId": 17,
     "clustered": false,
     "simplified": false

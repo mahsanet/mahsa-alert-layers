@@ -76808,10 +76808,44 @@
         "createdAt": "2026-10-05T09:35:54.860Z",
         "updatedAt": "2026-10-05T09:35:54.860Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.09997361898422,
+          35.72064069440343
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج",
+        "date": 1791331222,
+        "city": "قدس",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "Basij Base",
+        "city:en": "Qods",
+        "province:en": "Tehran",
+        "id": "MTpmZjQ4N2Y1M2E2NjE",
+        "publicId": "MTpmZjQ4N2Y1M2E2NjE",
+        "sourceId": "ff487f53a661",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:17:47.194Z",
+        "updatedAt": "2026-10-07T00:17:47.194Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2325,
+    "total": 2326,
     "layerId": 1,
     "clustered": false,
     "simplified": false

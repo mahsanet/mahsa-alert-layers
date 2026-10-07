@@ -176787,10 +176787,108 @@
         "createdAt": "2026-10-03T10:58:08.299Z",
         "updatedAt": "2026-10-03T10:58:08.299Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.61692570464311,
+          28.957089543679402
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد قمر بنی هاشم",
+        "description": "",
+        "date": "",
+        "city": "فسا",
+        "province": "استان فارس",
+        "name:en": "Ghamar Bani Hashem Mosque",
+        "city:en": "Fasa",
+        "province:en": "Fars",
+        "id": "NDpjMTNhZTM0YjU3NGU",
+        "publicId": "NDpjMTNhZTM0YjU3NGU",
+        "sourceId": "c13ae34b574e",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:13:40.248Z",
+        "updatedAt": "2026-10-07T00:13:45.538Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.68525701158126,
+          31.34373133285385
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد و پایگاه سپاه",
+        "description": "پایگاه سپاه پاسداران (انبار اسلحه در مسجد محمدی)",
+        "date": 1791246601,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Mosque and IRGC Base",
+        "description:en": "IRGC Base (Weapons Depot in Mohammadi Mosque)",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "NDo3NzBlZDNhMGM0M2I",
+        "publicId": "NDo3NzBlZDNhMGM0M2I",
+        "sourceId": "770ed3a0c43b",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:15:35.110Z",
+        "updatedAt": "2026-10-07T00:15:40.030Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.055224944363204,
+          35.59446424413359
+        ]
+      },
+      "properties": {
+        "name:fa": "هئیت",
+        "description": "هیئتی است که در آن سرکوبگران حضور دارند.",
+        "date": 1791266782,
+        "city": "فردوسیه",
+        "province": "استان تهران",
+        "name:en": "Religious Gathering",
+        "description:en": "A religious gathering where suppressors are present.",
+        "city:en": "Ferdowsiye",
+        "province:en": "Tehran",
+        "id": "NDo3MDRjMjNjNjAxODI",
+        "publicId": "NDo3MDRjMjNjNjAxODI",
+        "sourceId": "704c23c60182",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:24:53.599Z",
+        "updatedAt": "2026-10-07T00:24:58.082Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5687,
+    "total": 5690,
     "layerId": 4,
     "clustered": false,
     "simplified": false

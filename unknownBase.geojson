@@ -75724,10 +75724,112 @@
         "createdAt": "2026-10-05T09:52:22.908Z",
         "updatedAt": "2026-10-05T09:52:22.908Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6511167883873,
+          31.30786556832166
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله نظامی سپاه پاسداران",
+        "unofficial_name:fa": "",
+        "description": "سوله نظامی سپاه پاسداران",
+        "date": 1791246447,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "IRGC Military Warehouse",
+        "description:en": "Islamic Revolutionary Guard Corps military warehouse",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTI6MjM3YzQ5NTg0NTg3",
+        "publicId": "MTI6MjM3YzQ5NTg0NTg3",
+        "sourceId": "237c49584587",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:16:23.764Z",
+        "updatedAt": "2026-10-07T00:16:23.764Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.65345064550638,
+          31.305733740638985
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله نظامی",
+        "unofficial_name:fa": "",
+        "description": "سوله نظامی",
+        "date": 1791246849,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Military Shed",
+        "description:en": "Military shed",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTI6OWNhY2M2OWVjYTZk",
+        "publicId": "MTI6OWNhY2M2OWVjYTZk",
+        "sourceId": "9cacc69eca6d",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:16:45.758Z",
+        "updatedAt": "2026-10-07T00:16:45.758Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.66636011749506,
+          31.312163738530657
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله‌های نظامی",
+        "unofficial_name:fa": "",
+        "description": "سوله‌های متعلق به سپاه پاسداران",
+        "date": 1791246969,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Military Sheds",
+        "description:en": "Sheds belonging to the Islamic Revolutionary Guard Corps",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTI6ODBlYzI3NTU1MjQz",
+        "publicId": "MTI6ODBlYzI3NTU1MjQz",
+        "sourceId": "80ec27555243",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:28:16.974Z",
+        "updatedAt": "2026-10-07T00:28:16.974Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1067,
+    "total": 1070,
     "layerId": 12,
     "clustered": false,
     "simplified": false

@@ -20313,37 +20313,6 @@
     },
     {
       "type": "Feature",
-      "id": 84728,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.9317229,
-          34.138537
-        ]
-      },
-      "properties": {
-        "id": "MzoyODc2",
-        "city": "",
-        "date": "",
-        "osm_id": "n9943234753",
-        "name:fa": "فرماندهی نیروی انتظامی گیلان غرب",
-        "province": "",
-        "description": "",
-        "name:en": "Gilan-e Gharb Law Enforcement Command",
-        "publicId": "MzoyODc2",
-        "sourceId": "2876",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:05.886Z",
-        "updatedAt": "2026-03-26T08:19:23.076Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 84729,
       "geometry": {
         "type": "Point",
@@ -76901,8 +76870,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.9232217,
-          34.1377741
+          45.92284513720557,
+          34.135883020611715
         ]
       },
       "properties": {
@@ -76923,7 +76892,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.815Z",
-        "updatedAt": "2026-03-13T04:41:06.815Z"
+        "updatedAt": "2026-10-07T00:11:33.521Z"
       }
     },
     {
@@ -158724,37 +158693,6 @@
     },
     {
       "type": "Feature",
-      "id": 89580,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.9060576,
-          34.1432144
-        ]
-      },
-      "properties": {
-        "id": "Mzo2ODAwMg",
-        "city": "",
-        "date": "",
-        "osm_id": "",
-        "name:fa": "پلیس راهنمایی و رانندگی",
-        "province": "",
-        "description": "",
-        "name:en": "Traffic Police",
-        "publicId": "Mzo2ODAwMg",
-        "sourceId": "68002",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:08.114Z",
-        "updatedAt": "2026-03-26T08:19:06.145Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 89581,
       "geometry": {
         "type": "Point",
@@ -190424,6 +190362,114 @@
         "expirationDate": null,
         "createdAt": "2026-10-05T09:39:07.944Z",
         "updatedAt": "2026-10-05T09:39:07.944Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95255,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.931458694815916,
+              34.13839491197166
+            ],
+            [
+              45.93169099109133,
+              34.13879529332824
+            ],
+            [
+              45.931722899921596,
+              34.138804801042
+            ],
+            [
+              45.932101976810515,
+              34.138697046891195
+            ],
+            [
+              45.93192073466133,
+              34.13826602891457
+            ],
+            [
+              45.931458694815916,
+              34.13839491197166
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی نیروی انتظامی گیلان غرب",
+        "description": "",
+        "date": "",
+        "city": "گیلان غرب",
+        "province": "استان کرمانشاه",
+        "name:en": "Gilan-e Gharb Law Enforcement Command",
+        "city:en": "Gilan-e Gharb",
+        "province:en": "Kermanshah",
+        "id": "MzowNmU4OTE3ZThkMTM",
+        "publicId": "MzowNmU4OTE3ZThkMTM",
+        "sourceId": "06e8917e8d13",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:10:49.638Z",
+        "updatedAt": "2026-10-07T00:10:49.638Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95256,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.90549369069066,
+              34.14308445527192
+            ],
+            [
+              45.90619405606131,
+              34.14362056120267
+            ],
+            [
+              45.9065425946975,
+              34.143355230012745
+            ],
+            [
+              45.905748518466424,
+              34.14273067792085
+            ],
+            [
+              45.90549369069066,
+              34.14308445527192
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راهنمایی و رانندگی",
+        "description": "",
+        "date": "",
+        "city": "گیلان غرب",
+        "province": "استان کرمانشاه",
+        "name:en": "Traffic Police",
+        "city:en": "Gilan-e Gharb",
+        "province:en": "Kermanshah",
+        "id": "MzoxZDJjNWUwYTA0MTk",
+        "publicId": "MzoxZDJjNWUwYTA0MTk",
+        "sourceId": "1d2c5e0a0419",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:12:04.643Z",
+        "updatedAt": "2026-10-07T00:12:04.643Z"
       }
     }
   ],

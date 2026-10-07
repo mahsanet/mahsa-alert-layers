@@ -45361,10 +45361,45 @@
         "createdAt": "2026-10-05T09:40:33.131Z",
         "updatedAt": "2026-10-05T09:40:53.696Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.63275371491909,
+          31.301862983682938
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله نظامی اهواز",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "سوله نظامی واقع در شهرک توسعه نیشکر اهواز",
+        "date": 1791246716,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Ahvaz Military Shed",
+        "description:en": "Military shed located in the Sugarcane Development Township of Ahvaz",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "id": "MTE6Y2RhYmFjNzU0OGEw",
+        "publicId": "MTE6Y2RhYmFjNzU0OGEw",
+        "sourceId": "cdabac7548a0",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T00:17:09.298Z",
+        "updatedAt": "2026-10-07T00:17:09.298Z"
+      }
     }
   ],
   "metadata": {
-    "total": 397,
+    "total": 398,
     "layerId": 11,
     "clustered": false,
     "simplified": false
