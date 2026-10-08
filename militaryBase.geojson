@@ -45396,10 +45396,78 @@
         "createdAt": "2026-10-07T00:17:09.298Z",
         "updatedAt": "2026-10-07T00:17:09.298Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95836,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.02796100080013,
+          35.51489658324371
+        ]
+      },
+      "properties": {
+        "name:fa": "ورودی پادگان تیپ ۲۳ نیروی زمینی ارتش",
+        "unofficial_name:fa": "",
+        "description": "منازل سازمانی و پادگان تیپ ۲۳ نیروی زمینی ارتش",
+        "date": 1791348711,
+        "city": "شهرستان رباط کریم",
+        "province": "استان تهران",
+        "name:en": "Entrance to the Garrison of the 23rd Brigade of the Army Ground Forces",
+        "description:en": "Organizational housing and garrison of the 23rd Brigade of the Army Ground Forces",
+        "city:en": "Robat Karim",
+        "province:en": "Tehran",
+        "id": "MTE6Y2IyNjQ4NTFkMzNi",
+        "publicId": "MTE6Y2IyNjQ4NTFkMzNi",
+        "sourceId": "cb264851d33b",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T21:06:42.723Z",
+        "updatedAt": "2026-10-07T21:08:09.213Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.98974220454693,
+          35.54164124696649
+        ]
+      },
+      "properties": {
+        "name:fa": "ورودی پادگان تیپ ۳۳ تکاور",
+        "unofficial_name:fa": "",
+        "description": "پادگان تیپ ۳۳ آموزش تکاور نیروی زمینی ارتش در بخش مرکزی رباط کریم، دهستان منجیل آباد",
+        "date": 1791348910,
+        "city": "شهرستان رباط کریم",
+        "province": "استان تهران",
+        "name:en": "Entrance to 33rd Commando Brigade Garrison",
+        "description:en": "33rd Commando Training Brigade Garrison of the Army Ground Force in the Central District of Robat Karim, Manjilabad Rural District",
+        "city:en": "Robat Karim County",
+        "province:en": "Tehran",
+        "id": "MTE6YWM4MzVhMjY1ODg4",
+        "publicId": "MTE6YWM4MzVhMjY1ODg4",
+        "sourceId": "ac835a265888",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T21:07:48.147Z",
+        "updatedAt": "2026-10-07T21:07:55.914Z"
+      }
     }
   ],
   "metadata": {
-    "total": 398,
+    "total": 400,
     "layerId": 11,
     "clustered": false,
     "simplified": false

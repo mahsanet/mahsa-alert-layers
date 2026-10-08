@@ -14330,10 +14330,44 @@
         "createdAt": "2026-10-05T09:47:11.589Z",
         "updatedAt": "2026-10-05T09:47:11.589Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.63262450322509,
+          28.951700527002174
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "خانه‌های سازمانی حفاظت‌شده با نظارت زیاد، سیم خاردار و پنجره‌های تقویت‌شده در کنار پایگاه بسیج امام محمد باقر و در نزدیکی ساختمان رسمی اطلاعات فسا.",
+        "date": 1791382228,
+        "city": "فسا",
+        "province": "استان فارس",
+        "name:fa": "ساختمان اطلاعات و خانه‌های سازمانی فسا",
+        "name:en": "Fasa Intelligence Building and Organizational Housing",
+        "description:en": "Protected organizational housing under high surveillance, featuring barbed wire and reinforced windows, located next to the Imam Mohammad Baqir Basij Base and near the official Fasa Intelligence Building.",
+        "city:en": "Fasa",
+        "province:en": "Fars",
+        "id": "MjoyMzBiNDJmOGI2ZGY",
+        "publicId": "MjoyMzBiNDJmOGI2ZGY",
+        "sourceId": "230b42f8b6df",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T21:01:33.398Z",
+        "updatedAt": "2026-10-07T21:01:33.398Z"
+      }
     }
   ],
   "metadata": {
-    "total": 362,
+    "total": 363,
     "layerId": 2,
     "clustered": false,
     "simplified": false

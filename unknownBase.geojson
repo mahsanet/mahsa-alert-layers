@@ -75826,10 +75826,101 @@
         "createdAt": "2026-10-07T00:28:16.974Z",
         "updatedAt": "2026-10-07T00:28:16.974Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48633594810963,
+          36.66689798933922
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع بسیجیان و سپاهیان",
+        "unofficial_name:fa": "",
+        "description": "یکی از مناطق اجتماع بسیجیان و برخی درجه‌داران سپاه در استان زنجان، امامزاده سید ابراهیم. یک پایگاه هم در همین نقطه قرار دارد.",
+        "date": 1791370149,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "name:en": "Gathering Place of Basij and IRGC Personnel",
+        "description:en": "One of the gathering areas for Basij members and certain IRGC officers in Zanjan Province, Imamzadeh Seyyed Ebrahim. A base is also located at this exact spot.",
+        "city:en": "Zanjan",
+        "province:en": "Zanjan",
+        "id": "MTI6ZjQyZDgzODZiOTc2",
+        "publicId": "MTI6ZjQyZDgzODZiOTc2",
+        "sourceId": "f42d8386b976",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T20:55:15.383Z",
+        "updatedAt": "2026-10-07T20:56:01.453Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95830,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              53.631439445162556,
+              28.95181699378628
+            ],
+            [
+              53.63198550033772,
+              28.951990326597155
+            ],
+            [
+              53.632196161217536,
+              28.95147396366201
+            ],
+            [
+              53.631661193457006,
+              28.951303054236647
+            ],
+            [
+              53.63158358155462,
+              28.951488509132716
+            ],
+            [
+              53.631439445162556,
+              28.95181699378628
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر اموزش مسلحانه بسیج",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "فسا",
+        "province": "استان فارس",
+        "name:en": "Basij Armed Training Office",
+        "city:en": "Fasa",
+        "province:en": "Fars",
+        "id": "MTI6NTU3MTZmYWVlYzRj",
+        "publicId": "MTI6NTU3MTZmYWVlYzRj",
+        "sourceId": "55716faeec4c",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T21:00:32.249Z",
+        "updatedAt": "2026-10-07T21:00:32.249Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1070,
+    "total": 1072,
     "layerId": 12,
     "clustered": false,
     "simplified": false

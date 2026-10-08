@@ -7919,10 +7919,44 @@
         "createdAt": "2026-09-29T08:15:26.683Z",
         "updatedAt": "2026-09-29T08:15:34.538Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.00567630600432,
+          35.5302579118694
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان پدافندی پرندک",
+        "unofficial_name:fa": "",
+        "description": "یگان پدافندی نیروی زمینی ارتش - پرندک، تخت رستم، رباط کریم",
+        "date": 1791348832,
+        "city": "شهرستان رباط کریم",
+        "province": "استان تهران",
+        "name:en": "Parandak Air Defense Unit",
+        "description:en": "Air Defense Unit of the Army Ground Forces - Parandak, Takht-e Rostam, Robat Karim",
+        "city:en": "Robat Karim County",
+        "province:en": "Tehran",
+        "id": "ODoyNTdhY2Q2NWVkZGU",
+        "publicId": "ODoyNTdhY2Q2NWVkZGU",
+        "sourceId": "257acd65edde",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T21:05:00.908Z",
+        "updatedAt": "2026-10-07T21:05:15.424Z"
+      }
     }
   ],
   "metadata": {
-    "total": 116,
+    "total": 117,
     "layerId": 8,
     "clustered": false,
     "simplified": false

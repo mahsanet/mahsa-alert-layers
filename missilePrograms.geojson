@@ -17985,10 +17985,44 @@
         "createdAt": "2026-10-05T09:36:26.186Z",
         "updatedAt": "2026-10-05T09:36:26.186Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95833,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.370668068528175,
+          36.66720793278631
+        ]
+      },
+      "properties": {
+        "name:fa": "کارخانه موشک‌سازی",
+        "description": "به نقل از گزارش: کارخانه موشک‌سازی لطیفی در شهرک صنعتی نظری",
+        "date": 1791362025,
+        "city": "شهرستان نکا",
+        "province": "استان مازندران",
+        "sources": "",
+        "name:en": "Missile Factory",
+        "description:en": "According to reports: Latifi missile factory in Nazari Industrial Estate",
+        "city:en": "Neka County",
+        "province:en": "Mazandaran",
+        "id": "Nzo5MzFhZjVhZjBiZWE",
+        "publicId": "Nzo5MzFhZjVhZjBiZWE",
+        "sourceId": "931af5af0bea",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T21:03:36.710Z",
+        "updatedAt": "2026-10-07T21:03:36.710Z"
+      }
     }
   ],
   "metadata": {
-    "total": 184,
+    "total": 185,
     "layerId": 7,
     "clustered": false,
     "simplified": false

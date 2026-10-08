@@ -76842,10 +76842,146 @@
         "createdAt": "2026-10-07T00:17:47.194Z",
         "updatedAt": "2026-10-07T00:17:47.194Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48814291879535,
+          36.67068795397171
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهید اشرفی اصفهانی (مسجد داود قلی)",
+        "unofficial_name:fa": "",
+        "description": "مسجد داود قلی، به ظاهر مسجد اما پایگاه فعالیت و استقرار افراد پایگاه شهید اشرفی اصفهانی",
+        "date": 1791375122,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "name:en": "Shahid Ashrafi Esfahani Basij Base (Davood Gholi Mosque)",
+        "description:en": "Davood Gholi Mosque; ostensibly a mosque, but serves as a base of activity and deployment for personnel of the Shahid Ashrafi Esfahani Base.",
+        "city:en": "Zanjan",
+        "province:en": "Zanjan",
+        "id": "MTplMzMxYjE3MGQ1Y2I",
+        "publicId": "MTplMzMxYjE3MGQ1Y2I",
+        "sourceId": "e331b170d5cb",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T20:53:08.887Z",
+        "updatedAt": "2026-10-07T20:53:08.887Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48791593685746,
+          36.667886980227024
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهید اشرفی اصفهانی",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج دارای دو پارکینگ (یکی داخل ساختمان و دیگری در درب اصلی)، حدود ۳۰ عدد موتورسیکلت و پارکینگ خودروهای شخصی یا ضد شورش.",
+        "date": 1791374883,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "name:en": "Shahid Ashrafi Esfahani Basij Base",
+        "description:en": "The Basij base has two parking areas (one inside the building and another at the main gate), approximately 30 motorcycles, and parking for personal or anti-riot vehicles.",
+        "city:en": "Zanjan",
+        "province:en": "Zanjan",
+        "id": "MTpmNGNlZjRlMmE0NzQ",
+        "publicId": "MTpmNGNlZjRlMmE0NzQ",
+        "sourceId": "f4cef4e2a474",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T20:55:37.851Z",
+        "updatedAt": "2026-10-07T20:55:37.851Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.61385054886341,
+          28.960421202262964
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج حضرت زینب فسا",
+        "unofficial_name:fa": "",
+        "description": "مسجد و پایگاه بسیج حضرت زینب واقع در بلوار شهید ستوده فسا",
+        "date": 1791382867,
+        "city": "فسا",
+        "province": "استان فارس",
+        "name:en": "Hazrat Zeynab Basij Base of Fasa",
+        "description:en": "Hazrat Zeynab Mosque and Basij base located on Shahid Sotoudeh Boulevard in Fasa",
+        "city:en": "Fasa",
+        "province:en": "Fars",
+        "id": "MTo3NzRjN2Y0YTZmNjI",
+        "publicId": "MTo3NzRjN2Y0YTZmNjI",
+        "sourceId": "774c7f4a6f62",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T20:58:55.254Z",
+        "updatedAt": "2026-10-07T20:58:55.254Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95832,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43426008005676,
+          32.602617606277235
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج شهید قدوسی قلعه سفید",
+        "date": 1791370639,
+        "city": "قلعه سفید",
+        "province": "استان اصفهان",
+        "name:en": "Basij Base",
+        "description:en": "Shahid Ghoddousi Basij Base of Ghaleh Sefid",
+        "city:en": "Ghaleh Sefid",
+        "province:en": "Isfahan",
+        "id": "MTpjMWQ4NjY0YWEzZTk",
+        "publicId": "MTpjMWQ4NjY0YWEzZTk",
+        "sourceId": "c1d8664aa3e9",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T21:02:14.760Z",
+        "updatedAt": "2026-10-07T21:02:19.360Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2326,
+    "total": 2330,
     "layerId": 1,
     "clustered": false,
     "simplified": false

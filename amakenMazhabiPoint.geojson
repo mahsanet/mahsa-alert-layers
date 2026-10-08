@@ -176885,10 +176885,138 @@
         "createdAt": "2026-10-07T00:24:53.599Z",
         "updatedAt": "2026-10-07T00:24:58.082Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48820463862512,
+          36.67075641166255
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد داوود قلی",
+        "description": "",
+        "date": "",
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "name:en": "Davood Gholi Mosque",
+        "city:en": "Zanjan",
+        "province:en": "Zanjan",
+        "id": "NDo3MTRmMjI4YTczNzc",
+        "publicId": "NDo3MTRmMjI4YTczNzc",
+        "sourceId": "714f228a7377",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-07T20:52:47.147Z",
+        "updatedAt": "2026-10-07T20:52:47.147Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.48610518173285,
+          36.66711922160178
+        ]
+      },
+      "properties": {
+        "name:fa": "امامزاده سید ابراهیم زنجان",
+        "description": "",
+        "date": "",
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "name:en": "Imamzadeh Seyyed Ebrahim Zanjan",
+        "city:en": "Zanjan",
+        "province:en": "Zanjan",
+        "id": "NDo5ODIyZTZiOTljYTI",
+        "publicId": "NDo5ODIyZTZiOTljYTI",
+        "sourceId": "9822e6b99ca2",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-07T20:54:20.419Z",
+        "updatedAt": "2026-10-07T20:54:20.419Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.61382136913605,
+          28.96033325718433
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد حضرت زینب",
+        "description": "",
+        "date": "",
+        "city": "فسا",
+        "province": "استان فارس",
+        "name:en": "Hazrat Zeynab Mosque",
+        "city:en": "Fasa",
+        "province:en": "Fars",
+        "id": "NDo0MTUzNmFlYTc4MDk",
+        "publicId": "NDo0MTUzNmFlYTc4MDk",
+        "sourceId": "41536aea7809",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-07T20:59:12.363Z",
+        "updatedAt": "2026-10-07T20:59:12.363Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95834,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.307332061231136,
+          36.64380201097511
+        ]
+      },
+      "properties": {
+        "name:fa": "مساجد قمر بنی هاشم و امام حسین نکا",
+        "description": "",
+        "date": 1791361277,
+        "city": "نكا",
+        "province": "استان مازندران",
+        "name:en": "Ghamar Bani Hashem and Imam Hossein Mosques of Neka",
+        "city:en": "Neka",
+        "province:en": "Mazandaran",
+        "id": "NDpiOTBkZGVmMzUwNzU",
+        "publicId": "NDpiOTBkZGVmMzUwNzU",
+        "sourceId": "b90ddef35075",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-07T21:04:04.027Z",
+        "updatedAt": "2026-10-07T21:04:04.027Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5690,
+    "total": 5694,
     "layerId": 4,
     "clustered": false,
     "simplified": false

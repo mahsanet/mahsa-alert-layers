@@ -1,0 +1,1380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 95801,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.73333,
+              37.06667
+            ],
+            [
+              47.71667,
+              37.11667
+            ],
+            [
+              47.65,
+              37.11667
+            ],
+            [
+              47.66667,
+              37.06667
+            ],
+            [
+              47.73333,
+              37.06667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · منطقه پروازی تهران (ایران)",
+        "description": "محدوده مشخص‌شده فعال شده است. برای اطلاعات بیشتر به صفحه مربوطه در کتابچه اطلاعات هوانوردی ارجاع داده شده است.",
+        "notamNumber": "B0491/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۷/۰۷، ۰۸:۰۰",
+        "validTo": "۱۴۰۵/۰۷/۱۸، ۰۰:۰۰",
+        "shapeSource": "منطقه OID124 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1790656200,
+        "areaCodes": "OID124",
+        "name:en": "Aviation Notice · Airspace Restriction · Tehran Flight Region (Iran)",
+        "description:en": "The designated area has been activated. For more information, reference is made to the relevant page in the Aeronautical Information Publication.",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDQ5MS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDQ5MS0yNg",
+        "sourceId": "notam-oiix-b0491-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-09T20:30:00.000Z",
+        "createdAt": "2026-10-07T04:34:51.624Z",
+        "updatedAt": "2026-10-07T04:34:51.624Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95802,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.474722,
+              39.276389
+            ],
+            [
+              47.516111,
+              39.261944
+            ],
+            [
+              47.368611,
+              39.234444
+            ],
+            [
+              47.359167,
+              39.325556
+            ],
+            [
+              47.474722,
+              39.276389
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · منطقه پروازی تهران (ایران)",
+        "description": "تیراندازی با سلاح گرم در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "B0500/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۷/۱۶، ۰۶:۰۰",
+        "validTo": "۱۴۰۵/۰۷/۲۰، ۲۲:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1791426600,
+        "name:en": "Aviation Notice · Navigation Warning · Tehran Flight Region (Iran)",
+        "description:en": "Firearms shooting will be conducted within the specified area.",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDUwMC0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDUwMC0yNg",
+        "sourceId": "notam-oiix-b0500-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-12T18:30:00.000Z",
+        "createdAt": "2026-10-07T04:35:23.751Z",
+        "updatedAt": "2026-10-07T04:35:23.751Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95803,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.85,
+              35.416667
+            ],
+            [
+              47,
+              35.416667
+            ],
+            [
+              46.85,
+              35.25
+            ],
+            [
+              46.75,
+              35.333333
+            ],
+            [
+              46.85,
+              35.416667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · منطقه پروازی تهران (ایران)",
+        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "A2168/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۷/۲۵، ۱۵:۰۰",
+        "validTo": "۱۴۰۵/۰۷/۳۰، ۱۸:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1792236600,
+        "name:en": "Aviation Notice · Navigation Warning · Tehran Flight Region (Iran)",
+        "description:en": "Shooting will take place within the specified area.",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjE2OC0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjE2OC0yNg",
+        "sourceId": "notam-oiix-a2168-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-22T14:30:00.000Z",
+        "createdAt": "2026-10-07T04:35:28.701Z",
+        "updatedAt": "2026-10-07T04:35:28.701Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95804,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.683031,
+              34.317683
+            ],
+            [
+              60.466369,
+              34.101019
+            ],
+            [
+              60.533036,
+              33.734358
+            ],
+            [
+              60.666367,
+              33.517697
+            ],
+            [
+              60.883028,
+              33.517697
+            ],
+            [
+              60.633036,
+              33.251033
+            ],
+            [
+              60.566372,
+              33.151036
+            ],
+            [
+              60.8497,
+              32.20105
+            ],
+            [
+              60.799703,
+              32.034386
+            ],
+            [
+              60.833036,
+              31.484394
+            ],
+            [
+              61.71635,
+              31.367731
+            ],
+            [
+              61.81635,
+              30.984403
+            ],
+            [
+              61.76635,
+              30.917739
+            ],
+            [
+              61.799683,
+              30.834406
+            ],
+            [
+              60.864353,
+              29.863164
+            ],
+            [
+              61.403425,
+              29.26195
+            ],
+            [
+              61.848472,
+              28.556253
+            ],
+            [
+              62.745936,
+              28.243314
+            ],
+            [
+              62.837883,
+              27.211908
+            ],
+            [
+              63.305011,
+              27.221486
+            ],
+            [
+              63.2057,
+              26.627547
+            ],
+            [
+              62.422247,
+              26.586042
+            ],
+            [
+              62.087533,
+              26.279494
+            ],
+            [
+              61.976758,
+              26.234379
+            ],
+            [
+              61.789603,
+              26.158156
+            ],
+            [
+              61.613044,
+              25.181039
+            ],
+            [
+              61.434675,
+              24.661311
+            ],
+            [
+              57.5,
+              25
+            ],
+            [
+              56.75,
+              25.583333
+            ],
+            [
+              56.75,
+              26.166667
+            ],
+            [
+              56.45,
+              26.683333
+            ],
+            [
+              56.1,
+              26.35
+            ],
+            [
+              55.593921,
+              25.876926
+            ],
+            [
+              55.333333,
+              25.633333
+            ],
+            [
+              53.95,
+              26.066667
+            ],
+            [
+              53.512809,
+              26.200527
+            ],
+            [
+              52.7325,
+              26.439444
+            ],
+            [
+              51.732979,
+              26.74413
+            ],
+            [
+              51.166667,
+              26.916667
+            ],
+            [
+              50.916667,
+              27.083333
+            ],
+            [
+              50.785288,
+              27.265316
+            ],
+            [
+              50.180232,
+              28.050923
+            ],
+            [
+              49.66906,
+              28.712181
+            ],
+            [
+              49.450833,
+              29.003056
+            ],
+            [
+              49.6675,
+              29.219722
+            ],
+            [
+              48.75,
+              29.852778
+            ],
+            [
+              48.566667,
+              29.95
+            ],
+            [
+              48.466667,
+              29.95
+            ],
+            [
+              48.333336,
+              30.2
+            ],
+            [
+              48.182892,
+              30.326689
+            ],
+            [
+              48.016667,
+              30.466667
+            ],
+            [
+              48.016658,
+              30.982281
+            ],
+            [
+              47.683317,
+              30.982281
+            ],
+            [
+              47.683317,
+              31.382286
+            ],
+            [
+              47.849986,
+              31.782292
+            ],
+            [
+              47.499978,
+              32.148964
+            ],
+            [
+              47.549981,
+              32.215631
+            ],
+            [
+              47.416642,
+              32.348967
+            ],
+            [
+              47.433311,
+              32.3823
+            ],
+            [
+              47.299972,
+              32.482303
+            ],
+            [
+              47.166636,
+              32.4323
+            ],
+            [
+              46.449953,
+              32.898975
+            ],
+            [
+              46.083278,
+              32.965642
+            ],
+            [
+              46.116611,
+              33.065644
+            ],
+            [
+              46.033275,
+              33.082311
+            ],
+            [
+              46.033275,
+              33.132311
+            ],
+            [
+              46.166611,
+              33.165647
+            ],
+            [
+              45.966606,
+              33.46565
+            ],
+            [
+              45.833269,
+              33.498983
+            ],
+            [
+              45.933272,
+              33.548986
+            ],
+            [
+              45.883272,
+              33.615653
+            ],
+            [
+              45.766603,
+              33.582319
+            ],
+            [
+              45.383258,
+              33.965658
+            ],
+            [
+              45.549931,
+              34.198997
+            ],
+            [
+              45.549928,
+              34.315664
+            ],
+            [
+              45.483261,
+              34.315664
+            ],
+            [
+              45.433258,
+              34.449
+            ],
+            [
+              45.516594,
+              34.615669
+            ],
+            [
+              45.7166,
+              34.565669
+            ],
+            [
+              45.649931,
+              34.749006
+            ],
+            [
+              45.7666,
+              34.915675
+            ],
+            [
+              45.849936,
+              34.915675
+            ],
+            [
+              45.849936,
+              34.999011
+            ],
+            [
+              45.916606,
+              35.099011
+            ],
+            [
+              46.149944,
+              35.099011
+            ],
+            [
+              45.966606,
+              35.515686
+            ],
+            [
+              45.966606,
+              35.682356
+            ],
+            [
+              46.333281,
+              35.799025
+            ],
+            [
+              46.149942,
+              35.782358
+            ],
+            [
+              46.116608,
+              35.832358
+            ],
+            [
+              45.749933,
+              35.799025
+            ],
+            [
+              45.566594,
+              35.982361
+            ],
+            [
+              45.349922,
+              35.965694
+            ],
+            [
+              45.216586,
+              36.415703
+            ],
+            [
+              45.116583,
+              36.399036
+            ],
+            [
+              44.983247,
+              36.532372
+            ],
+            [
+              45.033247,
+              36.715708
+            ],
+            [
+              44.833242,
+              36.782378
+            ],
+            [
+              44.833242,
+              36.832378
+            ],
+            [
+              44.883244,
+              36.882378
+            ],
+            [
+              44.883242,
+              36.999047
+            ],
+            [
+              44.783242,
+              37.04905
+            ],
+            [
+              44.757369,
+              37.166172
+            ],
+            [
+              44.749906,
+              37.199053
+            ],
+            [
+              44.799908,
+              37.299053
+            ],
+            [
+              44.583236,
+              37.449058
+            ],
+            [
+              44.566567,
+              37.749064
+            ],
+            [
+              44.449897,
+              37.765731
+            ],
+            [
+              44.216558,
+              37.899067
+            ],
+            [
+              44.413631,
+              38.277258
+            ],
+            [
+              44.416564,
+              38.282408
+            ],
+            [
+              44.466564,
+              38.349075
+            ],
+            [
+              44.299892,
+              38.365742
+            ],
+            [
+              44.299892,
+              38.632414
+            ],
+            [
+              44.249892,
+              38.649083
+            ],
+            [
+              44.283225,
+              38.815753
+            ],
+            [
+              44.199889,
+              38.899086
+            ],
+            [
+              44.133222,
+              39.115758
+            ],
+            [
+              44.199889,
+              39.132425
+            ],
+            [
+              44.099886,
+              39.199094
+            ],
+            [
+              44.01655,
+              39.415764
+            ],
+            [
+              44.383228,
+              39.415767
+            ],
+            [
+              44.449894,
+              39.682439
+            ],
+            [
+              44.7,
+              39.783333
+            ],
+            [
+              44.769085,
+              39.714169
+            ],
+            [
+              44.95,
+              39.5
+            ],
+            [
+              45,
+              39.4
+            ],
+            [
+              45.166667,
+              39.216667
+            ],
+            [
+              45.333333,
+              39.166667
+            ],
+            [
+              45.466667,
+              38.983333
+            ],
+            [
+              45.626667,
+              38.95
+            ],
+            [
+              45.866667,
+              38.9
+            ],
+            [
+              46.05,
+              38.9
+            ],
+            [
+              46.15,
+              38.85
+            ],
+            [
+              46.333333,
+              38.916667
+            ],
+            [
+              46.55,
+              38.883333
+            ],
+            [
+              47.383333,
+              39.483333
+            ],
+            [
+              47.833333,
+              39.666667
+            ],
+            [
+              48,
+              39.716667
+            ],
+            [
+              48.4,
+              39.366667
+            ],
+            [
+              48.166667,
+              39.283333
+            ],
+            [
+              48.4,
+              39
+            ],
+            [
+              48.033333,
+              38.883333
+            ],
+            [
+              48.25,
+              38.733333
+            ],
+            [
+              48.316667,
+              38.616667
+            ],
+            [
+              48.45,
+              38.633333
+            ],
+            [
+              48.633333,
+              38.416667
+            ],
+            [
+              48.816667,
+              38.416667
+            ],
+            [
+              48.875,
+              38.441667
+            ],
+            [
+              51.499919,
+              37.900933
+            ],
+            [
+              52.398611,
+              37.7
+            ],
+            [
+              53.916667,
+              37.35
+            ],
+            [
+              54.233333,
+              37.333333
+            ],
+            [
+              54.75,
+              37.533333
+            ],
+            [
+              54.8,
+              37.733333
+            ],
+            [
+              55.083333,
+              37.933333
+            ],
+            [
+              55.5,
+              38.083333
+            ],
+            [
+              55.686111,
+              38.103611
+            ],
+            [
+              56.3375,
+              38.060833
+            ],
+            [
+              56.338056,
+              38.181389
+            ],
+            [
+              56.410675,
+              38.235314
+            ],
+            [
+              56.751111,
+              38.256111
+            ],
+            [
+              57.050556,
+              38.167778
+            ],
+            [
+              57.216667,
+              38.283333
+            ],
+            [
+              57.383333,
+              38.066667
+            ],
+            [
+              57.358333,
+              37.979167
+            ],
+            [
+              57.483333,
+              37.916667
+            ],
+            [
+              57.7,
+              37.916667
+            ],
+            [
+              58,
+              37.816667
+            ],
+            [
+              58.2,
+              37.766669
+            ],
+            [
+              58.247219,
+              37.675
+            ],
+            [
+              58.433333,
+              37.616667
+            ],
+            [
+              58.575,
+              37.7
+            ],
+            [
+              58.683333,
+              37.633333
+            ],
+            [
+              58.783333,
+              37.65
+            ],
+            [
+              58.816667,
+              37.7
+            ],
+            [
+              59.202778,
+              37.513889
+            ],
+            [
+              59.332222,
+              37.505833
+            ],
+            [
+              59.531942,
+              37.126667
+            ],
+            [
+              59.711389,
+              37.1225
+            ],
+            [
+              60.055,
+              37.002778
+            ],
+            [
+              60.350303,
+              36.632361
+            ],
+            [
+              61.143656,
+              36.660692
+            ],
+            [
+              61.191992,
+              36.565689
+            ],
+            [
+              61.161989,
+              36.377353
+            ],
+            [
+              61.241989,
+              36.130681
+            ],
+            [
+              61.131986,
+              35.967344
+            ],
+            [
+              61.253656,
+              35.887344
+            ],
+            [
+              61.250322,
+              35.717342
+            ],
+            [
+              61.210558,
+              35.6875
+            ],
+            [
+              61.266667,
+              35.6
+            ],
+            [
+              61.149683,
+              35.301
+            ],
+            [
+              61.083017,
+              35.284333
+            ],
+            [
+              61.082889,
+              34.994356
+            ],
+            [
+              60.966356,
+              34.651011
+            ],
+            [
+              60.716364,
+              34.534347
+            ],
+            [
+              60.899692,
+              34.317683
+            ],
+            [
+              60.683031,
+              34.317683
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · تغییر در منطقه پروازی · منطقه پروازی تهران (ایران)",
+        "description": "تمامی پروازهای هوانوردی عمومی و پروازهای دیداری تعلیق شده‌اند، اما پروازهای آموزشی در محدوده فرودگاه‌های مشخص‌شده و همچنین پروازهای امداد پزشکی، جستجو و نجات، دولتی و نظامی از این قاعده مستثنی هستند. انجام سایر پروازهای دیداری نیازمند دریافت مجوز قبلی از سازمان هواپیمایی کشوری است. همچنین پروازهای با دستگاه به مقصد یا از مبدأ فرودگاه‌های بدون تجهیزات ناوبری که هنگام نشست و برخاست نیاز به تغییر به حالت دیداری دارند، مشمول این محدودیت نمی‌شوند.",
+        "notamNumber": "B0503/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "تغییر در منطقه اطلاعات پرواز (FIR)",
+        "validFrom": "۱۴۰۵/۰۷/۰۸، ۱۴:۲۶",
+        "validTo": "۱۴۰۵/۰۸/۰۸، ۱۳:۳۰",
+        "shapeSource": "کل منطقه پروازی (طبق متن نوتام)",
+        "notamSource": "FAA NMS-API",
+        "date": 1790765760,
+        "replaces": "B0466/26",
+        "name:en": "Aviation Notice · Change in Flight Zone · Tehran Flight Zone (Iran)",
+        "description:en": "All general aviation and visual flights have been suspended, but training flights within designated airport boundaries as well as medical evacuation, search and rescue, government, and military flights are exempt from this rule. Conducting other visual flights requires prior authorization from the Civil Aviation Organization. Additionally, instrument flights to or from airports without navigation equipment that require transitioning to visual mode during takeoff and landing are not subject to this restriction.",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDUwMy0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDUwMy0yNg",
+        "sourceId": "notam-oiix-b0503-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-30T10:00:00.000Z",
+        "createdAt": "2026-10-07T04:35:37.797Z",
+        "updatedAt": "2026-10-07T04:35:37.797Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95805,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.58333,
+              27.91667
+            ],
+            [
+              52.33333,
+              27.83333
+            ],
+            [
+              52.33333,
+              27.51667
+            ],
+            [
+              52.58333,
+              27.51667
+            ],
+            [
+              52.58333,
+              27.91667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · منطقه پروازی تهران (ایران)",
+        "description": "سقف ارتفاع پروازی در محدوده مشخص‌شده به سطح پرواز ۱۹۵ کاهش یافته است. اطلاعات مربوطه در مجموعه اطلاعات هوانوردی بر همین اساس اصلاح می‌شود.",
+        "notamNumber": "A2060/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۶/۲۲، ۱۰:۰۵",
+        "validTo": "دائمی",
+        "shapeSource": "منطقه OIR18 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1789281300,
+        "areaCodes": "OIR18",
+        "name:en": "Aviation Notice · Airspace Restriction · Tehran Flight Zone (Iran)",
+        "description:en": "The maximum flight altitude ceiling in the designated area has been reduced to flight level 195. Relevant information in the Aeronautical Information Publication will be amended accordingly.",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjA2MC0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjA2MC0yNg",
+        "sourceId": "notam-oiix-a2060-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-07T04:35:41.785Z",
+        "updatedAt": "2026-10-07T04:35:41.785Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95806,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46,
+              35.85
+            ],
+            [
+              46.1,
+              35.93333
+            ],
+            [
+              46.11667,
+              36
+            ],
+            [
+              46,
+              36
+            ],
+            [
+              46,
+              35.85
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · منطقه پروازی تهران (ایران)",
+        "description": "بر اساس نشریه اطلاعات هوانوردی، محدوده پروازی مشخص‌شده فعال شده است. این منطقه در حال حاضر فعال اعلام شده است.",
+        "notamNumber": "A2198/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۷/۱۱، ۱۴:۱۰",
+        "validTo": "۱۴۰۵/۰۷/۳۰، ۲۲:۰۰",
+        "shapeSource": "منطقه OID125 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1791024000,
+        "replaces": "A2112/26",
+        "areaCodes": "OID125",
+        "name:en": "Aviation Notice · Airspace Restriction · Tehran Flight Zone (Iran)",
+        "description:en": "According to the Aeronautical Information Publication, the specified flight area has been activated. This zone is currently declared active.",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjE5OC0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjE5OC0yNg",
+        "sourceId": "notam-oiix-a2198-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-22T18:30:00.000Z",
+        "createdAt": "2026-10-07T04:35:49.828Z",
+        "updatedAt": "2026-10-07T04:35:49.828Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95807,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.76667,
+              37.86667
+            ],
+            [
+              47.88333,
+              37.85
+            ],
+            [
+              47.86667,
+              37.95
+            ],
+            [
+              47.75,
+              37.93333
+            ],
+            [
+              47.76667,
+              37.86667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · منطقه پروازی تهران (ایران)",
+        "description": "محدوده مشخص‌شده فعال شده است. برای اطلاعات بیشتر به بخش مربوطه در کتابچه اطلاعات هوانوردی ارجاع داده شده است.",
+        "notamNumber": "A2199/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۷/۱۱، ۱۴:۱۵",
+        "validTo": "۱۴۰۵/۰۷/۲۳، ۲۰:۰۰",
+        "shapeSource": "منطقه OID126 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1791024300,
+        "replaces": "A2166/26",
+        "areaCodes": "OID126",
+        "name:en": "Aeronautical Notice · Airspace Restriction · Tehran Flight Zone (Iran)",
+        "description:en": "The designated area has been activated. For more information, reference is made to the relevant section in the Aeronautical Information Publication.",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjE5OS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjE5OS0yNg",
+        "sourceId": "notam-oiix-a2199-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-15T16:30:00.000Z",
+        "createdAt": "2026-10-07T04:35:55.862Z",
+        "updatedAt": "2026-10-07T04:35:55.862Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95808,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.75,
+              37.083333
+            ],
+            [
+              45.5,
+              37
+            ],
+            [
+              45.083333,
+              37
+            ],
+            [
+              45.5,
+              37.166667
+            ],
+            [
+              45.75,
+              37.083333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · منطقه پروازی تهران (ایران)",
+        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "B0504/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۷/۱۱، ۱۴:۱۹",
+        "validTo": "۱۴۰۵/۰۷/۲۳، ۲۲:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1791024540,
+        "replaces": "B0502/26",
+        "name:en": "Aviation Notice · Navigation Warning · Tehran Flight Zone (Iran)",
+        "description:en": "Shooting will be conducted within the specified area.",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDUwNC0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDUwNC0yNg",
+        "sourceId": "notam-oiix-b0504-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-15T18:30:00.000Z",
+        "createdAt": "2026-10-07T04:35:59.299Z",
+        "updatedAt": "2026-10-07T04:35:59.299Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95809,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.001389,
+              34.477778
+            ],
+            [
+              51.064167,
+              34.443611
+            ],
+            [
+              51.035556,
+              34.4025
+            ],
+            [
+              50.986389,
+              34.437778
+            ],
+            [
+              51.001389,
+              34.477778
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · منطقه پروازی تهران (ایران)",
+        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "B0508/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۷/۲۱، ۰۷:۰۰",
+        "validTo": "۱۴۰۵/۰۷/۲۳، ۲۲:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1791862200,
+        "name:en": "Aviation Notice · Navigation Warning · Tehran Flight Region (Iran)",
+        "description:en": "Shooting will take place within the specified area.",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDUwOC0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDUwOC0yNg",
+        "sourceId": "notam-oiix-b0508-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-15T18:30:00.000Z",
+        "createdAt": "2026-10-07T04:36:05.456Z",
+        "updatedAt": "2026-10-07T04:36:05.456Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95810,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.331944,
+              34.494722
+            ],
+            [
+              51.828333,
+              34.597778
+            ],
+            [
+              52.193889,
+              34.750833
+            ],
+            [
+              52.558611,
+              35.1075
+            ],
+            [
+              52.788333,
+              35.170833
+            ],
+            [
+              54.513333,
+              35.171389
+            ],
+            [
+              54.488333,
+              34.275556
+            ],
+            [
+              54.004167,
+              33.743056
+            ],
+            [
+              52.185833,
+              33.743056
+            ],
+            [
+              51.795556,
+              34.233056
+            ],
+            [
+              51.405278,
+              34.291111
+            ],
+            [
+              51.331944,
+              34.494722
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · منطقه پروازی تهران (ایران)",
+        "description": "پرتاب موشک در محدوده مشخص‌شده انجام خواهد شد. این پرتاب‌ها در داخل این منطقه تعیین‌شده تا نقطه مبدا صورت می‌گیرند.",
+        "notamNumber": "A2215/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۷/۱۵، ۰۷:۰۰",
+        "validTo": "۱۴۰۵/۰۷/۱۷، ۱۷:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1791343800,
+        "replaces": "A2212/26",
+        "name:en": "Aviation Notice · Navigation Warning · Tehran Flight Zone (Iran)",
+        "description:en": "Missile launches will take place within the specified area. These launches will occur within this designated area up to the point of origin.",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjIxNS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjIxNS0yNg",
+        "sourceId": "notam-oiix-a2215-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-09T13:30:00.000Z",
+        "createdAt": "2026-10-07T04:36:11.410Z",
+        "updatedAt": "2026-10-07T04:36:11.410Z"
+      }
+    }
+  ],
+  "metadata": {
+    "total": 10,
+    "layerId": 38,
+    "clustered": false,
+    "simplified": false
+  }
+}
