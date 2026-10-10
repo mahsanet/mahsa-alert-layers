@@ -3,63 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 95801,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              47.73333,
-              37.06667
-            ],
-            [
-              47.71667,
-              37.11667
-            ],
-            [
-              47.65,
-              37.11667
-            ],
-            [
-              47.66667,
-              37.06667
-            ],
-            [
-              47.73333,
-              37.06667
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · منطقه پروازی تهران (ایران)",
-        "description": "محدوده مشخص‌شده فعال شده است. برای اطلاعات بیشتر به صفحه مربوطه در کتابچه اطلاعات هوانوردی ارجاع داده شده است.",
-        "notamNumber": "B0491/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
-        "validFrom": "۱۴۰۵/۰۷/۰۷، ۰۸:۰۰",
-        "validTo": "۱۴۰۵/۰۷/۱۸، ۰۰:۰۰",
-        "shapeSource": "منطقه OID124 طبق AIP ایران",
-        "notamSource": "FAA NMS-API",
-        "date": 1790656200,
-        "areaCodes": "OID124",
-        "name:en": "Aviation Notice · Airspace Restriction · Tehran Flight Region (Iran)",
-        "description:en": "The designated area has been activated. For more information, reference is made to the relevant page in the Aeronautical Information Publication.",
-        "id": "Mzg6bm90YW0tb2lpeC1iMDQ5MS0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1iMDQ5MS0yNg",
-        "sourceId": "notam-oiix-b0491-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-09T20:30:00.000Z",
-        "createdAt": "2026-10-07T04:34:51.624Z",
-        "updatedAt": "2026-10-07T04:34:51.624Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 95802,
       "geometry": {
         "type": "Polygon",
@@ -101,6 +44,14 @@
         "date": 1791426600,
         "name:en": "Aviation Notice · Navigation Warning · Tehran Flight Region (Iran)",
         "description:en": "Firearms shooting will be conducted within the specified area.",
+        "name:ar": "إشعار طيران · تحذير ملاحي · منطقه طيران طهران (إيران)",
+        "description:ar": "سيتم إطلاق النار بالأسلحة النارية في المنطقة المحددة.",
+        "name:he": "הודעת תעופה · אזהרת ניווט · אזור טיסה טהראן (איראן)",
+        "description:he": "ירי בנשק חם יבוצע באזור המוגדר.",
+        "name:tr": "Havacılık Bildirimi · Navigasyon Uyarısı · Tahran Uçuş Bölgesi (İran)",
+        "description:tr": "Belirtilen alanda ateşli silahlarla atış yapılacaktır.",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشیاریی ڕێناوچەیی · ناوچەی فڕینی تاران (ئێران)",
+        "description:ckb": "تەقەکردن بە چەکی گەرم لە مەودای دیاریکراودا ئەنجام دەدرێت.",
         "id": "Mzg6bm90YW0tb2lpeC1iMDUwMC0yNg",
         "publicId": "Mzg6bm90YW0tb2lpeC1iMDUwMC0yNg",
         "sourceId": "notam-oiix-b0500-26",
@@ -157,6 +108,14 @@
         "date": 1792236600,
         "name:en": "Aviation Notice · Navigation Warning · Tehran Flight Region (Iran)",
         "description:en": "Shooting will take place within the specified area.",
+        "name:ar": "إشعار طيران · تحذير ملاحي · منطقة طيران طهران (إيران)",
+        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
+        "name:he": "הודעת תעופה · אזהרת ניווט · אזור טיסה טהראן (איראן)",
+        "description:he": "ירי יבוצע באזור המוגדר.",
+        "name:tr": "Havacılık Bildirimi · Navigasyon Uyarısı · Tahran Uçuş Bölgesi (İran)",
+        "description:tr": "Belirtilen alanda atış yapılacaktır.",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشیاریی ڕێناوچەیی · ناوچەی فڕینی تاران (ئێران)",
+        "description:ckb": "تەقەکردن لە مەودای دیاریکراودا ئەنجام دەدرێت.",
         "id": "Mzg6bm90YW0tb2lpeC1hMjE2OC0yNg",
         "publicId": "Mzg6bm90YW0tb2lpeC1hMjE2OC0yNg",
         "sourceId": "notam-oiix-a2168-26",
@@ -986,6 +945,14 @@
         "replaces": "B0466/26",
         "name:en": "Aviation Notice · Change in Flight Zone · Tehran Flight Zone (Iran)",
         "description:en": "All general aviation and visual flights have been suspended, but training flights within designated airport boundaries as well as medical evacuation, search and rescue, government, and military flights are exempt from this rule. Conducting other visual flights requires prior authorization from the Civil Aviation Organization. Additionally, instrument flights to or from airports without navigation equipment that require transitioning to visual mode during takeoff and landing are not subject to this restriction.",
+        "name:ar": "إشعار طيران · تغيير في منطقة الطيران · منطقة طيران طهران (إيران)",
+        "description:ar": "تم تعليق جميع رحلات الطيران العام والرحلات البصرية، باستثناء رحلات التدريب في مطارات محددة ورحلات الإسعاف الطبي والبحث والإنقاذ والحكومية والعسكرية. يتطلب إجراء الرحلات البصرية الأخرى إذنًا مسبقًا من منظمة الطيران المدني. كما لا تخضع لهذه القيود الرحلات الآلية من وإلى المطارات التي تفتقر إلى أجهزة الملاحة والتي تتطلب التحول إلى الوضع البصري أثناء الهبوط والإقلاع.",
+        "name:he": "הודעת תעופה · שינוי באזור הטיסה · אזור טיסה טהראן (איראן)",
+        "description:he": "כל טיסות התעופה הכללית וטיסות הראייה הושעו, אך טיסות אימון בתחום שדות התעופה המוגדרים, וכן טיסות פינוי רפואי, חיפוש והצלה, טיסות ממשלתיות וצבאיות יוצאות מן הכלל. ביצוע טיסות ראייה אחרות מחייב קבלת אישור מראש מרשות התעופה האזרחית. כמו כן, טיסות מכשירים אל או מנמלי תעופה ללא ציוד ניווט, הדורשות מעבר למצב ראייה בעת נחיתה והמראה, אינן כפופות להגבלה זו.",
+        "name:tr": "Havacılık Bildirimi · Uçuş Bölgesi Değişikliği · Tahran Uçuş Bölgesi (İran)",
+        "description:tr": "Tüm genel havacılık ve görerek uçuşlar askıya alınmıştır; ancak belirlenen havalimanları sınırları içindeki eğitim uçuşları ile tıbbi tahliye, arama-kurtarma, devlet ve askeri uçuşlar bu kuralın dışındadır. Diğer görerek uçuşların gerçekleştirilmesi Sivil Havacılık Örgütünden ön izin alınmasını gerektirir. Ayrıca iniş kalkış esnasında görerek uçuşa geçiş yapması gereken ve seyrüsefer cihazı bulunmayan havalimanlarına yapılan aletli uçuşlar bu kısıtlamaya dahil değildir.",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · گۆڕانکاری لە ناوچەی فڕین · ناوچەی فڕینی تاران (ئێران)",
+        "description:ckb": "سەرجەم فڕینەکانی فڕۆکەوانیی گشتی و فڕینە بینراوەکان هەڵپەسێردراون، بەڵام فڕینە مەشقپێکردنەکان لە مەودای فڕۆکەخانە دیاریکراوەکان و هەروەها فڕینەکانی فریاگوزاریی پزیشکی، گەڕان و ڕزگارکردن، حکومی و سەربازی لەم یاسایە بەدەرن. ئەنجامدانی فڕینە بینراوەکانی تر پێویستی بە وەرگرتنی مۆڵەتی پێشوەختە لە ڕێکخراوی فڕۆکەوانیی شارستانی هەیە. هەروەها ئەو فڕینانەی بە ئامێر بۆ مەبەست یان لە سەرچاوەی فڕۆکەخانەکانی بێ کەرەستەی ڕێناوچەیی کە لە کاتی نیشتنەوە و هەستانەوەدا پێویستیان بە گۆڕین بۆ باری بینراو هەیە، ئەم سنووردارکردنە نایانگرێتەوە.",
         "id": "Mzg6bm90YW0tb2lpeC1iMDUwMy0yNg",
         "publicId": "Mzg6bm90YW0tb2lpeC1iMDUwMy0yNg",
         "sourceId": "notam-oiix-b0503-26",
@@ -1043,6 +1010,14 @@
         "areaCodes": "OIR18",
         "name:en": "Aviation Notice · Airspace Restriction · Tehran Flight Zone (Iran)",
         "description:en": "The maximum flight altitude ceiling in the designated area has been reduced to flight level 195. Relevant information in the Aeronautical Information Publication will be amended accordingly.",
+        "name:ar": "إشعار طيران · قيود المجال الجوي · منطقة طيران طهران (إيران)",
+        "description:ar": "تم تخفيض الحد الأقصى لارتفاع الطيران في المنطقة المحددة إلى مستوى الطيران 195. ويتم تعديل المعلومات ذات الصلة في مجموعة معلومات الطيران بناءً على ذلك.",
+        "name:he": "הודעת תעופה · הגבלת המרחב האווירי · אזור טיסה טהראן (איראן)",
+        "description:he": "תקרת גובה הטיסה באזור המוגדר הופחתה לרום טיסה 195. המידע הרלוונטי בקובץ מידע תעופתי יעודכן בהתאם.",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Tahran Uçuş Bölgesi (İran)",
+        "description:tr": "Belirtilen alandaki azami uçuş irtifası FL195 seviyesine düşürülmüştür. İlgili bilgiler Havacılık Bilgi Yayınında buna göre güncellenecektir.",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی ئاسمانی · ناوچەی فڕینی تاران (ئێران)",
+        "description:ckb": "ئاستی بەرزیی فڕین لە مەودای دیاریکراودا بۆ ئاستی فڕینی 195 کەم کراوەتەوە. زانیارییە پەیوەندیدارەکان لە کۆمەڵەی زانیاریی فڕۆکەوانیدا لەسەر ئەم بنەمایە ڕاست دەکرێنەوە.",
         "id": "Mzg6bm90YW0tb2lpeC1hMjA2MC0yNg",
         "publicId": "Mzg6bm90YW0tb2lpeC1hMjA2MC0yNg",
         "sourceId": "notam-oiix-a2060-26",
@@ -1101,6 +1076,13 @@
         "areaCodes": "OID125",
         "name:en": "Aviation Notice · Airspace Restriction · Tehran Flight Zone (Iran)",
         "description:en": "According to the Aeronautical Information Publication, the specified flight area has been activated. This zone is currently declared active.",
+        "name:ar": "إشعار طيران · قيود المجال الجوي · منطقة طيران طهران (إيران)",
+        "description:ar": "وفقاً لنشرة معلومات الطيران، تم تنشيط المنطقة الجوية المحددة. أُعلنت هذه المنطقة حالياً منطقة نشطة.",
+        "name:he": "הודעת תעופה · הגבלת המרחב האווירי · אזור טיסה טהראן (איראן)",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Tahran Uçuş Bölgesi (İran)",
+        "description:tr": "Havacılık Bilgi Yayınında yer alan bilgilere göre belirlenen uçuş alanı aktif hale getirilmiştir. Bu alan şu anda aktif olarak ilan edilmiştir.",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی ئاسمانی · ناوچەی فڕینی تاران (ئێران)",
+        "description:ckb": "بەپێی بڵاوکراوەی زانیاریی فڕۆکەوانی، مەودای فڕینی دیاریکراو چالاک کراوە. ئەم ناوچەیە لە ئێستادا بە چالاک ڕاگەیەندراوە.",
         "id": "Mzg6bm90YW0tb2lpeC1hMjE5OC0yNg",
         "publicId": "Mzg6bm90YW0tb2lpeC1hMjE5OC0yNg",
         "sourceId": "notam-oiix-a2198-26",
@@ -1159,6 +1141,14 @@
         "areaCodes": "OID126",
         "name:en": "Aeronautical Notice · Airspace Restriction · Tehran Flight Zone (Iran)",
         "description:en": "The designated area has been activated. For more information, reference is made to the relevant section in the Aeronautical Information Publication.",
+        "name:ar": "إشعار الطيران · قيود المجال الجوي · منطقة الطيران طهران (إيران)",
+        "description:ar": "تم تفعيل المنطقة المحددة. لمزيد من المعلومات، يُرجى الرجوع إلى القسم ذي الصلة في دليل معلومات الطيران.",
+        "name:he": "הודעה לתעופה · הגבלת המרחב האווירי · אזור הטיסה טהראן (איראן)",
+        "description:he": "האזור המוגדר הופעל. למידע נוסף יש לעיין בסעיף הרלוונטי בפרסום מידע תעופתי.",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Tahran Uçuş Bölgesi (İran)",
+        "description:tr": "Belirtilen alan aktif hale getirilmiştir. Daha fazla bilgi için Havacılık Bilgi Yayınındaki ilgili bölüme başvurulmalıdır.",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی ئاسمانی · ناوچەی فڕینی تاران (ئێران)",
+        "description:ckb": "مەودای دیاریکراو چالاک کراوە. بۆ زانیاریی زیاتر ئاماژە بە بەشی پەیوەندیدار لە پەڕتووکی زانیاریی فڕۆکەوانیدا کراوە.",
         "id": "Mzg6bm90YW0tb2lpeC1hMjE5OS0yNg",
         "publicId": "Mzg6bm90YW0tb2lpeC1hMjE5OS0yNg",
         "sourceId": "notam-oiix-a2199-26",
@@ -1216,6 +1206,14 @@
         "replaces": "B0502/26",
         "name:en": "Aviation Notice · Navigation Warning · Tehran Flight Zone (Iran)",
         "description:en": "Shooting will be conducted within the specified area.",
+        "name:ar": "إشعار الطيران · تحذير ملاحي · منطقة الطيران طهران (إيران)",
+        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
+        "name:he": "הודעה לתעופה · אזהרת ניווט · אזור הטיסה טהראן (איראן)",
+        "description:he": "ירי יבוצע באזור המוגדר.",
+        "name:tr": "Havacılık Bildirimi · Navigasyon Uyarısı · Tahran Uçuş Bölgesi (İran)",
+        "description:tr": "Belirtilen alanda atış yapılacaktır.",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشیاریی ڕێناوچەیی · ناوچەی فڕینی تاران (ئێران)",
+        "description:ckb": "تەقەکردن لە مەودای دیاریکراودا ئەنجام دەدرێت.",
         "id": "Mzg6bm90YW0tb2lpeC1iMDUwNC0yNg",
         "publicId": "Mzg6bm90YW0tb2lpeC1iMDUwNC0yNg",
         "sourceId": "notam-oiix-b0504-26",
@@ -1272,6 +1270,14 @@
         "date": 1791862200,
         "name:en": "Aviation Notice · Navigation Warning · Tehran Flight Region (Iran)",
         "description:en": "Shooting will take place within the specified area.",
+        "name:ar": "إشعار الطيران · تحذير ملاحي · منطقة الطيران طهران (إيران)",
+        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
+        "name:he": "הודעה לתעופה · אזהרת ניווט · אזור הטיסה טהראן (איראן)",
+        "description:he": "ירי יבוצע באזור המוגדר.",
+        "name:tr": "Havacılık Bildirimi · Navigasyon Uyarısı · Tahran Uçuş Bölgesi (İran)",
+        "description:tr": "Belirtilen alanda atış yapılacaktır.",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشیاریی ڕێناوچەیی · ناوچەی فڕینی تاران (ئێران)",
+        "description:ckb": "تەقەکردن لە مەودای دیاریکراودا ئەنجام دەدرێت.",
         "id": "Mzg6bm90YW0tb2lpeC1iMDUwOC0yNg",
         "publicId": "Mzg6bm90YW0tb2lpeC1iMDUwOC0yNg",
         "sourceId": "notam-oiix-b0508-26",
@@ -1284,95 +1290,10 @@
         "createdAt": "2026-10-07T04:36:05.456Z",
         "updatedAt": "2026-10-07T04:36:05.456Z"
       }
-    },
-    {
-      "type": "Feature",
-      "id": 95810,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              51.331944,
-              34.494722
-            ],
-            [
-              51.828333,
-              34.597778
-            ],
-            [
-              52.193889,
-              34.750833
-            ],
-            [
-              52.558611,
-              35.1075
-            ],
-            [
-              52.788333,
-              35.170833
-            ],
-            [
-              54.513333,
-              35.171389
-            ],
-            [
-              54.488333,
-              34.275556
-            ],
-            [
-              54.004167,
-              33.743056
-            ],
-            [
-              52.185833,
-              33.743056
-            ],
-            [
-              51.795556,
-              34.233056
-            ],
-            [
-              51.405278,
-              34.291111
-            ],
-            [
-              51.331944,
-              34.494722
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · منطقه پروازی تهران (ایران)",
-        "description": "پرتاب موشک در محدوده مشخص‌شده انجام خواهد شد. این پرتاب‌ها در داخل این منطقه تعیین‌شده تا نقطه مبدا صورت می‌گیرند.",
-        "notamNumber": "A2215/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "validFrom": "۱۴۰۵/۰۷/۱۵، ۰۷:۰۰",
-        "validTo": "۱۴۰۵/۰۷/۱۷، ۱۷:۰۰",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamSource": "FAA NMS-API",
-        "date": 1791343800,
-        "replaces": "A2212/26",
-        "name:en": "Aviation Notice · Navigation Warning · Tehran Flight Zone (Iran)",
-        "description:en": "Missile launches will take place within the specified area. These launches will occur within this designated area up to the point of origin.",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjIxNS0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjIxNS0yNg",
-        "sourceId": "notam-oiix-a2215-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-09T13:30:00.000Z",
-        "createdAt": "2026-10-07T04:36:11.410Z",
-        "updatedAt": "2026-10-07T04:36:11.410Z"
-      }
     }
   ],
   "metadata": {
-    "total": 10,
+    "total": 8,
     "layerId": 38,
     "clustered": false,
     "simplified": false
