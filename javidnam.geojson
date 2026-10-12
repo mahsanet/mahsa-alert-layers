@@ -20290,7 +20290,8 @@
             "name:en": "Mojtaba Rezwani Rostami",
             "name:ar": "مجتبى رضواني رستمي",
             "name:tr": "Mücteba Rezvani Rostami",
-            "name:ckb": "موجتەبا ڕەزەوانی ڕوستەمی"
+            "name:ckb": "موجتەبا ڕەزەوانی ڕوستەمی",
+            "name:he": "מוג'תבא רצוואני רוסתמי"
           },
           {
             "date": "1767976200",
@@ -20301,7 +20302,8 @@
             "sources": "https://t.me/RememberTheirNames/988",
             "name:ar": "مهدي حسامي",
             "name:tr": "Mehdi Hesami",
-            "name:ckb": "مەهدی حسامی"
+            "name:ckb": "مەهدی حسامی",
+            "name:he": "מהדי חסאמי"
           },
           {
             "date": "1767976200",
@@ -20312,7 +20314,8 @@
             "name:en": "Amir-Reza Ebrahimnejad Gorji",
             "name:ar": "أميررضا إبراهيم نجاد كرجي",
             "name:tr": "Emir Rıza İbrahimnecad Gorci",
-            "name:ckb": "ئەمیرڕەزا ئیبراهیم‌نژاد گورجی"
+            "name:ckb": "ئەمیرڕەزا ئیبراهیم‌نژاد گورجی",
+            "name:he": "אמיר-רזא אבראהים-נז'אד גורג'י"
           },
           {
             "date": "1767976200",
@@ -20323,7 +20326,8 @@
             "sources": "https://t.me/RememberTheirNames/990",
             "name:ar": "سينا فرجي",
             "name:tr": "Sina Fereci",
-            "name:ckb": "سینا فەرەجی"
+            "name:ckb": "سینا فەرەجی",
+            "name:he": "סינא פרג'י"
           }
         ],
         "city:en": "Rostamkala, Mazandaran",
@@ -20335,6 +20339,8 @@
         "province:tr": "Mazenderan",
         "city:ckb": "ڕوستەمکەلای مازەندەران",
         "province:ckb": "مازەندەران",
+        "city:he": "רוסתם-כלא",
+        "province:he": "מאזנדראן",
         "publicId": "MTY6MTAyMzk",
         "sourceId": "10239",
         "layerId": 16,
@@ -33421,7 +33427,8 @@
             "name:en": "Amirhossam Khodayari-Fard",
             "name:ar": "أمير حسام خداياري فرد",
             "name:tr": "Emirhesam Hodayariferd",
-            "name:ckb": "ئەمیرحسام خودایاری‌فەرد"
+            "name:ckb": "ئەمیرحسام خودایاری‌فەرد",
+            "name:he": "אמיר-חסאם ח'דאיארי-פרד"
           }
         ],
         "city:en": "Kuhdasht",
@@ -33433,6 +33440,8 @@
         "province:tr": "Luristan",
         "city:ckb": "کۆیەشت",
         "province:ckb": "لوڕستان",
+        "city:he": "כוהדשת",
+        "province:he": "לורסתאן",
         "publicId": "MTY6MTAyOTE",
         "sourceId": "10291",
         "layerId": 16,
