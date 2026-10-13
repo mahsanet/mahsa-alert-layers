@@ -93310,10 +93310,49 @@
         "createdAt": "2026-10-10T15:46:31.163Z",
         "updatedAt": "2026-10-10T15:46:31.163Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86931167393968,
+          38.418818882108695
+        ]
+      },
+      "properties": {
+        "name": "دکل مخابرات",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzU6NmQ5YjJhN2FhNGE1",
+        "publicId": "MzU6NmQ5YjJhN2FhNGE1",
+        "sourceId": "6d9b2a7aa4a5",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:28:24.925Z",
+        "updatedAt": "2026-10-12T11:28:24.925Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2018,
+    "total": 2019,
     "layerId": 35,
     "clustered": false,
     "simplified": false

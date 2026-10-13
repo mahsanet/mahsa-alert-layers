@@ -65157,54 +65157,6 @@
     },
     {
       "type": "Feature",
-      "id": 91385,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.86955397326594,
-          38.41986663874533
-        ]
-      },
-      "properties": {
-        "city": "آستارا",
-        "date": 1771306334,
-        "name:fa": "پادگان سپاه",
-        "province": "استان گیلان",
-        "description": "پادگان سپاه آستارا بلوار بسیج",
-        "name:en": "IRGC Garrison",
-        "description:en": "Astara IRGC garrison on Basij Boulevard",
-        "city:en": "Astara",
-        "province:en": "Gilan",
-        "name:ar": "ثكنة الحرس الثوري",
-        "description:ar": "ثكنة الحرس الثوري في أستارا، شارع التعبئة (بسيج)",
-        "city:ar": "أستارا",
-        "province:ar": "جيلان",
-        "name:he": "בסיס משמרות המהפכה",
-        "city:he": "אסתארא",
-        "province:he": "גילאן",
-        "name:tr": "Devrim Muhafızları Kışlası",
-        "description:tr": "Astara Devrim Muhafızları Kışlası, Besiç Bulvarı",
-        "city:tr": "Astara",
-        "province:tr": "Gilan",
-        "name:ckb": "سەربازگەی سوپا",
-        "description:ckb": "سەربازگەی سوپای ئاستارا، بوڵواری بەسیج",
-        "city:ckb": "ئاستارا",
-        "province:ckb": "گیلان",
-        "id": "MTI6NTc4Y2EyOWNmYjM0",
-        "publicId": "MTI6NTc4Y2EyOWNmYjM0",
-        "sourceId": "578ca29cfb34",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-02-17T05:32:14.942Z",
-        "updatedAt": "2026-04-08T20:49:25.303Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 91386,
       "geometry": {
         "type": "Point",
@@ -81218,28 +81170,29 @@
         ]
       },
       "properties": {
-        "name:fa": "ساختمان سپاه آستارا",
+        "name:fa": "ساختمان مرکزی سپاه آستارا",
+        "unofficial_name:fa": "",
         "description": "ساختمان سپاه آستارا",
         "date": 1780496950,
         "city": "آستارا",
         "province": "استان گیلان",
-        "name:en": "Astara IRGC Building",
-        "description:en": "Astara IRGC Building",
+        "name:en": "Astara Sepah Central Building",
+        "description:en": "Astara Sepah Building",
         "city:en": "Astara",
         "province:en": "Gilan",
-        "name:ar": "مبنى الحرس الثوري في آستارا",
+        "name:ar": "المبنى المركزي للحرس الثوري في آستارا",
         "description:ar": "مبنى الحرس الثوري في آستارا",
         "city:ar": "آستارا",
         "province:ar": "جيلان",
-        "name:he": "בניין משמרות המהפכה אסטארה",
-        "description:he": "בניין משמרות המהפכה אסטארה",
+        "name:he": "הבניין המרכזי של משמרות המהפכה באסטארה",
+        "description:he": "בניין משמרות המהפכה באסטארה",
         "city:he": "אסטארה",
         "province:he": "גילאן",
-        "name:tr": "Astara Devrim Muhafızları Binası",
-        "description:tr": "Astara Devrim Muhafızları binası",
+        "name:tr": "Astara Sepah Merkez Binası",
+        "description:tr": "Astara Sepah Binası",
         "city:tr": "Astara",
         "province:tr": "Gilan",
-        "name:ckb": "باڵەخانەی سوپای ئاستارا",
+        "name:ckb": "باڵەخانەی ناوەندیی سوپای ئاستارا",
         "description:ckb": "باڵەخانەی سوپای ئاستارا",
         "city:ckb": "ئاستارا",
         "province:ckb": "گیلان",
@@ -81253,7 +81206,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-06-04T03:35:56.848Z",
-        "updatedAt": "2026-06-04T03:35:56.848Z"
+        "updatedAt": "2026-10-12T11:19:39.174Z"
       }
     },
     {
@@ -89204,10 +89157,473 @@
         "createdAt": "2026-10-09T11:24:08.304Z",
         "updatedAt": "2026-10-09T11:24:08.304Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95974,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.8691452270518,
+              38.419816623662655
+            ],
+            [
+              48.86943612935295,
+              38.41981007020189
+            ],
+            [
+              48.87036324965908,
+              38.41971501604701
+            ],
+            [
+              48.87078181413054,
+              38.419675683257054
+            ],
+            [
+              48.871217121194235,
+              38.420680305819985
+            ],
+            [
+              48.86987562206269,
+              38.42092613198872
+            ],
+            [
+              48.86917034092693,
+              38.42093432618006
+            ],
+            [
+              48.8691452270518,
+              38.419816623662655
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان سپاه",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "IRGC Barracks",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "ثكنة الحرس الثوري",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "בסיס משמרות המהפכה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Sepah Kışlası",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "سەربازگەی سوپا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTI6NTRlNzE4MThlNjcz",
+        "publicId": "MTI6NTRlNzE4MThlNjcz",
+        "sourceId": "54e71818e673",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:17:31.087Z",
+        "updatedAt": "2026-10-12T11:17:31.087Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95977,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.86914402280638,
+              38.41980123783134
+            ],
+            [
+              48.869382779819404,
+              38.41979698856446
+            ],
+            [
+              48.87076377209158,
+              38.419667385811096
+            ],
+            [
+              48.870693230246104,
+              38.419459171064915
+            ],
+            [
+              48.87054672026778,
+              38.418549817996734
+            ],
+            [
+              48.87050602304936,
+              38.418522197280254
+            ],
+            [
+              48.86910603874142,
+              38.418685796753635
+            ],
+            [
+              48.86914402280638,
+              38.41980123783134
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTI6Y2FkMDljNDQxNzg5",
+        "publicId": "MTI6Y2FkMDljNDQxNzg5",
+        "sourceId": "cad09c441789",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:31:33.359Z",
+        "updatedAt": "2026-10-12T11:31:33.359Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95979,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.86034305663304,
+              35.212722736716515
+            ],
+            [
+              48.86030921101633,
+              35.21367950839547
+            ],
+            [
+              48.86112317627078,
+              35.21467938710907
+            ],
+            [
+              48.86143063235508,
+              35.21574902441516
+            ],
+            [
+              48.861585454290804,
+              35.21658441844731
+            ],
+            [
+              48.8621743426624,
+              35.21693899291755
+            ],
+            [
+              48.86329208810895,
+              35.21752291275983
+            ],
+            [
+              48.864144023937456,
+              35.218020218204956
+            ],
+            [
+              48.86446681550322,
+              35.21861681188629
+            ],
+            [
+              48.86526659402469,
+              35.21877509785217
+            ],
+            [
+              48.865946148080184,
+              35.219385622629915
+            ],
+            [
+              48.86733646495554,
+              35.22008013918884
+            ],
+            [
+              48.86845804817375,
+              35.22144683170201
+            ],
+            [
+              48.86989652270731,
+              35.2224002021904
+            ],
+            [
+              48.870964622391625,
+              35.221840891499426
+            ],
+            [
+              48.87398079169725,
+              35.220703734766985
+            ],
+            [
+              48.8766597924359,
+              35.219907829231346
+            ],
+            [
+              48.87696002204524,
+              35.21838047145525
+            ],
+            [
+              48.87449062997865,
+              35.21631626310308
+            ],
+            [
+              48.87379773706377,
+              35.21509328244916
+            ],
+            [
+              48.872353363157515,
+              35.214437136599514
+            ],
+            [
+              48.870252547925475,
+              35.21367336558514
+            ],
+            [
+              48.86744370356212,
+              35.212965681704816
+            ],
+            [
+              48.86672485759692,
+              35.21219440808808
+            ],
+            [
+              48.86417006208637,
+              35.21151509469041
+            ],
+            [
+              48.86310257874368,
+              35.21124542637192
+            ],
+            [
+              48.86216378379365,
+              35.21124252402515
+            ],
+            [
+              48.861213862868965,
+              35.211425178672684
+            ],
+            [
+              48.86095092939121,
+              35.21183226489225
+            ],
+            [
+              48.86034305663304,
+              35.212722736716515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "میدان تیراندازی و آموزش نظامی",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "name:en": "Shooting and Military Training Range",
+        "city:en": "Kabudarahang County",
+        "province:en": "Hamadan",
+        "name:ar": "ميدان الرماية والتدريب العسكري",
+        "city:ar": "مقاطعة كبودراهنغ",
+        "province:ar": "همدان",
+        "name:he": "מטווח ואימון צבאי",
+        "city:he": "נפת כבודאראהנג",
+        "province:he": "המדאן",
+        "name:tr": "Atış Sahası ve Askerî Eğitim Alanı",
+        "city:tr": "Kabudarahang Şehristanı",
+        "province:tr": "Hemedan",
+        "name:ckb": "مەیدانی تەقەکردن و ڕاهێنانی سەربازی",
+        "city:ckb": "شارستانی کەبوودەرئاهەنگ",
+        "province:ckb": "ھەمەدان",
+        "id": "MTI6MmRiZmFlZjY3NDk3",
+        "publicId": "MTI6MmRiZmFlZjY3NDk3",
+        "sourceId": "2dbfaef67497",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:35:34.176Z",
+        "updatedAt": "2026-10-12T11:35:34.176Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95980,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.782368674874306,
+          35.18232516769302
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز آموزش سپاه",
+        "unofficial_name:fa": "",
+        "description": "مرکز آموزش سپاه و تجمع سرکوب‌گران استان همدان",
+        "date": 1791736515,
+        "city": "داق داق آباد",
+        "province": "استان همدان",
+        "name:en": "Sepah Training Center",
+        "description:en": "Sepah training center and gathering place for repressor forces in Hamadan Province",
+        "city:en": "Dagh Dagh Abad",
+        "province:en": "Hamadan",
+        "name:ar": "مركز تدريب الحرس الثوري",
+        "description:ar": "مركز تدريب الحرس الثوري وتجمع القامعين في محافظة همدان",
+        "city:ar": "داق داق أباد",
+        "province:ar": "همدان",
+        "name:he": "מרכז האימונים של משמרות המהפכה",
+        "description:he": "מרכז אימונים של משמרות המהפכה ומקום התכנסות של כוחות הדיכוי במחוז המדאן",
+        "city:he": "דאק דאק אבאד",
+        "province:he": "המדאן",
+        "name:tr": "Sepah Eğitim Merkezi",
+        "description:tr": "Hamedan eyaletindeki Sepah eğitim merkezi ve baskı güçlerinin toplanma alanı.",
+        "city:tr": "Dağdağabad",
+        "province:tr": "Hemedan",
+        "name:ckb": "ناوەندی ڕاهێنانی سوپا",
+        "description:ckb": "ناوەندی ڕاهێنانی سوپا و شوێنی کۆبوونەوەی سەرکوتکەرانی پارێزگای هەمەدان",
+        "city:ckb": "داق داق ئاباد",
+        "province:ckb": "ھەمەدان",
+        "id": "MTI6YWI2NjMzNzA1MWZl",
+        "publicId": "MTI6YWI2NjMzNzA1MWZl",
+        "sourceId": "ab66337051fe",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:36:42.444Z",
+        "updatedAt": "2026-10-12T11:36:42.444Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.49175114929676,
+          35.67940589742028
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز گزینش نیروی قدس سپاه",
+        "unofficial_name:fa": "",
+        "description": "جنب مسجد، یک ساختمان یک طبقه با دکل مخابراتی که محل گزینش نیروی قدس سپاه و محل تجمع نیروهای سرکوب و موتورهای آن‌ها است. اطراف ساختمان ۷ دوربین تشخیص چهره قرار دارد.",
+        "date": 1791751979,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "IRGC Quds Force Recruitment Center",
+        "description:en": "Next to the mosque, a one-story building with a telecommunications tower serves as the recruitment center for the IRGC Quds Force and a gathering area for repressive forces and their motorcycles. There are 7 facial recognition cameras around the building.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مركز تجنيد فيلق القدس التابع للحرس الثوري",
+        "description:ar": "بجوار المسجد، مبنى من طابق واحد مزود ببرج اتصالات، وهو مركز تجنيد فيلق القدس التابع للحرس الثوري ومكان لتجمع قوات القمع ودراجاتهم النارية. توجد حول المبنى 7 كاميرات للتعرف على الوجوه.",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מרכז המיון והגיוס של כוח קודס של משמרות המהפכה",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Devrim Muhafızları Kudüs Gücü Seçim Merkezi",
+        "description:tr": "Caminin yanında, telekomünikasyon kulesi bulunan tek katlı bir bina. Burası Devrim Muhafızları Kudüs Gücü'nün seçim merkezi ve baskı güçleri ile motosikletlerinin toplanma yeridir. Binanın etrafında 7 adet yüz tanıma kamerası bulunmaktadır.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "ناوەندی گزینشی هێزی قودسی سوپا",
+        "description:ckb": "لە تەنیشت مزگەوتەکە، بینایەکی یەک نهۆمی بە دەکلی پەیوەندییەکان کە شوێنی گزینشی هێزی قودسی سوپا و شوێنی کۆبوونەوەی هێزەکانی سەرکوتکەر و ماتۆڕەکانیانە. لە دەوروبەری بیناکە 7 کامێرای ناسینەوەی دەموچاو هەن.",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MTI6MDJhYmQxMWIyOTQ1",
+        "publicId": "MTI6MDJhYmQxMWIyOTQ1",
+        "sourceId": "02abd11b2945",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:39:10.221Z",
+        "updatedAt": "2026-10-12T11:39:10.221Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95986,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.97930299975576,
+          35.666780067848975
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه ملارد",
+        "unofficial_name:fa": "",
+        "description": "پایگاه سپاه ملارد",
+        "date": 1791753518,
+        "city": "ملارد",
+        "province": "استان تهران",
+        "name:en": "Malard Sepah Base",
+        "description:en": "Malard Sepah Base",
+        "city:en": "Malard",
+        "province:en": "Tehran",
+        "name:ar": "قاعدة الحرس الثوري في ملارد",
+        "description:ar": "قاعدة الحرس الثوري في ملارد",
+        "city:ar": "ملارد",
+        "province:ar": "طهران",
+        "name:he": "בסיס משמרות המהפכה מלארד",
+        "description:he": "בסיס משמרות המהפכה מלארד",
+        "city:he": "מלארד",
+        "province:he": "טהראן",
+        "name:tr": "Malard Devrim Muhafızları Üssü",
+        "description:tr": "Malard Devrim Muhafızları Üssü",
+        "city:tr": "Malard",
+        "province:tr": "Tahran",
+        "name:ckb": "بنکەی سوپای مەلارد",
+        "description:ckb": "بنکەی سوپای مەلارد",
+        "city:ckb": "مەلارد",
+        "province:ckb": "تاران",
+        "id": "MTI6NWRlMzMwYTY0MTc1",
+        "publicId": "MTI6NWRlMzMwYTY0MTc1",
+        "sourceId": "5de330a64175",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:47:19.173Z",
+        "updatedAt": "2026-10-12T11:47:23.805Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1080,
+    "total": 1085,
     "layerId": 12,
     "clustered": false,
     "simplified": false

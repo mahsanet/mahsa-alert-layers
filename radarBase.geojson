@@ -5553,10 +5553,140 @@
         "createdAt": "2026-10-03T10:57:25.928Z",
         "updatedAt": "2026-10-03T10:57:25.928Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.32579429075122,
+          33.52457052728485
+        ]
+      },
+      "properties": {
+        "name:fa": "رادار نخجیر",
+        "unofficial_name:fa": "",
+        "description": "پایگاه موشکی و رادار هشدار زودهنگام نخجیر دارای سامانه اس ۳۰۰ و سامانه‌های پدافندی در بخش صالح‌آباد، دهستان هجداندشت",
+        "date": 1791719181,
+        "city": "شهرستان مهران",
+        "province": "استان ایلام",
+        "name:en": "Nakhjir Radar",
+        "description:en": "Nakhjir missile base and early warning radar equipped with an S-300 system and air defense systems in Saleh Abad District, Hejdandasht Rural District.",
+        "city:en": "Mehran County",
+        "province:en": "Ilam",
+        "name:ar": "رادار نخجير",
+        "description:ar": "قاعدة صاروخية ورادار إنذار مبكر في نخجير تضم منظومة إس-300 وأنظمة دفاع جوي في ناحية صالح آباد، ناحية هجداندشت الريفية",
+        "city:ar": "مقاطعة مهران",
+        "province:ar": "إيلام",
+        "name:he": "ראדאר נחג'יר",
+        "description:he": "בסיס טילים וראדאר התרעה מוקדמת נחג'יר הכולל מערכת אס-300 ומערכות הגנה אווירית בנפת סאלח אבאד, מועצה אזורית הג'דאנדשת",
+        "city:he": "נפת מהראן",
+        "province:he": "אילאם",
+        "name:tr": "Nahcir Radarı",
+        "description:tr": "Salihabad ilçesi, Hecdandeşt kırsal beldesinde bulunan Nahcir füze üssü ve erken uyarı radarı, S-300 sistemine ve hava savunma sistemlerine sahiptir.",
+        "city:tr": "Mehran Şehristanı",
+        "province:tr": "İlam",
+        "name:ckb": "ڕاداری نەخجیر",
+        "description:ckb": "بنکەی مووشەکی و ڕاداری ئاگادارکردنەوەی پێشوەختەی نەخجیر کە خاوەنی سیستەمی ئێس 300 و سیستەمەکانی بەرگریی ئاسمانییە لە ناوچەی ساڵح ئاواد، گوندەواری هەجداندەشت",
+        "city:ckb": "شارستانی مێهران",
+        "province:ckb": "ئیلام",
+        "id": "OTo1Yzc1NjNiNTA4ZDc",
+        "publicId": "OTo1Yzc1NjNiNTA4ZDc",
+        "sourceId": "5c7563b508d7",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:50:00.191Z",
+        "updatedAt": "2026-10-12T11:50:00.191Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.30003457319526,
+          33.53760135523616
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان مهران",
+        "province": "استان ایلام",
+        "city:en": "Mehran County",
+        "province:en": "Ilam",
+        "city:ar": "قضاء مهران",
+        "province:ar": "إيلام",
+        "city:he": "נפת מהראן",
+        "province:he": "אילאם",
+        "city:tr": "Mehran",
+        "province:tr": "İlam",
+        "city:ckb": "شارستانی مێهران",
+        "province:ckb": "ئیلام",
+        "id": "OTo3NzQ4ZGVlMGU1MWU",
+        "publicId": "OTo3NzQ4ZGVlMGU1MWU",
+        "sourceId": "7748dee0e51e",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:58:13.455Z",
+        "updatedAt": "2026-10-12T11:58:13.455Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.30038750581531,
+          33.53726261455364
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان مهران",
+        "province": "استان ایلام",
+        "city:en": "Mehran County",
+        "province:en": "Ilam",
+        "city:ar": "قضاء مهران",
+        "province:ar": "إيلام",
+        "city:he": "נפת מהראן",
+        "province:he": "אילאם",
+        "city:tr": "Mehran Şehristanı",
+        "province:tr": "İlam",
+        "city:ckb": "شارستانی مێهران",
+        "province:ckb": "ئیلام",
+        "id": "OTo0Njc5NjZkY2M2MGE",
+        "publicId": "OTo0Njc5NjZkY2M2MGE",
+        "sourceId": "467966dcc60a",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:58:21.033Z",
+        "updatedAt": "2026-10-12T11:58:21.033Z"
+      }
     }
   ],
   "metadata": {
-    "total": 74,
+    "total": 77,
     "layerId": 9,
     "clustered": false,
     "simplified": false

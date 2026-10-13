@@ -19571,10 +19571,60 @@
         "createdAt": "2026-10-09T11:09:06.456Z",
         "updatedAt": "2026-10-09T11:09:19.323Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.956779196858406,
+          35.66376754703256
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "ساختمان اطلاعات سپاه ملارد بعد از آسیب جنگ به این مکان منتقل شده و تردد نیروهای رده بالا در آن انجام می‌شود.",
+        "date": 1791715010,
+        "city": "شهرستان ملارد",
+        "province": "استان تهران",
+        "name:fa": "ساختمان اطلاعات سپاه ملارد",
+        "name:en": "Malard IRGC Intelligence Building",
+        "description:en": "The Malard IRGC Intelligence Building was relocated to this location following war damage, and high-ranking personnel frequent the site.",
+        "city:en": "Malard County",
+        "province:en": "Tehran",
+        "name:ar": "مبنى استخبارات الحرس الثوري في ملارد",
+        "description:ar": "انتقل مبنى استخبارات الحرس الثوري في ملارد إلى هذا المكان بعد تعرضه لأضرار الحرب، وتتم فيه حركة العناصر رفيعة المستوى.",
+        "city:ar": "مقاطعة ملارد",
+        "province:ar": "طهران",
+        "name:he": "בניין מודיעין משמרות המהפכה במלארד",
+        "description:he": "בניין מודיעין משמרות המהפכה במלארד הועבר למקום זה לאחר נזקי המלחמה, ומתקיימת בו תנועה של כוחות בדרגים גבוהים.",
+        "city:he": "מלארד",
+        "province:he": "טהראן",
+        "name:tr": "Malard Devrim Muhafızları İstihbarat Binası",
+        "description:tr": "Malard Devrim Muhafızları İstihbarat Binası, savaştaki hasardan sonra bu konuma taşınmıştır ve üst düzey personelin giriş-çıkışları burada gerçekleşmektedir.",
+        "city:tr": "Malard",
+        "province:tr": "Tahran",
+        "name:ckb": "باڵەخانەی ئیتلاعاتی سوپای مەڵارد",
+        "description:ckb": "باڵەخانەی ئیتلاعاتی سوپای مەڵارد دوای زیانەکانی جەنگ گواستراوەتەوە بۆ ئەم شوێنە و هاتوچۆی هێزە پلەباڵاکانی تێدا ئەنجام دەدرێت.",
+        "city:ckb": "شارستانی مەڵارد",
+        "province:ckb": "تاران",
+        "id": "MjoyMTNmZTI3Nzg4NzU",
+        "publicId": "MjoyMTNmZTI3Nzg4NzU",
+        "sourceId": "213fe2778875",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:41:34.422Z",
+        "updatedAt": "2026-10-12T11:41:34.422Z"
+      }
     }
   ],
   "metadata": {
-    "total": 365,
+    "total": 366,
     "layerId": 2,
     "clustered": false,
     "simplified": false

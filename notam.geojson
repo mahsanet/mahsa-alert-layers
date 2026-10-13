@@ -3,82 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 95802,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              47.474722,
-              39.276389
-            ],
-            [
-              47.516111,
-              39.261944
-            ],
-            [
-              47.368611,
-              39.234444
-            ],
-            [
-              47.359167,
-              39.325556
-            ],
-            [
-              47.474722,
-              39.276389
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "fir": "منطقه پروازی تهران (ایران)",
-        "city": "شهرستان خداآفرین",
-        "date": 1791426600,
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · خداآفرین",
-        "validTo": "۱۴۰۵/۰۷/۲۰، ۲۲:۰۰",
-        "province": "استان آذربایجان شرقی",
-        "validFrom": "۱۴۰۵/۰۷/۱۶، ۰۶:۰۰",
-        "description": "تیراندازی با سلاح گرم در محدوده مشخص‌شده انجام خواهد شد.",
-        "notamNumber": "B0500/26",
-        "notamSource": "FAA NMS-API",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "description:ar": "سيتم إطلاق النار بالأسلحة النارية في المنطقة المحددة.",
-        "description:en": "Firing with firearms will take place within the specified area.",
-        "description:he": "ירי בנשק חם יבוצע באזור המצוין.",
-        "description:tr": "Belirtilen alanda ateşli silahlarla atış yapılacaktır.",
-        "description:ckb": "تەقەکردن بە چەکی گەرم لە مەودای دیاریکراودا ئەنجام دەدرێت.",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · ئاگاداریی ڕێبەری · خودائافەرین",
-        "city:ckb": "شارستانی خودائافەرین",
-        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
-        "name:en": "Aviation Notice · Navigation Warning · Khoda Afarin",
-        "city:en": "Khoda Afarin",
-        "province:en": "East Azerbaijan",
-        "name:ar": "إشعار طيران · تحذير ملاحي · خداآفرين",
-        "city:ar": "مقاطعة خداآفرين",
-        "province:ar": "أذربيجان الشرقية",
-        "name:he": "הודעת תעופה · אזהרת ניווט · חודאאפרין",
-        "city:he": "חודאאפרין",
-        "province:he": "אזרבייג'ן המזרחית",
-        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Hüdaferin",
-        "city:tr": "Hüdaferin",
-        "province:tr": "Doğu Azerbaycan",
-        "id": "Mzg6bm90YW0tb2lpeC1iMDUwMC0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1iMDUwMC0yNg",
-        "sourceId": "notam-oiix-b0500-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-12T18:30:00.000Z",
-        "createdAt": "2026-10-07T04:35:23.751Z",
-        "updatedAt": "2026-10-10T08:37:45.445Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 95803,
       "geometry": {
         "type": "Polygon",
@@ -305,155 +229,6 @@
         "verificationTag": null,
         "expirationDate": "2026-10-22T18:30:00.000Z",
         "createdAt": "2026-10-07T04:35:49.828Z",
-        "updatedAt": "2026-10-10T08:37:45.445Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 95807,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              47.76667,
-              37.86667
-            ],
-            [
-              47.88333,
-              37.85
-            ],
-            [
-              47.86667,
-              37.95
-            ],
-            [
-              47.75,
-              37.93333
-            ],
-            [
-              47.76667,
-              37.86667
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "fir": "منطقه پروازی تهران (ایران)",
-        "city": "شهرستان سراب",
-        "date": 1791024300,
-        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · سراب (OID126)",
-        "validTo": "۱۴۰۵/۰۷/۲۳، ۲۰:۰۰",
-        "province": "استان آذربایجان شرقی",
-        "replaces": "A2166/26",
-        "areaCodes": "OID126",
-        "validFrom": "۱۴۰۵/۰۷/۱۱، ۱۴:۱۵",
-        "description": "محدوده مشخص‌شده فعال شده است. برای اطلاعات بیشتر به بخش مربوطه در کتابچه اطلاعات هوانوردی ارجاع داده شده است.",
-        "notamNumber": "A2199/26",
-        "notamSource": "FAA NMS-API",
-        "shapeSource": "منطقه OID126 طبق AIP ایران",
-        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
-        "description:ar": "تم تفعيل المنطقة المحددة. للمزيد من المعلومات، يُرجى الرجوع إلى القسم المعني في دليل معلومات الطيران.",
-        "description:en": "The specified area has been activated. For further information, reference is made to the relevant section in the Aeronautical Information Publication.",
-        "description:he": "האזור המצוין הופעל. למידע נוסף ניתן לעיין בסעיף הרלוונטי בספר המידע התעופתי.",
-        "description:tr": "Belirtilen alan aktif hale getirilmiştir. Daha fazla bilgi için Havacılık Bilgi Yayınındaki (AIP) ilgili bölüme başvurulmalıdır.",
-        "description:ckb": "مەودای دیاریکراو چالاک کراوە. بۆ زانیاریی زیاتر ئاماژە بە بەشی پەیوەندیدار لە پەرتووکی زانیاریی فڕۆکەوانی کراوە.",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشاییی ئاسمانی · سەراب (OID126)",
-        "city:ckb": "شارستانی سەراب",
-        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
-        "name:en": "Aviation Notice · Airspace Restriction · Sarab (OID126)",
-        "city:en": "Sarab",
-        "province:en": "East Azerbaijan",
-        "name:ar": "إشعار طيران · قيود المجال الجوي · سراب (OID126)",
-        "city:ar": "مقاطعة سراب",
-        "province:ar": "أذربيجان الشرقية",
-        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Serab (OID126)",
-        "city:tr": "Serab",
-        "province:tr": "Doğu Azerbaycan",
-        "name:he": "הודעת תעופה · הגבלת המרחב האווירי · סראב (OID126)",
-        "city:he": "נפת סראב",
-        "province:he": "אזרבייג'ן המזרחית",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjE5OS0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjE5OS0yNg",
-        "sourceId": "notam-oiix-a2199-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-15T16:30:00.000Z",
-        "createdAt": "2026-10-07T04:35:55.862Z",
-        "updatedAt": "2026-10-10T08:37:45.445Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 95808,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              45.75,
-              37.083333
-            ],
-            [
-              45.5,
-              37
-            ],
-            [
-              45.083333,
-              37
-            ],
-            [
-              45.5,
-              37.166667
-            ],
-            [
-              45.75,
-              37.083333
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "fir": "منطقه پروازی تهران (ایران)",
-        "date": 1791024540,
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · آذربایجان غربی",
-        "validTo": "۱۴۰۵/۰۷/۲۳، ۲۲:۰۰",
-        "province": "استان آذربایجان غربی",
-        "replaces": "B0502/26",
-        "validFrom": "۱۴۰۵/۰۷/۱۱، ۱۴:۱۹",
-        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
-        "notamNumber": "B0504/26",
-        "notamSource": "FAA NMS-API",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
-        "description:en": "Firing will take place within the specified area.",
-        "description:he": "ירי יבוצע באזור המצוין.",
-        "description:tr": "Belirtilen alanda atış yapılacaktır.",
-        "description:ckb": "تەقەکردن لە مەودای دیاریکراودا ئەنجام دەدرێت.",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · ئاگاداریی ڕێبەری · ئازەربایجانی ڕۆژئاوا",
-        "province:ckb": "ئازەربایجانی ڕۆژاوا",
-        "name:en": "Aviation Notice · Navigation Warning · West Azerbaijan",
-        "province:en": "West Azerbaijan",
-        "name:ar": "إشعار طيران · تحذير ملاحي · أذربيجان الغربية",
-        "province:ar": "أذربيجان الغربية",
-        "name:he": "הודעת תעופה · אזהרת ניווט · מערב אזרבייג'אן",
-        "province:he": "אזרבייג'ן המערבית",
-        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Batı Azerbaycan",
-        "province:tr": "Batı Azerbaycan",
-        "id": "Mzg6bm90YW0tb2lpeC1iMDUwNC0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1iMDUwNC0yNg",
-        "sourceId": "notam-oiix-b0504-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-15T18:30:00.000Z",
-        "createdAt": "2026-10-07T04:35:59.299Z",
         "updatedAt": "2026-10-10T08:37:45.445Z"
       }
     },
@@ -2021,10 +1796,167 @@
         "createdAt": "2026-10-10T11:02:00.238Z",
         "updatedAt": "2026-10-10T11:02:00.238Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95959,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.76667,
+              37.86667
+            ],
+            [
+              47.88333,
+              37.85
+            ],
+            [
+              47.86667,
+              37.95
+            ],
+            [
+              47.75,
+              37.93333
+            ],
+            [
+              47.76667,
+              37.86667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · سراب (OID126)",
+        "description": "محدوده مشخص‌شده فعال شده است. برای کسب اطلاعات بیشتر به صفحه مربوطه در مجموعه اطلاعات هوانوردی (AIP) ارجاع داده شده است.",
+        "notamNumber": "A2282/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۷/۲۰، ۱۳:۴۸",
+        "validTo": "۱۴۰۵/۰۷/۳۰، ۲۰:۰۰",
+        "shapeSource": "منطقه OID126 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1791800280,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "A2199/26",
+        "areaCodes": "OID126",
+        "city": "شهرستان سراب",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Aeronautical Notice · Airspace Restriction · Sarab (OID126)",
+        "description:en": "The specified area has been activated. For more information, reference is made to the relevant page in the Aeronautical Information Publication (AIP).",
+        "city:en": "Sarab",
+        "province:en": "East Azerbaijan",
+        "name:ar": "إشعار الطيران · قيود المجال الجوي · سراب (OID126)",
+        "description:ar": "تم تنشيط المنطقة المحددة. للحصول على مزيد من المعلومات، يُرجى الرجوع إلى الصفحة المعنية في دليل معلومات الطيران (AIP).",
+        "city:ar": "مقاطعة سراب",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "הודעה לתעופה · הגבלת מרחב אווירי · סראב (OID126)",
+        "description:he": "האזור המוגדר הופעל. לקבלת מידע נוסף, יש לעיין בדף הרלוונטי בפרסום מידע תעופתי (AIP).",
+        "city:he": "סראב",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Sarab (OID126)",
+        "description:tr": "Belirtilen alan aktif hâle getirilmiştir. Daha fazla bilgi için Havacılık Bilgi Yayını (AIP) üzerindeki ilgili sayfaya yönlendirilmiştir.",
+        "city:tr": "Sarab",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشایی ئاسمانی · سەراب (OID126)",
+        "description:ckb": "ناوچەی دیاریکراو چالاک کراوە. بۆ وەرگرتنی زانیاریی زیاتر ئاماژە بە لاپەڕەی پەیوەندیدار لە کۆمەڵەی زانیاریی فڕۆکەوانیدا (AIP) کراوە.",
+        "city:ckb": "شارستانی سەراب",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjI4Mi0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjI4Mi0yNg",
+        "sourceId": "notam-oiix-a2282-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-22T16:30:00.000Z",
+        "createdAt": "2026-10-12T10:29:37.957Z",
+        "updatedAt": "2026-10-12T10:29:37.957Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95960,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.75,
+              37.083333
+            ],
+            [
+              45.5,
+              37
+            ],
+            [
+              45.083333,
+              37
+            ],
+            [
+              45.5,
+              37.166667
+            ],
+            [
+              45.75,
+              37.083333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نقده",
+        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد. این فعالیت شامل نقاط تعیین‌شده تا نقطه مبدأ است.",
+        "notamNumber": "B0529/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۷/۲۰، ۱۳:۵۲",
+        "validTo": "۱۴۰۵/۰۷/۳۰، ۲۲:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1791800520,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "B0504/26",
+        "city": "شهرستان نقده",
+        "province": "استان آذربایجان غربی",
+        "name:en": "Aviation Notice · Navigation Warning · Naghadeh",
+        "description:en": "Shooting will take place within the specified area. This activity includes the designated points up to the point of origin.",
+        "city:en": "Naghadeh",
+        "province:en": "West Azerbaijan",
+        "name:ar": "إشعار طيران · تحذير ملاحي · نقده",
+        "description:ar": "سيجري إطلاق النار في المنطقة المحددة. يشمل هذا النشاط النقاط المحددة حتى نقطة الأصل.",
+        "city:ar": "مقاطعة نقده",
+        "province:ar": "أذربيجان الغربية",
+        "name:he": "הודעה תעופתית · אזהרת ניווט · נגאדה",
+        "description:he": "ירי יבוצע באזור המוגדר. פעילות זו כוללת את הנקודות המוגדרות עד לנקודת המוצא.",
+        "city:he": "נפת נגאדה",
+        "province:he": "אזרבייג'ן המערבית",
+        "name:tr": "Havacılık Bildirimi · Navigasyon Uyarısı · Nagadeh",
+        "description:tr": "Belirtilen alanda atış yapılacaktır. Bu faaliyet, belirlenen noktalardan başlangıç noktasına kadar olan alanı kapsamaktadır.",
+        "city:tr": "Nagadeh İlçesi",
+        "province:tr": "Batı Azerbaycan",
+        "name:ckb": "ئاگاداریی فڕین · ئاگاداریی ناوبەری · نەغەدە",
+        "description:ckb": "تەقەکردن لە مەودای دیاریکراودا ئەنجام دەدرێت. ئەم چالاکییە خاڵە دیاریکراوەکان تا خاڵی دەستپێک دەگرێتەوە.",
+        "city:ckb": "شارستانی نەغەدە",
+        "province:ckb": "ئازەربایجانی ڕۆژاوا",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDUyOS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDUyOS0yNg",
+        "sourceId": "notam-oiix-b0529-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-22T18:30:00.000Z",
+        "createdAt": "2026-10-12T10:29:46.527Z",
+        "updatedAt": "2026-10-12T10:29:46.527Z"
+      }
     }
   ],
   "metadata": {
-    "total": 20,
+    "total": 19,
     "layerId": 38,
     "clustered": false,
     "simplified": false

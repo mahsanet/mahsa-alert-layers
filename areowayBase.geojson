@@ -30641,10 +30641,61 @@
         "createdAt": "2026-10-10T15:28:46.839Z",
         "updatedAt": "2026-10-10T15:28:46.839Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8564757630229,
+          35.13708015940432
+        ]
+      },
+      "properties": {
+        "name:fa": "محل نگهداری مهمات پهپادی",
+        "name:fa:military": "",
+        "unofficial_name:fa": "",
+        "description": "محل نگهداری مهمات پهپادی",
+        "date": 1791800672,
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "name:en": "Drone Ammunition Storage Location",
+        "description:en": "Drone ammunition storage location",
+        "city:en": "Kabudarahang",
+        "province:en": "Hamadan",
+        "name:ar": "موقع تخزين ذخائر الطائرات المسيرة",
+        "description:ar": "موقع تخزين ذخائر الطائرات المسيرة",
+        "city:ar": "مقاطعة كبودراهنغ",
+        "province:ar": "همدان",
+        "name:tr": "İHA Mühimmat Depolama Yeri",
+        "description:tr": "İHA mühimmatı depolama yeri",
+        "city:tr": "Kabudarahang",
+        "province:tr": "Hemedan",
+        "name:ckb": "شوێنی هەڵگرتنی تەقەمەنیی درۆن",
+        "description:ckb": "شوێنی هەڵگرتنی تەقەمەنیی درۆن",
+        "city:ckb": "شارستانی کەبودەرئاهەنگ",
+        "province:ckb": "ھەمەدان",
+        "name:he": "אתר אחסון תחמושת כלי טיס בלתי מאויישים",
+        "description:he": "אתר אחסון תחמושת כלי טיס בלתי מאויישים",
+        "city:he": "מחוז כבודראחאנג",
+        "province:he": "המדאן",
+        "id": "MTA6ODg5YWU5MmM1N2Q4",
+        "publicId": "MTA6ODg5YWU5MmM1N2Q4",
+        "sourceId": "889ae92c57d8",
+        "layerId": 10,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:43:27.230Z",
+        "updatedAt": "2026-10-12T11:43:27.230Z"
+      }
     }
   ],
   "metadata": {
-    "total": 217,
+    "total": 218,
     "layerId": 10,
     "clustered": false,
     "simplified": false
