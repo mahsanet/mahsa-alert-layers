@@ -122741,10 +122741,150 @@
         "createdAt": "2026-10-09T11:05:51.771Z",
         "updatedAt": "2026-10-09T11:05:51.771Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96029,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.83434873959075,
+              38.418039112233146
+            ],
+            [
+              48.83391377650963,
+              38.417935410831234
+            ],
+            [
+              48.83389959293072,
+              38.41779961115071
+            ],
+            [
+              48.83416435306776,
+              38.4177810929925
+            ],
+            [
+              48.83434873959075,
+              38.418039112233146
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "دهیاری ویرمونی",
+        "description": "",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Virmoni Dehyari",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "إدارة قرية ويرموني",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "דהיארי וירמוני",
+        "city:he": "נפת אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Virmuni Muhtarlığı",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "دەیاریی ڤیرمۆنی",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTc6MDc0OTM1MWNmZjcx",
+        "publicId": "MTc6MDc0OTM1MWNmZjcx",
+        "sourceId": "0749351cff71",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:15:28.530Z",
+        "updatedAt": "2026-10-13T11:15:28.530Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96043,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.174484620053875,
+              33.44758992198379
+            ],
+            [
+              51.17461887430156,
+              33.447611699918795
+            ],
+            [
+              51.1748948413661,
+              33.4477641453103
+            ],
+            [
+              51.17493026957101,
+              33.4478357012176
+            ],
+            [
+              51.174469702915445,
+              33.44856059034434
+            ],
+            [
+              51.174001677690626,
+              33.448364590877645
+            ],
+            [
+              51.17418814192291,
+              33.44803947967445
+            ],
+            [
+              51.174484620053875,
+              33.44758992198379
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بخشداری بخش میمه",
+        "description": "",
+        "date": "",
+        "city": "میمه",
+        "province": "استان اصفهان",
+        "name:en": "Meymeh District Governorate",
+        "city:en": "Meymeh",
+        "province:en": "Isfahan",
+        "name:ar": "إدارة ناحية ميمه",
+        "city:ar": "ميمه",
+        "province:ar": "أصفهان",
+        "name:he": "מנהלת נפת מיימה",
+        "city:he": "מיימה",
+        "province:he": "אספהאן",
+        "name:tr": "Meymeh Bucağı Kaymakamlığı",
+        "city:tr": "Meymeh",
+        "province:tr": "İsfahan",
+        "name:ckb": "بەخشداریی بەشی میمە",
+        "city:ckb": "میمە",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTc6YTM3ODgzZTQ4OTI3",
+        "publicId": "MTc6YTM3ODgzZTQ4OTI3",
+        "sourceId": "a37883e48927",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:34:47.154Z",
+        "updatedAt": "2026-10-13T11:34:47.154Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2425,
+    "total": 2427,
     "layerId": 17,
     "clustered": false,
     "simplified": false

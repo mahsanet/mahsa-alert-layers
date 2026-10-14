@@ -1,8 +1,61 @@
 {
   "type": "FeatureCollection",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "id": 96020,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87833911925554,
+          38.407902412913586
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "استقرار قایق‌های تندرو سپاه",
+        "unofficial_name:fa": "",
+        "date": 1791820421,
+        "geolocates": "",
+        "description": "محل استقرار قایق‌های تندرو سپاه در اسکله شهرستان آستارا",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "sources": "",
+        "name:en": "Deployment of IRGC Speedboats",
+        "description:en": "Deployment location of IRGC speedboats at the pier in Astara County.",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "تمركز الزوارق السريعة للحرس الثوري",
+        "description:ar": "موقع تمركز الزوارق السريعة للحرس الثوري في رصيف مقاطعة آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "פריסת סירות מהירות של משמרות המהפכה",
+        "description:he": "מיקום פריסת הסירות המהירות של משמרות המהפכה במזח של נפת אסטרה",
+        "city:he": "אסטרה",
+        "province:he": "גילאן",
+        "name:tr": "Devrim Muhafızları Hızlı Botlarının Konuşlanması",
+        "description:tr": "Astara ilçesi iskelesinde Devrim Muhafızları hızlı botlarının konuşlanma yeri.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "جێگیرکردنی بەلەمە تیژڕەوەکانی سوپا",
+        "description:ckb": "شوێنی جێگیربوونی بەلەمە تیژڕەوەکانی سوپا لە ئەسکەلەی شارستانی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "Mzc6M2YyN2VmMDZkNzdl",
+        "publicId": "Mzc6M2YyN2VmMDZkNzdl",
+        "sourceId": "3f27ef06d77e",
+        "layerId": 37,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:09:01.140Z",
+        "updatedAt": "2026-10-13T11:09:10.159Z"
+      }
+    }
+  ],
   "metadata": {
-    "total": 0,
+    "total": 1,
     "layerId": 37,
     "clustered": false,
     "simplified": false

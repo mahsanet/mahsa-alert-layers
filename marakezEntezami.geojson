@@ -41604,49 +41604,6 @@
     },
     {
       "type": "Feature",
-      "id": 85045,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.8343814,
-          38.4158954
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MTQ4OA",
-        "city": "شهرستان آستارا",
-        "osm_id": "",
-        "name:fa": "کلانتری ویرمونی",
-        "province": "استان گیلان",
-        "name:en": "Virmoni Police Station",
-        "city:en": "Astara County",
-        "province:en": "Gilan",
-        "name:ar": "مركز شرطة ويرموني",
-        "city:ar": "مقاطعة آستارا",
-        "province:ar": "جيلان",
-        "name:he": "תחנת משטרה וירמוני",
-        "city:he": "מחוז משנה אסטארה",
-        "province:he": "גילאן",
-        "name:tr": "Virmuni Polis Karakolu",
-        "city:tr": "Astara İlçesi",
-        "province:tr": "Gilan",
-        "name:ckb": "بنکەی پۆلیسی ویرمونی",
-        "city:ckb": "شارستانی ئاستارا",
-        "province:ckb": "گیلان",
-        "publicId": "Mzo2MTQ4OA",
-        "sourceId": "61488",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.063Z",
-        "updatedAt": "2026-03-13T04:41:06.063Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85046,
       "geometry": {
         "type": "Point",
@@ -90364,8 +90321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.4450935,
-          35.6139373
+          51.444991431047185,
+          35.61605891466276
         ]
       },
       "properties": {
@@ -90398,7 +90355,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.605Z",
-        "updatedAt": "2026-03-13T04:41:06.605Z"
+        "updatedAt": "2026-10-13T11:39:23.042Z"
       }
     },
     {
@@ -171535,8 +171492,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.4450816,
-          35.6158171
+          51.44499468426923,
+          35.61588212539013
         ]
       },
       "properties": {
@@ -171569,7 +171526,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.596Z",
-        "updatedAt": "2026-03-13T04:41:07.596Z"
+        "updatedAt": "2026-10-13T11:39:30.530Z"
       }
     },
     {
@@ -252834,55 +252791,6 @@
     },
     {
       "type": "Feature",
-      "id": 92365,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.834337128924716,
-          38.41822990834913
-        ]
-      },
-      "properties": {
-        "name:fa": "پاسگاه ویرمونی",
-        "description": "پاسگاه دهستان ویرمونی",
-        "date": 1771273800,
-        "city": "شهرستان آستارا",
-        "province": "استان گیلان",
-        "name:en": "Virmoni Police Station",
-        "description:en": "Police station of Virmoni Rural District",
-        "city:en": "Astara",
-        "province:en": "Gilan",
-        "name:ar": "مركز شرطة ويرموني",
-        "description:ar": "مركز شرطة قرية ويرموني",
-        "city:ar": "أستارا",
-        "province:ar": "جيلان",
-        "name:he": "תחנת משטרת וירמוני",
-        "description:he": "תחנת משטרת המועצה האזורית וירמוני",
-        "city:he": "אסטארה",
-        "province:he": "גילאן",
-        "name:tr": "Virmuni Karakolu",
-        "description:tr": "Virmuni Beldesi Karakolu",
-        "city:tr": "Astara Şehristanı",
-        "province:tr": "Gilan",
-        "name:ckb": "بنکەی پۆلیسی ڤێرموونی",
-        "description:ckb": "بنکەی پۆلیسی گوندەواری ڤێرموونی",
-        "city:ckb": "شارۆچکەی ئاستارا",
-        "province:ckb": "گیلان",
-        "id": "Mzo1NGQ3ODRmY2Y3Yjg",
-        "publicId": "Mzo1NGQ3ODRmY2Y3Yjg",
-        "sourceId": "54d784fcf7b8",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-28T17:51:43.142Z",
-        "updatedAt": "2026-03-28T17:51:43.142Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92390,
       "geometry": {
         "type": "Point",
@@ -264453,10 +264361,811 @@
         "createdAt": "2026-10-10T15:36:34.887Z",
         "updatedAt": "2026-10-10T15:36:34.887Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 95967,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8649683073163,
+          38.44211725914448
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک مرزبانی",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "برجک مرزبانی نیروی انتظامی شهرستان آستارا مرز ایران و آذربایجان",
+        "date": 1791801649,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Border Guard Watchtower",
+        "description:en": "Border guard watchtower of the Law Enforcement Force in Astara County on the Iran-Azerbaijan border",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "برج المراقبة الحدودية",
+        "description:ar": "برج المراقبة الحدودية التابع لقوى الأمن الداخلي في مقاطعة آستارا على الحدود بين إيران وآذربيجان",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:tr": "Sınır Muhafız Kulesi",
+        "description:tr": "Astara ilçesinde İran-Azerbaycan sınırında yer alan Kolluk Kuvvetlerine ait sınır gözetleme kulesi.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بورجی پاسەوانیی سنوور",
+        "description:ckb": "بورجی پاسەوانیی سنووریی هێزی ئینتیزامیی شارستانی ئاستارا لە سەر سنووری ئێران و ئازەربایجان",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "name:he": "מגדל שמירה של משמר הגבול",
+        "description:he": "מגדל שמירה של משמר הגבול של כוחות אכיפת החוק בנפת אסטארה, גבול איראן-אזרבייג'ן",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "id": "Mzo3ZjU5OWVkOTE1YmQ",
+        "publicId": "Mzo3ZjU5OWVkOTE1YmQ",
+        "sourceId": "7f599ed915bd",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:12:42.701Z",
+        "updatedAt": "2026-10-12T11:14:03.647Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95968,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84639635682106,
+          38.448636679851006
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک مرزبانی",
+        "description": "برجک مرزبانی هنگ مرزی شهرستان آستارا نیروی انتظامی",
+        "date": 1791801698,
+        "city": "خشك دهنه",
+        "province": "استان گیلان",
+        "name:en": "Border Guard Watchtower",
+        "description:en": "Border guard watchtower of the Law Enforcement Command border regiment in Astara County",
+        "city:en": "Khoshk Dehaneh",
+        "province:en": "Gilan",
+        "name:ar": "برج مراقبة الحدود",
+        "description:ar": "برج مراقبة الحدود التابع لفوج حرس الحدود في مقاطعة آستارا التابع لقوى الأمن الداخلي.",
+        "city:ar": "خشك دهنه",
+        "province:ar": "جيلان",
+        "name:he": "מגדל שמירה של משמר הגבול",
+        "description:he": "מגדל שמירה של גדוד משמר הגבול במחוז אסטארה של כוחות אכיפת החוק",
+        "city:he": "ח'ושכ דהנה",
+        "province:he": "גילאן",
+        "name:tr": "Sınır Gözetleme Kulesi",
+        "description:tr": "Emniyet Güçleri Astara İlçesi Sınır Alayı'nın sınır gözetleme kulesi",
+        "city:tr": "Hoşk Dehane",
+        "province:tr": "Gilan",
+        "name:ckb": "بورجی سنوورپارێزی",
+        "description:ckb": "بورجی سنوورپارێزیی فەوجی سنووریی شارستانی ئاستارای هێزی ئینتیزامی",
+        "city:ckb": "خوشکە دەهنە",
+        "province:ckb": "گیلان",
+        "id": "MzpmMTZkMzU4ZGYzOTI",
+        "publicId": "MzpmMTZkMzU4ZGYzOTI",
+        "sourceId": "f16d358df392",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:13:50.196Z",
+        "updatedAt": "2026-10-12T11:13:50.196Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95969,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.82798869162798,
+          38.448715846721825
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک مرزبانی",
+        "description": "برجک انتظامی مرزبانی هنگ مرزی شهرستان آستارا",
+        "date": 1791801756,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Border Guard Watchtower",
+        "description:en": "Border police watchtower of the Astara County border regiment",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "برج مراقبة حرس الحدود",
+        "description:ar": "برج مراقبة أمني لحرس الحدود تابع لفوج حرس الحدود في مقاطعة آستارا",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מגדל שמירה של משמר הגבול",
+        "description:he": "מגדל שמירה משטרתי של משמר הגבול של גדוד הגבול בנפת אסטארה",
+        "city:he": "נפת אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Sınır Muhafaza Kulesi",
+        "description:tr": "Astara ilçesi sınır alayına ait sınır muhafaza gözetleme kulesi.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بورجی پاسەوانیی سنوور",
+        "description:ckb": "بورجەکی ئینتیزامیی پاسەوانیی سنووریی فەوجی سنووریی شارستانی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "Mzo5NzMwYmQwZWZmZDY",
+        "publicId": "Mzo5NzMwYmQwZWZmZDY",
+        "sourceId": "9730bd0effd6",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:14:19.323Z",
+        "updatedAt": "2026-10-12T11:14:19.323Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95970,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.81199585273862,
+          38.44726312738132
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک مرزبانی",
+        "description": "برجک مرزبانی هنگ مرزی شهرستان آستارا نیروی انتظامی",
+        "date": 1791801801,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Border Guard Watchtower",
+        "description:en": "Border guard watchtower of the Astara County Border Regiment of the Law Enforcement Force.",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "برج حراسة الحدود",
+        "description:ar": "برج حراسة الحدود التابع لفوج حرس الحدود في مقاطعة آستارا التابع لقوى الأمن الداخلي",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מגדל שמירה של משמר הגבול",
+        "description:he": "מגדל שמירה של משמר הגבול של גדוד הגבול במחוז משנה אסטארה, כוחות אכיפת החוק",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Sınır Gözetleme Kulesi",
+        "description:tr": "Emniyet Teşkilatı Astara ilçesi sınır alayına ait sınır gözetleme kulesi.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بورجۆکەی پاسەوانیی سنووری",
+        "description:ckb": "بورجۆکەی پاسەوانیی سنووریی فەوجی سنووریی شارستانی ئاستارای هێزی ئینتیزامی",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "Mzo2MWFhZGEyOWE5OGE",
+        "publicId": "Mzo2MWFhZGEyOWE5OGE",
+        "sourceId": "61aada29a98a",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:14:34.471Z",
+        "updatedAt": "2026-10-12T11:14:34.471Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.88070336729288,
+          32.0085584240058
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه گهرو",
+        "description": "پاسگاه تازه تاسیس گهرو، بخش مرکزی",
+        "date": 1791725820,
+        "city": "گهرو",
+        "province": "استان چهارمحال و بختیاری",
+        "name:en": "Gahru Police Post",
+        "description:en": "Newly established Gahru police post, Central District",
+        "city:en": "Gahru",
+        "province:en": "Chaharmahal and Bakhtiari",
+        "name:ar": "مركز شرطة غاهرو",
+        "description:ar": "مركز شرطة غاهرو الحديث الإنشاء، الناحية المركزية",
+        "city:ar": "غاهرو",
+        "province:ar": "جهار محال وبختياري",
+        "name:he": "תחנת המשטרה גאהרו",
+        "description:he": "תחנת המשטרה שהוקמה לאחרונה בגאהרו, הנפה המרכזית",
+        "city:he": "גאהרו",
+        "province:he": "צ'הארמחאל ובח'תיארי",
+        "name:tr": "Gahru Karakolu",
+        "description:tr": "Gahru'nun yeni kurulan karakolu, Merkez ilçesi",
+        "city:tr": "Gahru",
+        "province:tr": "Çaharmahal ve Bahtiyari",
+        "name:ckb": "بنکەی پۆلیسی گەهروو",
+        "description:ckb": "بنکەی پۆلیسی تازە دامەزراوی گەهروو، بەشی ناوەندی",
+        "city:ckb": "گەهروو",
+        "province:ckb": "چوارمەحاڵ و بەختیاری",
+        "id": "MzpkY2FiNGQyYWZlYjg",
+        "publicId": "MzpkY2FiNGQyYWZlYjg",
+        "sourceId": "dcab4d2afeb8",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-12T11:47:56.101Z",
+        "updatedAt": "2026-10-12T11:47:56.101Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86811923235655,
+          38.44371345893913
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک مرزبانی",
+        "description": "برجک مرزبانی هنگ مرزی شهرستان آستارا",
+        "date": 1791838308,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Border Guard Watchtower",
+        "description:en": "Border guard watchtower of the border guard regiment of Astara County",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "برج مراقبة حرس الحدود",
+        "description:ar": "برج مراقبة حرس الحدود التابع لفوج حرس الحدود في مقاطعة أستارا",
+        "city:ar": "أستارا",
+        "province:ar": "جيلان",
+        "name:he": "מגדל שמירה של משמר הגבול",
+        "description:he": "מגדל שמירה של גדוד משמר הגבול במחוז משנה אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Sınır Gözetleme Kulesi",
+        "description:tr": "Astara ilçesi sınır alayına ait sınır gözetleme kulesi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بورجی سنوورپارێزی",
+        "description:ckb": "بورجی سنوورپارێزیی هەنگی سنووریی شارۆچکەی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzpmODk2ODA5ZTIzZTk",
+        "publicId": "MzpmODk2ODA5ZTIzZTk",
+        "sourceId": "f896809e23e9",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:10:37.269Z",
+        "updatedAt": "2026-10-13T11:10:41.516Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96025,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.864178174810434,
+              38.44184234030476
+            ],
+            [
+              48.86399253806425,
+              38.441411067020454
+            ],
+            [
+              48.86369655058573,
+              38.44150232918534
+            ],
+            [
+              48.86371614557518,
+              38.44153948012149
+            ],
+            [
+              48.863535665405436,
+              38.441589553092825
+            ],
+            [
+              48.863510913839576,
+              38.441545941152526
+            ],
+            [
+              48.863388187325,
+              38.441599244631846
+            ],
+            [
+              48.86336962365024,
+              38.44160570565697
+            ],
+            [
+              48.86345522281678,
+              38.44174057942476
+            ],
+            [
+              48.863535665405436,
+              38.44170827435383
+            ],
+            [
+              48.86361095141913,
+              38.44183426404959
+            ],
+            [
+              48.86353154014523,
+              38.44186333856362
+            ],
+            [
+              48.86372852135884,
+              38.44205959122618
+            ],
+            [
+              48.864178174810434,
+              38.44184234030476
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی",
+        "description": "فرماندهی انتظامی مرزبانی شهرستان آستارا",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Law Enforcement Command",
+        "description:en": "Border Guard Law Enforcement Command of Astara County",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "قيادة الشرطة",
+        "description:ar": "قيادة حرس الحدود في مقاطعة آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מפקדת המשטרה",
+        "description:he": "מפקדת משמר הגבול של נפת אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Emniyet Komutanlığı",
+        "description:tr": "Astara İlçesi Sınır Muhafaza Emniyet Komutanlığı",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "فەرماندەیی ئینتیزامی",
+        "description:ckb": "فەرماندەیی ئینتیزامیی مەرزبانیی شارستانی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzphOWM5MzNmY2ZhOTU",
+        "publicId": "MzphOWM5MzNmY2ZhOTU",
+        "sourceId": "a9c933fcfa95",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:11:58.144Z",
+        "updatedAt": "2026-10-13T11:11:58.144Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96028,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.83421811124407,
+              38.41835336145215
+            ],
+            [
+              48.834556601600184,
+              38.418331778752076
+            ],
+            [
+              48.83436767674627,
+              38.41805305301111
+            ],
+            [
+              48.83406775854843,
+              38.417980288150176
+            ],
+            [
+              48.834002422037656,
+              38.41828368013611
+            ],
+            [
+              48.834214962491814,
+              38.41837188237125
+            ],
+            [
+              48.83421811124407,
+              38.41835336145215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه ویرمونی",
+        "description": "",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Virmoni Police Post",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مخفر ويرموني",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "תחנת המשטרה וירמוני",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Virmuni Karakolu",
+        "city:tr": "Astara İlçesi",
+        "province:tr": "Gilan",
+        "name:ckb": "پاسگای ڤێرمۆنی",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzpjNmEyOWNjMmE3NTg",
+        "publicId": "MzpjNmEyOWNjMmE3NTg",
+        "sourceId": "c6a29cc2a758",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:14:28.508Z",
+        "updatedAt": "2026-10-13T11:14:28.508Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96031,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.85237187202455,
+              38.44766653929648
+            ],
+            [
+              48.85241156070549,
+              38.4477523731521
+            ],
+            [
+              48.85245975410325,
+              38.447746453579214
+            ],
+            [
+              48.85266481228871,
+              38.447902582153375
+            ],
+            [
+              48.852723400342086,
+              38.44797509673191
+            ],
+            [
+              48.85285947581988,
+              38.44791590116307
+            ],
+            [
+              48.85278387833162,
+              38.447557766936825
+            ],
+            [
+              48.85237187202455,
+              38.44766653929648
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد هنگ مرزی نیروی انتظامی شهرستان آستارا",
+        "description": "",
+        "date": "",
+        "city": "خشك دهنه",
+        "province": "استان گیلان",
+        "name:en": "Border Guard Regiment Headquarters of Law Enforcement Command of Astara County",
+        "city:en": "Khoshk Dehaneh",
+        "province:en": "Gilan",
+        "name:ar": "مقر فوج حرس الحدود لقوى الأمن الداخلي في مقاطعة آستارا",
+        "city:ar": "خشك دهنه",
+        "province:ar": "جيلان",
+        "name:he": "מפקדת רגימנט משמר הגבול של כוחות אכיפת החוק במחוז אסטארה",
+        "city:he": "ח'ושכ דהנה",
+        "province:he": "גילאן",
+        "name:tr": "Astara İlçesi Emniyet Teşkilatı Sınır Alayı Karargahı",
+        "city:tr": "Hoşk Dehene",
+        "province:tr": "Gilan",
+        "name:ckb": "فەرماندەیی هەنگی سنووریی هێزی ئینتزامیی شارستانی ئاستارا",
+        "city:ckb": "خشکەدەهنە",
+        "province:ckb": "گیلان",
+        "id": "MzpmYzIwZTQ3MTA0ZDA",
+        "publicId": "MzpmYzIwZTQ3MTA0ZDA",
+        "sourceId": "fc20e47104d0",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:16:19.554Z",
+        "updatedAt": "2026-10-13T11:16:19.554Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96032,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.76128986477852,
+          38.4310579089811
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک مرزبانی شماره ۸ آستارا",
+        "description": "برجک مرزبانی شماره ۸ نیروهای حکومتی شهرستان آستارا",
+        "date": 1791838756,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Astara Border Guard Watchtower No. 8",
+        "description:en": "Border guard watchtower No. 8 of the government forces in Astara County",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "برج حراسة الحدود رقم 8 في آستارا",
+        "description:ar": "برج حراسة الحدود رقم 8 التابع للقوات الحكومية في مقاطعة آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מגדל משמר הגבול מס' 8 אסטארה",
+        "description:he": "מגדל משמר הגבול מס' 8 של כוחות הממשל במחוז משנה אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara 8 Numaralı Sınır Gözetleme Kulesi",
+        "description:tr": "Astara ilçesindeki hükümet güçlerine ait 8 numaralı sınır gözetleme kulesi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بورجۆکەی پاسەوانیی سنووریی ژمارە 8ی ئاستارا",
+        "description:ckb": "بورجۆکەی پاسەوانیی سنووریی ژمارە 8ی هێزە حکومییەکانی شارستانی ئاستارا",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "Mzo2NGM5YjM2ZjU0MmQ",
+        "publicId": "Mzo2NGM5YjM2ZjU0MmQ",
+        "sourceId": "64c9b36f542d",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:16:53.069Z",
+        "updatedAt": "2026-10-13T11:16:58.231Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96033,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.712878355661786,
+              38.407583079555906
+            ],
+            [
+              48.712785204779095,
+              38.40796580600602
+            ],
+            [
+              48.713369022519316,
+              38.408076974505974
+            ],
+            [
+              48.713555324284755,
+              38.40797514077198
+            ],
+            [
+              48.71350549939345,
+              38.4076170243338
+            ],
+            [
+              48.712878355661786,
+              38.407583079555906
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی هنگ مرزی",
+        "description": "فرماندهی هنگ مرزی نیروهای حکومتی انتظامی شهرستان بندر آستارا",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Border Guard Regiment Command",
+        "description:en": "Border Guard Regiment Command of the government law enforcement forces of Bandar Astara County",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "قيادة فوج حرس الحدود",
+        "description:ar": "قيادة فوج حرس الحدود التابع لقوات الأمن الداخلي الحكومية في مقاطعة ميناء آستارا",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מפקדת רגימנט משמר הגבול",
+        "description:he": "מפקדת רגימנט משמר הגבול של כוחות השיטור הממשלתיים בנפת בנדר אסטארה",
+        "city:he": "נפת אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Sınır Alayı Komutanlığı",
+        "description:tr": "Bandar Astara ilçesi hükümet kolluk kuvvetlerinin Sınır Alayı Komutanlığı",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "فەرماندەیی هۆنگی سنووری",
+        "description:ckb": "فەرماندەیی هۆنگی سنووریی هێزە حکومییە ئینتیزامییەکانی شارستانی بەندەری ئاستارا",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzphNzU4NWJmMzc4ZmY",
+        "publicId": "MzphNzU4NWJmMzc4ZmY",
+        "sourceId": "a7585bf378ff",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:17:31.864Z",
+        "updatedAt": "2026-10-13T11:17:31.864Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.66046831011772,
+          38.39259206962629
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک شماره ۱۱ هنگ مرزی آستارا",
+        "description": "برجک شماره ۱۱ هنگ مرزی نیروهای حکومتی در شهرستان آستارا",
+        "date": 1791838965,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Watchtower No. 11 of Astara Border Guard Regiment",
+        "description:en": "Watchtower No. 11 of the government forces' border guard regiment in Astara County",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "برج المراقبة رقم 11 لفوج الحدود في آستارا",
+        "description:ar": "برج المراقبة رقم 11 لفوج الحدود التابع للقوات الحكومية في مقاطعة آستارا",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מגדל שמירה מס' 11 של גדוד משמר הגבול אסטארה",
+        "description:he": "מגדל שמירה מס' 11 של גדוד משמר הגבול של כוחות הממשל במחוז אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara Sınır Alayı 11 Numaralı Nöbet Kulesi",
+        "description:tr": "Astara ilçesinde hükümet güçlerine ait 11 numaralı sınır alayı nöbet kulesi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بورجەکی ژمارە 11ی هەنگی سنووریی ئاستارا",
+        "description:ckb": "بورجەکی ژمارە 11ی هەنگی سنووریی هێزە حکومییەکان لە شارستانی ئاستارا",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzphYjRmYjY2MDkxZGE",
+        "publicId": "MzphYjRmYjY2MDkxZGE",
+        "sourceId": "ab4fb66091da",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:17:46.504Z",
+        "updatedAt": "2026-10-13T11:17:46.504Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96036,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.654550556597,
+              38.39485129039471
+            ],
+            [
+              48.65490153435917,
+              38.39508918547267
+            ],
+            [
+              48.65457721313504,
+              38.39533984480531
+            ],
+            [
+              48.65404408235699,
+              38.39545705095449
+            ],
+            [
+              48.65399521203588,
+              38.3954280395497
+            ],
+            [
+              48.65400261662916,
+              38.39535144938313
+            ],
+            [
+              48.65409147175902,
+              38.39527834051276
+            ],
+            [
+              48.654550556597,
+              38.39485129039471
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی هنگ مرزی یگان پشتیبانی",
+        "description": "فرماندهی هنگ مرزی یگان پشتیبانی نیروهای حکومتی شهرستان آستارا",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Support Unit Border Guard Command",
+        "description:en": "Border Guard Command Support Unit of the government forces in Astara County",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "قيادة فوج حرس الحدود - وحدة الدعم",
+        "description:ar": "قيادة فوج حرس الحدود لوحدة دعم القوات الحكومية في مقاطعة آستارا",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מפקדת רגימנט משמר הגבול - יחידת סיוע",
+        "description:he": "מפקדת יחידת הסיוע של רגימנט משמר הגבול של כוחות הממשל במחוז משנה אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Sınır Alayı Destek Birliği Komutanlığı",
+        "description:tr": "Astara şehristanındaki hükümet güçlerinin sınır alayı destek birliği komutanlığı.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "فەرماندەیی هەنگی سنووریی یەکەی پشتیوانی",
+        "description:ckb": "فەرماندەیی هەنگی سنووریی یەکەی پشتیوانیی هێزە حکومییەکانی شارستانی ئاستارا",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "Mzo2MjY5MWM3NDRiNWU",
+        "publicId": "Mzo2MjY5MWM3NDRiNWU",
+        "sourceId": "62691c744b5e",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:18:45.456Z",
+        "updatedAt": "2026-10-13T11:18:45.456Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6095,
+    "total": 6106,
     "layerId": 3,
     "clustered": false,
     "simplified": false

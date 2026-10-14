@@ -19621,10 +19621,104 @@
         "createdAt": "2026-10-12T11:41:34.422Z",
         "updatedAt": "2026-10-12T11:41:34.422Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96016,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37179421260953,
+          32.3751628649034
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "ویلاهای شهرداری که در مواقع جنگ ماموران لباس شخصی و اطلاعات با وسایل و مهمات در آن مستقر می‌شوند.",
+        "date": 1791829979,
+        "city": "زرين شهر",
+        "province": "استان اصفهان",
+        "description:en": "Municipal villas where plainclothes officers and intelligence agents are stationed with equipment and ammunition during times of war.",
+        "city:en": "Zarrin Shahr",
+        "province:en": "Isfahan",
+        "description:ar": "فلل البلدية التي يتمركز فيها عناصر باللباس المدني والاستخبارات مع معدات وذخائر في أوقات الحرب.",
+        "city:ar": "زرين شهر",
+        "province:ar": "أصفهان",
+        "description:he": "וילות העירייה שבהן מוצבים סוכנים בלבוש אזרחי ואנשי מודיעין עם ציוד ותחמושת בעת מלחמה.",
+        "city:he": "זרין שהר",
+        "province:he": "אספהאן",
+        "description:tr": "Savaş zamanlarında sivil kıyafetli görevlilerin ve istihbarat personelinin teçhizat ve mühimmatla konuşlandırıldığı belediye villaları.",
+        "city:tr": "Zerrinşehr",
+        "province:tr": "İsfahan",
+        "description:ckb": "ڤێلاکانی شارەوانی کە لە کاتی جەنگدا مەئموورانی جلشەخسی و ئیتلاعات بە کەلوپەل و تەقەمەنییەوە تێیدا جێگیر دەبن.",
+        "city:ckb": "زەڕین شار",
+        "province:ckb": "ئەسفەھان",
+        "id": "Mjo5NmI1OWZjOWM0MGE",
+        "publicId": "Mjo5NmI1OWZjOWM0MGE",
+        "sourceId": "96b59fc9c40a",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:04:05.779Z",
+        "updatedAt": "2026-10-13T11:04:05.779Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.683484345674515,
+          31.341560912623578
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "ساختمان اطلاعات سپاه و محل تجمع نیروهای سرکوبگر و حکومتی",
+        "date": 1791812496,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:fa": "ساختمان اطلاعات سپاه اهواز",
+        "name:en": "Ahvaz IRGC Intelligence Building",
+        "description:en": "IRGC intelligence building and a gathering place for repressive and government forces",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "name:ar": "مبنى استخبارات الحرس الثوري في الأهواز",
+        "description:ar": "مبنى استخبارات الحرس الثوري ومكان تجمع القوات القمعية والحكومية",
+        "city:ar": "الأهواز",
+        "province:ar": "خوزستان",
+        "name:he": "בניין המודיעין של משמרות המהפכה, אהוואז",
+        "description:he": "בניין המודיעין של משמרות המהפכה ומקום התכנסות של כוחות הדיכוי והמשטר",
+        "city:he": "אהוואז",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Ahvaz Devrim Muhafızları İstihbarat Binası",
+        "description:tr": "Devrim Muhafızları istihbarat binası ve baskıcı ile hükümet güçlerinin toplanma yeri.",
+        "city:tr": "Ahvaz",
+        "province:tr": "Huzistan",
+        "name:ckb": "بینای ئیتلاعاتی سوپای ئاهواز",
+        "description:ckb": "بینای ئیتلاعاتی سوپا و شوێنی کۆبوونەوەی هێزە سەرکوتکەر و حکومییەکان",
+        "city:ckb": "ئاهواز",
+        "province:ckb": "خووزستان",
+        "id": "MjpjNzA4Mjg4MzQ4MTQ",
+        "publicId": "MjpjNzA4Mjg4MzQ4MTQ",
+        "sourceId": "c70828834814",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:19:30.362Z",
+        "updatedAt": "2026-10-13T11:19:30.362Z"
+      }
     }
   ],
   "metadata": {
-    "total": 366,
+    "total": 368,
     "layerId": 2,
     "clustered": false,
     "simplified": false

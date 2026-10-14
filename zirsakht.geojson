@@ -93349,10 +93349,49 @@
         "createdAt": "2026-10-12T11:28:24.925Z",
         "updatedAt": "2026-10-12T11:28:24.925Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96019,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86618011971689,
+          35.14373662764973
+        ]
+      },
+      "properties": {
+        "name": "دکل مخابرات",
+        "description": "",
+        "date": "",
+        "city": "روعان",
+        "province": "استان همدان",
+        "city:en": "Rouan",
+        "province:en": "Hamadan",
+        "city:ar": "روعان",
+        "province:ar": "همدان",
+        "city:he": "רועאן",
+        "province:he": "המדאן",
+        "city:tr": "Ruan",
+        "province:tr": "Hemedan",
+        "city:ckb": "ڕوعان",
+        "province:ckb": "ھەمەدان",
+        "id": "MzU6NTc1YzA5ODFmZWU5",
+        "publicId": "MzU6NTc1YzA5ODFmZWU5",
+        "sourceId": "575c0981fee9",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:08:06.456Z",
+        "updatedAt": "2026-10-13T11:08:06.456Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2019,
+    "total": 2020,
     "layerId": 35,
     "clustered": false,
     "simplified": false

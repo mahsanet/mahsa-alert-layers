@@ -6062,6 +6062,8 @@
         "province:tr": "Hürmüzgan",
         "city:ckb": "بەندەرعەباس",
         "province:ckb": "ھورمزگان",
+        "city:he": "בנדר עבאס",
+        "province:he": "הורמוזגאן",
         "publicId": "ODo2MDA",
         "sourceId": "600",
         "layerId": 8,
@@ -8882,55 +8884,6 @@
     },
     {
       "type": "Feature",
-      "id": 95127,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.896342776715755,
-          35.15226235244275
-        ]
-      },
-      "properties": {
-        "name:fa": "پدافند هوایی و پرتابگر موشک",
-        "unofficial_name:fa": "",
-        "description": "گزارش اسکان پدافند هوایی و پرتابگر موشک در این مکان",
-        "date": 1790349641,
-        "city": "شهرستان فامنین",
-        "province": "استان همدان",
-        "name:en": "Air Defense and Missile Launcher",
-        "description:en": "Report of air defense and missile launcher deployment at this location",
-        "city:en": "Famenin",
-        "province:en": "Hamadan",
-        "name:ar": "الدفاع الجوي ومنصة إطلاق الصواريخ",
-        "description:ar": "تقرير عن تمركز الدفاع الجوي ومنصة إطلاق الصواريخ في هذا الموقع",
-        "city:ar": "قضاء فامنين",
-        "province:ar": "همدان",
-        "name:he": "הגנה אווירית ומשגר טילים",
-        "description:he": "דיווח על הצבת הגנה אווירית ומשגר טילים במיקום זה",
-        "province:he": "המדאן",
-        "name:tr": "Hava Savunması ve Füze Fırlatıcı",
-        "description:tr": "Bu konumda hava savunması ve füze fırlatıcısının yerleştirildiği bildirildi",
-        "city:tr": "Famenin İlçesi",
-        "province:tr": "Hemedan",
-        "name:ckb": "بەرگریی ئاسمانی و مووشەکهاوێژ",
-        "description:ckb": "ڕاپۆرتی جێگیرکردنی بەرگریی ئاسمانی و مووشەکهاوێژ لەم شوێنەدا",
-        "city:ckb": "شارۆچکەی فامنێن",
-        "province:ckb": "ھەمەدان",
-        "id": "ODpmZjY0NjlhZjE0ODI",
-        "publicId": "ODpmZjY0NjlhZjE0ODI",
-        "sourceId": "ff6469af1482",
-        "layerId": 8,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-09-27T20:37:25.121Z",
-        "updatedAt": "2026-09-27T20:37:25.121Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 95142,
       "geometry": {
         "type": "Point",
@@ -9177,6 +9130,95 @@
         "expirationDate": null,
         "createdAt": "2026-10-12T12:06:33.369Z",
         "updatedAt": "2026-10-12T12:06:33.369Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96017,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.895117844366325,
+              35.15252033500565
+            ],
+            [
+              48.89525250564526,
+              35.15254882701319
+            ],
+            [
+              48.89610483232883,
+              35.152561777921406
+            ],
+            [
+              48.89610483232883,
+              35.152746975694484
+            ],
+            [
+              48.89841519031009,
+              35.1527769046626
+            ],
+            [
+              48.89839934780855,
+              35.151644990421616
+            ],
+            [
+              48.895578714405985,
+              35.15166220137314
+            ],
+            [
+              48.89558505140727,
+              35.15174638316202
+            ],
+            [
+              48.89553752389696,
+              35.151833155068886
+            ],
+            [
+              48.89536959336098,
+              35.15176969502674
+            ],
+            [
+              48.895117844366325,
+              35.15252033500565
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی و پرتابگر موشک",
+        "unofficial_name:fa": "گزارش اسکان پدافند هوایی و پرتابگر موشک در این مکان",
+        "description": "",
+        "date": "",
+        "city": "شهرستان فامنین",
+        "province": "استان همدان",
+        "name:en": "Air Defense and Missile Launcher",
+        "city:en": "Famenin",
+        "province:en": "Hamadan",
+        "name:ar": "الدفاع الجوي ومنصة إطلاق الصواريخ",
+        "city:ar": "مقاطعة فامنين",
+        "province:ar": "همدان",
+        "name:he": "הגנה אווירית ומשגר טילים",
+        "city:he": "נפת פאמנין",
+        "province:he": "המדאן",
+        "name:tr": "Hava Savunması ve Füze Fırlatıcı",
+        "city:tr": "Famenin",
+        "province:tr": "Hemedan",
+        "name:ckb": "بەرگریی ئاسمانی و مووشەکهاوێژ",
+        "city:ckb": "شارستانی فامەنین",
+        "province:ckb": "ھەمەدان",
+        "id": "ODpiOWY3MDMwMWQ2ZmQ",
+        "publicId": "ODpiOWY3MDMwMWQ2ZmQ",
+        "sourceId": "b9f70301d6fd",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:05:58.269Z",
+        "updatedAt": "2026-10-13T11:05:58.269Z"
       }
     }
   ],

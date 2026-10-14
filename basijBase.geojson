@@ -74447,55 +74447,6 @@
     },
     {
       "type": "Feature",
-      "id": 91009,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.83423580027471,
-          38.414924954844
-        ]
-      },
-      "properties": {
-        "name:fa": "پایگاه",
-        "description": "پایگاه بسیج ویرمونی",
-        "date": 1771305947,
-        "city": "شهرستان آستارا",
-        "province": "استان گیلان",
-        "name:en": "Base",
-        "description:en": "Virmoni Basij base",
-        "city:en": "Astara County",
-        "province:en": "Gilan",
-        "name:ar": "قاعدة",
-        "description:ar": "قاعدة بسيج ويرموني",
-        "city:ar": "قضاء آستارا",
-        "province:ar": "جيلان",
-        "name:he": "בסיס",
-        "description:he": "בסיס באסיג' וירמוני",
-        "city:he": "נפת אסטארה",
-        "province:he": "גילאן",
-        "name:tr": "Üs",
-        "description:tr": "Virmuni Besic Üssü",
-        "city:tr": "Astara",
-        "province:tr": "Gilan",
-        "name:ckb": "بنکە",
-        "description:ckb": "بنکەی بەسیجی ڤیرموونی",
-        "city:ckb": "شارستانی ئاستارا",
-        "province:ckb": "گیلان",
-        "id": "MTo1NTFiZmJmNzhiYWE",
-        "publicId": "MTo1NTFiZmJmNzhiYWE",
-        "sourceId": "551bfbf78baa",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-24T23:43:21.495Z",
-        "updatedAt": "2026-03-26T02:09:06.113Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 91010,
       "geometry": {
         "type": "Point",
@@ -103617,10 +103568,129 @@
         "createdAt": "2026-10-10T15:51:13.019Z",
         "updatedAt": "2026-10-10T15:51:13.019Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96027,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.834116450795904,
+              38.41494409727824
+            ],
+            [
+              48.83414869486427,
+              38.41496850082339
+            ],
+            [
+              48.83426728745346,
+              38.415007460851655
+            ],
+            [
+              48.83432084539743,
+              38.414879877383214
+            ],
+            [
+              48.83416727619243,
+              38.41483235462445
+            ],
+            [
+              48.834116450795904,
+              38.41494409727824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج شهرستان آستارا دهستان ویرمونی",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Basij Base of Virmuni Rural District, Astara County",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "قاعدة البسيج في مقاطعة أستارا، ناحية ويرموني",
+        "city:ar": "مقاطعة أستارا",
+        "province:ar": "جيلان",
+        "name:he": "בסיס באסיג' - נפת אסתארא, מועצה אזורית וירמוני",
+        "city:he": "אסתארא",
+        "province:he": "גילאן",
+        "name:tr": "Astara İlçesi Virmoni Kırsal Mahallesi Besiç Üssü",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بنکەی بەسیجی شارستانی ئاستارا دێستانی ویرمۆنی",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTo3NTI0YWQ4YWQ4ODM",
+        "publicId": "MTo3NTI0YWQ4YWQ4ODM",
+        "sourceId": "7524ad8ad883",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:13:06.287Z",
+        "updatedAt": "2026-10-13T11:13:06.287Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96038,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.34849805384874,
+          35.67641797164586
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج ۲۲۲ ولایت",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج ۲۲۲ ولایت کنار مسجد امام حسین",
+        "date": 1791883211,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Velayat 222 Basij Base",
+        "description:en": "Velayat 222 Basij Base next to Imam Hossein Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "قاعدة البسيج 222 ولاية",
+        "description:ar": "قاعدة البسيج 222 ولاية بجانب مسجد الإمام الحسين",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:tr": "222 Velayet Besiç Üssü",
+        "description:tr": "İmam Hüseyin Camii yanında 222 Velayet Besiç Üssü.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "بنکەی بەسیجی 222ی وەلایەت",
+        "description:ckb": "بنکەی بەسیجی 222ی وەلایەت لە پەنای مزگەوتی ئیمام حسێن",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "name:he": "בסיס באסיג' 222 וילאית",
+        "description:he": "בסיס באסיג' 222 וילאית ליד מסגד אימאם חוסיין",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "id": "MToxODU0MzdkNjNhYzI",
+        "publicId": "MToxODU0MzdkNjNhYzI",
+        "sourceId": "185437d63ac2",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-13T11:20:15.292Z",
+        "updatedAt": "2026-10-13T11:20:15.292Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2338,
+    "total": 2339,
     "layerId": 1,
     "clustered": false,
     "simplified": false
