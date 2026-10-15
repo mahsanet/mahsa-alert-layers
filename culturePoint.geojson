@@ -122881,10 +122881,59 @@
         "createdAt": "2026-10-13T11:34:47.154Z",
         "updatedAt": "2026-10-13T11:34:47.154Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.838897570967674,
+          38.34424885608718
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر امام جمعه روستای کانرود",
+        "description": "دفتر امام جمعه روستای کانرود",
+        "date": 1791956959,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Friday Prayer Imam's Office of Kanrud Village",
+        "description:en": "Friday Prayer Imam's Office of Kanrud Village",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "مكتب إمام الجمعة في قرية كانرود",
+        "description:ar": "مكتب إمام الجمعة في قرية كانرود",
+        "city:ar": "مقاطعة أستارا",
+        "province:ar": "جيلان",
+        "name:he": "משרד אימאם תפילת יום השישי של הכפר קאנרוד",
+        "description:he": "משרד אימאם תפילת יום השישי של הכפר קאנרוד",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Kanrud Köyü Cuma İmamı Ofisi",
+        "description:tr": "Kanrud Köyü Cuma İmamı Ofisi",
+        "city:tr": "Astara İlçesi",
+        "province:tr": "Gilan",
+        "name:ckb": "نووسینگەی ئیمامی جومعەی گوندی کانڕوود",
+        "description:ckb": "نووسینگەی ئیمامی جومعەی گوندی کانڕوود",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTc6ZTNlYmYwOWYxZmNk",
+        "publicId": "MTc6ZTNlYmYwOWYxZmNk",
+        "sourceId": "e3ebf09f1fcd",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:29:48.062Z",
+        "updatedAt": "2026-10-14T11:29:48.062Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2427,
+    "total": 2428,
     "layerId": 17,
     "clustered": false,
     "simplified": false

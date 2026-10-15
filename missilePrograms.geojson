@@ -21133,10 +21133,60 @@
         "createdAt": "2026-10-12T12:04:16.604Z",
         "updatedAt": "2026-10-12T12:04:37.851Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.39665147662163,
+          35.11607132763501
+        ]
+      },
+      "properties": {
+        "name:fa": "شرکت بهینه تکنیک",
+        "description": "شرکت بهینه تکنیک زیر نظر سپاه برای امور مالی و ساخت موشک و پهپاد در دهستان طراز ناهید",
+        "date": 1791901191,
+        "city": "شهر صنعتی کاوه",
+        "province": "استان مرکزی",
+        "sources": "",
+        "name:en": "Behineh Technique Company",
+        "description:en": "Behineh Technique Company operates under the IRGC for financial affairs and the production of missiles and drones in Taraz Nahid Rural District.",
+        "city:en": "Kaveh Industrial City",
+        "province:en": "Markazi",
+        "name:ar": "شركة بهينه تكنيك",
+        "description:ar": "شركة بهينه تكنيك تحت إشراف الحرس الثوري للأمور المالية وصناعة الصواريخ والطائرات المسيرة في ناحية طراز ناهيد الريفية",
+        "city:ar": "مدينة كاوة الصناعية",
+        "province:ar": "المركزية",
+        "name:he": "חברת בהינה טכניק",
+        "description:he": "חברת בהינה טכניק תחת פיקוח משמרות המהפכה לעניינים פיננסיים וייצור טילים וכלי טיס בלתי מאוישים בדהסטאן טראז נאהיד",
+        "city:he": "עיר התעשייה קאווה",
+        "province:he": "מרכזי",
+        "name:tr": "Behine Teknik Şirketi",
+        "description:tr": "Taraz Nahid beldesinde bulunan Behine Teknik Şirketi, Devrim Muhafızları gözetiminde finansal işler ile füze ve İHA üretimi yapmaktadır.",
+        "city:tr": "Kave Sanayi Şehri",
+        "province:tr": "Merkezi",
+        "name:ckb": "کۆمپانیای بەهینە تەکنیک",
+        "description:ckb": "کۆمپانیای بەهینە تەکنیک لەژێر چاودێری سوپایە بۆ کاروباری دارایی و دروستکردنی مووشەک و فڕۆکەی بێفڕۆکەوان لە گوندەواری تەراز ناهید",
+        "city:ckb": "شاری پیشەسازیی کاوە",
+        "province:ckb": "مەرکەزی",
+        "id": "NzozYWQ0N2YzZjYzM2I",
+        "publicId": "NzozYWQ0N2YzZjYzM2I",
+        "sourceId": "3ad47f3f633b",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:59:30.140Z",
+        "updatedAt": "2026-10-14T11:59:30.140Z"
+      }
     }
   ],
   "metadata": {
-    "total": 190,
+    "total": 191,
     "layerId": 7,
     "clustered": false,
     "simplified": false

@@ -93388,10 +93388,250 @@
         "createdAt": "2026-10-13T11:08:06.456Z",
         "updatedAt": "2026-10-13T11:08:06.456Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96056,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.57808291912079,
+          38.4443099404329
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "دکل مخابراتی نیروهای رژیم",
+        "date": 1791968175,
+        "city": "شهرستان نمین",
+        "province": "استان اردبیل",
+        "name:fa": "دکل مخابراتی نیروهای رژیم",
+        "name:en": "Telecommunication tower of regime forces",
+        "description:en": "Telecommunication tower of regime forces",
+        "city:en": "Namin County",
+        "province:en": "Ardabil",
+        "name:ar": "برج الاتصالات التابع لقوات النظام",
+        "description:ar": "برج الاتصالات التابع لقوات النظام",
+        "city:ar": "مقاطعة نمين",
+        "province:ar": "أردبيل",
+        "name:he": "תורן תקשורת של כוחות המשטר",
+        "description:he": "תורן תקשורת של כוחות המשטר",
+        "city:he": "נמין",
+        "province:he": "ארדביל",
+        "name:tr": "Rejim güçlerinin telekomünikasyon kulesi",
+        "description:tr": "Rejim güçlerinin telekomünikasyon kulesi",
+        "city:tr": "Nemin Şehristanı",
+        "province:tr": "Erdebil",
+        "name:ckb": "دەکڵی موخابەراتیی هێزەکانی ڕژێم",
+        "description:ckb": "دەکڵی موخابەراتیی هێزەکانی ڕژێم",
+        "city:ckb": "شارستانی نەمیین",
+        "province:ckb": "ئەردەبیل",
+        "id": "MzU6OGMzNDU2ZjZmZGJi",
+        "publicId": "MzU6OGMzNDU2ZjZmZGJi",
+        "sourceId": "8c3456f6fdbb",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:28:44.309Z",
+        "updatedAt": "2026-10-14T11:28:44.309Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.88182297348976,
+          38.439577341936825
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "دکل حکومتی در گمرک مرزی آستارا",
+        "date": 1791927885,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "description:en": "Government tower at the Astara border customs",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "description:ar": "سارية حكومية في جمرك آستارا الحدودي",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "description:he": "תורן של השלטון במכס הגבול באסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "description:tr": "Astara sınır gümrüğündeki hükümet direği",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "description:ckb": "دەکڵی حکومی لە گومرکی سنووریی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzU6ODQ0NjVkNzY3OTA5",
+        "publicId": "MzU6ODQ0NjVkNzY3OTA5",
+        "sourceId": "84465d767909",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:31:49.759Z",
+        "updatedAt": "2026-10-14T11:31:49.759Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87655151933188,
+          38.43233390791636
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "دکل مخابرات صدا و سیما شهرستان آستارا",
+        "date": 1791957883,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:fa": "دکل مخابرات صدا و سیما آستارا",
+        "name:en": "Astara IRIB Telecommunication Tower",
+        "description:en": "IRIB telecommunication tower in Astara County",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "برج مخابرات الإذاعة والتلفزيون في آستارا",
+        "description:ar": "برج مخابرات الإذاعة والتلفزيون في مقاطعة آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מגדל התקשורת של צדא ו-סימא אסטארה",
+        "description:he": "מגדל התקשורת של צדא ו-סימא במחוז משנה אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara Radyo ve Televizyon Telekomünikasyon Kulesi",
+        "description:tr": "Astara ilçesindeki Radyo ve Televizyon Kurumu telekomünikasyon kulesi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "دەکڵی موخابەراتی سەدا و سیمای ئاستارا",
+        "description:ckb": "دەکڵی موخابەراتی سەدا و سیمای شارستانی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzU6YzRiNGYwMzgxNGE3",
+        "publicId": "MzU6YzRiNGYwMzgxNGE3",
+        "sourceId": "c4b4f03814a7",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:33:21.252Z",
+        "updatedAt": "2026-10-14T11:33:24.997Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96082,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.70618459338604,
+              38.21361105077304
+            ],
+            [
+              48.70625676499262,
+              38.213903026029584
+            ],
+            [
+              48.70632237554608,
+              38.213939093479695
+            ],
+            [
+              48.70635955485818,
+              38.214186412658194
+            ],
+            [
+              48.70674447009975,
+              38.21406103567989
+            ],
+            [
+              48.70754929287733,
+              38.21372440601195
+            ],
+            [
+              48.707575537098165,
+              38.213532045502575
+            ],
+            [
+              48.70718843483749,
+              38.21329331166311
+            ],
+            [
+              48.70696098492226,
+              38.21322976367475
+            ],
+            [
+              48.70679039748691,
+              38.213228046160964
+            ],
+            [
+              48.70640329522624,
+              38.21331048678579
+            ],
+            [
+              48.70624145586447,
+              38.21343586505719
+            ],
+            [
+              48.70618459338604,
+              38.21361105077304
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "دکل صدا و سیما",
+        "description": "دکل های صدا و سیما شهرستان آستارا ارتفاعات آستارا",
+        "date": "",
+        "city": "شهرستان طوالش",
+        "province": "استان گیلان",
+        "description:en": "IRIB towers of Astara County, Astara heights",
+        "city:en": "Talesh County",
+        "province:en": "Gilan",
+        "description:ar": "أبراج هيئة الإذاعة والتلفزيون في مقاطعة آستارا، مرتفعات آستارا",
+        "city:ar": "مقاطعة طوالش",
+        "province:ar": "جيلان",
+        "description:he": "תרני רשות השידור של מחוז אסטארה, גבהי אסטארה",
+        "city:he": "מחוז טוואלש",
+        "province:he": "גילאן",
+        "description:tr": "Astara ilçesi, Astara tepelerindeki Radyo ve Televizyon Kurumu kuleleri",
+        "city:tr": "Taleş ilçesi",
+        "province:tr": "Gilan",
+        "description:ckb": "دەکەڵەکانی دەنگ و ڕەنگی شارستانی ئاستارا، بەرزاییەکانی ئاستارا",
+        "city:ckb": "شارستانی تاڵش",
+        "province:ckb": "گیلان",
+        "id": "MzU6OGUyMTZhMGVhNTkw",
+        "publicId": "MzU6OGUyMTZhMGVhNTkw",
+        "sourceId": "8e216a0ea590",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:55:56.705Z",
+        "updatedAt": "2026-10-14T11:55:56.705Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2020,
+    "total": 2024,
     "layerId": 35,
     "clustered": false,
     "simplified": false

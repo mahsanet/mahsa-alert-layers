@@ -89770,10 +89770,297 @@
         "createdAt": "2026-10-13T11:18:08.640Z",
         "updatedAt": "2026-10-13T11:18:08.640Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96065,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87503497302532,
+          38.43606668889615
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار مهمات نیروی مرزبانی",
+        "unofficial_name:fa": "",
+        "description": "انبار مهمات نیروی مرزبانی",
+        "date": 1791958055,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Border Guard Force Ammunition Depot",
+        "description:en": "Border Guard Force Ammunition Depot",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مستودع ذخيرة قوات حرس الحدود",
+        "description:ar": "مستودع ذخيرة قوات حرس الحدود",
+        "city:ar": "أستارا",
+        "province:ar": "جيلان",
+        "name:he": "מחסן תחמושת של משמר הגבול",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Sınır Muhafız Gücü Mühimmat Deposu",
+        "description:tr": "Sınır Muhafız Gücü Mühimmat Deposu",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "عەمباری تەقەمەنیی هێزی پاسەوانیی سنوور",
+        "description:ckb": "عەمباری تەقەمەنیی هێزی پاسەوانیی سنوور",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTI6MjM5NWVjZmFlZjg4",
+        "publicId": "MTI6MjM5NWVjZmFlZjg4",
+        "sourceId": "2395ecfaef88",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:33:03.476Z",
+        "updatedAt": "2026-10-14T11:33:03.476Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96074,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86874904856086,
+          38.421660929746395
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجمع نیروهای حکومتی",
+        "unofficial_name:fa": "",
+        "description": "پایگاه نیروهای سپاه، محل تجمع نیروهای حکومتی",
+        "date": 1791963836,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Government forces gathering point",
+        "description:en": "IRGC forces base, gathering place of government forces",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مكان تجمع القوات الحكومية",
+        "description:ar": "قاعدة قوات الحرس الثوري، مكان تجمع القوات الحكومية",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מקום התכנסות כוחות המשטר",
+        "description:he": "בסיס כוחות משמרות המהפכה, מקום התכנסות כוחות המשטר",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Hükümet Güçlerinin Toplanma Noktası",
+        "description:tr": "Sepah güçlerinin üssü, hükümet güçlerinin toplanma noktası",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "شوێنی کۆبوونەوەی هێزە حکوومییەکان",
+        "description:ckb": "بنکەی هێزەکانی سپا، شوێنی کۆبوونەوەی هێزە حکوومییەکان",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTI6NmMwM2YxYzdhNWVh",
+        "publicId": "MTI6NmMwM2YxYzdhNWVh",
+        "sourceId": "6c03f1c7a5ea",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:39:19.718Z",
+        "updatedAt": "2026-10-14T11:39:19.718Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96076,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.507472306489944,
+          35.30096288754066
+        ]
+      },
+      "properties": {
+        "name:fa": "استقرار کانکس‌های نیروهای نظامی",
+        "unofficial_name:fa": "",
+        "description": "تعدادی کانکس با دیوارهای پیش‌ساخته برای استقرار نیروهای نظامی و سرکوب (بسیج، سپاه، اطلاعات و آگاهی) در بلوار امام خمینی دهستان خشک‌رود.",
+        "date": 1791899799,
+        "city": "مأمونیه",
+        "province": "استان مرکزی",
+        "name:en": "Deployment of Military Force Cabins",
+        "description:en": "A number of cabins with prefabricated walls for the deployment of military and repressive forces (Basij, IRGC, Intelligence, and Criminal Investigation Department) on Imam Khomeini Boulevard in Khoshkrud Rural District.",
+        "city:en": "Mamuniyeh",
+        "province:en": "Markazi",
+        "name:ar": "تمركز كرفانات القوات العسكرية",
+        "description:ar": "عدد من الكرفانات ذات الجدران مسبقة الصنع لتمركز القوات العسكرية وقوات القمع (البسيج، الحرس الثوري، الاستخبارات والبحث الجنائي) في شارع إمام خميني بناحية خشك رود الريفية.",
+        "city:ar": "مأمونية",
+        "province:ar": "المركزية",
+        "name:he": "הצבת קראוונים של כוחות צבאיים",
+        "description:he": "מספר קראוונים עם קירות טרומיים להצבת כוחות צבא ודיכוי (בסיג', משמרות המהפכה, מודיעין ואגאהי) בשדרות אימאם חומייני במועצה האזורית ח'ושכרוד.",
+        "city:he": "מאמוניה",
+        "province:he": "מרכזי",
+        "name:tr": "Askeri Güçlerin Konteynerlerinin Konuşlandırılması",
+        "description:tr": "Hoşkrud kırsal beldesindeki İmam Humeyni Bulvarı'nda askeri ve baskı güçlerinin (Besic, Devrim Muhafızları, İstihbarat ve Asayiş) konuşlandırılması amacıyla prefabrik duvarlı birkaç konteyner yerleştirildi.",
+        "city:tr": "Mamuniye",
+        "province:tr": "Merkezi",
+        "name:ckb": "جێگیرکردنی کانێکسەکانی هێزە سەربازییەکان",
+        "description:ckb": "ژمارەیەک کانێکس بە دیواری پێشسازکراوەوە بۆ جێگیرکردنی هێزە سەربازی و سەرکوتکەرەکان (بەسیج، سوپا، ئیتلاعات و ئاگایی) لە بوڵواری ئیمام خومەینی لە دهستانی خشکڕوود.",
+        "city:ckb": "مەمونیە",
+        "province:ckb": "مەرکەزی",
+        "id": "MTI6ZjkzMGZiNjZmYzQ1",
+        "publicId": "MTI6ZjkzMGZiNjZmYzQ1",
+        "sourceId": "f930fb66fc45",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:50:26.204Z",
+        "updatedAt": "2026-10-14T11:50:26.204Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.53626514971256,
+          35.25001206646465
+        ]
+      },
+      "properties": {
+        "name:fa": "مراکز وابسته به سپاه پاسداران",
+        "unofficial_name:fa": "",
+        "description": "شرکت‌های زنجیره‌ای سپاه در دهستان خشک‌رود، بخش مرکزی زرندیه",
+        "date": 1791900781,
+        "city": "شهرک صنعتی مأمونیه",
+        "province": "استان مرکزی",
+        "name:en": "Centers affiliated with the Islamic Revolutionary Guard Corps",
+        "description:en": "IRGC chain companies in Khoshkroud Rural District, Central District of Zarandieh",
+        "city:en": "Mamuniyeh Industrial Zone",
+        "province:en": "Markazi",
+        "name:ar": "مراكز تابعة للحرس الثوري",
+        "description:ar": "سلسلة شركات الحرس الثوري في قسم خشك رود الريفي، الناحية المركزية لقضاء زرندية",
+        "city:ar": "المدينة الصناعية مأمونية",
+        "province:ar": "المركزية",
+        "name:he": "מרכזים הקשורים למשמרות המהפכה",
+        "description:he": "חברות השרשרת של משמרות המהפכה בדהסתאן ח'ושכרוד, הנפה המרכזית של זרנדייה",
+        "city:he": "אזור התעשייה מאמוניה",
+        "province:he": "מרכזי",
+        "name:tr": "Devrim Muhafızları'na Bağlı Merkezler",
+        "description:tr": "Zarandieh Merkez Nahiyesi'nin Hoşkrud beldesinde yer alan Devrim Muhafızları zincir şirketleri",
+        "city:tr": "Mamuniye Sanayi Bölgesi",
+        "province:tr": "Merkezi",
+        "name:ckb": "ناوەندەکانی سەر بە سوپای پاسداران",
+        "description:ckb": "کۆمپانیا زنجیرەیییەکانی سوپا لە گوندەواری خۆشکڕوود، بەشی ناوەندیی زەرەندییە",
+        "city:ckb": "شارۆچکەی پیشەسازیی مەئموونییە",
+        "province:ckb": "مەرکەزی",
+        "id": "MTI6ODdkYzM0YTRmYTk3",
+        "publicId": "MTI6ODdkYzM0YTRmYTk3",
+        "sourceId": "87dc34a4fa97",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:51:52.510Z",
+        "updatedAt": "2026-10-14T11:51:52.510Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96078,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.04071164852084,
+              35.3129324923932
+            ],
+            [
+              50.04057597373682,
+              35.31300238059357
+            ],
+            [
+              50.038826483089395,
+              35.31564643979621
+            ],
+            [
+              50.037676817837564,
+              35.31843605345583
+            ],
+            [
+              50.03935490073843,
+              35.32176260600191
+            ],
+            [
+              50.04102598318772,
+              35.32393481322363
+            ],
+            [
+              50.04553181420124,
+              35.32279927601493
+            ],
+            [
+              50.04828818231667,
+              35.31984678200888
+            ],
+            [
+              50.05140156162204,
+              35.31878687182808
+            ],
+            [
+              50.05058037213411,
+              35.31579348726166
+            ],
+            [
+              50.04897918651142,
+              35.313514523837526
+            ],
+            [
+              50.04071164852084,
+              35.3129324923932
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان زرندیه",
+        "province": "استان مرکزی",
+        "city:en": "Zarandieh County",
+        "province:en": "Markazi",
+        "city:ar": "زرندية",
+        "province:ar": "المركزية",
+        "city:he": "זראנדייה",
+        "province:he": "מרכזי",
+        "city:tr": "Zarandiye",
+        "province:tr": "Merkezi",
+        "city:ckb": "شارستانی زەرەندیە",
+        "province:ckb": "مەرکەزی",
+        "id": "MTI6YWRlMjQ4MmM4Njk3",
+        "publicId": "MTI6YWRlMjQ4MmM4Njk3",
+        "sourceId": "ade2482c8697",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:52:53.291Z",
+        "updatedAt": "2026-10-14T11:52:53.291Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1088,
+    "total": 1093,
     "layerId": 12,
     "clustered": false,
     "simplified": false

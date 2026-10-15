@@ -13661,49 +13661,6 @@
     },
     {
       "type": "Feature",
-      "id": 84386,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.9581136,
-          35.3328096
-        ]
-      },
-      "properties": {
-        "id": "MzoyNjgy",
-        "city": "رازقان",
-        "osm_id": "n12269404629",
-        "name:fa": "کلانتری",
-        "province": "استان مرکزی",
-        "name:en": "Police Station",
-        "city:en": "Razqan",
-        "province:en": "Markazi",
-        "name:ar": "مركز شرطة",
-        "city:ar": "رازقان",
-        "province:ar": "المركزية",
-        "name:he": "תחנת משטרה",
-        "city:he": "ראזקאן",
-        "province:he": "מרכזי",
-        "name:tr": "Polis Karakolu",
-        "city:tr": "Razekan",
-        "province:tr": "Merkezi",
-        "name:ckb": "بنکەی پۆلیس",
-        "city:ckb": "ڕازقان",
-        "province:ckb": "مەرکەزی",
-        "publicId": "MzoyNjgy",
-        "sourceId": "2682",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:05.726Z",
-        "updatedAt": "2026-03-13T04:41:05.726Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 84387,
       "geometry": {
         "type": "Point",
@@ -96021,49 +95978,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.684Z",
         "updatedAt": "2026-03-13T04:41:06.684Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 86358,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.5077231,
-          35.302198
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MzUwNw",
-        "city": "مأمونیه",
-        "osm_id": "",
-        "name:fa": "ناحیه انتظامی شهرستان زرندیه",
-        "province": "استان مرکزی",
-        "name:en": "Zarandieh County Police District",
-        "city:en": "Mamuniyeh",
-        "province:en": "Markazi",
-        "name:ar": "المنطقة الشرطية لقضاء زرندية",
-        "city:ar": "مامونية",
-        "province:ar": "المركزية",
-        "name:he": "אזור אכיפת החוק של מחוז זרנדייה",
-        "city:he": "מאמוניה",
-        "province:he": "מרכזי",
-        "name:tr": "Zarandiyeh İlçesi Emniyet Bölgesi",
-        "city:tr": "Mamuniye",
-        "province:tr": "Merkezi",
-        "name:ckb": "ناوچەی ئینتیزامیی شارستانی زەرەندییە",
-        "city:ckb": "مەئموونییە",
-        "province:ckb": "مەرکەزی",
-        "publicId": "Mzo2MzUwNw",
-        "sourceId": "63507",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.685Z",
-        "updatedAt": "2026-03-13T04:41:06.685Z"
       }
     },
     {
@@ -265162,10 +265076,453 @@
         "createdAt": "2026-10-13T11:18:45.456Z",
         "updatedAt": "2026-10-13T11:18:45.456Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96055,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.57786616310477,
+          38.4439026582034
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه مرزی آستارا",
+        "description": "پاسگاه مرزی شهرستان آستارا",
+        "date": 1791968151,
+        "city": "شهرستان نمین",
+        "province": "استان اردبیل",
+        "name:en": "Astara Border Post",
+        "description:en": "Border post of Astara County",
+        "city:en": "Namin",
+        "province:en": "Ardabil",
+        "name:ar": "مخفر آستارا الحدودي",
+        "description:ar": "مخفر حدودي في مقاطعة آستارا",
+        "city:ar": "مقاطعة نمين",
+        "province:ar": "أردبيل",
+        "name:he": "תחנת הגבול אסטארה",
+        "description:he": "תחנת הגבול של מחוז אסטארה",
+        "city:he": "מחוז נמין",
+        "province:he": "ארדביל",
+        "name:tr": "Astara Sınır Karakolu",
+        "description:tr": "Astara ilçesinin sınır karakolu",
+        "city:tr": "Nemin İlçesi",
+        "province:tr": "Erdebil",
+        "name:ckb": "بنکەی سنووریی ئاستارا",
+        "description:ckb": "بنکەی سنووریی شارستانی ئاستارا",
+        "city:ckb": "شارستانی نەمین",
+        "province:ckb": "ئەردەبیل",
+        "id": "MzowYzUxMmNlNWMzODg",
+        "publicId": "MzowYzUxMmNlNWMzODg",
+        "sourceId": "0c512ce5c388",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:28:18.637Z",
+        "updatedAt": "2026-10-14T11:28:18.637Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.80597546696663,
+          38.446639098969484
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان امداد و یگان ویژه آستارا",
+        "description": "محل نیروهای یگان امداد و یگان ویژه شهرستان آستارا",
+        "date": 1791957730,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Relief Unit and Special Unit of Astara",
+        "description:en": "Location of the Relief Unit and Special Unit forces of Astara County",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "وحدة الإغاثة والوحدة الخاصة بآستارا",
+        "description:ar": "موقع قوات وحدة الإغاثة والوحدة الخاصة في مقاطعة آستارا",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "יחידת הסיוע והיחידה המיוחדת של אסטארה",
+        "description:he": "מיקום כוחות יחידת הסיוע והיחידה המיוחדת של מחוז אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara Acil Müdahale ve Özel Birlikleri",
+        "description:tr": "Astara ilçesindeki acil müdahale ve özel birlik kuvvetlerinin bulunduğu yer.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "یەگانی فریاکەوتن و یەگانی تایبەتی ئاستارا",
+        "description:ckb": "شوێنی هێزەکانی یەگانی فریاکەوتن و یەگانی تایبەتی شارستانی ئاستارا",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzpiNzAyODFiY2YyYWM",
+        "publicId": "MzpiNzAyODFiY2YyYWM",
+        "sourceId": "b70281bcf2ac",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:30:54.516Z",
+        "updatedAt": "2026-10-14T11:30:54.516Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96064,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.881295416504145,
+          38.43958154369335
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک مرزبانی ۲ هنگ مرزی آستارا",
+        "description": "برجک مرزبانی ۲ هنگ مرزی شهرستان آستارا",
+        "date": 1791927813,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Border Guard Watchtower 2 of Astara Border Regiment",
+        "description:en": "Border Guard Watchtower 2 of Astara County Border Regiment",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "برج المراقبة الحدودي 2 لفوج حرس الحدود في آستارا",
+        "description:ar": "برج المراقبة الحدودي 2 لفوج حرس الحدود في مقاطعة آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מגדל שמירה 2 של רגימנט משמר הגבול אסטארה",
+        "description:he": "מגדל שמירה 2 של רגימנט משמר הגבול בנפת אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara Sınır Alayı 2. Sınır Kulesi",
+        "description:tr": "Astara ilçesi sınır alayına bağlı 2. sınır kulesi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بورجی پاسەوانیی سنووریی 2ی فەوجی سنووریی ئاستارا",
+        "description:ckb": "بورجی پاسەوانیی سنووریی 2ی فەوجی سنووریی شارستانی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzpiOGM0YWU0YzhkMmQ",
+        "publicId": "MzpiOGM0YWU0YzhkMmQ",
+        "sourceId": "b8c4ae4c8d2d",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:32:06.053Z",
+        "updatedAt": "2026-10-14T11:32:06.053Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87769455090165,
+          38.43718571495796
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری شهرستان آستارا",
+        "description": "کلانتری شهرستان آستارا، محل نیروهای سرکوب",
+        "date": 1791957942,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Astara County Police Station",
+        "description:en": "Astara County Police Station, location of suppression forces",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مركز شرطة مقاطعة أستارا",
+        "description:ar": "مركز شرطة مقاطعة أستارا، مقر قوات القمع",
+        "city:ar": "أستارا",
+        "province:ar": "جيلان",
+        "name:he": "תחנת המשטרה של מחוז אסטארה",
+        "description:he": "תחנת המשטרה של מחוז אסטארה, בסיס כוחות הדיכוי",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara İlçesi Polis Karakolu",
+        "description:tr": "Astara İlçesi Polis Karakolu, baskı güçlerinin bulunduğu yer",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بنکەی پۆلیسی شارستانی ئاستارا",
+        "description:ckb": "بنکەی پۆلیسی شارستانی ئاستارا، شوێنی هێزەکانی سەرکوت",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "Mzo5MGM4MzA5ZDEwZmI",
+        "publicId": "Mzo5MGM4MzA5ZDEwZmI",
+        "sourceId": "90c8309d10fb",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:33:41.382Z",
+        "updatedAt": "2026-10-14T11:33:41.382Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.877767473459244,
+          38.43679638199555
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس امنیتی و فتا آستارا",
+        "description": "پلیس امنیتی و فتا، محل نیروهای سرکوب شهرستان آستارا",
+        "date": 1791957984,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Astara Security Police and FATA",
+        "description:en": "Security Police and FATA, location of suppression forces in Astara County",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "الشرطة الأمنية وشرطة فتا في آستارا",
+        "description:ar": "الشرطة الأمنية وشرطة فتا، مقر قوات القمع في مقاطعة آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "משטרת הביטחון ופטא אסטארה",
+        "description:he": "משטרת הביטחון ופטא, מקום כוחות הדיכוי של מחוז אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara Güvenlik ve FATA Polisi",
+        "description:tr": "Güvenlik ve FATA Polisi, Astara ilçesindeki baskı güçlerinin konuşlandığı yer.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "پۆلیسی ئاسایش و فەتای ئاستارا",
+        "description:ckb": "پۆلیسی ئاسایش و فەتا، شوێنی هێزەکانی سەرکوتکەری شارستانی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzoxNjIwOWZjNDg4Y2E",
+        "publicId": "MzoxNjIwOWZjNDg4Y2E",
+        "sourceId": "16209fc488ca",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:33:54.608Z",
+        "updatedAt": "2026-10-14T11:33:54.608Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96089,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87208051979542,
+          38.30412430393855
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی",
+        "description": "فرماندهی انتظامی لوندویل محل نیروهای سرکوب",
+        "date": 1791957199,
+        "city": "لوندویل",
+        "province": "استان گیلان",
+        "name:en": "Law Enforcement Command",
+        "description:en": "Lavandvil Law Enforcement Command, a location for suppressive forces",
+        "city:en": "Lavandvil",
+        "province:en": "Gilan",
+        "name:ar": "قيادة الشرطة",
+        "description:ar": "قيادة الشرطة في لوندويل مقر لقوات القمع",
+        "city:ar": "لوندويل",
+        "province:ar": "جيلان",
+        "name:he": "מפקדת המשטרה",
+        "description:he": "מפקדת המשטרה בלונדוויל, מקום כוחות הדיכוי",
+        "city:he": "לונדוויל",
+        "province:he": "גילאן",
+        "name:tr": "Emniyet Komutanlığı",
+        "description:tr": "Lavandevil Emniyet Komutanlığı, baskı güçlerinin bulunduğu yer.",
+        "city:tr": "Lavandevil",
+        "province:tr": "Gilan",
+        "name:ckb": "فەرماندەیی ئینتیزامی",
+        "description:ckb": "فەرماندەیی ئینتیزامیی لەوەندویل، شوێنی هێزەکانی سەرکوتکەر",
+        "city:ckb": "لەوەندویل",
+        "province:ckb": "گیلان",
+        "id": "MzowNTRkN2M1NzNiNGE",
+        "publicId": "MzowNTRkN2M1NzNiNGE",
+        "sourceId": "054d7c573b4a",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T12:03:10.783Z",
+        "updatedAt": "2026-10-14T12:03:10.783Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96090,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.872092086821795,
+          38.30420218203648
+        ]
+      },
+      "properties": {
+        "name:fa": "یگان امداد لوندویل",
+        "description": "یگان امداد لوندویل",
+        "date": 1791957219,
+        "city": "لوندویل",
+        "province": "استان گیلان",
+        "name:en": "Lavandevil Relief Unit",
+        "description:en": "Lavandevil Relief Unit",
+        "city:en": "Lavandevil",
+        "province:en": "Gilan",
+        "name:ar": "وحدة الإغاثة لوندويل",
+        "description:ar": "وحدة الإغاثة لوندويل",
+        "city:ar": "لوندويل",
+        "province:ar": "جيلان",
+        "name:he": "יחידת הסיוע לונדוויל",
+        "description:he": "יחידת הסיוע לונדוויל",
+        "city:he": "לונדוויל",
+        "province:he": "גילאן",
+        "name:tr": "Lavandevil İmdat Birliği",
+        "description:tr": "Lavandevil İmdat Birliği",
+        "city:tr": "Lavandevil",
+        "province:tr": "Gilan",
+        "name:ckb": "یەکەی فریاکەوتنی لەوەندەویل",
+        "description:ckb": "یەکەی فریاکەوتنی لەوەندەویل",
+        "city:ckb": "لەوەندەویل",
+        "province:ckb": "گیلان",
+        "id": "MzoyOTQ1ZTdmN2M2ZjU",
+        "publicId": "MzoyOTQ1ZTdmN2M2ZjU",
+        "sourceId": "2945e7f7c6f5",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T12:03:23.075Z",
+        "updatedAt": "2026-10-14T12:03:23.075Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96091,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.957703071521735,
+              35.332887906763375
+            ],
+            [
+              49.957999203633136,
+              35.332893376861634
+            ],
+            [
+              49.95799728692106,
+              35.33291838301935
+            ],
+            [
+              49.958546425107585,
+              35.332947296379956
+            ],
+            [
+              49.95855217524499,
+              35.332881655221954
+            ],
+            [
+              49.95864705252302,
+              35.3327089562069
+            ],
+            [
+              49.958449631093515,
+              35.33219008354931
+            ],
+            [
+              49.95840267163314,
+              35.33216742151451
+            ],
+            [
+              49.95794170222993,
+              35.33214397802391
+            ],
+            [
+              49.95816020747682,
+              35.33250656992038
+            ],
+            [
+              49.95767336245336,
+              35.33254564222602
+            ],
+            [
+              49.95766569558077,
+              35.33265192864751
+            ],
+            [
+              49.957684862707566,
+              35.3328887061037
+            ],
+            [
+              49.957703071521735,
+              35.332887906763375
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری",
+        "description": "",
+        "date": "",
+        "city": "رازقان",
+        "province": "استان مرکزی",
+        "name:en": "Police Station",
+        "city:en": "Razaqan",
+        "province:en": "Markazi",
+        "name:ar": "مركز شرطة",
+        "city:ar": "رازقان",
+        "province:ar": "المركزية",
+        "name:he": "תחנת משטרה",
+        "city:he": "ראזקאן",
+        "province:he": "מרכזי",
+        "name:tr": "Polis Karakolu",
+        "city:tr": "Razqan",
+        "province:tr": "Merkezi",
+        "name:ckb": "بنکەی پۆلیس",
+        "city:ckb": "ڕازقان",
+        "province:ckb": "مەرکەزی",
+        "id": "MzoyMTNjNWQzMzI2ZGU",
+        "publicId": "MzoyMTNjNWQzMzI2ZGU",
+        "sourceId": "213c5d3326de",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-14T12:04:34.977Z",
+        "updatedAt": "2026-10-14T12:04:34.977Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6106,
+    "total": 6112,
     "layerId": 3,
     "clustered": false,
     "simplified": false

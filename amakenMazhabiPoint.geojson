@@ -245853,10 +245853,152 @@
         "createdAt": "2026-10-13T11:40:39.385Z",
         "updatedAt": "2026-10-13T11:40:39.385Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96057,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.82445706054568,
+          38.34008574499467
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ابوالفضل روستای کانرود",
+        "description": "مسجد ابولفظل روستای کانرود",
+        "date": 1791957037,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Abolfazl Mosque of Kanrud Village",
+        "description:en": "Abolfazl Mosque of Kanrud Village",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "مسجد أبو الفضل في قرية كانرود",
+        "description:ar": "مسجد أبو الفضل في قرية كانرود",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסגד אבולפזל בכפר כאנרוד",
+        "description:he": "מסגד אבולפזל בכפר כאנרוד",
+        "city:he": "מחוז אסתארה",
+        "province:he": "גילאן",
+        "name:tr": "Kanrud Köyü Ebulfazl Camii",
+        "description:tr": "Kanrud köyünün Ebulfazl Camii",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی ئەبولفەزلی گوندی کانروود",
+        "description:ckb": "مزگەوتی ئەبولفەزلی گوندی کانروود",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDozMmMwZWMwYWYyNWE",
+        "publicId": "NDozMmMwZWMwYWYyNWE",
+        "sourceId": "32c0ec0af25a",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:29:06.238Z",
+        "updatedAt": "2026-10-14T11:29:06.238Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96058,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.83918289095163,
+          38.34450313430969
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع روستای کانرود",
+        "description": "مسجد جامع روستای کانرود",
+        "date": 1791956873,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Jameh Mosque of Kanrud Village",
+        "description:en": "Jameh Mosque of Kanrud Village",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "المسجد الجامع في قرية كانرود",
+        "description:ar": "المسجد الجامع في قرية كانرود",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:tr": "Kanrud Köyü Ulu Camii",
+        "description:tr": "Kanrud Köyü Ulu Camii",
+        "city:tr": "Astara İlçesi",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی جامعی گوندی کانروود",
+        "description:ckb": "مزگەوتی جامعی گوندی کانروود",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "name:he": "המסגד המרכזי של הכפר כאנרוד",
+        "description:he": "המסגד המרכזי של הכפר כאנרוד",
+        "city:he": "נפת אסטארה",
+        "province:he": "גילאן",
+        "id": "NDo5NTAxNDBiZDk1MzE",
+        "publicId": "NDo5NTAxNDBiZDk1MzE",
+        "sourceId": "950140bd9531",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:29:20.935Z",
+        "updatedAt": "2026-10-14T11:29:20.935Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.870408816216724,
+          38.425030358048986
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد صاحب الزمان",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Saheb al-Zaman Mosque",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مسجد صاحب الزمان",
+        "city:ar": "أستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסגד צאחב אל-זמאן",
+        "city:he": "אסטרה",
+        "province:he": "גילאן",
+        "name:tr": "Sahibüzzaman Camii",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی صاحب الزمان",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDpmZDY4ZjUyODQzMmQ",
+        "publicId": "NDpmZDY4ZjUyODQzMmQ",
+        "sourceId": "fd68f528432d",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-14T11:34:45.948Z",
+        "updatedAt": "2026-10-14T11:34:45.948Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5702,
+    "total": 5705,
     "layerId": 4,
     "clustered": false,
     "simplified": false
