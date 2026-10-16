@@ -103837,10 +103837,105 @@
         "createdAt": "2026-10-14T11:34:29.790Z",
         "updatedAt": "2026-10-14T11:34:29.790Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.51678646535353,
+          35.298253976233255
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "مأمونیه",
+        "province": "استان مرکزی",
+        "name:en": "Basij Base",
+        "city:en": "Mamuniyeh",
+        "province:en": "Markazi",
+        "name:ar": "قاعدة البسيج",
+        "city:ar": "مأمونية",
+        "province:ar": "المركزية",
+        "name:tr": "Besic Üssü",
+        "city:tr": "Mamuniye",
+        "province:tr": "Merkezi",
+        "name:ckb": "بنکەی بەسیج",
+        "city:ckb": "مەمونیە",
+        "province:ckb": "مەرکەزی",
+        "name:he": "בסיס באסיג'",
+        "city:he": "מאמוניה",
+        "province:he": "מרכזי",
+        "id": "MTpjZDQ2NTBkNWExNzM",
+        "publicId": "MTpjZDQ2NTBkNWExNzM",
+        "sourceId": "cd4650d5a173",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-15T14:03:56.062Z",
+        "updatedAt": "2026-10-15T14:03:56.062Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.64264200255275,
+          32.706731064199644
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج که در حال حاضر فعالیت زیادی ندارد.",
+        "date": 1792000354,
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "name:en": "Basij Base",
+        "description:en": "A Basij base that currently does not have much activity.",
+        "city:en": "Isfahan",
+        "province:en": "Isfahan",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة بسيج ليس لها نشاط كبير في الوقت الحالي.",
+        "city:ar": "أصفهان",
+        "province:ar": "أصفهان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג' שכרגע אינו פעיל במיוחד.",
+        "city:he": "אספהאן",
+        "province:he": "אספהאן",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Şu anda çok fazla faaliyeti olmayan Besic üssü.",
+        "city:tr": "İsfahan",
+        "province:tr": "İsfahan",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "بنکەی بەسیج کە لە ئێستادا چالاکییەکی زۆری نییە.",
+        "city:ckb": "ئەسفەهان",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTozNTg3Mzg4MTQ1ZDc",
+        "publicId": "MTozNTg3Mzg4MTQ1ZDc",
+        "sourceId": "3587388145d7",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-15T14:05:54.465Z",
+        "updatedAt": "2026-10-15T14:05:54.465Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2342,
+    "total": 2344,
     "layerId": 1,
     "clustered": false,
     "simplified": false

@@ -49940,10 +49940,92 @@
         "createdAt": "2026-10-12T12:00:37.573Z",
         "updatedAt": "2026-10-12T12:00:37.573Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96101,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.615699185979054,
+              35.98786970701407
+            ],
+            [
+              50.61639098293588,
+              35.98860305577777
+            ],
+            [
+              50.617340414620315,
+              35.98800286821712
+            ],
+            [
+              50.61715911610784,
+              35.987603383932964
+            ],
+            [
+              50.61706846685158,
+              35.98758794488636
+            ],
+            [
+              50.617001672663406,
+              35.987481801358555
+            ],
+            [
+              50.61703029874403,
+              35.987408465746825
+            ],
+            [
+              50.61683707269745,
+              35.987186528611005
+            ],
+            [
+              50.615699185979054,
+              35.98786970701407
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی سپاه نظرآباد",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان نظرآباد",
+        "province": "استان البرز",
+        "name:en": "Nazarabad IRGC Command",
+        "city:en": "Nazarabad County",
+        "province:en": "Alborz",
+        "name:ar": "قيادة الحرس الثوري في نظر آباد",
+        "city:ar": "مقاطعة نظر آباد",
+        "province:ar": "ألبرز",
+        "name:he": "מפקדת ספאה נזראבאד",
+        "city:he": "נזראבאד",
+        "province:he": "אלבורז",
+        "name:tr": "Nazarabad Devrim Muhafızları Komutanlığı",
+        "city:tr": "Nazarabad",
+        "province:tr": "Elburz",
+        "name:ckb": "فەرماندەیی سوپای نەزەرئاباد",
+        "city:ckb": "شارستانی نەزەرئاباد",
+        "province:ckb": "ئەلبورز",
+        "id": "MTE6NWQxODU5MTgwYjI1",
+        "publicId": "MTE6NWQxODU5MTgwYjI1",
+        "sourceId": "5d1859180b25",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-15T13:37:13.736Z",
+        "updatedAt": "2026-10-15T13:37:13.736Z"
+      }
     }
   ],
   "metadata": {
-    "total": 404,
+    "total": 405,
     "layerId": 11,
     "clustered": false,
     "simplified": false

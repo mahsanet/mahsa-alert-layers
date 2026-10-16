@@ -65724,48 +65724,6 @@
     },
     {
       "type": "Feature",
-      "id": 45020,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7459341,
-          35.9900117
-        ]
-      },
-      "properties": {
-        "id": "MjU6MTk1NTQ",
-        "city": "مهستان",
-        "name:fa": "بیمارستان شهر جدید مهستان",
-        "province": "استان البرز",
-        "name:en": "Mahestan New City Hospital",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "name:ar": "مستشفى مدينة مهستان الجديدة",
-        "city:ar": "مهستان",
-        "province:ar": "ألبرز",
-        "name:he": "בית החולים של העיר החדשה מהסתאן",
-        "city:he": "מהסתאן",
-        "province:he": "אלבורז",
-        "name:tr": "Mehestan Yeni Şehir Hastanesi",
-        "city:tr": "Mehestan",
-        "province:tr": "Elburz",
-        "name:ckb": "نەخۆشخانەی شاری نوێی مەهستان",
-        "city:ckb": "مەهستان",
-        "province:ckb": "ئەلبورز",
-        "publicId": "MjU6MTk1NTQ",
-        "sourceId": "19554",
-        "layerId": 25,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:57:47.107Z",
-        "updatedAt": "2026-03-11T20:57:47.107Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 45021,
       "geometry": {
         "type": "Point",
@@ -148362,7 +148320,7 @@
     }
   ],
   "metadata": {
-    "total": 3535,
+    "total": 3534,
     "layerId": 25,
     "clustered": false,
     "simplified": false

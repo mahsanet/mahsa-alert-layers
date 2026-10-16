@@ -65673,10 +65673,73 @@
         "createdAt": "2026-09-07T07:08:16.181Z",
         "updatedAt": "2026-09-07T07:08:16.181Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96106,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.729436949170434,
+              35.989642152555746
+            ],
+            [
+              50.7299542314629,
+              35.98927128382316
+            ],
+            [
+              50.72970657060566,
+              35.98867789021912
+            ],
+            [
+              50.72966277951156,
+              35.98865242733413
+            ],
+            [
+              50.72879379999861,
+              35.98906647496423
+            ],
+            [
+              50.729436949170434,
+              35.989642152555746
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "دادگاه شهرستان مهستان",
+        "description": "",
+        "date": "",
+        "city": "مهستان",
+        "province": "استان البرز",
+        "city:en": "Mehestan",
+        "province:en": "Alborz",
+        "city:ar": "مهستان",
+        "province:ar": "ألبرز",
+        "city:he": "מהסטאן",
+        "province:he": "אלבורז",
+        "city:tr": "Mehestan",
+        "province:tr": "Elburz",
+        "city:ckb": "مەهستان",
+        "province:ckb": "ئەلبورز",
+        "id": "MzQ6MzUwNmQ0ZDUzMGI0",
+        "publicId": "MzQ6MzUwNmQ0ZDUzMGI0",
+        "sourceId": "3506d4d530b4",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-15T13:55:12.497Z",
+        "updatedAt": "2026-10-15T13:55:12.497Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1414,
+    "total": 1415,
     "layerId": 34,
     "clustered": false,
     "simplified": false

@@ -21183,10 +21183,59 @@
         "createdAt": "2026-10-14T11:59:30.140Z",
         "updatedAt": "2026-10-14T11:59:30.140Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.15821327269077,
+          33.21559724799053
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچرهای موشکی",
+        "description": "وجود لانچر موشک در هر دو مسیر و تمامی تونل‌های آزادراه",
+        "date": 1791995291,
+        "city": "شهرستان پلدختر",
+        "province": "استان لرستان",
+        "sources": "",
+        "name:en": "Missile Launchers",
+        "description:en": "Presence of missile launchers in both directions and all tunnels of the freeway",
+        "city:en": "Poldokhtar County",
+        "province:en": "Lorestan",
+        "name:ar": "منصات إطلاق الصواريخ",
+        "description:ar": "وجود منصات إطلاق صواريخ في كلا الاتجاهين وجميع أنفاق الطريق السريع",
+        "city:ar": "مقاطعة بولدختر",
+        "province:ar": "لرستان",
+        "name:he": "משגרי טילים",
+        "city:he": "פול-דח'תר",
+        "province:he": "לורסתאן",
+        "name:tr": "Füze Rampaları",
+        "description:tr": "Otoyolun her iki yönünde ve tüm tünellerinde füze rampaları mevcuttur.",
+        "city:tr": "Poldohtar Şehristanı",
+        "province:tr": "Luristan",
+        "name:ckb": "هاوێژەرەکانی مووشەک",
+        "description:ckb": "بوونی هاوێژەری مووشەک لە هەردوو ئاڕاستەکە و سەرجەم تونێلەکانی شاڕێگاکە",
+        "city:ckb": "شارستانی پولدوختەر",
+        "province:ckb": "لوڕستان",
+        "id": "Nzo3MDQ0MWNhMjZlZWQ",
+        "publicId": "Nzo3MDQ0MWNhMjZlZWQ",
+        "sourceId": "70441ca26eed",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-15T14:00:43.978Z",
+        "updatedAt": "2026-10-15T14:00:43.978Z"
+      }
     }
   ],
   "metadata": {
-    "total": 191,
+    "total": 192,
     "layerId": 7,
     "clustered": false,
     "simplified": false

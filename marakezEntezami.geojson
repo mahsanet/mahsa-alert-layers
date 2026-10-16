@@ -72164,135 +72164,6 @@
     },
     {
       "type": "Feature",
-      "id": 85786,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7299066,
-          35.9893552
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjU5Ng",
-        "city": "مهستان",
-        "osm_id": "",
-        "name:fa": "کلانتری۱۶",
-        "province": "استان البرز",
-        "name:en": "Police Station 16",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "name:ar": "مركز شرطة 16",
-        "city:ar": "مهستان",
-        "province:ar": "ألبرز",
-        "name:he": "תחנת משטרה 16",
-        "city:he": "מהסתאן",
-        "province:he": "אלבורז",
-        "name:tr": "16. Polis Karakolu",
-        "city:tr": "Mehestan",
-        "province:tr": "Elburz",
-        "name:ckb": "بنکەی پۆلیسی 16",
-        "city:ckb": "مەهستان",
-        "province:ckb": "ئەلبورز",
-        "publicId": "Mzo2MjU5Ng",
-        "sourceId": "62596",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.436Z",
-        "updatedAt": "2026-03-13T04:41:06.436Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 85788,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7467374,
-          35.9915005
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjU5OA",
-        "city": "مهستان",
-        "osm_id": "",
-        "name:fa": "پاسگاه نیروی انتظامی",
-        "province": "استان البرز",
-        "name:en": "Law Enforcement Police Post",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "name:ar": "مخفر قوى الأمن الداخلي",
-        "city:ar": "مهستان",
-        "province:ar": "ألبرز",
-        "name:he": "תחנת משטרה",
-        "city:he": "מהסתאן",
-        "province:he": "אלבורז",
-        "name:tr": "Polis Karakolu",
-        "city:tr": "Mehestan",
-        "province:tr": "Elburz",
-        "name:ckb": "بنکەی هێزی ئینتیزامی",
-        "city:ckb": "مەهستان",
-        "province:ckb": "ئەلبورز",
-        "publicId": "Mzo2MjU5OA",
-        "sourceId": "62598",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.436Z",
-        "updatedAt": "2026-03-13T04:41:06.436Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 85789,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.746856419407976,
-          35.986699688854486
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjU5OQ",
-        "city": "مهستان",
-        "osm_id": "",
-        "name:fa": "کلانتری۱۶",
-        "province": "استان البرز",
-        "name:en": "Police Station 16",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "name:ar": "مركز شرطة 16",
-        "city:ar": "مهستان",
-        "province:ar": "ألبرز",
-        "name:he": "תחנת משטרה 16",
-        "city:he": "מהסתאן",
-        "province:he": "אלבורז",
-        "name:tr": "16. Polis Karakolu",
-        "city:tr": "Mehestan",
-        "province:tr": "Elburz",
-        "name:ckb": "بنکەی پۆلیسی 16",
-        "city:ckb": "مەهستان",
-        "province:ckb": "ئەلبورز",
-        "publicId": "Mzo2MjU5OQ",
-        "sourceId": "62599",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.437Z",
-        "updatedAt": "2026-09-28T09:44:26.791Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85790,
       "geometry": {
         "type": "Point",
@@ -109782,49 +109653,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.867Z",
         "updatedAt": "2026-03-13T04:41:06.867Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 86682,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.3138506,
-          33.8232316
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NDAwMA",
-        "city": "ایوان",
-        "osm_id": "",
-        "name:fa": "راهنمایی ورانندگی",
-        "province": "استان ایلام",
-        "name:en": "Traffic Police",
-        "city:en": "Eyvan",
-        "province:en": "Ilam",
-        "name:ar": "شرطة المرور",
-        "city:ar": "إيوان",
-        "province:ar": "إيلام",
-        "name:he": "משטרת התנועה",
-        "city:he": "איואן",
-        "province:he": "אילאם",
-        "name:tr": "Trafik Polisi",
-        "city:tr": "Eyvan",
-        "province:tr": "İlam",
-        "name:ckb": "پۆلیسی هاتووچۆ",
-        "city:ckb": "ئەیوان",
-        "province:ckb": "ئیلام",
-        "publicId": "Mzo2NDAwMA",
-        "sourceId": "64000",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.868Z",
-        "updatedAt": "2026-03-13T04:41:06.868Z"
       }
     },
     {
@@ -265519,10 +265347,150 @@
         "createdAt": "2026-10-14T12:04:34.977Z",
         "updatedAt": "2026-10-14T12:04:34.977Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96107,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.74683641211871,
+              35.98668303962286
+            ],
+            [
+              50.74682319581632,
+              35.98676246693982
+            ],
+            [
+              50.74729208574212,
+              35.987239855697524
+            ],
+            [
+              50.74725810096393,
+              35.98650668185739
+            ],
+            [
+              50.74683641211871,
+              35.98668303962286
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری۱۶",
+        "description": "",
+        "date": "",
+        "city": "مهستان",
+        "province": "استان البرز",
+        "name:en": "Police Station 16",
+        "city:en": "Mehestan",
+        "province:en": "Alborz",
+        "name:ar": "مركز الشرطة 16",
+        "city:ar": "مهستان",
+        "province:ar": "ألبرز",
+        "name:he": "תחנת משטרה 16",
+        "city:he": "מהסטאן",
+        "province:he": "אלבורז",
+        "name:tr": "16 Nolu Polis Karakolu",
+        "city:tr": "Mehestan",
+        "province:tr": "Elburz",
+        "name:ckb": "بنکەی پۆلیسی 16",
+        "city:ckb": "مەهستان",
+        "province:ckb": "ئەلبورز",
+        "id": "MzpkYmZiY2Y1NjJjZGM",
+        "publicId": "MzpkYmZiY2Y1NjJjZGM",
+        "sourceId": "dbfbcf562cdc",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-15T13:56:37.256Z",
+        "updatedAt": "2026-10-15T13:56:37.256Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96112,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.50771494981362,
+              35.30113842590707
+            ],
+            [
+              50.507692794835435,
+              35.30124599045807
+            ],
+            [
+              50.50772381180451,
+              35.30135807437594
+            ],
+            [
+              50.50792763759776,
+              35.30155964425671
+            ],
+            [
+              50.507996318028745,
+              35.301571394951736
+            ],
+            [
+              50.50840840061147,
+              35.30120802651538
+            ],
+            [
+              50.50814807962465,
+              35.30090160261099
+            ],
+            [
+              50.50771494981362,
+              35.30113842590707
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی شهرستان زرندیه",
+        "description": "",
+        "date": "",
+        "city": "مأمونیه",
+        "province": "استان مرکزی",
+        "name:en": "Zarandieh County Police Command",
+        "city:en": "Mamuniyeh",
+        "province:en": "Markazi",
+        "name:ar": "قيادة شرطة مقاطعة زرندية",
+        "city:ar": "مأمونية",
+        "province:ar": "المركزية",
+        "name:he": "מפקדת משטרת מחוז זרנדייה",
+        "city:he": "מאמוניה",
+        "province:he": "מרכזי",
+        "name:tr": "Zarandieh İlçesi Emniyet Müdürlüğü",
+        "city:tr": "Mamuniye",
+        "province:tr": "Merkezi",
+        "name:ckb": "فەرماندەیی ئینتیزامیی شارستانی زەرەندیە",
+        "city:ckb": "مەئموونیە",
+        "province:ckb": "مەرکەزی",
+        "id": "Mzo5ZTZlZjAwYTNjZjA",
+        "publicId": "Mzo5ZTZlZjAwYTNjZjA",
+        "sourceId": "9e6ef00a3cf0",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-15T14:02:31.650Z",
+        "updatedAt": "2026-10-15T14:02:31.650Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6112,
+    "total": 6110,
     "layerId": 3,
     "clustered": false,
     "simplified": false

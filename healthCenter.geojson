@@ -101135,48 +101135,6 @@
     },
     {
       "type": "Feature",
-      "id": 54771,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.3135381,
-          33.8238778
-        ]
-      },
-      "properties": {
-        "id": "MzE6MjQxMg",
-        "city": "ایوان",
-        "name:fa": "خانه بهداشت و سلامت",
-        "province": "استان ایلام",
-        "name:en": "Health and Safety House",
-        "city:en": "Eyvan",
-        "province:en": "Ilam",
-        "name:ar": "بيت الصحة والسلامة",
-        "city:ar": "إيوان",
-        "province:ar": "إيلام",
-        "name:he": "בית בריאות ורווחה",
-        "city:he": "איוואן",
-        "province:he": "אילאם",
-        "name:tr": "Sağlık ve Hijyen Evi",
-        "city:tr": "Eyvan",
-        "province:tr": "İlam",
-        "name:ckb": "ماڵی تەندروستی و سەلامەتی",
-        "city:ckb": "ئەیوان",
-        "province:ckb": "ئیلام",
-        "publicId": "MzE6MjQxMg",
-        "sourceId": "2412",
-        "layerId": 31,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:13.146Z",
-        "updatedAt": "2026-03-11T20:58:13.146Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 54772,
       "geometry": {
         "type": "Point",
@@ -140897,48 +140855,6 @@
         "province:ckb": "تاران",
         "publicId": "MzE6MzM2Mg",
         "sourceId": "3362",
-        "layerId": 31,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:13.544Z",
-        "updatedAt": "2026-03-11T20:58:13.544Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 55722,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.31386,
-          33.8234433
-        ]
-      },
-      "properties": {
-        "id": "MzE6MzM2Mw",
-        "city": "ایوان",
-        "name:fa": "شبکه بهداشت و درمان شهید باهنر ایوان",
-        "province": "استان ایلام",
-        "name:en": "Shahid Bahonar Eyvan Health and Treatment Network",
-        "city:en": "Eyvan",
-        "province:en": "Ilam",
-        "name:ar": "شبكة الصحة والعلاج \"الشهيد باهنر\" في إيوان",
-        "city:ar": "إيوان",
-        "province:ar": "إيلام",
-        "name:he": "רשת הבריאות והטיפול שהיד באהנר איוואן",
-        "city:he": "איוואן",
-        "province:he": "אילאם",
-        "name:tr": "Şehit Bahoner Eyvan Sağlık ve Tedavi Ağı",
-        "city:tr": "Eyvan",
-        "province:tr": "İlam",
-        "name:ckb": "تۆڕی تەندروستی و دەرمانی شەهید باوهنەری ئێوان",
-        "city:ckb": "ئێوان",
-        "province:ckb": "ئیلام",
-        "publicId": "MzE6MzM2Mw",
-        "sourceId": "3363",
         "layerId": 31,
         "type": "location",
         "status": "active",
@@ -287866,7 +287782,7 @@
     }
   ],
   "metadata": {
-    "total": 6864,
+    "total": 6862,
     "layerId": 31,
     "clustered": false,
     "simplified": false

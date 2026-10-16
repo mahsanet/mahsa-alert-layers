@@ -234,82 +234,6 @@
     },
     {
       "type": "Feature",
-      "id": 95809,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              51.001389,
-              34.477778
-            ],
-            [
-              51.064167,
-              34.443611
-            ],
-            [
-              51.035556,
-              34.4025
-            ],
-            [
-              50.986389,
-              34.437778
-            ],
-            [
-              51.001389,
-              34.477778
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "fir": "منطقه پروازی تهران (ایران)",
-        "city": "شهرستان قم",
-        "date": 1791862200,
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · قم",
-        "validTo": "۱۴۰۵/۰۷/۲۳، ۲۲:۰۰",
-        "province": "استان قم",
-        "validFrom": "۱۴۰۵/۰۷/۲۱، ۰۷:۰۰",
-        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
-        "notamNumber": "B0508/26",
-        "notamSource": "FAA NMS-API",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
-        "description:en": "Firing will take place within the specified area.",
-        "description:he": "ירי יבוצע באזור המצוין.",
-        "description:tr": "Belirtilen alanda atış yapılacaktır.",
-        "description:ckb": "تەقەکردن لە مەودای دیاریکراودا ئەنجام دەدرێت.",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · ئاگاداریی ڕێبەری · قوم",
-        "city:ckb": "شارستانی قوم",
-        "province:ckb": "قوم",
-        "name:en": "Aviation Notice · Navigation Warning · Qom",
-        "city:en": "Qom",
-        "province:en": "Qom",
-        "name:ar": "إشعار طيران · تحذير ملاحي · قم",
-        "city:ar": "مقاطعة قم",
-        "province:ar": "قم",
-        "name:he": "הודעת תעופה · אזהרת ניווט · קום",
-        "city:he": "קום",
-        "province:he": "קום",
-        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Kum",
-        "city:tr": "Kum",
-        "province:tr": "Kum",
-        "id": "Mzg6bm90YW0tb2lpeC1iMDUwOC0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1iMDUwOC0yNg",
-        "sourceId": "notam-oiix-b0508-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-15T18:30:00.000Z",
-        "createdAt": "2026-10-07T04:36:05.456Z",
-        "updatedAt": "2026-10-10T08:37:45.445Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 95901,
       "geometry": {
         "type": "Polygon",
@@ -1017,84 +941,6 @@
         "verificationTag": null,
         "expirationDate": "2026-10-22T10:30:00.000Z",
         "createdAt": "2026-10-10T07:36:06.098Z",
-        "updatedAt": "2026-10-10T08:37:45.445Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 95905,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              47.55,
-              33.28333
-            ],
-            [
-              47.58333,
-              33.28333
-            ],
-            [
-              47.51667,
-              33.45
-            ],
-            [
-              47.41667,
-              33.43333
-            ],
-            [
-              47.55,
-              33.28333
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "fir": "منطقه پروازی تهران (ایران)",
-        "city": "شهرستان کوهدشت",
-        "date": 1791689400,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · کوهدشت (OID127)",
-        "validTo": "۱۴۰۵/۰۷/۲۳، ۲۳:۰۰",
-        "province": "استان لرستان",
-        "areaCodes": "OID127",
-        "validFrom": "۱۴۰۵/۰۷/۱۹، ۰۷:۰۰",
-        "description": "بر اساس اطلاعات هوانوردی منتشرشده، محدوده مشخص‌شده فعال شده است.",
-        "notamNumber": "A2237/26",
-        "notamSource": "FAA NMS-API",
-        "shapeSource": "منطقه OID127 طبق AIP ایران",
-        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
-        "description:ar": "بناءً على معلومات الطيران المنشورة، تم تفعيل المنطقة المحددة.",
-        "description:en": "According to published aeronautical information, the specified area has been activated.",
-        "description:he": "על פי המידע התעופתי שפורסם, האזור המצוין הופעל.",
-        "description:tr": "Yayınlanan havacılık bilgilerine göre, belirtilen alan aktif hale getirilmiştir.",
-        "description:ckb": "بەپێی زانیارییە فڕۆکەوانییە بڵاوکراوەکان، مەودای دیاریکراو چالاک کراوە.",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشاییی ئاسمانی · کۆهدەشت (OID127)",
-        "city:ckb": "شارستانی کۆهدەشت",
-        "province:ckb": "لوڕستان",
-        "name:en": "Aviation Notice · Airspace Restriction · Kuhdasht (OID127)",
-        "city:en": "Kuhdasht",
-        "province:en": "Lorestan",
-        "name:ar": "إشعار طيران · قيود المجال الجوي · كوهدشت (OID127)",
-        "city:ar": "مقاطعة كوهدشت",
-        "province:ar": "لرستان",
-        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Kuhdeşt (OID127)",
-        "city:tr": "Kuhdeşt",
-        "province:tr": "Luristan",
-        "name:he": "הודעת תעופה · הגבלת המרחב האווירי · קוהדשת (OID127)",
-        "city:he": "נפת קוהדשת",
-        "province:he": "לורסתאן",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjIzNy0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjIzNy0yNg",
-        "sourceId": "notam-oiix-a2237-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-15T19:30:00.000Z",
-        "createdAt": "2026-10-10T07:36:23.650Z",
         "updatedAt": "2026-10-10T08:37:45.445Z"
       }
     },
@@ -1956,7 +1802,7 @@
     }
   ],
   "metadata": {
-    "total": 19,
+    "total": 17,
     "layerId": 38,
     "clustered": false,
     "simplified": false

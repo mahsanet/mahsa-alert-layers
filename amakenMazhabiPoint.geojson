@@ -245995,10 +245995,152 @@
         "createdAt": "2026-10-14T11:34:45.948Z",
         "updatedAt": "2026-10-14T11:34:45.948Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.51707277896054,
+          35.29812138240203
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد مهدیه",
+        "description": "",
+        "date": "",
+        "city": "مأمونیه",
+        "province": "استان مرکزی",
+        "name:en": "Mahdiyeh Mosque",
+        "city:en": "Mamuniyeh",
+        "province:en": "Markazi",
+        "name:ar": "مسجد مهدية",
+        "city:ar": "مأمونية",
+        "province:ar": "المركزية",
+        "name:he": "מסגד מהדיה",
+        "city:he": "מאמוניה",
+        "province:he": "מרכזי",
+        "name:tr": "Mehdiye Camii",
+        "city:tr": "Mamuniye",
+        "province:tr": "Merkezi",
+        "name:ckb": "مزگەوتی مەهدییە",
+        "city:ckb": "مئاموونیە",
+        "province:ckb": "مەرکەزی",
+        "id": "NDplNzMwMTRkMWQ3NTM",
+        "publicId": "NDplNzMwMTRkMWQ3NTM",
+        "sourceId": "e73014d1d753",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-15T14:04:13.843Z",
+        "updatedAt": "2026-10-15T14:04:13.843Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.40012924745679,
+          32.38731828396493
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ساکیان دزفول",
+        "description": "مسجد ساکیان دزفول واقع در کوچه لب خندق، شهر دزفول",
+        "date": 1792006258,
+        "city": "دزفول",
+        "province": "استان خوزستان",
+        "name:en": "Sakiyan Mosque of Dezful",
+        "description:en": "Sakiyan Mosque of Dezful, located in Lab-e Khandaq Alley, city of Dezful.",
+        "city:en": "Dezful",
+        "province:en": "Khuzestan",
+        "name:ar": "مسجد ساكيان دزفول",
+        "description:ar": "مسجد ساكيان دزفول الواقع في زقاق لب خندق، مدينة دزفول",
+        "city:ar": "دزفول",
+        "province:ar": "خوزستان",
+        "name:tr": "Dezful Sakiyan Camii",
+        "description:tr": "Dezful şehri Leb-i Handak sokağında yer alan Dezful Sakiyan Camii",
+        "city:tr": "Dezful",
+        "province:tr": "Huzistan",
+        "name:ckb": "مزگەوتی ساکیانی دزفوول",
+        "description:ckb": "مزگەوتی ساکیانی دزفوول کە دەکەوێتە کۆڵانی لەب خەندەق، شاری دزفوول",
+        "city:ckb": "دزفوول",
+        "province:ckb": "خووزستان",
+        "name:he": "מסגד סאכיאן דזפול",
+        "description:he": "מסגד סאכיאן דזפול הממוקם בסמטת לב ח'נדק, העיר דזפול",
+        "city:he": "דזפול",
+        "province:he": "ח'וזסתאן",
+        "id": "NDozZjU1YjNiNjExMzM",
+        "publicId": "NDozZjU1YjNiNjExMzM",
+        "sourceId": "3f55b3b61133",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-15T14:06:32.537Z",
+        "updatedAt": "2026-10-15T14:06:37.575Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4007952734828,
+          32.39557093516973
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه ثارالله دزفول",
+        "description": "حسینیه ثارالله دزفول، تجمعات حکومتی و امنیتی. مراسمات مذهبی.",
+        "date": 1792006912,
+        "city": "دزفول",
+        "province": "استان خوزستان",
+        "name:en": "Tharallah Hosseiniyeh of Dezful",
+        "description:en": "Tharallah Hosseiniyeh of Dezful, site for government and security gatherings. Religious ceremonies.",
+        "city:en": "Dezful",
+        "province:en": "Khuzestan",
+        "name:ar": "حسينية ثار الله دزفول",
+        "description:ar": "حسينية ثار الله دزفول، تجمعات حكومية وأمنية. مراسم دينية.",
+        "city:ar": "دزفول",
+        "province:ar": "خوزستان",
+        "name:he": "חוסייניית סאר-אללה דזפול",
+        "description:he": "חוסייניית סאר-אללה דזפול, התכנסויות ממשלתיות וביטחוניות. טקסים דתיים.",
+        "city:he": "דזפול",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Dezful Sarullah Hüseyniyesi",
+        "description:tr": "Dezful Sarullah Hüseyniyesi, hükümet ve güvenlik toplanmaları. Dini törenler.",
+        "city:tr": "Dezful",
+        "province:tr": "Huzistan",
+        "name:ckb": "حوسێنیەی ثارەڵڵای دزفوول",
+        "description:ckb": "حوسێنیەی ثارەڵڵای دزفوول، کۆبوونەوە حكوومی و ئەمنییەکان. ڕێوڕەسمە ئایینییەکان.",
+        "city:ckb": "دزفوول",
+        "province:ckb": "خووزستان",
+        "id": "NDo3ODAxYzdhMmM5MjM",
+        "publicId": "NDo3ODAxYzdhMmM5MjM",
+        "sourceId": "7801c7a2c923",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-15T14:06:54.617Z",
+        "updatedAt": "2026-10-15T14:07:00.101Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5705,
+    "total": 5708,
     "layerId": 4,
     "clustered": false,
     "simplified": false

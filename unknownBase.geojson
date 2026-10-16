@@ -82019,55 +82019,6 @@
     },
     {
       "type": "Feature",
-      "id": 93556,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.61678982458676,
-          35.98771686092809
-        ]
-      },
-      "properties": {
-        "name:fa": "فرماندهی سپاه نظرآباد",
-        "description": "این مکان فرماندهی سپاه نظراباد هستش مقر مرکزی سپاه نظراباد",
-        "date": 1783629930,
-        "city": "شهرستان نظرآباد",
-        "province": "استان البرز",
-        "name:en": "Nazarabad IRGC Command",
-        "description:en": "This location is the IRGC Command of Nazarabad, the central headquarters of the Nazarabad IRGC.",
-        "city:en": "Nazarabad County",
-        "province:en": "Alborz",
-        "name:ar": "قيادة الحرس الثوري في نظر أباد",
-        "description:ar": "هذا الموقع هو قيادة الحرس الثوري في نظر أباد، المقر المركزي للحرس الثوري في نظر أباد.",
-        "city:ar": "نظر أباد",
-        "province:ar": "ألبرز",
-        "name:he": "מפקדת משמרות המהפכה נזר אבאד",
-        "description:he": "מקום זה הוא מפקדת משמרות המהפכה נזר אבאד, המפקדה המרכזית של משמרות המהפכה בנזר אבאד",
-        "city:he": "נזר אבאד",
-        "province:he": "אלבורז",
-        "name:tr": "Nazarabad Devrim Muhafızları Komutanlığı",
-        "description:tr": "Bu konum Nazarabad Devrim Muhafızları Komutanlığıdır, Nazarabad Devrim Muhafızlarının ana karargahıdır",
-        "city:tr": "Nazarabad İlçesi",
-        "province:tr": "Elburz",
-        "name:ckb": "فەرماندەییی سوپای نەزەرئاباد",
-        "description:ckb": "ئەم شوێنە فەرماندەییی سوپای نەزەرئابادە، بارەگای ناوەندیی سوپای نەزەرئاباد",
-        "city:ckb": "شارستانی نەزەرئاباد",
-        "province:ckb": "ئەلبورز",
-        "id": "MTI6MTk5YjM2ZWE3NjQ4",
-        "publicId": "MTI6MTk5YjM2ZWE3NjQ4",
-        "sourceId": "199b36ea7648",
-        "layerId": 12,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-15T01:53:46.580Z",
-        "updatedAt": "2026-07-15T01:53:46.580Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93558,
       "geometry": {
         "type": "Point",
@@ -90056,6 +90007,56 @@
         "expirationDate": null,
         "createdAt": "2026-10-14T11:52:53.291Z",
         "updatedAt": "2026-10-14T11:52:53.291Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.868848625570536,
+          38.42142754267084
+        ]
+      },
+      "properties": {
+        "name:fa": "کیوسک نیروهای سرکوب",
+        "unofficial_name:fa": "",
+        "description": "کیوسک مورد استفاده نیروهای سرکوب در زمان اعتراضات",
+        "date": 1792093420,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Repressive Forces Kiosk",
+        "description:en": "Kiosk used by repressive forces during protests",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "كشك قوات القمع",
+        "description:ar": "كشك تستخدمه قوات القمع أثناء الاحتجاجات",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "קיוסק כוחות הדיכוי",
+        "description:he": "קיוסק המשמש את כוחות הדיכוי בזמן המחאות",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Baskı Güçleri Kulübesi",
+        "description:tr": "Protestolar sırasında baskı güçleri tarafından kullanılan kulübe.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "کیۆسکی هێزەکانی سەرکوت",
+        "description:ckb": "کیۆسکی بەکارهێنراو لەلایەن هێزەکانی سەرکوت لە کاتی خۆپێشاندانەکاندا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTI6ZGE2MmZkZWQ0MjIy",
+        "publicId": "MTI6ZGE2MmZkZWQ0MjIy",
+        "sourceId": "da62fded4222",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-15T21:58:59.467Z",
+        "updatedAt": "2026-10-15T21:58:59.467Z"
       }
     }
   ],

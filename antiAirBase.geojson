@@ -9377,10 +9377,144 @@
         "createdAt": "2026-10-14T12:01:52.508Z",
         "updatedAt": "2026-10-14T12:01:52.508Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96109,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.03196044976855,
+              34.8552830030016
+            ],
+            [
+              49.03715533820812,
+              34.85368818384461
+            ],
+            [
+              49.03419171937534,
+              34.85086348109138
+            ],
+            [
+              49.03047521815955,
+              34.851986634952766
+            ],
+            [
+              49.03196044976855,
+              34.8552830030016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند ضدهوایی\n",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان همدان",
+        "province": "استان همدان",
+        "name:en": "Anti-Aircraft Defense",
+        "city:en": "Hamadan County",
+        "province:en": "Hamadan",
+        "name:ar": "الدفاع الجوي",
+        "city:ar": "مقاطعة همدان",
+        "province:ar": "همدان",
+        "name:he": "הגנה נגד מטוסים",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "name:tr": "Hava Savunması",
+        "city:tr": "Hamedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "بەرگریی دژەئاسمانی",
+        "city:ckb": "شارستانی هەمەدان",
+        "province:ckb": "ھەمەدان",
+        "id": "ODoxODFlMTU5YmI2Mjg",
+        "publicId": "ODoxODFlMTU5YmI2Mjg",
+        "sourceId": "181e159bb628",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-15T13:58:14.275Z",
+        "updatedAt": "2026-10-15T13:58:14.275Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96110,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.69499577438759,
+              35.21249034336154
+            ],
+            [
+              48.69563202483721,
+              35.21326655140189
+            ],
+            [
+              48.697827031129265,
+              35.21207270174206
+            ],
+            [
+              48.69688234487532,
+              35.21104881377751
+            ],
+            [
+              48.695748721371956,
+              35.211573117744734
+            ],
+            [
+              48.69499577438759,
+              35.21249034336154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند ضدهوایی",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "name:en": "Anti-Aircraft Defense",
+        "city:en": "Kabudarahang",
+        "province:en": "Hamadan",
+        "name:ar": "دفاع مضاد للطائرات",
+        "city:ar": "مقاطعة كبودراهنغ",
+        "province:ar": "همدان",
+        "name:he": "הגנה אווירית",
+        "city:he": "כבודראהנג'",
+        "province:he": "המדאן",
+        "name:tr": "Hava Savunması",
+        "city:tr": "Kabudarahang",
+        "province:tr": "Hemedan",
+        "name:ckb": "بەرگریی دژەئاسمانی",
+        "city:ckb": "شارستانی کەبوودەرئاهەنگ",
+        "province:ckb": "ھەمەدان",
+        "id": "ODowNWE1ZmQwNjhiNzE",
+        "publicId": "ODowNWE1ZmQwNjhiNzE",
+        "sourceId": "05a5fd068b71",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-15T13:59:21.370Z",
+        "updatedAt": "2026-10-15T13:59:21.370Z"
+      }
     }
   ],
   "metadata": {
-    "total": 118,
+    "total": 120,
     "layerId": 8,
     "clustered": false,
     "simplified": false

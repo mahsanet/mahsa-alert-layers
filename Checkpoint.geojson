@@ -9405,8 +9405,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.485800728201866,
-          35.30600898134817
+          50.48627475070887,
+          35.30598699435818
         ]
       },
       "properties": {
@@ -9441,7 +9441,7 @@
         "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-06-05T14:57:12.749Z",
-        "updatedAt": "2026-10-14T20:26:36.650Z"
+        "updatedAt": "2026-10-15T13:39:47.364Z"
       }
     },
     {
@@ -12163,10 +12163,260 @@
         "createdAt": "2026-10-14T11:58:57.095Z",
         "updatedAt": "2026-10-14T11:58:57.095Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.21756400913,
+          35.641388996585064
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان اسلامشهر",
+        "province": "استان تهران",
+        "date": 1792043391,
+        "description": "ایست بازرسی با خودروهای سنگین",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint with heavy vehicles",
+        "city:en": "Islamshahr County",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش باستخدام مركبات ثقيلة",
+        "city:ar": "مقاطعة إسلام شهر",
+        "province:ar": "طهران",
+        "name:he": "מחסום",
+        "description:he": "מחסום עם כלי רכב כבדים",
+        "city:he": "נפת אסלאמשאהר",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Ağır araçlarla kurulan kontrol noktası",
+        "city:tr": "İslamşehr İlçesi",
+        "province:tr": "Tahran",
+        "name:ckb": "بازگەی پشکنین",
+        "description:ckb": "بازگەی پشکنین بە ئۆتۆمبێلی قورس",
+        "city:ckb": "شارستانی ئیسلامشەهر",
+        "province:ckb": "تاران",
+        "id": "Mzk6NzBjNmJjNzI5YzMx",
+        "publicId": "Mzk6NzBjNmJjNzI5YzMx",
+        "sourceId": "70c6bc729c31",
+        "layerId": 39,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-15T13:36:17.291Z",
+        "updatedAt": "2026-10-15T13:36:17.291Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.485820677131414,
+          35.306050296618224
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "مأمونیه",
+        "province": "استان مرکزی",
+        "date": 1791997400,
+        "description": "ایست بازرسی در بلوار ولیعصر، آسیابک، بخش مرکزی زرندیه",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint on Valiasr Boulevard, Asyabak, Central District of Zarandieh",
+        "city:en": "Mamounieh",
+        "province:en": "Markazi",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش في شارع وليعصر، أسيابك، الناحية المركزية لزرندية",
+        "city:ar": "مأمونية",
+        "province:ar": "المركزية",
+        "name:he": "נקודת ביקורת",
+        "description:he": "נקודת ביקורת בשדרות ולי-עסר, אסיאבכ, הנפה המרכזית של זרנדיה",
+        "city:he": "מאמוניה",
+        "province:he": "מרכזי",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Valiasr Bulvarı, Asiyabek, Zarandiyeh Merkez İlçesi'nde kontrol noktası",
+        "city:tr": "Mamuniye",
+        "province:tr": "Merkezi",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنین لە بۆلواری وەلیعەسر، ئاسیابەک، بەشی ناوەندیی زەرەندیە",
+        "city:ckb": "مەئموونیە",
+        "province:ckb": "مەرکەزی",
+        "id": "Mzk6ODY2NjUyNWQ2NjU3",
+        "publicId": "Mzk6ODY2NjUyNWQ2NjU3",
+        "sourceId": "8666525d6657",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-15T13:39:38.559Z",
+        "updatedAt": "2026-10-15T13:39:38.559Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.214293390512466,
+          35.71869088962384
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1792024974,
+        "description": "ایست بازرسی و کنترل نامحسوس راهنمایی رانندگی و کلانتری",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint and covert surveillance by traffic police and police station",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش ومراقبة سرية لشرطة المرور ومركز الشرطة",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מחסום",
+        "description:he": "מחסום ובקרה סמויה של משטרת התנועה ותחנת המשטרה",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Trafik polisi ve karakolun kontrol noktası ve sivil denetimi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "بازگەی پشکنین",
+        "description:ckb": "بازگەی پشکنین و کۆنترۆڵی نادیاری پلیسی هاتوچۆ و بنکەی پۆلیس",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzk6MTBkZDY5N2Q0NDEz",
+        "publicId": "Mzk6MTBkZDY5N2Q0NDEz",
+        "sourceId": "10dd697d4413",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-15T21:54:45.475Z",
+        "updatedAt": "2026-10-15T21:54:45.475Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.370998591184616,
+          31.83321432286614
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "یزد",
+        "province": "استان یزد",
+        "date": 1792096587,
+        "description": "ترافیک از ابتدای بلوار دانشگاه و بازرسی خودروها توسط نیروی انتظامی.",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Traffic from the beginning of Daneshgah Boulevard and vehicle inspections by law enforcement.",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "ازدحام مروري من بداية شارع الجامعة وتفتيش السيارات من قبل قوى الأمن الداخلي.",
+        "city:ar": "يزد",
+        "province:ar": "يزد",
+        "name:he": "נקודת ביקורת",
+        "description:he": "עומס תנועה מתחילת שדרות דאנשגאה ובדיקת כלי רכב על ידי כוחות אכיפת החוק.",
+        "city:he": "יזד",
+        "province:he": "יזד",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Danışgah Bulvarı'nın başından itibaren trafik ve emniyet güçleri tarafından araçların kontrol edilmesi.",
+        "city:tr": "Yezd",
+        "province:tr": "Yezd",
+        "name:ckb": "بازگەی پشکنین",
+        "description:ckb": "ترافیک لە سەرەتای بوڵواری زانکۆوە و پشکنینی ئۆتۆمبێلەکان لەلایەن هێزی ئینتزامییەوە.",
+        "city:ckb": "یەزد",
+        "province:ckb": "یەزد",
+        "id": "Mzk6ZGIxNDEwY2VkMWYx",
+        "publicId": "Mzk6ZGIxNDEwY2VkMWYx",
+        "sourceId": "db1410ced1f1",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-15T22:00:11.427Z",
+        "updatedAt": "2026-10-15T22:00:11.427Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.679583337157965,
+          36.5907523565739
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "اميركلا",
+        "province": "استان مازندران",
+        "date": 1792093638,
+        "description": "ایست بازرسی حضور نیروی بسیج و راهنمایی رانندگی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint with the presence of Basij forces and traffic police.",
+        "city:en": "Amirkola",
+        "province:en": "Mazandaran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش لتواجد قوات البسيج وشرطة المرور",
+        "city:ar": "أميركلا",
+        "province:ar": "مازندران",
+        "name:he": "מחסום",
+        "description:he": "מחסום - נוכחות של כוחות באסיג' ומשטרת התנועה",
+        "city:he": "אמירקלא",
+        "province:he": "מאזנדראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Besic güçleri ve trafik polisinin bulunduğu kontrol noktası.",
+        "city:tr": "Amirkola",
+        "province:tr": "Mazenderan",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنین، ئامادەبوونی هێزی بەسیج و پۆلیسی هاتووچۆ",
+        "city:ckb": "ئەمیرکەلا",
+        "province:ckb": "مازەندەران",
+        "id": "Mzk6YTM2YjFkNDcyOWFm",
+        "publicId": "Mzk6YTM2YjFkNDcyOWFm",
+        "sourceId": "a36b1d4729af",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-15T22:01:13.083Z",
+        "updatedAt": "2026-10-15T22:01:13.083Z"
+      }
     }
   ],
   "metadata": {
-    "total": 251,
+    "total": 256,
     "layerId": 39,
     "clustered": false,
     "simplified": false
