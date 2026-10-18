@@ -52,10 +52,62 @@
         "createdAt": "2026-10-13T11:09:01.140Z",
         "updatedAt": "2026-10-13T11:09:10.159Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87873524799943,
+          38.405265394168254
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "استقرار قایق‌های تندرو سپاه",
+        "unofficial_name:fa": "",
+        "date": 1792158260,
+        "geolocates": "",
+        "description": "محل استقرار قایق‌های تندرو سپاه پاسداران در اسکله شهر آستارا",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "sources": "",
+        "name:en": "Deployment of IRGC Speedboats",
+        "description:en": "Deployment location of Islamic Revolutionary Guard Corps speedboats at the pier in the city of Astara.",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "تمركز الزوارق السريعة للحرس الثوري",
+        "description:ar": "موقع تمركز الزوارق السريعة التابعة للحرس الثوري في رصيف مدينة آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "פריסת סירות מהירות של משמרות המהפכה",
+        "description:he": "מיקום פריסת הסירות המהירות של משמרות המהפכה במזח העיר אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Devrim Muhafızları Sürat Teknelerinin Konuşlanması",
+        "description:tr": "Devrim Muhafızları Ordusu'nun sürat teknelerinin Astara şehri iskelesindeki konuşlanma yeri",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "جێگیرکردنی بەلەمە خێراکانی سوپا",
+        "description:ckb": "شوێنی جێگیرکردنی بەلەمە خێراکانی سوپای پاسداران لە ئیسکەلەی شاری ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "Mzc6NGFiYmJmZWZhYWFj",
+        "publicId": "Mzc6NGFiYmJmZWZhYWFj",
+        "sourceId": "4abbbfefaaac",
+        "layerId": 37,
+        "type": "location",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-17T11:00:16.755Z",
+        "updatedAt": "2026-10-17T11:00:16.755Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1,
+    "total": 2,
     "layerId": 37,
     "clustered": false,
     "simplified": false

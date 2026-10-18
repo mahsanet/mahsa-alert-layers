@@ -71777,49 +71777,6 @@
     },
     {
       "type": "Feature",
-      "id": 85777,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7422823,
-          35.9996556
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjU4NQ",
-        "city": "مهستان",
-        "osm_id": "",
-        "name:fa": "پلیس",
-        "province": "استان البرز",
-        "name:en": "Police",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "name:ar": "الشرطة",
-        "city:ar": "مهستان",
-        "province:ar": "ألبرز",
-        "name:he": "משטרה",
-        "city:he": "מהסתאן",
-        "province:he": "אלבורז",
-        "name:tr": "Polis",
-        "city:tr": "Mehestan",
-        "province:tr": "Elburz",
-        "name:ckb": "پۆلیس",
-        "city:ckb": "مەهستان",
-        "province:ckb": "ئەلبورز",
-        "publicId": "Mzo2MjU4NQ",
-        "sourceId": "62585",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.432Z",
-        "updatedAt": "2026-03-13T04:41:06.432Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85778,
       "geometry": {
         "type": "Point",
@@ -73055,49 +73012,6 @@
         "province:ckb": "ئەلبورز",
         "publicId": "Mzo2MjYzNA",
         "sourceId": "62634",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.445Z",
-        "updatedAt": "2026-03-13T04:41:06.445Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 85811,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9826605,
-          35.8584929
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjYzNQ",
-        "city": "کرج",
-        "osm_id": "",
-        "name:fa": "اداره پلیس راهنمایی رانندگی محمود آباد",
-        "province": "استان البرز",
-        "name:en": "Mahmudabad Traffic Police Department",
-        "city:en": "Karaj",
-        "province:en": "Alborz",
-        "name:ar": "إدارة شرطة المرور محمود آباد",
-        "city:ar": "كرج",
-        "province:ar": "ألبرز",
-        "name:he": "משרד משטרת התנועה מחמוד אבאד",
-        "city:he": "כרג'",
-        "province:he": "אלבורז",
-        "name:tr": "Mahmudabad Trafik Polisi Amirliği",
-        "city:tr": "Karaj",
-        "province:tr": "Elburz",
-        "name:ckb": "ئیدارەی پۆلیسی هاتوچۆی مەحموودئاوا",
-        "city:ckb": "کەرەج",
-        "province:ckb": "ئەلبورز",
-        "publicId": "Mzo2MjYzNQ",
-        "sourceId": "62635",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -83787,49 +83701,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.541Z",
         "updatedAt": "2026-03-13T04:41:06.541Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 86072,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9997582,
-          35.7082635
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MzA0Ng",
-        "city": "شهرستان شهریار",
-        "osm_id": "",
-        "name:fa": "پلیس راهنمایی و رانندگی شهریار",
-        "province": "استان تهران",
-        "name:en": "Shahriar Traffic Police",
-        "city:en": "Shahriar County",
-        "province:en": "Tehran",
-        "name:ar": "شرطة المرور في شهريار",
-        "city:ar": "مقاطعة شهريار",
-        "province:ar": "طهران",
-        "name:he": "משטרת התנועה של שהריאר",
-        "city:he": "מחוז שהריאר",
-        "province:he": "טהראן",
-        "name:tr": "Şehriyar Trafik Polisi",
-        "city:tr": "Şehriyar İlçesi",
-        "province:tr": "Tahran",
-        "name:ckb": "پۆلیسی هاتووچۆی شەهریار",
-        "city:ckb": "شارستانی شەهریار",
-        "province:ckb": "تاران",
-        "publicId": "Mzo2MzA0Ng",
-        "sourceId": "63046",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.542Z",
-        "updatedAt": "2026-03-13T04:41:06.542Z"
       }
     },
     {
@@ -116912,92 +116783,6 @@
     },
     {
       "type": "Feature",
-      "id": 86855,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.2564003,
-          32.7024737
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NDI1Nw",
-        "city": "دهلران",
-        "osm_id": "",
-        "name:fa": "اداره راهنمایی و رانندگی",
-        "province": "استان ایلام",
-        "name:en": "Traffic Police Department",
-        "city:en": "Dehloran",
-        "province:en": "Ilam",
-        "name:ar": "إدارة المرور",
-        "city:ar": "دهلران",
-        "province:ar": "إيلام",
-        "name:he": "מנהלת משטרת התנועה",
-        "city:he": "דהלראן",
-        "province:he": "אילאם",
-        "name:tr": "Trafik Polisi Müdürlüğü",
-        "city:tr": "Dehleran",
-        "province:tr": "İlam",
-        "name:ckb": "فەرمانگەی هاتوچۆ",
-        "city:ckb": "دەهلۆڕان",
-        "province:ckb": "ئیلام",
-        "publicId": "Mzo2NDI1Nw",
-        "sourceId": "64257",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.948Z",
-        "updatedAt": "2026-03-13T04:41:06.948Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 86856,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.2613114,
-          32.704171
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NDI1OA",
-        "city": "دهلران",
-        "osm_id": "",
-        "name:fa": "کلانتری دهلران",
-        "province": "استان ایلام",
-        "name:en": "Dehloran Police Station",
-        "city:en": "Dehloran",
-        "province:en": "Ilam",
-        "name:ar": "مركز شرطة دهلران",
-        "city:ar": "دهلران",
-        "province:ar": "إيلام",
-        "name:he": "תחנת משטרת דהלראן",
-        "city:he": "דהלראן",
-        "province:he": "אילאם",
-        "name:tr": "Dehleran Polis Karakolu",
-        "city:tr": "Dehleran",
-        "province:tr": "İlam",
-        "name:ckb": "بنکەی پۆلیسی دەهلۆڕان",
-        "city:ckb": "دەهلۆڕان",
-        "province:ckb": "ئیلام",
-        "publicId": "Mzo2NDI1OA",
-        "sourceId": "64258",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.948Z",
-        "updatedAt": "2026-03-13T04:41:06.948Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 86857,
       "geometry": {
         "type": "Point",
@@ -120003,49 +119788,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.978Z",
         "updatedAt": "2026-03-13T04:41:06.978Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 86928,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.4176788,
-          32.4011915
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NDM4MQ",
-        "city": "دزفول",
-        "osm_id": "w697565811",
-        "name:fa": "کلانتری ۱۴ شهید آباد",
-        "province": "استان خوزستان",
-        "name:en": "Police Station 14 Shahid Abad",
-        "city:en": "Dezful",
-        "province:en": "Khuzestan",
-        "name:ar": "مركز شرطة 14 شهيد آباد",
-        "city:ar": "دزفول",
-        "province:ar": "خوزستان",
-        "name:he": "תחנת משטרה 14 שהיד אבאד",
-        "city:he": "דזפול",
-        "province:he": "ח'וזסתאן",
-        "name:tr": "Şehitabad 14. Polis Karakolu",
-        "city:tr": "Dezful",
-        "province:tr": "Huzistan",
-        "name:ckb": "بنکەی پۆلیسی 14ی شەهیدئاباد",
-        "city:ckb": "دزفوول",
-        "province:ckb": "خووزستان",
-        "publicId": "Mzo2NDM4MQ",
-        "sourceId": "64381",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.979Z",
-        "updatedAt": "2026-03-13T04:41:06.979Z"
       }
     },
     {
@@ -124443,49 +124185,6 @@
         "province:ckb": "خووزستان",
         "publicId": "Mzo2NDU2NA",
         "sourceId": "64564",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.024Z",
-        "updatedAt": "2026-03-13T04:41:07.024Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 87036,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.0541815,
-          31.7074352
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NDU2NQ",
-        "city": "شهرستان شهرضا",
-        "osm_id": "",
-        "name:fa": "ایستگاه بازرسی شهید امامی",
-        "province": "استان اصفهان",
-        "name:en": "Shahid Emami Inspection Station",
-        "city:en": "Shahreza",
-        "province:en": "Isfahan",
-        "name:ar": "محطة تفتيش الشهيد إمامي",
-        "city:ar": "مقاطعة شهرضا",
-        "province:ar": "أصفهان",
-        "name:he": "מחסום שהיד אםאמי",
-        "city:he": "נפת שהרצ'א",
-        "province:he": "אספהאן",
-        "name:tr": "Şehit İmami Kontrol Noktası",
-        "city:tr": "Şehreza İlçesi",
-        "province:tr": "İsfahan",
-        "name:ckb": "وێستگەی پشکنینی شەهید ئیمامی",
-        "city:ckb": "شارستانی شەهرەزا",
-        "province:ckb": "ئەسفەھان",
-        "publicId": "Mzo2NDU2NQ",
-        "sourceId": "64565",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -213643,49 +213342,6 @@
     },
     {
       "type": "Feature",
-      "id": 89445,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.255091,
-          32.7030247
-        ]
-      },
-      "properties": {
-        "id": "Mzo2Nzc1OQ",
-        "city": "دهلران",
-        "osm_id": "",
-        "name:fa": "فرماندهی مرزبانی شهرستان دهلران",
-        "province": "استان ایلام",
-        "name:en": "Dehloran County Border Guard Command",
-        "city:en": "Dehloran",
-        "province:en": "Ilam",
-        "name:ar": "قيادة حرس الحدود في مقاطعة دهلران",
-        "city:ar": "دهلران",
-        "province:ar": "إيلام",
-        "name:he": "מפקדת משמר הגבול של נפת דהלראן",
-        "city:he": "דהלראן",
-        "province:he": "אילאם",
-        "name:tr": "Dehleran İlçesi Sınır Muhafaza Komutanlığı",
-        "city:tr": "Dehleran",
-        "province:tr": "İlam",
-        "name:ckb": "فەرماندەیی پاسەوانیی سنووری شارستانی دێهلۆڕان",
-        "city:ckb": "دێهلۆڕان",
-        "province:ckb": "ئیلام",
-        "publicId": "Mzo2Nzc1OQ",
-        "sourceId": "67759",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:08.058Z",
-        "updatedAt": "2026-03-13T04:41:08.058Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 89446,
       "geometry": {
         "type": "Point",
@@ -220031,49 +219687,6 @@
         "province:ckb": "لوڕستان",
         "publicId": "Mzo2ODAzMQ",
         "sourceId": "68031",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:08.121Z",
-        "updatedAt": "2026-03-13T04:41:08.121Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 89599,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.2563133,
-          32.7011172
-        ]
-      },
-      "properties": {
-        "id": "Mzo2ODAzMg",
-        "city": "دهلران",
-        "osm_id": "",
-        "name:fa": "اداره راهنما و رانندگی",
-        "province": "استان ایلام",
-        "name:en": "Traffic Police Department",
-        "city:en": "Dehloran",
-        "province:en": "Ilam",
-        "name:ar": "دائرة المرور",
-        "city:ar": "دهلران",
-        "province:ar": "إيلام",
-        "name:he": "מנהל משטרת התנועה",
-        "city:he": "דהלראן",
-        "province:he": "אילאם",
-        "name:tr": "Trafik Tescil ve Denetleme Şube Müdürlüğü",
-        "city:tr": "Dehloran",
-        "province:tr": "İlam",
-        "name:ckb": "بەڕێوەبەرایەتیی هاتووچۆ",
-        "city:ckb": "دێهلۆڕان",
-        "province:ckb": "ئیلام",
-        "publicId": "Mzo2ODAzMg",
-        "sourceId": "68032",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -265487,10 +265100,745 @@
         "createdAt": "2026-10-15T14:02:31.650Z",
         "updatedAt": "2026-10-15T14:02:31.650Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96176,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.053704948280625,
+              31.70735108158796
+            ],
+            [
+              52.054414102366536,
+              31.70796146156465
+            ],
+            [
+              52.05487647083032,
+              31.70790597264181
+            ],
+            [
+              52.05570759941966,
+              31.706967481049276
+            ],
+            [
+              52.05411058440259,
+              31.70643187938434
+            ],
+            [
+              52.05402264929569,
+              31.706564572340397
+            ],
+            [
+              52.05411342101874,
+              31.70659593610216
+            ],
+            [
+              52.05414178718203,
+              31.706641775427386
+            ],
+            [
+              52.05403115914504,
+              31.70689509760578
+            ],
+            [
+              52.053704948280625,
+              31.70735108158796
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه بازرسی نیروی انتظامی",
+        "description": "ایستگاه بازرسی شهید امامی",
+        "date": "",
+        "city": "شهرستان شهرضا",
+        "province": "استان اصفهان",
+        "name:en": "Law Enforcement Checkpoint",
+        "description:en": "Shahid Emami Inspection Station",
+        "city:en": "Shahreza",
+        "province:en": "Isfahan",
+        "name:ar": "مخفر تفتيش قوى الأمن الداخلي",
+        "description:ar": "محطة تفتيش الشهيد إمامي",
+        "city:ar": "شهرضا",
+        "province:ar": "أصفهان",
+        "name:he": "עמדת בידוק של כוחות אכיפת החוק",
+        "description:he": "תחנת בידוק שהיד אמאמי",
+        "city:he": "שהרזא",
+        "province:he": "אספהאן",
+        "name:tr": "Emniyet Kontrol Karakolu",
+        "description:tr": "Şehit Emami Kontrol İstasyonu",
+        "city:tr": "Şehreza",
+        "province:tr": "İsfahan",
+        "name:ckb": "بنکەی پشکنینی هێزی ئینتیزامی",
+        "description:ckb": "وێستگەی پشکنینی شەهید ئیمامی",
+        "city:ckb": "شارستانی شەهرەزا",
+        "province:ckb": "ئەسفەھان",
+        "id": "MzphZDE2YjE0Yjc2Y2I",
+        "publicId": "MzphZDE2YjE0Yjc2Y2I",
+        "sourceId": "ad16b14b76cb",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-17T10:58:31.315Z",
+        "updatedAt": "2026-10-17T10:58:31.315Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96177,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.053545298436006,
+              31.706937800939173
+            ],
+            [
+              52.05362131843464,
+              31.706955866648997
+            ],
+            [
+              52.053692866670445,
+              31.706982489794058
+            ],
+            [
+              52.05375435343416,
+              31.706820849153402
+            ],
+            [
+              52.053685041082076,
+              31.706796127619015
+            ],
+            [
+              52.053603431377184,
+              31.706775209392433
+            ],
+            [
+              52.053545298436006,
+              31.706937800939173
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راه",
+        "description": "",
+        "date": "",
+        "city": "شهرستان شهرضا",
+        "province": "استان اصفهان",
+        "name:en": "Highway Police",
+        "city:en": "Shahreza County",
+        "province:en": "Isfahan",
+        "name:ar": "شرطة الطرق",
+        "city:ar": "مقاطعة شهرضا",
+        "province:ar": "أصفهان",
+        "name:he": "משטרת הדרכים",
+        "city:he": "שאהרזא",
+        "province:he": "אספהאן",
+        "name:tr": "Karayolu Polisi",
+        "city:tr": "Şehreza",
+        "province:tr": "İsfahan",
+        "name:ckb": "پۆلیسی ڕێگاوبان",
+        "city:ckb": "شارستانی شەهرەزا",
+        "province:ckb": "ئەسفەھان",
+        "id": "Mzo0ZjQ5ZjczMWMyMTM",
+        "publicId": "Mzo0ZjQ5ZjczMWMyMTM",
+        "sourceId": "4f49f731c213",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-17T10:59:05.144Z",
+        "updatedAt": "2026-10-17T10:59:05.144Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96183,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.44953506705002,
+              35.63791631789991
+            ],
+            [
+              51.45002174044217,
+              35.63813988802164
+            ],
+            [
+              51.450438595710125,
+              35.63752089757084
+            ],
+            [
+              51.44996013621429,
+              35.63730399951271
+            ],
+            [
+              51.44953506705002,
+              35.63791631789991
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راهنمایی و رانندگی",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Traffic Police",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "شرطة المرور",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "משטרת התנועה",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Trafik Polisi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "پۆلیسی هاتوچۆ",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MzphY2IwZGE3N2VhMWU",
+        "publicId": "MzphY2IwZGE3N2VhMWU",
+        "sourceId": "acb0da77ea1e",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-17T11:05:32.395Z",
+        "updatedAt": "2026-10-17T11:05:32.395Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96187,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.41719867585624,
+              32.40045714792154
+            ],
+            [
+              48.41769509242846,
+              32.40075072990756
+            ],
+            [
+              48.41788638671258,
+              32.40049985081467
+            ],
+            [
+              48.41739313202913,
+              32.40017957861966
+            ],
+            [
+              48.41719867585624,
+              32.40045714792154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۴ شهید آباد",
+        "description": "",
+        "date": "",
+        "city": "دزفول",
+        "province": "استان خوزستان",
+        "name:en": "Shahid Abad Police Station 14",
+        "city:en": "Dezful",
+        "province:en": "Khuzestan",
+        "name:ar": "مركز شرطة 14 شهيد أباد",
+        "city:ar": "دزفول",
+        "province:ar": "خوزستان",
+        "name:he": "תחנת המשטרה 14 שהיד אבאד",
+        "city:he": "דזפול",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "14 Şehitabad Polis Karakolu",
+        "city:tr": "Dezful",
+        "province:tr": "Huzistan",
+        "name:ckb": "بنکەی پۆلیسی 14ی شەهیدئاباد",
+        "city:ckb": "دزفوول",
+        "province:ckb": "خووزستان",
+        "id": "MzowMjU4MGQxZjhiNDI",
+        "publicId": "MzowMjU4MGQxZjhiNDI",
+        "sourceId": "02580d1f8b42",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:33:08.148Z",
+        "updatedAt": "2026-10-17T12:33:08.148Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96189,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.26084331061833,
+              32.69959712164058
+            ],
+            [
+              47.261116895916814,
+              32.69996041802061
+            ],
+            [
+              47.26185450333307,
+              32.69959486513709
+            ],
+            [
+              47.26142266771845,
+              32.69898560700287
+            ],
+            [
+              47.26138987395251,
+              32.698992424865864
+            ],
+            [
+              47.26135041557393,
+              32.6990299042062
+            ],
+            [
+              47.261316048598786,
+              32.6990025978308
+            ],
+            [
+              47.26112130240611,
+              32.69918678184476
+            ],
+            [
+              47.261018201473036,
+              32.69929711772281
+            ],
+            [
+              47.26090428131408,
+              32.69944917614373
+            ],
+            [
+              47.26084331061833,
+              32.69959712164058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری دهلران",
+        "description": "",
+        "date": "",
+        "city": "دهلران",
+        "province": "استان ایلام",
+        "name:en": "Dehloran Police Station",
+        "city:en": "Dehloran",
+        "province:en": "Ilam",
+        "name:ar": "مركز شرطة دهلران",
+        "city:ar": "دهلران",
+        "province:ar": "إيلام",
+        "name:he": "תחנת משטרת דהלוראן",
+        "city:he": "דהלוראן",
+        "province:he": "אילאם",
+        "name:tr": "Dehloran Polis Karakolu",
+        "city:tr": "Dehloran",
+        "province:tr": "İlam",
+        "name:ckb": "بنکەی پۆلیسی دێهلۆڕان",
+        "city:ckb": "دێهلۆڕان",
+        "province:ckb": "ئیلام",
+        "id": "Mzo0N2EwM2ViNzY5YmQ",
+        "publicId": "Mzo0N2EwM2ViNzY5YmQ",
+        "sourceId": "47a03eb769bd",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:34:47.556Z",
+        "updatedAt": "2026-10-17T12:34:47.556Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96190,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.25620380624832,
+              32.70094551028252
+            ],
+            [
+              47.25635276405711,
+              32.70133912445961
+            ],
+            [
+              47.25667359625896,
+              32.70123790955127
+            ],
+            [
+              47.256549464752254,
+              32.70085554108428
+            ],
+            [
+              47.25620380624832,
+              32.70094551028252
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره راهنما و رانندگی",
+        "description": "",
+        "date": "",
+        "city": "دهلران",
+        "province": "استان ایلام",
+        "name:en": "Traffic Police Department",
+        "city:en": "Dehloran",
+        "province:en": "Ilam",
+        "name:ar": "إدارة المرور",
+        "city:ar": "دهلران",
+        "province:ar": "إيلام",
+        "name:he": "משרד התנועה והרישוי",
+        "city:he": "דהלוראן",
+        "province:he": "אילאם",
+        "name:tr": "Trafik Polisi Dairesi",
+        "city:tr": "Dehloran",
+        "province:tr": "İlam",
+        "name:ckb": "فەرمانگەی هاتوچۆ",
+        "city:ckb": "دێهلۆڕان",
+        "province:ckb": "ئیلام",
+        "id": "Mzo5NDVjODQ1YTU4Zjc",
+        "publicId": "Mzo5NDVjODQ1YTU4Zjc",
+        "sourceId": "945c845a58f7",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:35:22.108Z",
+        "updatedAt": "2026-10-17T12:35:22.108Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96191,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.256356267456596,
+              32.70134348976218
+            ],
+            [
+              47.256675768707055,
+              32.701248032799455
+            ],
+            [
+              47.2566830875071,
+              32.701246884447514
+            ],
+            [
+              47.25655475062672,
+              32.70085370445665
+            ],
+            [
+              47.25747209199204,
+              32.700606237111245
+            ],
+            [
+              47.25785796040347,
+              32.701719391341385
+            ],
+            [
+              47.25696940517713,
+              32.70193084341422
+            ],
+            [
+              47.2569890408746,
+              32.701972140402845
+            ],
+            [
+              47.25673083145108,
+              32.702035737727954
+            ],
+            [
+              47.25671708646243,
+              32.70198783325347
+            ],
+            [
+              47.256593381567484,
+              32.70202087082501
+            ],
+            [
+              47.256356267456596,
+              32.70134348976218
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی دهلران",
+        "description": "",
+        "date": "",
+        "city": "دهلران",
+        "province": "استان ایلام",
+        "name:en": "Dehloran Law Enforcement Command",
+        "city:en": "Dehloran",
+        "province:en": "Ilam",
+        "name:ar": "قيادة شرطة دهلران",
+        "city:ar": "دهلران",
+        "province:ar": "إيلام",
+        "name:he": "מפקדת משטרת דהלוראן",
+        "city:he": "דהלוראן",
+        "province:he": "אילאם",
+        "name:tr": "Dehloran Emniyet Komutanlığı",
+        "city:tr": "Dehloran",
+        "province:tr": "İlam",
+        "name:ckb": "فەرماندەیی ئینتیزامیی دێهلۆڕان",
+        "city:ckb": "دێهلۆڕان",
+        "province:ckb": "ئیلام",
+        "id": "MzplMWUyMGQ3NTIwY2I",
+        "publicId": "MzplMWUyMGQ3NTIwY2I",
+        "sourceId": "e1e20d7520cb",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:36:28.900Z",
+        "updatedAt": "2026-10-17T12:36:28.900Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96192,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.25619917751317,
+              32.700949819429496
+            ],
+            [
+              47.25367230950579,
+              32.70160478459323
+            ],
+            [
+              47.25411177839311,
+              32.702701951894596
+            ],
+            [
+              47.25328110097874,
+              32.70288230765327
+            ],
+            [
+              47.25451727559633,
+              32.70687470133883
+            ],
+            [
+              47.255161107850086,
+              32.70728793309419
+            ],
+            [
+              47.25883243331708,
+              32.705573487825674
+            ],
+            [
+              47.25858595942711,
+              32.703678828148696
+            ],
+            [
+              47.25787020277707,
+              32.701724688862015
+            ],
+            [
+              47.25698137357361,
+              32.70193473403148
+            ],
+            [
+              47.256995122953185,
+              32.70197507695252
+            ],
+            [
+              47.25672646006501,
+              32.70204340874406
+            ],
+            [
+              47.25671539348943,
+              32.701995730780354
+            ],
+            [
+              47.25658728862584,
+              32.70202789223879
+            ],
+            [
+              47.25619917751317,
+              32.700949819429496
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی مرزبانی شهرستان دهلران",
+        "description": "",
+        "date": "",
+        "city": "دهلران",
+        "province": "استان ایلام",
+        "name:en": "Dehloran County Border Guard Command",
+        "city:en": "Dehloran",
+        "province:en": "Ilam",
+        "name:ar": "قيادة حرس الحدود في مقاطعة دهلران",
+        "city:ar": "دهلران",
+        "province:ar": "إيلام",
+        "name:he": "מפקדת משמר הגבול של נפת דהלראן",
+        "city:he": "דהלראן",
+        "province:he": "אילאם",
+        "name:tr": "Dehloran İlçesi Sınır Muhafaza Komutanlığı",
+        "city:tr": "Dehloran",
+        "province:tr": "İlam",
+        "name:ckb": "فەرماندەیی پاسەوانیی سنووری شارستانی دێهلۆڕان",
+        "city:ckb": "دێهلۆڕان",
+        "province:ckb": "ئیلام",
+        "id": "Mzo2YzdkOGExZGFjMmE",
+        "publicId": "Mzo2YzdkOGExZGFjMmE",
+        "sourceId": "6c7d8a1dac2a",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:37:35.425Z",
+        "updatedAt": "2026-10-17T12:37:35.425Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86730685830116,
+          38.409240984295906
+        ]
+      },
+      "properties": {
+        "name:fa": "نیروی انتظامی راهور آستارا",
+        "description": "نیروی انتظامی راهور شهرستان آستارا پشت ترمینال نرسیده به فلکه لا",
+        "date": 1792157645,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Astara Traffic Police",
+        "description:en": "Astara County Traffic Police, located behind the terminal before La Square",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "شرطة المرور في آستارا",
+        "description:ar": "شرطة المرور في مقاطعة آستارا، خلف المحطة قبل الوصول إلى دوار لا.",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "משטרת התנועה אסטארה",
+        "description:he": "משטרת התנועה של מחוז אסטארה, מאחורי התרמינל, לפני כיכר לה.",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara Trafik Polisi",
+        "description:tr": "Astara ilçesi Trafik Polisi, terminalin arkasında, La Döner Kavşağı'na gelmeden.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "هێزی ئینتیزامیی ڕاهووری ئاستارا",
+        "description:ckb": "هێزی ئینتیزامیی ڕاهووری شارستانی ئاستارا پشتی ترمینال، نەگەیشتووە بە فەلەکەی لا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "Mzo4MzlkOGRjNjUyNmM",
+        "publicId": "Mzo4MzlkOGRjNjUyNmM",
+        "sourceId": "839d8dc6526c",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:43:08.345Z",
+        "updatedAt": "2026-10-17T12:43:08.345Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96196,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.588750064373016,
+          38.42893140659018
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه مرزبانی",
+        "description": "پاسگاه مرزبانی شهر آستارا در گردنه حیران",
+        "date": 1792126048,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Border Guard Post",
+        "description:en": "Border guard post of Astara in Heyran Pass",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "مخفر حرس الحدود",
+        "description:ar": "مخفر حرس الحدود لمدينة آستارا في ممر حيران الجبلي",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מוצב משמר הגבול",
+        "description:he": "מוצב משמר הגבול של העיר אסטארה במעבר היראן",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Sınır Karakolu",
+        "description:tr": "Heyran Geçidi'ndeki Astara şehri sınır karakolu",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "پاسگای سنوورپارێزی",
+        "description:ckb": "پاسگای سنوورپارێزیی شاری ئاستارا لە ملەی حەیران",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzpiNDUzN2Y0OWE3YTM",
+        "publicId": "MzpiNDUzN2Y0OWE3YTM",
+        "sourceId": "b4537f49a7a3",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:45:56.479Z",
+        "updatedAt": "2026-10-17T12:46:01.519Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6110,
+    "total": 6111,
     "layerId": 3,
     "clustered": false,
     "simplified": false

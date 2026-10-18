@@ -21232,10 +21232,110 @@
         "createdAt": "2026-10-15T14:00:43.978Z",
         "updatedAt": "2026-10-15T14:00:43.978Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.27663514763117,
+          35.17604870715071
+        ]
+      },
+      "properties": {
+        "name:fa": "ورودی لانچر",
+        "description": "ورودی تونل سوباشی، سایت موشکی و راداری",
+        "date": 1792225229,
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "sources": "",
+        "name:en": "Launcher Entrance",
+        "description:en": "Entrance to Subashi Tunnel, missile and radar site",
+        "city:en": "Kabudarahang County",
+        "province:en": "Hamadan",
+        "name:ar": "مدخل منصة الإطلاق",
+        "description:ar": "مدخل نفق سوباشي، موقع صاروخي وراداري",
+        "city:ar": "مقاطعة كبودرأهنغ",
+        "province:ar": "همدان",
+        "name:he": "כניסת המשגר",
+        "description:he": "כניסת מנהרת סובאשי, אתר טילים וראדאר",
+        "city:he": "מחוז משנה כבודאראהנג",
+        "province:he": "המדאן",
+        "name:tr": "Lançer Girişi",
+        "description:tr": "Subaşı Tüneli girişi, füze ve radar sahası",
+        "city:tr": "Kabudrahang İlçesi",
+        "province:tr": "Hemedan",
+        "name:ckb": "دەروازەی لانچەر",
+        "description:ckb": "دەروازەی تۆنێلی سوباشی، پێگەی مووشەکی و ڕاداری",
+        "city:ckb": "شارستانی کەبوودەرئاهەنگ",
+        "province:ckb": "ھەمەدان",
+        "id": "Nzo0NTgwMmEyNThiMTQ",
+        "publicId": "Nzo0NTgwMmEyNThiMTQ",
+        "sourceId": "45802a258b14",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:47:21.324Z",
+        "updatedAt": "2026-10-17T12:47:21.324Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.278446309268475,
+          35.176941145890126
+        ]
+      },
+      "properties": {
+        "name:fa": "ورودی لانچر",
+        "description": "ورودی تونل سایت موشکی راداری",
+        "date": 1792225344,
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "sources": "",
+        "name:en": "Launcher Entrance",
+        "description:en": "Entrance to the radar missile site tunnel",
+        "city:en": "Kabudarahang County",
+        "province:en": "Hamadan",
+        "name:ar": "مدخل منصة الإطلاق",
+        "description:ar": "مدخل نفق الموقع الصاروخي الراداري",
+        "city:ar": "مقاطعة كبودراهنغ",
+        "province:ar": "همدان",
+        "name:he": "כניסת המשגר",
+        "description:he": "כניסת המנהרה של אתר הטילים והמכ\"ם",
+        "city:he": "מחוז משנה כבודאראהנג",
+        "province:he": "המדאן",
+        "name:tr": "Fırlatıcı Girişi",
+        "description:tr": "Radar füze sahasının tünel girişi",
+        "city:tr": "Kabudarahang",
+        "province:tr": "Hemedan",
+        "name:ckb": "دەروازەی لانچەر",
+        "description:ckb": "چوونەژوورەوەی تونێلی سایتی مووشەکیی ڕاداری",
+        "city:ckb": "شارستانی کەبوودەرئاهەنگ",
+        "province:ckb": "ھەمەدان",
+        "id": "Nzo5OGU0M2I5ZDk4ZDQ",
+        "publicId": "Nzo5OGU0M2I5ZDk4ZDQ",
+        "sourceId": "98e43b9d98d4",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:47:41.022Z",
+        "updatedAt": "2026-10-17T12:47:41.022Z"
+      }
     }
   ],
   "metadata": {
-    "total": 192,
+    "total": 194,
     "layerId": 7,
     "clustered": false,
     "simplified": false

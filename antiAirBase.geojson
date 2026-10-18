@@ -9511,10 +9511,60 @@
         "createdAt": "2026-10-15T13:59:21.370Z",
         "updatedAt": "2026-10-15T13:59:21.370Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.27261049300432,
+          35.18384971252506
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی",
+        "unofficial_name:fa": "",
+        "description": "پدافند هوایی",
+        "date": 1792225399,
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "name:en": "Air Defense",
+        "description:en": "Air defense",
+        "city:en": "Kabudarahang County",
+        "province:en": "Hamadan",
+        "name:ar": "الدفاع الجوي",
+        "description:ar": "الدفاع الجوي",
+        "city:ar": "مقاطعة كبودرأهنغ",
+        "province:ar": "همدان",
+        "name:he": "הגנה אווירית",
+        "description:he": "הגנה אווירית",
+        "city:he": "כבודאראהנג",
+        "province:he": "המדאן",
+        "name:tr": "Hava Savunması",
+        "description:tr": "Hava savunması",
+        "city:tr": "Kabudarahang Şehristanı",
+        "province:tr": "Hemedan",
+        "name:ckb": "بەرگریی ئاسمانی",
+        "description:ckb": "بەرگریی ئاسمانی",
+        "city:ckb": "شارستانی کەبوودەرئاهەنگ",
+        "province:ckb": "ھەمەدان",
+        "id": "ODphOTc0NDc5MDgxM2Y",
+        "publicId": "ODphOTc0NDc5MDgxM2Y",
+        "sourceId": "a9744790813f",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:46:36.034Z",
+        "updatedAt": "2026-10-17T12:46:36.034Z"
+      }
     }
   ],
   "metadata": {
-    "total": 120,
+    "total": 121,
     "layerId": 8,
     "clustered": false,
     "simplified": false

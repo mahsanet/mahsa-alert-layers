@@ -103932,10 +103932,110 @@
         "createdAt": "2026-10-15T14:05:54.465Z",
         "updatedAt": "2026-10-15T14:05:54.465Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59380738437176,
+          36.2386004977363
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج و مسجد کوی ولیعصر مشهد",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج و مسجد واقع در کوی ولیعصر، خیابان سبحان ۲۸ و ناظر ۳۱، مشهد",
+        "date": 1792106609,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base and Mosque of Kouy-e Valiasr, Mashhad",
+        "description:en": "Basij base and mosque located in Kouy-e Valiasr, Sobhan 28 and Nazer 31 streets, Mashhad",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "قاعدة البسيج ومسجد حي وليعصر في مشهد",
+        "description:ar": "قاعدة البسيج ومسجد يقعان في حي وليعصر، شارع سبحان 28 وناظر 31، مشهد",
+        "city:ar": "مشهد",
+        "province:ar": "خراسان رضوي",
+        "name:he": "בסיס באסיג' ומסגד שכונת וליעסר, משהד",
+        "description:he": "בסיס באסיג' ומסגד הממוקמים בשכונת וליעסר, רחוב סובחאן 28 ונאזר 31, משהד",
+        "city:he": "משהד",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:tr": "Meşhed Valiasr Mahallesi Besiç Üssü ve Camii",
+        "description:tr": "Meşhed, Valiasr Mahallesi, Subhan 28 ve Nazır 31 caddelerinde yer alan Besiç üssü ve cami",
+        "city:tr": "Meşhed",
+        "province:tr": "Razavi Horasan",
+        "name:ckb": "بنکەی بەسیج و مزگەوتی گەڕەکی وەلیعەسری مەشھەد",
+        "description:ckb": "بنکەی بەسیج و مزگەوتی کەوتووەتە گەڕەکی وەلیعەسر، شەقامی سوبحان 28 و نازر 31، مەشھەد",
+        "city:ckb": "مەشھەد",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "MTphY2JlM2Q4N2YzNmI",
+        "publicId": "MTphY2JlM2Q4N2YzNmI",
+        "sourceId": "acbe3d87f36b",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:48:44.338Z",
+        "updatedAt": "2026-10-17T12:48:44.338Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.72952803224325,
+          35.971105404949824
+        ]
+      },
+      "properties": {
+        "name:fa": " پایگاه بسیج مهستان",
+        "unofficial_name:fa": "",
+        "description": "مسجد و پایگاه بسیج",
+        "date": 1792028727,
+        "city": "مهستان",
+        "province": "استان البرز",
+        "name:en": "Mahestan Basij Base",
+        "description:en": "Mosque and Basij base",
+        "city:en": "Mahestan",
+        "province:en": "Alborz",
+        "name:ar": "قاعدة باسيج مهستان",
+        "description:ar": "مسجد وقاعدة باسيج",
+        "city:ar": "مهستان",
+        "province:ar": "ألبرز",
+        "name:he": "בסיס באסיג' מהסתאן",
+        "description:he": "מסגד ובסיס באסיג'",
+        "city:he": "מהסתאן",
+        "province:he": "אלבורז",
+        "name:tr": "Mehestan Besiç Üssü",
+        "description:tr": "Cami ve Besiç üssü",
+        "city:tr": "Mehestan",
+        "province:tr": "Elburz",
+        "name:ckb": "بنکەی بەسیجی مەهستان",
+        "description:ckb": "مزگەوت و بنکەی بەسیج",
+        "city:ckb": "مەهستان",
+        "province:ckb": "ئەلبورز",
+        "id": "MTpkNmRhMzYwMzMwY2U",
+        "publicId": "MTpkNmRhMzYwMzMwY2U",
+        "sourceId": "d6da360330ce",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:51:35.639Z",
+        "updatedAt": "2026-10-17T12:51:35.639Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2344,
+    "total": 2346,
     "layerId": 1,
     "clustered": false,
     "simplified": false

@@ -50022,10 +50022,61 @@
         "createdAt": "2026-10-15T13:37:13.736Z",
         "updatedAt": "2026-10-15T13:37:13.736Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.878770619630814,
+          38.4050412812347
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه نیروی دریایی سپاه",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "پایگاه نیروی دریایی سپاه و محل استقرار قایق‌های تندرو",
+        "date": 1792215132,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Sepah Navy Base",
+        "description:en": "Sepah Navy base and speedboat stationing location",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "قاعدة القوات البحرية للحرس الثوري",
+        "description:ar": "قاعدة القوات البحرية للحرس الثوري وموقع تمركز الزوارق السريعة",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "בסיס חיל הים של משמרות המהפכה",
+        "description:he": "בסיס חיל הים של משמרות המהפכה ומקום התפרסותן של סירות מהירות",
+        "city:he": "אסטרה",
+        "province:he": "גילאן",
+        "name:tr": "Devrim Muhafızları Deniz Kuvvetleri Üssü",
+        "description:tr": "Devrim Muhafızları Deniz Kuvvetleri üssü ve sürat teknelerinin konuşlanma yeri",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بنکەی هێزی دەریاییی سوپا",
+        "description:ckb": "بنکەی هێزی دەریاییی سوپا و شوێنی جێگیربوونی بەلەمە خێراکان",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTE6OTdkYWY5ZjBhOWI4",
+        "publicId": "MTE6OTdkYWY5ZjBhOWI4",
+        "sourceId": "97daf9f0a9b8",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-17T11:01:54.595Z",
+        "updatedAt": "2026-10-17T11:02:01.200Z"
+      }
     }
   ],
   "metadata": {
-    "total": 405,
+    "total": 406,
     "layerId": 11,
     "clustered": false,
     "simplified": false

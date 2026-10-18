@@ -93628,10 +93628,49 @@
         "createdAt": "2026-10-14T11:55:56.705Z",
         "updatedAt": "2026-10-14T11:55:56.705Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.41740296796027,
+          32.40026498822286
+        ]
+      },
+      "properties": {
+        "name": "دکل",
+        "description": "",
+        "date": "",
+        "city": "دزفول",
+        "province": "استان خوزستان",
+        "city:en": "Dezful",
+        "province:en": "Khuzestan",
+        "city:ar": "دزفول",
+        "province:ar": "خوزستان",
+        "city:he": "דזפול",
+        "province:he": "ח'וזסתאן",
+        "city:tr": "Dezful",
+        "province:tr": "Huzistan",
+        "city:ckb": "دزفوول",
+        "province:ckb": "خووزستان",
+        "id": "MzU6MDQ5Y2NhZDgxYzUw",
+        "publicId": "MzU6MDQ5Y2NhZDgxYzUw",
+        "sourceId": "049ccad81c50",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:33:28.977Z",
+        "updatedAt": "2026-10-17T12:33:28.977Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2024,
+    "total": 2025,
     "layerId": 35,
     "clustered": false,
     "simplified": false

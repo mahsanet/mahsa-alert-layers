@@ -90058,10 +90058,110 @@
         "createdAt": "2026-10-15T21:58:59.467Z",
         "updatedAt": "2026-10-15T21:58:59.467Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.52138152346015,
+          34.77817349407749
+        ]
+      },
+      "properties": {
+        "name:fa": "محل نگهداری اسلحه",
+        "unofficial_name:fa": "",
+        "description": "طی جنگ چهل روزه چندین کامیون اسلحه به این مکان انتقال داده شده تا در هنگام سرکوب مردم مورد استفاده قرار گیرد.",
+        "date": 1792075321,
+        "city": "همدان",
+        "province": "استان همدان",
+        "name:en": "Weapons Storage Location",
+        "description:en": "During the forty-day war, several trucks of weapons were transferred to this location to be used during the suppression of the people.",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "name:ar": "موقع تخزين الأسلحة",
+        "description:ar": "خلال حرب الأربعين يوماً، تم نقل عدة شاحنات من الأسلحة إلى هذا المكان لاستخدامها أثناء قمع الشعب.",
+        "city:ar": "همدان",
+        "province:ar": "همدان",
+        "name:he": "מקום אחסון נשק",
+        "description:he": "במהלך מלחמת ארבעים הימים הועברו למקום זה מספר משאיות נשק כדי להשתמש בהן בעת דיכוי העם.",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "name:tr": "Silah Depolama Yeri",
+        "description:tr": "Kırk günlük savaş sırasında, halkın bastırılmasında kullanılmak üzere bu mekana birkaç kamyon silah nakledilmiştir.",
+        "city:tr": "Hemedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "شوێنی ڕاگرتنی چەک",
+        "description:ckb": "لە ماوەی جەنگی چل ڕۆژەدا چەندین کامیۆن چەک گوێزراوەتەوە بۆ ئەم شوێنە تا لە کاتی سەرکوتکردنی خەڵکدا بەکار بهێنرێت.",
+        "city:ckb": "هەمەدان",
+        "province:ckb": "ھەمەدان",
+        "id": "MTI6ZGJmMmM0Mjg1MGRl",
+        "publicId": "MTI6ZGJmMmM0Mjg1MGRl",
+        "sourceId": "dbf2c42850de",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-17T10:53:23.035Z",
+        "updatedAt": "2026-10-17T10:53:23.035Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.85244830697775,
+          28.923593638639574
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه دریایی بوشهر",
+        "unofficial_name:fa": "",
+        "description": "دروازه ورودی پایگاه دریایی در شب کاملا چراغ خاموش است و بازرسی‌های امنیتی (به‌خصوص از ساعت ۲۴ به بعد) افزایش یافته است.",
+        "date": 1792186389,
+        "city": "بوشهر",
+        "province": "استان بوشهر",
+        "name:en": "Bushehr Naval Base",
+        "description:en": "The entrance gate of the naval base is completely blacked out at night, and security checks (especially after midnight) have increased.",
+        "city:en": "Bushehr",
+        "province:en": "Bushehr",
+        "name:ar": "قاعدة بوشهر البحرية",
+        "description:ar": "بوابة الدخول إلى القاعدة البحرية مطفأة الأنوار بالكامل ليلاً، وقد زادت التفتيشات الأمنية (خاصة بعد الساعة 24).",
+        "city:ar": "بوشهر",
+        "province:ar": "بوشهر",
+        "name:he": "בסיס חיל הים בושהר",
+        "description:he": "שער הכניסה של בסיס חיל הים מוחשך לחלוטין בלילה, והבדיקות הביטחוניות (במיוחד מהשעה 24:00 ואילך) הוגברו.",
+        "city:he": "בושהר",
+        "province:he": "בושהר",
+        "name:tr": "Buşehr Deniz Üssü",
+        "description:tr": "Deniz üssünün giriş kapısı geceleri tamamen karartılmıştır ve güvenlik kontrolleri (özellikle saat 24.00'ten sonra) artırılmıştır.",
+        "city:tr": "Buşehr",
+        "province:tr": "Buşehr",
+        "name:ckb": "پایگای دەریاییی بووشەهر",
+        "description:ckb": "دەروازەی چوونەژوورەوەی پایگای دەریایی لە شەودا بە تەواوی چراکوژاوەیە و پشکنینە ئەمنییەکان (بەتایبەتی لە کاتژمێر 24 بەدواوە) زیادی کردووە.",
+        "city:ckb": "بووشەهر",
+        "province:ckb": "بووشەھر",
+        "id": "MTI6MTg1ZTMyOTQxMmIy",
+        "publicId": "MTI6MTg1ZTMyOTQxMmIy",
+        "sourceId": "185e329412b2",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-17T10:55:29.377Z",
+        "updatedAt": "2026-10-17T10:55:29.377Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1093,
+    "total": 1095,
     "layerId": 12,
     "clustered": false,
     "simplified": false

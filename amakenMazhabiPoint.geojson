@@ -40905,24 +40905,31 @@
         ]
       },
       "properties": {
-        "id": "NDo3Nzk5",
-        "city": "همدان",
-        "osm_id": "n9685760294",
         "name:fa": "مسجد قدس",
+        "description": "تعداد زیادی سلاح و تیربار در مسجد قدس ذخیره شده تا برای سرکوب مردم استفاده شود.",
+        "date": "",
+        "city": "همدان",
         "province": "استان همدان",
+        "id": "NDo3Nzk5",
+        "osm_id": "n9685760294",
         "name:en": "Qods Mosque",
-        "city:en": "Hamadan",
+        "description:en": "A large number of weapons and machine guns are stored in Qods Mosque to be used for suppressing the people.",
+        "city:en": "Hamedan",
         "province:en": "Hamadan",
         "name:ar": "مسجد القدس",
-        "city:ar": "همدان",
+        "description:ar": "تم تخزين كميات كبيرة من الأسلحة والرشاشات في مسجد القدس لاستخدامها في قمع الشعب.",
+        "city:ar": "همذان",
         "province:ar": "همدان",
         "name:he": "מסגד קודס",
+        "description:he": "כמות גדולה של כלי נשק ומקלעים מאוחסנת במסגד קודס כדי לשמש לדיכוי העם.",
         "city:he": "המדאן",
         "province:he": "המדאן",
         "name:tr": "Kudüs Camii",
-        "city:tr": "Hemedan",
+        "description:tr": "Halkı bastırmak için kullanılmak üzere Kudüs Camii'nde çok sayıda silah ve makineli tüfek depolanmıştır.",
+        "city:tr": "Hamedan",
         "province:tr": "Hemedan",
         "name:ckb": "مزگەوتی قودس",
+        "description:ckb": "ژمارەیەکی زۆر چەک و ڕەشاش لە مزگەوتی قودسدا کۆکراونەتەوە تا بۆ سەرکوتکردنی خەڵک بەکاربهێنرێن.",
         "city:ckb": "هەمەدان",
         "province:ckb": "ھەمەدان",
         "publicId": "NDo3Nzk5",
@@ -40934,7 +40941,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:53:48.001Z",
-        "updatedAt": "2026-03-11T20:53:48.001Z"
+        "updatedAt": "2026-10-17T10:52:30.061Z"
       }
     },
     {
@@ -246137,10 +246144,54 @@
         "createdAt": "2026-10-15T14:06:54.617Z",
         "updatedAt": "2026-10-15T14:07:00.101Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.729339647710674,
+          35.97096952802815
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "مهستان",
+        "province": "استان البرز",
+        "name:en": "Mosque",
+        "city:en": "Mehestan",
+        "province:en": "Alborz",
+        "name:ar": "مسجد",
+        "city:ar": "مهستان",
+        "province:ar": "ألبرز",
+        "name:he": "מסגד",
+        "city:he": "מהסטאן",
+        "province:he": "אלבורז",
+        "name:tr": "Cami",
+        "city:tr": "Mehestan",
+        "province:tr": "Elburz",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "مەهستان",
+        "province:ckb": "ئەلبورز",
+        "id": "NDowNmE3ZWE0ZGUwNTQ",
+        "publicId": "NDowNmE3ZWE0ZGUwNTQ",
+        "sourceId": "06a7ea4de054",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-17T12:51:48.670Z",
+        "updatedAt": "2026-10-17T12:51:48.670Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5708,
+    "total": 5709,
     "layerId": 4,
     "clustered": false,
     "simplified": false

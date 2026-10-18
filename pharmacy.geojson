@@ -136724,48 +136724,6 @@
     },
     {
       "type": "Feature",
-      "id": 63684,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7420194,
-          35.9995797
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MzI4NA",
-        "city": "مهستان",
-        "name:fa": "داروخانه دکتر زهرا اهتمامی",
-        "province": "استان البرز",
-        "name:en": "Dr. Zahra Ehtemami Pharmacy",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "name:ar": "صيدلية الدكتورة زهراء اهتمامي",
-        "city:ar": "مهستان",
-        "province:ar": "ألبرز",
-        "name:he": "בית מרקחת ד\"ר זהרא אהתמאמי",
-        "city:he": "מהסתאן",
-        "province:he": "אלבורז",
-        "name:tr": "Dr. Zehra Ehtemami Eczanesi",
-        "city:tr": "Mehestan",
-        "province:tr": "Elburz",
-        "name:ckb": "دەرمانخانەی دکتۆر زەهرا ئیهتمامی",
-        "city:ckb": "مەهستان",
-        "province:ckb": "ئەلبورز",
-        "publicId": "Mjc6MzI4NA",
-        "sourceId": "3284",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.013Z",
-        "updatedAt": "2026-03-11T20:58:47.013Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 63685,
       "geometry": {
         "type": "Point",
@@ -197270,48 +197228,6 @@
     },
     {
       "type": "Feature",
-      "id": 65143,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.4927764,
-          35.7348595
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NDc0Mw",
-        "city": "تهران",
-        "name:fa": "داروخانه دکتر مهسا شهمیرزادی",
-        "province": "استان تهران",
-        "name:en": "Dr. Mahsa Shahmirzadi Pharmacy",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "name:ar": "صيدلية الدكتورة مهسا شهميرزادي",
-        "city:ar": "طهران",
-        "province:ar": "طهران",
-        "name:he": "בית מרקחת דוקטור מהסה שהמירזאדי",
-        "city:he": "טהראן",
-        "province:he": "טהראן",
-        "name:tr": "Dr. Mahsa Şahmirzadi Eczanesi",
-        "city:tr": "Tahran",
-        "province:tr": "Tahran",
-        "name:ckb": "دەرمانخانەی دکتۆر مەهسا شەهمیرزادی",
-        "city:ckb": "تاران",
-        "province:ckb": "تاران",
-        "publicId": "Mjc6NDc0Mw",
-        "sourceId": "4743",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.644Z",
-        "updatedAt": "2026-03-11T20:58:47.644Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 65144,
       "geometry": {
         "type": "Point",
@@ -197342,47 +197258,6 @@
         "province:ckb": "تاران",
         "publicId": "Mjc6NDc0NA",
         "sourceId": "4744",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.644Z",
-        "updatedAt": "2026-03-11T20:58:47.644Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 65145,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.4923272,
-          35.7344567
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NDc0NQ",
-        "city": "تهران",
-        "name:fa": "داروخانه شبانه روزی جاسمین",
-        "province": "استان تهران",
-        "name:en": "Jasmin 24-Hour Pharmacy",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "name:ar": "صيدلية جاسمين على مدار الساعة",
-        "city:ar": "طهران",
-        "province:ar": "طهران",
-        "name:tr": "Jasmin 24 Saat Açık Eczanesi",
-        "city:tr": "Tahran",
-        "province:tr": "Tahran",
-        "name:he": "בית מרקחת 24 שעות ג'אסמין",
-        "province:he": "טהראן",
-        "name:ckb": "دەرمانخانەی شەوانەڕۆژیی جاسمین",
-        "city:ckb": "تاران",
-        "province:ckb": "تاران",
-        "publicId": "Mjc6NDc0NQ",
-        "sourceId": "4745",
         "layerId": 27,
         "type": "location",
         "status": "active",
@@ -197465,48 +197340,6 @@
         "province:ckb": "تاران",
         "publicId": "Mjc6NDc0Nw",
         "sourceId": "4747",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.645Z",
-        "updatedAt": "2026-03-11T20:58:47.645Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 65148,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.4925243,
-          35.7318233
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NDc0OA",
-        "city": "تهران",
-        "name:fa": "داروخانه دكتر شعله پیشداد آذر",
-        "province": "استان تهران",
-        "name:en": "Dr. Sholeh Pishdad Azar Pharmacy",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "name:ar": "صيدلية الدكتورة شعلة بيشداد آذر",
-        "city:ar": "طهران",
-        "province:ar": "طهران",
-        "name:tr": "Dr. Sholeh Pishdad Azer Eczanesi",
-        "city:tr": "Tahran",
-        "province:tr": "Tahran",
-        "name:he": "בית מרקחת ד\"ר שועלה פישדאד אזר",
-        "city:he": "טהראן",
-        "province:he": "טהראן",
-        "name:ckb": "دەرمانخانەی دکتۆر شوعلە پیشداد ئازەر",
-        "city:ckb": "تاران",
-        "province:ckb": "تاران",
-        "publicId": "Mjc6NDc0OA",
-        "sourceId": "4748",
         "layerId": 27,
         "type": "location",
         "status": "active",
@@ -198185,47 +198018,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-11T20:58:47.651Z",
         "updatedAt": "2026-03-11T20:58:47.651Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 65165,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.494135,
-          35.7301533
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NDc2NQ",
-        "city": "تهران",
-        "name:fa": "داروخانه دکتر شریعتی",
-        "province": "استان تهران",
-        "name:en": "Dr. Shariati Pharmacy",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "name:ar": "صيدلية الدكتور شريعتي",
-        "city:ar": "طهران",
-        "province:ar": "طهران",
-        "name:tr": "Dr. Şariati Eczanesi",
-        "city:tr": "Tahran",
-        "province:tr": "Tahran",
-        "name:he": "בית מרקחת ד\"ר שריעתי",
-        "province:he": "טהראן",
-        "name:ckb": "دەرمانخانەی دکتۆر شەریعەتی",
-        "city:ckb": "تاران",
-        "province:ckb": "تاران",
-        "publicId": "Mjc6NDc2NQ",
-        "sourceId": "4765",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.652Z",
-        "updatedAt": "2026-03-11T20:58:47.652Z"
       }
     },
     {
@@ -223845,90 +223637,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-11T20:58:47.912Z",
         "updatedAt": "2026-03-11T20:58:47.912Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 65781,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.0007359,
-          35.708734
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NTM4MQ",
-        "city": "شهرستان شهریار",
-        "name:fa": "داروخانه دکتر لواسانی",
-        "province": "استان تهران",
-        "name:en": "Dr. Lavasani Pharmacy",
-        "city:en": "Shahriar County",
-        "province:en": "Tehran",
-        "name:ar": "صيدلية الدكتور لواساني",
-        "city:ar": "قضاء شهريار",
-        "province:ar": "طهران",
-        "name:he": "בית מרקחת ד\"ר לוואסאני",
-        "city:he": "נפת שהריאר",
-        "province:he": "טהראן",
-        "name:tr": "Dr. Lavasani Eczanesi",
-        "city:tr": "Şehriyar İlçesi",
-        "province:tr": "Tahran",
-        "name:ckb": "دەرمانخانەی دکتۆر لەواسانی",
-        "city:ckb": "شارستانی شەهریار",
-        "province:ckb": "تاران",
-        "publicId": "Mjc6NTM4MQ",
-        "sourceId": "5381",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.912Z",
-        "updatedAt": "2026-03-11T20:58:47.912Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 65782,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.0029501,
-          35.7054833
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NTM4Mg",
-        "city": "شهر جدید اندیشه",
-        "name:fa": "داروخانه",
-        "province": "استان تهران",
-        "name:en": "Pharmacy",
-        "city:en": "Andisheh New Town",
-        "province:en": "Tehran",
-        "name:ar": "صيدلية",
-        "city:ar": "مدينة أنديشه الجديدة",
-        "province:ar": "طهران",
-        "name:he": "בית מרקחת",
-        "city:he": "שהר ג'דיד אנדיישה",
-        "province:he": "טהראן",
-        "name:tr": "Eczane",
-        "city:tr": "Andişe Yeni Şehri",
-        "province:tr": "Tahran",
-        "name:ckb": "دەرمانخانە",
-        "city:ckb": "شاری نوێی ئاندیشە",
-        "province:ckb": "تاران",
-        "publicId": "Mjc6NTM4Mg",
-        "sourceId": "5382",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.913Z",
-        "updatedAt": "2026-03-11T20:58:47.913Z"
       }
     },
     {
@@ -348353,48 +348061,6 @@
         "province:ckb": "ئیلام",
         "publicId": "Mjc6ODM1OA",
         "sourceId": "8358",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:49.155Z",
-        "updatedAt": "2026-03-11T20:58:49.155Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 68759,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.2787619,
-          32.6994255
-        ]
-      },
-      "properties": {
-        "id": "Mjc6ODM1OQ",
-        "city": "شهرستان دهلران",
-        "name:fa": "داروخانه شبانه روزی",
-        "province": "استان ایلام",
-        "name:en": "24-Hour Pharmacy",
-        "city:en": "Dehloran County",
-        "province:en": "Ilam",
-        "name:ar": "صيدلية على مدار الساعة",
-        "city:ar": "قضاء دهلران",
-        "province:ar": "إيلام",
-        "name:he": "בית מרקחת 24/7",
-        "city:he": "נפת דהלראן",
-        "province:he": "אילאם",
-        "name:tr": "Nöbetçi Eczane",
-        "city:tr": "Dehloran İlçesi",
-        "province:tr": "İlam",
-        "name:ckb": "دەرمانخانەی شەوانەڕۆژی",
-        "city:ckb": "شارستانی دێهلۆڕان",
-        "province:ckb": "ئیلام",
-        "publicId": "Mjc6ODM1OQ",
-        "sourceId": "8359",
         "layerId": 27,
         "type": "location",
         "status": "active",
@@ -575802,48 +575468,6 @@
     },
     {
       "type": "Feature",
-      "id": 74208,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.0041437,
-          35.7052427
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MTM4MDg",
-        "city": "شهر جدید اندیشه",
-        "name:fa": "داروخانه دکتر الماسی",
-        "province": "استان تهران",
-        "name:en": "Dr. Almasi Pharmacy",
-        "city:en": "Andisheh New City",
-        "province:en": "Tehran",
-        "name:ar": "صيدلية الدكتور الماسي",
-        "city:ar": "مدينة أنديشه الجديدة",
-        "province:ar": "طهران",
-        "name:he": "בית מרקחת דוקטור אלמאסי",
-        "city:he": "שהר ג'דיד אנדיישה",
-        "province:he": "טהראן",
-        "name:tr": "Dr. Elmasi Eczanesi",
-        "city:tr": "Yeni Endişe Şehri",
-        "province:tr": "Tahran",
-        "name:ckb": "دەرمانخانەی دکتۆر ئەڵماسی",
-        "city:ckb": "شاری نوێی ئەندیشە",
-        "province:ckb": "تاران",
-        "publicId": "Mjc6MTM4MDg",
-        "sourceId": "13808",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:51.432Z",
-        "updatedAt": "2026-03-11T20:58:51.432Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 74209,
       "geometry": {
         "type": "Point",
@@ -589876,48 +589500,6 @@
         "province:ckb": "ئەلبورز",
         "publicId": "Mjc6MTQxNDg",
         "sourceId": "14148",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:51.571Z",
-        "updatedAt": "2026-03-11T20:58:51.571Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 74549,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.7421,
-          35.9964716
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MTQxNDk",
-        "city": "مهستان",
-        "name:fa": "داروخانه دکتر زهرا اهتمامی",
-        "province": "استان البرز",
-        "name:en": "Dr. Zahra Ehtemami Pharmacy",
-        "city:en": "Mahestan",
-        "province:en": "Alborz",
-        "name:ar": "صيدلية الدكتورة زهراء اهتمامي",
-        "city:ar": "مهستان",
-        "province:ar": "ألبرز",
-        "name:he": "בית מרקחת ד\"ר זהרא אהתמאמי",
-        "city:he": "מהסתאן",
-        "province:he": "אלבורז",
-        "name:tr": "Dr. Zehra Ehtemami Eczanesi",
-        "city:tr": "Mehestan",
-        "province:tr": "Elburz",
-        "name:ckb": "دەرمانخانەی دکتۆر زەهرا ئیهتمامی",
-        "city:ckb": "مەهستان",
-        "province:ckb": "ئەلبورز",
-        "publicId": "Mjc6MTQxNDk",
-        "sourceId": "14149",
         "layerId": 27,
         "type": "location",
         "status": "active",
@@ -651984,7 +651566,7 @@
     }
   ],
   "metadata": {
-    "total": 15614,
+    "total": 15604,
     "layerId": 27,
     "clustered": false,
     "simplified": false
