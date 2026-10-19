@@ -17755,43 +17755,6 @@
     },
     {
       "type": "Feature",
-      "id": 4350,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.421297499999994,
-          29.441578099999997
-        ]
-      },
-      "properties": {
-        "id": "MToxMjIwNQ",
-        "city": "شهرستان شیراز",
-        "province": "استان فارس",
-        "unofficial_name:fa": "پایگاه مقاومت بسیج عشایری",
-        "city:en": "Shiraz County",
-        "province:en": "Fars",
-        "city:ar": "مقاطعة شيراز",
-        "province:ar": "فارس",
-        "city:he": "נפת שיראז",
-        "province:he": "פארס",
-        "city:tr": "Şiraz Şehristanı",
-        "province:tr": "Fars",
-        "city:ckb": "شارستانی شیراز",
-        "province:ckb": "فارس",
-        "publicId": "MToxMjIwNQ",
-        "sourceId": "12205",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:52.568Z",
-        "updatedAt": "2026-03-11T20:52:52.568Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 4351,
       "geometry": {
         "type": "Point",
@@ -60971,48 +60934,6 @@
     },
     {
       "type": "Feature",
-      "id": 5460,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.4216213,
-          29.4406149
-        ]
-      },
-      "properties": {
-        "id": "MToxMzM4OQ",
-        "city": "شهرستان شیراز",
-        "name:fa": "حوزه مقاومت بسیج عشایری امام جعفرصادق",
-        "province": "استان فارس",
-        "name:en": "Imam Ja'far al-Sadiq Nomadic Basij Resistance District",
-        "city:en": "Shiraz County",
-        "province:en": "Fars",
-        "name:ar": "منطقة مقاومة البسيج العشائري الإمام جعفر الصادق",
-        "city:ar": "قضاء شيراز",
-        "province:ar": "فارس",
-        "name:he": "אזור התנגדות באסיג' שבטי אימאם ג'עפר א-סאדק",
-        "city:he": "שיראז",
-        "province:he": "פארס",
-        "name:tr": "İmam Cafer Sadık Göçebe Basij Direniş Bölgesi",
-        "city:tr": "Şiraz",
-        "province:tr": "Fars",
-        "name:ckb": "مەڵبەندی خۆڕاگریی بەسیجی عەشایەریی ئیمام جەعفەری صادق",
-        "city:ckb": "شارستانی شیراز",
-        "province:ckb": "فارس",
-        "publicId": "MToxMzM4OQ",
-        "sourceId": "13389",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:53.038Z",
-        "updatedAt": "2026-03-11T20:52:53.038Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 5461,
       "geometry": {
         "type": "Point",
@@ -104032,10 +103953,233 @@
         "createdAt": "2026-10-17T12:51:35.639Z",
         "updatedAt": "2026-10-17T12:51:35.639Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85306064039469,
+          38.42404427163976
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه نیروهای سرکوب شهرک نصیرنیا، آستارا",
+        "date": 1792325137,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Basij Base",
+        "description:en": "Base of the repressive forces in Nasirnia Settlement, Astara",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة قوات القمع في حي نصير نيا، آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס כוחות הדיכוי בשכונת נסירניא, אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Nasirniya yerleşkesi baskı güçleri üssü, Astara",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "بنکەی هێزەکانی سەرکوتکەری شارۆچکەی نەسیرنیا، ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTo5ZmMwMmQ4N2M1MzM",
+        "publicId": "MTo5ZmMwMmQ4N2M1MzM",
+        "sourceId": "9fc02d87c533",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-18T15:38:51.206Z",
+        "updatedAt": "2026-10-18T15:38:51.206Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.183844074099994,
+          35.724570655311425
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج ",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج محله چیتگر شمالی",
+        "date": 1792254510,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "Basij base in North Chitgar neighborhood",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مقر البسيج",
+        "description:ar": "مقر البسيج في حي تشيتغر الشمالي",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג' בשכונת צ'יתגר הצפונית",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Kuzey Çitger Mahallesi Besic üssü",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "بنکەی بەسیجی گەڕەکی چیتگەری باکوور",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MTo4OGZmZDUxZmNhZjQ",
+        "publicId": "MTo4OGZmZDUxZmNhZjQ",
+        "sourceId": "88ffd51fcaf4",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-18T15:45:45.280Z",
+        "updatedAt": "2026-10-18T15:45:50.133Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96226,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.4207295235052,
+              29.441410966851024
+            ],
+            [
+              52.42192131955278,
+              29.442333266575858
+            ],
+            [
+              52.422606702373685,
+              29.44157770722255
+            ],
+            [
+              52.42174432711181,
+              29.440825251714017
+            ],
+            [
+              52.42147349992629,
+              29.44095980330549
+            ],
+            [
+              52.42111478688636,
+              29.441181295525908
+            ],
+            [
+              52.4207295235052,
+              29.441410966851024
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه مقاومت بسیج عشایری",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان شیراز",
+        "province": "استان فارس",
+        "name:en": "Ashayeri Basij Resistance Base",
+        "city:en": "Shiraz County",
+        "province:en": "Fars",
+        "name:ar": "قاعدة مقاومة البسيج العشائرية",
+        "city:ar": "مقاطعة شيراز",
+        "province:ar": "فارس",
+        "name:he": "בסיס התנגדות באסיג' נוודי",
+        "city:he": "שיראז",
+        "province:he": "פארס",
+        "name:tr": "Göçebe Besiç Direniş Üssü",
+        "city:tr": "Şiraz Şehristanı",
+        "province:tr": "Fars",
+        "name:ckb": "بنکەی خۆڕاگریی بەسیجی عەشایەری",
+        "city:ckb": "شارستانی شیراز",
+        "province:ckb": "فارس",
+        "id": "MTowOTUxODhkMzJjYzM",
+        "publicId": "MTowOTUxODhkMzJjYzM",
+        "sourceId": "095188d32cc3",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-18T15:54:19.917Z",
+        "updatedAt": "2026-10-18T15:54:19.917Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83198422566056,
+          35.93006707566637
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر بسیج کوهسار",
+        "unofficial_name:fa": "",
+        "description": "پایگاهی که نیروها را تجهیز کرده و به حوزه بسیج چندار و محل‌های اعتراضات اعزام می‌کردند.",
+        "date": 1792055285,
+        "city": "کردان",
+        "province": "استان البرز",
+        "name:en": "Kohsar Basij Office",
+        "description:en": "A base that equipped forces and dispatched them to the Chendar Basij district and protest locations.",
+        "city:en": "Kordan",
+        "province:en": "Alborz",
+        "name:ar": "مكتب بسيج كوهسار",
+        "description:ar": "قاعدة كانت تقوم بتجهيز القوات وإرسالها إلى منطقة بسيج جندار ومواقع الاحتجاجات.",
+        "city:ar": "كردان",
+        "province:ar": "ألبرز",
+        "name:he": "משרד הבסיג' קוהסאר",
+        "description:he": "בסיס שצידד כוחות ושיגר אותם לאזור הבסיג' צ'נדאר ולמוקדי המחאות.",
+        "city:he": "כורדאן",
+        "province:he": "אלבורז",
+        "name:tr": "Kuhsar Besiç Ofisi",
+        "description:tr": "Kuvvetleri donatıp Çendar Besiç bölgesine ve protesto alanlarına sevk ettikleri bir üs.",
+        "city:tr": "Kordan",
+        "province:tr": "Elburz",
+        "name:ckb": "نووسینگەی بەسیجی کۆهسار",
+        "description:ckb": "بنکەیەک کە هێزەکانی تەجهیز دەکرد و بۆ حەوزەی بەسیجی چەندار و شوێنەکانی ناڕەزایەتییەکان ڕەوانەی دەکردن.",
+        "city:ckb": "کوردان",
+        "province:ckb": "ئەلبورز",
+        "id": "MTplZTkzMDFmZTM0NDI",
+        "publicId": "MTplZTkzMDFmZTM0NDI",
+        "sourceId": "ee9301fe3442",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-18T16:06:44.288Z",
+        "updatedAt": "2026-10-18T16:06:44.288Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2346,
+    "total": 2348,
     "layerId": 1,
     "clustered": false,
     "simplified": false

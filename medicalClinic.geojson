@@ -91004,48 +91004,6 @@
     },
     {
       "type": "Feature",
-      "id": 78198,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9958433,
-          35.7800183
-        ]
-      },
-      "properties": {
-        "id": "MjY6MjE3NQ",
-        "city": "شهرستان کرج",
-        "name:fa": "مرکز درمانی کرج",
-        "province": "استان البرز",
-        "name:en": "Karaj Medical Center",
-        "city:en": "Karaj County",
-        "province:en": "Alborz",
-        "name:ar": "مركز كرج الطبي",
-        "city:ar": "مقاطعة كرج",
-        "province:ar": "ألبرز",
-        "name:he": "מרכז רפואי כרג'",
-        "city:he": "כרג'",
-        "province:he": "אלבורז",
-        "name:tr": "Kereç Sağlık Merkezi",
-        "city:tr": "Kereç Şehristanı",
-        "province:tr": "Elburz",
-        "name:ckb": "سەنتەری دەرمانیی کەرەج",
-        "city:ckb": "شارۆچکەی کەرەج",
-        "province:ckb": "ئەلبورز",
-        "publicId": "MjY6MjE3NQ",
-        "sourceId": "2175",
-        "layerId": 26,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:59:17.597Z",
-        "updatedAt": "2026-03-11T20:59:17.597Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 78199,
       "geometry": {
         "type": "Point",
@@ -230024,7 +229982,7 @@
     }
   ],
   "metadata": {
-    "total": 5485,
+    "total": 5484,
     "layerId": 26,
     "clustered": false,
     "simplified": false

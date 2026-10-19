@@ -90158,10 +90158,110 @@
         "createdAt": "2026-10-17T10:55:29.377Z",
         "updatedAt": "2026-10-17T10:55:29.377Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.83860621601343,
+          38.44703993248251
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه سپاه",
+        "unofficial_name:fa": "",
+        "description": "پایگاه سپاه و محل استقرار نیروها در روستای باغچه سرا شهرستان آستارا",
+        "date": 1792325687,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Sepah Base",
+        "description:en": "Sepah base and troop deployment location in Baghcheh Sara village, Astara County",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "قاعدة الحرس الثوري",
+        "description:ar": "قاعدة الحرس الثوري ومقر تمركز القوات في قرية باغتشه سرا بمقاطعة آستارا",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "בסיס משמרות המהפכה",
+        "description:he": "בסיס משמרות המהפכה ומקום הצבת כוחות בכפר באג'צ'ה סרא במחוז משנה אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Sepah Üssü",
+        "description:tr": "Astara ilçesinin Bahçesera köyünde bulunan Sepah üssü ve birliklerin konuşlanma yeri",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بنکەی سوپا",
+        "description:ckb": "بنکەی سوپا و شوێنی جێگیربوونی هێزەکان لە گوندی باغچەسەرای شارستانی ئاستارا",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTI6ZTFjMWE0OGZiYmE3",
+        "publicId": "MTI6ZTFjMWE0OGZiYmE3",
+        "sourceId": "e1c1a48fbba7",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-18T15:41:18.273Z",
+        "updatedAt": "2026-10-18T15:41:18.273Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.00253080428675,
+          30.397576995111905
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر نظامی سپاه رفسنجان",
+        "unofficial_name:fa": "",
+        "description": "محل سرکوب مردمی و مقر نظامی سپاه",
+        "date": 1792183367,
+        "city": "رفسنجان",
+        "province": "استان کرمان",
+        "name:en": "Rafsanjan IRGC Military Headquarters",
+        "description:en": "Site of public suppression and IRGC military headquarters",
+        "city:en": "Rafsanjan",
+        "province:en": "Kerman",
+        "name:ar": "المقر العسكري للحرس الثوري في رفسنجان",
+        "description:ar": "موقع القمع الشعبي والمقر العسكري للحرس الثوري",
+        "city:ar": "رفسنجان",
+        "province:ar": "كرمان",
+        "name:he": "המפקדה הצבאית של משמרות המהפכה ברפסנג'אן",
+        "description:he": "אתר דיכוי האזרחים ומפקדה צבאית של משמרות המהפכה",
+        "city:he": "רפסנג'אן",
+        "province:he": "כרמאן",
+        "name:tr": "Rafsancan Sepah Askeri Karargahı",
+        "description:tr": "Halkı bastırma yeri ve Sepah askeri karargahı",
+        "city:tr": "Rafsancan",
+        "province:tr": "Kirman",
+        "name:ckb": "بارەگای سەربازیی سوپای ڕەفسەنجان",
+        "description:ckb": "شوێنی سەرکوتکردنی جەماوەری و بارەگای سەربازیی سوپا",
+        "city:ckb": "ڕەفسەنجان",
+        "province:ckb": "کرمان",
+        "id": "MTI6MjA3YmM3M2MwNGJj",
+        "publicId": "MTI6MjA3YmM3M2MwNGJj",
+        "sourceId": "207bc73c04bc",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-18T16:01:18.528Z",
+        "updatedAt": "2026-10-18T16:01:22.472Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1095,
+    "total": 1097,
     "layerId": 12,
     "clustered": false,
     "simplified": false

@@ -246188,10 +246188,225 @@
         "createdAt": "2026-10-17T12:51:48.670Z",
         "updatedAt": "2026-10-17T12:51:48.670Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85301537811756,
+          38.4238414929801
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "مسجد شهرک نصیرنیا",
+        "date": 1792325056,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Mosque",
+        "description:en": "Shahrak-e Nasirnia Mosque",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مسجد",
+        "description:ar": "مسجد مجمع نصير نيا السكني",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסגד",
+        "description:he": "מסגד שכונת נסירניא",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Cami",
+        "description:tr": "Nasirniya Mahallesi Camii",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوت",
+        "description:ckb": "مزگەوتی شارۆچکەی نەسیرنیا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDozNGFjNmUxZjg2ZDY",
+        "publicId": "NDozNGFjNmUxZjg2ZDY",
+        "sourceId": "34ac6e1f86d6",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-18T15:38:16.606Z",
+        "updatedAt": "2026-10-18T15:38:16.606Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.870310597121716,
+          38.43711756542746
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "محل تجمع و نماز جمعه نیروهای حکومتی و سرکوب در امام خمینی ۱۸، دهستان ویرمونی",
+        "date": 1792325312,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Mosque",
+        "description:en": "Gathering place and Friday prayer location for regime and repressive forces at Emam Khomeini 18, Virmoni Rural District",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مسجد",
+        "description:ar": "مكان تجمع وصلاة الجمعة للقوات الحكومية وقوات القمع في إمام خميني 18، قسم ويرموني الريفي.",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסגד",
+        "description:he": "מקום התכנסות ותפילת יום שישי של כוחות הממשל והדיכוי באמאם ח'ומייני 18, תת-מחוז וירמוני",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Cami",
+        "description:tr": "İmam Humeyni 18, Virmuni beldesinde hükümet ve baskı güçlerinin toplanma ve Cuma namazı yeri.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوت",
+        "description:ckb": "شوێنی کۆبوونەوە و نوێژی هەینیی هێزەکانی حکومەت و سەرکوتکەر لە ئیمام خومەینی 18، دێهستانی ڤێرموونی",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDo4MTMyZjJkZTk0Zjc",
+        "publicId": "NDo4MTMyZjJkZTk0Zjc",
+        "sourceId": "8132f2de94f7",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-18T15:40:00.284Z",
+        "updatedAt": "2026-10-18T15:40:00.284Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.378104288131,
+          32.40384434560826
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد موعود دانشگاه آزاد دزفول",
+        "description": "مسجد موعود دانشگاه آزاد دزفول",
+        "date": 1792266276,
+        "city": "دزفول",
+        "province": "استان خوزستان",
+        "name:en": "Mau'od Mosque, Dezful Azad University",
+        "description:en": "Mau'od Mosque, Dezful Azad University",
+        "city:en": "Dezful",
+        "province:en": "Khuzestan",
+        "name:ar": "مسجد موعود جامعة آزاد في دزفول",
+        "description:ar": "مسجد موعود جامعة آزاد في دزفول",
+        "city:ar": "دزفول",
+        "province:ar": "خوزستان",
+        "name:he": "מסגד מועוד, אוניברסיטת אזאד דזפול",
+        "description:he": "מסגד מועוד, אוניברסיטת אזאד דזפול",
+        "city:he": "דזפול",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Dezful Azad Üniversitesi Mevud Mescidi",
+        "description:tr": "Dezful Azad Üniversitesi Mevud Mescidi",
+        "city:tr": "Dezful",
+        "province:tr": "Huzistan",
+        "name:ckb": "مزگەوتی مەوعوودی زانکۆی ئازادی دزفوول",
+        "description:ckb": "مزگەوتی مەوعوودی زانکۆی ئازادی دزفوول",
+        "city:ckb": "دزفوول",
+        "province:ckb": "خووزستان",
+        "id": "NDpmYjk4NTBhZWQ2YzA",
+        "publicId": "NDpmYjk4NTBhZWQ2YzA",
+        "sourceId": "fb9850aed6c0",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-18T15:52:44.952Z",
+        "updatedAt": "2026-10-18T15:52:44.952Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96228,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.847106796607704,
+              28.91487553719395
+            ],
+            [
+              50.84791792944472,
+              28.914810500037916
+            ],
+            [
+              50.84801789299843,
+              28.916038694836388
+            ],
+            [
+              50.84732957252817,
+              28.916083720031367
+            ],
+            [
+              50.84717534304505,
+              28.915973658408802
+            ],
+            [
+              50.847106796607704,
+              28.91487553719395
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجدالنّبی",
+        "description": "",
+        "date": "",
+        "city": "بوشهر",
+        "province": "استان بوشهر",
+        "name:en": "Masjed-ol-Nabi",
+        "city:en": "Bushehr",
+        "province:en": "Bushehr",
+        "name:ar": "مسجد النبي",
+        "city:ar": "بوشهر",
+        "province:ar": "بوشهر",
+        "name:he": "מסגד אל-נבי",
+        "city:he": "בושהר",
+        "province:he": "בושהר",
+        "name:tr": "Mescid-i Nebi",
+        "city:tr": "Buşehr",
+        "province:tr": "Buşehr",
+        "name:ckb": "مزگەوتی نەبی",
+        "city:ckb": "بووشەهر",
+        "province:ckb": "بووشەھر",
+        "id": "NDozYjVkYzRiYTRkYTI",
+        "publicId": "NDozYjVkYzRiYTRkYTI",
+        "sourceId": "3b5dc4ba4da2",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-18T15:57:01.383Z",
+        "updatedAt": "2026-10-18T15:57:01.383Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5709,
+    "total": 5713,
     "layerId": 4,
     "clustered": false,
     "simplified": false

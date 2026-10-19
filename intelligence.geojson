@@ -19715,10 +19715,78 @@
         "createdAt": "2026-10-13T11:19:30.362Z",
         "updatedAt": "2026-10-13T11:19:30.362Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96231,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              53.41394902936125,
+              36.67955230245016
+            ],
+            [
+              53.41406788384779,
+              36.6795901224732
+            ],
+            [
+              53.414651910206345,
+              36.67990254803726
+            ],
+            [
+              53.41476666626244,
+              36.67917574555649
+            ],
+            [
+              53.41402485032677,
+              36.67903926378179
+            ],
+            [
+              53.41394902936125,
+              36.67955230245016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "گزارش شده ازین محل اطلاعات سپاه برای شکنجه و اعترافگیری استفاده میکنه.",
+        "date": "",
+        "city": "شهرستان بهشهر",
+        "province": "استان مازندران",
+        "description:en": "It is reported that IRGC Intelligence uses this location for torture and obtaining forced confessions.",
+        "city:en": "Behshahr",
+        "province:en": "Mazandaran",
+        "description:tr": "Bu yerin Devrim Muhafızları İstihbaratı tarafından işkence ve itiraf almak için kullanıldığı bildirilmektedir.",
+        "city:tr": "Behşehr",
+        "province:tr": "Mazenderan",
+        "description:ckb": "ڕاپۆرت کراوە کە ئیتلاعاتی سوپا ئەم شوێنە بۆ ئەشکەنجەدان و ئیعتیراف لێوەرگرتن بەکاردەهێنێت.",
+        "city:ckb": "شارستانی بەهشەهر",
+        "province:ckb": "مازەندەران",
+        "description:ar": "تم الإبلاغ عن أن استخبارات الحرس الثوري تستخدم هذا الموقع للتعذيب وانتزاع الاعترافات.",
+        "city:ar": "قضاء بهشهر",
+        "province:ar": "مازندران",
+        "description:he": "דווח כי מקום זה משמש את מודיעין משמרות המהפכה לעינויים ולחילוץ הודאות.",
+        "city:he": "בהשהר",
+        "province:he": "מאזנדראן",
+        "id": "Mjo1YWRjYWVhZGExODk",
+        "publicId": "Mjo1YWRjYWVhZGExODk",
+        "sourceId": "5adcaeada189",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-18T16:03:05.974Z",
+        "updatedAt": "2026-10-18T16:03:16.279Z"
+      }
     }
   ],
   "metadata": {
-    "total": 368,
+    "total": 369,
     "layerId": 2,
     "clustered": false,
     "simplified": false

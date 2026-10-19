@@ -162399,90 +162399,6 @@
     },
     {
       "type": "Feature",
-      "id": 64302,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9922628,
-          35.7792081
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MzkwMg",
-        "city": "شهرستان کرج",
-        "name:fa": "داروخانه نیایش (دکتر ناهید پورمنصفی)",
-        "province": "استان البرز",
-        "name:en": "Niayesh Pharmacy (Dr. Nahid Pourmonsefi)",
-        "city:en": "Karaj County",
-        "province:en": "Alborz",
-        "name:ar": "صيدلية نيايش (الدكتورة ناهيد بور منصفي)",
-        "city:ar": "مقاطعة كرج",
-        "province:ar": "ألبرز",
-        "name:he": "בית מרקחת ניאיש (ד\"ר נאהיד פורמונספי)",
-        "city:he": "כרג'",
-        "province:he": "אלבורז",
-        "name:tr": "Niyayeş Eczanesi (Dr. Nahid Purmonsefi)",
-        "city:tr": "Kerec Şehristanı",
-        "province:tr": "Elburz",
-        "name:ckb": "دەرمانخانەی نیایش (دکتۆر ناهید پورمونسفی)",
-        "city:ckb": "شارستانی کەرەج",
-        "province:ckb": "ئەلبورز",
-        "publicId": "Mjc6MzkwMg",
-        "sourceId": "3902",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.283Z",
-        "updatedAt": "2026-03-11T20:58:47.283Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 64303,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9944153,
-          35.7785118
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MzkwMw",
-        "city": "شهرستان کرج",
-        "name:fa": "داروخانه مركزی بنفشه",
-        "province": "استان البرز",
-        "name:en": "Banafsheh Central Pharmacy",
-        "city:en": "Karaj County",
-        "province:en": "Alborz",
-        "name:ar": "صيدلية بنفسجة المركزية",
-        "city:ar": "مقاطعة كرج",
-        "province:ar": "ألبرز",
-        "name:he": "בית מרקחת מרכזי בנפשה",
-        "city:he": "כרג'",
-        "province:he": "אלבורז",
-        "name:tr": "Banafşe Merkez Eczanesi",
-        "city:tr": "Kerec Şehristanı",
-        "province:tr": "Elburz",
-        "name:ckb": "دەرمانخانەی مەرکەزیی بنەوشە",
-        "city:ckb": "شارستانی کەرەج",
-        "province:ckb": "ئەلبورز",
-        "publicId": "Mjc6MzkwMw",
-        "sourceId": "3903",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.283Z",
-        "updatedAt": "2026-03-11T20:58:47.283Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 64304,
       "geometry": {
         "type": "Point",
@@ -511160,48 +511076,6 @@
     },
     {
       "type": "Feature",
-      "id": 72662,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9922634,
-          35.7806767
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MTIyNjI",
-        "city": "شهرستان کرج",
-        "name:fa": "داروخانه",
-        "province": "استان البرز",
-        "name:en": "Pharmacy",
-        "city:en": "Karaj",
-        "province:en": "Alborz",
-        "name:ar": "صيدلية",
-        "city:ar": "مقاطعة كرج",
-        "province:ar": "ألبرز",
-        "name:he": "בית מרקחת",
-        "city:he": "כראג'",
-        "province:he": "אלבורז",
-        "name:tr": "Eczane",
-        "city:tr": "Kereç",
-        "province:tr": "Elburz",
-        "name:ckb": "دەرمانخانە",
-        "city:ckb": "شارستانی کەرەج",
-        "province:ckb": "ئەلبورز",
-        "publicId": "Mjc6MTIyNjI",
-        "sourceId": "12262",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:50.795Z",
-        "updatedAt": "2026-03-11T20:58:50.795Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 72663,
       "geometry": {
         "type": "Point",
@@ -651563,10 +651437,54 @@
         "createdAt": "2026-10-10T15:43:40.088Z",
         "updatedAt": "2026-10-10T15:43:40.088Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.99570114512187,
+          35.77989266569237
+        ]
+      },
+      "properties": {
+        "name:fa": "داروخانه بنفشه",
+        "description": "",
+        "date": "",
+        "city": "شهرستان کرج",
+        "province": "استان البرز",
+        "name:en": "Banafsheh Pharmacy",
+        "city:en": "Karaj County",
+        "province:en": "Alborz",
+        "name:ar": "صيدلية بنفشه",
+        "city:ar": "مقاطعة كرج",
+        "province:ar": "ألبرز",
+        "name:tr": "Banafşe Eczanesi",
+        "city:tr": "Kereç",
+        "province:tr": "Elburz",
+        "name:ckb": "دەرمانخانەی بنەوشە",
+        "city:ckb": "شارستانی کەرەج",
+        "province:ckb": "ئەلبورز",
+        "name:he": "בית מרקחת בנפשה",
+        "city:he": "כראג'",
+        "province:he": "אלבורז",
+        "id": "Mjc6MjQ5MTQ0OTA1YTJk",
+        "publicId": "Mjc6MjQ5MTQ0OTA1YTJk",
+        "sourceId": "249144905a2d",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-18T15:51:43.748Z",
+        "updatedAt": "2026-10-18T15:51:43.748Z"
+      }
     }
   ],
   "metadata": {
-    "total": 15604,
+    "total": 15602,
     "layerId": 27,
     "clustered": false,
     "simplified": false

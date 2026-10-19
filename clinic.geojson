@@ -196287,48 +196287,6 @@
     },
     {
       "type": "Feature",
-      "id": 51656,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9917451,
-          35.7795334
-        ]
-      },
-      "properties": {
-        "id": "MjM6NDY4NQ",
-        "city": "شهرستان کرج",
-        "name:fa": "درمانگاه هوشمند",
-        "province": "استان البرز",
-        "name:en": "Hoshmand Clinic",
-        "city:en": "Karaj County",
-        "province:en": "Alborz",
-        "name:ar": "مستوصف هوشمند",
-        "city:ar": "مقاطعة كرج",
-        "province:ar": "ألبرز",
-        "name:he": "מרפאת הושמנד",
-        "city:he": "נפת כרג'",
-        "province:he": "אלבורז",
-        "name:tr": "Huşmend Polikliniği",
-        "city:tr": "Kerec Şehristanı",
-        "province:tr": "Elburz",
-        "name:ckb": "دەرمانگەی هوشمەند",
-        "city:ckb": "شارستانی کەرەج",
-        "province:ckb": "ئەلبورز",
-        "publicId": "MjM6NDY4NQ",
-        "sourceId": "4685",
-        "layerId": 23,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:01.403Z",
-        "updatedAt": "2026-03-11T20:58:01.403Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 51657,
       "geometry": {
         "type": "Point",
@@ -226308,6 +226266,50 @@
         "expirationDate": null,
         "createdAt": "2026-09-07T07:09:56.658Z",
         "updatedAt": "2026-09-07T07:09:56.658Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.99453382073679,
+          35.781379113992315
+        ]
+      },
+      "properties": {
+        "name:fa": "درمانگاه شبانه روزی بنفشه",
+        "description": "",
+        "date": "",
+        "city": "شهرستان کرج",
+        "province": "استان البرز",
+        "name:en": "Banafsheh 24-Hour Clinic",
+        "city:en": "Karaj County",
+        "province:en": "Alborz",
+        "name:ar": "عيادة بنفشه على مدار 24 ساعة",
+        "city:ar": "مقاطعة كرج",
+        "province:ar": "ألبرز",
+        "name:he": "מרפאת 24 שעות בנפשה",
+        "city:he": "כרג'",
+        "province:he": "אלבורז",
+        "name:tr": "Banafsheh 24 Saat Açık Polikliniği",
+        "city:tr": "Kereç İlçesi",
+        "province:tr": "Elburz",
+        "name:ckb": "دەرمانگەی شەوانەڕۆژیی بەنەوشە",
+        "city:ckb": "شارستانی کەرەج",
+        "province:ckb": "ئەلبورز",
+        "id": "MjM6NTdjZGMwOWI5NWVi",
+        "publicId": "MjM6NTdjZGMwOWI5NWVi",
+        "sourceId": "57cdc09b95eb",
+        "layerId": 23,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-18T15:50:21.590Z",
+        "updatedAt": "2026-10-18T15:50:21.590Z"
       }
     }
   ],

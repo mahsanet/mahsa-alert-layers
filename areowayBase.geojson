@@ -30692,10 +30692,112 @@
         "createdAt": "2026-10-12T11:43:27.230Z",
         "updatedAt": "2026-10-12T11:43:27.230Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.26660872588795,
+          35.694516378475896
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه هوایی و دفتر تولید پهپاد",
+        "name:fa:military": "",
+        "unofficial_name:fa": "",
+        "description": "پادگان نیروی هوایی و دفتر تولید و ورودی/خروجی قطعات پهپاد در پوشش شرکت هواپیمایی کاسپین در تهرانسر",
+        "date": 1792033533,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Air Base and Drone Production Office",
+        "description:en": "Air Force garrison and drone parts production office and import/export facility under the cover of Caspian Airlines in Tehransar.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "قاعدة جوية ومكتب إنتاج طائرات مسيرة",
+        "description:ar": "ثكنة القوات الجوية ومكتب إنتاج ودخول/خروج قطع الطائرات المسيرة تحت غطاء شركة كاسبيان للطيران في طهرانسر",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:tr": "Hava Üssü ve İHA Üretim Ofisi",
+        "description:tr": "Tehranser'de Caspian Airlines şirketi kılıfı altında Hava Kuvvetleri garnizonu ve İHA parçalarının üretim ile giriş/çıkış ofisi.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "بنکەی ئاسمانی و نووسینگەی بەرهەمهێنانی فڕۆکەی بێفڕۆکەوان",
+        "description:ckb": "سەربازگەی هێزی ئاسمانی و نووسینگەی بەرهەمهێنان و هاتنەژوورەوە/چوونەدەرەوەی پارچەکانی فڕۆکەی بێفڕۆکەوان لەژێر پەردەی کۆمپانیای هێڵی ئاسمانیی کاسپیەن لە تارانسر",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "name:he": "בסיס חיל האוויר ומשרד לייצור כטב\"מים",
+        "description:he": "בסיס חיל האוויר, משרד ייצור ונקודת כניסה/יציאה של חלקי כטב\"מים בכסות חברת התעופה כספיאן בטהראנסאר",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "id": "MTA6ZmIwMjA4YTY0Mzgx",
+        "publicId": "MTA6ZmIwMjA4YTY0Mzgx",
+        "sourceId": "fb0208a64381",
+        "layerId": 10,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-18T15:47:03.262Z",
+        "updatedAt": "2026-10-18T15:47:56.494Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.421691957861185,
+          29.44192902707333
+        ]
+      },
+      "properties": {
+        "name:fa": "سوله پهباد",
+        "name:fa:military": "",
+        "unofficial_name:fa": "",
+        "description": "سوله پهباد",
+        "date": 1792306747,
+        "city": "شهرستان شیراز",
+        "province": "استان فارس",
+        "name:en": "Drone Hangar",
+        "description:en": "Drone Hangar",
+        "city:en": "Shiraz County",
+        "province:en": "Fars",
+        "name:ar": "حظيرة طائرات مسيرة",
+        "description:ar": "حظيرة طائرات مسيرة",
+        "city:ar": "مقاطعة شيراز",
+        "province:ar": "فارس",
+        "name:he": "האנגר כטב\"מים",
+        "description:he": "האנגר כטב\"מים",
+        "city:he": "מחוז משנה שיראז",
+        "province:he": "פארס",
+        "name:tr": "İHA Hangarı",
+        "description:tr": "İHA Hangarı",
+        "city:tr": "Şiraz İlçesi",
+        "province:tr": "Fars",
+        "name:ckb": "سۆلەی فڕۆکەی بێفڕۆکەوان",
+        "description:ckb": "سۆلەی فڕۆکەی بێفڕۆکەوان",
+        "city:ckb": "شارستانی شیراز",
+        "province:ckb": "فارس",
+        "id": "MTA6YWIwOGNmOGRjYTA4",
+        "publicId": "MTA6YWIwOGNmOGRjYTA4",
+        "sourceId": "ab08cf8dca08",
+        "layerId": 10,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-18T15:55:03.904Z",
+        "updatedAt": "2026-10-18T15:55:03.904Z"
+      }
     }
   ],
   "metadata": {
-    "total": 218,
+    "total": 220,
     "layerId": 10,
     "clustered": false,
     "simplified": false

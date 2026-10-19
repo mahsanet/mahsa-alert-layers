@@ -134328,48 +134328,6 @@
     },
     {
       "type": "Feature",
-      "id": 46657,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.3765297,
-          32.4046552
-        ]
-      },
-      "properties": {
-        "id": "MjU6Mjg0NDY",
-        "city": "دزفول",
-        "name:fa": "پزشکی قانونی",
-        "province": "استان خوزستان",
-        "name:en": "Forensic Medicine",
-        "city:en": "Dezful",
-        "province:en": "Khuzestan",
-        "name:ar": "الطب الشرعي",
-        "city:ar": "دزفول",
-        "province:ar": "خوزستان",
-        "name:he": "המכון לרפואה משפטית",
-        "city:he": "דזפול",
-        "province:he": "ח'וזסתאן",
-        "name:tr": "Adli Tıp Kurumu",
-        "city:tr": "Dizful",
-        "province:tr": "Huzistan",
-        "name:ckb": "پزیشکیی دادوەری",
-        "city:ckb": "دزفوول",
-        "province:ckb": "خووزستان",
-        "publicId": "MjU6Mjg0NDY",
-        "sourceId": "28446",
-        "layerId": 25,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:57:47.793Z",
-        "updatedAt": "2026-03-11T20:57:47.793Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 46658,
       "geometry": {
         "type": "Point",
@@ -148320,7 +148278,7 @@
     }
   ],
   "metadata": {
-    "total": 3534,
+    "total": 3533,
     "layerId": 25,
     "clustered": false,
     "simplified": false
