@@ -90258,10 +90258,91 @@
         "createdAt": "2026-10-18T16:01:18.528Z",
         "updatedAt": "2026-10-18T16:01:22.472Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96242,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.31303142605438,
+              35.677011064082436
+            ],
+            [
+              50.31287269361721,
+              35.677164855224035
+            ],
+            [
+              50.31293754498273,
+              35.67751419660078
+            ],
+            [
+              50.314631255777726,
+              35.67725369321067
+            ],
+            [
+              50.31451054049151,
+              35.676793455263436
+            ],
+            [
+              50.3142892624175,
+              35.676846735994005
+            ],
+            [
+              50.31402009728737,
+              35.67589662858266
+            ],
+            [
+              50.31292159293895,
+              35.6759812412581
+            ],
+            [
+              50.31303142605438,
+              35.677011064082436
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "رنج تیراندازی",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان اشتهارد",
+        "province": "استان البرز",
+        "name:en": "Shooting Range",
+        "city:en": "Eshtehard County",
+        "province:en": "Alborz",
+        "name:ar": "ميدان الرماية",
+        "city:ar": "مقاطعة اشتهارد",
+        "province:ar": "ألبرز",
+        "name:he": "מטווח ירי",
+        "city:he": "נפת אשתהארד",
+        "province:he": "אלבורז",
+        "name:tr": "Atış Poligonu",
+        "city:tr": "Eshtehard",
+        "province:tr": "Elburz",
+        "name:ckb": "مەودای تەقەکردن",
+        "city:ckb": "شارستانی ئیشتەهارد",
+        "province:ckb": "ئەلبورز",
+        "id": "MTI6M2MxZmZmNzVlZmE0",
+        "publicId": "MTI6M2MxZmZmNzVlZmE0",
+        "sourceId": "3c1fff75efa4",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-19T14:41:16.256Z",
+        "updatedAt": "2026-10-19T14:41:16.256Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1097,
+    "total": 1098,
     "layerId": 12,
     "clustered": false,
     "simplified": false

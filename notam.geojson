@@ -3,82 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 95803,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              46.85,
-              35.416667
-            ],
-            [
-              47,
-              35.416667
-            ],
-            [
-              46.85,
-              35.25
-            ],
-            [
-              46.75,
-              35.333333
-            ],
-            [
-              46.85,
-              35.416667
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "fir": "منطقه پروازی تهران (ایران)",
-        "city": "شهرستان سنندج",
-        "date": 1792236600,
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · سنندج",
-        "validTo": "۱۴۰۵/۰۷/۳۰، ۱۸:۰۰",
-        "province": "استان کردستان",
-        "validFrom": "۱۴۰۵/۰۷/۲۵، ۱۵:۰۰",
-        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
-        "notamNumber": "A2168/26",
-        "notamSource": "FAA NMS-API",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
-        "description:en": "Firing will take place within the specified area.",
-        "description:he": "ירי יבוצע באזור המצוין.",
-        "description:tr": "Belirtilen alanda atış yapılacaktır.",
-        "description:ckb": "تەقەکردن لە مەودای دیاریکراودا ئەنجام دەدرێت.",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · ئاگاداریی ڕێبەری · سنە",
-        "city:ckb": "شارستانی سنە",
-        "province:ckb": "کوردستان",
-        "name:en": "Aviation Notice · Navigation Warning · Sanandaj",
-        "city:en": "Sanandaj",
-        "province:en": "Kurdistan",
-        "name:ar": "إشعار طيران · تحذير ملاحي · سنندج",
-        "city:ar": "مقاطعة سنندج",
-        "province:ar": "كردستان",
-        "name:he": "הודעת תעופה · אזהרת ניווט · סננדג'",
-        "city:he": "סננדג'",
-        "province:he": "כורדיסטאן",
-        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Senendec",
-        "city:tr": "Senendec",
-        "province:tr": "Kürdistan",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjE2OC0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjE2OC0yNg",
-        "sourceId": "notam-oiix-a2168-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-22T14:30:00.000Z",
-        "createdAt": "2026-10-07T04:35:28.701Z",
-        "updatedAt": "2026-10-10T08:37:45.445Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 95805,
       "geometry": {
         "type": "Polygon",
@@ -151,84 +75,6 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-10-07T04:35:41.785Z",
-        "updatedAt": "2026-10-10T08:37:45.445Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 95806,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              46,
-              35.85
-            ],
-            [
-              46.1,
-              35.93333
-            ],
-            [
-              46.11667,
-              36
-            ],
-            [
-              46,
-              36
-            ],
-            [
-              46,
-              35.85
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "fir": "منطقه پروازی تهران (ایران)",
-        "city": "شهرستان بانه",
-        "date": 1791024000,
-        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · بانه (OID125)",
-        "validTo": "۱۴۰۵/۰۷/۳۰، ۲۲:۰۰",
-        "province": "استان کردستان",
-        "replaces": "A2112/26",
-        "areaCodes": "OID125",
-        "validFrom": "۱۴۰۵/۰۷/۱۱، ۱۴:۱۰",
-        "description": "بر اساس نشریه اطلاعات هوانوردی، محدوده پروازی مشخص‌شده فعال شده است. این منطقه در حال حاضر فعال اعلام شده است.",
-        "notamNumber": "A2198/26",
-        "notamSource": "FAA NMS-API",
-        "shapeSource": "منطقه OID125 طبق AIP ایران",
-        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
-        "description:ar": "وفقاً لنشرة معلومات الطيران، تم تفعيل منطقة الطيران المحددة. أُعلنت هذه المنطقة نشطة حالياً.",
-        "description:en": "According to the Aeronautical Information Publication, the specified flight area has been activated. This zone is currently declared active.",
-        "description:tr": "Havacılık Bilgi Yayınında belirtildiği üzere, belirlenen uçuş alanı aktif hale getirilmiştir. Bu bölge şu anda aktif olarak ilan edilmiştir.",
-        "description:ckb": "بەپێی بڵاوکراوەی زانیاریی فڕۆکەوانی، مەودای فڕینی دیاریکراو چالاک کراوە. ئەم ناوچەیە لە ئێستادا بە چالاک ڕاگەیەندراوە.",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشاییی ئاسمانی · بانه (OID125)",
-        "city:ckb": "شارستانی بانه",
-        "province:ckb": "کوردستان",
-        "name:en": "Aviation Notice · Airspace Restriction · Baneh (OID125)",
-        "city:en": "Baneh",
-        "province:en": "Kurdistan",
-        "name:ar": "إشعار طيران · قيود المجال الجوي · بانه (OID125)",
-        "city:ar": "مقاطعة بانه",
-        "province:ar": "كردستان",
-        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Bane (OID125)",
-        "city:tr": "Bane",
-        "province:tr": "Kürdistan",
-        "name:he": "הודעת תעופה · הגבלת המרחב האווירי · באנה (OID125)",
-        "description:he": "על פי פרסום המידע התעופתי, אזור הטיסה המצוין הופעל. אזור זה הוכרז כעת כפעיל.",
-        "city:he": "נפת באנה",
-        "province:he": "כורדיסטאן",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjE5OC0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjE5OC0yNg",
-        "sourceId": "notam-oiix-a2198-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-22T18:30:00.000Z",
-        "createdAt": "2026-10-07T04:35:49.828Z",
         "updatedAt": "2026-10-10T08:37:45.445Z"
       }
     },
@@ -1256,84 +1102,6 @@
     },
     {
       "type": "Feature",
-      "id": 95910,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              60.35,
-              35
-            ],
-            [
-              60.51667,
-              34.98333
-            ],
-            [
-              60.63333,
-              35.16667
-            ],
-            [
-              60.35,
-              35.18333
-            ],
-            [
-              60.35,
-              35
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · باخرز (OID121)",
-        "description": "پیرو اطلاعات هوانوردی منتشرشده، محدوده مشخص‌شده فعال گردیده است.",
-        "notamNumber": "A2248/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
-        "validFrom": "۱۴۰۵/۰۷/۲۵، ۰۷:۰۰",
-        "validTo": "۱۴۰۵/۰۷/۳۰، ۲۳:۰۰",
-        "shapeSource": "منطقه OID121 طبق AIP ایران",
-        "notamSource": "FAA NMS-API",
-        "date": 1792207800,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "areaCodes": "OID121",
-        "city": "شهرستان باخرز",
-        "province": "استان خراسان رضوی",
-        "name:en": "Aeronautical Notice · Airspace Restriction · Bakharz (OID121)",
-        "description:en": "Following the published aeronautical information, the designated area has been activated.",
-        "city:en": "Bakharz",
-        "province:en": "Razavi Khorasan",
-        "name:ar": "إشعار الطيران · قيود المجال الجوي · باخرز (OID121)",
-        "description:ar": "وفقاً لمعلومات الطيران المنشورة، تم تفعيل المنطقة المحددة.",
-        "city:ar": "مقاطعة باخرز",
-        "province:ar": "خراسان رضوي",
-        "name:he": "הודעת תעופה · הגבלת המרחב האווירי · באחרז (OID121)",
-        "description:he": "בהמשך למידע התעופתי שפורסם, האזור המוגדר הופעל.",
-        "city:he": "מחוז משנה באחרז",
-        "province:he": "ח'וראסאן רזאווי",
-        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Bakharz (OID121)",
-        "description:tr": "Yayımlanan havacılık bilgilerine göre, belirlenen alan aktif hale getirilmiştir.",
-        "city:tr": "Bakharz",
-        "province:tr": "Razavi Horasan",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشاییی ئاسمانی · باخەرز (OID121)",
-        "description:ckb": "بەپێی زانیارییە بڵاوکراوەکانی فڕۆکەوانی، ناوچەی دیاریکراو چالاک کراوە.",
-        "city:ckb": "شارستانی باخەرز",
-        "province:ckb": "خوراسانی ڕەزەوی",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjI0OC0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjI0OC0yNg",
-        "sourceId": "notam-oiix-a2248-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-22T19:30:00.000Z",
-        "createdAt": "2026-10-10T10:47:02.294Z",
-        "updatedAt": "2026-10-10T10:47:02.294Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 95911,
       "geometry": {
         "type": "Polygon",
@@ -1490,84 +1258,6 @@
     },
     {
       "type": "Feature",
-      "id": 95913,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              47.73333,
-              37.06667
-            ],
-            [
-              47.71667,
-              37.11667
-            ],
-            [
-              47.65,
-              37.11667
-            ],
-            [
-              47.66667,
-              37.06667
-            ],
-            [
-              47.73333,
-              37.06667
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · میانه (OID124)",
-        "description": "محدوده مشخص‌شده فعال شده است. برای اطلاعات بیشتر به بخش مربوطه در نشریه اطلاعات هوانوردی ارجاع داده شده است.",
-        "notamNumber": "A2252/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
-        "validFrom": "۱۴۰۵/۰۷/۲۰، ۰۷:۰۰",
-        "validTo": "۱۴۰۵/۰۷/۲۷، ۲۲:۰۰",
-        "shapeSource": "منطقه OID124 طبق AIP ایران",
-        "notamSource": "FAA NMS-API",
-        "date": 1791775800,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "areaCodes": "OID124",
-        "city": "شهرستان میانه",
-        "province": "استان آذربایجان شرقی",
-        "name:en": "Aeronautical Notice · Airspace Restriction · Miyaneh (OID124)",
-        "description:en": "The designated area has been activated. For more information, reference is made to the relevant section in the Aeronautical Information Publication.",
-        "city:en": "Miyaneh",
-        "province:en": "East Azerbaijan",
-        "name:ar": "إشعار للطيران · قيود المجال الجوي · ميانه (OID124)",
-        "description:ar": "تم تفعيل المنطقة المحددة. وللمزيد من المعلومات، يُرجى الرجوع إلى القسم ذي الصلة في دليل معلومات الطيران.",
-        "city:ar": "مقاطعة ميانه",
-        "province:ar": "أذربيجان الشرقية",
-        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Miyane (OID124)",
-        "description:tr": "Belirtilen bölge aktif hale getirilmiştir. Daha fazla bilgi için Havacılık Bilgi Yayını'nın ilgili bölümüne atıfta bulunulmuştur.",
-        "city:tr": "Miyane",
-        "province:tr": "Doğu Azerbaycan",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشاییی ئاسمانی · میانە (OID124)",
-        "description:ckb": "ناوچەی دیاریکراو چالاک کراوە. بۆ زانیاریی زیاتر ئاماژە بە بەشی پەیوەندیدار لە بڵاوکراوەی زانیارییەکانی فڕۆکەوانیدا کراوە.",
-        "city:ckb": "شارستانی میانە",
-        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
-        "name:he": "הודעה לתעופה · הגבלת המרחב האווירי · מיאנה (OID124)",
-        "description:he": "האזור המוגדר הופעל. למידע נוסף יש לעיין בסעיף הרלוונטי בפרסום המידע התעופתי.",
-        "city:he": "מיאנה",
-        "province:he": "אזרבייג'ן המזרחית",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjI1Mi0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjI1Mi0yNg",
-        "sourceId": "notam-oiix-a2252-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-19T18:30:00.000Z",
-        "createdAt": "2026-10-10T10:47:33.108Z",
-        "updatedAt": "2026-10-10T10:47:33.108Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 95914,
       "geometry": {
         "type": "Polygon",
@@ -1641,85 +1331,6 @@
         "expirationDate": "2026-10-22T20:30:00.000Z",
         "createdAt": "2026-10-10T11:02:00.238Z",
         "updatedAt": "2026-10-10T11:02:00.238Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 95959,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              47.76667,
-              37.86667
-            ],
-            [
-              47.88333,
-              37.85
-            ],
-            [
-              47.86667,
-              37.95
-            ],
-            [
-              47.75,
-              37.93333
-            ],
-            [
-              47.76667,
-              37.86667
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · سراب (OID126)",
-        "description": "محدوده مشخص‌شده فعال شده است. برای کسب اطلاعات بیشتر به صفحه مربوطه در مجموعه اطلاعات هوانوردی (AIP) ارجاع داده شده است.",
-        "notamNumber": "A2282/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
-        "validFrom": "۱۴۰۵/۰۷/۲۰، ۱۳:۴۸",
-        "validTo": "۱۴۰۵/۰۷/۳۰، ۲۰:۰۰",
-        "shapeSource": "منطقه OID126 طبق AIP ایران",
-        "notamSource": "FAA NMS-API",
-        "date": 1791800280,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "replaces": "A2199/26",
-        "areaCodes": "OID126",
-        "city": "شهرستان سراب",
-        "province": "استان آذربایجان شرقی",
-        "name:en": "Aeronautical Notice · Airspace Restriction · Sarab (OID126)",
-        "description:en": "The specified area has been activated. For more information, reference is made to the relevant page in the Aeronautical Information Publication (AIP).",
-        "city:en": "Sarab",
-        "province:en": "East Azerbaijan",
-        "name:ar": "إشعار الطيران · قيود المجال الجوي · سراب (OID126)",
-        "description:ar": "تم تنشيط المنطقة المحددة. للحصول على مزيد من المعلومات، يُرجى الرجوع إلى الصفحة المعنية في دليل معلومات الطيران (AIP).",
-        "city:ar": "مقاطعة سراب",
-        "province:ar": "أذربيجان الشرقية",
-        "name:he": "הודעה לתעופה · הגבלת מרחב אווירי · סראב (OID126)",
-        "description:he": "האזור המוגדר הופעל. לקבלת מידע נוסף, יש לעיין בדף הרלוונטי בפרסום מידע תעופתי (AIP).",
-        "city:he": "סראב",
-        "province:he": "אזרבייג'ן המזרחית",
-        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Sarab (OID126)",
-        "description:tr": "Belirtilen alan aktif hâle getirilmiştir. Daha fazla bilgi için Havacılık Bilgi Yayını (AIP) üzerindeki ilgili sayfaya yönlendirilmiştir.",
-        "city:tr": "Sarab",
-        "province:tr": "Doğu Azerbaycan",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشایی ئاسمانی · سەراب (OID126)",
-        "description:ckb": "ناوچەی دیاریکراو چالاک کراوە. بۆ وەرگرتنی زانیاریی زیاتر ئاماژە بە لاپەڕەی پەیوەندیدار لە کۆمەڵەی زانیاریی فڕۆکەوانیدا (AIP) کراوە.",
-        "city:ckb": "شارستانی سەراب",
-        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjI4Mi0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjI4Mi0yNg",
-        "sourceId": "notam-oiix-a2282-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-22T16:30:00.000Z",
-        "createdAt": "2026-10-12T10:29:37.957Z",
-        "updatedAt": "2026-10-12T10:29:37.957Z"
       }
     },
     {
@@ -2581,10 +2192,325 @@
         "createdAt": "2026-10-17T05:09:45.111Z",
         "updatedAt": "2026-10-17T05:09:45.111Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96236,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46,
+              35.85
+            ],
+            [
+              46.1,
+              35.93333
+            ],
+            [
+              46.11667,
+              36
+            ],
+            [
+              46,
+              36
+            ],
+            [
+              46,
+              35.85
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · بانه (OID125)",
+        "description": "بر اساس کتاب اطلاعات هوانوردی، محدوده مشخص‌شده فعال است.",
+        "notamNumber": "A2333/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۷/۲۷، ۱۳:۰۲",
+        "validTo": "۱۴۰۵/۰۸/۰۷، ۲۲:۰۰",
+        "shapeSource": "منطقه OID125 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1792402320,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "A2198/26",
+        "areaCodes": "OID125",
+        "city": "شهرستان بانه",
+        "province": "استان کردستان",
+        "name:en": "Aeronautical Notice · Airspace Restriction · Baneh (OID125)",
+        "description:en": "According to the Aeronautical Information Publication, the specified area is active.",
+        "city:en": "Baneh County",
+        "province:en": "Kurdistan",
+        "name:ar": "إشعار طيران · قيود المجال الجوي · بانه (OID125)",
+        "description:ar": "وفقاً لكتاب معلومات الطيران، فإن المنطقة المحددة نشطة.",
+        "city:ar": "مقاطعة بانه",
+        "province:ar": "كردستان",
+        "name:he": "הודעה תעופתית · הגבלת מרחב אווירי · באנה (OID125)",
+        "description:he": "על פי ספר המידע התעופתי, האזור המוגדר פעיל.",
+        "city:he": "באנה",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Bane (OID125)",
+        "description:tr": "Havacılık Bilgi Kitabı'na göre belirlenen alan aktiftir.",
+        "city:tr": "Bane",
+        "province:tr": "Kürdistan",
+        "name:ckb": "ئاگاداریی هەواڤانی · سنووردارکردنی فەزای ئاسمانی · بانه (OID125)",
+        "description:ckb": "بەپێی پەڕتووکی زانیارییەکانی هەواڤانی، ناوچەی دیاریکراو چالاکە.",
+        "city:ckb": "شارستانی بانه",
+        "province:ckb": "کوردستان",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjMzMy0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjMzMy0yNg",
+        "sourceId": "notam-oiix-a2333-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-29T18:30:00.000Z",
+        "createdAt": "2026-10-19T09:45:27.953Z",
+        "updatedAt": "2026-10-19T09:45:27.953Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96237,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.35,
+              35
+            ],
+            [
+              60.51667,
+              34.98333
+            ],
+            [
+              60.63333,
+              35.16667
+            ],
+            [
+              60.35,
+              35.18333
+            ],
+            [
+              60.35,
+              35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · باخرز (OID121)",
+        "description": "پیرو اطلاعات هوانوردی مربوطه، محدوده مشخص‌شده فعال شده است.",
+        "notamNumber": "A2334/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۷/۲۷، ۱۳:۰۷",
+        "validTo": "۱۴۰۵/۰۸/۱۴، ۲۳:۰۰",
+        "shapeSource": "منطقه OID121 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1792402620,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "A2248/26",
+        "areaCodes": "OID121",
+        "city": "شهرستان باخرز",
+        "province": "استان خراسان رضوی",
+        "name:en": "Aviation Notice · Airspace Restriction · Bakharz (OID121)",
+        "description:en": "Pursuant to the relevant aeronautical information, the designated area has been activated.",
+        "city:en": "Bakharz",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "إشعار ملاحة جوية · قيود المجال الجوي · باخرز (OID121)",
+        "description:ar": "بناءً على معلومات الملاحة الجوية ذات الصلة، تم تفعيل المنطقة المحددة.",
+        "city:ar": "مقاطعة باخرز",
+        "province:ar": "خراسان رضوي",
+        "name:he": "הודעת תעופה · הגבלת מרחב אווירי · באחרז (OID121)",
+        "description:he": "בהמשך למידע התעופתי הרלוונטי, האזור המוגדר הופעל.",
+        "city:he": "באחרז",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Baharz (OID121)",
+        "description:tr": "İlgili havacılık bilgilerine istinaden, belirlenen alan aktif hale getirilmiştir.",
+        "city:tr": "Baharz İlçesi",
+        "province:tr": "Razavi Horasan",
+        "name:ckb": "ئاگاداریی فڕینوانی · سنووردارکردنی بۆشایی ئاسمانی · باخەرز (OID121)",
+        "description:ckb": "بەپێی زانیارییە پەیوەندیدارەکانی فڕینوانی، ناوچەی دیاریکراو چالاک کراوە.",
+        "city:ckb": "شارستانی باخەرز",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjMzNC0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjMzNC0yNg",
+        "sourceId": "notam-oiix-a2334-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-05T19:30:00.000Z",
+        "createdAt": "2026-10-19T09:45:35.112Z",
+        "updatedAt": "2026-10-19T09:45:35.112Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96239,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.85,
+              35.416667
+            ],
+            [
+              47,
+              35.416667
+            ],
+            [
+              46.85,
+              35.25
+            ],
+            [
+              46.75,
+              35.333333
+            ],
+            [
+              46.85,
+              35.416667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · سنندج",
+        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "A2335/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۷/۲۷، ۱۳:۱۷",
+        "validTo": "۱۴۰۵/۰۸/۰۷، ۱۸:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1792403220,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "A2168/26",
+        "city": "شهرستان سنندج",
+        "province": "استان کردستان",
+        "name:en": "Aviation Notice · Navigational Warning · Sanandaj",
+        "description:en": "Shooting will take place within the specified area.",
+        "city:en": "Sanandaj County",
+        "province:en": "Kurdistan",
+        "name:ar": "إشعار الطيران · تحذير ملاحي · سنندج",
+        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
+        "city:ar": "مقاطعة سنندج",
+        "province:ar": "كردستان",
+        "name:he": "הודעת תעופה · אזהרת ניווט · סננדג'",
+        "description:he": "ירי יבוצע באזור המוגדר.",
+        "city:he": "סננדג'",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Senendec",
+        "description:tr": "Belirlenen alanda atış yapılacaktır.",
+        "city:tr": "Senendec İlçesi",
+        "province:tr": "Kürdistan",
+        "name:ckb": "ئاگاداریی فڕین · ئاگاداریی ناوگەڕی · سنە",
+        "description:ckb": "تەقەکردن لە سنووری دیاریکراودا ئەنجام دەدرێت.",
+        "city:ckb": "شارستانی سنە",
+        "province:ckb": "کوردستان",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjMzNS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjMzNS0yNg",
+        "sourceId": "notam-oiix-a2335-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-29T14:30:00.000Z",
+        "createdAt": "2026-10-19T10:00:29.533Z",
+        "updatedAt": "2026-10-19T10:00:29.533Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96240,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.76667,
+              37.86667
+            ],
+            [
+              47.88333,
+              37.85
+            ],
+            [
+              47.86667,
+              37.95
+            ],
+            [
+              47.75,
+              37.93333
+            ],
+            [
+              47.76667,
+              37.86667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · سراب (OID126)",
+        "description": "محدوده مشخص‌شده فعال شده است. اطلاعات تکمیلی به بخش مربوطه در کتابچه اطلاعات هوانوردی ارجاع داده شده است.",
+        "notamNumber": "A2340/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۷/۲۷، ۱۳:۴۷",
+        "validTo": "۱۴۰۵/۰۸/۰۷، ۲۰:۰۰",
+        "shapeSource": "منطقه OID126 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1792405020,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "A2282/26",
+        "areaCodes": "OID126",
+        "city": "شهرستان سراب",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Aeronautical Notice · Airspace Restriction · Sarab (OID126)",
+        "description:en": "The designated area has been activated. Supplementary information has been referred to the relevant section in the Aeronautical Information Publication.",
+        "city:en": "Sarab County",
+        "province:en": "East Azerbaijan",
+        "name:ar": "إشعار الطيران · قيود المجال الجوي · سراب (OID126)",
+        "description:ar": "تم تفعيل المنطقة المحددة. وتمت إحالة المعلومات التكميلية إلى القسم المعني في دليل معلومات الطيران.",
+        "city:ar": "مقاطعة سراب",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "הודעת תעופה · הגבלת מרחב אווירי · סראב (OID126)",
+        "description:he": "האזור המוגדר הופעל. מידע נוסף מופנה לסעיף הרלוונטי בפרסום המידע התעופתי.",
+        "city:he": "נפת סראב",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Sarab (OID126)",
+        "description:tr": "Belirtilen alan aktifleştirilmiştir. Ek bilgiler, havacılık bilgi el kitabının ilgili bölümüne yönlendirilmiştir.",
+        "city:tr": "Sarab",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشاییی ئاسمانی · سەراب (OID126)",
+        "description:ckb": "ناوچەی دیاریکراو چالاک کراوە. زانیاریی تەواوکاری بۆ بەشی پەیوەندیدار لە پەڕتووکی زانیاریی فڕۆکەوانیدا ڕەوانە کراوە.",
+        "city:ckb": "شارستانی سەراب",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjM0MC0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjM0MC0yNg",
+        "sourceId": "notam-oiix-a2340-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-29T16:30:00.000Z",
+        "createdAt": "2026-10-19T10:30:32.441Z",
+        "updatedAt": "2026-10-19T10:30:32.441Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18,
+    "total": 17,
     "layerId": 38,
     "clustered": false,
     "simplified": false

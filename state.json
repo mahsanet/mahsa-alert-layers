@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-19T02:00:14.680Z",
-  "serial": 5923,
+  "lastUpdated": "2026-10-20T02:00:12.420Z",
+  "serial": 5964,
   "layers": {
     "missilePrograms": "dec7650e70cad0fdde24a17d3ae5ca5953dc9859",
     "targets": "d1ddb3a3548476445bb0e2db0f702a4b7e23897c",
@@ -23,9 +23,9 @@
     "basijBase": "5ea72a185baee25d84dc95222e7554020ce33cd8",
     "culturePoint": "34eccc64bdb0c9f282963aa4cda1e3a690ad17e6",
     "marakezGhazayi": "58197e68b67b89e14defa3b4529322ecfded0fc7",
-    "unknownBase": "6002b9b44fcad6664b164790e40b6a537ade0419",
+    "unknownBase": "be4dc67e1686b1bfa4c11fefcbb21280659180bd",
     "hospital": "9ae43480448aac3909d76d7a8c5fcb198a250001",
-    "citizenReport": "87483736eb24701b66f7da705eb032e4398816f7",
+    "citizenReport": "154e5dc4cdba84add19e1262d5304264a86020a1",
     "emergencyBase": "d20a0dce23bd5912e478c18e563153b35a149049",
     "medicalClinic": "5180a879df9b4e048d03443cccdcd82e9cba3f0d",
     "marakezEntezami": "d8d1047289e301f2f3f0980153809d24dbe90511",
@@ -35,9 +35,9 @@
     "amakenMazhabiPoint": "130e1989aea530bb7ac176457d7fe4793b81aa9e",
     "chatroom": "ece29e7e2b2491077271fcea54766c68f74b0537",
     "pharmacy": "d3f0a1b9de6af57092db14282d069c0ba6822d70",
-    "cameraPoint": "ba4ff5b45b1527deac8252c3157bf5ffc85a607b",
+    "cameraPoint": "d488fe4912180fd707b027e9abf0b2044796e04a",
     "MaritimeEvents": "eeb988c92e31b1d83bb7c66e6b663f2960a4b9dc",
-    "notam": "58fc3c819a4b3a331c7838acaf5c7a5d5ead473c",
+    "notam": "ea9804c5f324609450d818ff96c2a48228de8ba5",
     "Checkpoint": "934836ad0736c7b774d6be7e753eb2d791140268"
   }
 }
