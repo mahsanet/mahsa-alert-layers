@@ -947,161 +947,6 @@
     },
     {
       "type": "Feature",
-      "id": 95908,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              60.775556,
-              31.758056
-            ],
-            [
-              60.775556,
-              31.615556
-            ],
-            [
-              60.676667,
-              31.615556
-            ],
-            [
-              60.676667,
-              31.758056
-            ],
-            [
-              60.775556,
-              31.758056
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نهبندان",
-        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
-        "notamNumber": "A2246/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "validFrom": "۱۴۰۵/۰۷/۲۵، ۰۷:۰۰",
-        "validTo": "۱۴۰۵/۰۷/۳۰، ۲۳:۰۰",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamSource": "FAA NMS-API",
-        "date": 1792207800,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "city": "شهرستان نهبندان",
-        "province": "استان خراسان جنوبی",
-        "name:en": "Aviation Notice · Navigation Warning · Nehbandan",
-        "description:en": "Firing will take place within the specified area.",
-        "city:en": "Nehbandan County",
-        "province:en": "South Khorasan",
-        "name:ar": "إشعار طيران · تحذير ملاحي · نهبندان",
-        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
-        "city:ar": "مقاطعة نهبندان",
-        "province:ar": "خراسان الجنوبية",
-        "name:he": "הודעה לתעופה · אזהרת ניווט · נהבנדאן",
-        "description:he": "יתבצע ירי באזור המוגדר.",
-        "city:he": "נהבנדאן",
-        "province:he": "ח'וראסאן הדרומית",
-        "name:tr": "Havacılık Bildirimi · Navigasyon Uyarısı · Nehbandan",
-        "description:tr": "Belirtilen alanda atış yapılacaktır.",
-        "city:tr": "Nehbandan İlçesi",
-        "province:tr": "Güney Horasan",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · ئاگاداریی ڕێدۆزی · نەهبەندان",
-        "description:ckb": "تەقەکردن لە ناوچەی دیاریکراودا ئەنجام دەدرێت.",
-        "city:ckb": "شارستانی نەهبەندان",
-        "province:ckb": "خوراسانی باشوور",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjI0Ni0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjI0Ni0yNg",
-        "sourceId": "notam-oiix-a2246-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-22T19:30:00.000Z",
-        "createdAt": "2026-10-10T10:32:37.567Z",
-        "updatedAt": "2026-10-10T10:32:37.567Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 95909,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              61.03333,
-              28.21667
-            ],
-            [
-              61.03333,
-              28.15
-            ],
-            [
-              61.18333,
-              28.15
-            ],
-            [
-              61.18333,
-              28.21667
-            ],
-            [
-              61.03333,
-              28.21667
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · خاش (OID122)",
-        "description": "بر اساس اطلاعات مندرج در نشریه هوانوردی، محدوده مشخص‌شده فعال شده است. این منطقه در حال حاضر در وضعیت فعال قرار دارد.",
-        "notamNumber": "A2247/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
-        "validFrom": "۱۴۰۵/۰۷/۲۱، ۰۶:۰۰",
-        "validTo": "۱۴۰۵/۰۷/۲۹، ۰۰:۰۰",
-        "shapeSource": "منطقه OID122 طبق AIP ایران",
-        "notamSource": "FAA NMS-API",
-        "date": 1791858600,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "areaCodes": "OID122",
-        "city": "شهرستان خاش",
-        "province": "استان سیستان و بلوچستان",
-        "name:en": "Aviation Notice · Airspace Restriction · Khash (OID122)",
-        "description:en": "Based on information published in the aeronautical publication, the specified area has been activated. This zone is currently in active status.",
-        "city:en": "Khash County",
-        "province:en": "Sistan and Baluchestan",
-        "name:ar": "إشعار الطيران · تقييد المجال الجوي · خاش (OID122)",
-        "description:ar": "وفقًا للمعلومات الواردة في نشرة الطيران، تم تفعيل المنطقة المحددة. هذه المنطقة في حالة نشطة حاليًا.",
-        "city:ar": "مقاطعة خاش",
-        "province:ar": "سيستان وبلوشستان",
-        "name:he": "הודעת תעופה · הגבלת מרחב אווירי · ח'אש (OID122)",
-        "description:he": "על פי המידע המופיע בפרסום התעופתי, האזור המוגדר הופעל. אזור זה נמצא כעת במצב פעיל.",
-        "city:he": "מחוז ח'אש",
-        "province:he": "סיסתאן ובלוצ'יסתאן",
-        "name:tr": "Havacılık Duyurusu · Hava Sahası Kısıtlaması · Haş (OID122)",
-        "description:tr": "Havacılık bülteninde yer alan bilgilere göre, belirlenen alan etkinleştirilmiştir. Bu bölge şu anda aktif durumdadır.",
-        "city:tr": "Haş İlçesi",
-        "province:tr": "Sistan ve Belucistan",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشایی ئاسمانی · خاش (OID122)",
-        "description:ckb": "بەپێی زانیارییە تۆمارکراوەکان لە بڵاوکراوەی فڕۆکەوانیدا، مەودای دیاریکراو چالاک کراوە. ئەم ناوچەیە لە ئێستادا لە دۆخی چالاکدایە.",
-        "city:ckb": "شارستانی خاش",
-        "province:ckb": "سیستان و بەلووچستان",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjI0Ny0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjI0Ny0yNg",
-        "sourceId": "notam-oiix-a2247-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-20T20:30:00.000Z",
-        "createdAt": "2026-10-10T10:32:48.430Z",
-        "updatedAt": "2026-10-10T10:32:48.430Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 95911,
       "geometry": {
         "type": "Polygon",
@@ -1331,84 +1176,6 @@
         "expirationDate": "2026-10-22T20:30:00.000Z",
         "createdAt": "2026-10-10T11:02:00.238Z",
         "updatedAt": "2026-10-10T11:02:00.238Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 95960,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              45.75,
-              37.083333
-            ],
-            [
-              45.5,
-              37
-            ],
-            [
-              45.083333,
-              37
-            ],
-            [
-              45.5,
-              37.166667
-            ],
-            [
-              45.75,
-              37.083333
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نقده",
-        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد. این فعالیت شامل نقاط تعیین‌شده تا نقطه مبدأ است.",
-        "notamNumber": "B0529/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "validFrom": "۱۴۰۵/۰۷/۲۰، ۱۳:۵۲",
-        "validTo": "۱۴۰۵/۰۷/۳۰، ۲۲:۰۰",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamSource": "FAA NMS-API",
-        "date": 1791800520,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "replaces": "B0504/26",
-        "city": "شهرستان نقده",
-        "province": "استان آذربایجان غربی",
-        "name:en": "Aviation Notice · Navigation Warning · Naghadeh",
-        "description:en": "Shooting will take place within the specified area. This activity includes the designated points up to the point of origin.",
-        "city:en": "Naghadeh",
-        "province:en": "West Azerbaijan",
-        "name:ar": "إشعار طيران · تحذير ملاحي · نقده",
-        "description:ar": "سيجري إطلاق النار في المنطقة المحددة. يشمل هذا النشاط النقاط المحددة حتى نقطة الأصل.",
-        "city:ar": "مقاطعة نقده",
-        "province:ar": "أذربيجان الغربية",
-        "name:he": "הודעה תעופתית · אזהרת ניווט · נגאדה",
-        "description:he": "ירי יבוצע באזור המוגדר. פעילות זו כוללת את הנקודות המוגדרות עד לנקודת המוצא.",
-        "city:he": "נפת נגאדה",
-        "province:he": "אזרבייג'ן המערבית",
-        "name:tr": "Havacılık Bildirimi · Navigasyon Uyarısı · Nagadeh",
-        "description:tr": "Belirtilen alanda atış yapılacaktır. Bu faaliyet, belirlenen noktalardan başlangıç noktasına kadar olan alanı kapsamaktadır.",
-        "city:tr": "Nagadeh İlçesi",
-        "province:tr": "Batı Azerbaycan",
-        "name:ckb": "ئاگاداریی فڕین · ئاگاداریی ناوبەری · نەغەدە",
-        "description:ckb": "تەقەکردن لە مەودای دیاریکراودا ئەنجام دەدرێت. ئەم چالاکییە خاڵە دیاریکراوەکان تا خاڵی دەستپێک دەگرێتەوە.",
-        "city:ckb": "شارستانی نەغەدە",
-        "province:ckb": "ئازەربایجانی ڕۆژاوا",
-        "id": "Mzg6bm90YW0tb2lpeC1iMDUyOS0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1iMDUyOS0yNg",
-        "sourceId": "notam-oiix-b0529-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-22T18:30:00.000Z",
-        "createdAt": "2026-10-12T10:29:46.527Z",
-        "updatedAt": "2026-10-12T10:29:46.527Z"
       }
     },
     {
@@ -2506,6 +2273,467 @@
         "expirationDate": "2026-10-29T16:30:00.000Z",
         "createdAt": "2026-10-19T10:30:32.441Z",
         "updatedAt": "2026-10-19T10:30:32.441Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96256,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.3,
+              26.349944
+            ],
+            [
+              55.309109,
+              26.349543
+            ],
+            [
+              55.31813,
+              26.348343
+            ],
+            [
+              55.326976,
+              26.346356
+            ],
+            [
+              55.335562,
+              26.343601
+            ],
+            [
+              55.343804,
+              26.340104
+            ],
+            [
+              55.351624,
+              26.3359
+            ],
+            [
+              55.358946,
+              26.331029
+            ],
+            [
+              55.3657,
+              26.325538
+            ],
+            [
+              55.371819,
+              26.31948
+            ],
+            [
+              55.377246,
+              26.312913
+            ],
+            [
+              55.381928,
+              26.3059
+            ],
+            [
+              55.385821,
+              26.29851
+            ],
+            [
+              55.388886,
+              26.290814
+            ],
+            [
+              55.391094,
+              26.282885
+            ],
+            [
+              55.392425,
+              26.2748
+            ],
+            [
+              55.392866,
+              26.266637
+            ],
+            [
+              55.392412,
+              26.258475
+            ],
+            [
+              55.391069,
+              26.250392
+            ],
+            [
+              55.388849,
+              26.242466
+            ],
+            [
+              55.385773,
+              26.234773
+            ],
+            [
+              55.381873,
+              26.227387
+            ],
+            [
+              55.377185,
+              26.22038
+            ],
+            [
+              55.371754,
+              26.213819
+            ],
+            [
+              55.365633,
+              26.207766
+            ],
+            [
+              55.358881,
+              26.202281
+            ],
+            [
+              55.351563,
+              26.197415
+            ],
+            [
+              55.343749,
+              26.193217
+            ],
+            [
+              55.335515,
+              26.189725
+            ],
+            [
+              55.326939,
+              26.186973
+            ],
+            [
+              55.318105,
+              26.184989
+            ],
+            [
+              55.309096,
+              26.183791
+            ],
+            [
+              55.3,
+              26.18339
+            ],
+            [
+              55.290904,
+              26.183791
+            ],
+            [
+              55.281895,
+              26.184989
+            ],
+            [
+              55.273061,
+              26.186973
+            ],
+            [
+              55.264485,
+              26.189725
+            ],
+            [
+              55.256251,
+              26.193217
+            ],
+            [
+              55.248437,
+              26.197415
+            ],
+            [
+              55.241119,
+              26.202281
+            ],
+            [
+              55.234367,
+              26.207766
+            ],
+            [
+              55.228246,
+              26.213819
+            ],
+            [
+              55.222815,
+              26.22038
+            ],
+            [
+              55.218127,
+              26.227387
+            ],
+            [
+              55.214227,
+              26.234773
+            ],
+            [
+              55.211151,
+              26.242466
+            ],
+            [
+              55.208931,
+              26.250392
+            ],
+            [
+              55.207588,
+              26.258475
+            ],
+            [
+              55.207134,
+              26.266637
+            ],
+            [
+              55.207575,
+              26.2748
+            ],
+            [
+              55.208906,
+              26.282885
+            ],
+            [
+              55.211114,
+              26.290814
+            ],
+            [
+              55.214179,
+              26.29851
+            ],
+            [
+              55.218072,
+              26.3059
+            ],
+            [
+              55.222754,
+              26.312913
+            ],
+            [
+              55.228181,
+              26.31948
+            ],
+            [
+              55.2343,
+              26.325538
+            ],
+            [
+              55.241054,
+              26.331029
+            ],
+            [
+              55.248376,
+              26.3359
+            ],
+            [
+              55.256196,
+              26.340104
+            ],
+            [
+              55.264438,
+              26.343601
+            ],
+            [
+              55.273024,
+              26.346356
+            ],
+            [
+              55.28187,
+              26.348343
+            ],
+            [
+              55.290891,
+              26.349543
+            ],
+            [
+              55.3,
+              26.349944
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · منطقه پروازی تهران (ایران)",
+        "description": "تیراندازی با سلاح در یک دایره به شعاع ۵ مایل دریایی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "A2348/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۷/۲۸، ۱۱:۳۲",
+        "validTo": "۱۴۰۵/۰۷/۳۰، ۱۶:۰۰",
+        "shapeSource": "دایره‌ای به شعاع ۵ مایل دریایی",
+        "notamSource": "FAA NMS-API",
+        "date": 1792483320,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "name:en": "Aeronautical Notice · Navigation Warning · Tehran Flight Zone (Iran)",
+        "description:en": "Weapon firing will be conducted within a circle with a radius of 5 nautical miles in the specified area.",
+        "name:ar": "إشعار طيران · تحذير ملاحي · منطقة طيران طهران (إيران)",
+        "description:ar": "سيتم إطلاق النار بالأسلحة في دائرة بنصف قطر 5 أميال بحرية ضمن المنطقة المحددة.",
+        "name:he": "הודעה לתעופה · אזהרת ניווט · אזור הטיסה טהראן (איראן)",
+        "description:he": "ירי בנשק יבוצע במעגל ברדיוס של 5 מיל ימי באזור המוגדר.",
+        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Tahran Uçuş Bölgesi (İran)",
+        "description:tr": "Belirtilen alan içerisinde 5 deniz mili yarıçapındaki bir dairede silahlı atış yapılacaktır.",
+        "name:ckb": "ئاگاداریی فڕین · وشیارکردنەوەی ڕێپێوان · ناوچەی فڕینی تاران (ئێران)",
+        "description:ckb": "تەقەکردن بە چەک لە ناو بازنەیەکدا بە نیوەتیرەی 5 مایلی دەریایی لە مەودای دیاریکراودا ئەنجام دەدرێت.",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjM0OC0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjM0OC0yNg",
+        "sourceId": "notam-oiix-a2348-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-22T12:30:00.000Z",
+        "createdAt": "2026-10-20T08:15:50.736Z",
+        "updatedAt": "2026-10-20T08:15:50.736Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96258,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.75,
+              37.083333
+            ],
+            [
+              45.5,
+              37
+            ],
+            [
+              45.083333,
+              37
+            ],
+            [
+              45.5,
+              37.166667
+            ],
+            [
+              45.75,
+              37.083333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نقده",
+        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "B0536/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۷/۲۸، ۱۱:۴۳",
+        "validTo": "۱۴۰۵/۰۸/۰۸، ۲۲:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1792483980,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "B0529/26",
+        "city": "شهرستان نقده",
+        "province": "استان آذربایجان غربی",
+        "name:en": "Aviation Notice · Navigation Warning · Naghadeh",
+        "description:en": "Firing will take place within the specified area.",
+        "city:en": "Naghadeh County",
+        "province:en": "West Azerbaijan",
+        "name:ar": "إشعار طيران · تحذير ملاحي · نقده",
+        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
+        "city:ar": "مقاطعة نقده",
+        "province:ar": "أذربيجان الغربية",
+        "name:he": "הודעת תעופה · אזהרת ניווט · נקדה",
+        "description:he": "ירי יתבצע באזור המוגדר.",
+        "city:he": "נפת נקדה",
+        "province:he": "אזרבייג'ן המערבית",
+        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Nagadeh",
+        "description:tr": "Belirtilen alanda atış yapılacaktır.",
+        "city:tr": "Nagadeh İlçesi",
+        "province:tr": "Batı Azerbaycan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · وشیارکردنەوەی ڕێنیشاندان · نەغەدە",
+        "description:ckb": "تەقەکردن لە سنووری دیاریکراودا ئەنجام دەدرێت.",
+        "city:ckb": "شارستانی نەغەدە",
+        "province:ckb": "ئازەربایجانی ڕۆژاوا",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDUzNi0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDUzNi0yNg",
+        "sourceId": "notam-oiix-b0536-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-10-30T18:30:00.000Z",
+        "createdAt": "2026-10-20T08:30:51.744Z",
+        "updatedAt": "2026-10-20T08:30:51.744Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96259,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.775556,
+              31.758056
+            ],
+            [
+              60.775556,
+              31.615556
+            ],
+            [
+              60.676667,
+              31.615556
+            ],
+            [
+              60.676667,
+              31.758056
+            ],
+            [
+              60.775556,
+              31.758056
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نهبندان",
+        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "A2352/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۷/۲۸، ۱۲:۴۰",
+        "validTo": "۱۴۰۵/۰۸/۱۴، ۲۳:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1792487400,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "A2349/26",
+        "city": "شهرستان نهبندان",
+        "province": "استان خراسان جنوبی",
+        "name:en": "Aviation Notice · Navigation Warning · Nehbandan",
+        "description:en": "Firing will take place in the designated area.",
+        "city:en": "Nehbandan County",
+        "province:en": "South Khorasan",
+        "name:ar": "إشعار طيران · تحذير ملاحي · نهبندان",
+        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
+        "city:ar": "مقاطعة نهبندان",
+        "province:ar": "خراسان الجنوبية",
+        "name:he": "הודעה לתעופה · אזהרת ניווט · נהבנדאן",
+        "description:he": "ירי יבוצע באזור המוגדר.",
+        "city:he": "נהבנדאן",
+        "province:he": "ח'וראסאן הדרומית",
+        "name:tr": "Havacılık Duyurusu · Navigasyon Uyarısı · Nehbandan",
+        "description:tr": "Belirtilen alanda atış yapılacaktır.",
+        "city:tr": "Nehbandan İlçesi",
+        "province:tr": "Güney Horasan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · وشیارکردنەوەی ناوبەری · نەهبەندان",
+        "description:ckb": "تەقەکردن لە ناوچەی دیاریکراودا ئەنجام دەدرێت.",
+        "city:ckb": "شارستانی نەهبەندان",
+        "province:ckb": "خوراسانی باشوور",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjM1Mi0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjM1Mi0yNg",
+        "sourceId": "notam-oiix-a2352-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-05T19:30:00.000Z",
+        "createdAt": "2026-10-20T09:15:53.478Z",
+        "updatedAt": "2026-10-20T09:15:53.478Z"
       }
     }
   ],

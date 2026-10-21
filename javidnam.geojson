@@ -43414,10 +43414,61 @@
         "createdAt": "2026-09-26T22:30:16.826Z",
         "updatedAt": "2026-09-26T22:30:56.670Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.13528490066528,
+          35.6998756671009
+        ]
+      },
+      "properties": {
+        "city": "شهرستان قدس",
+        "count": "",
+        "people": "",
+        "description": "اسامی برخی از جاویدنامان در منطقه سالمندان، شهرک ابریشم، شهر قدس: آرتین خواجوی نیا (۱۶ ساله)، ایلیا قدسی، صادق قدسی، مجتبی ترشیز، عرفان یوسفی، محمد رستمی، سردار محمدی، وهاب حقیقی، رسول زارع، امید علی میسایی و محمد نقی انصاری.",
+        "date": 1792386176,
+        "name:fa": "جاویدنامان شهرک ابریشم شهر قدس",
+        "province": "استان تهران",
+        "name:en": "The Fallen of Abrisham Town, Shahr-e Qods",
+        "description:en": "Names of some of the fallen in the Salmandan area, Abrisham Town, Shahr-e Qods: Artin Khajavinia (16 years old), Iliya Qodsi, Sadegh Qodsi, Mojtaba Torshiz, Erfan Youssefi, Mohammad Rostami, Sardar Mohammadi, Vahab Haghighi, Rasoul Zare, Omid Ali Mesayi, and Mohammad Naqi Ansari.",
+        "city:en": "Qods County",
+        "province:en": "Tehran",
+        "name:ar": "الضحايا الخالدون في مجمع إبرسيم بمدينة قدس",
+        "description:ar": "أسماء بعض الضحايا الخالدين في منطقة سالمندان، مجمع إبرسيم السكني، مدينة قدس: آرتين خواجوي نيا (16 عاماً)، إيليا قدسي، صادق قدسي، مجتبى ترشيز، عرفان يوسفي، محمد رستمي، سردار محمدي، وهاب حقيقي، رسول زارع، أوميد علي ميسايي ومحمد نقي أنصاري.",
+        "city:ar": "قضاء قدس",
+        "province:ar": "طهران",
+        "name:he": "הנופלים של שכונת אברישם, העיר קודס",
+        "description:he": "שמות חלק מהנופלים באזור סאלמנדאן, שכונת אברישם, העיר קודס: ארטין ח'וואג'ווי ניא (בן 16), איליא קודסי, סאדק קודסי, מוג'תבא תרשיז, ערפאן יוספי, מחמד רוסתמי, סרדאר מחמדי, והאב חקיקי, רסול זארע, אמיד עלי מיסאי ומחמד נקי אנסארי.",
+        "city:he": "קודס",
+        "province:he": "טהראן",
+        "name:tr": "Kods Şehri Abrisham Mahallesi Ölümsüzleri",
+        "description:tr": "Kods şehri, Abrisham Mahallesi, Huzurevi bölgesindeki ölümsüzlerden bazılarının isimleri: Artin Hacaviniya (16), İlya Kudsi, Sadık Kudsi, Mücteba Turşiz, İrfan Yusufi, Muhammed Rüstemi, Serdar Muhammedi, Vahap Hakiki, Resul Zare, Ümit Ali Misayi ve Muhammed Naki Ensari.",
+        "city:tr": "Kods İlçesi",
+        "province:tr": "Tahran",
+        "name:ckb": "نەمرانی شارۆچکەی ئابریشەمی شاری قودس",
+        "description:ckb": "ناوی هەندێک لە نەمران لە ناوچەی ساڵمەندان، شارۆچکەی ئابریشەم، شاری قودس: ئارتین خاجووی نیا (16 ساڵە)، ئیلیا قودسی، سادق قودسی، مجتەبا تورشیز، عیرفان یووسفی، محەمەد ڕوستەمی، سەردار محەمەدی، وەهاب حەقیقی، ڕەسوول زارع، ئومێد عەلی میسایی و محەمەد نەقی ئەنساری.",
+        "city:ckb": "شارستانی قودس",
+        "province:ckb": "تاران",
+        "id": "MTY6MDg4Yzk2MjlmNTNl",
+        "publicId": "MTY6MDg4Yzk2MjlmNTNl",
+        "sourceId": "088c9629f53e",
+        "layerId": 16,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-20T16:36:08.829Z",
+        "updatedAt": "2026-10-20T16:36:08.829Z"
+      }
     }
   ],
   "metadata": {
-    "total": 173,
+    "total": 174,
     "layerId": 16,
     "clustered": false,
     "simplified": false

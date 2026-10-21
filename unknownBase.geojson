@@ -90339,10 +90339,60 @@
         "createdAt": "2026-10-19T14:41:16.256Z",
         "updatedAt": "2026-10-19T14:41:16.256Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.844716001302004,
+          28.900490974142485
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه ارتباطات و اطلاعات صابر",
+        "unofficial_name:fa": "",
+        "description": "پایگاه ارتباطات و اطلاعات صابر، نیروی دریایی سپاه",
+        "date": 1792440111,
+        "city": "بوشهر",
+        "province": "استان بوشهر",
+        "name:en": "Saber Communications and Information Base",
+        "description:en": "Saber Communications and Information Base, IRGC Navy",
+        "city:en": "Bushehr",
+        "province:en": "Bushehr",
+        "name:ar": "قاعدة صابر للاتصالات والمعلومات",
+        "description:ar": "قاعدة صابر للاتصالات والمعلومات، القوات البحرية للحرس الثوري",
+        "city:ar": "بوشهر",
+        "province:ar": "بوشهر",
+        "name:he": "בסיס תקשורת ומידע סאבר",
+        "description:he": "בסיס תקשורת ומידע סאבר, חיל הים של משמרות המהפכה",
+        "city:he": "בושהר",
+        "province:he": "בושהר",
+        "name:tr": "Saber İletişim ve İstihbarat Üssü",
+        "description:tr": "Saber İletişim ve İstihbarat Üssü, Devrim Muhafızları Deniz Kuvvetleri",
+        "city:tr": "Buşehr",
+        "province:tr": "Buşehr",
+        "name:ckb": "پایگای پەیوەندییەکان و زانیارییەکانی سابڕ",
+        "description:ckb": "پایگای پەیوەندییەکان و زانیارییەکانی سابڕ، هێزی دەریایی سوپا",
+        "city:ckb": "بووشەهر",
+        "province:ckb": "بووشەھر",
+        "id": "MTI6Y2I2MDQ1MjBmMGIz",
+        "publicId": "MTI6Y2I2MDQ1MjBmMGIz",
+        "sourceId": "cb604520f0b3",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-20T16:30:22.051Z",
+        "updatedAt": "2026-10-20T16:30:22.051Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1098,
+    "total": 1099,
     "layerId": 12,
     "clustered": false,
     "simplified": false

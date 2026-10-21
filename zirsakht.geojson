@@ -93667,10 +93667,89 @@
         "createdAt": "2026-10-17T12:33:28.977Z",
         "updatedAt": "2026-10-17T12:33:28.977Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96275,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.12623510983252,
+              35.566335095466926
+            ],
+            [
+              49.126437049972196,
+              35.56698744183565
+            ],
+            [
+              49.1273217401089,
+              35.566786376739714
+            ],
+            [
+              49.127229699364506,
+              35.56646020340118
+            ],
+            [
+              49.12719947703104,
+              35.56645350119476
+            ],
+            [
+              49.12718436586374,
+              35.56639988352846
+            ],
+            [
+              49.12720909322786,
+              35.56637754282316
+            ],
+            [
+              49.12716238598472,
+              35.5662021680717
+            ],
+            [
+              49.12706759775568,
+              35.56617535915893
+            ],
+            [
+              49.12623510983252,
+              35.566335095466926
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ایستگاه رادیو تلویزیون",
+        "description": "",
+        "date": "",
+        "city": "شهرستان رزن",
+        "province": "استان همدان",
+        "city:en": "Razan",
+        "province:en": "Hamadan",
+        "city:ar": "مقاطعة رزن",
+        "province:ar": "همدان",
+        "city:he": "רזן",
+        "province:he": "המדאן",
+        "city:tr": "Razan",
+        "province:tr": "Hemedan",
+        "city:ckb": "شارستانی ڕەزەن",
+        "province:ckb": "ھەمەدان",
+        "id": "MzU6NjZjODI0ODMzNWQ2",
+        "publicId": "MzU6NjZjODI0ODMzNWQ2",
+        "sourceId": "66c8248335d6",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-20T16:33:28.623Z",
+        "updatedAt": "2026-10-20T16:33:28.623Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2025,
+    "total": 2026,
     "layerId": 35,
     "clustered": false,
     "simplified": false
