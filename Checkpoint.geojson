@@ -12762,10 +12762,60 @@
         "createdAt": "2026-10-18T06:34:08.284Z",
         "updatedAt": "2026-10-18T06:34:08.284Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.33458626270294,
+          31.831271650901883
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "یزد",
+        "province": "استان یزد",
+        "date": 1792520238,
+        "description": "ورودی بلوار شهدای گمنام شهر یزد از سمت کمربندی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Entrance to Shohadaye Gomnam Boulevard in Yazd city from the ring road",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "مدخل شارع الشهداء المجهولين في مدينة يزد من جهة الطريق الدائري",
+        "city:ar": "يزد",
+        "province:ar": "يزد",
+        "name:he": "מחסום",
+        "description:he": "הכניסה לשדרות שוהדא-יה גומנאם בעיר יזד מכיוון כביש הטבעת",
+        "city:he": "יזד",
+        "province:he": "יזד",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Yezd şehrindeki Şüheda-yi Gomnam Bulvarı'nın çevre yolu tarafındaki girişi",
+        "city:tr": "Yezd",
+        "province:tr": "Yezd",
+        "name:ckb": "بازگەی پشکنین",
+        "description:ckb": "دەروازەی چوونەژوورەوەی بوولڤاری شەهیدانی گومنامی شاری یەزد لە لای شەقامی کەمەربەندییەوە",
+        "city:ckb": "یەزد",
+        "province:ckb": "یەزد",
+        "id": "Mzk6ZjQ1YTkyNTQ3YjY0",
+        "publicId": "Mzk6ZjQ1YTkyNTQ3YjY0",
+        "sourceId": "f45a92547b64",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-21T18:10:46.757Z",
+        "updatedAt": "2026-10-21T18:10:46.757Z"
+      }
     }
   ],
   "metadata": {
-    "total": 263,
+    "total": 264,
     "layerId": 39,
     "clustered": false,
     "simplified": false

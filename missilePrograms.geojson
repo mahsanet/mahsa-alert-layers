@@ -21332,10 +21332,150 @@
         "createdAt": "2026-10-17T12:47:41.022Z",
         "updatedAt": "2026-10-17T12:47:41.022Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.825829058885574,
+          28.9475843795597
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر",
+        "description": "لانچر در پایگاه هوایی بوشهر",
+        "date": 1792610464,
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "sources": "",
+        "name:en": "Launcher",
+        "description:en": "Launcher at Bushehr Air Base",
+        "city:en": "Bushehr",
+        "province:en": "Bushehr",
+        "name:ar": "منصة إطلاق",
+        "description:ar": "منصة إطلاق في قاعدة بوشهر الجوية",
+        "city:ar": "مقاطعة بوشهر",
+        "province:ar": "بوشهر",
+        "name:he": "משגר",
+        "description:he": "משגר בבסיס חיל האוויר בושהר",
+        "city:he": "בושהר",
+        "province:he": "בושהר",
+        "name:tr": "Fırlatıcı",
+        "description:tr": "Buşehr Hava Üssü'ndeki fırlatıcı",
+        "city:tr": "Buşehr İlçesi",
+        "province:tr": "Buşehr",
+        "name:ckb": "لانچەر",
+        "description:ckb": "لانچەر لە بنکەی ئاسمانیی بووشەهر",
+        "city:ckb": "شارستانی بووشەهر",
+        "province:ckb": "بووشەھر",
+        "id": "NzozMWE3ODMyZjBlMDA",
+        "publicId": "NzozMWE3ODMyZjBlMDA",
+        "sourceId": "31a7832f0e00",
+        "layerId": 7,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-21T20:03:03.089Z",
+        "updatedAt": "2026-10-21T20:03:03.089Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.817353781312704,
+          28.953281371657255
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر",
+        "description": "",
+        "date": 1792610341,
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "sources": "",
+        "name:en": "Launcher",
+        "city:en": "Bushehr County",
+        "province:en": "Bushehr",
+        "name:ar": "منصة إطلاق",
+        "city:ar": "مقاطعة بوشهر",
+        "province:ar": "بوشهر",
+        "name:he": "משגר",
+        "city:he": "מחוז משנה בושהר",
+        "province:he": "בושהר",
+        "name:tr": "Lançer",
+        "city:tr": "Buşehr Şehristanı",
+        "province:tr": "Buşehr",
+        "name:ckb": "لانچەر",
+        "city:ckb": "شارستانی بوشەهر",
+        "province:ckb": "بووشەھر",
+        "id": "NzowN2E3NDJlMDExN2E",
+        "publicId": "NzowN2E3NDJlMDExN2E",
+        "sourceId": "07a742e0117a",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-21T20:11:40.580Z",
+        "updatedAt": "2026-10-21T20:11:40.580Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.81838273136498,
+          28.953615545142867
+        ]
+      },
+      "properties": {
+        "name:fa": "لانچر",
+        "description": "",
+        "date": "",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "sources": "",
+        "name:en": "Launcher",
+        "city:en": "Bushehr County",
+        "province:en": "Bushehr",
+        "name:ar": "منصة إطلاق",
+        "city:ar": "مقاطعة بوشهر",
+        "province:ar": "بوشهر",
+        "name:he": "משגר",
+        "city:he": "מחוז בושהר",
+        "province:he": "בושהר",
+        "name:tr": "Lançer",
+        "city:tr": "Buşehr İlçesi",
+        "province:tr": "Buşehr",
+        "name:ckb": "لانچەر",
+        "city:ckb": "شارستانی بوشەهر",
+        "province:ckb": "بووشەھر",
+        "id": "Nzo0NjlkYmY0NmQwN2U",
+        "publicId": "Nzo0NjlkYmY0NmQwN2U",
+        "sourceId": "469dbf46d07e",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-21T20:11:59.359Z",
+        "updatedAt": "2026-10-21T20:11:59.359Z"
+      }
     }
   ],
   "metadata": {
-    "total": 194,
+    "total": 197,
     "layerId": 7,
     "clustered": false,
     "simplified": false

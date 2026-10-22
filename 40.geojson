@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 96286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.34076015651226,
+          35.216854087386
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای حکومتی",
+        "city": "گرمسار",
+        "province": "استان سمنان",
+        "date": 1792548766,
+        "description": "تجمع شبانه و مسدود کردن خیابان در محدوده میدان امام خمینی گرمسار",
+        "sources": "",
+        "name:en": "Gathering of Government Forces",
+        "description:en": "Nighttime gathering and street blockade in the vicinity of Imam Khomeini Square in Garmsar.",
+        "city:en": "Garmsar",
+        "province:en": "Semnan",
+        "name:ar": "تجمع القوات الحكومية",
+        "description:ar": "تجمع ليلي وإغلاق للشارع في محيط ميدان الإمام الخميني بمدينة غرمسار",
+        "city:ar": "غرمسار",
+        "province:ar": "سمنان",
+        "name:he": "התקהלות של כוחות המשטר",
+        "description:he": "התקהלות לילית וחסימת רחוב באזור כיכר אימאם ח'ומייני בגארמסאר",
+        "city:he": "גארמסאר",
+        "province:he": "סמנאן",
+        "name:tr": "Hükümet Güçlerinin Toplanması",
+        "description:tr": "Garmsar İmam Humeyni Meydanı bölgesinde gece toplanması ve caddenin kapatılması",
+        "city:tr": "Garmsar",
+        "province:tr": "Simnan",
+        "name:ckb": "کۆبوونەوەی هێزە حکومییەکان",
+        "description:ckb": "کۆبوونەوەی شەوانە و داخستنی شەقام لە دەوروبەری مەیدانی ئیمام خومەینی لە گەرمسار",
+        "city:ckb": "گەرمسار",
+        "province:ckb": "سمنان",
+        "id": "NDA6ZDZiZGRkYzBjMGVi",
+        "publicId": "NDA6ZDZiZGRkYzBjMGVi",
+        "sourceId": "d6bdddc0c0eb",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-21T18:11:42.676Z",
+        "updatedAt": "2026-10-21T18:25:18.837Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.69000446051359,
+          31.311478851635272
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای حکومتی",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "date": 1792621044,
+        "description": "تجمع نیروهای حکومتی",
+        "sources": "",
+        "name:en": "Gathering of government forces",
+        "description:en": "Gathering of government forces",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "name:ar": "تجمع القوات الحكومية",
+        "description:ar": "تجمع القوات الحكومية",
+        "city:ar": "الأهواز",
+        "province:ar": "خوزستان",
+        "name:he": "התקהלות כוחות המשטר",
+        "description:he": "התקהלות כוחות המשטר",
+        "city:he": "אהוואז",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Hükümet güçlerinin toplanması",
+        "description:tr": "Hükümet güçlerinin toplanması",
+        "city:tr": "Ahvaz",
+        "province:tr": "Huzistan",
+        "name:ckb": "کۆبوونەوەی هێزە حکومییەکان",
+        "description:ckb": "کۆبوونەوەی هێزە حکومییەکان",
+        "city:ckb": "ئەهواز",
+        "province:ckb": "خووزستان",
+        "id": "NDA6YWY3NWZmNWM4NDAw",
+        "publicId": "NDA6YWY3NWZmNWM4NDAw",
+        "sourceId": "af75ff5c8400",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-21T22:41:39.500Z",
+        "updatedAt": "2026-10-21T22:41:39.500Z"
+      }
+    }
+  ],
+  "metadata": {
+    "total": 2,
+    "layerId": 40,
+    "clustered": false,
+    "simplified": false
+  }
+}

@@ -43164,48 +43164,6 @@
     },
     {
       "type": "Feature",
-      "id": 44481,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.8740538,
-          34.6821169
-        ]
-      },
-      "properties": {
-        "id": "MjU6MjUzOTk",
-        "city": "قم",
-        "name:fa": "بیمارستان حضرت معصومه (س)",
-        "province": "استان قم",
-        "name:en": "Hazrat Masoumeh Hospital",
-        "city:en": "Qom",
-        "province:en": "Qom",
-        "name:ar": "مستشفى حضرة معصومة (س)",
-        "city:ar": "قم",
-        "province:ar": "قم",
-        "name:he": "בית החולים חזרת מעצומה (ס')",
-        "city:he": "קום",
-        "province:he": "קום",
-        "name:tr": "Hazret-i Masume (s.a.) Hastanesi",
-        "city:tr": "Kum",
-        "province:tr": "Kum",
-        "name:ckb": "نەخۆشخانەی حەزرەتی مەعسوومە (س)",
-        "city:ckb": "قووم",
-        "province:ckb": "قوم",
-        "publicId": "MjU6MjUzOTk",
-        "sourceId": "25399",
-        "layerId": 25,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:57:46.884Z",
-        "updatedAt": "2026-03-11T20:57:46.884Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 44482,
       "geometry": {
         "type": "Point",
@@ -148278,7 +148236,7 @@
     }
   ],
   "metadata": {
-    "total": 3533,
+    "total": 3532,
     "layerId": 25,
     "clustered": false,
     "simplified": false

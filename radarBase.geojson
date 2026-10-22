@@ -3805,55 +3805,6 @@
     },
     {
       "type": "Feature",
-      "id": 92516,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.852984201339325,
-          28.877256672570596
-        ]
-      },
-      "properties": {
-        "city": "شهرستان بوشهر",
-        "date": 1774521853,
-        "name:fa": "رادار سپاه نیروی دریایی",
-        "province": "استان بوشهر",
-        "description": "رادار سپاه نیروی دریایی بوشهر",
-        "name:en": "IRGC Navy Radar",
-        "description:en": "Bushehr IRGC Navy radar",
-        "city:en": "Bushehr",
-        "province:en": "Bushehr",
-        "name:ar": "رادار القوة البحرية للحرس الثوري",
-        "description:ar": "رادار القوة البحرية للحرس الثوري في بوشهر",
-        "city:ar": "مقاطعة بوشهر",
-        "province:ar": "بوشهر",
-        "name:he": "רדאר חיל הים של משמרות המהפכה",
-        "description:he": "רדאר חיל הים של משמרות המהפכה בבושהר",
-        "city:he": "מחוז בושהר",
-        "province:he": "בושהר",
-        "name:tr": "Devrim Muhafızları Deniz Kuvvetleri Radarı",
-        "description:tr": "Buşehr Devrim Muhafızları Deniz Kuvvetleri radarı",
-        "city:tr": "Buşehr İlçesi",
-        "province:tr": "Buşehr",
-        "name:ckb": "ڕاداری هێزی دەریاییی سپاه",
-        "description:ckb": "ڕاداری هێزی دەریاییی سپاهی بوشێهر",
-        "city:ckb": "شارستانی بوشێهر",
-        "province:ckb": "بووشەھر",
-        "id": "OTo4MTU2ZGY4ZGQ3NTg",
-        "publicId": "OTo4MTU2ZGY4ZGQ3NTg",
-        "sourceId": "8156df8dd758",
-        "layerId": 9,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-26T10:44:13.299Z",
-        "updatedAt": "2026-04-08T20:49:25.517Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92517,
       "geometry": {
         "type": "Point",
@@ -5682,6 +5633,51 @@
         "expirationDate": null,
         "createdAt": "2026-10-12T11:58:21.033Z",
         "updatedAt": "2026-10-12T11:58:21.033Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.818482041154226,
+          28.951827931012176
+        ]
+      },
+      "properties": {
+        "name:fa": "رادار",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان بوشهر",
+        "province": "استان بوشهر",
+        "name:en": "Radar",
+        "city:en": "Bushehr County",
+        "province:en": "Bushehr",
+        "name:ar": "رادار",
+        "city:ar": "مقاطعة بوشهر",
+        "province:ar": "بوشهر",
+        "name:he": "ראדאר",
+        "city:he": "בושהר",
+        "province:he": "בושהר",
+        "name:tr": "Radar",
+        "city:tr": "Buşehr İlçesi",
+        "province:tr": "Buşehr",
+        "name:ckb": "ڕادار",
+        "city:ckb": "شارستانی بوشەهر",
+        "province:ckb": "بووشەھر",
+        "id": "OTo0Y2NjNzQyMWM3ZWY",
+        "publicId": "OTo0Y2NjNzQyMWM3ZWY",
+        "sourceId": "4ccc7421c7ef",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-21T20:06:55.943Z",
+        "updatedAt": "2026-10-21T20:06:55.943Z"
       }
     }
   ],

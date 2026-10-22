@@ -8163,7 +8163,8 @@
             "sources": "https://t.me/RememberTheirNames/137",
             "name:ar": "أريانا أرجمندي",
             "name:tr": "Aryana Ercumendi",
-            "name:ckb": "ئاریانا ئەرجومەندی"
+            "name:ckb": "ئاریانا ئەرجومەندی",
+            "name:he": "אריאנה ארג'מנדי"
           },
           {
             "date": "1767889800",
@@ -8174,7 +8175,8 @@
             "sources": "https://t.me/RememberTheirNames/838",
             "name:ar": "عرفان كودرزي",
             "name:tr": "İrfan Güderzi",
-            "name:ckb": "عیرفان گودەرزی"
+            "name:ckb": "عیرفان گودەرزی",
+            "name:he": "ערפאן גודרזי"
           },
           {
             "date": "1767889800",
@@ -8185,7 +8187,8 @@
             "sources": "https://t.me/RememberTheirNames/1757",
             "name:ar": "مصيب نظامي",
             "name:tr": "Müseyyeb Nizami",
-            "name:ckb": "موسەییب نەزامی"
+            "name:ckb": "موسەییب نەزامی",
+            "name:he": "מוסייב נזאמי"
           },
           {
             "date": "1767889800",
@@ -8196,7 +8199,8 @@
             "sources": "https://t.me/RememberTheirNames/2267",
             "name:ar": "نادر حسنوند",
             "name:tr": "Nadir Hasanvend",
-            "name:ckb": "نادر حەسەنوەند"
+            "name:ckb": "نادر حەسەنوەند",
+            "name:he": "נאדר חסנוונד"
           },
           {
             "date": "1767976200",
@@ -8207,7 +8211,8 @@
             "sources": "https://t.me/RememberTheirNames/2288",
             "name:ar": "محمد دادور",
             "name:tr": "Muhammed Dadvor",
-            "name:ckb": "محەممەد دادوەر"
+            "name:ckb": "محەممەد دادوەر",
+            "name:he": "מוחמד דאדוור"
           },
           {
             "date": "1767889800",
@@ -8218,7 +8223,8 @@
             "sources": "https://t.me/RememberTheirNames/2330",
             "name:ar": "أمير حسين مؤيد",
             "name:tr": "Emirhüseyin Mueyyed",
-            "name:ckb": "ئەمیرحسێن موئەییەد"
+            "name:ckb": "ئەمیرحسێن موئەییەد",
+            "name:he": "אמיר-חוסיין מועייד"
           },
           {
             "date": "1767889845-1768161645",
@@ -8229,7 +8235,8 @@
             "sources": "https://t.me/RememberTheirNames/2392",
             "name:ar": "أمير حسين سبزه وند",
             "name:tr": "Emirhüseyin Sebzevend",
-            "name:ckb": "ئەمیرحسێن سەبزەوەند"
+            "name:ckb": "ئەمیرحسێن سەبزەوەند",
+            "name:he": "אמיר-חוסיין סבזה-וונד"
           },
           {
             "date": "1767889845-1768161645",
@@ -8240,7 +8247,8 @@
             "sources": "https://t.me/RememberTheirNames/2848",
             "name:ar": "وحيد مقدم",
             "name:tr": "Vahid Mukaddem",
-            "name:ckb": "وەحید موقەددەم"
+            "name:ckb": "وەحید موقەددەم",
+            "name:he": "ווחיד מוקדם"
           },
           {
             "date": "1767889800",
@@ -8251,7 +8259,8 @@
             "sources": "https://t.me/RememberTheirNames/3179",
             "name:ar": "أحمد كودرزي",
             "name:tr": "Ahmed Güderzi",
-            "name:ckb": "ئەحمەد گودەرزی"
+            "name:ckb": "ئەحمەد گودەرزی",
+            "name:he": "אחמד גודרזי"
           },
           {
             "date": "1767889800",
@@ -8262,7 +8271,8 @@
             "sources": "https://t.me/RememberTheirNames/3293",
             "name:ar": "محمد شعبان",
             "name:tr": "Muhammed Şaban",
-            "name:ckb": "محەممەد شەعبان"
+            "name:ckb": "محەممەد شەعبان",
+            "name:he": "מוחמד שבאן"
           },
           {
             "date": "1767889800",
@@ -8273,7 +8283,8 @@
             "name:en": "Ali Goudarzi",
             "name:ar": "علي كودرزي",
             "name:tr": "Ali Güderzi",
-            "name:ckb": "عەلی گودەرزی"
+            "name:ckb": "عەلی گودەرزی",
+            "name:he": "עלי גודרזי"
           }
         ],
         "city:en": "Borujerd",
@@ -8285,6 +8296,8 @@
         "province:tr": "Luristan",
         "city:ckb": "بورووجرد",
         "province:ckb": "لوڕستان",
+        "city:he": "בורוג'רד",
+        "province:he": "לורסתאן",
         "publicId": "MTY6MTAyMDU",
         "sourceId": "10205",
         "layerId": 16,
@@ -22321,7 +22334,8 @@
             "sources": "https://t.me/RememberTheirNames/174",
             "name:ar": "محمد إبراهيمي",
             "name:tr": "Muhammed İbrahimi",
-            "name:ckb": "مۆحەممەد ئیبراهیمی"
+            "name:ckb": "مۆحەممەد ئیبراهیمی",
+            "name:he": "מוחמד אבראהימי"
           },
           {
             "date": "1767889800",
@@ -22332,7 +22346,8 @@
             "sources": "https://t.me/RememberTheirNames/308",
             "name:ar": "مسلم جعفر زاده",
             "name:tr": "Müslim Caferzade",
-            "name:ckb": "مۆسلیم جەعفەرزادە"
+            "name:ckb": "مۆسلیم جەعفەرزادە",
+            "name:he": "מוסלם ג'עפרזאדה"
           },
           {
             "date": "1767889800",
@@ -22343,7 +22358,8 @@
             "sources": "https://t.me/RememberTheirNames/753",
             "name:ar": "محمد ميرزائي نوش آبادي",
             "name:tr": "Muhammed Mirzayi Nuşabadi",
-            "name:ckb": "مۆحەممەد میرزایی نۆشئابادی"
+            "name:ckb": "مۆحەممەد میرزایی نۆشئابادی",
+            "name:he": "מוחמד מירזאי נוש-אבאדי"
           },
           {
             "date": "1767889800",
@@ -22354,7 +22370,8 @@
             "sources": "https://t.me/RememberTheirNames/1112",
             "name:ar": "علي عباس زورقشيان",
             "name:tr": "Ali Abbas Zevrekçiyan",
-            "name:ckb": "عەلیعەباس زەورەقچیان"
+            "name:ckb": "عەلیعەباس زەورەقچیان",
+            "name:he": "עלי-עבאס זורקצ'יאן"
           },
           {
             "date": "1767889800",
@@ -22365,7 +22382,8 @@
             "name:en": "Mohammad-Javad (Mohammad) Darseneh",
             "name:ar": "محمد جواد (محمد) درسنه",
             "name:tr": "Muhammed Cevad (Muhammed) Dersene",
-            "name:ckb": "مۆحەممەدجەواد (مۆحەممەد) دەرسەنە"
+            "name:ckb": "مۆحەممەدجەواد (مۆحەممەد) دەرسەنە",
+            "name:he": "מוחמד-ג'ואד (מוחמד) דרסנה"
           },
           {
             "date": "1767889800",
@@ -22376,7 +22394,8 @@
             "sources": "https://t.me/RememberTheirNames/1262",
             "name:ar": "أبو الفضل عزيزي",
             "name:tr": "Ebülefez Azizi",
-            "name:ckb": "ئەبۆلفەزل عەزیزی"
+            "name:ckb": "ئەبۆلفەزل عەزیزی",
+            "name:he": "אבולפזל עזיזי"
           },
           {
             "date": "1767889800",
@@ -22387,7 +22406,8 @@
             "sources": "https://t.me/RememberTheirNames/1371",
             "name:ar": "أبو الفضل روشن",
             "name:tr": "Ebülefez Ruşen",
-            "name:ckb": "ئەبۆلفەزل ڕەوشن"
+            "name:ckb": "ئەبۆلفەزل ڕەوشن",
+            "name:he": "אבולפזל רושן"
           },
           {
             "date": "1767889800",
@@ -22398,7 +22418,8 @@
             "sources": "https://t.me/RememberTheirNames/1425",
             "name:ar": "علي صالحي",
             "name:tr": "Ali Salahi",
-            "name:ckb": "عەلی ساڵحی"
+            "name:ckb": "عەلی ساڵحی",
+            "name:he": "עלי צאלחי"
           },
           {
             "date": "1767889800",
@@ -22409,7 +22430,8 @@
             "sources": "https://t.me/RememberTheirNames/1471",
             "name:ar": "فردين قنبري",
             "name:tr": "Fardin Kanberi",
-            "name:ckb": "فەردین قەنبەری"
+            "name:ckb": "فەردین قەنبەری",
+            "name:he": "פרדין קנברי"
           },
           {
             "date": "1767889800",
@@ -22420,7 +22442,8 @@
             "sources": "https://t.me/RememberTheirNames/3290",
             "name:ar": "معصومة (فائزة) علي آبادي",
             "name:tr": "Masume (Fayeze) Aliabadi",
-            "name:ckb": "مەعسوومە (فایزە) عەلیئابادی"
+            "name:ckb": "مەعسوومە (فایزە) عەلیئابادی",
+            "name:he": "מעסומה (פאיזה) עלי-אבאדי"
           },
           {
             "date": "1767889800",
@@ -22431,7 +22454,8 @@
             "name:en": "Asghar Ramezanpour Gorji",
             "name:ar": "أصغر رمضان بور كرجي",
             "name:tr": "Asgar Ramazanpur Gorci",
-            "name:ckb": "ئەسغەر ڕەمەزانپوور گۆرجی"
+            "name:ckb": "ئەسغەر ڕەمەزانپوور گۆرجی",
+            "name:he": "אסע'ר רמזאן-פור גורג'י"
           }
         ],
         "city:en": "Sari",
@@ -22443,6 +22467,8 @@
         "province:tr": "Mazenderan",
         "city:ckb": "ساری",
         "province:ckb": "مازەندەران",
+        "city:he": "סארי",
+        "province:he": "מאזנדראן",
         "publicId": "MTY6MTAyNDY",
         "sourceId": "10246",
         "layerId": 16,

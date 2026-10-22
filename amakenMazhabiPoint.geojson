@@ -246667,10 +246667,166 @@
         "createdAt": "2026-10-20T16:24:03.724Z",
         "updatedAt": "2026-10-20T16:24:16.906Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96288,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.873679275938855,
+              34.68010480010253
+            ],
+            [
+              50.87459984539211,
+              34.679899044244095
+            ],
+            [
+              50.87449043985447,
+              34.67953125437258
+            ],
+            [
+              50.87375898568757,
+              34.67968042808404
+            ],
+            [
+              50.873679275938855,
+              34.68010480010253
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام حسن مجتبی",
+        "description": "",
+        "date": "",
+        "city": "قم",
+        "province": "استان قم",
+        "name:en": "Imam Hasan Mojtaba Mosque",
+        "city:en": "Qom",
+        "province:en": "Qom",
+        "name:ar": "مسجد الإمام الحسن المجتبى",
+        "city:ar": "قم",
+        "province:ar": "قم",
+        "name:he": "מסגד אימאם חסן מוג'תבא",
+        "city:he": "קום",
+        "province:he": "קום",
+        "name:tr": "İmam Hasan Mücteba Camii",
+        "city:tr": "Kum",
+        "province:tr": "Kum",
+        "name:ckb": "مزگەوتی ئیمام حەسەنی موجتەبا",
+        "city:ckb": "قوم",
+        "province:ckb": "قوم",
+        "id": "NDo3MDE4NGExYzM2ODc",
+        "publicId": "NDo3MDE4NGExYzM2ODc",
+        "sourceId": "70184a1c3687",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-21T19:13:14.363Z",
+        "updatedAt": "2026-10-21T19:13:14.363Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96289,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.873583948576965,
+              34.68069001364245
+            ],
+            [
+              50.87368723693322,
+              34.68012919837112
+            ],
+            [
+              50.87469200259807,
+              34.67988473968889
+            ],
+            [
+              50.87486813356682,
+              34.67995726085573
+            ],
+            [
+              50.87495369067571,
+              34.680020755163056
+            ],
+            [
+              50.87493188200011,
+              34.68009529189571
+            ],
+            [
+              50.87486306485226,
+              34.68021661069426
+            ],
+            [
+              50.87468299932132,
+              34.680265502292485
+            ],
+            [
+              50.87465238818072,
+              34.68032772792152
+            ],
+            [
+              50.873980743749996,
+              34.68051440452696
+            ],
+            [
+              50.8739357273663,
+              34.68059292710052
+            ],
+            [
+              50.873583948576965,
+              34.68069001364245
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مدینة حضرت آیت الله خویی",
+        "description": "",
+        "date": "",
+        "city": "قم",
+        "province": "استان قم",
+        "name:en": "Madinat Hazrat Ayatollah Khoei",
+        "city:en": "Qom",
+        "province:en": "Qom",
+        "name:ar": "مدينة حضرة آية الله الخوئي",
+        "city:ar": "قم",
+        "province:ar": "قم",
+        "name:he": "קריית חזראת אייתאללה ח'ואי",
+        "city:he": "קום",
+        "province:he": "קום",
+        "name:tr": "Hazreti Ayetullah Hoyi Kenti",
+        "city:tr": "Kum",
+        "province:tr": "Kum",
+        "name:ckb": "شارۆچکەی حەزرەتی ئایەتوڵڵا خوویی",
+        "city:ckb": "قوم",
+        "province:ckb": "قوم",
+        "id": "NDowYzNlMjRhZDUzYTE",
+        "publicId": "NDowYzNlMjRhZDUzYTE",
+        "sourceId": "0c3e24ad53a1",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-21T19:14:29.084Z",
+        "updatedAt": "2026-10-21T19:14:29.084Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5719,
+    "total": 5721,
     "layerId": 4,
     "clustered": false,
     "simplified": false
