@@ -104176,10 +104176,60 @@
         "createdAt": "2026-10-18T16:06:44.288Z",
         "updatedAt": "2026-10-18T16:06:44.288Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.49877652525902,
+          35.73248303879754
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه فرهنگی بسیج هنری",
+        "unofficial_name:fa": "",
+        "description": "پایگاه فرهنگی بسیج هنری",
+        "date": 1792625451,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Artistic Basij Cultural Base",
+        "description:en": "Artistic Basij Cultural Base",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "قاعدة البسيج الثقافية للفنون",
+        "description:ar": "قاعدة البسيج الثقافية للفنون",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בסיס תרבותי של הבסיג' האמנותי",
+        "description:he": "בסיס תרבותי של הבסיג' האמנותי",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Besic Sanat Kültür Üssü",
+        "description:tr": "Besic Sanat Kültür Üssü",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "بنکەی فەرهەنگیی بەسیجی هونەری",
+        "description:ckb": "بنکەی فەرهەنگیی بەسیجی هونەری",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MTowY2E0NDY3MzNkZjI",
+        "publicId": "MTowY2E0NDY3MzNkZjI",
+        "sourceId": "0ca446733df2",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:16:14.093Z",
+        "updatedAt": "2026-10-22T16:16:14.093Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2348,
+    "total": 2349,
     "layerId": 1,
     "clustered": false,
     "simplified": false

@@ -21472,10 +21472,602 @@
         "createdAt": "2026-10-21T20:11:59.359Z",
         "updatedAt": "2026-10-21T20:11:59.359Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.20633283492333,
+          34.407697675528695
+        ]
+      },
+      "properties": {
+        "name:fa": "پورتال لانچر",
+        "description": "پورتال لانچر",
+        "date": 1792681090,
+        "city": "شهرستان خنداب",
+        "province": "استان مرکزی",
+        "sources": "",
+        "name:en": "Portal Launcher",
+        "description:en": "Portal Launcher",
+        "city:en": "Khondab",
+        "province:en": "Markazi",
+        "name:ar": "بوابة اللانشر",
+        "description:ar": "بوابة اللانشر",
+        "city:ar": "مقاطعة خنداب",
+        "province:ar": "المركزية",
+        "name:he": "פורטל משגר",
+        "description:he": "פורטל משגר",
+        "city:he": "ח'ונדאב",
+        "province:he": "מרכזי",
+        "name:tr": "Portal Başlatıcı",
+        "description:tr": "Portal Başlatıcı",
+        "city:tr": "Hendab İlçesi",
+        "province:tr": "Merkezi",
+        "name:ckb": "پۆڕتاڵی لانچەر",
+        "description:ckb": "پۆڕتاڵی لانچەر",
+        "city:ckb": "شارۆچکەی خەنداب",
+        "province:ckb": "مەرکەزی",
+        "id": "Nzo2ZDBjNmE4NTQ5NTE",
+        "publicId": "Nzo2ZDBjNmE4NTQ5NTE",
+        "sourceId": "6d0c6a854951",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:24:15.329Z",
+        "updatedAt": "2026-10-22T16:24:20.698Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96321,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.20344934492931,
+              34.40697802551037
+            ],
+            [
+              49.20386576507744,
+              34.407229459620865
+            ],
+            [
+              49.20408098243783,
+              34.40738105059499
+            ],
+            [
+              49.204506373751286,
+              34.40763177894722
+            ],
+            [
+              49.20507873559865,
+              34.40759148276007
+            ],
+            [
+              49.20538004322859,
+              34.4075943610586
+            ],
+            [
+              49.2059244849863,
+              34.407680710004854
+            ],
+            [
+              49.206199032539985,
+              34.40781311154885
+            ],
+            [
+              49.20677090429717,
+              34.408024468548774
+            ],
+            [
+              49.20734442948199,
+              34.40823362365582
+            ],
+            [
+              49.20739328964012,
+              34.40823170480381
+            ],
+            [
+              49.20748170325879,
+              34.40810506048658
+            ],
+            [
+              49.20753987011295,
+              34.40804173825637
+            ],
+            [
+              49.207544523460996,
+              34.40795251139555
+            ],
+            [
+              49.207534053427594,
+              34.407927566234704
+            ],
+            [
+              49.2074677432131,
+              34.407893986199056
+            ],
+            [
+              49.20737700292133,
+              34.40786424387015
+            ],
+            [
+              49.207146662176115,
+              34.40768387081019
+            ],
+            [
+              49.206989611669854,
+              34.40759848130081
+            ],
+            [
+              49.206897708073626,
+              34.40748036474615
+            ],
+            [
+              49.206786027713264,
+              34.40742663639456
+            ],
+            [
+              49.20656034031771,
+              34.407100427806725
+            ],
+            [
+              49.20643586324914,
+              34.40698913282151
+            ],
+            [
+              49.206381186405565,
+              34.406925809745914
+            ],
+            [
+              49.206004247606614,
+              34.40666482689784
+            ],
+            [
+              49.20596004079812,
+              34.40661397635654
+            ],
+            [
+              49.205790193583624,
+              34.40651611296329
+            ],
+            [
+              49.20571341333337,
+              34.40645183008422
+            ],
+            [
+              49.20565873649147,
+              34.40643935728099
+            ],
+            [
+              49.2055355057808,
+              34.406442235618385
+            ],
+            [
+              49.20539474199339,
+              34.4064326411533
+            ],
+            [
+              49.205030617485306,
+              34.406337655890766
+            ],
+            [
+              49.204141827956306,
+              34.40610163143609
+            ],
+            [
+              49.20407784441508,
+              34.40616591458489
+            ],
+            [
+              49.20366603558213,
+              34.40666869557721
+            ],
+            [
+              49.203610195401126,
+              34.40672434330146
+            ],
+            [
+              49.203571805278045,
+              34.406756964364064
+            ],
+            [
+              49.203539231838704,
+              34.40680685537649
+            ],
+            [
+              49.203512475086455,
+              34.406866340775565
+            ],
+            [
+              49.20344934492931,
+              34.40697802551037
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان خنداب",
+        "province": "استان مرکزی",
+        "sources": "",
+        "city:en": "Khondab",
+        "province:en": "Markazi",
+        "city:ar": "مقاطعة خنداب",
+        "province:ar": "المركزية",
+        "city:he": "נפת ח'נדאב",
+        "province:he": "מרכזי",
+        "city:tr": "Khandab ilçesi",
+        "province:tr": "Merkezi",
+        "city:ckb": "شارستانی خەنداب",
+        "province:ckb": "مەرکەزی",
+        "id": "Nzo1NGI4YTc3MGE2OWI",
+        "publicId": "Nzo1NGI4YTc3MGE2OWI",
+        "sourceId": "54b8a770a69b",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:25:40.408Z",
+        "updatedAt": "2026-10-22T16:25:40.408Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.38364076241851,
+          32.56929574271544
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اختفای لانچر",
+        "description": "وجود لانچر موشکی داخل سیلو",
+        "date": 1792681066,
+        "city": "شهرستان دهلران",
+        "province": "استان ایلام",
+        "sources": "",
+        "name:en": "Launcher Hiding Location",
+        "description:en": "Presence of a missile launcher inside the silo",
+        "city:en": "Dehloran County",
+        "province:en": "Ilam",
+        "name:ar": "موقع إخفاء منصة الإطلاق",
+        "description:ar": "وجود منصة إطلاق صواريخ داخل الصومعة",
+        "city:ar": "مقاطعة دهلران",
+        "province:ar": "إيلام",
+        "name:he": "מקום מסתור של משגר",
+        "description:he": "נוכחות של משגר טילים בתוך סילו",
+        "city:he": "דהלוראן",
+        "province:he": "אילאם",
+        "name:tr": "Lançer Gizlenme Yeri",
+        "description:tr": "Silo içerisinde füze fırlatıcısı bulunması.",
+        "city:tr": "Dehloran",
+        "province:tr": "İlam",
+        "name:ckb": "شوێنی حەشاردانی لانچەر",
+        "description:ckb": "بوونی لانچەری مووشەکی لەناو سیڵۆدا",
+        "city:ckb": "شارستانی دێهلۆڕان",
+        "province:ckb": "ئیلام",
+        "id": "NzpiZmFmNjdlZWUzNDY",
+        "publicId": "NzpiZmFmNjdlZWUzNDY",
+        "sourceId": "bfaf67eee346",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:31:31.852Z",
+        "updatedAt": "2026-10-22T16:31:31.852Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96326,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.88710716929694,
+              26.551229167753732
+            ],
+            [
+              54.887936168398795,
+              26.551803355270337
+            ],
+            [
+              54.88818323772219,
+              26.55150168289019
+            ],
+            [
+              54.887359255255916,
+              26.55093310119159
+            ],
+            [
+              54.88710716929694,
+              26.551229167753732
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اختفای موشک",
+        "description": "محل نگهداری و جابجایی موشک و پهباد در سوله گمرک بندر لنگه",
+        "date": "",
+        "city": "بندرلنگه",
+        "province": "استان هرمزگان",
+        "sources": "",
+        "name:en": "Missile Concealment Location",
+        "description:en": "Storage and transportation site for missiles and drones in the Bandar Lengeh customs shed",
+        "city:en": "Bandar Lengeh",
+        "province:en": "Hormozgan",
+        "name:ar": "موقع إخفاء الصواريخ",
+        "description:ar": "موقع تخزين ونقل الصواريخ والطائرات المسيرة في مستودع جمرك بندر لنجة",
+        "city:ar": "بندر لنجة",
+        "province:ar": "هرمزكان",
+        "name:he": "אתר הסתרת טילים",
+        "description:he": "מקום אחסון ושינוע של טילים וכטב\"מים בסככת המכס של בנדר לנגה",
+        "city:he": "בנדר לנגה",
+        "province:he": "הורמוזגאן",
+        "name:tr": "Füze Saklama Yeri",
+        "description:tr": "Bender Lenge gümrük hangarında füze ve İHA depolama ve transfer yeri",
+        "city:tr": "Bender Lenge",
+        "province:tr": "Hürmüzgan",
+        "name:ckb": "شوێنی شاردنەوەی مووشەک",
+        "description:ckb": "شوێنی ڕاگرتن و گواستنەوەی مووشەک و درۆن لە سۆلەی گومرگی بەندەر لەنگە",
+        "city:ckb": "بەندەر لەنگە",
+        "province:ckb": "ھورمزگان",
+        "id": "NzoxYmVjMzQyYzU1ZTU",
+        "publicId": "NzoxYmVjMzQyYzU1ZTU",
+        "sourceId": "1bec342c55e5",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:33:52.907Z",
+        "updatedAt": "2026-10-22T16:33:52.907Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96327,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.62024722729336,
+              34.763357086637185
+            ],
+            [
+              48.62142031409488,
+              34.76296686688269
+            ],
+            [
+              48.62144299894902,
+              34.76292495177695
+            ],
+            [
+              48.621003479917334,
+              34.76112255052573
+            ],
+            [
+              48.62091841171571,
+              34.76044956261157
+            ],
+            [
+              48.620240701706194,
+              34.76028189694934
+            ],
+            [
+              48.61972745688695,
+              34.7601934066015
+            ],
+            [
+              48.61946374546051,
+              34.76017011965176
+            ],
+            [
+              48.61903840445038,
+              34.76021203615619
+            ],
+            [
+              48.61843442021549,
+              34.76029354040928
+            ],
+            [
+              48.61812533908167,
+              34.760407646228586
+            ],
+            [
+              48.61794954107924,
+              34.76057065427047
+            ],
+            [
+              48.61762344630435,
+              34.76080817969408
+            ],
+            [
+              48.617334214418264,
+              34.76089666938387
+            ],
+            [
+              48.61703364010401,
+              34.76110159250973
+            ],
+            [
+              48.617385255338576,
+              34.76157431096438
+            ],
+            [
+              48.61757240538401,
+              34.761779232409026
+            ],
+            [
+              48.617810596348704,
+              34.761967852834175
+            ],
+            [
+              48.6181763896179,
+              34.76212154323275
+            ],
+            [
+              48.61874634657721,
+              34.76243773692022
+            ],
+            [
+              48.619409878553114,
+              34.76281497433125
+            ],
+            [
+              48.61981253471009,
+              34.76311070862711
+            ],
+            [
+              48.620079081743,
+              34.76328069715201
+            ],
+            [
+              48.62024722729336,
+              34.763357086637185
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان همدان",
+        "province": "استان همدان",
+        "sources": "",
+        "city:en": "Hamadan",
+        "province:en": "Hamadan",
+        "city:ar": "مقاطعة همدان",
+        "province:ar": "همدان",
+        "city:he": "נפת המדאן",
+        "province:he": "המדאן",
+        "city:tr": "Hamedan ilçesi",
+        "province:tr": "Hemedan",
+        "city:ckb": "شارستانی هەمەدان",
+        "province:ckb": "ھەمەدان",
+        "id": "Nzo3Y2YwNjk2MzdlOGY",
+        "publicId": "Nzo3Y2YwNjk2MzdlOGY",
+        "sourceId": "7cf069637e8f",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:35:04.127Z",
+        "updatedAt": "2026-10-22T16:35:04.127Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96329,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.92070529409972,
+              35.1822772240661
+            ],
+            [
+              48.92183655647008,
+              35.182170249975655
+            ],
+            [
+              48.92179989518948,
+              35.18188355872006
+            ],
+            [
+              48.92062935287595,
+              35.18201192806393
+            ],
+            [
+              48.920626734212306,
+              35.181962719839134
+            ],
+            [
+              48.920108238959415,
+              35.1820269044739
+            ],
+            [
+              48.92022084146373,
+              35.18262595862164
+            ],
+            [
+              48.920752430031996,
+              35.18255535604126
+            ],
+            [
+              48.92070529409972,
+              35.1822772240661
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اختفای لانچر موشکی",
+        "unofficial_name:fa": "",
+        "description": "محل پنهان‌سازی لانچر موشکی",
+        "date": "",
+        "city": "شهرستان فامنین",
+        "province": "استان همدان",
+        "name:en": "Missile Launcher Hiding Spot",
+        "description:en": "Location where a missile launcher was concealed",
+        "city:en": "Famenin County",
+        "province:en": "Hamadan",
+        "name:ar": "موقع إخفاء منصة إطلاق الصواريخ",
+        "description:ar": "موقع إخفاء منصة إطلاق الصواريخ",
+        "city:ar": "مقاطعة فامنين",
+        "province:ar": "همدان",
+        "name:he": "מקום מחבוא של משגר טילים",
+        "description:he": "מקום הסתרת משגר טילים",
+        "city:he": "פמנין",
+        "province:he": "המדאן",
+        "name:tr": "Füze Rampası Saklanma Yeri",
+        "description:tr": "Füze rampasının gizlendiği yer",
+        "city:tr": "Famenin",
+        "province:tr": "Hemedan",
+        "name:ckb": "شوێنی شاردنەوەی لانچەری مووشەکی",
+        "description:ckb": "شوێنی شاردرانەوەی لانچەری مووشەکی",
+        "city:ckb": "شارستانی فامەنین",
+        "province:ckb": "ھەمەدان",
+        "id": "Nzo2YzRmNzliYTgwMTg",
+        "publicId": "Nzo2YzRmNzliYTgwMTg",
+        "sourceId": "6c4f79ba8018",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:38:06.714Z",
+        "updatedAt": "2026-10-22T16:38:22.652Z"
+      }
     }
   ],
   "metadata": {
-    "total": 197,
+    "total": 203,
     "layerId": 7,
     "clustered": false,
     "simplified": false

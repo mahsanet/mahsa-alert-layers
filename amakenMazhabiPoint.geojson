@@ -15298,8 +15298,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.4988839,
-          35.7326524
+          51.49887459093736,
+          35.7324635555935
         ]
       },
       "properties": {
@@ -15332,7 +15332,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:53:47.760Z",
-        "updatedAt": "2026-03-11T20:53:47.760Z"
+        "updatedAt": "2026-10-22T16:17:03.175Z"
       }
     },
     {
@@ -246823,10 +246823,151 @@
         "createdAt": "2026-10-21T19:14:29.084Z",
         "updatedAt": "2026-10-21T19:14:29.084Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.52900401502848,
+          32.6852803858127
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع گاردر",
+        "description": "مسجد جامع گاردر",
+        "date": 1792519815,
+        "city": "خمینی شهر",
+        "province": "استان اصفهان",
+        "name:en": "Gardar Jameh Mosque",
+        "description:en": "Gardar Jameh Mosque",
+        "city:en": "Khomeyni Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "مسجد غاردر الجامع",
+        "description:ar": "مسجد غاردر الجامع",
+        "city:ar": "خميني شهر",
+        "province:ar": "أصفهان",
+        "name:he": "מסגד ג'אמע גארדר",
+        "city:he": "חומייני שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Garder Cuma Camii",
+        "description:tr": "Garder Cuma Camii",
+        "city:tr": "Humeynişehir",
+        "province:tr": "İsfahan",
+        "name:ckb": "مزگەوتی جامیعی گاردەر",
+        "description:ckb": "مزگەوتی جامیعی گاردەر",
+        "city:ckb": "خومەینیشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDpmMDEwOTIxYTJjNTI",
+        "publicId": "NDpmMDEwOTIxYTJjNTI",
+        "sourceId": "f010921a2c52",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:26:28.646Z",
+        "updatedAt": "2026-10-22T16:26:28.646Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.528606712818146,
+          32.68548228895169
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع",
+        "description": "مسجد جامع",
+        "date": 1792519874,
+        "city": "خمینی شهر",
+        "province": "استان اصفهان",
+        "name:en": "Jameh Mosque",
+        "description:en": "Jameh Mosque",
+        "city:en": "Khomeyni Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "المسجد الجامع",
+        "description:ar": "المسجد الجامع",
+        "city:ar": "خميني شهر",
+        "province:ar": "أصفهان",
+        "name:he": "מסגד ג'אמע",
+        "description:he": "מסגד ג'אמע",
+        "city:he": "ח'ומייני שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Ulu Cami",
+        "description:tr": "Ulu Cami",
+        "city:tr": "Humeynişehir",
+        "province:tr": "İsfahan",
+        "name:ckb": "مزگەوتی جامیع",
+        "description:ckb": "مزگەوتی جامیع",
+        "city:ckb": "خومەینی شار",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDplMGQ3YTBmZTY2ZWM",
+        "publicId": "NDplMGQ3YTBmZTY2ZWM",
+        "sourceId": "e0d7a0fe66ec",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:26:55.061Z",
+        "updatedAt": "2026-10-22T16:26:55.061Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.854037590986366,
+          35.148553678153036
+        ]
+      },
+      "properties": {
+        "name:fa": "امامزاده",
+        "description": "",
+        "date": "",
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "name:en": "Imamzadeh",
+        "city:en": "Kabudarahang",
+        "province:en": "Hamadan",
+        "name:ar": "إمامزاده",
+        "city:ar": "مقاطعة كبودرآهنغ",
+        "province:ar": "همدان",
+        "name:he": "אימאמזאדה",
+        "city:he": "מחוז כבודראחאנג'",
+        "province:he": "המדאן",
+        "name:tr": "İmamzade",
+        "city:tr": "Kabudarahang Şehristanı",
+        "province:tr": "Hemedan",
+        "name:ckb": "ئیمامزادە",
+        "city:ckb": "شارستانی کەبوودەرئاهەنگ",
+        "province:ckb": "ھەمەدان",
+        "id": "NDo5NWI4ZThlYmZiYjE",
+        "publicId": "NDo5NWI4ZThlYmZiYjE",
+        "sourceId": "95b8e8ebfbb1",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:38:43.227Z",
+        "updatedAt": "2026-10-22T16:38:43.227Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5721,
+    "total": 5724,
     "layerId": 4,
     "clustered": false,
     "simplified": false

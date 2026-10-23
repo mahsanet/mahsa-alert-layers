@@ -12812,10 +12812,110 @@
         "createdAt": "2026-10-21T18:10:46.757Z",
         "updatedAt": "2026-10-21T18:10:46.757Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.969824239611626,
+          35.12270740680901
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "فامنین",
+        "province": "استان همدان",
+        "date": 1792661817,
+        "description": "ایست بازرسی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint",
+        "city:en": "Famenin",
+        "province:en": "Hamadan",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش",
+        "city:ar": "فامنين",
+        "province:ar": "همدان",
+        "name:he": "מחסום",
+        "description:he": "מחסום",
+        "city:he": "פאמנין",
+        "province:he": "המדאן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Kontrol noktası",
+        "city:tr": "Famenin",
+        "province:tr": "Hemedan",
+        "name:ckb": "بازگەی پشکنین",
+        "description:ckb": "بازگەی پشکنین",
+        "city:ckb": "فامەنین",
+        "province:ckb": "ھەمەدان",
+        "id": "Mzk6YTQ4MjFlMTEzMTBj",
+        "publicId": "Mzk6YTQ4MjFlMTEzMTBj",
+        "sourceId": "a4821e11310c",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:19:44.003Z",
+        "updatedAt": "2026-10-22T16:19:44.003Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.96667432039976,
+          35.123411625486355
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "فامنین",
+        "province": "استان همدان",
+        "date": 1792658995,
+        "description": "ایست بازرسی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint",
+        "city:en": "Famenin",
+        "province:en": "Hamadan",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش",
+        "city:ar": "فامنين",
+        "province:ar": "همدان",
+        "name:he": "מחסום",
+        "description:he": "מחסום",
+        "city:he": "פאמנין",
+        "province:he": "המדאן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Kontrol noktası",
+        "city:tr": "Famenin",
+        "province:tr": "Hemedan",
+        "name:ckb": "بازگەی پشکنین",
+        "description:ckb": "بازگەی پشکنین",
+        "city:ckb": "فامەنین",
+        "province:ckb": "ھەمەدان",
+        "id": "Mzk6OGNhOGNlMDRhYTBl",
+        "publicId": "Mzk6OGNhOGNlMDRhYTBl",
+        "sourceId": "8ca8ce04aa0e",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:20:00.359Z",
+        "updatedAt": "2026-10-22T16:20:00.359Z"
+      }
     }
   ],
   "metadata": {
-    "total": 264,
+    "total": 266,
     "layerId": 39,
     "clustered": false,
     "simplified": false

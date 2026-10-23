@@ -87729,56 +87729,6 @@
     },
     {
       "type": "Feature",
-      "id": 95143,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.8876815661788,
-          26.551431928104336
-        ]
-      },
-      "properties": {
-        "name:fa": "محل نگهداری موشک و پهپاد بندر لنگه",
-        "unofficial_name:fa": "",
-        "description": "نگهداری موشک، پهپاد و موتور جنگنده در بلوار امام خمینی، بندر لنگه",
-        "date": 1790595921,
-        "city": "بندرلنگه",
-        "province": "استان هرمزگان",
-        "name:en": "Bandar Lengeh Missile and Drone Storage Facility",
-        "description:en": "Storage of missiles, drones, and fighter jet engines on Imam Khomeini Boulevard, Bandar Lengeh",
-        "city:en": "Bandar Lengeh",
-        "province:en": "Hormozgan",
-        "name:ar": "موقع تخزين الصواريخ والطائرات المسيرة في بندر لنجة",
-        "description:ar": "تخزين الصواريخ والطائرات المسيرة ومحركات الطائرات المقاتلة في شارع إمام خميني، بندر لنجة",
-        "city:ar": "بندر لنجة",
-        "province:ar": "هرمزكان",
-        "name:he": "אתר אחסון טילים וכטב\"מים בבנדר לנגה",
-        "description:he": "אחסון טילים, כטב\"מים ומנועי מטוסי קרב בשדרות אימאם ח'ומייני, בנדר לנגה",
-        "city:he": "בנדר לנגה",
-        "province:he": "הורמוזגאן",
-        "name:tr": "Bandar Lenge Füze ve İHA Depolama Sahası",
-        "description:tr": "Bandar Lenge, İmam Humeyni Bulvarı'nda füze, İHA ve savaş uçağı motoru depolanması",
-        "city:tr": "Bandar Lenge",
-        "province:tr": "Hürmüzgan",
-        "name:ckb": "شوێنی ڕاگرتنی مووشەک و فڕۆکەی بێفڕۆکەوانی بەندەر لەنگە",
-        "description:ckb": "ڕاگرتنی مووشەک، فڕۆکەی بێفڕۆکەوان و مۆتۆری فڕۆکەی جەنگی لە بلواری ئیمام خومەینی، بەندەر لەنگە",
-        "city:ckb": "بەندەر لەنگە",
-        "province:ckb": "ھورمزگان",
-        "id": "MTI6ZDMwZGUwNWQxMjli",
-        "publicId": "MTI6ZDMwZGUwNWQxMjli",
-        "sourceId": "d30de05d129b",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-09-29T08:14:34.928Z",
-        "updatedAt": "2026-09-29T08:14:34.928Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 95156,
       "geometry": {
         "type": "Polygon",
@@ -90505,10 +90455,204 @@
         "createdAt": "2026-10-21T23:08:35.454Z",
         "updatedAt": "2026-10-21T23:08:35.454Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96328,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.15191888216984,
+              29.249527184581552
+            ],
+            [
+              51.1522147814444,
+              29.249658091602882
+            ],
+            [
+              51.152566429857956,
+              29.24909145000447
+            ],
+            [
+              51.15277656122578,
+              29.249177475003364
+            ],
+            [
+              51.152918078269835,
+              29.248934360688637
+            ],
+            [
+              51.1521547439105,
+              29.248608960624736
+            ],
+            [
+              51.152111859957955,
+              29.248549116821906
+            ],
+            [
+              51.15177950932403,
+              29.248390156551636
+            ],
+            [
+              51.15174520216135,
+              29.248461221173542
+            ],
+            [
+              51.15181167228846,
+              29.2485042339473
+            ],
+            [
+              51.15173448117321,
+              29.24865945380607
+            ],
+            [
+              51.15177950932403,
+              29.248685635445923
+            ],
+            [
+              51.15152649400133,
+              29.249147553273005
+            ],
+            [
+              51.151695885614856,
+              29.24922235758332
+            ],
+            [
+              51.15200679427252,
+              29.248698726262973
+            ],
+            [
+              51.152223358233556,
+              29.248797842397195
+            ],
+            [
+              51.15209685057414,
+              29.249027866263035
+            ],
+            [
+              51.15218690687419,
+              29.249065268468442
+            ],
+            [
+              51.15191888216984,
+              29.249527184581552
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اختفای مهمات پدافند هوایی",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان دشتستان",
+        "province": "استان بوشهر",
+        "name:en": "Air Defense Ammunition Hiding Place",
+        "city:en": "Dashtestan",
+        "province:en": "Bushehr",
+        "name:ar": "موقع إخفاء ذخائر الدفاع الجوي",
+        "city:ar": "مقاطعة دشتستان",
+        "province:ar": "بوشهر",
+        "name:ckb": "شوێنی شاردنەوەی تەقەمەنیی بەرگریی ئاسمانی",
+        "city:ckb": "شارستانی دەشتستان",
+        "province:ckb": "بووشەھر",
+        "name:he": "מקום מסתור תחמושת הגנה אווירית",
+        "city:he": "מחוז דשתסטאן",
+        "province:he": "בושהר",
+        "name:tr": "Hava Savunma Mühimmatı Gizleme Yeri",
+        "city:tr": "Deştestan İlçesi",
+        "province:tr": "Buşehr",
+        "id": "MTI6MmQyYTBkMWZiNjU1",
+        "publicId": "MTI6MmQyYTBkMWZiNjU1",
+        "sourceId": "2d2a0d1fb655",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:36:44.583Z",
+        "updatedAt": "2026-10-22T16:36:50.749Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96331,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.4986123321745,
+              37.07400456959283
+            ],
+            [
+              57.49881046749974,
+              37.074016275049374
+            ],
+            [
+              57.49883143420067,
+              37.07378634610332
+            ],
+            [
+              57.49865531391177,
+              37.07377464061129
+            ],
+            [
+              57.49865007223656,
+              37.07390089261098
+            ],
+            [
+              57.498616525515956,
+              37.07389922040028
+            ],
+            [
+              57.4986123321745,
+              37.07400456959283
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان سپاه",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "اسفراین",
+        "province": "استان خراسان شمالی",
+        "name:en": "Sepah Building",
+        "city:en": "Esfarayen",
+        "province:en": "North Khorasan",
+        "name:ar": "مبنى الحرس الثوري",
+        "city:ar": "إسفراين",
+        "province:ar": "خراسان الشمالية",
+        "name:he": "בניין משמרות המהפכה",
+        "city:he": "אספראין",
+        "province:he": "ח'וראסאן הצפונית",
+        "name:tr": "Devrim Muhafızları Binası",
+        "city:tr": "Esferayen",
+        "province:tr": "Kuzey Horasan",
+        "name:ckb": "باڵەخانەی سوپا",
+        "city:ckb": "ئەسفەراین",
+        "province:ckb": "خوراسانی باکوور",
+        "id": "MTI6N2YxOWRkMDA1YWZj",
+        "publicId": "MTI6N2YxOWRkMDA1YWZj",
+        "sourceId": "7f19dd005afc",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-22T16:40:13.320Z",
+        "updatedAt": "2026-10-22T16:40:13.320Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1100,
+    "total": 1101,
     "layerId": 12,
     "clustered": false,
     "simplified": false
