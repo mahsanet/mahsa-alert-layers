@@ -246964,10 +246964,54 @@
         "createdAt": "2026-10-22T16:38:43.227Z",
         "updatedAt": "2026-10-22T16:38:43.227Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83743664413447,
+          28.901129197673498
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد علی اصفر",
+        "description": "",
+        "date": "",
+        "city": "بوشهر",
+        "province": "استان بوشهر",
+        "name:en": "Ali Asghar Mosque",
+        "city:en": "Bushehr",
+        "province:en": "Bushehr",
+        "name:ar": "مسجد علي الأصغر",
+        "city:ar": "بوشهر",
+        "province:ar": "بوشهر",
+        "name:he": "מסגד עלי אסע'ר",
+        "city:he": "בושהר",
+        "province:he": "בושהר",
+        "name:tr": "Ali Asgar Camii",
+        "city:tr": "Buşehr",
+        "province:tr": "Buşehr",
+        "name:ckb": "مزگەوتی عەلی ئەسغەر",
+        "city:ckb": "بووشەهر",
+        "province:ckb": "بووشەھر",
+        "id": "NDplNDEyNTgxMGVkZjk",
+        "publicId": "NDplNDEyNTgxMGVkZjk",
+        "sourceId": "e4125810edf9",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-23T12:50:33.140Z",
+        "updatedAt": "2026-10-23T12:50:33.140Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5724,
+    "total": 5725,
     "layerId": 4,
     "clustered": false,
     "simplified": false

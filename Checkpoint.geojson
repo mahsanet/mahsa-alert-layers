@@ -12912,10 +12912,110 @@
         "createdAt": "2026-10-22T16:20:00.359Z",
         "updatedAt": "2026-10-22T16:20:00.359Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.867695443332195,
+          35.14419375518591
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "روعان",
+        "province": "استان همدان",
+        "date": 1792695928,
+        "description": "گشت و ایست بازرسی سپاه",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "IRGC patrol and checkpoint",
+        "city:en": "Rouan",
+        "province:en": "Hamadan",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "دورية ونقطة تفتيش للحرس الثوري",
+        "city:ar": "روعان",
+        "province:ar": "همدان",
+        "name:he": "מחסום",
+        "description:he": "סיור ומחסום של משמרות המהפכה",
+        "city:he": "רועאן",
+        "province:he": "המדאן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Sepah devriyesi ve kontrol noktası",
+        "city:tr": "Ruan",
+        "province:tr": "Hemedan",
+        "name:ckb": "بازگەی پشکنین",
+        "description:ckb": "دەوریە و بازگەی پشکنینی سوپا",
+        "city:ckb": "ڕوعان",
+        "province:ckb": "ھەمەدان",
+        "id": "Mzk6NDUzNTNjMmU2YTA5",
+        "publicId": "Mzk6NDUzNTNjMmU2YTA5",
+        "sourceId": "45353c2e6a09",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-23T12:48:33.206Z",
+        "updatedAt": "2026-10-23T12:48:33.206Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.48678436875343,
+          35.65646591382516
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1792780826,
+        "description": "ایست بازرسی در دو طرف ده حقی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint on both sides of Deh Haqqi",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش على كلا جانبي ده حقي",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מחסום",
+        "description:he": "מחסום בשני הצדדים של דה האקי",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Deh Hakki'nin her iki tarafında kontrol noktası",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "بازگەی پشکنین",
+        "description:ckb": "بازگەی پشکنین لە دوو لای دەی حەقی",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzk6YTlhMDQzYTgwZjJh",
+        "publicId": "Mzk6YTlhMDQzYTgwZjJh",
+        "sourceId": "a9a043a80f2a",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-24T01:57:52.804Z",
+        "updatedAt": "2026-10-24T01:57:52.804Z"
+      }
     }
   ],
   "metadata": {
-    "total": 266,
+    "total": 268,
     "layerId": 39,
     "clustered": false,
     "simplified": false
