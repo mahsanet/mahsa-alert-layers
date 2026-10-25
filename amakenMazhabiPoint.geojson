@@ -1897,8 +1897,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.2254586,
-          35.3700375
+          51.225497123083954,
+          35.370141685196955
         ]
       },
       "properties": {
@@ -1931,7 +1931,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:53:47.605Z",
-        "updatedAt": "2026-03-11T20:53:47.605Z"
+        "updatedAt": "2026-10-24T14:31:23.566Z"
       }
     },
     {
@@ -247008,10 +247008,302 @@
         "createdAt": "2026-10-23T12:50:33.140Z",
         "updatedAt": "2026-10-23T12:50:33.140Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96351,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.35498169940328,
+              32.45370618071816
+            ],
+            [
+              48.35539210541242,
+              32.45386570822363
+            ],
+            [
+              48.35551197647504,
+              32.453654720172295
+            ],
+            [
+              48.35509344361324,
+              32.4534917615824
+            ],
+            [
+              48.35498169940328,
+              32.45370618071816
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "انديمشك",
+        "province": "استان خوزستان",
+        "name:en": "Mosque",
+        "city:en": "Andimeshk",
+        "province:en": "Khuzestan",
+        "name:ar": "مسجد",
+        "city:ar": "أنديمشك",
+        "province:ar": "خوزستان",
+        "name:he": "מסגד",
+        "city:he": "אנדימשק",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Cami",
+        "city:tr": "Andimeşk",
+        "province:tr": "Huzistan",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "ئەندیمەشک",
+        "province:ckb": "خووزستان",
+        "id": "NDo5MjliYWI5ZjI4Y2U",
+        "publicId": "NDo5MjliYWI5ZjI4Y2U",
+        "sourceId": "929bab9f28ce",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-24T02:03:43.712Z",
+        "updatedAt": "2026-10-24T02:03:43.712Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96353,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.50564976630457,
+              34.8320759944788
+            ],
+            [
+              48.50601939880087,
+              34.83218375578687
+            ],
+            [
+              48.50590738895281,
+              34.83227837535634
+            ],
+            [
+              48.50570577122815,
+              34.83235196827921
+            ],
+            [
+              48.50574577474569,
+              34.832400592138896
+            ],
+            [
+              48.5056257641952,
+              34.83248995483304
+            ],
+            [
+              48.505478551252935,
+              34.83247418495344
+            ],
+            [
+              48.50564976630457,
+              34.8320759944788
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "همدان",
+        "province": "استان همدان",
+        "name:en": "Mosque",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "name:ar": "مسجد",
+        "city:ar": "همدان",
+        "province:ar": "همدان",
+        "name:he": "מסגד",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "name:tr": "Cami",
+        "city:tr": "Hemedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "هەمەدان",
+        "province:ckb": "ھەمەدان",
+        "id": "NDpmNDg5NGY0YzQyNGI",
+        "publicId": "NDpmNDg5NGY0YzQyNGI",
+        "sourceId": "f4894f4c424b",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-24T02:05:01.159Z",
+        "updatedAt": "2026-10-24T02:05:01.159Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96395,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2751157776014,
+          34.72893920916596
+        ]
+      },
+      "properties": {
+        "name:fa": "امامزاده هادی",
+        "description": "",
+        "date": "",
+        "city": "جمزقان",
+        "province": "استان قم",
+        "name:en": "Imamzadeh Hadi",
+        "city:en": "Jamzeqan",
+        "province:en": "Qom",
+        "name:ar": "إمامزاده هادي",
+        "city:ar": "جمزقان",
+        "province:ar": "قم",
+        "name:he": "אימאמזאדה האדי",
+        "city:he": "ג'מזקאן",
+        "province:he": "קום",
+        "name:tr": "İmamzade Hadi",
+        "city:tr": "Cemazkan",
+        "province:tr": "Kum",
+        "name:ckb": "ئیمامزادە هادی",
+        "city:ckb": "جەمزەقان",
+        "province:ckb": "قوم",
+        "id": "NDplODAzNzcxMGRlYzU",
+        "publicId": "NDplODAzNzcxMGRlYzU",
+        "sourceId": "e8037710dec5",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-24T23:59:50.778Z",
+        "updatedAt": "2026-10-24T23:59:50.778Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96396,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.27589036892698,
+          34.727339564794974
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام جعفر صادق",
+        "description": "",
+        "date": "",
+        "city": "جمزقان",
+        "province": "استان قم",
+        "name:en": "Imam Ja'far Sadiq Mosque",
+        "city:en": "Jamzeqan",
+        "province:en": "Qom",
+        "name:ar": "مسجد الإمام جعفر الصادق",
+        "city:ar": "جمزقان",
+        "province:ar": "قم",
+        "name:he": "מסגד אימאם ג'עפר א-צאדק",
+        "city:he": "ג'מזקאן",
+        "province:he": "קום",
+        "name:tr": "İmam Cafer Sadık Camii",
+        "city:tr": "Cemzekan",
+        "province:tr": "Kum",
+        "name:ckb": "مزگەوتی ئیمام جەعفەری سادق",
+        "city:ckb": "جەمزەقان",
+        "province:ckb": "قوم",
+        "id": "NDo2MTJlZWUxZDgyOTA",
+        "publicId": "NDo2MTJlZWUxZDgyOTA",
+        "sourceId": "612eee1d8290",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-25T00:00:19.014Z",
+        "updatedAt": "2026-10-25T00:00:19.014Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96397,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.27469557121995,
+              34.72810014912476
+            ],
+            [
+              50.2746669632283,
+              34.72795905546907
+            ],
+            [
+              50.27498045913393,
+              34.72793064074527
+            ],
+            [
+              50.274999531127776,
+              34.7280697748166
+            ],
+            [
+              50.27469557121995,
+              34.72810014912476
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "حسنیه شهدا",
+        "description": "",
+        "date": "",
+        "city": "جمزقان",
+        "province": "استان قم",
+        "name:en": "Hosseiniyeh Shohada",
+        "city:en": "Jamzeqan",
+        "province:en": "Qom",
+        "name:ar": "حسينية الشهداء",
+        "city:ar": "جمزقان",
+        "province:ar": "قم",
+        "name:he": "חוסייניית שוהדא",
+        "city:he": "ג'מזקאן",
+        "province:he": "קום",
+        "name:tr": "Şehitler Hüseyniyesi",
+        "city:tr": "Cemzagan",
+        "province:tr": "Kum",
+        "name:ckb": "حوسێنیەی شەهیدان",
+        "city:ckb": "جەمزەقان",
+        "province:ckb": "قوم",
+        "id": "NDoxN2MyZWRjMGRlNGY",
+        "publicId": "NDoxN2MyZWRjMGRlNGY",
+        "sourceId": "17c2edc0de4f",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-25T00:00:37.392Z",
+        "updatedAt": "2026-10-25T00:00:37.392Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5725,
+    "total": 5730,
     "layerId": 4,
     "clustered": false,
     "simplified": false

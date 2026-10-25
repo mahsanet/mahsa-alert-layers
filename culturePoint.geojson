@@ -122930,10 +122930,98 @@
         "createdAt": "2026-10-14T11:29:48.062Z",
         "updatedAt": "2026-10-14T11:29:48.062Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96374,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.22628994311958,
+              35.37038659832861
+            ],
+            [
+              51.226796553049496,
+              35.37037513932738
+            ],
+            [
+              51.226807979987086,
+              35.370812280706076
+            ],
+            [
+              51.226842260798236,
+              35.370822639478035
+            ],
+            [
+              51.22680544066705,
+              35.37091379661153
+            ],
+            [
+              51.22666704776532,
+              35.370896186718326
+            ],
+            [
+              51.226588328866455,
+              35.37084853640131
+            ],
+            [
+              51.22654516043957,
+              35.370791563158235
+            ],
+            [
+              51.22641438549442,
+              35.37059992559283
+            ],
+            [
+              51.226300116125344,
+              35.370413466983734
+            ],
+            [
+              51.22628994311958,
+              35.37038659832861
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره تامین اجتماعی فشافویه",
+        "description": "",
+        "date": "",
+        "city": "حسن آباد",
+        "province": "استان تهران",
+        "name:en": "Fashafuyeh Social Security Office",
+        "city:en": "Hasanabad",
+        "province:en": "Tehran",
+        "name:ar": "إدارة التأمين الاجتماعي في فشافويه",
+        "city:ar": "حسن آباد",
+        "province:ar": "طهران",
+        "name:he": "משרד הביטוח הלאומי פשאפויה",
+        "city:he": "חסן אבאד",
+        "province:he": "טהראן",
+        "name:tr": "Feşafuye Sosyal Güvenlik Kurumu",
+        "city:tr": "Hasanabad",
+        "province:tr": "Tahran",
+        "name:ckb": "ئیدارەی دەستەبەری کۆمەڵایەتیی فەشافوویە",
+        "city:ckb": "حەسەنئاباد",
+        "province:ckb": "تاران",
+        "id": "MTc6NDg3Zjg1NzA3ODJi",
+        "publicId": "MTc6NDg3Zjg1NzA3ODJi",
+        "sourceId": "487f8570782b",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-24T14:30:34.900Z",
+        "updatedAt": "2026-10-24T14:30:34.900Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2428,
+    "total": 2429,
     "layerId": 17,
     "clustered": false,
     "simplified": false

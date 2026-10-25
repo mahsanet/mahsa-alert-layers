@@ -19783,10 +19783,54 @@
         "createdAt": "2026-10-18T16:03:05.974Z",
         "updatedAt": "2026-10-18T16:03:16.279Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.98728766474213,
+          35.81227806771784
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "شرکت وابسته به وزارت اطلاعات",
+        "description": "شرکت وابسته به وزارت اطلاعات ج.ا که تحت نام‌های «پشتیبان شبکه البرز» و «کرج شبکه» فعالیت می‌کند به آدرس: استان البرز، کرج، بلوار هفت‌تیر، پاساژ کیش، پشتیبان شبکه البرز. این مجموعه در پوشش ارائه خدمات فناوری اطلاعات، از جمله فایروال سازمانی، نصب و راه‌اندازی سرور، مجازی‌سازی، خدمات شبکه و VoIP فعالیت دارد.\n\nهمکاری با این مجموعه یا استفاده از خدمات آن اکیداً توصیه نمی‌شود! دسترسی چنین مجموعه‌ای به زیرساخت‌های شبکه و سامانه‌های ارتباطی می‌تواند خطرات جدی امنیتی، از جمله پایش و شنود ارتباطات، جمع‌آوری اطلاعات حساس، ایجاد دسترسی‌های پنهان و خرابکاری هدفمند در زیرساخت‌ها را به همراه داشته باشد.",
+        "date": "",
+        "city": "کرج",
+        "province": "استان البرز",
+        "description:en": "A company affiliated with the Ministry of Intelligence of the I.R. Iran operating under the names \"Poshtiban Shabakeh Alborz\" and \"Karaj Shabakeh\", located at: Alborz Province, Karaj, Haft-e Tir Boulevard, Kish Passageway, Poshtiban Shabakeh Alborz. Under the cover of providing IT services, this entity operates in areas including enterprise firewalls, server installation and setup, virtualization, network services, and VoIP.\n\nCooperation with this entity or using its services is strictly advised against! Access by such an entity to network infrastructure and communication systems can pose serious security risks, including monitoring and eavesdropping on communications, collecting sensitive information, creating covert access points, and targeted sabotage of infrastructure.",
+        "city:en": "Karaj",
+        "province:en": "Alborz",
+        "description:ar": "شركة تابعة لوزارة الاستخبارات في الجمهورية الإسلامية الإيرانية تعمل تحت اسمي «بشتيبان شبكة البرز» و«كرج شبكة» في العنوان: محافظة البرز، كرج، شارع هفت تير، مجمع كيش، بشتيبان شبكة البرز. تنشط هذه المجموعة تحت غطاء تقديم خدمات تكنولوجيا المعلومات، بما في ذلك الجدران النارية للمؤسسات، وتثبيت وإعداد الخوادم، والبيئة الافتراضية، وخدمات الشبكة، وVoIP.\n\nيُوصى بشدة بعدم التعاون مع هذه المجموعة أو استخدام خدماتها! إن وصول مثل هذه المجموعة إلى البنية التحتية للشبكة وأنظمة الاتصالات قد ينطوي على مخاطر أمنية خطيرة، بما في ذلك مراقبة الاتصالات والتنصت عليها، وجمع المعلومات الحساسة، وإنشاء صلاحيات وصول خفية، والتخريب المستهدف في البنية التحتية.",
+        "city:ar": "كرج",
+        "province:ar": "ألبرز",
+        "description:he": "חברה הקשורה למשרד המודיעין של הרפובליקה האסלאמית של איראן הפועלת תחת השמות \"פושטיבאן שבכה אלבורז\" ו\"כרג' שבכה\", בכתובת: מחוז אלבורז, כרג', שדרות הפט-א-תיר, פסאז' קיש, פושטיבאן שבכה אלבורז. גוף זה פועל תחת כסות של מתן שירותי טכנולוגיית מידע, כולל חומת אש ארגונית, התקנה והגדרה של שרתים, וירטואליזציה, שירותי רשת ו-VoIP.\n\nשיתוף פעולה עם גוף זה או שימוש בשירותיו אינו מומלץ באופן חד-משמעי! גישה של גוף כזה לתשתיות רשת ומערכות תקשורת עלולה להוביל לסיכונים ביטחוניים חמורים, כולל ניטור והאזנה לתקשורת, איסוף מידע רגיש, יצירת גישות נסתרות וחבלה ממוקדת בתשתיות.",
+        "city:he": "כרג'",
+        "province:he": "אלבורז",
+        "description:tr": "İran İslam Cumhuriyeti İstihbarat Bakanlığı'na bağlı olan ve «Poştiban-e Şabake-ye Alborz» ile «Karac Şabake» adları altında faaliyet gösteren şirket. Adres: Alborz Eyaleti, Karac, Haft-e Tir Bulvarı, Kiş Pasajı, Poştiban-e Şabake-ye Alborz. Bu kuruluş, kurumsal güvenlik duvarı, sunucu kurulumu ve yapılandırması, sanallaştırma, ağ hizmetleri ve VoIP dahil olmak üzere bilgi teknolojileri hizmetleri sunma kılıfı altında faaliyet göstermektedir.\n\nBu kuruluşla iş birliği yapılması veya hizmetlerinin kullanılması kesinlikle tavsiye edilmez! Böyle bir kuruluşun ağ altyapılarına ve iletişim sistemlerine erişimi; iletişimlerin izlenmesi ve dinlenmesi, hassas bilgilerin toplanması, gizli erişim noktalarının oluşturulması ve altyapılara yönelik hedefli sabotajlar dahil olmak üzere ciddi güvenlik risklerini beraberinde getirebilir.",
+        "city:tr": "Karac",
+        "province:tr": "Elburz",
+        "description:ckb": "کۆمپانیای سەر بە وەزارەتی ئیتلاعاتی کۆماری ئیسلامی کە لەژێر ناوەکانی «پشتیبان شبکه البرز» و «کرج شبکه» چالاکی دەکات لە ناونیشانی: پارێزگای ئەلبورز، کەرەج، بوڵواری هەفتی تیر، پاساژی کیش، پشتیبان شبکه البرز. ئەم کۆمەڵەیە لە ژێر پۆششی پێشکەشکردنی خزمەتگوزارییەکانی تەکنەلۆژیای زانیاری، لەوانە فایروۆڵی ڕێکخراوەیی، دامەزراندن و بەگەڕخستنی سێرڤەر، ڤێرچواڵایزەیشن، خزمەتگوزارییەکانی تۆڕ و VoIP چالاکی دەکات.\n\nهاوکاری لەگەڵ ئەم کۆمەڵەیە یان بەکارهێنانی خزمەتگوزارییەکانی بە توندی ڕەت دەکرێتەوە! دەستڕاگەیشتنی کۆمەڵەیەکی وەها بۆ سەر ژێرخانەکانی تۆڕ و سیستمەکانی پەیوەندیکردن دەکرێت مەترسیی ئەمنیی جدیی لێ بکەوێتەوە، لەوانە چاودێریکردن و گوێگرتن لە پەیوەندییەکان، کۆکردنەوەی زانیاریی هەستیار، دروستکردنی دەستڕاگەیشتنی شاراوە و تێکدانی ئامانجدار لە ژێرخانەکاندا.",
+        "city:ckb": "کەرەج",
+        "province:ckb": "ئەلبورز",
+        "id": "MjpjYTk1NjMyNjUzZGQ",
+        "publicId": "MjpjYTk1NjMyNjUzZGQ",
+        "sourceId": "ca95632653dd",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-25T00:46:20.295Z",
+        "updatedAt": "2026-10-25T00:53:35.838Z"
+      }
     }
   ],
   "metadata": {
-    "total": 369,
+    "total": 370,
     "layerId": 2,
     "clustered": false,
     "simplified": false

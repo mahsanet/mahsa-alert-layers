@@ -1655,84 +1655,6 @@
     },
     {
       "type": "Feature",
-      "id": 96239,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              46.85,
-              35.416667
-            ],
-            [
-              47,
-              35.416667
-            ],
-            [
-              46.85,
-              35.25
-            ],
-            [
-              46.75,
-              35.333333
-            ],
-            [
-              46.85,
-              35.416667
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · سنندج",
-        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
-        "notamNumber": "A2335/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "validFrom": "۱۴۰۵/۰۷/۲۷، ۱۳:۱۷",
-        "validTo": "۱۴۰۵/۰۸/۰۷، ۱۸:۰۰",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamSource": "FAA NMS-API",
-        "date": 1792403220,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "replaces": "A2168/26",
-        "city": "شهرستان سنندج",
-        "province": "استان کردستان",
-        "name:en": "Aviation Notice · Navigational Warning · Sanandaj",
-        "description:en": "Shooting will take place within the specified area.",
-        "city:en": "Sanandaj County",
-        "province:en": "Kurdistan",
-        "name:ar": "إشعار الطيران · تحذير ملاحي · سنندج",
-        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
-        "city:ar": "مقاطعة سنندج",
-        "province:ar": "كردستان",
-        "name:he": "הודעת תעופה · אזהרת ניווט · סננדג'",
-        "description:he": "ירי יבוצע באזור המוגדר.",
-        "city:he": "סננדג'",
-        "province:he": "כורדיסטאן",
-        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Senendec",
-        "description:tr": "Belirlenen alanda atış yapılacaktır.",
-        "city:tr": "Senendec İlçesi",
-        "province:tr": "Kürdistan",
-        "name:ckb": "ئاگاداریی فڕین · ئاگاداریی ناوگەڕی · سنە",
-        "description:ckb": "تەقەکردن لە سنووری دیاریکراودا ئەنجام دەدرێت.",
-        "city:ckb": "شارستانی سنە",
-        "province:ckb": "کوردستان",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjMzNS0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjMzNS0yNg",
-        "sourceId": "notam-oiix-a2335-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-29T14:30:00.000Z",
-        "createdAt": "2026-10-19T10:00:29.533Z",
-        "updatedAt": "2026-10-19T10:00:29.533Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 96240,
       "geometry": {
         "type": "Polygon",
@@ -1964,6 +1886,84 @@
         "expirationDate": "2026-11-05T19:30:00.000Z",
         "createdAt": "2026-10-20T09:15:53.478Z",
         "updatedAt": "2026-10-20T09:15:53.478Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96360,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.85,
+              35.416667
+            ],
+            [
+              47,
+              35.416667
+            ],
+            [
+              46.85,
+              35.25
+            ],
+            [
+              46.75,
+              35.333333
+            ],
+            [
+              46.85,
+              35.416667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · سنندج",
+        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "A2401/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۸/۰۲، ۱۳:۲۲",
+        "validTo": "۱۴۰۵/۰۹/۱۴، ۱۸:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1792835520,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "A2394/26",
+        "city": "شهرستان سنندج",
+        "province": "استان کردستان",
+        "name:en": "Aviation Notice · Navigation Warning · Sanandaj",
+        "description:en": "Shooting will take place within the specified area.",
+        "city:en": "Sanandaj County",
+        "province:en": "Kurdistan",
+        "name:ar": "إشعار طيران · تحذير ملاحي · سنندج",
+        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
+        "city:ar": "قضاء سنندج",
+        "province:ar": "كردستان",
+        "name:he": "הודעת תעופה · אזהרת ניווט · סננדג'",
+        "description:he": "ירי יבוצע באזור המוגדר.",
+        "city:he": "מחוז סננדג'",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Havacılık Duyurusu · Navigasyon Uyarısı · Senendec",
+        "description:tr": "Belirtilen alanda atış yapılacaktır.",
+        "city:tr": "Senendec",
+        "province:tr": "Kürdistan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشداریی ناوگەڕی · سنە",
+        "description:ckb": "تەقەکردن لە ناوچەی دیاریکراودا ئەنجام دەدرێت.",
+        "city:ckb": "شارستانی سنە",
+        "province:ckb": "کوردستان",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjQwMS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQwMS0yNg",
+        "sourceId": "notam-oiix-a2401-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-12-05T14:30:00.000Z",
+        "createdAt": "2026-10-24T09:55:55.224Z",
+        "updatedAt": "2026-10-24T09:55:55.224Z"
       }
     }
   ],

@@ -5679,10 +5679,60 @@
         "createdAt": "2026-10-21T20:06:55.943Z",
         "updatedAt": "2026-10-21T20:06:55.943Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96361,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.87879293166665,
+          26.549510655180015
+        ]
+      },
+      "properties": {
+        "name:fa": "رادار",
+        "unofficial_name:fa": "",
+        "description": "دکل رادار در بخش مرکزی شهرستان بندرلنگه",
+        "date": 1792846069,
+        "city": "بندرلنگه",
+        "province": "استان هرمزگان",
+        "name:en": "Radar",
+        "description:en": "Radar tower in the Central District of Bandar Lengeh County",
+        "city:en": "Bandar Lengeh",
+        "province:en": "Hormozgan",
+        "name:ar": "رادار",
+        "description:ar": "برج رادار في الناحية المركزية لمقاطعة بندر لنجة",
+        "city:ar": "بندر لنجة",
+        "province:ar": "هرمزكان",
+        "name:he": "רדאר",
+        "description:he": "תורן רדאר בחלק המרכזי של מחוז בנדר לנגה",
+        "city:he": "בנדר לנגה",
+        "province:he": "הורמוזגאן",
+        "name:tr": "Radar",
+        "description:tr": "Bandar Lenge şehristanının merkez ilçesindeki radar kulesi",
+        "city:tr": "Bandar Lenge",
+        "province:tr": "Hürmüzgan",
+        "name:ckb": "ڕادار",
+        "description:ckb": "دەکەڵی ڕادار لە بەشی ناوەندیی شارستانی بەندەر لەنگە",
+        "city:ckb": "بەندەر لەنگە",
+        "province:ckb": "ھورمزگان",
+        "id": "OTo1NmJhOGI5OGIzM2E",
+        "publicId": "OTo1NmJhOGI5OGIzM2E",
+        "sourceId": "56ba8b98b33a",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-24T14:17:04.255Z",
+        "updatedAt": "2026-10-24T14:17:13.088Z"
+      }
     }
   ],
   "metadata": {
-    "total": 77,
+    "total": 78,
     "layerId": 9,
     "clustered": false,
     "simplified": false

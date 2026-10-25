@@ -30794,10 +30794,61 @@
         "createdAt": "2026-10-18T15:55:03.904Z",
         "updatedAt": "2026-10-18T15:55:03.904Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96376,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31662720814347,
+          35.54275690357521
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اختفای پهپاد",
+        "name:fa:military": "",
+        "unofficial_name:fa": "",
+        "description": "صحت گزارش در دست برسی میباشد.",
+        "date": 1792840628,
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "name:en": "Drone Hiding Location",
+        "description:en": "The accuracy of the report is under investigation.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "موقع اختفاء الطائرة المسيرة",
+        "description:ar": "صحة التقرير قيد التحقق.",
+        "city:ar": "مقاطعة طهران",
+        "province:ar": "طهران",
+        "name:he": "מקום מסתור הכטב\"ם",
+        "description:he": "אמינות הדיווח נמצאת בבדיקה.",
+        "city:he": "מחוז משנה טהראן",
+        "province:he": "טהראן",
+        "name:tr": "İHA Gizlenme Yeri",
+        "description:tr": "Raporun doğruluğu incelenmektedir.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "شوێنی شاردنەوەی درۆن",
+        "description:ckb": "دروستیی ڕاپۆرتەکە لەژێر لێکۆڵینەوەدایە.",
+        "city:ckb": "شارستانی تاران",
+        "province:ckb": "تاران",
+        "id": "MTA6YmM0YTc4MmE2NmU0",
+        "publicId": "MTA6YmM0YTc4MmE2NmU0",
+        "sourceId": "bc4a782a66e4",
+        "layerId": 10,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-24T14:35:47.561Z",
+        "updatedAt": "2026-10-24T14:35:47.561Z"
+      }
     }
   ],
   "metadata": {
-    "total": 220,
+    "total": 221,
     "layerId": 10,
     "clustered": false,
     "simplified": false

@@ -50073,10 +50073,56 @@
         "createdAt": "2026-10-17T11:01:54.595Z",
         "updatedAt": "2026-10-17T11:02:01.200Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.605237259446454,
+          37.26873754625025
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد فرماندهی سپاه قدس",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "رشت",
+        "province": "استان گیلان",
+        "name:en": "Qods Force Command Headquarters",
+        "city:en": "Rasht",
+        "province:en": "Gilan",
+        "name:ar": "مقر قيادة فيلق القدس",
+        "city:ar": "رشت",
+        "province:ar": "جيلان",
+        "name:tr": "Kudüs Gücü Komutanlık Karargahı",
+        "city:tr": "Reşt",
+        "province:tr": "Gilan",
+        "name:ckb": "ستادی فەرماندەیی سوپای قودس",
+        "city:ckb": "ڕەشت",
+        "province:ckb": "گیلان",
+        "name:he": "מפקדת כוח קודס",
+        "city:he": "רשת",
+        "province:he": "גילאן",
+        "id": "MTE6ODA3ODM3M2Y1YjE5",
+        "publicId": "MTE6ODA3ODM3M2Y1YjE5",
+        "sourceId": "8078373f5b19",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-24T14:58:48.920Z",
+        "updatedAt": "2026-10-24T14:58:48.920Z"
+      }
     }
   ],
   "metadata": {
-    "total": 406,
+    "total": 407,
     "layerId": 11,
     "clustered": false,
     "simplified": false

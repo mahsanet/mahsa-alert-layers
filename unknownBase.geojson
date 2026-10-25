@@ -90649,10 +90649,56 @@
         "createdAt": "2026-10-22T16:40:13.320Z",
         "updatedAt": "2026-10-22T16:40:13.320Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96377,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.609832502901554,
+          37.26684392399859
+        ]
+      },
+      "properties": {
+        "name:fa": "بازداشتگاه وزارت اطلاعات رشت",
+        "unofficial_name:fa": "",
+        "description": "بازداشتگاه وزارت اطلاعات (قرارگاه شهدای گمنام رشت)",
+        "date": 1792831233,
+        "city": "رشت",
+        "province": "استان گیلان",
+        "name:en": "Rasht Ministry of Intelligence Detention Center",
+        "description:en": "Ministry of Intelligence Detention Center (Rasht Shohadaye Gomnam Headquarters)",
+        "city:en": "Rasht",
+        "province:en": "Gilan",
+        "name:ar": "معتقل وزارة الاستخبارات في رشت",
+        "description:ar": "معتقل وزارة الاستخبارات (مقر الشهداء المجهولين في رشت)",
+        "city:ar": "رشت",
+        "province:ar": "جيلان",
+        "name:tr": "Reşt İstihbarat Bakanlığı Gözaltı Merkezi",
+        "description:tr": "İstihbarat Bakanlığı Gözaltı Merkezi (Reşt İsimsiz Şehitler Karargahı)",
+        "city:tr": "Reşt",
+        "province:tr": "Gilan",
+        "name:ckb": "دەستبەسەرگەی وەزارەتی ئیتلاعاتی ڕەشت",
+        "description:ckb": "دەستبەسەرگەی وەزارەتی ئیتلاعات (بارەگای شەهیدانی گومناوی ڕەشت)",
+        "city:ckb": "ڕەشت",
+        "province:ckb": "گیلان",
+        "id": "MTI6ODBhN2JhMjIyMWQy",
+        "publicId": "MTI6ODBhN2JhMjIyMWQy",
+        "sourceId": "80a7ba2221d2",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-24T14:36:45.562Z",
+        "updatedAt": "2026-10-24T14:36:45.562Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1101,
+    "total": 1102,
     "layerId": 12,
     "clustered": false,
     "simplified": false

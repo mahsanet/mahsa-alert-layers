@@ -13019,10 +13019,119 @@
         "createdAt": "2026-09-26T22:20:13.319Z",
         "updatedAt": "2026-09-26T22:20:18.840Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96378,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.61059490330061,
+              37.26780296037198
+            ],
+            [
+              49.61097751771928,
+              37.26753576084165
+            ],
+            [
+              49.61051649870623,
+              37.26711123627389
+            ],
+            [
+              49.61009311389961,
+              37.26738842611624
+            ],
+            [
+              49.61059490330061,
+              37.26780296037198
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "بازداشتگاه رشت",
+        "description": "",
+        "date": "",
+        "city": "رشت",
+        "province": "استان گیلان",
+        "city:en": "Rasht",
+        "province:en": "Gilan",
+        "city:ar": "رشت",
+        "province:ar": "جيلان",
+        "city:he": "ראשת",
+        "province:he": "גילאן",
+        "city:tr": "Reşt",
+        "province:tr": "Gilan",
+        "city:ckb": "ڕەشت",
+        "province:ckb": "گیلان",
+        "id": "NTpkOGJiNGRkMGFjOTI",
+        "publicId": "NTpkOGJiNGRkMGFjOTI",
+        "sourceId": "d8bb4dd0ac92",
+        "layerId": 5,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-24T14:37:17.911Z",
+        "updatedAt": "2026-10-24T14:37:17.911Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.57001745700836,
+          37.17297518471642
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "زندان لاکان بند میثاق محل نگهداری زندانیان سیاسی و بند قرنطینه اعدام است.",
+        "date": 1792831000,
+        "city": "سلکی سر",
+        "province": "استان گیلان",
+        "name:fa": "زندان لاکان رشت - بند میثاق",
+        "name:en": "Lakan Prison of Rasht - Misaq Ward",
+        "description:en": "Lakan Prison's Misaq Ward is the holding facility for political prisoners and the death row quarantine ward.",
+        "city:en": "Salki Sar",
+        "province:en": "Gilan",
+        "name:ar": "سجن لاكان رشت - جناح ميثاق",
+        "description:ar": "سجن لاكان - جناح ميثاق هو مكان احتجاز السجناء السياسيين وجناح الحجر الصحي للإعدام.",
+        "city:ar": "سلكي سر",
+        "province:ar": "جيلان",
+        "name:he": "כלא לאכאן רשת - אגף מית'אק",
+        "description:he": "כלא לאכאן, אגף מית'אק הוא מקום החזקתם של אסירים פוליטיים ואגף הבידוד של הנידונים למוות.",
+        "city:he": "סלכי סר",
+        "province:he": "גילאן",
+        "name:tr": "Reşt Lakan Cezaevi - Misak Koğuşu",
+        "description:tr": "Lakan Cezaevi Misak Koğuşu, siyasi mahkumların tutulduğu yer ve idam karantina koğuşudur.",
+        "city:tr": "Selki Sar",
+        "province:tr": "Gilan",
+        "name:ckb": "بەندیخانەی لاکانی ڕەشت - بەندی میساق",
+        "description:ckb": "بەندیخانەی لاکان بەندی میساق شوێنی ڕاگرتنی بەندکراوانی سیاسی و بەندی کەرەنتینەی لەسێدارەدانە.",
+        "city:ckb": "سەلکی سەر",
+        "province:ckb": "گیلان",
+        "id": "NTpjZWViNmMzYzk4YmE",
+        "publicId": "NTpjZWViNmMzYzk4YmE",
+        "sourceId": "ceeb6c3c98ba",
+        "layerId": 5,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-24T14:40:37.970Z",
+        "updatedAt": "2026-10-24T14:40:37.970Z"
+      }
     }
   ],
   "metadata": {
-    "total": 186,
+    "total": 188,
     "layerId": 5,
     "clustered": false,
     "simplified": false

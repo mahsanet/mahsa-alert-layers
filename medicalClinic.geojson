@@ -229979,10 +229979,86 @@
         "createdAt": "2026-10-09T11:08:01.099Z",
         "updatedAt": "2026-10-09T11:08:01.099Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96355,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.51152958463385,
+              34.829864165158796
+            ],
+            [
+              48.511999073565846,
+              34.82995954412603
+            ],
+            [
+              48.51206061334153,
+              34.82994731605977
+            ],
+            [
+              48.51235044583103,
+              34.82963590735187
+            ],
+            [
+              48.51220155927774,
+              34.82959351654695
+            ],
+            [
+              48.51219957412445,
+              34.8294867242295
+            ],
+            [
+              48.51183728351086,
+              34.82948590902039
+            ],
+            [
+              48.51152958463385,
+              34.829864165158796
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز درمانی مهرالشفا فرهنگیان",
+        "description": "",
+        "date": "",
+        "city": "همدان",
+        "province": "استان همدان",
+        "name:en": "Mehrolshafa Farhangian Medical Center",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "name:ar": "مركز مهر الشفاء العلاجي للمعلمين",
+        "city:ar": "همدان",
+        "province:ar": "همدان",
+        "name:he": "מרכז רפואי מהר אל-שיפא פרהנגיאן",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "name:tr": "Mehreşşifa Farhangian Sağlık Merkezi",
+        "city:tr": "Hemedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "مەڵبەندی دەرمانیی مێهرولشیفای فەرهەنگییان",
+        "city:ckb": "هەمەدان",
+        "province:ckb": "ھەمەدان",
+        "id": "MjY6MmExNjI5OTU0MWY2",
+        "publicId": "MjY6MmExNjI5OTU0MWY2",
+        "sourceId": "2a16299541f6",
+        "layerId": 26,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-24T02:06:16.148Z",
+        "updatedAt": "2026-10-24T02:06:16.148Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5484,
+    "total": 5485,
     "layerId": 26,
     "clustered": false,
     "simplified": false

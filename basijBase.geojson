@@ -55643,48 +55643,6 @@
     },
     {
       "type": "Feature",
-      "id": 5334,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.605044,
-          37.269191
-        ]
-      },
-      "properties": {
-        "id": "MToxMzI2Mw",
-        "city": "رشت",
-        "name:fa": "ناحیه مقاومت بسیج شهرستان رشت",
-        "province": "استان گیلان",
-        "name:en": "Rasht County Basij Resistance Area",
-        "city:en": "Rasht",
-        "province:en": "Gilan",
-        "name:ar": "منطقة التعبئة المقاومة لمقاطعة رشت",
-        "city:ar": "رشت",
-        "province:ar": "جيلان",
-        "name:he": "אזור התנגדות באסיג' מחוז ראשת",
-        "city:he": "ראשת",
-        "province:he": "גילאן",
-        "name:tr": "Reşt İlçesi Besiç Direniş Bölgesi",
-        "city:tr": "Reşt",
-        "province:tr": "Gilan",
-        "name:ckb": "ناوچەی خۆڕاگریی بەسیجی شارستانی ڕەشت",
-        "city:ckb": "ڕەشت",
-        "province:ckb": "گیلان",
-        "publicId": "MToxMzI2Mw",
-        "sourceId": "13263",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:52.987Z",
-        "updatedAt": "2026-03-11T20:52:52.987Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 5335,
       "geometry": {
         "type": "Point",
@@ -104226,10 +104184,388 @@
         "createdAt": "2026-10-22T16:16:14.093Z",
         "updatedAt": "2026-10-22T16:16:14.093Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.50561801344156,
+          34.832205658503
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج پیامبر اکرم، فعال در سرکوب",
+        "date": 1792779698,
+        "city": "همدان",
+        "province": "استان همدان",
+        "name:en": "Basij Base",
+        "description:en": "Payambar-e Akram Basij Base, active in suppression",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة بسيج النبي الأكرم، نشطة في القمع",
+        "city:ar": "همدان",
+        "province:ar": "همدان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס הבאסיג' פיאמבר-ה אכרם, פעיל בדיכוי",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Peygamber-i Ekrem Besic Üssü, baskılarda aktif.",
+        "city:tr": "Hamedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "بنکەی بەسیجی پەیامبەری ئەکرەم، چالاک لە سەرکوتکردندا",
+        "city:ckb": "هەمەدان",
+        "province:ckb": "ھەمەدان",
+        "id": "MTpkNzlkNzczN2U4ZjY",
+        "publicId": "MTpkNzlkNzczN2U4ZjY",
+        "sourceId": "d79d7737e8f6",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-24T02:04:37.636Z",
+        "updatedAt": "2026-10-24T02:04:37.636Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96354,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51398415863514,
+          34.83339673335399
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج آیت‌الله دستغیب در شهرک فرهنگیان همدان، محل فعالیت نیروهای سرکوب",
+        "date": 1792779410,
+        "city": "همدان",
+        "province": "استان همدان",
+        "name:en": "Basij Base",
+        "description:en": "Ayatollah Dastgheib Basij Base in Shahrak-e Farhangian, Hamedan, a site of activity for repressive forces.",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "name:ar": "قاعدة البسيج",
+        "city:ar": "همدان",
+        "province:ar": "همدان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג' אייתאללה דסתע'יב בשכונת פרהנגיאן בהמדאן, מקום הפעילות של כוחות הדיכוי",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Hamedan'ın Şehrek-i Ferhengiyan semtindeki Ayetullah Destğeyb Besic Üssü, bastırma güçlerinin faaliyet yeridir.",
+        "city:tr": "Hamedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "بنکەی بەسیجی ئایەتوڵڵا دەستغەیب لە شارۆچکەی فەرهەنگیانی هەمەدان، شوێنی چالاکیی هێزەکانی سەرکوت",
+        "city:ckb": "هەمەدان",
+        "province:ckb": "ھەمەدان",
+        "id": "MTpmMjVhYWI3Y2JkYmI",
+        "publicId": "MTpmMjVhYWI3Y2JkYmI",
+        "sourceId": "f25aab7cbdbb",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-24T02:05:27.149Z",
+        "updatedAt": "2026-10-24T02:05:27.149Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96371,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.232823402315034,
+          35.36964507096485
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "حسن آباد",
+        "province": "استان تهران",
+        "name:en": "Basij",
+        "city:en": "Hassanabad",
+        "province:en": "Tehran",
+        "name:ar": "البسيج",
+        "city:ar": "حسن آباد",
+        "province:ar": "طهران",
+        "name:he": "בסיג'",
+        "city:he": "חסן אבאד",
+        "province:he": "טהראן",
+        "name:tr": "Besic",
+        "city:tr": "Hasanabad",
+        "province:tr": "Tahran",
+        "name:ckb": "بەسیج",
+        "city:ckb": "حەسەنئاباد",
+        "province:ckb": "تاران",
+        "id": "MTo5YmFmMjNmYzZmMTY",
+        "publicId": "MTo5YmFmMjNmYzZmMTY",
+        "sourceId": "9baf23fc6f16",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-24T14:28:02.105Z",
+        "updatedAt": "2026-10-24T14:28:02.105Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96382,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.60457760824954,
+              37.26953408409713
+            ],
+            [
+              49.60515831691882,
+              37.26920754464942
+            ],
+            [
+              49.60512550851993,
+              37.269165747497965
+            ],
+            [
+              49.60522393371761,
+              37.26910043940279
+            ],
+            [
+              49.60476461612683,
+              37.2686981402842
+            ],
+            [
+              49.604377477029544,
+              37.26807901342251
+            ],
+            [
+              49.60433154527041,
+              37.26815477183567
+            ],
+            [
+              49.60413141403407,
+              37.26819656954828
+            ],
+            [
+              49.60414125655339,
+              37.26823575488277
+            ],
+            [
+              49.60358679460347,
+              37.268327187250875
+            ],
+            [
+              49.603622883843286,
+              37.26846564176839
+            ],
+            [
+              49.60350805444554,
+              37.26848654054177
+            ],
+            [
+              49.60353430116484,
+              37.268914964109
+            ],
+            [
+              49.60359663712393,
+              37.26910566405958
+            ],
+            [
+              49.603701624001246,
+              37.269246729465635
+            ],
+            [
+              49.60368850064208,
+              37.26932248670394
+            ],
+            [
+              49.60393456368689,
+              37.26960201440559
+            ],
+            [
+              49.60401658468578,
+              37.26965426053876
+            ],
+            [
+              49.60412157156301,
+              37.269703894331684
+            ],
+            [
+              49.60424296264139,
+              37.269701282027555
+            ],
+            [
+              49.60457760824954,
+              37.26953408409713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ناحیه مقاومت بسیج",
+        "unofficial_name:fa": "",
+        "description": "ناحیه مقاومت بسیج شهرستان رشت",
+        "date": "",
+        "city": "رشت",
+        "province": "استان گیلان",
+        "name:en": "Basij Resistance District",
+        "description:en": "Basij Resistance District of Rasht County",
+        "city:en": "Rasht",
+        "province:en": "Gilan",
+        "name:ar": "ناحية مقاومة البسيج",
+        "description:ar": "ناحية مقاومة البسيج في مقاطعة رشت",
+        "city:ar": "رشت",
+        "province:ar": "جيلان",
+        "name:he": "אזור התנגדות באסיג'",
+        "description:he": "אזור התנגדות באסיג' של נפת ראשת",
+        "city:he": "ראשת",
+        "province:he": "גילאן",
+        "name:tr": "Besic Direniş Bölgesi",
+        "description:tr": "Reşt ilçesi Besic Direniş Bölgesi",
+        "city:tr": "Reşt",
+        "province:tr": "Gilan",
+        "name:ckb": "ناحیەی خۆڕاگریی بەسیج",
+        "description:ckb": "ناحیەی خۆڕاگریی بەسیجی شارستانی ڕەشت",
+        "city:ckb": "ڕەشت",
+        "province:ckb": "گیلان",
+        "id": "MTpkMmE5MDhhZDg2Nzg",
+        "publicId": "MTpkMmE5MDhhZDg2Nzg",
+        "sourceId": "d2a908ad8678",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-24T14:58:08.605Z",
+        "updatedAt": "2026-10-24T14:58:23.970Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96393,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.69032766366362,
+          31.315566571649597
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج",
+        "date": 1792886002,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Basij Base",
+        "description:en": "Basij Base",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة البسيج",
+        "city:ar": "الأهواز",
+        "province:ar": "خوزستان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג'",
+        "city:he": "אהוואז",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Besic Üssü",
+        "city:tr": "Ahvaz",
+        "province:tr": "Huzistan",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "بنکەی بەسیج",
+        "city:ckb": "ئەهواز",
+        "province:ckb": "خووزستان",
+        "id": "MTpjNDQwMDAzYzg5NGU",
+        "publicId": "MTpjNDQwMDAzYzg5NGU",
+        "sourceId": "c440003c894e",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-24T23:57:57.426Z",
+        "updatedAt": "2026-10-24T23:58:04.125Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96394,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.266591496765614,
+          34.72606571562517
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج در بخش قاهان، دهستان قاهان",
+        "date": 1792884525,
+        "city": "قاهان",
+        "province": "استان قم",
+        "name:en": "Basij Base",
+        "description:en": "Basij base in Qahan District, Qahan Rural District",
+        "city:en": "Qahan",
+        "province:en": "Qom",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة البسيج في ناحية قاهان، قسم قاهان الريفي",
+        "city:ar": "قاهان",
+        "province:ar": "قم",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג' בנפת קאהאן, האזור הכפרי קאהאן",
+        "city:he": "קאהאן",
+        "province:he": "קום",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Qahan ilçesi, Qahan kırsal mahallesinde bulunan Besic üssü.",
+        "city:tr": "Qahan",
+        "province:tr": "Kum",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "بنکەی بەسیج لە بەشی قاهان، دێهستانی قاهان",
+        "city:ckb": "قاهان",
+        "province:ckb": "قوم",
+        "id": "MTo2YTA4NWZlNWU5NzY",
+        "publicId": "MTo2YTA4NWZlNWU5NzY",
+        "sourceId": "6a085fe5e976",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-24T23:59:16.982Z",
+        "updatedAt": "2026-10-24T23:59:16.982Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2349,
+    "total": 2354,
     "layerId": 1,
     "clustered": false,
     "simplified": false

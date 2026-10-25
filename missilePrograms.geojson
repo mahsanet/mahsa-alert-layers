@@ -22064,10 +22064,159 @@
         "createdAt": "2026-10-22T16:38:06.714Z",
         "updatedAt": "2026-10-22T16:38:22.652Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96366,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.797763399210055,
+              35.10838868512569
+            ],
+            [
+              48.799379757286715,
+              35.1090559811493
+            ],
+            [
+              48.7999876587306,
+              35.10813604653684
+            ],
+            [
+              48.79834537173548,
+              35.10743402627935
+            ],
+            [
+              48.797763399210055,
+              35.10838868512569
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "تولید سوخت موشک توسط شرکت الوند ثابت که پیشتر هم مورد حمله واقع شده بود",
+        "date": "",
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "sources": "",
+        "description:en": "Production of rocket fuel by Alvand Sabet Company, which had previously been attacked.",
+        "city:en": "Kabudarahang",
+        "province:en": "Hamadan",
+        "description:ar": "إنتاج وقود الصواريخ بواسطة شركة ألوند ثابت التي تعرضت للهجوم سابقاً أيضاً",
+        "city:ar": "مقاطعة كبودراهنغ",
+        "province:ar": "همدان",
+        "description:he": "ייצור דלק טילים על ידי חברת אלונד סאבת, שהותקפה גם בעבר",
+        "city:he": "כבודראמנג'",
+        "province:he": "המדאן",
+        "description:tr": "Daha önce de saldırıya uğramış olan Alvand Sabet şirketi tarafından füze yakıtı üretimi.",
+        "city:tr": "Kabudarahang",
+        "province:tr": "Hemedan",
+        "description:ckb": "بەرهەمهێنانی سووتەمەنیی مووشەک لەلایەن کۆمپانیای ئەلوەند سابت کە پێشتریش هێرشی کرابووە سەر",
+        "city:ckb": "شارستانی کەبودەرئاهەنگ",
+        "province:ckb": "ھەمەدان",
+        "id": "NzpiYjAwOTk3YWMyYjc",
+        "publicId": "NzpiYjAwOTk3YWMyYjc",
+        "sourceId": "bb00997ac2b7",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-24T14:23:37.985Z",
+        "updatedAt": "2026-10-24T14:23:37.985Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96379,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.403888546403806,
+              35.46573277073382
+            ],
+            [
+              51.40430313178615,
+              35.46653810566427
+            ],
+            [
+              51.4046695095665,
+              35.46674631289477
+            ],
+            [
+              51.40688223853226,
+              35.467202009859605
+            ],
+            [
+              51.4082368721682,
+              35.46711165635591
+            ],
+            [
+              51.40995306282451,
+              35.46654989099318
+            ],
+            [
+              51.409847006098886,
+              35.46629061334859
+            ],
+            [
+              51.40980844008038,
+              35.464188833965466
+            ],
+            [
+              51.40909014684985,
+              35.46159584078991
+            ],
+            [
+              51.4061157377661,
+              35.46125790680631
+            ],
+            [
+              51.403888546403806,
+              35.46573277073382
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان ری",
+        "province": "استان تهران",
+        "sources": "",
+        "city:en": "Ray County",
+        "province:en": "Tehran",
+        "city:ar": "مقاطعة الري",
+        "province:ar": "طهران",
+        "city:he": "ריי",
+        "province:he": "טהראן",
+        "city:tr": "Rey İlçesi",
+        "province:tr": "Tahran",
+        "city:ckb": "شارستانی ڕەی",
+        "province:ckb": "تاران",
+        "id": "Nzo5NmZkYTVmZWZkMWY",
+        "publicId": "Nzo5NmZkYTVmZWZkMWY",
+        "sourceId": "96fda5fefd1f",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-24T14:39:23.278Z",
+        "updatedAt": "2026-10-24T14:39:23.278Z"
+      }
     }
   ],
   "metadata": {
-    "total": 203,
+    "total": 205,
     "layerId": 7,
     "clustered": false,
     "simplified": false

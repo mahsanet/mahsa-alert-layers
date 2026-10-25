@@ -8381,57 +8381,6 @@
     },
     {
       "type": "Feature",
-      "id": 7223,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.2284243,
-          35.3708498
-        ]
-      },
-      "properties": {
-        "id": "MzQ6MTUxNDgz",
-        "city": "حسن آباد",
-        "name:fa": "دادگاه عمومی بخش فشافویه",
-        "sources": [
-          "https://maps.google.com/?cid=5181856816496566686",
-          "https://www.openstreetmap.org/node/9223036975",
-          "https://www.openstreetmap.org/node/13302415841",
-          "https://www.openstreetmap.org/way/888422095",
-          "https://www.openstreetmap.org/way/888422096",
-          "https://www.openstreetmap.org/way/888422098"
-        ],
-        "category": "دادگاه",
-        "province": "استان تهران",
-        "name:en": "Public Court of Fashafuyeh District",
-        "city:en": "Hasanabad",
-        "province:en": "Tehran",
-        "name:ar": "المحكمة العامة لناحية فشافويه",
-        "city:ar": "حسن أباد",
-        "province:ar": "طهران",
-        "name:he": "בית המשפט הכללי נפת פשאפויה",
-        "city:he": "חסן אבאד",
-        "province:he": "טהראן",
-        "name:tr": "Feşafuye Beldesi Genel Mahkemesi",
-        "city:tr": "Hasanabad",
-        "province:tr": "Tahran",
-        "name:ckb": "دادگای گشتیی بەشی فشافوویە",
-        "city:ckb": "حەسەن ئاوا",
-        "province:ckb": "تاران",
-        "publicId": "MzQ6MTUxNDgz",
-        "sourceId": "151483",
-        "layerId": 34,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:53:15.273Z",
-        "updatedAt": "2026-03-11T20:53:15.273Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 7224,
       "geometry": {
         "type": "Point",
@@ -65735,6 +65684,77 @@
         "expirationDate": null,
         "createdAt": "2026-10-15T13:55:12.497Z",
         "updatedAt": "2026-10-15T13:55:12.497Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96375,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.227770318157155,
+              35.37088585314868
+            ],
+            [
+              51.2277737901955,
+              35.37085894221357
+            ],
+            [
+              51.22846646921218,
+              35.37044252378172
+            ],
+            [
+              51.22883971335372,
+              35.37089292899415
+            ],
+            [
+              51.22824425874745,
+              35.371238521226374
+            ],
+            [
+              51.22819565020828,
+              35.37117903414452
+            ],
+            [
+              51.22804461653257,
+              35.37125551752786
+            ],
+            [
+              51.227770318157155,
+              35.37088585314868
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "دادگاه عمومی بخش فشافویه",
+        "description": "",
+        "date": "",
+        "city": "حسن آباد",
+        "province": "استان تهران",
+        "city:en": "Hasanabad",
+        "province:en": "Tehran",
+        "city:ar": "حسن أباد",
+        "province:ar": "طهران",
+        "city:he": "חסן אבאד",
+        "province:he": "טהראן",
+        "city:tr": "Hasanabad",
+        "province:tr": "Tahran",
+        "city:ckb": "حەسەن ئاباد",
+        "province:ckb": "تاران",
+        "id": "MzQ6MzRjMmM2Mjg1Yjk2",
+        "publicId": "MzQ6MzRjMmM2Mjg1Yjk2",
+        "sourceId": "34c2c6285b96",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-24T14:31:04.707Z",
+        "updatedAt": "2026-10-24T14:31:04.707Z"
       }
     }
   ],
