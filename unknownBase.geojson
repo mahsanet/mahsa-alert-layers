@@ -78867,56 +78867,6 @@
     },
     {
       "type": "Feature",
-      "id": 92788,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.08368893519503,
-          35.478889720075685
-        ]
-      },
-      "properties": {
-        "name:fa": "دفتر نماینده رباط کریم",
-        "city": "رباط کریم",
-        "province": "استان تهران",
-        "date": 1772217991,
-        "description": "دفتر نماینده رباط کریم حسن قشقاویی محل جمع شدن و برنامه ریزی سرکوب گران",
-        "sources": "",
-        "name:en": "Robat Karim Representative's Office",
-        "description:en": "Office of Hassan Ghashghavi, representative of Robat Karim, serving as a gathering and planning site for repressive forces.",
-        "city:en": "Robat Karim",
-        "province:en": "Tehran",
-        "name:ar": "مكتب نائب رباط كريم",
-        "description:ar": "مكتب نائب رباط كريم حسن قشقائي، وهو مكان لتجمع القامعين والتخطيط للقمع.",
-        "city:ar": "رباط كريم",
-        "province:ar": "طهران",
-        "name:he": "משרד נציג רובאט כרים",
-        "description:he": "משרדו של נציג רובאט כרים, חסן קשקאווי, מקום התכנסות ותכנון של המדכאים.",
-        "city:he": "רובאט כרים",
-        "province:he": "טהראן",
-        "name:tr": "Ribat-ı Kerim Milletvekili Ofisi",
-        "description:tr": "Ribat-ı Kerim Milletvekili Hasan Kaşkayi'nin ofisi, baskıcı güçlerin toplanma ve planlama yeri.",
-        "city:tr": "Ribat-ı Kerim",
-        "province:tr": "Tahran",
-        "name:ckb": "نوسینگەی نوێنەری ڕوبات کەریم",
-        "description:ckb": "نوسینگەی نوێنەری ڕوبات کەریم حەسەن قەشقایی شوێنی کۆبوونەوە و بەرنامەداڕشتنی سەرکوتکەران",
-        "city:ckb": "ڕوبات کەریم",
-        "province:ckb": "تاران",
-        "id": "MTI6MTRmOGQyODVhMGEz",
-        "publicId": "MTI6MTRmOGQyODVhMGEz",
-        "sourceId": "14f8d285a0a3",
-        "layerId": 12,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-04-02T07:05:34.302Z",
-        "updatedAt": "2026-04-02T07:05:34.302Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92802,
       "geometry": {
         "type": "Point",
@@ -90683,6 +90633,10 @@
         "description:ckb": "دەستبەسەرگەی وەزارەتی ئیتلاعات (بارەگای شەهیدانی گومناوی ڕەشت)",
         "city:ckb": "ڕەشت",
         "province:ckb": "گیلان",
+        "name:he": "מתקן המעצר של משרד המודיעין ברשט",
+        "description:he": "מתקן המעצר של משרד המודיעין (מפקדת השהידים האלמונים ברשט)",
+        "city:he": "ראשט",
+        "province:he": "גילאן",
         "id": "MTI6ODBhN2JhMjIyMWQy",
         "publicId": "MTI6ODBhN2JhMjIyMWQy",
         "sourceId": "80a7ba2221d2",
@@ -90695,10 +90649,573 @@
         "createdAt": "2026-10-24T14:36:45.562Z",
         "updatedAt": "2026-10-24T14:36:45.562Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.69374890865751,
+          31.313119099007764
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اختفای یگان ویژه",
+        "unofficial_name:fa": "",
+        "description": "محل اختفای یگان ویژه در ورزشگاه قدس کلاهمش",
+        "date": 1792886349,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Hideout of the Special Unit",
+        "description:en": "Hiding place of the Special Unit at Qods Stadium in Kolahmesh",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "name:ar": "مخبأ القوات الخاصة",
+        "description:ar": "مخبأ القوات الخاصة في ملعب قدس كلاهمش",
+        "city:ar": "الأهواز",
+        "province:ar": "خوزستان",
+        "name:he": "מקום מסתור של היחידה המיוחדת",
+        "description:he": "מקום מסתור של היחידה המיוחדת באצטדיון קודס, כולהמש",
+        "city:he": "אהוואז",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Özel Birlik Gizlenme Yeri",
+        "description:tr": "Kolahmesh Kuds Stadyumu'nda Özel Birlik'in gizlenme yeri",
+        "city:tr": "Ahvaz",
+        "province:tr": "Huzistan",
+        "name:ckb": "حەشارگەی یەکەی تایبەت",
+        "description:ckb": "حەشارگەی یەکەی تایبەت لە یاریگای قودسی کڵاومەش",
+        "city:ckb": "ئەهواز",
+        "province:ckb": "خووزستان",
+        "id": "MTI6N2EyYWRiNjVhNzMx",
+        "publicId": "MTI6N2EyYWRiNjVhNzMx",
+        "sourceId": "7a2adb65a731",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-25T14:27:02.658Z",
+        "updatedAt": "2026-10-25T14:27:08.104Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51322241127491,
+          34.83335517812132
+        ]
+      },
+      "properties": {
+        "name:fa": "محل تجهیزات بسیج",
+        "unofficial_name:fa": "",
+        "description": "محل دپوی تجهیزات بسیج شهید دستغیب",
+        "date": 1792933000,
+        "city": "همدان",
+        "province": "استان همدان",
+        "name:en": "Basij Equipment Location",
+        "description:en": "Depot location for Shahid Dastgheib Basij equipment",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "name:ar": "موقع معدات البسيج",
+        "description:ar": "موقع مستودع معدات بسيج الشهيد دستغيب",
+        "city:ar": "همدان",
+        "province:ar": "همدان",
+        "name:he": "מיקום ציוד באסיג'",
+        "description:he": "אתר אחסון הציוד של באסיג' שהיד דסתע'יב",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "name:tr": "Besic Teçhizat Yeri",
+        "description:tr": "Şehit Dastğeyb Besic teçhizat depolama alanı",
+        "city:tr": "Hemedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "شوێنی کەلوپەلەکانی بەسیج",
+        "description:ckb": "شوێنی عەمبارکردنی کەلوپەلەکانی بەسیجی شەهید دەستغەیب",
+        "city:ckb": "هەمەدان",
+        "province:ckb": "ھەمەدان",
+        "id": "MTI6ZmYzZGY5NzJhOTEx",
+        "publicId": "MTI6ZmYzZGY5NzJhOTEx",
+        "sourceId": "ff3df972a911",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-25T14:41:21.590Z",
+        "updatedAt": "2026-10-25T14:41:21.590Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.50486934185028,
+          34.83213782065751
+        ]
+      },
+      "properties": {
+        "name:fa": "محل دپوی تجهیزات بسیج",
+        "unofficial_name:fa": "",
+        "description": "محل دپوی تجهیزات بسیج پیامبر اکرم",
+        "date": 1792933077,
+        "city": "همدان",
+        "province": "استان همدان",
+        "name:en": "Basij Equipment Depot",
+        "description:en": "Equipment depot of Payambar-e Akram Basij",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "name:ar": "موقع تخزين معدات البسيج",
+        "description:ar": "موقع تخزين معدات بسيج النبي الأكرم",
+        "city:ar": "همدان",
+        "province:ar": "همدان",
+        "name:he": "אתר אחסון ציוד בסיג'",
+        "description:he": "אתר אחסון ציוד של בסיג' פייאמבר אכרם",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "name:tr": "Besic Ekipman Deposu",
+        "description:tr": "Peygamber-i Ekrem Besic Ekipman Deposu",
+        "city:tr": "Hemedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "شوێنی کۆگاکردنی کەرەستەکانی بەسیج",
+        "description:ckb": "شوێنی کۆگاکردنی کەرەستەکانی بەسیجی پێغەمبەری ئەکرەم",
+        "city:ckb": "هەمەدان",
+        "province:ckb": "ھەمەدان",
+        "id": "MTI6MTVkOTU4ZGM1MzNk",
+        "publicId": "MTI6MTVkOTU4ZGM1MzNk",
+        "sourceId": "15d958dc533d",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-25T14:41:53.658Z",
+        "updatedAt": "2026-10-25T14:41:53.658Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51484648883343,
+          34.839067587473934
+        ]
+      },
+      "properties": {
+        "name:fa": "محل دپوی تجهیزات بسیج",
+        "unofficial_name:fa": "",
+        "description": "محل دپوی تجهیزات بسیج در جنگ ۴۰ روزه",
+        "date": 1792932773,
+        "city": "همدان",
+        "province": "استان همدان",
+        "name:en": "Basij Equipment Storage Site",
+        "description:en": "Basij equipment depot location during the 40-day war",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "name:ar": "موقع تخزين معدات البسيج",
+        "description:ar": "موقع تخزين معدات البسيج في حرب الـ 40 يوماً",
+        "city:ar": "همدان",
+        "province:ar": "همدان",
+        "name:tr": "Besiç Ekipmanı Depolama Alanı",
+        "description:tr": "40 günlük savaş sırasında Besiç ekipmanlarının depolandığı yer",
+        "city:tr": "Hemedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "شوێنی دپۆکردنی کەلوپەلەکانی بەسیج",
+        "description:ckb": "شوێنی دپۆکردنی کەلوپەلەکانی بەسیج لە جەنگی 40 ڕۆژەدا",
+        "city:ckb": "هەمەدان",
+        "province:ckb": "ھەمەدان",
+        "name:he": "מחסן ציוד הבסיג'",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "id": "MTI6N2U0M2JlZTQyYTFh",
+        "publicId": "MTI6N2U0M2JlZTQyYTFh",
+        "sourceId": "7e43bee42a1a",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-25T14:42:49.294Z",
+        "updatedAt": "2026-10-25T14:42:49.294Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96436,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.85316091614558,
+              34.75281630402344
+            ],
+            [
+              50.855872042406276,
+              34.753088838171976
+            ],
+            [
+              50.85595627157187,
+              34.75306288257741
+            ],
+            [
+              50.8559878575374,
+              34.7528984969842
+            ],
+            [
+              50.856624840600375,
+              34.75297203795971
+            ],
+            [
+              50.85663536924582,
+              34.75290714886664
+            ],
+            [
+              50.85877533379832,
+              34.75314074937506
+            ],
+            [
+              50.85884376999525,
+              34.752680036650744
+            ],
+            [
+              50.85934914498762,
+              34.752744925922244
+            ],
+            [
+              50.85940178821588,
+              34.75252430219089
+            ],
+            [
+              50.85934914498762,
+              34.75244859783356
+            ],
+            [
+              50.85918068665748,
+              34.752398849218295
+            ],
+            [
+              50.85913067558985,
+              34.752398849218295
+            ],
+            [
+              50.859164893688785,
+              34.75223013629862
+            ],
+            [
+              50.859278076629124,
+              34.7522387882519
+            ],
+            [
+              50.85939652389362,
+              34.752197691466975
+            ],
+            [
+              50.85945706360573,
+              34.75215659466244
+            ],
+            [
+              50.859514971157125,
+              34.75198571825345
+            ],
+            [
+              50.859536028449014,
+              34.75187973144226
+            ],
+            [
+              50.85959854365498,
+              34.751416184557314
+            ],
+            [
+              50.85695055782895,
+              34.75115150218144
+            ],
+            [
+              50.85692130419142,
+              34.7511036585733
+            ],
+            [
+              50.856885217941596,
+              34.75109094953835
+            ],
+            [
+              50.853486350549275,
+              34.7507350957692
+            ],
+            [
+              50.85316091614558,
+              34.75281630402344
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز صنایع دفاع قم",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "قم",
+        "province": "استان قم",
+        "name:en": "Qom Defense Industries Center",
+        "city:en": "Qom",
+        "province:en": "Qom",
+        "name:ar": "مركز الصناعات الدفاعية في قم",
+        "city:ar": "قم",
+        "province:ar": "قم",
+        "name:he": "מרכז תעשיות הביטחון קום",
+        "city:he": "קום",
+        "province:he": "קום",
+        "name:tr": "Kum Savunma Sanayii Merkezi",
+        "city:tr": "Kum",
+        "province:tr": "Kum",
+        "name:ckb": "ناوەندی پیشەسازییەکانی بەرگریی قوم",
+        "city:ckb": "قوم",
+        "province:ckb": "قوم",
+        "id": "MTI6NzljMDE2NzE0MDg2",
+        "publicId": "MTI6NzljMDE2NzE0MDg2",
+        "sourceId": "79c016714086",
+        "layerId": 12,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-25T14:52:40.797Z",
+        "updatedAt": "2026-10-25T14:52:40.797Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96453,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.13768035645498,
+              35.427889534324066
+            ],
+            [
+              46.13793081061243,
+              35.428187457050655
+            ],
+            [
+              46.138169880490096,
+              35.42805035088061
+            ],
+            [
+              46.13794851949257,
+              35.42780603329311
+            ],
+            [
+              46.137835941614185,
+              35.42771222338892
+            ],
+            [
+              46.13768415121527,
+              35.427847268381
+            ],
+            [
+              46.13768035645498,
+              35.427889534324066
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه نظامی",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "وەیسە",
+        "province": "استان کردستان",
+        "name:en": "Military Base",
+        "city:en": "Veiseh",
+        "province:en": "Kurdistan",
+        "name:ar": "قاعدة عسكرية",
+        "city:ar": "ويسه",
+        "province:ar": "كردستان",
+        "name:he": "בסיס צבאי",
+        "city:he": "וואיסה",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Askeri Üs",
+        "city:tr": "Veyse",
+        "province:tr": "Kürdistan",
+        "name:ckb": "بنکەی سەربازی",
+        "city:ckb": "وەیسە",
+        "province:ckb": "کوردستان",
+        "id": "MTI6ZGMyZjk3YjM1ODI2",
+        "publicId": "MTI6ZGMyZjk3YjM1ODI2",
+        "sourceId": "dc2f97b35826",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-26T01:55:10.033Z",
+        "updatedAt": "2026-10-26T01:55:10.033Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96455,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.1488288084374,
+              35.46349501254801
+            ],
+            [
+              46.14898880251886,
+              35.463616720742706
+            ],
+            [
+              46.14907115241476,
+              35.46356592915656
+            ],
+            [
+              46.149115856643334,
+              35.46359659577843
+            ],
+            [
+              46.14925232218337,
+              35.463510345873885
+            ],
+            [
+              46.149208794382844,
+              35.4634729708864
+            ],
+            [
+              46.149233499350515,
+              35.463459554219895
+            ],
+            [
+              46.14905821171689,
+              35.4633004707197
+            ],
+            [
+              46.1488288084374,
+              35.46349501254801
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه نظامی",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "وله‌ژیر",
+        "province": "استان کردستان",
+        "name:en": "Military Base",
+        "city:en": "Valeh Zhir",
+        "province:en": "Kurdistan",
+        "name:ar": "قاعدة عسكرية",
+        "city:ar": "وله جير",
+        "province:ar": "كردستان",
+        "name:he": "בסיס צבאי",
+        "city:he": "ולה ז'יר",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Askeri Üs",
+        "city:tr": "Velejir",
+        "province:tr": "Kürdistan",
+        "name:ckb": "بنکەی سەربازی",
+        "city:ckb": "وەڵەژێر",
+        "province:ckb": "کوردستان",
+        "id": "MTI6YzhmYjFlN2M3NGUw",
+        "publicId": "MTI6YzhmYjFlN2M3NGUw",
+        "sourceId": "c8fb1e7c74e0",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-26T01:56:36.087Z",
+        "updatedAt": "2026-10-26T01:56:36.087Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96457,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.130817658067144,
+              35.48377983425088
+            ],
+            [
+              46.131129494080085,
+              35.4840079202303
+            ],
+            [
+              46.131462511408614,
+              35.48373575033169
+            ],
+            [
+              46.13117067998979,
+              35.48349711916529
+            ],
+            [
+              46.130817658067144,
+              35.48377983425088
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه نظامی",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان مریوان",
+        "province": "استان کردستان",
+        "name:en": "Military Base",
+        "city:en": "Marivan County",
+        "province:en": "Kurdistan",
+        "name:ar": "قاعدة عسكرية",
+        "city:ar": "مقاطعة مريوان",
+        "province:ar": "كردستان",
+        "name:he": "בסיס צבאי",
+        "city:he": "מריואן",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Askeri Üs",
+        "city:tr": "Marivan",
+        "province:tr": "Kürdistan",
+        "name:ckb": "بنکەی سەربازی",
+        "city:ckb": "شارستانی مەریوان",
+        "province:ckb": "کوردستان",
+        "id": "MTI6N2E5MmFkY2FlMjM1",
+        "publicId": "MTI6N2E5MmFkY2FlMjM1",
+        "sourceId": "7a92adcae235",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-26T01:58:12.234Z",
+        "updatedAt": "2026-10-26T01:58:12.234Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1102,
+    "total": 1109,
     "layerId": 12,
     "clustered": false,
     "simplified": false

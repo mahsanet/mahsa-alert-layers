@@ -1965,10 +1965,243 @@
         "createdAt": "2026-10-24T09:55:55.224Z",
         "updatedAt": "2026-10-24T09:55:55.224Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96406,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.73333,
+              37.06667
+            ],
+            [
+              47.71667,
+              37.11667
+            ],
+            [
+              47.65,
+              37.11667
+            ],
+            [
+              47.66667,
+              37.06667
+            ],
+            [
+              47.73333,
+              37.06667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · میانه (OID124)",
+        "description": "محدوده مشخص‌شده فعال شده است.",
+        "notamNumber": "B0576/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۸/۱۰، ۰۷:۰۰",
+        "validTo": "۱۴۰۵/۰۸/۱۶، ۲۲:۰۰",
+        "shapeSource": "منطقه OID124 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1793503800,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "areaCodes": "OID124",
+        "city": "شهرستان میانه",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Aeronautical Notice · Airspace Restriction · Miyaneh (OID124)",
+        "description:en": "The specified area has been activated.",
+        "city:en": "Miyaneh County",
+        "province:en": "East Azerbaijan",
+        "name:ar": "إشعار طيران · قيود على المجال الجوي · ميانه (OID124)",
+        "description:ar": "تم تفعيل المنطقة المحددة.",
+        "city:ar": "مقاطعة ميانه",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "הודעת תעופה · הגבלת מרחב אווירי · מיאנה (OID124)",
+        "city:he": "מיאנה",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Miyane (OID124)",
+        "description:tr": "Belirtilen alan aktif hale getirildi.",
+        "city:tr": "Miyane",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشایی ئاسمانی · میانە (OID124)",
+        "description:ckb": "ناوچەی دیاریکراو چالاک کراوە.",
+        "city:ckb": "شارۆچکەی میانە",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDU3Ni0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDU3Ni0yNg",
+        "sourceId": "notam-oiix-b0576-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-07T18:30:00.000Z",
+        "createdAt": "2026-10-25T09:25:57.181Z",
+        "updatedAt": "2026-10-25T09:25:57.181Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96407,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.25,
+              27.68333
+            ],
+            [
+              60.23333,
+              27.55
+            ],
+            [
+              60.3,
+              27.55
+            ],
+            [
+              60.33333,
+              27.68333
+            ],
+            [
+              60.25,
+              27.68333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · ایرانشهر (OID123)",
+        "description": "محدوده مشخص‌شده فعال شده است. اطلاعات تکمیلی در صفحه مربوطه از مجموعه اطلاعات هوانوردی ارائه شده است.",
+        "notamNumber": "A2419/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۸/۰۹، ۰۶:۰۰",
+        "validTo": "۱۴۰۵/۰۸/۱۵، ۰۰:۰۰",
+        "shapeSource": "منطقه OID123 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1793413800,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "areaCodes": "OID123",
+        "city": "شهرستان ایرانشهر",
+        "province": "استان سیستان و بلوچستان",
+        "name:en": "Aeronautical Notice · Airspace Restriction · Iranshahr (OID123)",
+        "description:en": "The designated area has been activated. Additional information is provided on the relevant page of the Aeronautical Information Publication.",
+        "city:en": "Iranshahr",
+        "province:en": "Sistan and Baluchestan",
+        "name:ar": "إشعار الطيران · تقييد المجال الجوي · إيرانشهر (OID123)",
+        "description:ar": "تم تفعيل المنطقة المحددة. تم تقديم معلومات إضافية في الصفحة المعنية من دليل معلومات الطيران.",
+        "city:ar": "إيرانشهر",
+        "province:ar": "سيستان وبلوشستان",
+        "name:he": "הודעת תעופה · הגבלת המרחב האווירי · איראנשאהר (OID123)",
+        "description:he": "האזור המוגדר הופעל. מידע נוסף מסופק בעמוד הרלוונטי מתוך אוסף מידע התעופה.",
+        "city:he": "איראנשאהר",
+        "province:he": "סיסתאן ובלוצ'יסתאן",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · İranşehr (OID123)",
+        "description:tr": "Belirtilen alan aktif hale getirilmiştir. Ek bilgiler, havacılık bilgi yayınının ilgili sayfasında sunulmuştur.",
+        "city:tr": "İranşehr İlçesi",
+        "province:tr": "Sistan ve Belucistan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشایی ئاسمانی · ئێرانشار (OID123)",
+        "description:ckb": "ناوچەی دیاریکراو چالاک کراوە. زانیاریی زیاتر لە پەڕەی پەیوەندیداری کۆمەڵە زانیارییەکانی فڕۆکەوانیدا پێشکەش کراوە.",
+        "city:ckb": "شارستانی ئێرانشار",
+        "province:ckb": "سیستان و بەلووچستان",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjQxOS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQxOS0yNg",
+        "sourceId": "notam-oiix-a2419-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-05T20:30:00.000Z",
+        "createdAt": "2026-10-25T09:26:05.393Z",
+        "updatedAt": "2026-10-25T09:26:05.393Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96408,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.03333,
+              28.21667
+            ],
+            [
+              61.03333,
+              28.15
+            ],
+            [
+              61.18333,
+              28.15
+            ],
+            [
+              61.18333,
+              28.21667
+            ],
+            [
+              61.03333,
+              28.21667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · خاش (OID122)",
+        "description": "محدوده مشخص‌شده فعال شده است. برای اطلاعات بیشتر به صفحه مربوطه در کتابچه اطلاعات هوانوردی ارجاع داده شده است.",
+        "notamNumber": "A2421/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۸/۰۹، ۰۶:۰۰",
+        "validTo": "۱۴۰۵/۰۸/۱۴، ۲۳:۰۰",
+        "shapeSource": "منطقه OID122 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1793413800,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "areaCodes": "OID122",
+        "city": "شهرستان خاش",
+        "province": "استان سیستان و بلوچستان",
+        "name:en": "Aviation Notice · Airspace Restriction · Khash (OID122)",
+        "description:en": "The specified area has been activated. For more information, reference is made to the relevant page in the Aeronautical Information Publication.",
+        "city:en": "Khash",
+        "province:en": "Sistan and Baluchestan",
+        "name:ar": "إشعار الطيران · تقييد المجال الجوي · خاش (OID122)",
+        "description:ar": "تم تفعيل المنطقة المحددة. للمزيد من المعلومات، يُرجى الرجوع إلى الصفحة المعنية في دليل معلومات الطيران.",
+        "city:ar": "مقاطعة خاش",
+        "province:ar": "سيستان وبلوشستان",
+        "name:he": "הודעת תעופה · הגבלת מרחב אווירי · ח'אש (OID122)",
+        "description:he": "האזור המוגדר הופעל. למידע נוסף יש לעיין בעמוד הרלוונטי בספר המידע התעופתי.",
+        "city:he": "מחוז משנה ח'אש",
+        "province:he": "סיסתאן ובלוצ'יסתאן",
+        "name:tr": "Havacılık Bildirisi · Hava Sahası Kısıtlaması · Haş (OID122)",
+        "description:tr": "Belirtilen alan aktif hale getirilmiştir. Daha fazla bilgi için Havacılık Bilgi El Kitabı'ndaki ilgili sayfaya yönlendirilmiştir.",
+        "city:tr": "Haş İlçesi",
+        "province:tr": "Sistan ve Belucistan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشاییی ئاسمانی · خاش (OID122)",
+        "description:ckb": "ناوچەی دیاریکراو چالاک کراوەتەوە. بۆ زانیاریی زیاتر ئاماژە بە لاپەڕەی پەیوەندیدار لە پەڕتووکی زانیاریی فڕۆکەوانیدا کراوە.",
+        "city:ckb": "شارستانی خاش",
+        "province:ckb": "سیستان و بەلووچستان",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjQyMS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQyMS0yNg",
+        "sourceId": "notam-oiix-a2421-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-05T19:30:00.000Z",
+        "createdAt": "2026-10-25T09:40:56.208Z",
+        "updatedAt": "2026-10-25T09:40:56.208Z"
+      }
     }
   ],
   "metadata": {
-    "total": 10,
+    "total": 13,
     "layerId": 38,
     "clustered": false,
     "simplified": false

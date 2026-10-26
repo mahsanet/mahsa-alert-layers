@@ -115812,6 +115812,57 @@
     },
     {
       "type": "Feature",
+      "id": 92788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.08368893519503,
+          35.478889720075685
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر نماینده رباط کریم",
+        "unofficial_name:fa": "",
+        "description": "دفتر نماینده رباط کریم حسن قشقاویی محل جمع شدن و برنامه ریزی سرکوب گران",
+        "date": 1772217991,
+        "city": "رباط کریم",
+        "province": "استان تهران",
+        "sources": "",
+        "name:en": "Robat Karim Representative's Office",
+        "description:en": "Office of Hassan Ghashghavi, representative of Robat Karim, serving as a gathering and planning site for repressive forces.",
+        "city:en": "Robat Karim",
+        "province:en": "Tehran",
+        "name:ar": "مكتب نائب رباط كريم",
+        "description:ar": "مكتب نائب رباط كريم حسن قشقائي، وهو مكان لتجمع القامعين والتخطيط للقمع.",
+        "city:ar": "رباط كريم",
+        "province:ar": "طهران",
+        "name:he": "משרד נציג רובאט כרים",
+        "description:he": "משרדו של נציג רובאט כרים, חסן קשקאווי, מקום התכנסות ותכנון של המדכאים.",
+        "city:he": "רובאט כרים",
+        "province:he": "טהראן",
+        "name:tr": "Ribat-ı Kerim Milletvekili Ofisi",
+        "description:tr": "Ribat-ı Kerim Milletvekili Hasan Kaşkayi'nin ofisi, baskıcı güçlerin toplanma ve planlama yeri.",
+        "city:tr": "Ribat-ı Kerim",
+        "province:tr": "Tahran",
+        "name:ckb": "نوسینگەی نوێنەری ڕوبات کەریم",
+        "description:ckb": "نوسینگەی نوێنەری ڕوبات کەریم حەسەن قەشقایی شوێنی کۆبوونەوە و بەرنامەداڕشتنی سەرکوتکەران",
+        "city:ckb": "ڕوبات کەریم",
+        "province:ckb": "تاران",
+        "id": "MTc6MTRmOGQyODVhMGEz",
+        "publicId": "MTc6MTRmOGQyODVhMGEz",
+        "sourceId": "14f8d285a0a3",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-04-02T07:05:34.302Z",
+        "updatedAt": "2026-10-25T14:56:06.010Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92795,
       "geometry": {
         "type": "Point",
@@ -123021,7 +123072,7 @@
     }
   ],
   "metadata": {
-    "total": 2429,
+    "total": 2430,
     "layerId": 17,
     "clustered": false,
     "simplified": false

@@ -812192,10 +812192,61 @@
         "createdAt": "2026-10-20T16:28:21.183Z",
         "updatedAt": "2026-10-20T16:28:34.099Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96451,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.96722036600113,
+          35.85028321193711
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1792965745,
+        "addressDescription": "",
+        "description": "دوربین نظارتی",
+        "city": "کرج",
+        "province": "استان البرز",
+        "name:en": "Surveillance Camera",
+        "description:en": "Surveillance camera",
+        "city:en": "Karaj",
+        "province:en": "Alborz",
+        "name:ar": "كاميرا مراقبة",
+        "description:ar": "كاميرا مراقبة",
+        "city:ar": "كرج",
+        "province:ar": "ألبرز",
+        "name:he": "מצלמת מעקב",
+        "description:he": "מצלמת מעקב",
+        "city:he": "כרג'",
+        "province:he": "אלבורז",
+        "name:tr": "Gözetim Kamerası",
+        "description:tr": "Gözetim kamerası",
+        "city:tr": "Kerec",
+        "province:tr": "Elburz",
+        "name:ckb": "کامێرای چاودێری",
+        "description:ckb": "کامێرای چاودێری",
+        "city:ckb": "کەرەج",
+        "province:ckb": "ئەلبورز",
+        "id": "MjA6OGY1NTAyZGFlYmY4",
+        "publicId": "MjA6OGY1NTAyZGFlYmY4",
+        "sourceId": "8f5502daebf8",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-26T01:52:09.142Z",
+        "updatedAt": "2026-10-26T01:52:31.264Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18667,
+    "total": 18668,
     "layerId": 20,
     "clustered": false,
     "simplified": false

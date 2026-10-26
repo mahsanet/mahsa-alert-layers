@@ -43864,10 +43864,61 @@
         "createdAt": "2026-10-20T16:36:08.829Z",
         "updatedAt": "2026-10-20T16:36:08.829Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96435,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.27000547725456,
+          34.7283268578077
+        ]
+      },
+      "properties": {
+        "city": "قاهان",
+        "count": "",
+        "people": "حسین شجاعی",
+        "description": "جاویدنام حسین شجاعی. محل فوت تهران.",
+        "date": 1792883750,
+        "name:fa": "حسین شجاعی",
+        "province": "استان قم",
+        "name:en": "Hossein Shojaei",
+        "description:en": "Immortalized Hossein Shojaei. Place of death: Tehran.",
+        "city:en": "Qahan",
+        "province:en": "Qom",
+        "name:ar": "حسين شجاعي",
+        "description:ar": "الشهيد الخالد حسين شجاعي. مكان الوفاة طهران.",
+        "city:ar": "قاهان",
+        "province:ar": "قم",
+        "name:he": "חוסיין שוג'אעי",
+        "description:he": "חוסיין שוג'אעי, ששמו חקוק לעד. מקום המוות טהראן.",
+        "city:he": "קאהאן",
+        "province:he": "קום",
+        "name:tr": "Hüseyin Şücayi",
+        "description:tr": "Ölümsüz Hüseyin Şücayi. Vefat yeri Tahran.",
+        "city:tr": "Kahan",
+        "province:tr": "Kum",
+        "name:ckb": "حوسێن شوجاعی",
+        "description:ckb": "نەمر حوسێن شوجاعی. شوێنی گیانبەدەستدان تاران.",
+        "city:ckb": "قاهان",
+        "province:ckb": "قوم",
+        "id": "MTY6OTRiNDdhMzAwYzEx",
+        "publicId": "MTY6OTRiNDdhMzAwYzEx",
+        "sourceId": "94b47a300c11",
+        "layerId": 16,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-25T14:49:25.174Z",
+        "updatedAt": "2026-10-25T14:50:49.046Z"
+      }
     }
   ],
   "metadata": {
-    "total": 174,
+    "total": 175,
     "layerId": 16,
     "clustered": false,
     "simplified": false

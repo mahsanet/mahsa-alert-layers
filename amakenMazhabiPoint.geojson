@@ -63886,8 +63886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.5299225,
-          32.6895948
+          51.5300514439713,
+          32.68959421006231
         ]
       },
       "properties": {
@@ -63920,7 +63920,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:53:48.208Z",
-        "updatedAt": "2026-03-11T20:53:48.208Z"
+        "updatedAt": "2026-10-25T14:36:51.119Z"
       }
     },
     {
@@ -246883,30 +246883,30 @@
         ]
       },
       "properties": {
-        "name:fa": "مسجد جامع",
-        "description": "مسجد جامع",
+        "name:fa": "حسینیه ",
+        "description": "حسینیه",
         "date": 1792519874,
         "city": "خمینی شهر",
         "province": "استان اصفهان",
-        "name:en": "Jameh Mosque",
-        "description:en": "Jameh Mosque",
+        "name:en": "Hosseiniyeh",
+        "description:en": "Hosseiniyeh",
         "city:en": "Khomeyni Shahr",
         "province:en": "Isfahan",
-        "name:ar": "المسجد الجامع",
-        "description:ar": "المسجد الجامع",
+        "name:ar": "حسينية",
+        "description:ar": "حسينية",
         "city:ar": "خميني شهر",
         "province:ar": "أصفهان",
-        "name:he": "מסגד ג'אמע",
-        "description:he": "מסגד ג'אמע",
-        "city:he": "ח'ומייני שהר",
+        "name:he": "חוסייניה",
+        "description:he": "חוסייניה",
+        "city:he": "חומייני שהר",
         "province:he": "אספהאן",
-        "name:tr": "Ulu Cami",
-        "description:tr": "Ulu Cami",
-        "city:tr": "Humeynişehir",
+        "name:tr": "Hüseyniye",
+        "description:tr": "Hüseyniye",
+        "city:tr": "Humeynişehr",
         "province:tr": "İsfahan",
-        "name:ckb": "مزگەوتی جامیع",
-        "description:ckb": "مزگەوتی جامیع",
-        "city:ckb": "خومەینی شار",
+        "name:ckb": "حوسێنییە",
+        "description:ckb": "حوسێنییە",
+        "city:ckb": "خومەینیشار",
         "province:ckb": "ئەسفەھان",
         "id": "NDplMGQ3YTBmZTY2ZWM",
         "publicId": "NDplMGQ3YTBmZTY2ZWM",
@@ -246918,7 +246918,7 @@
         "verificationTag": "verified",
         "expirationDate": null,
         "createdAt": "2026-10-22T16:26:55.061Z",
-        "updatedAt": "2026-10-22T16:26:55.061Z"
+        "updatedAt": "2026-10-25T14:35:58.005Z"
       }
     },
     {
@@ -247300,10 +247300,383 @@
         "createdAt": "2026-10-25T00:00:37.392Z",
         "updatedAt": "2026-10-25T00:00:37.392Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.30413751608563,
+          36.64160021618123
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام حسین",
+        "description": "",
+        "date": "",
+        "city": "نكا",
+        "province": "استان مازندران",
+        "name:en": "Imam Hossein Mosque",
+        "city:en": "Neka",
+        "province:en": "Mazandaran",
+        "name:ar": "مسجد الإمام الحسين",
+        "city:ar": "نكا",
+        "province:ar": "مازندران",
+        "name:he": "מסגד אימאם חוסיין",
+        "city:he": "נכא",
+        "province:he": "מאזנדראן",
+        "name:tr": "İmam Hüseyin Camii",
+        "city:tr": "Neka",
+        "province:tr": "Mazenderan",
+        "name:ckb": "مزگەوتی ئیمام حسێن",
+        "city:ckb": "نەكا",
+        "province:ckb": "مازەندەران",
+        "id": "NDozMjJkNzcwNDhhYzc",
+        "publicId": "NDozMjJkNzcwNDhhYzc",
+        "sourceId": "322d77048ac7",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-25T14:30:53.994Z",
+        "updatedAt": "2026-10-25T14:30:53.994Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.53012769296765,
+          32.68891033986468
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه محله باولگان",
+        "description": "در ۱۸ و ۱۹ دی از پشت بام این حسینیه به مردم شلیک شد.",
+        "date": 1792932984,
+        "city": "خمینی شهر",
+        "province": "استان اصفهان",
+        "name:en": "Bavelgan Neighborhood Hosseiniyeh",
+        "description:en": "On January 8 and 9, people were shot at from the roof of this Hosseiniyeh.",
+        "city:en": "Khomeyni Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "حسينية حي باولغان",
+        "description:ar": "في 18 و19 دي، أُطلق النار على الناس من سطح هذه الحسينية.",
+        "city:ar": "خميني شهر",
+        "province:ar": "أصفهان",
+        "name:he": "חוסייניית שכונת באוולגאן",
+        "description:he": "ב-18 ו-19 בדיי נורו יריות לעבר האנשים מגג חוסיינייה זו.",
+        "city:he": "חומייני שאהר",
+        "province:he": "אספהאן",
+        "name:tr": "Bavelgan Mahallesi Hüseyniyesi",
+        "description:tr": "18 ve 19 Dey'de bu hüseyniyenin çatısından halka ateş açıldı.",
+        "city:tr": "Humeynişehir",
+        "province:tr": "İsfahan",
+        "name:ckb": "حوسێنیەی گەڕەکی باولەگان",
+        "description:ckb": "لە 18 و 19ی بەفرانباردا لە سەربانی ئەم حوسێنیەیەوە تەقە لە خەڵک کرا.",
+        "city:ckb": "خومەینی‌شەهر",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDo0NjVkNjQyZWMwY2U",
+        "publicId": "NDo0NjVkNjQyZWMwY2U",
+        "sourceId": "465d642ec0ce",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-25T14:36:40.890Z",
+        "updatedAt": "2026-10-25T14:36:40.890Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.529715269606356,
+          32.69014300316525
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد زنجیری(جبل عاملی)",
+        "description": "",
+        "date": "",
+        "city": "خمینی شهر",
+        "province": "استان اصفهان",
+        "name:en": "Zanjiri Mosque (Jabal Ameli)",
+        "city:en": "Khomeyni Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "مسجد زنجيري (جبل عاملي)",
+        "city:ar": "خميني شهر",
+        "province:ar": "أصفهان",
+        "name:he": "מסגד זנג'ירי (ג'בל עאמלי)",
+        "city:he": "ח'ומייני שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Zenciri Camii (Cebel Amili)",
+        "city:tr": "Humeynişehir",
+        "province:tr": "İsfahan",
+        "name:ckb": "مزگەوتی زنجیری (جەبەل عاملی)",
+        "city:ckb": "خومەینیشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDplMDJiOGE4YzllYWI",
+        "publicId": "NDplMDJiOGE4YzllYWI",
+        "sourceId": "e02b8a8c9eab",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-25T14:37:16.311Z",
+        "updatedAt": "2026-10-25T14:37:16.311Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96432,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.51547102710779,
+              34.8159134746616
+            ],
+            [
+              48.51594664329815,
+              34.81608476296185
+            ],
+            [
+              48.51608107672482,
+              34.81582212075614
+            ],
+            [
+              48.51560824191523,
+              34.81564930934097
+            ],
+            [
+              48.51547102710779,
+              34.8159134746616
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد الزهرا",
+        "description": "",
+        "date": "",
+        "city": "همدان",
+        "province": "استان همدان",
+        "name:en": "Al-Zahra Mosque",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "name:ar": "مسجد الزهراء",
+        "city:ar": "همذان",
+        "province:ar": "همدان",
+        "name:he": "מסגד אל-זהרא",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "name:tr": "Zehra Camii",
+        "city:tr": "Hemedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "مزگەوتی زەهرا",
+        "city:ckb": "هەمەدان",
+        "province:ckb": "ھەمەدان",
+        "id": "NDoxMmEzOGY5ZjM4ODQ",
+        "publicId": "NDoxMmEzOGY5ZjM4ODQ",
+        "sourceId": "12a38f9f3884",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-25T14:45:35.648Z",
+        "updatedAt": "2026-10-25T14:45:35.648Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96434,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.26891570081827,
+              35.31273014775971
+            ],
+            [
+              48.26900262307643,
+              35.31287408486108
+            ],
+            [
+              48.26920796116599,
+              35.312799031976326
+            ],
+            [
+              48.2691323765936,
+              35.31265303849288
+            ],
+            [
+              48.26891570081827,
+              35.31273014775971
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد حضرت ابوالفضل",
+        "description": "",
+        "date": "",
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "name:en": "Hazrat Abolfazl Mosque",
+        "city:en": "Kabudarahang",
+        "province:en": "Hamadan",
+        "name:ar": "مسجد حضرت أبو الفضل",
+        "city:ar": "مقاطعة كبودراهنغ",
+        "province:ar": "همدان",
+        "name:he": "מסגד חזרת אבולפזל",
+        "city:he": "מחוז משנה כבודראחאנג'",
+        "province:he": "המדאן",
+        "name:tr": "Hazreti Ebulfazl Camii",
+        "city:tr": "Kabudrahang",
+        "province:tr": "Hemedan",
+        "name:ckb": "مزگەوتی حەزرەتی ئەبولفەزل",
+        "city:ckb": "شارستانی کەبوودەرئاهەنگ",
+        "province:ckb": "ھەمەدان",
+        "id": "NDo0NTU0ZWJhZjg5MDE",
+        "publicId": "NDo0NTU0ZWJhZjg5MDE",
+        "sourceId": "4554ebaf8901",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-25T14:46:44.410Z",
+        "updatedAt": "2026-10-25T14:46:44.410Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96454,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.13636463508195,
+          35.42828004428169
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ویسه",
+        "description": "",
+        "date": "",
+        "city": "وەیسە",
+        "province": "استان کردستان",
+        "name:en": "Veiseh Mosque",
+        "city:en": "Veiseh",
+        "province:en": "Kurdistan",
+        "name:ar": "مسجد ويسه",
+        "city:ar": "ويسه",
+        "province:ar": "كردستان",
+        "name:he": "מסגד ויסה",
+        "city:he": "ויסה",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Veyseh Camii",
+        "city:tr": "Veyseh",
+        "province:tr": "Kürdistan",
+        "name:ckb": "مزگەوتی وەیسە",
+        "city:ckb": "وەیسە",
+        "province:ckb": "کوردستان",
+        "id": "NDo3NmNiZWM4NGE1ODU",
+        "publicId": "NDo3NmNiZWM4NGE1ODU",
+        "sourceId": "76cbec84a585",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-26T01:55:34.926Z",
+        "updatedAt": "2026-10-26T01:55:34.926Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96456,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.1501015062633,
+              35.462830465486576
+            ],
+            [
+              46.15017576801989,
+              35.46297244366596
+            ],
+            [
+              46.15041522429743,
+              35.46290207190347
+            ],
+            [
+              46.150347024724425,
+              35.46274898224361
+            ],
+            [
+              46.1501015062633,
+              35.462830465486576
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "وله‌ژیر",
+        "province": "استان کردستان",
+        "name:en": "Mosque",
+        "city:en": "Voleh Zhir",
+        "province:en": "Kurdistan",
+        "name:ar": "مسجد",
+        "city:ar": "وله جير",
+        "province:ar": "كردستان",
+        "name:he": "מסגד",
+        "city:he": "ולהז'יר",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Cami",
+        "city:tr": "Valejir",
+        "province:tr": "Kürdistan",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "وەڵەژێر",
+        "province:ckb": "کوردستان",
+        "id": "NDplOTU0ZDg3NDUxYzE",
+        "publicId": "NDplOTU0ZDg3NDUxYzE",
+        "sourceId": "e954d87451c1",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-26T01:57:38.839Z",
+        "updatedAt": "2026-10-26T01:57:38.839Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5730,
+    "total": 5737,
     "layerId": 4,
     "clustered": false,
     "simplified": false

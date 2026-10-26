@@ -18963,10 +18963,61 @@
         "createdAt": "2026-10-25T00:01:54.925Z",
         "updatedAt": "2026-10-25T00:01:54.925Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96452,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.85561180487275,
+          34.60291708865961
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "تجمع نیروهای حکومتی",
+        "date": 1792963865,
+        "sources": "",
+        "geolocates": "",
+        "description": "تجمع شبانه نیروهای حکومتی",
+        "city": "قم",
+        "province": "استان قم",
+        "name:en": "Gathering of Government Forces",
+        "description:en": "Nighttime gathering of government forces",
+        "city:en": "Qom",
+        "province:en": "Qom",
+        "name:ar": "تجمع القوات الحكومية",
+        "description:ar": "تجمع ليلي للقوات الحكومية",
+        "city:ar": "قم",
+        "province:ar": "قم",
+        "name:he": "התקהלות כוחות השלטון",
+        "description:he": "התקהלות לילית של כוחות השלטון",
+        "city:he": "קום",
+        "province:he": "קום",
+        "name:tr": "Hükümet Güçlerinin Toplanması",
+        "description:tr": "Hükümet güçlerinin gece toplanması",
+        "city:tr": "Kum",
+        "province:tr": "Kum",
+        "name:ckb": "کۆبوونەوەی هێزە حکومییەکان",
+        "description:ckb": "کۆبوونەوەی شەوانەی هێزە حکومییەکان",
+        "city:ckb": "قوم",
+        "province:ckb": "قوم",
+        "id": "NDA6NDNjOGUzZDdlN2M4",
+        "publicId": "NDA6NDNjOGUzZDdlN2M4",
+        "sourceId": "43c8e3d7e7c8",
+        "layerId": 40,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-26T01:54:09.534Z",
+        "updatedAt": "2026-10-26T01:54:18.033Z"
+      }
     }
   ],
   "metadata": {
-    "total": 386,
+    "total": 387,
     "layerId": 40,
     "clustered": false,
     "simplified": false

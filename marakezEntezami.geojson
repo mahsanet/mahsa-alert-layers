@@ -22916,8 +22916,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          57.5848738,
-          29.762143
+          57.5838138736552,
+          29.761600154167255
         ]
       },
       "properties": {
@@ -22950,7 +22950,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:05.827Z",
-        "updatedAt": "2026-03-13T04:41:05.827Z"
+        "updatedAt": "2026-10-25T14:33:59.317Z"
       }
     },
     {
@@ -42338,8 +42338,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.7661074,
-          38.1907928
+          44.766548885482734,
+          38.186445168388445
         ]
       },
       "properties": {
@@ -42372,7 +42372,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.071Z",
-        "updatedAt": "2026-03-13T04:41:06.071Z"
+        "updatedAt": "2026-10-25T14:25:12.056Z"
       }
     },
     {
@@ -99026,8 +99026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          48.5135584,
-          34.8332249
+          48.51396995134269,
+          34.83447387756918
         ]
       },
       "properties": {
@@ -99060,7 +99060,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.743Z",
-        "updatedAt": "2026-03-13T04:41:06.743Z"
+        "updatedAt": "2026-10-25T14:40:43.480Z"
       }
     },
     {
@@ -126674,92 +126674,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.049Z",
         "updatedAt": "2026-03-13T04:41:07.049Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 87096,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.6057687,
-          31.2906938
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NDY2MA",
-        "city": "اهواز",
-        "osm_id": "w519094897",
-        "name:fa": "کلانتری ۳۳ پردیس",
-        "province": "استان خوزستان",
-        "name:en": "Police Station 33 Pardis",
-        "city:en": "Ahvaz",
-        "province:en": "Khuzestan",
-        "name:ar": "مركز شرطة 33 برديس",
-        "city:ar": "الأهواز",
-        "province:ar": "خوزستان",
-        "name:he": "תחנת משטרה 33 פרדיס",
-        "city:he": "אהוואז",
-        "province:he": "ח'וזסתאן",
-        "name:tr": "33 Nolu Perdis Polis Merkezi",
-        "city:tr": "Ahvaz",
-        "province:tr": "Huzistan",
-        "name:ckb": "بنکەی پۆلیسی 33ی پەردیس",
-        "city:ckb": "ئەهواز",
-        "province:ckb": "خووزستان",
-        "publicId": "Mzo2NDY2MA",
-        "sourceId": "64660",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.050Z",
-        "updatedAt": "2026-03-13T04:41:07.050Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 87097,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.6117674,
-          31.2932288
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NDY2MQ",
-        "city": "اهواز",
-        "osm_id": "",
-        "name:fa": "پاسگاه امام سجاد (علیه السلام )",
-        "province": "استان خوزستان",
-        "name:en": "Emam Sajjad Police Post",
-        "city:en": "Ahvaz",
-        "province:en": "Khuzestan",
-        "name:ar": "مخفر الإمام السجاد (عليه السلام)",
-        "city:ar": "الأهواز",
-        "province:ar": "خوزستان",
-        "name:he": "תחנת משטרה אמאם סג'אד (עליו השלום)",
-        "city:he": "אהוואז",
-        "province:he": "ח'וזסתאן",
-        "name:tr": "İmam Seccad (a.s.) Karakolu",
-        "city:tr": "Ahvaz",
-        "province:tr": "Huzistan",
-        "name:ckb": "بنکەی پۆلیسی ئیمام سەجاد (ع)",
-        "city:ckb": "ئەهواز",
-        "province:ckb": "خووزستان",
-        "publicId": "Mzo2NDY2MQ",
-        "sourceId": "64661",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.050Z",
-        "updatedAt": "2026-03-13T04:41:07.050Z"
       }
     },
     {
@@ -162213,8 +162127,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.1899751,
-          27.3459527
+          53.189690658503,
+          27.34607541646301
         ]
       },
       "properties": {
@@ -162247,7 +162161,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.481Z",
-        "updatedAt": "2026-03-13T04:41:07.481Z"
+        "updatedAt": "2026-10-25T14:44:00.202Z"
       }
     },
     {
@@ -243971,55 +243885,6 @@
     },
     {
       "type": "Feature",
-      "id": 90287,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.855650328039076,
-          34.60294475828306
-        ]
-      },
-      "properties": {
-        "name:fa": "یگان ویژه",
-        "date": "",
-        "description": "محل استقرار یگان ویژه",
-        "city": "قم",
-        "province": "استان قم",
-        "name:en": "Special Unit",
-        "description:en": "Stationing location of Special Unit",
-        "city:en": "Qom",
-        "province:en": "Qom",
-        "name:ar": "الوحدة الخاصة",
-        "description:ar": "مكان تمركز الوحدة الخاصة",
-        "city:ar": "قم",
-        "province:ar": "قم",
-        "name:he": "היחידה המיוחדת",
-        "description:he": "מקום מושבה של היחידה המיוחדת.",
-        "city:he": "קום",
-        "province:he": "קום",
-        "name:tr": "Özel Birlik",
-        "description:tr": "Özel Birlik konuşlanma yeri",
-        "city:tr": "Kum",
-        "province:tr": "Kum",
-        "name:ckb": "یەکەی تایبەت",
-        "description:ckb": "شوێنی جێگیربوونی یەکەی تایبەت",
-        "city:ckb": "قوم",
-        "province:ckb": "قوم",
-        "id": "Mzo5NDRmODM1MDg5ZjQ",
-        "publicId": "Mzo5NDRmODM1MDg5ZjQ",
-        "sourceId": "944f835089f4",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-14T16:58:11.744Z",
-        "updatedAt": "2026-03-26T02:08:19.975Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 90341,
       "geometry": {
         "type": "Point",
@@ -265835,10 +265700,116 @@
         "createdAt": "2026-10-17T12:45:56.479Z",
         "updatedAt": "2026-10-17T12:46:01.519Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96418,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.60553703466087,
+              31.289743491593285
+            ],
+            [
+              48.60571953861222,
+              31.290149585841974
+            ],
+            [
+              48.60609870630276,
+              31.290033943287426
+            ],
+            [
+              48.606235584266614,
+              31.289752904394263
+            ],
+            [
+              48.60564401973511,
+              31.289518928791466
+            ],
+            [
+              48.60553703466087,
+              31.289743491593285
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۳۳ پردیس",
+        "description": "",
+        "date": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Pardis Police Station 33",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "name:ar": "مركز شرطة 33 برديس",
+        "city:ar": "الأهواز",
+        "province:ar": "خوزستان",
+        "name:he": "תחנת משטרה 33 פרדיס",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "33 Nolu Pardis Polis Karakolu",
+        "city:tr": "Ahvaz",
+        "province:tr": "Huzistan",
+        "name:ckb": "بنکەی پۆلیسی 33ی پەردیس",
+        "city:ckb": "ئەهواز",
+        "province:ckb": "خووزستان",
+        "id": "MzplMGUxMjA2YjQ3MmE",
+        "publicId": "MzplMGUxMjA2YjQ3MmE",
+        "sourceId": "e0e1206b472a",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-25T14:22:18.771Z",
+        "updatedAt": "2026-10-25T14:22:18.771Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96458,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.99063953384757,
+          35.486830305619534
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه دیدبانی",
+        "description": "پاسگاه دیدبانی",
+        "date": 1792960281,
+        "city": "",
+        "province": "",
+        "name:en": "Observation Post",
+        "description:en": "Observation post",
+        "name:ar": "مخفر مراقبة",
+        "description:ar": "مخفر مراقبة",
+        "name:he": "עמדת תצפית",
+        "description:he": "עמדת תצפית",
+        "name:tr": "Gözetleme Karakolu",
+        "description:tr": "Gözetleme karakolu",
+        "name:ckb": "پاسگای چاوەدێری",
+        "description:ckb": "پاسگای چاوەدێری",
+        "id": "MzphMGE5ZTAxYmVhOGY",
+        "publicId": "MzphMGE5ZTAxYmVhOGY",
+        "sourceId": "a0a9e01bea8f",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-26T01:59:22.439Z",
+        "updatedAt": "2026-10-26T01:59:22.439Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6111,
+    "total": 6110,
     "layerId": 3,
     "clustered": false,
     "simplified": false
