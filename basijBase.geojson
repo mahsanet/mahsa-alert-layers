@@ -104707,10 +104707,110 @@
         "createdAt": "2026-10-25T14:46:05.926Z",
         "updatedAt": "2026-10-25T14:46:50.689Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96463,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.52310551330447,
+          34.78463087250306
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج",
+        "date": 1792959534,
+        "city": "همدان",
+        "province": "استان همدان",
+        "name:en": "Basij Base",
+        "description:en": "Basij base",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة البسيج",
+        "city:ar": "همذان",
+        "province:ar": "همدان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג'",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "name:tr": "Besiç Üssü",
+        "description:tr": "Besiç Üssü",
+        "city:tr": "Hemedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "بنکەی بەسیج",
+        "city:ckb": "هەمەدان",
+        "province:ckb": "ھەمەدان",
+        "id": "MTo0MDJmMDY4NmNiNTI",
+        "publicId": "MTo0MDJmMDY4NmNiNTI",
+        "sourceId": "402f0686cb52",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-26T02:08:45.430Z",
+        "updatedAt": "2026-10-26T02:08:45.430Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96464,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.69579166173935,
+          31.305631616804035
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج",
+        "date": 1792952794,
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Basij Base",
+        "description:en": "Basij Base",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة البسيج",
+        "city:ar": "الأهواز",
+        "province:ar": "خوزستان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג'",
+        "city:he": "אהוואז",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Besic Üssü",
+        "city:tr": "Ahvaz",
+        "province:tr": "Huzistan",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "بنکەی بەسیج",
+        "city:ckb": "ئەهواز",
+        "province:ckb": "خووزستان",
+        "id": "MTo1NGNmNjg0Y2Y4MGQ",
+        "publicId": "MTo1NGNmNjg0Y2Y4MGQ",
+        "sourceId": "54cf684cf80d",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-26T02:09:49.620Z",
+        "updatedAt": "2026-10-26T02:09:49.620Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2357,
+    "total": 2359,
     "layerId": 1,
     "clustered": false,
     "simplified": false

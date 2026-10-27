@@ -247673,10 +247673,98 @@
         "createdAt": "2026-10-26T01:57:38.839Z",
         "updatedAt": "2026-10-26T01:57:38.839Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.69846191676305,
+          31.305751109547515
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه شهدا",
+        "description": "",
+        "date": "",
+        "city": "اهواز",
+        "province": "استان خوزستان",
+        "name:en": "Hosseiniyeh Shohada",
+        "city:en": "Ahvaz",
+        "province:en": "Khuzestan",
+        "name:ar": "حسينية الشهداء",
+        "city:ar": "الأهواز",
+        "province:ar": "خوزستان",
+        "name:he": "חוסייניית השוהדא",
+        "city:he": "אהוואז",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Şehitler Hüseyniyesi",
+        "city:tr": "Ahvaz",
+        "province:tr": "Huzistan",
+        "name:ckb": "حوسێنیەی شەهیدان",
+        "city:ckb": "ئەهواز",
+        "province:ckb": "خووزستان",
+        "id": "NDo3M2I0M2FiMDc2MWY",
+        "publicId": "NDo3M2I0M2FiMDc2MWY",
+        "sourceId": "73b43ab0761f",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-26T02:10:25.330Z",
+        "updatedAt": "2026-10-26T02:10:25.330Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8589209526603,
+          35.14243808832573
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع",
+        "description": "",
+        "date": "",
+        "city": "روعان",
+        "province": "استان همدان",
+        "name:en": "Jameh Mosque",
+        "city:en": "Rouan",
+        "province:en": "Hamadan",
+        "name:ar": "المسجد الجامع",
+        "city:ar": "روعان",
+        "province:ar": "همدان",
+        "name:he": "מסגד ג'אמע",
+        "city:he": "רועאן",
+        "province:he": "המדאן",
+        "name:tr": "Ulu Cami",
+        "city:tr": "Ruan",
+        "province:tr": "Hemedan",
+        "name:ckb": "مزگەوتی جامع",
+        "city:ckb": "ڕووعان",
+        "province:ckb": "ھەمەدان",
+        "id": "NDo4NDk4NjVmMWI4NzU",
+        "publicId": "NDo4NDk4NjVmMWI4NzU",
+        "sourceId": "849865f1b875",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-26T02:12:46.432Z",
+        "updatedAt": "2026-10-26T02:12:46.432Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5737,
+    "total": 5739,
     "layerId": 4,
     "clustered": false,
     "simplified": false

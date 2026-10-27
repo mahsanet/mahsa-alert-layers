@@ -12818,6 +12818,82 @@
     },
     {
       "type": "Feature",
+      "id": 1564,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.9902203,
+              35.4840778
+            ],
+            [
+              50.9967863,
+              35.485825
+            ],
+            [
+              50.9971404,
+              35.4880614
+            ],
+            [
+              50.9941149,
+              35.4899745
+            ],
+            [
+              50.9907246,
+              35.4912062
+            ],
+            [
+              50.985403,
+              35.4906559
+            ],
+            [
+              50.9831714,
+              35.4892931
+            ],
+            [
+              50.9871197,
+              35.485362
+            ],
+            [
+              50.9902203,
+              35.4840778
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان رباط کریم",
+        "province": "استان تهران",
+        "id": "NzoxNDkz",
+        "city:en": "Robat Karim County",
+        "province:en": "Tehran",
+        "city:ar": "مقاطعة رباط كريم",
+        "province:ar": "طهران",
+        "city:he": "נפת רובאט כרים",
+        "province:he": "טהראן",
+        "city:tr": "Ribat Kerim İlçesi",
+        "province:tr": "Tahran",
+        "city:ckb": "شارستانی ڕەبات کەریم",
+        "province:ckb": "تاران",
+        "publicId": "NzoxNDkz",
+        "sourceId": "1493",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-03-11T20:49:59.324Z",
+        "updatedAt": "2026-10-26T19:54:34.609Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 90208,
       "geometry": {
         "type": "Point",
@@ -22216,7 +22292,7 @@
     }
   ],
   "metadata": {
-    "total": 205,
+    "total": 206,
     "layerId": 7,
     "clustered": false,
     "simplified": false

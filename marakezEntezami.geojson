@@ -92553,49 +92553,6 @@
     },
     {
       "type": "Feature",
-      "id": 86280,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.2186305,
-          35.5051075
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MzM5OA",
-        "city": "اسلامشهر",
-        "osm_id": "",
-        "name:fa": "راهنمایی و رانندگی شهر واوان",
-        "province": "استان تهران",
-        "name:en": "Vawan City Traffic Police",
-        "city:en": "Islamshahr",
-        "province:en": "Tehran",
-        "name:ar": "شرطة المرور في مدينة واوان",
-        "city:ar": "إسلامشهر",
-        "province:ar": "طهران",
-        "name:he": "משטרת התנועה של העיר וואוואן",
-        "city:he": "אסלאמשהר",
-        "province:he": "טהראן",
-        "name:tr": "Vavan Şehri Trafik Polisi",
-        "city:tr": "İslamşehr",
-        "province:tr": "Tahran",
-        "name:ckb": "پۆلیسی هاتووچۆی شاری واوان",
-        "city:ckb": "ئیسلامشار",
-        "province:ckb": "تاران",
-        "publicId": "Mzo2MzM5OA",
-        "sourceId": "63398",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.645Z",
-        "updatedAt": "2026-03-13T04:41:06.645Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 86281,
       "geometry": {
         "type": "Point",
@@ -93201,30 +93158,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.2288041,
-          35.4690686
+          51.22166335799261,
+          35.501421020251044
         ]
       },
       "properties": {
-        "id": "Mzo2MzQyMw",
-        "city": "شهرستان ری",
-        "osm_id": "",
-        "name:fa": "پلیس راهور",
+        "name:fa": "پلیس راهنمایی و رانندگی",
+        "description": "",
+        "date": "",
+        "city": "اسلامشهر",
         "province": "استان تهران",
+        "id": "Mzo2MzQyMw",
+        "osm_id": "",
         "name:en": "Traffic Police",
-        "city:en": "Rey County",
+        "city:en": "Eslamshahr",
         "province:en": "Tehran",
         "name:ar": "شرطة المرور",
-        "city:ar": "مقاطعة الري",
+        "city:ar": "إسلامشهر",
         "province:ar": "طهران",
         "name:he": "משטרת התנועה",
-        "city:he": "נפת ריי",
+        "city:he": "אסלאמשהר",
         "province:he": "טהראן",
         "name:tr": "Trafik Polisi",
-        "city:tr": "Rey Şehri",
+        "city:tr": "İslamşehr",
         "province:tr": "Tahran",
-        "name:ckb": "پۆلیسی هاتوچۆ",
-        "city:ckb": "شارستانی ڕەی",
+        "name:ckb": "پۆلیسی هاتووچۆ",
+        "city:ckb": "ئیسلامشار",
         "province:ckb": "تاران",
         "publicId": "Mzo2MzQyMw",
         "sourceId": "63423",
@@ -93235,7 +93194,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:06.656Z",
-        "updatedAt": "2026-03-13T04:41:06.656Z"
+        "updatedAt": "2026-10-26T02:07:06.858Z"
       }
     },
     {
@@ -265806,10 +265765,157 @@
         "createdAt": "2026-10-26T01:59:22.439Z",
         "updatedAt": "2026-10-26T01:59:22.439Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96459,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.999242551624775,
+          35.51310754855429
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک نظامی",
+        "description": "برجک نگهبانی در دهستان زریوار مریوان",
+        "date": 1792960392,
+        "city": "پیرانشاه",
+        "province": "استان کردستان",
+        "name:en": "Military Watchtower",
+        "description:en": "Guard tower in Zarivar Rural District, Marivan",
+        "city:en": "Piranshahr",
+        "province:en": "Kurdistan",
+        "name:ar": "برج عسكري",
+        "description:ar": "برج حراسة في قسم زريوار الريفي بمدينة مريوان",
+        "city:ar": "بيرانشهر",
+        "province:ar": "كردستان",
+        "name:he": "מגדל צבאי",
+        "description:he": "מגדל שמירה באזור הכפרי זריבאר, מריוואן",
+        "city:he": "פיראנשאהר",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Askeri Kule",
+        "description:tr": "Merivan'ın Zarivar beldesindeki nöbet kulesi",
+        "city:tr": "Piranşehr",
+        "province:tr": "Kürdistan",
+        "name:ckb": "بورجکی سەربازی",
+        "description:ckb": "بورجکی پاسەوانی لە گوندەواری زڕێباری مەریوان",
+        "city:ckb": "پیرانشار",
+        "province:ckb": "کوردستان",
+        "id": "Mzo2MjIyZmUwNTFhMzc",
+        "publicId": "Mzo2MjIyZmUwNTFhMzc",
+        "sourceId": "6222fe051a37",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-26T02:02:42.219Z",
+        "updatedAt": "2026-10-26T02:02:42.219Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96460,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.00266136229038,
+          35.515947525312356
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک نگهبانی زریوار",
+        "description": "برجک نگهبانی",
+        "date": 1792960426,
+        "city": "پیرانشاه",
+        "province": "استان کردستان",
+        "name:en": "Zarivar Guard Tower",
+        "description:en": "Guard tower",
+        "city:en": "Piranshah",
+        "province:en": "Kurdistan",
+        "name:ar": "برج مراقبة زريوار",
+        "description:ar": "برج مراقبة",
+        "city:ar": "بيرانشهر",
+        "province:ar": "كردستان",
+        "name:he": "מגדל שמירה זריוואר",
+        "description:he": "מגדל שמירה",
+        "city:he": "פיראנשאהר",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Zarivar Nöbetçi Kulesi",
+        "description:tr": "Nöbetçi kulesi",
+        "city:tr": "Piranşehir",
+        "province:tr": "Kürdistan",
+        "name:ckb": "تاوێری پاسەوانیی زریوار",
+        "description:ckb": "تاوێری پاسەوانی",
+        "city:ckb": "پێرانشار",
+        "province:ckb": "کوردستان",
+        "id": "MzoxMmFjNTFlYmUxZjk",
+        "publicId": "MzoxMmFjNTFlYmUxZjk",
+        "sourceId": "12ac51ebe1f9",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-26T02:03:11.639Z",
+        "updatedAt": "2026-10-26T02:03:11.639Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.03507099673152,
+          35.46246465976593
+        ]
+      },
+      "properties": {
+        "name:fa": "برجک دیده‌بانی اسکول",
+        "description": "برجک دیده‌بانی در منطقه اسکول مریوان",
+        "date": 1792960179,
+        "city": "شهرستان مریوان",
+        "province": "استان کردستان",
+        "name:en": "Oskol Watchtower",
+        "description:en": "Observation tower in the Oskol area of Marivan",
+        "city:en": "Marivan",
+        "province:en": "Kurdistan",
+        "name:ar": "برج مراقبة أسكول",
+        "description:ar": "برج مراقبة في منطقة أسكول بمريوان",
+        "city:ar": "مقاطعة مريوان",
+        "province:ar": "كردستان",
+        "name:he": "מגדל תצפית אסכול",
+        "description:he": "מגדל תצפית באזור אסכול, מריואן",
+        "city:he": "נפת מריואן",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Eskol Gözetleme Kulesi",
+        "description:tr": "Merivan'ın Eskol bölgesindeki gözetleme kulesi",
+        "city:tr": "Merivan",
+        "province:tr": "Kürdistan",
+        "name:ckb": "بورجی چاودێریی ئەسکوڵ",
+        "description:ckb": "بورجی چاودێری لە ناوچەی ئەسکوڵی مەریوان",
+        "city:ckb": "شارستانی مەریوان",
+        "province:ckb": "کوردستان",
+        "id": "MzowODhkZjVlMWU1OTE",
+        "publicId": "MzowODhkZjVlMWU1OTE",
+        "sourceId": "088df5e1e591",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-26T02:07:59.344Z",
+        "updatedAt": "2026-10-26T02:07:59.344Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6110,
+    "total": 6112,
     "layerId": 3,
     "clustered": false,
     "simplified": false

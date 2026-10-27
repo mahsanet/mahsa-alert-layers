@@ -5729,10 +5729,50 @@
         "createdAt": "2026-10-24T14:17:04.255Z",
         "updatedAt": "2026-10-24T14:17:13.088Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 96479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.99045295687759,
+          35.485864340751405
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان رباط کریم",
+        "province": "استان تهران",
+        "city:en": "Robat Karim",
+        "province:en": "Tehran",
+        "city:ar": "مقاطعة رباط كريم",
+        "province:ar": "طهران",
+        "city:he": "נפת רובאט כרים",
+        "province:he": "טהראן",
+        "city:tr": "Robat Kerim İlçesi",
+        "province:tr": "Tahran",
+        "city:ckb": "شارستانی ڕۆبات کەریم",
+        "province:ckb": "تاران",
+        "id": "OTo1NDZiMDNmZDRjODc",
+        "publicId": "OTo1NDZiMDNmZDRjODc",
+        "sourceId": "546b03fd4c87",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-26T19:29:37.284Z",
+        "updatedAt": "2026-10-26T19:29:37.284Z"
+      }
     }
   ],
   "metadata": {
-    "total": 78,
+    "total": 79,
     "layerId": 9,
     "clustered": false,
     "simplified": false
