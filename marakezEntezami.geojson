@@ -229054,49 +229054,6 @@
     },
     {
       "type": "Feature",
-      "id": 89831,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          49.1740521,
-          35.3053212
-        ]
-      },
-      "properties": {
-        "id": "Mzo2ODQ1OA",
-        "city": "شاهنجرین",
-        "osm_id": "",
-        "name:fa": "پاسگاه شاهنجرین ( نیروی انتظامی شاهنجرین )",
-        "province": "استان همدان",
-        "name:en": "Shahanjarin Police Post (Shahanjarin Law Enforcement)",
-        "city:en": "Shahanjarin",
-        "province:en": "Hamadan",
-        "name:ar": "مركز شرطة شاهنجرين (قوى الأمن الداخلي في شاهنجرين)",
-        "city:ar": "شاهنجرين",
-        "province:ar": "همدان",
-        "name:he": "תחנת משטרה שאהנג'רין (כוחות השיטור שאהנג'רין)",
-        "city:he": "שאהנג'רין",
-        "province:he": "המדאן",
-        "name:tr": "Şahencerin Karakolu (Şahencerin Polis Karakolu)",
-        "city:tr": "Şahencerin",
-        "province:tr": "Hemedan",
-        "name:ckb": "بنکەی شاهەنجەرین ( هێزی ئینتزامیی شاهەنجەرین )",
-        "city:ckb": "شاهەنجەرین",
-        "province:ckb": "ھەمەدان",
-        "publicId": "Mzo2ODQ1OA",
-        "sourceId": "68458",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:08.220Z",
-        "updatedAt": "2026-03-13T04:41:08.220Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 89832,
       "geometry": {
         "type": "Point",
@@ -265911,6 +265868,74 @@
         "expirationDate": null,
         "createdAt": "2026-10-26T02:07:59.344Z",
         "updatedAt": "2026-10-26T02:07:59.344Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114892,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.17342543388165,
+              35.30513956628447
+            ],
+            [
+              49.17344830424432,
+              35.305188234083985
+            ],
+            [
+              49.173785642106566,
+              35.30553090789712
+            ],
+            [
+              49.17447747060311,
+              35.3055929090353
+            ],
+            [
+              49.17450524175837,
+              35.305274902695245
+            ],
+            [
+              49.17342543388165,
+              35.30513956628447
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه انتظامی شاهنجرین",
+        "description": "",
+        "date": "",
+        "city": "شاهنجرین",
+        "province": "استان همدان",
+        "name:en": "Shahanjarin Police Station",
+        "city:en": "Shahanjarin",
+        "province:en": "Hamadan",
+        "name:ar": "مركز شرطة شاهنجرين",
+        "city:ar": "شاهنجرين",
+        "province:ar": "همدان",
+        "name:he": "תחנת משטרת שאהנג'רין",
+        "city:he": "שאהנג'רין",
+        "province:he": "המדאן",
+        "name:tr": "Şahancarin Polis Karakolu",
+        "city:tr": "Şahancarin",
+        "province:tr": "Hemedan",
+        "name:ckb": "بنکەی پۆلیسی شاهەنجەرین",
+        "city:ckb": "شاهەنجەرین",
+        "province:ckb": "ھەمەدان",
+        "id": "MzoyODQ4MGY3Y2FhYzI",
+        "publicId": "MzoyODQ4MGY3Y2FhYzI",
+        "sourceId": "28480f7caac2",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-27T22:02:57.916Z",
+        "updatedAt": "2026-10-27T22:02:57.916Z"
       }
     }
   ],

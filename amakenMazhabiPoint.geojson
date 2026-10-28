@@ -245264,34 +245264,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.055224944363204,
-          35.59446424413359
+          51.05529270881013,
+          35.59453043811669
         ]
       },
       "properties": {
         "name:fa": "هئیت",
-        "description": "هیئتی است که در آن سرکوبگران حضور دارند.",
+        "description": "هیئتی است که در آن سرکوبگران حضور دارند. هیئت زوالرضا که در آن عرزشی های زیادی وجود دارند. بسیاری در ریختن خون بچه های ۱۸ و ۱۹ دی شریک هستند.",
         "date": 1791266782,
         "city": "فردوسیه",
         "province": "استان تهران",
         "name:en": "Religious Gathering",
-        "description:en": "A religious gathering where suppressors are present.",
-        "city:en": "Ferdowsiye",
+        "description:en": "It is a religious gathering where repressors are present. The Zovalreza Heyat, where many pro-regime loyalists are present. Many are complicit in shedding the blood of the kids on January 8 and 9.",
+        "city:en": "Ferdowsieh",
         "province:en": "Tehran",
-        "name:ar": "موكب حسيني",
-        "description:ar": "موكب يتواجد فيه القامعون.",
+        "name:ar": "هيئة",
+        "description:ar": "هيئة يتواجد فيها القامعون. هيئة زوار الرضا التي يوجد فيها العديد من الموالين للنظام. يشارك الكثير منهم في سفك دماء شباب يومي 18 و19 دي.",
         "city:ar": "فردوسيه",
         "province:ar": "طهران",
-        "name:he": "הייאאת",
-        "description:he": "זוהי הייאאת (התכנסות) שבה נוכחים אנשי מנגנון הדיכוי.",
-        "city:he": "פרדוסיה",
+        "name:he": "הייאת",
+        "description:he": "זוהי הייאת שבה נוכחים אנשי הדיכוי. הייאת זוואל-רזא שבה ישנם תומכי משטר רבים. רבים מהם שותפים לשפיכות דמם של הצעירים ב-18 וב-19 בדיי.",
+        "city:he": "פרדוסיא",
         "province:he": "טהראן",
-        "name:tr": "Dini Heyet",
-        "description:tr": "Baskıcı unsurların yer aldığı bir heyettir.",
-        "city:tr": "Ferdovsiye",
+        "name:tr": "Heyet",
+        "description:tr": "Baskıcıların yer aldığı bir heyettir. Pek çok rejim yanlısının bulunduğu Zülrıza Heyeti. Birçoğu 18 ve 19 Dey'deki gençlerin kanının dökülmesine ortaktır.",
+        "city:tr": "Ferdevsiye",
         "province:tr": "Tahran",
-        "name:ckb": "دەستەی مەزهەبی",
-        "description:ckb": "دەستەیەکە کە سەرکوتکارانی تێدا ئامادەن.",
+        "name:ckb": "هەیئەت",
+        "description:ckb": "هەیئەتێکە کە سەرکوتکەرانی تێدا ئامادەن. هەیئەتی زەوالڕەزا کە عەرزشییەکی زۆری تێدایە. زۆر کەس لە ڕشتنی خوێنی منداڵانی 18 و 19ی دەی دا شەریکن.",
         "city:ckb": "فەردۆسیە",
         "province:ckb": "تاران",
         "id": "NDo3MDRjMjNjNjAxODI",
@@ -245304,7 +245304,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-10-07T00:24:53.599Z",
-        "updatedAt": "2026-10-07T00:24:58.082Z"
+        "updatedAt": "2026-10-27T21:50:11.113Z"
       }
     },
     {
@@ -247761,10 +247761,404 @@
         "createdAt": "2026-10-26T02:12:46.432Z",
         "updatedAt": "2026-10-26T02:12:46.432Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.215349130648434,
+          32.875318545118546
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد النبی",
+        "description": "",
+        "date": "",
+        "city": "بيرجند",
+        "province": "استان خراسان جنوبی",
+        "name:en": "Al-Nabi Mosque",
+        "city:en": "Birjand",
+        "province:en": "South Khorasan",
+        "name:ar": "مسجد النبي",
+        "city:ar": "بيرجند",
+        "province:ar": "خراسان الجنوبية",
+        "name:he": "מסגד אל-נבי",
+        "city:he": "בירג'נד",
+        "province:he": "ח'וראסאן הדרומית",
+        "name:tr": "Mescid-i Nebi",
+        "city:tr": "Bircand",
+        "province:tr": "Güney Horasan",
+        "name:ckb": "مزگەوتی نەبی",
+        "city:ckb": "بیرجەند",
+        "province:ckb": "خوراسانی باشوور",
+        "id": "NDpkZDcyOWUwNzcwMjc",
+        "publicId": "NDpkZDcyOWUwNzcwMjc",
+        "sourceId": "dd729e077027",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-27T14:05:05.599Z",
+        "updatedAt": "2026-10-27T14:05:05.599Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114876,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.26091541694089,
+              34.72382325218025
+            ],
+            [
+              50.26113968030714,
+              34.72395383518044
+            ],
+            [
+              50.261208828179406,
+              34.72395844398834
+            ],
+            [
+              50.261287320357866,
+              34.72395383518044
+            ],
+            [
+              50.261291058079536,
+              34.72393079113657
+            ],
+            [
+              50.26143496040717,
+              34.72391389216719
+            ],
+            [
+              50.26152840347646,
+              34.7238754854053
+            ],
+            [
+              50.2615751250118,
+              34.7237771640133
+            ],
+            [
+              50.26154896095184,
+              34.723683451327545
+            ],
+            [
+              50.26148168194112,
+              34.723608173847964
+            ],
+            [
+              50.2613433861994,
+              34.72358820225966
+            ],
+            [
+              50.26124807426862,
+              34.72359434736437
+            ],
+            [
+              50.26125928743639,
+              34.72365426210915
+            ],
+            [
+              50.2611957461487,
+              34.723665016032584
+            ],
+            [
+              50.26111912283176,
+              34.723703422892825
+            ],
+            [
+              50.26104436837636,
+              34.723747974827376
+            ],
+            [
+              50.26091541694089,
+              34.72382325218025
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "قاهان",
+        "province": "استان قم",
+        "city:he": "קאהאן",
+        "province:he": "קום",
+        "city:ar": "قاهان",
+        "province:ar": "قم",
+        "city:tr": "Kahan",
+        "province:tr": "Kum",
+        "city:ckb": "قاهان",
+        "province:ckb": "قوم",
+        "city:en": "Qahan",
+        "province:en": "Qom",
+        "id": "NDo2MTg3OGEzY2RmOWY",
+        "publicId": "NDo2MTg3OGEzY2RmOWY",
+        "sourceId": "61878a3cdf9f",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-27T21:36:46.510Z",
+        "updatedAt": "2026-10-27T21:36:52.742Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114878,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.263966129092665,
+              34.72290205855289
+            ],
+            [
+              50.2640038238211,
+              34.72298154633958
+            ],
+            [
+              50.264040699100605,
+              34.72299838696246
+            ],
+            [
+              50.264166894498175,
+              34.722959990336946
+            ],
+            [
+              50.264095602293025,
+              34.72283334870997
+            ],
+            [
+              50.263966129092665,
+              34.72290205855289
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام حسن مجتبی",
+        "description": "",
+        "date": "",
+        "city": "قاهان",
+        "province": "استان قم",
+        "name:en": "Imam Hasan Mojtaba Mosque",
+        "city:en": "Qahan",
+        "province:en": "Qom",
+        "name:ar": "مسجد الإمام الحسن المجتبى",
+        "city:ar": "قاهان",
+        "province:ar": "قم",
+        "name:he": "מסגד אימאם חסן מוג'תבא",
+        "city:he": "קאהאן",
+        "province:he": "קום",
+        "name:tr": "İmam Hasan Mücteba Camii",
+        "city:tr": "Kahan",
+        "province:tr": "Kum",
+        "name:ckb": "مزگەوتی ئیمام حەسەنی موجتەبا",
+        "city:ckb": "قاهان",
+        "province:ckb": "قوم",
+        "id": "NDpiYjYzZjE4YThiZWQ",
+        "publicId": "NDpiYjYzZjE4YThiZWQ",
+        "sourceId": "bb63f18a8bed",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-27T21:38:38.838Z",
+        "updatedAt": "2026-10-27T21:38:38.838Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114879,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.26433694043146,
+              34.723211305830716
+            ],
+            [
+              50.26436904055987,
+              34.72325126428362
+            ],
+            [
+              50.26438830063748,
+              34.723293484515565
+            ],
+            [
+              50.26451761829557,
+              34.72325503394805
+            ],
+            [
+              50.26448643531441,
+              34.7231969810974
+            ],
+            [
+              50.26446442379776,
+              34.723157022617684
+            ],
+            [
+              50.26433694043146,
+              34.723211305830716
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "قاهان",
+        "province": "استان قم",
+        "city:en": "Qahan",
+        "province:en": "Qom",
+        "city:ar": "قاهان",
+        "province:ar": "قم",
+        "city:he": "קאהאן",
+        "province:he": "קום",
+        "city:tr": "Kahan",
+        "province:tr": "Kum",
+        "city:ckb": "قاهان",
+        "province:ckb": "قوم",
+        "id": "NDo3NjgyOTBlMDEyZmY",
+        "publicId": "NDo3NjgyOTBlMDEyZmY",
+        "sourceId": "768290e012ff",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-27T21:38:57.931Z",
+        "updatedAt": "2026-10-27T21:38:57.931Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114880,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.26457305899433,
+              34.72384899238604
+            ],
+            [
+              50.264586052314826,
+              34.72386841234204
+            ],
+            [
+              50.26457305899433,
+              34.723880064313164
+            ],
+            [
+              50.26459668321331,
+              34.72390045525903
+            ],
+            [
+              50.264586052314826,
+              34.72391210722637
+            ],
+            [
+              50.26460849532364,
+              34.723929585173224
+            ],
+            [
+              50.264587233526754,
+              34.723941237136415
+            ],
+            [
+              50.26466873708202,
+              34.72403542377502
+            ],
+            [
+              50.2649132477477,
+              34.72389462927512
+            ],
+            [
+              50.26488017384227,
+              34.723840253404205
+            ],
+            [
+              50.26486481809968,
+              34.72385287637776
+            ],
+            [
+              50.26477858970031,
+              34.72372955955606
+            ],
+            [
+              50.26472897884037,
+              34.723754805534284
+            ],
+            [
+              50.26468409282458,
+              34.72374800854118
+            ],
+            [
+              50.264591958369124,
+              34.72379947147702
+            ],
+            [
+              50.26457305899433,
+              34.72384899238604
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه شهدای قاهان",
+        "description": "",
+        "date": "",
+        "city": "قاهان",
+        "province": "استان قم",
+        "name:en": "Qahan Martyrs Hosseiniyeh",
+        "city:en": "Qahan",
+        "province:en": "Qom",
+        "name:ar": "حسينية شهداء قاهان",
+        "city:ar": "قاهان",
+        "province:ar": "قم",
+        "name:he": "חוסייניית קדושי קאהאן",
+        "city:he": "קאהאן",
+        "province:he": "קום",
+        "name:tr": "Qahan Şehitleri Hüseyniyesi",
+        "city:tr": "Qahan",
+        "province:tr": "Kum",
+        "name:ckb": "حوسێنیەی شەهیدانی قاهان",
+        "city:ckb": "قاهان",
+        "province:ckb": "قوم",
+        "id": "NDo2YWVhZDRhMjc4ZmE",
+        "publicId": "NDo2YWVhZDRhMjc4ZmE",
+        "sourceId": "6aead4a278fa",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-27T21:39:33.722Z",
+        "updatedAt": "2026-10-27T21:39:33.722Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5739,
+    "total": 5744,
     "layerId": 4,
     "clustered": false,
     "simplified": false

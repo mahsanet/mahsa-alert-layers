@@ -1497,399 +1497,6 @@
     },
     {
       "type": "Feature",
-      "id": 96236,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              46,
-              35.85
-            ],
-            [
-              46.1,
-              35.93333
-            ],
-            [
-              46.11667,
-              36
-            ],
-            [
-              46,
-              36
-            ],
-            [
-              46,
-              35.85
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · بانه (OID125)",
-        "description": "بر اساس کتاب اطلاعات هوانوردی، محدوده مشخص‌شده فعال است.",
-        "notamNumber": "A2333/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
-        "validFrom": "۱۴۰۵/۰۷/۲۷، ۱۳:۰۲",
-        "validTo": "۱۴۰۵/۰۸/۰۷، ۲۲:۰۰",
-        "shapeSource": "منطقه OID125 طبق AIP ایران",
-        "notamSource": "FAA NMS-API",
-        "date": 1792402320,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "replaces": "A2198/26",
-        "areaCodes": "OID125",
-        "city": "شهرستان بانه",
-        "province": "استان کردستان",
-        "name:en": "Aeronautical Notice · Airspace Restriction · Baneh (OID125)",
-        "description:en": "According to the Aeronautical Information Publication, the specified area is active.",
-        "city:en": "Baneh County",
-        "province:en": "Kurdistan",
-        "name:ar": "إشعار طيران · قيود المجال الجوي · بانه (OID125)",
-        "description:ar": "وفقاً لكتاب معلومات الطيران، فإن المنطقة المحددة نشطة.",
-        "city:ar": "مقاطعة بانه",
-        "province:ar": "كردستان",
-        "name:he": "הודעה תעופתית · הגבלת מרחב אווירי · באנה (OID125)",
-        "description:he": "על פי ספר המידע התעופתי, האזור המוגדר פעיל.",
-        "city:he": "באנה",
-        "province:he": "כורדיסטאן",
-        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Bane (OID125)",
-        "description:tr": "Havacılık Bilgi Kitabı'na göre belirlenen alan aktiftir.",
-        "city:tr": "Bane",
-        "province:tr": "Kürdistan",
-        "name:ckb": "ئاگاداریی هەواڤانی · سنووردارکردنی فەزای ئاسمانی · بانه (OID125)",
-        "description:ckb": "بەپێی پەڕتووکی زانیارییەکانی هەواڤانی، ناوچەی دیاریکراو چالاکە.",
-        "city:ckb": "شارستانی بانه",
-        "province:ckb": "کوردستان",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjMzMy0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjMzMy0yNg",
-        "sourceId": "notam-oiix-a2333-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-29T18:30:00.000Z",
-        "createdAt": "2026-10-19T09:45:27.953Z",
-        "updatedAt": "2026-10-19T09:45:27.953Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 96237,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              60.35,
-              35
-            ],
-            [
-              60.51667,
-              34.98333
-            ],
-            [
-              60.63333,
-              35.16667
-            ],
-            [
-              60.35,
-              35.18333
-            ],
-            [
-              60.35,
-              35
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · باخرز (OID121)",
-        "description": "پیرو اطلاعات هوانوردی مربوطه، محدوده مشخص‌شده فعال شده است.",
-        "notamNumber": "A2334/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
-        "validFrom": "۱۴۰۵/۰۷/۲۷، ۱۳:۰۷",
-        "validTo": "۱۴۰۵/۰۸/۱۴، ۲۳:۰۰",
-        "shapeSource": "منطقه OID121 طبق AIP ایران",
-        "notamSource": "FAA NMS-API",
-        "date": 1792402620,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "replaces": "A2248/26",
-        "areaCodes": "OID121",
-        "city": "شهرستان باخرز",
-        "province": "استان خراسان رضوی",
-        "name:en": "Aviation Notice · Airspace Restriction · Bakharz (OID121)",
-        "description:en": "Pursuant to the relevant aeronautical information, the designated area has been activated.",
-        "city:en": "Bakharz",
-        "province:en": "Razavi Khorasan",
-        "name:ar": "إشعار ملاحة جوية · قيود المجال الجوي · باخرز (OID121)",
-        "description:ar": "بناءً على معلومات الملاحة الجوية ذات الصلة، تم تفعيل المنطقة المحددة.",
-        "city:ar": "مقاطعة باخرز",
-        "province:ar": "خراسان رضوي",
-        "name:he": "הודעת תעופה · הגבלת מרחב אווירי · באחרז (OID121)",
-        "description:he": "בהמשך למידע התעופתי הרלוונטי, האזור המוגדר הופעל.",
-        "city:he": "באחרז",
-        "province:he": "ח'וראסאן רזאווי",
-        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Baharz (OID121)",
-        "description:tr": "İlgili havacılık bilgilerine istinaden, belirlenen alan aktif hale getirilmiştir.",
-        "city:tr": "Baharz İlçesi",
-        "province:tr": "Razavi Horasan",
-        "name:ckb": "ئاگاداریی فڕینوانی · سنووردارکردنی بۆشایی ئاسمانی · باخەرز (OID121)",
-        "description:ckb": "بەپێی زانیارییە پەیوەندیدارەکانی فڕینوانی، ناوچەی دیاریکراو چالاک کراوە.",
-        "city:ckb": "شارستانی باخەرز",
-        "province:ckb": "خوراسانی ڕەزەوی",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjMzNC0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjMzNC0yNg",
-        "sourceId": "notam-oiix-a2334-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-11-05T19:30:00.000Z",
-        "createdAt": "2026-10-19T09:45:35.112Z",
-        "updatedAt": "2026-10-19T09:45:35.112Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 96240,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              47.76667,
-              37.86667
-            ],
-            [
-              47.88333,
-              37.85
-            ],
-            [
-              47.86667,
-              37.95
-            ],
-            [
-              47.75,
-              37.93333
-            ],
-            [
-              47.76667,
-              37.86667
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · سراب (OID126)",
-        "description": "محدوده مشخص‌شده فعال شده است. اطلاعات تکمیلی به بخش مربوطه در کتابچه اطلاعات هوانوردی ارجاع داده شده است.",
-        "notamNumber": "A2340/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
-        "validFrom": "۱۴۰۵/۰۷/۲۷، ۱۳:۴۷",
-        "validTo": "۱۴۰۵/۰۸/۰۷، ۲۰:۰۰",
-        "shapeSource": "منطقه OID126 طبق AIP ایران",
-        "notamSource": "FAA NMS-API",
-        "date": 1792405020,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "replaces": "A2282/26",
-        "areaCodes": "OID126",
-        "city": "شهرستان سراب",
-        "province": "استان آذربایجان شرقی",
-        "name:en": "Aeronautical Notice · Airspace Restriction · Sarab (OID126)",
-        "description:en": "The designated area has been activated. Supplementary information has been referred to the relevant section in the Aeronautical Information Publication.",
-        "city:en": "Sarab County",
-        "province:en": "East Azerbaijan",
-        "name:ar": "إشعار الطيران · قيود المجال الجوي · سراب (OID126)",
-        "description:ar": "تم تفعيل المنطقة المحددة. وتمت إحالة المعلومات التكميلية إلى القسم المعني في دليل معلومات الطيران.",
-        "city:ar": "مقاطعة سراب",
-        "province:ar": "أذربيجان الشرقية",
-        "name:he": "הודעת תעופה · הגבלת מרחב אווירי · סראב (OID126)",
-        "description:he": "האזור המוגדר הופעל. מידע נוסף מופנה לסעיף הרלוונטי בפרסום המידע התעופתי.",
-        "city:he": "נפת סראב",
-        "province:he": "אזרבייג'ן המזרחית",
-        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Sarab (OID126)",
-        "description:tr": "Belirtilen alan aktifleştirilmiştir. Ek bilgiler, havacılık bilgi el kitabının ilgili bölümüne yönlendirilmiştir.",
-        "city:tr": "Sarab",
-        "province:tr": "Doğu Azerbaycan",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشاییی ئاسمانی · سەراب (OID126)",
-        "description:ckb": "ناوچەی دیاریکراو چالاک کراوە. زانیاریی تەواوکاری بۆ بەشی پەیوەندیدار لە پەڕتووکی زانیاریی فڕۆکەوانیدا ڕەوانە کراوە.",
-        "city:ckb": "شارستانی سەراب",
-        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjM0MC0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjM0MC0yNg",
-        "sourceId": "notam-oiix-a2340-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-29T16:30:00.000Z",
-        "createdAt": "2026-10-19T10:30:32.441Z",
-        "updatedAt": "2026-10-19T10:30:32.441Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 96258,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              45.75,
-              37.083333
-            ],
-            [
-              45.5,
-              37
-            ],
-            [
-              45.083333,
-              37
-            ],
-            [
-              45.5,
-              37.166667
-            ],
-            [
-              45.75,
-              37.083333
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نقده",
-        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
-        "notamNumber": "B0536/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "validFrom": "۱۴۰۵/۰۷/۲۸، ۱۱:۴۳",
-        "validTo": "۱۴۰۵/۰۸/۰۸، ۲۲:۰۰",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamSource": "FAA NMS-API",
-        "date": 1792483980,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "replaces": "B0529/26",
-        "city": "شهرستان نقده",
-        "province": "استان آذربایجان غربی",
-        "name:en": "Aviation Notice · Navigation Warning · Naghadeh",
-        "description:en": "Firing will take place within the specified area.",
-        "city:en": "Naghadeh County",
-        "province:en": "West Azerbaijan",
-        "name:ar": "إشعار طيران · تحذير ملاحي · نقده",
-        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
-        "city:ar": "مقاطعة نقده",
-        "province:ar": "أذربيجان الغربية",
-        "name:he": "הודעת תעופה · אזהרת ניווט · נקדה",
-        "description:he": "ירי יתבצע באזור המוגדר.",
-        "city:he": "נפת נקדה",
-        "province:he": "אזרבייג'ן המערבית",
-        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Nagadeh",
-        "description:tr": "Belirtilen alanda atış yapılacaktır.",
-        "city:tr": "Nagadeh İlçesi",
-        "province:tr": "Batı Azerbaycan",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · وشیارکردنەوەی ڕێنیشاندان · نەغەدە",
-        "description:ckb": "تەقەکردن لە سنووری دیاریکراودا ئەنجام دەدرێت.",
-        "city:ckb": "شارستانی نەغەدە",
-        "province:ckb": "ئازەربایجانی ڕۆژاوا",
-        "id": "Mzg6bm90YW0tb2lpeC1iMDUzNi0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1iMDUzNi0yNg",
-        "sourceId": "notam-oiix-b0536-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-10-30T18:30:00.000Z",
-        "createdAt": "2026-10-20T08:30:51.744Z",
-        "updatedAt": "2026-10-20T08:30:51.744Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 96259,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              60.775556,
-              31.758056
-            ],
-            [
-              60.775556,
-              31.615556
-            ],
-            [
-              60.676667,
-              31.615556
-            ],
-            [
-              60.676667,
-              31.758056
-            ],
-            [
-              60.775556,
-              31.758056
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نهبندان",
-        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
-        "notamNumber": "A2352/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "validFrom": "۱۴۰۵/۰۷/۲۸، ۱۲:۴۰",
-        "validTo": "۱۴۰۵/۰۸/۱۴، ۲۳:۰۰",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamSource": "FAA NMS-API",
-        "date": 1792487400,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "replaces": "A2349/26",
-        "city": "شهرستان نهبندان",
-        "province": "استان خراسان جنوبی",
-        "name:en": "Aviation Notice · Navigation Warning · Nehbandan",
-        "description:en": "Firing will take place in the designated area.",
-        "city:en": "Nehbandan County",
-        "province:en": "South Khorasan",
-        "name:ar": "إشعار طيران · تحذير ملاحي · نهبندان",
-        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
-        "city:ar": "مقاطعة نهبندان",
-        "province:ar": "خراسان الجنوبية",
-        "name:he": "הודעה לתעופה · אזהרת ניווט · נהבנדאן",
-        "description:he": "ירי יבוצע באזור המוגדר.",
-        "city:he": "נהבנדאן",
-        "province:he": "ח'וראסאן הדרומית",
-        "name:tr": "Havacılık Duyurusu · Navigasyon Uyarısı · Nehbandan",
-        "description:tr": "Belirtilen alanda atış yapılacaktır.",
-        "city:tr": "Nehbandan İlçesi",
-        "province:tr": "Güney Horasan",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · وشیارکردنەوەی ناوبەری · نەهبەندان",
-        "description:ckb": "تەقەکردن لە ناوچەی دیاریکراودا ئەنجام دەدرێت.",
-        "city:ckb": "شارستانی نەهبەندان",
-        "province:ckb": "خوراسانی باشوور",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjM1Mi0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjM1Mi0yNg",
-        "sourceId": "notam-oiix-a2352-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-11-05T19:30:00.000Z",
-        "createdAt": "2026-10-20T09:15:53.478Z",
-        "updatedAt": "2026-10-20T09:15:53.478Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 96360,
       "geometry": {
         "type": "Polygon",
@@ -2198,10 +1805,633 @@
         "createdAt": "2026-10-26T06:09:11.213Z",
         "updatedAt": "2026-10-26T06:09:11.213Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114847,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.516667,
+              31.216667
+            ],
+            [
+              59.6,
+              31.05
+            ],
+            [
+              59.4,
+              31.016667
+            ],
+            [
+              59.316667,
+              31.2
+            ],
+            [
+              59.516667,
+              31.216667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نهبندان",
+        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "A2437/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۸/۲۳، ۰۷:۰۰",
+        "validTo": "۱۴۰۵/۰۹/۰۱، ۰۰:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1794627000,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "city": "شهرستان نهبندان",
+        "province": "استان خراسان جنوبی",
+        "name:en": "Aviation Notice · Navigation Warning · Nehbandan",
+        "description:en": "Shooting will take place within the specified area.",
+        "city:en": "Nehbandan",
+        "province:en": "South Khorasan",
+        "name:ar": "إشعار طيران · تحذير ملاحي · نهبندان",
+        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
+        "city:ar": "مقاطعة نهبندان",
+        "province:ar": "خراسان الجنوبية",
+        "name:he": "הודעת תעופה · אזהרת ניווט · נהבנדאן",
+        "description:he": "ירי יתבצע באזור המוגדר.",
+        "city:he": "מחוז נהבנדאן",
+        "province:he": "ח'וראסאן הדרומית",
+        "name:tr": "Havacılık Duyurusu · Navigasyon Uyarısı · Nehbendan",
+        "description:tr": "Belirtilen alanda atış yapılacaktır.",
+        "city:tr": "Nehbendan İlçesi",
+        "province:tr": "Güney Horasan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشیارکردنەوەی ڕێنوێنی · نەهبەندان",
+        "description:ckb": "تەقەکردن لە ناوچەی دیاریکراودا ئەنجام دەدرێت.",
+        "city:ckb": "شارستانی نەهبەندان",
+        "province:ckb": "خوراسانی باشوور",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjQzNy0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQzNy0yNg",
+        "sourceId": "notam-oiix-a2437-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-21T20:30:00.000Z",
+        "createdAt": "2026-10-27T11:20:44.189Z",
+        "updatedAt": "2026-10-27T11:20:44.189Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114849,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.35,
+              35
+            ],
+            [
+              60.51667,
+              34.98333
+            ],
+            [
+              60.63333,
+              35.16667
+            ],
+            [
+              60.35,
+              35.18333
+            ],
+            [
+              60.35,
+              35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · باخرز (OID121)",
+        "description": "طبق اطلاعات هوانوردی منتشرشده، محدوده مشخص‌شده فعال شده است.",
+        "notamNumber": "A2439/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۸/۰۹، ۰۷:۰۰",
+        "validTo": "۱۴۰۵/۰۸/۳۰، ۲۳:۰۰",
+        "shapeSource": "منطقه OID121 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1793417400,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "areaCodes": "OID121",
+        "city": "شهرستان باخرز",
+        "province": "استان خراسان رضوی",
+        "name:en": "Aviation Notice · Airspace Restriction · Bakharz (OID121)",
+        "description:en": "According to published aviation information, the specified area has been activated.",
+        "city:en": "Bakharz",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "إشعار طيران · قيود المجال الجوي · باخرز (OID121)",
+        "description:ar": "وفقًا لمعلومات الطيران المنشورة، تم تفعيل المنطقة المحددة.",
+        "city:ar": "باخرز",
+        "province:ar": "خراسان رضوي",
+        "name:he": "הודעת תעופה · הגבלת מרחב אווירי · באחרז (OID121)",
+        "description:he": "על פי המידע התעופתי שפורסם, האזור המוגדר הופעל.",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Bakharz (OID121)",
+        "description:tr": "Yayımlanan havacılık bilgilerine göre belirtilen bölge aktif hale getirilmiştir.",
+        "city:tr": "Bakharz",
+        "province:tr": "Razavi Horasan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بواری ئاسمانی · باخەرز (OID121)",
+        "description:ckb": "بەپێی زانیارییە فڕۆکەوانییە بڵاوکراوەکان، ناوچەی دیاریکراو چالاک کراوە.",
+        "city:ckb": "شارستانی باخەرز",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjQzOS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQzOS0yNg",
+        "sourceId": "notam-oiix-a2439-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-21T19:30:00.000Z",
+        "createdAt": "2026-10-27T12:05:43.991Z",
+        "updatedAt": "2026-10-27T12:05:43.991Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114850,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.76667,
+              37.86667
+            ],
+            [
+              47.88333,
+              37.85
+            ],
+            [
+              47.86667,
+              37.95
+            ],
+            [
+              47.75,
+              37.93333
+            ],
+            [
+              47.76667,
+              37.86667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · سراب (OID126)",
+        "description": "محدوده مشخص‌شده فعال شده است. برای اطلاعات بیشتر به صفحه ۵.۱.۳-۱۲ نشریه اطلاعات هوانوردی (AIP) ارجاع داده شده است.",
+        "notamNumber": "A2442/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۸/۰۵، ۱۵:۲۸",
+        "validTo": "۱۴۰۵/۰۸/۲۳، ۲۰:۰۰",
+        "shapeSource": "منطقه OID126 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1793102280,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "A2340/26",
+        "areaCodes": "OID126",
+        "city": "شهرستان سراب",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Aviation Notice · Airspace Restriction · Sarab (OID126)",
+        "description:en": "The specified area has been activated. For more information, refer to page 5.1.3-12 of the Aeronautical Information Publication (AIP).",
+        "city:en": "Sarab",
+        "province:en": "East Azerbaijan",
+        "name:ar": "إشعار الطيران · قيود المجال الجوي · سراب (OID126)",
+        "description:ar": "تم تفعيل المنطقة المحددة. للحصول على مزيد من المعلومات، تمت الإحالة إلى الصفحة 5.1.3-12 من نشرة معلومات الطيران (AIP).",
+        "city:ar": "مقاطعة سراب",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "הודעה לתעופה · הגבלת המרחב האווירי · סראב (OID126)",
+        "description:he": "האזור המוגדר הופעל. למידע נוסף ניתן לעיין בעמוד 5.1.3-12 של פרסום מידע תעופתי (AIP).",
+        "city:he": "סראב",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Havacılık Bildirisi · Hava Sahası Kısıtlaması · Sarab (OID126)",
+        "description:tr": "Belirtilen alan aktif hale getirilmiştir. Daha fazla bilgi için Havacılık Bilgi Yayını'nın (AIP) 5.1.3-12 sayfasına yönlendirme yapılmıştır.",
+        "city:tr": "Sarab",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشاییی ئاسمانی · سەراب (OID126)",
+        "description:ckb": "ناوچەی دیاریکراو چالاک کراوە. بۆ زانیاریی زیاتر ڕەوانەی پەڕەی 5.1.3-12ی بڵاوکراوەی زانیاریی فڕۆکەوانی (AIP) کراوە.",
+        "city:ckb": "شارستانی سەراب",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjQ0Mi0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQ0Mi0yNg",
+        "sourceId": "notam-oiix-a2442-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-14T16:30:00.000Z",
+        "createdAt": "2026-10-27T12:05:51.692Z",
+        "updatedAt": "2026-10-27T12:05:51.692Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114851,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.05,
+              36.21667
+            ],
+            [
+              55.05,
+              36.11667
+            ],
+            [
+              55.11667,
+              35.96667
+            ],
+            [
+              55.3,
+              36
+            ],
+            [
+              55.05,
+              36.21667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · شاهرود (OID84)",
+        "description": "محدوده مشخص‌شده فعال شده است.",
+        "notamNumber": "A2443/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۸/۲۳، ۰۷:۰۰",
+        "validTo": "۱۴۰۵/۰۸/۳۰، ۲۳:۰۰",
+        "shapeSource": "منطقه OID84 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1794627000,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "areaCodes": "OID84",
+        "city": "شهرستان شاهرود",
+        "province": "استان سمنان",
+        "name:en": "Aviation Notice · Airspace Restriction · Shahroud (OID84)",
+        "description:en": "The designated area has been activated.",
+        "city:en": "Shahroud",
+        "province:en": "Semnan",
+        "name:ar": "إشعار طيران · تقييد المجال الجوي · شاهرود (OID84)",
+        "description:ar": "تم تنشيط المنطقة المحددة.",
+        "city:ar": "مقاطعة شاهرود",
+        "province:ar": "سمنان",
+        "name:he": "הודעה לתעופה · הגבלת המרחב האווירי · שאהרוד (OID84)",
+        "description:he": "האזור שצוין הופעל.",
+        "city:he": "מחוז שאהרוד",
+        "province:he": "סמנאן",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Şahrud (OID84)",
+        "description:tr": "Belirtilen alan etkinleştirildi.",
+        "city:tr": "Şahrud",
+        "province:tr": "Simnan",
+        "name:ckb": "ئاگاداریی فڕکەوانی · سنووردارکردنی بۆشایی ئاسمانی · شاهرود (OID84)",
+        "description:ckb": "ناوچەی دیاریکراو چالاک کراوە.",
+        "city:ckb": "شارستانی شاهرود",
+        "province:ckb": "سمنان",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjQ0My0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQ0My0yNg",
+        "sourceId": "notam-oiix-a2443-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-21T19:30:00.000Z",
+        "createdAt": "2026-10-27T12:05:58.222Z",
+        "updatedAt": "2026-10-27T12:05:58.222Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114852,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.41667,
+              37.25
+            ],
+            [
+              54.5,
+              37.23333
+            ],
+            [
+              54.61667,
+              37.31667
+            ],
+            [
+              54.56667,
+              37.33333
+            ],
+            [
+              54.41667,
+              37.25
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · آق قلا (OID130)",
+        "description": "پیرو بخش اطلاعات هوانوردی، محدوده مشخص‌شده فعال شده است.",
+        "notamNumber": "A2444/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۸/۲۳، ۰۹:۰۰",
+        "validTo": "۱۴۰۵/۰۸/۳۰، ۱۵:۰۰",
+        "shapeSource": "منطقه OID130 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1794634200,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "areaCodes": "OID130",
+        "city": "شهرستان آق قلا",
+        "province": "استان گلستان",
+        "name:en": "Aviation Notice · Airspace Restriction · Aq Qala (OID130)",
+        "description:en": "Pursuant to the aeronautical information section, the designated area has been activated.",
+        "city:en": "Aq Qala",
+        "province:en": "Golestan",
+        "name:ar": "إشعار الطيران · قيود المجال الجوي · آق قلا (OID130)",
+        "description:ar": "وفقًا لقسم معلومات الطيران، تم تفعيل المنطقة المحددة.",
+        "city:ar": "مقاطعة آق قلا",
+        "province:ar": "كلستان",
+        "name:he": "הודעת תעופה · הגבלת המרחב האווירי · אק קלא (OID130)",
+        "description:he": "בהמשך למידע התעופתי, האזור המוגדר הופעל.",
+        "city:he": "נפת אק קלא",
+        "province:he": "גולסתאן",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Akkale (OID130)",
+        "description:tr": "Havacılık bilgi bölümü uyarınca, belirlenen alan aktif hale getirilmiştir.",
+        "city:tr": "Akkale İlçesi",
+        "province:tr": "Gülistan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشایی ئاسمانی · ئاققەڵا (OID130)",
+        "description:ckb": "بەپێی بەشی زانیارییەکانی فڕۆکەوانی، ناوچەی دیاریکراو چالاک بووە.",
+        "city:ckb": "شارستانی ئاققەڵا",
+        "province:ckb": "گوڵستان",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjQ0NC0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQ0NC0yNg",
+        "sourceId": "notam-oiix-a2444-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-21T11:30:00.000Z",
+        "createdAt": "2026-10-27T12:20:43.217Z",
+        "updatedAt": "2026-10-27T12:20:43.217Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114853,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46,
+              35.85
+            ],
+            [
+              46.1,
+              35.93333
+            ],
+            [
+              46.11667,
+              36
+            ],
+            [
+              46,
+              36
+            ],
+            [
+              46,
+              35.85
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · بانه (OID125)",
+        "description": "محدوده مشخص‌شده فعال شده است.",
+        "notamNumber": "A2445/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۸/۰۵، ۱۵:۳۸",
+        "validTo": "۱۴۰۵/۰۸/۱۴، ۲۲:۰۰",
+        "shapeSource": "منطقه OID125 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1793102880,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "A2333/26",
+        "areaCodes": "OID125",
+        "city": "شهرستان بانه",
+        "province": "استان کردستان",
+        "name:en": "Aviation Notice · Airspace Restriction · Baneh (OID125)",
+        "description:en": "The designated area has been activated.",
+        "city:en": "Baneh",
+        "province:en": "Kurdistan",
+        "name:ar": "إشعار الطيران · تقييد المجال الجوي · بانه (OID125)",
+        "description:ar": "تم تفعيل المنطقة المحددة.",
+        "city:ar": "مقاطعة بانه",
+        "province:ar": "كردستان",
+        "name:he": "הודעת תעופה · הגבלת מרחב אווירי · באנה (OID125)",
+        "description:he": "האזור המוגדר הופעל.",
+        "city:he": "באנה",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Havacılık Bildirimi · Hava Sahası Kısıtlaması · Bane (OID125)",
+        "description:tr": "Belirtilen bölge aktif hale getirilmiştir.",
+        "city:tr": "Bane İlçesi",
+        "province:tr": "Kürdistan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشایی ئاسمانی · بانه (OID125)",
+        "description:ckb": "ناوچەی دیاریکراو چالاک کراوە.",
+        "city:ckb": "شارستانی بانه",
+        "province:ckb": "کوردستان",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjQ0NS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQ0NS0yNg",
+        "sourceId": "notam-oiix-a2445-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-05T18:30:00.000Z",
+        "createdAt": "2026-10-27T12:20:51.653Z",
+        "updatedAt": "2026-10-27T12:20:51.653Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114854,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.75,
+              37.083333
+            ],
+            [
+              45.5,
+              37
+            ],
+            [
+              45.083333,
+              37
+            ],
+            [
+              45.5,
+              37.166667
+            ],
+            [
+              45.75,
+              37.083333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نقده",
+        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "B0581/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۸/۰۵، ۱۵:۴۰",
+        "validTo": "۱۴۰۵/۰۸/۲۳، ۲۲:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1793103000,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "B0536/26",
+        "city": "شهرستان نقده",
+        "province": "استان آذربایجان غربی",
+        "name:en": "Aeronautical Notice · Navigation Warning · Naghadeh",
+        "description:en": "Shooting will take place within the specified area.",
+        "city:en": "Naghadeh County",
+        "province:en": "West Azerbaijan",
+        "name:ar": "إشعار طيران · تحذير ملاحي · نقده",
+        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
+        "city:ar": "مقاطعة نقده",
+        "province:ar": "أذربيجان الغربية",
+        "name:he": "הודעת תעופה · אזהרת ניווט · נגאדה",
+        "description:he": "ירי יתבצע באזור המוגדר.",
+        "city:he": "נגאדה",
+        "province:he": "אזרבייג'ן המערבית",
+        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Nagadeh",
+        "description:tr": "Belirtilen bölgede atış yapılacaktır.",
+        "city:tr": "Nagadeh İlçesi",
+        "province:tr": "Batı Azerbaycan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشداریی ڕێناوبەری · نەغەدە",
+        "description:ckb": "تەقەکردن لە ناوچەی دیاریکراودا ئەنجام دەدرێت.",
+        "city:ckb": "شارستانی نەغەدە",
+        "province:ckb": "ئازەربایجانی ڕۆژاوا",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDU4MS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDU4MS0yNg",
+        "sourceId": "notam-oiix-b0581-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-14T18:30:00.000Z",
+        "createdAt": "2026-10-27T12:20:58.295Z",
+        "updatedAt": "2026-10-27T12:20:58.295Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114855,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.775556,
+              31.758056
+            ],
+            [
+              60.775556,
+              31.615556
+            ],
+            [
+              60.676667,
+              31.615556
+            ],
+            [
+              60.676667,
+              31.758056
+            ],
+            [
+              60.775556,
+              31.758056
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نهبندان",
+        "description": "عملیات تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "A2447/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۸/۰۵، ۱۵:۵۴",
+        "validTo": "۱۴۰۵/۰۸/۳۰، ۲۳:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1793103840,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "A2352/26",
+        "city": "شهرستان نهبندان",
+        "province": "استان خراسان جنوبی",
+        "name:en": "Aviation Notice · Navigation Warning · Nehbandan",
+        "description:en": "Firing operations will be conducted in the specified area.",
+        "city:en": "Nehbandan County",
+        "province:en": "South Khorasan",
+        "name:ar": "إشعار طيران · تحذير ملاحي · نهبندان",
+        "description:ar": "ستُجرى عمليات إطلاق نار في المنطقة المحددة.",
+        "city:ar": "مقاطعة نهبندان",
+        "province:ar": "خراسان الجنوبية",
+        "name:he": "הודעה תעופתית · אזהרת ניווט · נהבנדאן",
+        "description:he": "פעילות ירי תתבצע באזור המוגדר.",
+        "province:he": "ח'וראסאן הדרומית",
+        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Nehbandan",
+        "description:tr": "Belirtilen alanda atış operasyonu gerçekleştirilecektir.",
+        "city:tr": "Nehbandan İlçesi",
+        "province:tr": "Güney Horasan",
+        "name:ckb": "ڕاگەیەندراوی فڕین · ئاگاداریی ڕێناو · نهبەندان",
+        "description:ckb": "کردەی تەقەکردن لە ناوچەی دیاریکراودا ئەنجام دەدرێت.",
+        "city:ckb": "شارستانی نهبەندان",
+        "province:ckb": "خوراسانی باشوور",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjQ0Ny0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQ0Ny0yNg",
+        "sourceId": "notam-oiix-a2447-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-21T19:30:00.000Z",
+        "createdAt": "2026-10-27T12:35:51.030Z",
+        "updatedAt": "2026-10-27T12:35:51.030Z"
+      }
     }
   ],
   "metadata": {
-    "total": 13,
+    "total": 16,
     "layerId": 38,
     "clustered": false,
     "simplified": false

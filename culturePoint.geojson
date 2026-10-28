@@ -123069,10 +123069,330 @@
         "createdAt": "2026-10-24T14:30:34.900Z",
         "updatedAt": "2026-10-24T14:30:34.900Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.25937065970166,
+          34.72389302338985
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری قاهان",
+        "description": "",
+        "date": "",
+        "city": "قاهان",
+        "province": "استان قم",
+        "name:en": "Qahan Municipality",
+        "city:en": "Qahan",
+        "province:en": "Qom",
+        "name:ar": "بلدية قاهان",
+        "city:ar": "قاهان",
+        "province:ar": "قم",
+        "name:he": "עיריית קאהאן",
+        "city:he": "קאהאן",
+        "province:he": "קום",
+        "name:tr": "Kahan Belediyesi",
+        "city:tr": "Kahan",
+        "province:tr": "Kum",
+        "name:ckb": "شارەوانیی قاهان",
+        "city:ckb": "قاهان",
+        "province:ckb": "قوم",
+        "id": "MTc6MjkwYjRmNDQ5ZDA4",
+        "publicId": "MTc6MjkwYjRmNDQ5ZDA4",
+        "sourceId": "290b4f449d08",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-27T21:35:15.401Z",
+        "updatedAt": "2026-10-27T21:35:15.401Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.25930092494076,
+          34.724024446825965
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر شورای اسلامی شهر قاهان",
+        "description": "",
+        "date": "",
+        "city": "قاهان",
+        "province": "استان قم",
+        "name:en": "Qahan City Islamic Council Office",
+        "city:en": "Qahan",
+        "province:en": "Qom",
+        "name:ar": "مكتب المجلس الإسلامي لمدينة قاهان",
+        "city:ar": "قاهان",
+        "province:ar": "قم",
+        "name:he": "משרד המועצה האסלאמית של העיר קאהאן",
+        "city:he": "קאהאן",
+        "province:he": "קום",
+        "name:tr": "Qahan Şehir İslam Konseyi Ofisi",
+        "city:tr": "Qahan",
+        "province:tr": "Kum",
+        "name:ckb": "نووسینگەی ئەنجومەنی ئیسلامیی شاری قاهان",
+        "city:ckb": "قاهان",
+        "province:ckb": "قوم",
+        "id": "MTc6Y2IxMjE0ZDA4NzQw",
+        "publicId": "MTc6Y2IxMjE0ZDA4NzQw",
+        "sourceId": "cb1214d08740",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-27T21:35:31.892Z",
+        "updatedAt": "2026-10-27T21:35:31.892Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114875,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.25948726614831,
+              34.72402604415126
+            ],
+            [
+              50.25955688526258,
+              34.72403712078868
+            ],
+            [
+              50.259983583060546,
+              34.72396512262128
+            ],
+            [
+              50.25999368906088,
+              34.72399004507055
+            ],
+            [
+              50.26008015150799,
+              34.723920816025455
+            ],
+            [
+              50.26001053239369,
+              34.72388758606334
+            ],
+            [
+              50.259874662833056,
+              34.72380358804385
+            ],
+            [
+              50.25980616660692,
+              34.72367897543985
+            ],
+            [
+              50.25966131393406,
+              34.72363374563328
+            ],
+            [
+              50.25957148281907,
+              34.72376574275445
+            ],
+            [
+              50.25950747814903,
+              34.72385897136307
+            ],
+            [
+              50.25948726614831,
+              34.72402604415126
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بخشداری قاهان",
+        "description": "",
+        "date": "",
+        "city": "قاهان",
+        "province": "استان قم",
+        "name:en": "Qahan District Governorate",
+        "city:en": "Qahan",
+        "province:en": "Qom",
+        "name:ar": "مديرية ناحية قاهان",
+        "city:ar": "قاهان",
+        "province:ar": "قم",
+        "name:he": "מנהלת נפת קאהאן",
+        "city:he": "קאהאן",
+        "province:he": "קום",
+        "name:tr": "Qahan Kaymakamlığı",
+        "city:tr": "Qahan",
+        "province:tr": "Kum",
+        "name:ckb": "بەخشداریی قاهان",
+        "city:ckb": "قاهان",
+        "province:ckb": "قوم",
+        "id": "MTc6YjViM2U5ZjE4MTNh",
+        "publicId": "MTc6YjViM2U5ZjE4MTNh",
+        "sourceId": "b5b3e9f1813a",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-27T21:36:05.968Z",
+        "updatedAt": "2026-10-27T21:36:05.968Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114877,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.25961008265199,
+              34.72314350393786
+            ],
+            [
+              50.25987917107159,
+              34.72329175637874
+            ],
+            [
+              50.260222688203015,
+              34.72351295793973
+            ],
+            [
+              50.26062059554653,
+              34.72345177458803
+            ],
+            [
+              50.260637771403225,
+              34.72354119639442
+            ],
+            [
+              50.261049991960476,
+              34.72345648100145
+            ],
+            [
+              50.26104413257852,
+              34.72343292949121
+            ],
+            [
+              50.261081490681306,
+              34.72342790424125
+            ],
+            [
+              50.261094396207056,
+              34.72346698951007
+            ],
+            [
+              50.2612704442453,
+              34.723427904255786
+            ],
+            [
+              50.26126501034014,
+              34.72339049405238
+            ],
+            [
+              50.26132546254232,
+              34.72337095140263
+            ],
+            [
+              50.26138659398225,
+              34.72336983467977
+            ],
+            [
+              50.2613689337891,
+              34.723267654460244
+            ],
+            [
+              50.261472177999224,
+              34.72320567623318
+            ],
+            [
+              50.26131163409431,
+              34.72279893314868
+            ],
+            [
+              50.26123502002645,
+              34.722700757884695
+            ],
+            [
+              50.261086298602635,
+              34.72261369670376
+            ],
+            [
+              50.260475639437175,
+              34.72245253831146
+            ],
+            [
+              50.26012636942434,
+              34.72242567894
+            ],
+            [
+              50.25984470005895,
+              34.72253126400476
+            ],
+            [
+              50.25970499205383,
+              34.72260535870639
+            ],
+            [
+              50.25983681331701,
+              34.72270446026644
+            ],
+            [
+              50.25961008265199,
+              34.72314350393786
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "جهاد کشاورزی قاهان",
+        "description": "",
+        "date": "",
+        "city": "قاهان",
+        "province": "استان قم",
+        "name:en": "Jahad-e Keshavarzi of Qahan",
+        "city:en": "Qahan",
+        "province:en": "Qom",
+        "name:ar": "جهاد الزراعة في قاهان",
+        "city:ar": "قاهان",
+        "province:ar": "قم",
+        "name:he": "ג'האד החקלאות קאהאן",
+        "city:he": "קאהאן",
+        "province:he": "קום",
+        "name:tr": "Kahan Tarım Cihadı",
+        "city:tr": "Kahan",
+        "province:tr": "Kum",
+        "name:ckb": "جیهادی کشتوکاڵی قاهان",
+        "city:ckb": "قاهان",
+        "province:ckb": "قوم",
+        "id": "MTc6MzIxYjA3MDdkMTVl",
+        "publicId": "MTc6MzIxYjA3MDdkMTVl",
+        "sourceId": "321b0707d15e",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-27T21:37:54.399Z",
+        "updatedAt": "2026-10-27T21:37:54.399Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2430,
+    "total": 2434,
     "layerId": 17,
     "clustered": false,
     "simplified": false

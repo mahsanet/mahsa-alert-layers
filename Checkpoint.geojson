@@ -12166,56 +12166,6 @@
     },
     {
       "type": "Feature",
-      "id": 96100,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.21756400913,
-          35.641388996585064
-        ]
-      },
-      "properties": {
-        "name:fa": "ایست بازرسی",
-        "city": "شهرستان اسلامشهر",
-        "province": "استان تهران",
-        "date": 1792043391,
-        "description": "ایست بازرسی با خودروهای سنگین",
-        "sources": "",
-        "name:en": "Checkpoint",
-        "description:en": "Checkpoint with heavy vehicles",
-        "city:en": "Islamshahr County",
-        "province:en": "Tehran",
-        "name:ar": "نقطة تفتيش",
-        "description:ar": "نقطة تفتيش باستخدام مركبات ثقيلة",
-        "city:ar": "مقاطعة إسلام شهر",
-        "province:ar": "طهران",
-        "name:he": "מחסום",
-        "description:he": "מחסום עם כלי רכב כבדים",
-        "city:he": "נפת אסלאמשאהר",
-        "province:he": "טהראן",
-        "name:tr": "Kontrol Noktası",
-        "description:tr": "Ağır araçlarla kurulan kontrol noktası",
-        "city:tr": "İslamşehr İlçesi",
-        "province:tr": "Tahran",
-        "name:ckb": "بازگەی پشکنین",
-        "description:ckb": "بازگەی پشکنین بە ئۆتۆمبێلی قورس",
-        "city:ckb": "شارستانی ئیسلامشەهر",
-        "province:ckb": "تاران",
-        "id": "Mzk6NzBjNmJjNzI5YzMx",
-        "publicId": "Mzk6NzBjNmJjNzI5YzMx",
-        "sourceId": "70c6bc729c31",
-        "layerId": 39,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-10-15T13:36:17.291Z",
-        "updatedAt": "2026-10-15T13:36:17.291Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 96103,
       "geometry": {
         "type": "Point",
@@ -13312,10 +13262,110 @@
         "createdAt": "2026-10-26T01:51:32.944Z",
         "updatedAt": "2026-10-26T01:51:32.944Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.467899940907955,
+          35.78060850558619
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1793135162,
+        "description": "معمولا از ساعت ۸ شب به بعد جدیدا در این منطقه ایست بازرسی می‌گذارند.",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Recently, they usually set up a checkpoint in this area after 8 PM.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "مؤخراً، عادةً ما يتم وضع نقطة تفتيش في هذه المنطقة بعد الساعة 8 مساءً.",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מחסום בידוק",
+        "description:he": "לאחרונה מציבים בדרך כלל מחסום בידוק באזור זה החל מהשעה 8 בערב ואילך.",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Son zamanlarda bu bölgede genellikle akşam saat 8'den sonra kontrol noktası kuruyorlar.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "بازگەی پشکنین",
+        "description:ckb": "بەزۆری بەمدوایانە لە کاتژمێر 8ی شەوەوە بەدواوە لەم ناوچەیەدا بازگەی پشکنین دادەنێن.",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzk6MTA4ZTM3YWZlMTA4",
+        "publicId": "Mzk6MTA4ZTM3YWZlMTA4",
+        "sourceId": "108e37afe108",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-27T21:31:23.274Z",
+        "updatedAt": "2026-10-27T21:31:23.274Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.53210632503033,
+          35.792022163494494
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تجریش",
+        "province": "استان تهران",
+        "date": 1793130121,
+        "description": "از اول این هفته تقریبا هر شب در این مکان ایست بازرسی هست.",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Since the beginning of this week, there has been a checkpoint at this location almost every night.",
+        "city:en": "Tajrish",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "منذ بداية هذا الأسبوع، توجد نقطة تفتيش في هذا المكان كل ليلة تقريباً.",
+        "city:ar": "تجريش",
+        "province:ar": "طهران",
+        "name:he": "מחסום בידוק",
+        "description:he": "מתחילת השבוע כמעט בכל לילה יש מחסום בידוק במיקום זה.",
+        "city:he": "תג'ריש",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Bu haftanın başından beri neredeyse her gece bu konumda bir kontrol noktası var.",
+        "city:tr": "Tecriş",
+        "province:tr": "Tahran",
+        "name:ckb": "بازگەی پشکنین",
+        "description:ckb": "لە سەرەتای ئەم هەفتەیەوە نزیکەی هەموو شەوێک لەم شوێنە بازگەی پشکنین هەیە.",
+        "city:ckb": "تەجریش",
+        "province:ckb": "تاران",
+        "id": "Mzk6MjExZGYwZTFlZTg4",
+        "publicId": "Mzk6MjExZGYwZTFlZTg4",
+        "sourceId": "211df0e1ee88",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-27T21:31:45.139Z",
+        "updatedAt": "2026-10-27T21:31:45.139Z"
+      }
     }
   ],
   "metadata": {
-    "total": 274,
+    "total": 275,
     "layerId": 39,
     "clustered": false,
     "simplified": false

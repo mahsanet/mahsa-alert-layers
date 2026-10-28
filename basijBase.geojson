@@ -104807,10 +104807,130 @@
         "createdAt": "2026-10-26T02:09:49.620Z",
         "updatedAt": "2026-10-26T02:09:49.620Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114889,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.87895217467596,
+              34.62314722076857
+            ],
+            [
+              50.87905577112116,
+              34.62315972609662
+            ],
+            [
+              50.879085468769574,
+              34.62298408290491
+            ],
+            [
+              50.87898463489543,
+              34.62297044069915
+            ],
+            [
+              50.87895217467596,
+              34.62314722076857
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "حوزه مقاومت بسیج شهید سید غلامعلی ابراهیمی که یکی از حوزه های اصلی پایگاه های بسیج میباشد و یکی مقرهای مدیریت نیروی سرکوب در اعتراضات ۱۴۰۱ بود.",
+        "date": "",
+        "city": "قم",
+        "province": "استان قم",
+        "name:en": "Basij Base",
+        "description:en": "Shahid Seyyed Gholamali Ebrahimi Basij Resistance District, which is one of the main Basij base districts and served as one of the command centers for managing repressive forces during the 2022 protests.",
+        "city:en": "Qom",
+        "province:en": "Qom",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "منطقة مقاومة البسيج للشهيد السيد غلام علي إبراهيمي، والتي تعد إحدى المناطق الرئيسية لقواعد البسيج، وكانت أحد مقرات إدارة قوات القمع في احتجاجات 1401.",
+        "city:ar": "قم",
+        "province:ar": "قم",
+        "name:he": "בסיס בסיג'",
+        "description:he": "אזור התנגדות הבסיג' על שם השהיד סייד גולאם-עלי אבראהימי, שהוא אחד האזורים הראשיים של בסיסי הבסיג' והיה אחת המפקדות לניהול כוחות הדיכוי במחאות 2022.",
+        "city:he": "קום",
+        "province:he": "קום",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Besic üslerinin ana merkezlerinden biri olan Şehit Seyyid Gulamali İbrahimi Besic Direniş Bölgesi, 1401 protestolarında baskı güçlerinin yönetim karargahlarından biriydi.",
+        "city:tr": "Kum",
+        "province:tr": "Kum",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "حەوزەی خۆڕاگریی بەسیجی شەهید سەید غوڵامعەلی ئیبراهیمی کە یەکێک لە حەوزە سەرەکییەکانی بنکەکانی بەسیجە و یەکێک لە بنکەکانی بەڕێوەبردنی هێزی سەرکوتکەر بوو لە خۆپێشاندانەکانی 1401.",
+        "city:ckb": "قوم",
+        "province:ckb": "قوم",
+        "id": "MTplZjFhNzc3MWI4ODc",
+        "publicId": "MTplZjFhNzc3MWI4ODc",
+        "sourceId": "ef1a7771b887",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-27T21:58:31.776Z",
+        "updatedAt": "2026-10-27T21:58:42.238Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.56173284351826,
+          34.84300382270679
+        ]
+      },
+      "properties": {
+        "name:fa": "حراست دانشگاه آزاد همدان",
+        "unofficial_name:fa": "",
+        "description": "فعال در سرکوب اعتراضات دانشجویی و حجاب",
+        "date": 1792931820,
+        "city": "شهرک شهید مدنی",
+        "province": "استان همدان",
+        "name:en": "Hamedan Azad University Security",
+        "description:en": "Active in suppressing student and hijab protests",
+        "city:en": "Shahrak-e Shahid Madani",
+        "province:en": "Hamadan",
+        "name:ar": "أمن جامعة أزاد في همدان",
+        "description:ar": "نشط في قمع الاحتجاجات الطلابية واحتجاجات الحجاب",
+        "city:ar": "حي الشهيد مدني",
+        "province:ar": "همدان",
+        "name:he": "אבטחת אוניברסיטת אזאד המדאן",
+        "description:he": "פעיל בדיכוי מחאות הסטודנטים והחיג'אב",
+        "city:he": "שהרכ שאהיד מדני",
+        "province:he": "המדאן",
+        "name:tr": "Hemedan Azad Üniversitesi Güvenlik Birimi",
+        "description:tr": "Öğrenci protestolarının ve başörtüsü eylemlerinin bastırılmasında aktif.",
+        "city:tr": "Şehit Medeni Mahallesi",
+        "province:tr": "Hemedan",
+        "name:ckb": "حەراسەتی زانکۆی ئازادی هەمەدان",
+        "description:ckb": "چالاک لە سەرکوتکردنی ناڕەزایەتییە خوێندکارییەکان و حیجاب",
+        "city:ckb": "شارۆچکەی شەهید مەدەنی",
+        "province:ckb": "ھەمەدان",
+        "id": "MTo3OTY3MWRlMmQ1YTQ",
+        "publicId": "MTo3OTY3MWRlMmQ1YTQ",
+        "sourceId": "79671de2d5a4",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-27T22:01:15.125Z",
+        "updatedAt": "2026-10-27T22:01:15.125Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2359,
+    "total": 2361,
     "layerId": 1,
     "clustered": false,
     "simplified": false
