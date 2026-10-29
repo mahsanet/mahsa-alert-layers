@@ -148233,10 +148233,82 @@
         "createdAt": "2026-07-29T22:57:54.286Z",
         "updatedAt": "2026-07-29T22:57:54.286Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114918,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.63150149796763,
+              38.265264471888486
+            ],
+            [
+              48.63163137378078,
+              38.26562783528448
+            ],
+            [
+              48.63209927074928,
+              38.26551909661504
+            ],
+            [
+              48.632011137771826,
+              38.26524523616823
+            ],
+            [
+              48.6319712589262,
+              38.26525654433351
+            ],
+            [
+              48.63193691880957,
+              38.2651625995189
+            ],
+            [
+              48.63150149796763,
+              38.265264471888486
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان نیارق",
+        "description": "",
+        "date": "",
+        "city": "نیارق",
+        "province": "استان اردبیل",
+        "name:en": "Niyarag Hospital",
+        "city:en": "Niyarag",
+        "province:en": "Ardabil",
+        "name:ar": "مستشفى نيارق",
+        "city:ar": "نيارق",
+        "province:ar": "أردبيل",
+        "name:he": "בית החולים ניארק",
+        "city:he": "ניארק",
+        "province:he": "ארדביל",
+        "name:tr": "Niyareq Hastanesi",
+        "city:tr": "Niyareq",
+        "province:tr": "Erdebil",
+        "name:ckb": "نەخۆشخانەی نیارق",
+        "city:ckb": "نیارق",
+        "province:ckb": "ئەردەبیل",
+        "id": "MjU6Njg5MWE4NjEzNDBk",
+        "publicId": "MjU6Njg5MWE4NjEzNDBk",
+        "sourceId": "6891a861340d",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:52:36.858Z",
+        "updatedAt": "2026-10-28T23:52:36.858Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3532,
+    "total": 3533,
     "layerId": 25,
     "clustered": false,
     "simplified": false

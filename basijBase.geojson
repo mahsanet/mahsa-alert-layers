@@ -104927,10 +104927,195 @@
         "createdAt": "2026-10-27T22:01:15.125Z",
         "updatedAt": "2026-10-27T22:01:15.125Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114911,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.87720224039424,
+              34.630865014950075
+            ],
+            [
+              50.87734215854411,
+              34.63100828993102
+            ],
+            [
+              50.87774362823279,
+              34.63082118191534
+            ],
+            [
+              50.877622789831065,
+              34.63067856083684
+            ],
+            [
+              50.87720224039424,
+              34.630865014950075
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج اباذر",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "قم",
+        "province": "استان قم",
+        "name:en": "Abazar Basij Base",
+        "city:en": "Qom",
+        "province:en": "Qom",
+        "name:ar": "قاعدة أباذر للبسيج",
+        "city:ar": "قم",
+        "province:ar": "قم",
+        "name:he": "בסיס בסיג' אבאזר",
+        "city:he": "קום",
+        "province:he": "קום",
+        "name:tr": "Ebazər Besiç Üssü",
+        "city:tr": "Kum",
+        "province:tr": "Kum",
+        "name:ckb": "بنکەی بەسیجی ئەبازەر",
+        "city:ckb": "قوم",
+        "province:ckb": "قوم",
+        "id": "MTpjZWIyMzMzZDA4OTk",
+        "publicId": "MTpjZWIyMzMzZDA4OTk",
+        "sourceId": "ceb2333d0899",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:48:22.589Z",
+        "updatedAt": "2026-10-28T23:48:22.589Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84220942854881,
+          38.325605490835585
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج قنبر محله، بخش لوندویل",
+        "date": 1793179095,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Basij Base",
+        "description:en": "Ghanbar Mahalleh Basij Base, Lavandevil District",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة البسيج في حي قنبر، ناحية لوندويل",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג' קנבר מחלה, נפת לוונדוויל",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Gamber Mahalle Besic Üssü, Lavandevil ilçesi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "پایگای بەسیج",
+        "description:ckb": "پایگای بەسیجی قەنبەر مەحەلە، بەشی لەوەندڤیل",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTo3OGQ1ZmE5NTIxMGI",
+        "publicId": "MTo3OGQ1ZmE5NTIxMGI",
+        "sourceId": "78d5fa95210b",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:57:29.522Z",
+        "updatedAt": "2026-10-28T23:57:29.522Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114926,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.809877481625335,
+              38.33524273907162
+            ],
+            [
+              48.80999883936255,
+              38.335272006862084
+            ],
+            [
+              48.81003829134727,
+              38.33516435515949
+            ],
+            [
+              48.809917791261995,
+              38.335137778620776
+            ],
+            [
+              48.809877481625335,
+              38.33524273907162
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه نیروهای سرکوب روستای کانرود",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Basij Base",
+        "description:en": "Base of the repressive forces in Kanrud village",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "قاعدة للمليشيات (البسيج)",
+        "description:ar": "قاعدة لقوات القمع في قرية كانرود",
+        "city:ar": "مقاطعة أستارا",
+        "province:ar": "جيلان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס כוחות הדיכוי בכפר כאנרוד",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Besiç Üssü",
+        "description:tr": "Kanrud köyündeki baskı güçlerinin üssü",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "بنکەی هێزەکانی سەرکوتکەری دێی کانرود",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTpjNTdhYzc3NzNmNDM",
+        "publicId": "MTpjNTdhYzc3NzNmNDM",
+        "sourceId": "c57ac7773f43",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-29T00:01:07.043Z",
+        "updatedAt": "2026-10-29T00:01:07.043Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2361,
+    "total": 2364,
     "layerId": 1,
     "clustered": false,
     "simplified": false

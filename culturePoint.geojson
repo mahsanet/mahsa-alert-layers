@@ -123389,10 +123389,139 @@
         "createdAt": "2026-10-27T21:37:54.399Z",
         "updatedAt": "2026-10-27T21:37:54.399Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114913,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.6494379954751,
+              38.25980674227958
+            ],
+            [
+              48.64962441589259,
+              38.26008349389056
+            ],
+            [
+              48.65014281787657,
+              38.25993509098424
+            ],
+            [
+              48.650384142937924,
+              38.25984685127406
+            ],
+            [
+              48.65034456052064,
+              38.25978969594982
+            ],
+            [
+              48.65037392812047,
+              38.25977966869536
+            ],
+            [
+              48.650224536415664,
+              38.259538011445244
+            ],
+            [
+              48.64993852152793,
+              38.259664355169974
+            ],
+            [
+              48.6494379954751,
+              38.25980674227958
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "دهیاری روستای سوها",
+        "description": "",
+        "date": "",
+        "city": "سوها",
+        "province": "استان اردبیل",
+        "name:en": "Soha Village Dehyari",
+        "city:en": "Soha",
+        "province:en": "Ardabil",
+        "name:ar": "رئاسة قرية سوها",
+        "city:ar": "سوها",
+        "province:ar": "أردبيل",
+        "name:he": "מועצת הכפר סוהא",
+        "city:he": "סוהא",
+        "province:he": "ארדביל",
+        "name:tr": "Soha Köyü Muhtarlığı",
+        "city:tr": "Soha",
+        "province:tr": "Erdebil",
+        "name:ckb": "دەیاریی دێی سوها",
+        "city:ckb": "سوها",
+        "province:ckb": "ئەردەبیل",
+        "id": "MTc6ODMwMDNjYTBmYjFh",
+        "publicId": "MTc6ODMwMDNjYTBmYjFh",
+        "sourceId": "83003ca0fb1a",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:49:52.073Z",
+        "updatedAt": "2026-10-28T23:49:52.073Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.838906455785036,
+          38.364474727706124
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر امام‌جمعه دربند آستارا",
+        "description": "دفتر امام‌جمعه روستای دربند شهرستان آستارا، خیابان حسینیه، بخش مرکزی، غلام محله غربی",
+        "date": 1793198137,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Office of the Friday Prayer Imam of Darband, Astara",
+        "description:en": "Office of the Friday Prayer Imam of Darband village in Astara County, Hoseyniyeh Street, Central District, West Golam Mahalleh.",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "مكتب إمام الجمعة في دربند أستارا",
+        "description:ar": "مكتب إمام الجمعة في قرية دربند التابعة لمقاطعة أستارا، شارع الحسينية، الناحية المركزية، غُلام محلة الغربية",
+        "city:ar": "مقاطعة أستارا",
+        "province:ar": "جيلان",
+        "name:he": "משרד אימאם יום שישי של דרבנד אסטארה",
+        "description:he": "משרד אימאם יום שישי של הכפר דרבנד במחוז אסטארה, רחוב חוסייניה, החלק המרכזי, ע'ולאם מחלה המערבית",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Derbend Astara Cuma İmamı Ofisi",
+        "description:tr": "Astara şehristanının Derbend köyündeki Cuma İmamı ofisi, Hüseyniye Caddesi, Merkez Bucağı, Batı Gulam Mahallesi",
+        "city:tr": "Astara Şehristanı",
+        "province:tr": "Gilan",
+        "name:ckb": "نووسینگەی ئیمامی جومعەی دەر بەندی ئاستارا",
+        "description:ckb": "نووسینگەی ئیمامی جومعەی گوندی دەر بەند لە شارستانی ئاستارا، شەقامی حسێنییە، بەشی ناوەندی، غولام مەحەلەی ڕۆژاوا",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTc6OTQ5OTc4YWY0ZTZj",
+        "publicId": "MTc6OTQ5OTc4YWY0ZTZj",
+        "sourceId": "949978af4e6c",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:50:41.301Z",
+        "updatedAt": "2026-10-28T23:50:41.301Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2434,
+    "total": 2436,
     "layerId": 17,
     "clustered": false,
     "simplified": false

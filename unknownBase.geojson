@@ -91900,10 +91900,164 @@
         "createdAt": "2026-10-27T22:06:30.879Z",
         "updatedAt": "2026-10-27T22:06:30.879Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114924,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.461929386702536,
+              36.42165607992264
+            ],
+            [
+              59.46242140563683,
+              36.42116787439777
+            ],
+            [
+              59.46332157663559,
+              36.42430631895094
+            ],
+            [
+              59.46263666391465,
+              36.424272573275815
+            ],
+            [
+              59.46201294672187,
+              36.42199545430293
+            ],
+            [
+              59.461929386702536,
+              36.42165607992264
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "کارخانه اسلحه سازی امام هادی(ع)",
+        "date": "",
+        "city": "شهرستان مشهد",
+        "province": "استان خراسان رضوی",
+        "description:en": "Imam Hadi (AS) Arms Factory",
+        "city:en": "Mashhad County",
+        "province:en": "Razavi Khorasan",
+        "description:ar": "مصنع الإمام الهادي (ع) للأسلحة",
+        "city:ar": "مقاطعة مشهد",
+        "province:ar": "خراسان رضوي",
+        "description:he": "מפעל לייצור נשק אימאם האדי (ע)",
+        "city:he": "מחוז משהד",
+        "province:he": "ח'וראסאן רזאווי",
+        "description:tr": "İmam Hadi (a.s.) Silah Fabrikası",
+        "city:tr": "Meşhed",
+        "province:tr": "Razavi Horasan",
+        "description:ckb": "کارگەی چەکسازیی ئیمام هادی (ع)",
+        "city:ckb": "شارستانی مەشھەد",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "MTI6NWExZjAyYzBkNTRi",
+        "publicId": "MTI6NWExZjAyYzBkNTRi",
+        "sourceId": "5a1f02c0d54b",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:59:38.118Z",
+        "updatedAt": "2026-10-28T23:59:38.118Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114927,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.84399526632066,
+              38.377399822355244
+            ],
+            [
+              48.84545277118394,
+              38.37891237687009
+            ],
+            [
+              48.846088773306604,
+              38.37911598756327
+            ],
+            [
+              48.84750917804567,
+              38.37883758096186
+            ],
+            [
+              48.84827238059242,
+              38.37789015942582
+            ],
+            [
+              48.84813458013298,
+              38.37737073445817
+            ],
+            [
+              48.84716467689651,
+              38.376751575025054
+            ],
+            [
+              48.8463060740267,
+              38.376153176622864
+            ],
+            [
+              48.84496516955221,
+              38.37644821542685
+            ],
+            [
+              48.84399526632066,
+              38.377399822355244
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "طبق گزارش در این مکان، احداث یک پایگاه در جریان است.",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "description:en": "According to reports, the construction of a base is underway at this location.",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "description:ar": "وفقاً للتقارير، فإن بناء قاعدة جارٍ في هذا الموقع.",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "description:he": "על פי הדיווחים, הקמת בסיס נמצאת בעיצומה במיקום זה.",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "description:tr": "Raporlara göre bu konumda bir üssün inşası devam etmektedir.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "description:ckb": "بەپێی ڕاپۆرت لەم شوێنە، دروستکردنی بنکەیەک لە ئارادایە.",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTI6Mjc5NjZhOWI1ZDYz",
+        "publicId": "MTI6Mjc5NjZhOWI1ZDYz",
+        "sourceId": "27966a9b5d63",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-29T00:01:45.035Z",
+        "updatedAt": "2026-10-29T00:02:34.564Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1114,
+    "total": 1116,
     "layerId": 12,
     "clustered": false,
     "simplified": false

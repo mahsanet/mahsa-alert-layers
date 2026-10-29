@@ -40728,8 +40728,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          48.8391745,
-          38.3643119
+          48.83944101390776,
+          38.364342260784355
         ]
       },
       "properties": {
@@ -40762,7 +40762,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:53:47.999Z",
-        "updatedAt": "2026-03-11T20:53:47.999Z"
+        "updatedAt": "2026-10-28T23:50:24.424Z"
       }
     },
     {
@@ -248155,10 +248155,493 @@
         "createdAt": "2026-10-27T21:39:33.722Z",
         "updatedAt": "2026-10-27T21:39:33.722Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.877366689082464,
+          34.63083087994208
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "قم",
+        "province": "استان قم",
+        "name:en": "Mosque",
+        "city:en": "Qom",
+        "province:en": "Qom",
+        "name:ar": "مسجد",
+        "city:ar": "قم",
+        "province:ar": "قم",
+        "name:he": "מסגד",
+        "city:he": "קום",
+        "province:he": "קום",
+        "name:tr": "Cami",
+        "city:tr": "Kum",
+        "province:tr": "Kum",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "قوم",
+        "province:ckb": "قوم",
+        "id": "NDoxNzc3NGJkMmQwYzA",
+        "publicId": "NDoxNzc3NGJkMmQwYzA",
+        "sourceId": "17774bd2d0c0",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:48:36.439Z",
+        "updatedAt": "2026-10-28T23:48:36.439Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.65018103271723,
+          38.25966187060169
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد سوها اردبیل",
+        "description": "مسجد سوها اردبیل، بخش ویلکیج، دهستان ویلکیج مرکزی",
+        "date": 1793198218,
+        "city": "سوها",
+        "province": "استان اردبیل",
+        "name:en": "Soha Mosque of Ardabil",
+        "description:en": "Soha Mosque of Ardabil, Vilkij District, Markazi-ye Vilkij Rural District",
+        "city:en": "Soha",
+        "province:en": "Ardabil",
+        "name:ar": "مسجد سوها أردبيل",
+        "description:ar": "مسجد سوها أردبيل، ناحية ويلكيج، منطقة ويلكيج المركزية الريفية",
+        "city:ar": "سوها",
+        "province:ar": "أردبيل",
+        "name:he": "מסגד סוחא ארדביל",
+        "description:he": "מסגד סוחא ארדביל, נפת וילקיג', דהסתאן וילקיג'-אי מרכזי",
+        "city:he": "סוחא",
+        "province:he": "ארדביל",
+        "name:tr": "Suha Camii Erdebil",
+        "description:tr": "Erdebil Suha Camii, Vilkic ilçesi, Merkez Vilkic beldesi",
+        "city:tr": "Suha",
+        "province:tr": "Erdebil",
+        "name:ckb": "مزگەوتی سووهای ئەردەبیل",
+        "description:ckb": "مزگەوتی سووهای ئەردەبیل، بەشی ویلکیج، دێستانی ویلکیجی ناوەندی",
+        "city:ckb": "سووها",
+        "province:ckb": "ئەردەبیل",
+        "id": "NDpmMTY3MmVjMzcwNjI",
+        "publicId": "NDpmMTY3MmVjMzcwNjI",
+        "sourceId": "f1672ec37062",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:50:03.967Z",
+        "updatedAt": "2026-10-28T23:50:03.967Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114916,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.834667580612404,
+              38.410553098127224
+            ],
+            [
+              48.83475695505501,
+              38.41055557744755
+            ],
+            [
+              48.83475458228199,
+              38.41059524656009
+            ],
+            [
+              48.83491158075009,
+              38.410606093579474
+            ],
+            [
+              48.83490248512129,
+              38.41072014213947
+            ],
+            [
+              48.83464978481584,
+              38.41070743565126
+            ],
+            [
+              48.834667580612404,
+              38.410553098127224
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد زینبیه ویرمونی",
+        "description": "",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Zeynabiyeh Mosque of Virmuni",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "مسجد زينبية فيرموني",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסג'ד זינביה וירמוני",
+        "city:he": "נפת אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Virmuni Zeynebiye Camii",
+        "city:tr": "Astara İlçesi",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی زەینەبیەی ڤێرمۆنی",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDpmYThmMWE5MGQ3ZTk",
+        "publicId": "NDpmYThmMWE5MGQ3ZTk",
+        "sourceId": "fa8f1a90d7e9",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:51:15.705Z",
+        "updatedAt": "2026-10-28T23:51:15.705Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114917,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.63221740481245,
+              38.26703749431084
+            ],
+            [
+              48.6321849088869,
+              38.2671289814777
+            ],
+            [
+              48.632380677027385,
+              38.267258432509834
+            ],
+            [
+              48.63244804663057,
+              38.26725469834878
+            ],
+            [
+              48.63261131884437,
+              38.2671053317448
+            ],
+            [
+              48.6324718241373,
+              38.267018823446364
+            ],
+            [
+              48.63243536529359,
+              38.26704745210364
+            ],
+            [
+              48.632408417452325,
+              38.2670312706899
+            ],
+            [
+              48.63232757392848,
+              38.26710221993733
+            ],
+            [
+              48.63221740481245,
+              38.26703749431084
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد نیارق",
+        "description": "",
+        "date": "",
+        "city": "نیارق",
+        "province": "استان اردبیل",
+        "name:en": "Niarag Mosque",
+        "city:en": "Niarag",
+        "province:en": "Ardabil",
+        "name:ar": "مسجد نيارق",
+        "city:ar": "نيارق",
+        "province:ar": "أردبيل",
+        "name:he": "מסגד ניארק",
+        "city:he": "ניארק",
+        "province:he": "ארדביל",
+        "name:tr": "Niyareq Camii",
+        "city:tr": "Niyareq",
+        "province:tr": "Erdebil",
+        "name:ckb": "مزگەوتی نیاڕەق",
+        "city:ckb": "نیاڕەق",
+        "province:ckb": "ئەردەبیل",
+        "id": "NDozZTU4NDEzNGM2Mzk",
+        "publicId": "NDozZTU4NDEzNGM2Mzk",
+        "sourceId": "3e584134c639",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:52:06.266Z",
+        "updatedAt": "2026-10-28T23:52:06.266Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114920,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.832639809697866,
+          38.42849645933947
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد بیجارابین",
+        "description": "مسجد بیجارابین واقع در بخش مرکزی، دهستان ویرمونی",
+        "date": 1793179240,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Bijarabin Mosque",
+        "description:en": "Bijarabin Mosque located in the Central District, Virmoni Rural District",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "مسجد بيجارابين",
+        "description:ar": "مسجد بيجارابين الواقع في الناحية المركزية، منطقة ويرموني الريفية",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסגד ביג'אראבין",
+        "description:he": "מסגד ביג'אראבין השוכן במחוז המשנה המרכזי, במועצה האזורית וירמוני",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Bicarabin Camii",
+        "description:tr": "Bicarabin Camii, Merkez ilçesi, Virmuni beldesinde yer almaktadır.",
+        "city:tr": "Astara İlçesi",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی بیجارابین",
+        "description:ckb": "مزگەوتی بیجارابین کەوتووەتە بەشی ناوەندی، دێستانى وێرموونی",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDplZWYwZDQxNTdhOTM",
+        "publicId": "NDplZWYwZDQxNTdhOTM",
+        "sourceId": "eef0d4157a93",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:56:16.408Z",
+        "updatedAt": "2026-10-28T23:56:16.408Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.846345227211714,
+          38.31436784469224
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام حسین",
+        "description": "مسجد امام حسین خسرو محله",
+        "date": 1793179153,
+        "city": "ديله",
+        "province": "استان گیلان",
+        "name:en": "Imam Hossein Mosque",
+        "description:en": "Imam Hossein Mosque of Khosrow Mahalleh",
+        "city:en": "Dileh",
+        "province:en": "Gilan",
+        "name:ar": "مسجد الإمام الحسين",
+        "description:ar": "مسجد الإمام الحسين في خسرومحله",
+        "city:ar": "ديله",
+        "province:ar": "جيلان",
+        "name:he": "מסגד אימאם חוסיין",
+        "description:he": "מסגד אימאם חוסיין ח'סרו מחאלה",
+        "city:he": "דילה",
+        "province:he": "גילאן",
+        "name:tr": "İmam Hüseyin Camii",
+        "description:tr": "Hüsrev Mahalle İmam Hüseyin Camii",
+        "city:tr": "Dile",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی ئیمام حوسێن",
+        "description:ckb": "مزگەوتی ئیمام حوسێنی خەسرەو مەحەلە",
+        "city:ckb": "دیلە",
+        "province:ckb": "گیلان",
+        "id": "NDpiZDBkMWIwMjU2YzY",
+        "publicId": "NDpiZDBkMWIwMjU2YzY",
+        "sourceId": "bd0d1b0256c6",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:56:39.041Z",
+        "updatedAt": "2026-10-28T23:56:44.301Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114922,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.84206419769282,
+              38.32590587715484
+            ],
+            [
+              48.84201963766478,
+              38.32575471954243
+            ],
+            [
+              48.84232107314787,
+              38.32569302246634
+            ],
+            [
+              48.842359080231006,
+              38.325843151925426
+            ],
+            [
+              48.84206419769282,
+              38.32590587715484
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد فاطمه زهرا روستای قنبر محله",
+        "description": "",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Fatemeh Zahra Mosque of Ghanbar Mahalleh Village",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "مسجد فاطمة الزهراء في قرية قنبر محلة",
+        "city:ar": "مقاطعة أستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסגד פאטמה זהרא בכפר קנבר מחלה",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Kanbar Mahalle Köyü Fatıma Zehra Camii",
+        "city:tr": "Astara İlçesi",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی فاتی مەتو زەهرای ئاوایی قەنبەر مەحەلە",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDo1NTg1NGVkNDQ0ZWE",
+        "publicId": "NDo1NTg1NGVkNDQ0ZWE",
+        "sourceId": "55854ed444ea",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-28T23:57:10.500Z",
+        "updatedAt": "2026-10-28T23:57:10.500Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114925,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.80970702875857,
+              38.33528210731788
+            ],
+            [
+              48.80969095514922,
+              38.33552899052302
+            ],
+            [
+              48.809846615375335,
+              38.335534963493444
+            ],
+            [
+              48.810008197459865,
+              38.335534963493444
+            ],
+            [
+              48.810020041172635,
+              38.33529405329895
+            ],
+            [
+              48.8098559211507,
+              38.33527746165828
+            ],
+            [
+              48.80970702875857,
+              38.33528210731788
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امام حسین آستارا",
+        "description": "",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Imam Hossein Mosque of Astara",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "مسجد الإمام الحسين آستارا",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסגד אמאם חוסיין אסטארה",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara İmam Hüseyin Camii",
+        "city:tr": "Astara İlçesi",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی ئیمام حوسێنی ئاستارا",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDoxNThhMDNiOTAzN2Q",
+        "publicId": "NDoxNThhMDNiOTAzN2Q",
+        "sourceId": "158a03b9037d",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-29T00:00:33.182Z",
+        "updatedAt": "2026-10-29T00:00:33.182Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5744,
+    "total": 5752,
     "layerId": 4,
     "clustered": false,
     "simplified": false
