@@ -19464,10 +19464,105 @@
         "createdAt": "2026-10-28T23:44:33.468Z",
         "updatedAt": "2026-10-28T23:44:37.493Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.86741000413895,
+          35.86794144617997
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای حکومتی",
+        "city": "کمال شهر",
+        "province": "استان البرز",
+        "date": 1793299319,
+        "description": "حدود ۱۰ الی ۱۵ نفر از افراد حکومتی و وابستگان نیروی انتظامی در این محل تجمع می‌کنند.",
+        "sources": "",
+        "name:en": "Government forces gathering",
+        "description:en": "Around 10 to 15 government individuals and law enforcement affiliates gather at this location.",
+        "city:en": "Kamal Shahr",
+        "province:en": "Alborz",
+        "name:ar": "تجمع للقوات الحكومية",
+        "description:ar": "يتجمع نحو 10 إلى 15 شخصاً من القوات الحكومية والمنتسبين لقوى الأمن الداخلي في هذا الموقع.",
+        "city:ar": "كمال شهر",
+        "province:ar": "ألبرز",
+        "name:he": "התקהלות כוחות משטר",
+        "description:he": "כ-10 עד 15 אנשי משטר ומזורה של המשטרה מתקהלים במקום זה.",
+        "city:he": "כמאל שהר",
+        "province:he": "אלבורז",
+        "name:tr": "Hükümet Güçlerinin Toplanması",
+        "description:tr": "Bu noktada yaklaşık 10 ila 15 hükümet yanlısı ve kolluk kuvvetleri mensubu toplanmaktadır.",
+        "city:tr": "Kemalşeh",
+        "province:tr": "Elburz",
+        "name:ckb": "کۆبوونەوەی هێزە حکومییەکان",
+        "description:ckb": "دەورووبەری ١٠ بۆ ١٥ کەس لە کەسانی حکومی و وابەستەکانی هێزی ئانتزامی لەم شوێنەدا کۆ دەبنەوە.",
+        "city:ckb": "کەمالشار",
+        "province:ckb": "ئەلبورز",
+        "id": "NDA6YjJmMzBmMGVhZGRi",
+        "publicId": "NDA6YjJmMzBmMGVhZGRi",
+        "sourceId": "b2f30f0eaddb",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T00:01:33.835Z",
+        "updatedAt": "2026-10-30T00:01:33.835Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7038219236606,
+          32.64615713657969
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای حکومتی",
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "date": 1793133000,
+        "description": "",
+        "sources": "",
+        "name:en": "Gathering of government forces",
+        "city:en": "Isfahan",
+        "province:en": "Isfahan",
+        "name:ar": "تجمع القوات الحكومية",
+        "city:ar": "أصفهان",
+        "province:ar": "أصفهان",
+        "name:he": "התקהלות כוחות שלטון",
+        "city:he": "אספהאן",
+        "province:he": "אספהאן",
+        "name:tr": "Hükümet güçlerinin toplanması",
+        "city:tr": "İsfahan",
+        "province:tr": "İsfahan",
+        "name:ckb": "کۆبوونەوەی هێزە حکومییەکان",
+        "city:ckb": "<bos>5ەسفەهان",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDA6MTc1ZmIxMzFkMGQy",
+        "publicId": "NDA6MTc1ZmIxMzFkMGQy",
+        "sourceId": "175fb131d0d2",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T00:02:46.279Z",
+        "updatedAt": "2026-10-30T00:02:46.279Z"
+      }
     }
   ],
   "metadata": {
-    "total": 396,
+    "total": 398,
     "layerId": 40,
     "clustered": false,
     "simplified": false

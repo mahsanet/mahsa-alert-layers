@@ -13362,10 +13362,110 @@
         "createdAt": "2026-10-27T21:31:45.139Z",
         "updatedAt": "2026-10-27T21:31:45.139Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44738456234336,
+          35.691284457864825
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1793311389,
+        "description": "گزارش ایست بازرسی در تاریخ جمعه ۸ آبان ۱۴۰۶ ساعت ۱:۳۲ بامداد",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint report on Friday, November 8, 2027 at 1:32 AM",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "تقرير عن نقطة تفتيش بتاريخ الجمعة 8 أبان 1406 في الساعة 1:32 صباحا",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מחסום בדיקה",
+        "description:he": "דיווח על מחסום בדיקה בתאריך יום שישי 8 בעקרב 1406 בשעה 1:32 לפנות בוקר",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "8 Kasım 2006 Cuma günü saat 01:32'de kontrol noktası raporu",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "ڕاپۆرتی خاڵی پشکنین لە ڕێکەوتی هەینی ٨ی آبان ١٤٠٦ کاتژمێر ١:٣۲ی شەو",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzk6NmM3OWZiYTA5Nzli",
+        "publicId": "Mzk6NmM3OWZiYTA5Nzli",
+        "sourceId": "6c79fba0979b",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T00:00:44.812Z",
+        "updatedAt": "2026-10-30T00:00:44.812Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43706761300564,
+          35.7067201714401
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1793308214,
+        "description": "ایست بازرسی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Kontrol noktası",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنین",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzk6ZGRmZGI5NWQyMjQ5",
+        "publicId": "Mzk6ZGRmZGI5NWQyMjQ5",
+        "sourceId": "ddfdb95d2249",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T00:01:07.252Z",
+        "updatedAt": "2026-10-30T00:01:07.252Z"
+      }
     }
   ],
   "metadata": {
-    "total": 275,
+    "total": 277,
     "layerId": 39,
     "clustered": false,
     "simplified": false

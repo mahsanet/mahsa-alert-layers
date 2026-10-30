@@ -2428,10 +2428,87 @@
         "createdAt": "2026-10-27T12:35:51.030Z",
         "updatedAt": "2026-10-27T12:35:51.030Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114932,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.775556,
+              31.758056
+            ],
+            [
+              60.775556,
+              31.615556
+            ],
+            [
+              60.676667,
+              31.615556
+            ],
+            [
+              60.676667,
+              31.758056
+            ],
+            [
+              60.775556,
+              31.758056
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نهبندان",
+        "description": "تیراندازی نظامی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "A2468/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۸/۰۹، ۰۷:۰۰",
+        "validTo": "۱۴۰۵/۰۸/۳۰، ۲۳:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1793417400,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "city": "شهرستان نهبندان",
+        "province": "استان خراسان جنوبی",
+        "name:en": "Aviation Notice · Navigation Warning · Nehbandan",
+        "description:en": "Military shooting will take place within the designated area.",
+        "city:en": "Nehbandan County",
+        "province:en": "South Khorasan",
+        "name:ar": "إشعار طيران · تحذير ملاحي · نهبندان",
+        "description:ar": "سيتم إجراء إطلاق نار عسكري في المنطقة المحمدة.",
+        "city:ar": "مقاطعة نهبندان",
+        "province:ar": "خراسان الجنوبية",
+        "name:he": "הודעת תעופה · אזהרת ניווט · נהבנדאן",
+        "description:he": "ירי צבאי יבוצע באזור המוגדר.",
+        "city:he": "מחוז נהבנדאן",
+        "province:he": "ח'וראסאן הדרומית",
+        "name:tr": "Havacılık Bildirisi · Seyrüsefer Uyarısı · Nehbendan",
+        "description:tr": "Belirtilen alanda askeri atış tatbikatı gerçekleştirilecektir.",
+        "city:tr": "Nehbendan",
+        "province:tr": "Güney Horasan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشداریی ناوبەری · نەهبەندان",
+        "description:ckb": "تیربارانی سەربازی لە سنووری دیاریکراودا ئەنجام دەدرێت.",
+        "city:ckb": "نەهبەندان",
+        "province:ckb": "خوراسانی باشوور",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjQ2OC0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQ2OC0yNg",
+        "sourceId": "notam-oiix-a2468-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-21T19:30:00.000Z",
+        "createdAt": "2026-10-29T10:21:06.720Z",
+        "updatedAt": "2026-10-29T10:21:06.720Z"
+      }
     }
   ],
   "metadata": {
-    "total": 16,
+    "total": 17,
     "layerId": 38,
     "clustered": false,
     "simplified": false
