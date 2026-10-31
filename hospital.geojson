@@ -94903,8 +94903,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6077588,
-          37.2669877
+          49.607633642223504,
+          37.26843156234143
         ]
       },
       "properties": {
@@ -94936,7 +94936,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:57:47.407Z",
-        "updatedAt": "2026-03-11T20:57:47.407Z"
+        "updatedAt": "2026-10-31T00:12:55.393Z"
       }
     },
     {
@@ -148305,10 +148305,74 @@
         "createdAt": "2026-10-28T23:52:36.858Z",
         "updatedAt": "2026-10-28T23:52:36.858Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115022,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.876191986357895,
+              38.434979012204934
+            ],
+            [
+              48.8763329531418,
+              38.43576211801212
+            ],
+            [
+              48.87745641568671,
+              38.43566674019493
+            ],
+            [
+              48.87721079174605,
+              38.4347865810586
+            ],
+            [
+              48.876191986357895,
+              38.434979012204934
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان شهید بهشتی آستارا",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Shahid Beheshti Hospital of Astara",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مستشفى الشهيد بهشتي آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "בית החולים שהיד בהשתי אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Şehit Beheşti Hastanesi, Astara",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "نەخۆشخانەی شەهید بەهەشتی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MjU6YWVlNjNjMDc2MDA5",
+        "publicId": "MjU6YWVlNjNjMDc2MDA5",
+        "sourceId": "aee63c076009",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-30T23:31:37.844Z",
+        "updatedAt": "2026-10-30T23:31:37.844Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3533,
+    "total": 3534,
     "layerId": 25,
     "clustered": false,
     "simplified": false

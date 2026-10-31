@@ -44544,10 +44544,56 @@
         "createdAt": "2026-10-25T14:49:25.174Z",
         "updatedAt": "2026-10-25T14:50:49.046Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.11212191730738,
+          34.30487493342943
+        ]
+      },
+      "properties": {
+        "city": "کرمانشاه",
+        "count": "",
+        "people": "جاویدنام اشکان بستار",
+        "description": "",
+        "date": 1793293860,
+        "name:fa": "اشکان بستار",
+        "province": "استان کرمانشاه",
+        "name:en": "Ashkan Bastar",
+        "city:en": "Kermanshah",
+        "province:en": "Kermanshah",
+        "name:ar": "أشكان بستار",
+        "city:ar": "كرمانشاه",
+        "province:ar": "كرمانشاه",
+        "name:he": "אשכאן בסטאר",
+        "city:he": "כרמאנשאה",
+        "province:he": "כרמאנשאה",
+        "name:tr": "Eşkan Bestar",
+        "city:tr": "Kermanşah",
+        "province:tr": "Kirmanşah",
+        "name:ckb": "ئشکان بستار",
+        "city:ckb": "کرماشان",
+        "province:ckb": "کرماشان",
+        "id": "MTY6NDRlN2RiOGZjYTBj",
+        "publicId": "MTY6NDRlN2RiOGZjYTBj",
+        "sourceId": "44e7db8fca0c",
+        "layerId": 16,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T19:44:02.398Z",
+        "updatedAt": "2026-10-30T19:53:13.927Z"
+      }
     }
   ],
   "metadata": {
-    "total": 175,
+    "total": 176,
     "layerId": 16,
     "clustered": false,
     "simplified": false

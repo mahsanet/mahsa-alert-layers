@@ -5769,10 +5769,110 @@
         "createdAt": "2026-10-26T19:29:37.284Z",
         "updatedAt": "2026-10-26T19:29:37.284Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.88685870170593,
+          35.58118676509213
+        ]
+      },
+      "properties": {
+        "name:fa": "رادار",
+        "unofficial_name:fa": "",
+        "description": "رادار",
+        "date": 1793300946,
+        "city": "شهرستان شهریار",
+        "province": "استان تهران",
+        "name:en": "Radar",
+        "description:en": "Radar",
+        "city:en": "Shahriar County",
+        "province:en": "Tehran",
+        "name:ckb": "ڕادار",
+        "description:ckb": "ڕادار",
+        "city:ckb": "شارستانی شەهریار",
+        "province:ckb": "تاران",
+        "name:he": "מכ\"ם",
+        "description:he": "מכ\"ם",
+        "city:he": "מחוז שהריאר",
+        "province:he": "טהראן",
+        "name:tr": "Radar",
+        "description:tr": "Radar",
+        "city:tr": "Şehriyar",
+        "province:tr": "Tahran",
+        "name:ar": "رادار",
+        "description:ar": "رادار",
+        "city:ar": "شهريار",
+        "province:ar": "طهران",
+        "id": "OTo5YzEyYjgwYjU5ZWY",
+        "publicId": "OTo5YzEyYjgwYjU5ZWY",
+        "sourceId": "9c12b80b59ef",
+        "layerId": 9,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T19:33:41.342Z",
+        "updatedAt": "2026-10-30T19:33:46.209Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.78905878961086,
+          36.197385312670534
+        ]
+      },
+      "properties": {
+        "name:fa": "رادار",
+        "unofficial_name:fa": "",
+        "description": "رادار نظامی مشهد که در جنگ ۴۰ روزه مورد هدف قرار گرفت.",
+        "date": 1793274406,
+        "city": "شهرستان مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Radar",
+        "description:en": "Mashhad military radar that was targeted during the 40-day war.",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "رادار",
+        "description:ar": "رادار مشهد العسكري الذي تم استهدافه خلال حرب الأربعين يوماً.",
+        "city:ar": "مقاطعة مشهد",
+        "province:ar": "خراسان رضوي",
+        "name:he": "ראדאר",
+        "description:he": "הראדאר הצבאי של משהד שהותקף במהלך מלחמת 40 הימים.",
+        "city:he": "מחוז משהד",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:tr": "Radar",
+        "description:tr": "Meşhed'in 40 günlük savaş sırasında hedef alınan askerî radarı.",
+        "city:tr": "Meşhed",
+        "province:tr": "Razavi Horasan",
+        "name:ckb": "ڕادار",
+        "description:ckb": "ڕاداری سەربازیی مەشهەد کە لە جەنگی ٤٠ ڕۆژەدا کەوتە بەر هێرش.",
+        "city:ckb": "مەشهەد",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "OTpjNGRmNThkNGM0M2U",
+        "publicId": "OTpjNGRmNThkNGM0M2U",
+        "sourceId": "c4df58d4c43e",
+        "layerId": 9,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T23:32:58.211Z",
+        "updatedAt": "2026-10-30T23:32:58.211Z"
+      }
     }
   ],
   "metadata": {
-    "total": 79,
+    "total": 81,
     "layerId": 9,
     "clustered": false,
     "simplified": false

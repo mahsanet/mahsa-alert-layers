@@ -818232,10 +818232,112 @@
         "createdAt": "2026-10-28T23:43:01.951Z",
         "updatedAt": "2026-10-28T23:43:06.672Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.221926329299095,
+          29.253009650697095
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1793343232,
+        "addressDescription": "",
+        "description": "دوربین نظارتی در میدان شهید سلیمانی، برازجان",
+        "city": "برازجان",
+        "province": "استان بوشهر",
+        "name:en": "Surveillance Camera",
+        "description:en": "Surveillance camera at Shahid Soleimani Square, Borazjan",
+        "city:en": "Borazjan",
+        "province:en": "Bushehr",
+        "name:ar": "كاميرا مراقبة",
+        "description:ar": "كاميرا مراقبة في ميدان الشهيد سليماني، برازجان",
+        "city:ar": "برازجان",
+        "province:ar": "بوشهر",
+        "name:he": "מצלמת מעקב",
+        "description:he": "מצלמת מעקב בכיכר שהיד סלימאני, בראזג'אן",
+        "city:he": "בראזג'אן",
+        "province:he": "בושהר",
+        "name:tr": "Gözetleme Kamerası",
+        "description:tr": "Şehit Süleymani Meydanı'nda gözetleme kamerası, Borazcan",
+        "city:tr": "Borazcan",
+        "province:tr": "Buşehr",
+        "name:ckb": "کامێرای چاودێری",
+        "description:ckb": "کامێرای چاودێری لە گۆڕەپانی شەهید سولەیمانی، برازجان",
+        "city:ckb": "برازجان",
+        "province:ckb": "بووشەھر",
+        "id": "MjA6ZjFiYjRkZjc2Njky",
+        "publicId": "MjA6ZjFiYjRkZjc2Njky",
+        "sourceId": "f1bb4df76692",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T19:32:55.203Z",
+        "updatedAt": "2026-10-30T19:33:00.587Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.21630135923624,
+          29.256689082025687
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1793343336,
+        "addressDescription": "",
+        "description": "دوربین در بلوار شهید مطهری، بخش مرکزی، برازجان",
+        "city": "برازجان",
+        "province": "استان بوشهر",
+        "name:en": "Surveillance Camera",
+        "description:en": "Camera on Shahid Motahari Boulevard, Central District, Borazjan",
+        "city:en": "Borazjan",
+        "province:en": "Bushehr",
+        "name:ar": "كاميرا مراقبة",
+        "description:ar": "كاميرا في شارع الشهيد مطهري، الجزء المركزي، برازجان",
+        "city:ar": "برازجان",
+        "province:ar": "بوشهر",
+        "name:he": "מצלמת אבטחה",
+        "description:he": "מצלמה בשדרות שהיד מוטהרי, המגזר המרכזי, בראזג'אן",
+        "city:he": "בראזג'אן",
+        "province:he": "בושהר",
+        "name:tr": "Gözetleme Kamerası",
+        "description:tr": "Şehit Mutahhari Bulvarı'nda, merkezi bölgede, Borazcan'da kamera",
+        "city:tr": "Borazcan",
+        "province:tr": "Buşehr",
+        "name:ckb": "کامێرای چاودێری",
+        "description:ckb": "کامێرا لە شەقامی شەهید موتەهەری، بەشی ناوەندی، بۆرازجان",
+        "city:ckb": "بۆرازجان",
+        "province:ckb": "بووشەھر",
+        "id": "MjA6OTEzNzMyMDliMjQ4",
+        "publicId": "MjA6OTEzNzMyMDliMjQ4",
+        "sourceId": "91373209b248",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T19:33:17.294Z",
+        "updatedAt": "2026-10-30T19:33:17.294Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18672,
+    "total": 18674,
     "layerId": 20,
     "clustered": false,
     "simplified": false

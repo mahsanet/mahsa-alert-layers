@@ -185465,47 +185465,6 @@
     },
     {
       "type": "Feature",
-      "id": 64862,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.7832623,
-          35.7475136
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NDQ2Mg",
-        "city": "پردیس",
-        "name:fa": "داروخانه دکتر زهرا بژند",
-        "province": "استان تهران",
-        "name:en": "Dr. Zahra Bejand Pharmacy",
-        "city:en": "Pardis",
-        "province:en": "Tehran",
-        "name:ar": "صيدلية الدكتورة زهرا بجند",
-        "city:ar": "برديس",
-        "province:ar": "طهران",
-        "name:he": "בית מרקחת ד\"ר זהרה בז'נד",
-        "province:he": "טהראן",
-        "name:tr": "Dr. Zehra Bejand Eczanesi",
-        "city:tr": "Pardis",
-        "province:tr": "Tahran",
-        "name:ckb": "دەرمانخانەی دکتۆر زەهرا بژەند",
-        "city:ckb": "پەردیس",
-        "province:ckb": "تاران",
-        "publicId": "Mjc6NDQ2Mg",
-        "sourceId": "4462",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:47.533Z",
-        "updatedAt": "2026-03-11T20:58:47.533Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 64863,
       "geometry": {
         "type": "Point",
@@ -591737,43 +591696,6 @@
     },
     {
       "type": "Feature",
-      "id": 74607,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.783143,
-          35.7499927
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MTQyMDc",
-        "city": "پردیس",
-        "name:fa": "",
-        "province": "استان تهران",
-        "city:en": "Pardis",
-        "province:en": "Tehran",
-        "city:ar": "برديس",
-        "province:ar": "طهران",
-        "city:he": "פרדיס",
-        "province:he": "טהראן",
-        "city:tr": "Pardis",
-        "province:tr": "Tahran",
-        "city:ckb": "پەردیس",
-        "province:ckb": "تاران",
-        "publicId": "Mjc6MTQyMDc",
-        "sourceId": "14207",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:51.602Z",
-        "updatedAt": "2026-03-11T20:58:51.602Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 74608,
       "geometry": {
         "type": "Point",
@@ -651481,10 +651403,59 @@
         "createdAt": "2026-10-18T15:51:43.748Z",
         "updatedAt": "2026-10-18T15:51:43.748Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114986,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.783156763757574,
+          35.749946327461004
+        ]
+      },
+      "properties": {
+        "name:fa": "داروخانه دکتر زهرا بژند",
+        "description": "داروخانه واقع در فاز ۹ جنوبی پردیس",
+        "date": 1793378731,
+        "city": "پردیس",
+        "province": "استان تهران",
+        "name:en": "Dr. Zahra Bejand Pharmacy",
+        "description:en": "Pharmacy located in South Phase 9 of Pardis",
+        "city:en": "Pardis",
+        "province:en": "Tehran",
+        "name:ar": "صيدلية الدكتورة زهراء بجند",
+        "description:ar": "صيدلية تقع في المرحلة 9 الجنوبية في برديس",
+        "city:ar": "برديس",
+        "province:ar": "طهران",
+        "name:he": "בית מרקחת ד\"ר זהרה בז'נד",
+        "description:he": "בית מרקחת הממוקם בשלב 9 הדרומי של פרדיס",
+        "city:he": "פרדיס",
+        "province:he": "טהראן",
+        "name:tr": "Dr. Zehra Bejend Eczanesi",
+        "description:tr": "Eczane, Pardis'in güney 9. etabında yer almaktadır.",
+        "city:tr": "Pardis",
+        "province:tr": "Tahran",
+        "name:ckb": "دەرمانخانەی دکتۆر زەهرا بژەند",
+        "description:ckb": "دەرمانخانەکە لە فازی ٩ی باشووری پردیس هەڵکەوتووە",
+        "city:ckb": "پردیس",
+        "province:ckb": "تاران",
+        "id": "Mjc6NDc4ZDBjYWY0MTcz",
+        "publicId": "Mjc6NDc4ZDBjYWY0MTcz",
+        "sourceId": "478d0caf4173",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T19:28:47.189Z",
+        "updatedAt": "2026-10-30T19:28:50.945Z"
+      }
     }
   ],
   "metadata": {
-    "total": 15602,
+    "total": 15601,
     "layerId": 27,
     "clustered": false,
     "simplified": false

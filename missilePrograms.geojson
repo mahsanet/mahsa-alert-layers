@@ -22535,10 +22535,110 @@
         "createdAt": "2026-10-27T21:54:57.627Z",
         "updatedAt": "2026-10-27T21:54:57.627Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.29008188843727,
+          35.675685884171585
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز تولید قطعات بالستیک و پهپاد",
+        "description": "تولید قطعات بالستیک و پهپاد",
+        "date": 1793401052,
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "name:en": "Ballistic and Drone Parts Manufacturing Center",
+        "description:en": "Production of ballistic and drone parts",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مركز إنتاج قطع الصوارخ الباليستية والطائرات المسيرة",
+        "description:ar": "إنتاج قطع الصواريخ الباليستية والطائرات المسيرة",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מרכז ייצור רכיבי טילים בליסטיים וכטב\"מים",
+        "description:he": "ייצור רכיבי טילים בליסטיים וכטב\"מים",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Balistik ve İHA Parçaları Üretim Merkezi",
+        "description:tr": "Balistik ve İHA parçaları üretimi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "ناوەندی بەرهەمهێنانی پارچەی مووشەکی بالستیک و فڕۆکەی بێفڕۆکەوان",
+        "description:ckb": "بەرهەمهێنانی پارچەی مووشەکی بالستیک و فڕۆکەی بێفڕۆکەوان",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NzowYTQ3ODNlNDkyODc",
+        "publicId": "NzowYTQ3ODNlNDkyODc",
+        "sourceId": "0a4783e49287",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T22:58:58.081Z",
+        "updatedAt": "2026-10-30T22:58:58.081Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.29337798804045,
+          35.678979952575105
+        ]
+      },
+      "properties": {
+        "name:fa": "محل مونتاژ بردهای پهپاد و موشک",
+        "description": "محل مونتاژ بردهای پهپاد و موشک‌های بالستیک. تولید قطعات الکترونیکی و حساس پهپاد و بالستیک حدودا ۷۴ پرسنل ساعت حدودا ۷ صبح تا ۶ عصر.",
+        "date": 1793401809,
+        "city": "تهران",
+        "province": "استان تهران",
+        "sources": "",
+        "name:en": "Drone and Missile Circuit Board Assembly Location",
+        "description:en": "Assembly location for drone and ballistic missile circuit boards. Production of sensitive electronic components for drones and ballistic missiles, with approximately 74 personnel. Operating hours are approximately 7 AM to 6 PM.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "موقع تجميع لوحات الطائرات المسيرة والصوارخ",
+        "description:ar": "موقع تجميع لوحات الطائرات المسيرة والصوارخ الباليستية. إنتاج القطعات الإلكترونية والحساسة للمسيرات والباليستي. يضم حوالي 74 موظفا، وساعات العمل من حوالي الساعة 7 صباحا حتى 6 مساء.",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "אתר הרכבת לוחות עבור כלי טיס בלתי מאוישים וטילים",
+        "description:he": "אתר הרכבת לוחות אלקטרוניים עבור כלי טיס בלתי מאוישים (כטב\"מים) וטילים בליסטיים. ייצור רכיבים אלקטרוניים ורגישים לכטב\"מים וטילים בליסטיים. כ-74 אנשי צוות, שעות פעילות בערך מ-7 בבוקר עד 6 בערב.",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "İHA ve Füze Kartları Montaj Yeri",
+        "description:tr": "İHA ve balistik füze kartlarının montaj yeri. Hassas elektronik ve İHA/balistik parça üretimi, yaklaşık 74 personel, çalışma saatleri yaklaşık 07:00 ile 18:00 arası.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "شوێنی کۆکردنەوەی تەختەکی فڕۆکەی بێفروکەوان و مووشەک",
+        "description:ckb": "شوێنی کۆکردنەوەی تەختەکی فڕۆکەی بێفروکەوان و مووشەکی بالیستیک. بەرهەمهێنانی پارچە ئەلیکترۆنییە هەستیارەکانی فڕۆکەی بێفروکەوان و بالیستیک نزیکەی ٧٤ کارمەند کاتژمێرەکانی کارکردن نزیکەی ٧ی بەیانی تا ٦ی ئێوارە.",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Nzo5NzA1ODU0NmYyMTY",
+        "publicId": "Nzo5NzA1ODU0NmYyMTY",
+        "sourceId": "97058546f216",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T23:15:59.565Z",
+        "updatedAt": "2026-10-30T23:17:19.197Z"
+      }
     }
   ],
   "metadata": {
-    "total": 208,
+    "total": 210,
     "layerId": 7,
     "clustered": false,
     "simplified": false

@@ -10717,10 +10717,55 @@
         "createdAt": "2026-10-28T23:53:57.461Z",
         "updatedAt": "2026-10-28T23:53:57.461Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115031,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.573982180460376,
+          35.80506087017632
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": 1793298244,
+        "city": "شهرستان شمیرانات",
+        "province": "استان تهران",
+        "name:en": "Air Defense",
+        "city:en": "Shemiranat County",
+        "province:en": "Tehran",
+        "name:ar": "الدفاع الجوي",
+        "city:ar": "مقاطعة شميرانات",
+        "province:ar": "طهران",
+        "name:he": "הגנה אווירית",
+        "city:he": "מחוז שמידאנאט",
+        "province:he": "טהראן",
+        "name:tr": "Hava Savunması",
+        "city:tr": "Şimiranat",
+        "province:tr": "Tahran",
+        "name:ckb": "بەرگریی ئاسمانی",
+        "city:ckb": "شارستانی شمیرانات",
+        "province:ckb": "تاران",
+        "id": "ODpjZTU3Y2Q1MDNiMTQ",
+        "publicId": "ODpjZTU3Y2Q1MDNiMTQ",
+        "sourceId": "ce57cd503b14",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T01:58:05.481Z",
+        "updatedAt": "2026-10-31T01:58:09.523Z"
+      }
     }
   ],
   "metadata": {
-    "total": 137,
+    "total": 138,
     "layerId": 8,
     "clustered": false,
     "simplified": false

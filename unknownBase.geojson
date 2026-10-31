@@ -92054,10 +92054,137 @@
         "createdAt": "2026-10-29T00:01:45.035Z",
         "updatedAt": "2026-10-29T00:02:34.564Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.29376808181405,
+          35.67706793876977
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر سپاه",
+        "unofficial_name:fa": "",
+        "description": "مقر اصلی سپاه همراه با پست برق اختصاصی",
+        "date": 1793401120,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "IRGC Headquarters",
+        "description:en": "Main IRGC headquarters along with a dedicated electrical substation",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مقر الحرس الثوري",
+        "description:ar": "المقر الرئيسي للحرس الثوري مع محطة كهرباء فرعية مخصصة",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מפקדת משמרות המהפכה",
+        "description:he": "מפקדת משמרות המהפכה הראשית לצד תחנת כוח חשמלית ייעודית",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Devrim Muhafızları Karargahı",
+        "description:tr": "Özel trafo merkeziyle birlikte ana Devrim Muhafızları karargahı",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "بارەگای سوپا",
+        "description:ckb": "بارەگای سەرەکیی سوپا لەگەڵ وێستگەی کارەبای تایبەت",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MTI6MDRmYmZjNGQ2ZjYy",
+        "publicId": "MTI6MDRmYmZjNGQ2ZjYy",
+        "sourceId": "04fbfc4d6f62",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T23:17:46.747Z",
+        "updatedAt": "2026-10-30T23:17:46.747Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115021,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.83281169380342,
+              38.40542704119562
+            ],
+            [
+              48.83126072357078,
+              38.40492054579684
+            ],
+            [
+              48.83122841169012,
+              38.40340103830411
+            ],
+            [
+              48.83274303105833,
+              38.402821717661794
+            ],
+            [
+              48.834394975915245,
+              38.4034073696518
+            ],
+            [
+              48.834411131856285,
+              38.40492371140422
+            ],
+            [
+              48.83355486703908,
+              38.40517695953591
+            ],
+            [
+              48.83281169380342,
+              38.40542704119562
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "بر اساس گزارش‌های محلی، بخشی از جنگل تخریب شده و ساختمانی در قسمت بالادست آن احداث شده است. همچنین در محدوده جاده پایین‌دست، چندین لایه حصارکشی انجام شده است. به گفته شاهدان، خودروهای نظامی نیز چندین بار در حال تردد به این محل و خروج از آن مشاهده شده‌اند.",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "description:en": "According to local reports, part of the forest has been destroyed and a building has been constructed in its upper section. Additionally, multiple layers of fencing have been installed in the lower road area. According to witnesses, military vehicles have also been seen commuting to and leaving this location several times.",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "description:ar": "وفقًا للتقارير المحلية، تم تدمير جزء من الغابة وبناء مبنى في الجزء العلوي منها. كما تم إنشاء عدة طبقات من السياج في منطقة الطريق السفلي. ووفقًا لشهود عيان، شوهدت سيارات عسكرية عدة مرات وهي تدخل إلى هذا الموقع وتخرج منه.",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "description:he": "על פי דיווחים מקומיים, חלק מהיער נהרס ובחלקו העליון הוקם מבנה. כמו כן, באזור הכביש התחתון הוקמו כמה שכולות של גדרות. לפי דברי עדי ראייה, כלי רכב צבאיים נראו מספר פעמים נכנסים למקום ויוצאים ממנו.",
+        "city:he": "נפת אסטארה",
+        "province:he": "גילאן",
+        "description:tr": "Yerel raporlara göre ormanın bir kısmı tahrip edilmiş ve yukarısındaki kesimde bir bina inşa edilmiştir. Ayrıca alt yoldaki bölgede birkaç kat çit çekilmiştir. Görgü tanıklarına göre, askeri araçların da defalarca bu mahalleye gidip gelirken ve buradan çıkarken görüldüğü belirtilmiştir.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "description:ckb": "بەپێی ڕاپۆرتە خۆجێییەکان، بەشێک لە دارستانەکە تێکشکاوە و باڵەخانەیەک لە بەشی سەرەوەی دروست کراوە. هەروەها لە سنووری ڕێگاوبانی خوارەوەشدا، چەندین چین حصارکێشی کراوە. بە وتەی شایەتحاڵەکان، ئۆتۆمبێلە سەربازییەکانیش چەندین جار بینراون کە دەچنە ناو ئەم شوێنە و لێی دەرچوون.",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTI6MDZiNWQxM2ExZjli",
+        "publicId": "MTI6MDZiNWQxM2ExZjli",
+        "sourceId": "06b5d13a1f9b",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-30T23:29:42.003Z",
+        "updatedAt": "2026-10-30T23:30:27.942Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1116,
+    "total": 1118,
     "layerId": 12,
     "clustered": false,
     "simplified": false

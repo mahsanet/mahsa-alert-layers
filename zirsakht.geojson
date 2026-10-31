@@ -93746,10 +93746,54 @@
         "createdAt": "2026-10-20T16:33:28.623Z",
         "updatedAt": "2026-10-20T16:33:28.623Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.869946990162134,
+          38.41713975825681
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره مخابرات",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Telecommunications Office",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "إدارة الاتصالات",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "משרד התקשורת",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Telekomünikasyon İdaresi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بەڕێوەبەرایەتیی پەیوەندییەکان (مۆخابرات)",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzU6YTkyMmY0MDQzYTcz",
+        "publicId": "MzU6YTkyMmY0MDQzYTcz",
+        "sourceId": "a922f4043a73",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T23:24:44.566Z",
+        "updatedAt": "2026-10-30T23:25:28.832Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2026,
+    "total": 2027,
     "layerId": 35,
     "clustered": false,
     "simplified": false

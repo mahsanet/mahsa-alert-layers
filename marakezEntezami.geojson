@@ -2957,49 +2957,6 @@
     },
     {
       "type": "Feature",
-      "id": 84135,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3063171,
-          35.604052
-        ]
-      },
-      "properties": {
-        "id": "MzoyMzU0",
-        "city": "چهاردانگه",
-        "osm_id": "n8259450551",
-        "name:fa": "کلانتری چهاردانگه",
-        "province": "استان تهران",
-        "name:en": "Chahardangeh Police Station",
-        "city:en": "Chahardangeh",
-        "province:en": "Tehran",
-        "name:ar": "مركز شرطة تشهاردانكه",
-        "city:ar": "تشهاردانكه",
-        "province:ar": "طهران",
-        "name:he": "תחנת משטרת צ'הארדאנגה",
-        "city:he": "צ'הארדאנגה",
-        "province:he": "טהראן",
-        "name:tr": "Çehardange Polis Karakolu",
-        "city:tr": "Çehardange",
-        "province:tr": "Tahran",
-        "name:ckb": "بنکەی پۆلیسی چوارئەنگە",
-        "city:ckb": "چوارئەنگە",
-        "province:ckb": "تاران",
-        "publicId": "MzoyMzU0",
-        "sourceId": "2354",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:05.603Z",
-        "updatedAt": "2026-03-13T04:41:05.603Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 84136,
       "geometry": {
         "type": "Point",
@@ -91810,49 +91767,6 @@
         "province:ckb": "تاران",
         "publicId": "Mzo2MzM2Mw",
         "sourceId": "63363",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.639Z",
-        "updatedAt": "2026-03-13T04:41:06.639Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 86263,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.2203793,
-          35.5421528
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MzM2NA",
-        "city": "اسلامشهر",
-        "osm_id": "",
-        "name:fa": "فرماندهی نیروی انتظامی اسلامشهر",
-        "province": "استان تهران",
-        "name:en": "Islamshahr Law Enforcement Command",
-        "city:en": "Islamshahr",
-        "province:en": "Tehran",
-        "name:ar": "قيادة قوى الأمن الداخلي في إسلامشهر",
-        "city:ar": "إسلامشهر",
-        "province:ar": "طهران",
-        "name:he": "מפקדת כוחות המשטרה אסלאמשהר",
-        "city:he": "אסלאמשהר",
-        "province:he": "טהראן",
-        "name:tr": "İslamşehr Emniyet Komutanlığı",
-        "city:tr": "İslamşehr",
-        "province:tr": "Tahran",
-        "name:ckb": "فەرماندەیی هێزی ئینتیزامیی ئیسلامشار",
-        "city:ckb": "ئیسلامشار",
-        "province:ckb": "تاران",
-        "publicId": "Mzo2MzM2NA",
-        "sourceId": "63364",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -265937,10 +265851,210 @@
         "createdAt": "2026-10-27T22:02:57.916Z",
         "updatedAt": "2026-10-27T22:02:57.916Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114987,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.78158245293713,
+              35.746352693131655
+            ],
+            [
+              51.780956373398254,
+              35.74641921109128
+            ],
+            [
+              51.780880981620555,
+              35.74605070089524
+            ],
+            [
+              51.78152181172584,
+              35.74596954860152
+            ],
+            [
+              51.78158245293713,
+              35.746352693131655
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد فرماندهی پلیس راهور شرق استان تهران",
+        "description": "",
+        "date": "",
+        "city": "پردیس",
+        "province": "استان تهران",
+        "name:en": "East Tehran Province Traffic Police Headquarters",
+        "city:en": "Pardis",
+        "province:en": "Tehran",
+        "name:ar": "مقر قيادة شرطة المرور في شرق محافظة طهران",
+        "city:ar": "برديس",
+        "province:ar": "طهران",
+        "name:he": "מפקדת משטרת תנועה מזרח מחוז טהראן",
+        "city:he": "פרדיס",
+        "province:he": "טהראן",
+        "name:tr": "Doğu Tahran Eyaleti Trafik Polisi Komutanlığı Karargahı",
+        "city:tr": "Pardis",
+        "province:tr": "Tahran",
+        "name:ckb": "بنکەی فەرماندەیی پۆلیسی ڕێنمایی و هاتووچۆی ڕۆژھەڵاتی پارێزگای تاران",
+        "city:ckb": "پەردیس",
+        "province:ckb": "تاران",
+        "id": "MzpkMGZmYzZiM2JhNmY",
+        "publicId": "MzpkMGZmYzZiM2JhNmY",
+        "sourceId": "d0ffc6b3ba6f",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-30T19:30:30.853Z",
+        "updatedAt": "2026-10-30T19:30:30.853Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115012,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.87509808294976,
+              38.415306244335056
+            ],
+            [
+              48.8757241638547,
+              38.41536719816574
+            ],
+            [
+              48.87579046977535,
+              38.41496150448788
+            ],
+            [
+              48.87507895624148,
+              38.41495151200402
+            ],
+            [
+              48.87509808294976,
+              38.415306244335056
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Police Station",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مركز شرطة",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "תחנת משטרה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Karakol",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بنکەی پۆلیس",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "Mzo0MjA2ZWI2MTI4Yzk",
+        "publicId": "Mzo0MjA2ZWI2MTI4Yzk",
+        "sourceId": "4206eb6128c9",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-30T23:23:54.055Z",
+        "updatedAt": "2026-10-30T23:23:54.055Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115028,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.30637806308167,
+              35.60418823290641
+            ],
+            [
+              51.306103016616476,
+              35.6040781392103
+            ],
+            [
+              51.30611441750602,
+              35.60406075598141
+            ],
+            [
+              51.30601608483104,
+              35.60397615754745
+            ],
+            [
+              51.30608306505903,
+              35.6038034837527
+            ],
+            [
+              51.30655477687296,
+              35.60391937224655
+            ],
+            [
+              51.30637806308167,
+              35.60418823290641
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری چهاردانگه",
+        "description": "",
+        "date": "",
+        "city": "چهاردانگه",
+        "province": "استان تهران",
+        "name:en": "Chahardangeh Police Station",
+        "city:en": "Chahardangeh",
+        "province:en": "Tehran",
+        "name:ar": "مركز شرطة أربعة دانكه",
+        "city:ar": "أربعة دانكه",
+        "province:ar": "طهران",
+        "name:he": "תחנת משטרת ג'הארדאנגה",
+        "city:he": "ג'הארדאנגה",
+        "province:he": "טהראן",
+        "name:tr": "Çahardange Karakolu",
+        "city:tr": "Çahardange",
+        "province:tr": "Tahran",
+        "name:ckb": "بنکەی پۆلیسی چەاردانگە",
+        "city:ckb": "چەاردانگە",
+        "province:ckb": "تاران",
+        "id": "MzowOWVjOGU2OTc4YmU",
+        "publicId": "MzowOWVjOGU2OTc4YmU",
+        "sourceId": "09ec8e6978be",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-31T01:01:49.019Z",
+        "updatedAt": "2026-10-31T01:01:49.019Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6112,
+    "total": 6113,
     "layerId": 3,
     "clustered": false,
     "simplified": false

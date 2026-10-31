@@ -226311,10 +226311,58 @@
         "createdAt": "2026-10-18T15:50:21.590Z",
         "updatedAt": "2026-10-18T15:50:21.590Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.783224574231355,
+          35.74993783131585
+        ]
+      },
+      "properties": {
+        "name:fa": "درمانگاه پارسه",
+        "description": "درمانگاه پارسه در پردیس",
+        "date": 1793378706,
+        "city": "پردیس",
+        "province": "استان تهران",
+        "name:en": "Parseh Clinic",
+        "description:en": "Parseh Clinic in Pardis",
+        "city:en": "Pardis",
+        "province:en": "Tehran",
+        "name:ar": "عيادة بارسه",
+        "description:ar": "عيادة بارسه في برديس",
+        "city:ar": "برديس",
+        "province:ar": "طهران",
+        "name:he": "מרפאת פארסה",
+        "description:he": "מרפאת פארסה בפרדיס",
+        "province:he": "טהראן",
+        "name:tr": "Parse Polikliniği",
+        "description:tr": "Pardis'teki Parse Polikliniği",
+        "city:tr": "Pardis",
+        "province:tr": "Tahran",
+        "name:ckb": "دەرمانگەی پارسە",
+        "description:ckb": "دەرمانگەی پارسە لە پردیس",
+        "city:ckb": "پردیس",
+        "province:ckb": "تاران",
+        "id": "MjM6YWI0YWRiNGUzNWIw",
+        "publicId": "MjM6YWI0YWRiNGUzNWIw",
+        "sourceId": "ab4adb4e35b0",
+        "layerId": 23,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-30T19:28:20.470Z",
+        "updatedAt": "2026-10-30T19:28:26.039Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5393,
+    "total": 5394,
     "layerId": 23,
     "clustered": false,
     "simplified": false

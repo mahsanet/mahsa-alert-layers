@@ -27263,54 +27263,6 @@
     },
     {
       "type": "Feature",
-      "id": 7630,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3241708,
-          35.6097576
-        ]
-      },
-      "properties": {
-        "id": "MzQ6MTUxODkw",
-        "city": "شهرستان اسلامشهر",
-        "name:fa": "شورا حل اختلاف چهاردانگه",
-        "sources": [
-          "https://maps.google.com/?cid=2148898041151639822",
-          "https://www.openstreetmap.org/way/888380853",
-          "https://www.openstreetmap.org/way/888380854"
-        ],
-        "category": "دادگاه",
-        "province": "استان تهران",
-        "name:en": "Chahardangeh Dispute Resolution Council",
-        "city:en": "Islamshahr",
-        "province:en": "Tehran",
-        "name:ar": "مجلس تسوية النزاعات في جهاردانجه",
-        "city:ar": "مقاطعة إسلام شهر",
-        "province:ar": "طهران",
-        "name:he": "מועצת יישוב הסכסוכים צ'הארדאנגה",
-        "city:he": "אסלאמשהר",
-        "province:he": "טהראן",
-        "name:tr": "Çehardange Uzlaşma Konseyi",
-        "city:tr": "İslamşehr",
-        "province:tr": "Tahran",
-        "name:ckb": "شوورای چارەسەری کێشەکانی چواروانگە",
-        "city:ckb": "شارستانی ئیسلامشەهر",
-        "province:ckb": "تاران",
-        "publicId": "MzQ6MTUxODkw",
-        "sourceId": "151890",
-        "layerId": 34,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:53:15.440Z",
-        "updatedAt": "2026-03-11T20:53:15.440Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 7631,
       "geometry": {
         "type": "Point",
@@ -65756,10 +65708,140 @@
         "createdAt": "2026-10-24T14:31:04.707Z",
         "updatedAt": "2026-10-24T14:31:04.707Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115009,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.85602865964009,
+              35.74257842015565
+            ],
+            [
+              51.856604971254455,
+              35.742921575794256
+            ],
+            [
+              51.856690924820356,
+              35.74283121161959
+            ],
+            [
+              51.85664301627614,
+              35.74279689608345
+            ],
+            [
+              51.85701923926166,
+              35.742403410210514
+            ],
+            [
+              51.85649083619157,
+              35.742069403234524
+            ],
+            [
+              51.85602865964009,
+              35.74257842015565
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "شورای حل اختلاف شهرستان پردیس",
+        "description": "",
+        "date": "",
+        "city": "پردیس",
+        "province": "استان تهران",
+        "city:en": "Pardis",
+        "province:en": "Tehran",
+        "city:ar": "برديس",
+        "province:ar": "طهران",
+        "city:he": "פרדיס",
+        "province:he": "טהראן",
+        "city:tr": "Pardis",
+        "province:tr": "Tahran",
+        "city:ckb": "پردیس",
+        "province:ckb": "تاران",
+        "id": "MzQ6ZjY3OWI1MTIyYzVl",
+        "publicId": "MzQ6ZjY3OWI1MTIyYzVl",
+        "sourceId": "f679b5122c5e",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-30T23:20:42.329Z",
+        "updatedAt": "2026-10-30T23:20:42.329Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115032,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.32403653307708,
+              35.609458706808965
+            ],
+            [
+              51.324026628142605,
+              35.60986543390692
+            ],
+            [
+              51.32486607143488,
+              35.609873487888265
+            ],
+            [
+              51.3251954105435,
+              35.60966005711582
+            ],
+            [
+              51.3252003630117,
+              35.609460720314246
+            ],
+            [
+              51.32403653307708,
+              35.609458706808965
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "شورای حل اختلاف چهاردانگه",
+        "description": "",
+        "date": "",
+        "city": "شهرستان اسلامشهر",
+        "province": "استان تهران",
+        "city:en": "Eslamshahr",
+        "province:en": "Tehran",
+        "city:ar": "مقاطعة إسلامشهر",
+        "province:ar": "طهران",
+        "city:he": "מחוז אסלאמשהר",
+        "province:he": "טהראן",
+        "city:tr": "İslamşehr",
+        "province:tr": "Tahran",
+        "city:ckb": "شارستانی ئیسلامشار",
+        "province:ckb": "تاران",
+        "id": "MzQ6NjM4NDRmZmMwYThk",
+        "publicId": "MzQ6NjM4NDRmZmMwYThk",
+        "sourceId": "63844ffc0a8d",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-31T01:59:24.805Z",
+        "updatedAt": "2026-10-31T01:59:24.805Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1415,
+    "total": 1416,
     "layerId": 34,
     "clustered": false,
     "simplified": false

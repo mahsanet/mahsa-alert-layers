@@ -123518,10 +123518,553 @@
         "createdAt": "2026-10-28T23:50:41.301Z",
         "updatedAt": "2026-10-28T23:50:41.301Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 114981,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.802915179677,
+              35.746251789996734
+            ],
+            [
+              51.80294198367062,
+              35.746447604562746
+            ],
+            [
+              51.803105041303894,
+              35.74665792337548
+            ],
+            [
+              51.80336973075069,
+              35.746759456396745
+            ],
+            [
+              51.80345014273493,
+              35.74677214801471
+            ],
+            [
+              51.80358081220686,
+              35.746754923675354
+            ],
+            [
+              51.80413923610007,
+              35.74659083897795
+            ],
+            [
+              51.80398287946437,
+              35.746296210927056
+            ],
+            [
+              51.80401973495688,
+              35.74618379870624
+            ],
+            [
+              51.80365006319863,
+              35.746066853566106
+            ],
+            [
+              51.803675750360725,
+              35.746025152156946
+            ],
+            [
+              51.80340994408073,
+              35.745906393675426
+            ],
+            [
+              51.803146371468785,
+              35.74623456553512
+            ],
+            [
+              51.80299894949877,
+              35.746246350687485
+            ],
+            [
+              51.802915179677,
+              35.746251789996734
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری پردیس",
+        "description": "",
+        "date": "",
+        "city": "پردیس",
+        "province": "استان تهران",
+        "name:en": "Pardis Municipality",
+        "city:en": "Pardis",
+        "province:en": "Tehran",
+        "name:ar": "بلدية برديس",
+        "city:ar": "برديس",
+        "province:ar": "طهران",
+        "name:he": "עיריית פרדיס",
+        "city:he": "פרדיס",
+        "province:he": "טהראן",
+        "name:tr": "Pardis Belediyesi",
+        "city:tr": "Pardis",
+        "province:tr": "Tahran",
+        "name:ckb": "شارەوانیی پردیس",
+        "city:ckb": "پردیس",
+        "province:ckb": "تاران",
+        "id": "MTc6YmU1MDdjOGUxZmM0",
+        "publicId": "MTc6YmU1MDdjOGUxZmM0",
+        "sourceId": "be507c8e1fc4",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-30T19:23:59.888Z",
+        "updatedAt": "2026-10-30T19:23:59.888Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115014,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.86908014330669,
+              38.41678579067309
+            ],
+            [
+              48.86908291175288,
+              38.416991164988076
+            ],
+            [
+              48.8690690695191,
+              38.417014305719135
+            ],
+            [
+              48.86904784476164,
+              38.41702009090105
+            ],
+            [
+              48.869053381654055,
+              38.417153149951474
+            ],
+            [
+              48.86908106612162,
+              38.41721895623894
+            ],
+            [
+              48.86914104913285,
+              38.417265960693356
+            ],
+            [
+              48.8692314850592,
+              38.4172811467418
+            ],
+            [
+              48.86934591418921,
+              38.41727174585509
+            ],
+            [
+              48.86966594568821,
+              38.41723103257692
+            ],
+            [
+              48.8696207277257,
+              38.41678123463299
+            ],
+            [
+              48.86908014330669,
+              38.41678579067309
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره کمیته امداد خمینی",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Imam Khomeini Relief Foundation Office",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مكتب لجنة الخميني للإغاثة",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "משרד וועדת הסיוע על שם ח'ומייני",
+        "city:he": "אסטרה",
+        "province:he": "גילאן",
+        "name:tr": "Humeyni Yardım Komitesi Müdürlüğü",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بەرێوەبەرایەتیی کۆمیتەی ئیمام خومەینی",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTc6YzJiNTRjZDUyMjcw",
+        "publicId": "MTc6YzJiNTRjZDUyMjcw",
+        "sourceId": "c2b54cd52270",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-30T23:25:57.223Z",
+        "updatedAt": "2026-10-30T23:25:57.223Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115015,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.86825703009421,
+              38.41503912339158
+            ],
+            [
+              48.868486736576244,
+              38.415004671660085
+            ],
+            [
+              48.868443872688175,
+              38.41483671923305
+            ],
+            [
+              48.8682108689828,
+              38.41487289363519
+            ],
+            [
+              48.86825703009421,
+              38.41503912339158
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان صداوسیما شهرستان آستارا",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Astara County IRIB Building",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مبنى هيئة الإذاعة والتلفزيون في مدينة آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "בניין רשות השידור (סדא וסילא) מחוז אסטארא",
+        "city:he": "אסטארא",
+        "province:he": "גילאן",
+        "name:tr": "Astara Şehri IRIB Binası",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بارەگای دەنگ و ڕەنگی شارستانی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTc6ZDVkZWFiZDRkMmEw",
+        "publicId": "MTc6ZDVkZWFiZDRkMmEw",
+        "sourceId": "d5deabd4d2a0",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-30T23:26:26.295Z",
+        "updatedAt": "2026-10-30T23:26:26.295Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115017,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.82366944427227,
+              38.43464113251477
+            ],
+            [
+              48.82363712214598,
+              38.434469502241825
+            ],
+            [
+              48.82381381643819,
+              38.434416043548396
+            ],
+            [
+              48.82386768664935,
+              38.434566853233605
+            ],
+            [
+              48.82366944427227,
+              38.43464113251477
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "پایگاه نیروهای سرکوب",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "description:en": "Repression forces base",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "description:ar": "قاعدة لقوات القمع",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "description:he": "בסיס כוחות הדיכוי",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "description:tr": "Baskı güçleri üssü",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "description:ckb": "بنکەی هێزە سەرکوتکەرەکان",
+        "city:ckb": "آستارا",
+        "province:ckb": "گیلان",
+        "id": "MTc6N2M5NjQ4NzNhM2U2",
+        "publicId": "MTc6N2M5NjQ4NzNhM2U2",
+        "sourceId": "7c964873a3e6",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-30T23:27:28.168Z",
+        "updatedAt": "2026-10-30T23:27:49.997Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115027,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.30554466300876,
+              35.60422712021608
+            ],
+            [
+              51.30588602357665,
+              35.60479125158777
+            ],
+            [
+              51.30603835114192,
+              35.60473901736859
+            ],
+            [
+              51.3063760411672,
+              35.604198764301216
+            ],
+            [
+              51.306091574027306,
+              35.604082355704335
+            ],
+            [
+              51.30610625620193,
+              35.60405996941627
+            ],
+            [
+              51.306007151520646,
+              35.60398236356902
+            ],
+            [
+              51.30607689185126,
+              35.60379879559214
+            ],
+            [
+              51.305893364664655,
+              35.60375700770136
+            ],
+            [
+              51.30554466300876,
+              35.60422712021608
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری چهاردانگه",
+        "description": "",
+        "date": "",
+        "city": "چهاردانگه",
+        "province": "استان تهران",
+        "name:en": "Chahardangeh Municipality",
+        "city:en": "Chahardangeh",
+        "province:en": "Tehran",
+        "name:ar": "بلدية جهار دانكه",
+        "city:ar": "جهار دانكه",
+        "province:ar": "طهران",
+        "name:he": "עיריית צ'הארדאנגה",
+        "city:he": "צ'הארדאנגה",
+        "province:he": "טהראן",
+        "name:tr": "Çahardange Belediyesi",
+        "city:tr": "Çahardange",
+        "province:tr": "Tahran",
+        "name:ckb": "شارەوانیی چەاردەنگە",
+        "city:ckb": "چەاردەنگە",
+        "province:ckb": "تاران",
+        "id": "MTc6MmNhM2IwODY1MzE3",
+        "publicId": "MTc6MmNhM2IwODY1MzE3",
+        "sourceId": "2ca3b0865317",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-31T01:01:12.933Z",
+        "updatedAt": "2026-10-31T01:01:12.933Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115029,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.30466254428029,
+          35.604719451263875
+        ]
+      },
+      "properties": {
+        "name:fa": "بخشداری چهاردانگه",
+        "description": "بخشداری چهاردانگه - محل مدیریت امنیتی و انتظامی بخش چهاردانگه زیر نظر فرمانداری",
+        "date": 1793408493,
+        "city": "چهاردانگه",
+        "province": "استان تهران",
+        "name:en": "Chahardangeh District Governorate",
+        "description:en": "Chahardangeh District Governorate - The headquarters for security and law enforcement administration of Chahardangeh district under the supervision of the governorate",
+        "city:en": "Chahardangeh",
+        "province:en": "Tehran",
+        "name:he": "בַחְ'שדארי צ'הארדאנגה",
+        "description:he": "בח'שדארי צ'הארדאנגה - מקום הניהול הביטחוני והמשטרתי של נפת צ'הארדאנגה תחת פיקוח הפורמנדארי (מנהלת המחוז)",
+        "city:he": "צ'הארדאנגה",
+        "province:he": "טהראן",
+        "name:tr": "Çardange Bahşdarlığı",
+        "description:tr": "Çardange Bahşdarlığı - Kaymakamlığa bağlı Çardange bahşının güvenlik ve kolluk kuvvetleri yönetim yeri",
+        "city:tr": "Çardange",
+        "province:tr": "Tahran",
+        "name:ckb": "باقاڕی چاردانگە",
+        "description:ckb": "باقاڕی چاردانگە - شوێنی بەڕێوەبەرایەتی ئەمنی و ئانتزامی بەشی چاردانگە لە ژێر چاودێری فرمانداری",
+        "city:ckb": "چاردانگە",
+        "province:ckb": "تاران",
+        "name:ar": "مديرية ناحية أربعة دانكه",
+        "description:ar": "مديرية ناحية أربعة دانكه - مقر الإدارة الأمنية والشرطية لناحية أربعة دانكه التابعة لمديرية قضاء طهران",
+        "city:ar": "أربعة دانكه",
+        "province:ar": "طهران",
+        "id": "MTc6N2UwM2M1NTg3YjYx",
+        "publicId": "MTc6N2UwM2M1NTg3YjYx",
+        "sourceId": "7e03c5587b61",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T01:02:43.673Z",
+        "updatedAt": "2026-10-31T01:02:43.673Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115030,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.304726749658585,
+          35.60499668213262
+        ]
+      },
+      "properties": {
+        "name:fa": "دفتر امام جمعه چهاردانگه",
+        "description": "دفتر امام جمعه بخش چهاردانگه - محل تجمیع و آموزش بسیج",
+        "date": 1793408543,
+        "city": "چهاردانگه",
+        "province": "استان تهران",
+        "name:en": "Chahardangeh Friday Imam Office",
+        "description:en": "Chahardangeh District Friday Imam Office - mobilization assembly and training center",
+        "city:en": "Chahardangeh",
+        "province:en": "Tehran",
+        "name:ar": "مكتب إمام جمعة شهار دانكه",
+        "description:ar": "مكتب إمام جمعة ناحية شهار دانكه - مركز تجميع وتدريب قوات البسيج",
+        "city:ar": "شهار دانكه",
+        "province:ar": "طهران",
+        "name:he": "משרד אימאם שישי של צ'הארדאנגה",
+        "description:he": "משרד אימאם שישי של נפת צ'הארדאנגה - מקום הכינוס וההכשרה של הבסיג'",
+        "city:he": "צ'הארדאנגה",
+        "province:he": "טהראן",
+        "name:tr": "Çahardange Cuma İmamı Bürosu",
+        "description:tr": "Çahardange bahşı Cuma İmamı bürosu - Besic toplanma ve eğitim yeri",
+        "city:tr": "Çahardange",
+        "province:tr": "Tahran",
+        "name:ckb": "نووسینگەی پێشنوێژی جومعەی چەهارجانگە",
+        "description:ckb": "نووسینگەی پێشنوێژی جومعەی بەشی چەهارجانگە - شوێنی کۆکردنەوە و ڕاهێنانی بەسیج",
+        "city:ckb": "چەهارجانگە",
+        "province:ckb": "تاران",
+        "id": "MTc6MjE2NTUzODk1ZDUz",
+        "publicId": "MTc6MjE2NTUzODk1ZDUz",
+        "sourceId": "216553895d53",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T01:03:11.335Z",
+        "updatedAt": "2026-10-31T01:03:11.335Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115033,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31043013185263,
+          35.60884592121781
+        ]
+      },
+      "properties": {
+        "name:fa": "شورای شهر چهاردانگه",
+        "description": "شورای شهر چهاردانگه - مرکز جلسات مخفی شهرداری در صورت تهدید",
+        "date": 1793408834,
+        "city": "چهاردانگه",
+        "province": "استان تهران",
+        "name:en": "Chahardangeh City Council",
+        "description:en": "Chahardangeh City Council - Municipality secret meeting center in case of threat",
+        "city:en": "Chahardangeh",
+        "province:en": "Tehran",
+        "name:ar": "مجلس مدينة جهار دانكه",
+        "description:ar": "مجلس مدينة جهار دانكه - مركز الاجتماعات السرية للبلدية في حالة وجود تهديد",
+        "city:ar": "جهار دانكه",
+        "province:ar": "طهران",
+        "id": "MTc6YzZkZjk3YzMxNzIz",
+        "publicId": "MTc6YzZkZjk3YzMxNzIz",
+        "sourceId": "c6df97c31723",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T02:00:14.770Z",
+        "updatedAt": "2026-10-31T02:00:14.770Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2436,
+    "total": 2444,
     "layerId": 17,
     "clustered": false,
     "simplified": false
