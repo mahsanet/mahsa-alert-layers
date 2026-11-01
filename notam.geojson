@@ -2505,10 +2505,87 @@
         "createdAt": "2026-10-29T10:21:06.720Z",
         "updatedAt": "2026-10-29T10:21:06.720Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115036,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.217222,
+              25.1375
+            ],
+            [
+              61.241111,
+              25.180556
+            ],
+            [
+              61.243056,
+              25.122222
+            ],
+            [
+              61.261111,
+              25.175
+            ],
+            [
+              61.217222,
+              25.1375
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · چابهار",
+        "description": "تیراندازی توپخانه‌ای در محدوده مشخص‌شده انجام خواهد شد. این فعالیت از سطح زمین آغاز شده و تا سطح پرواز ۱۲۰ ادامه دارد.",
+        "notamNumber": "B0585/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۸/۱۰، ۰۶:۰۰",
+        "validTo": "۱۴۰۵/۰۸/۱۶، ۰۰:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1793500200,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "city": "شهرستان چابهار",
+        "province": "استان سیستان و بلوچستان",
+        "name:en": "Aeronautical Notice · Navigation Warning · Chabahar",
+        "description:en": "Artillery firing will be conducted in the specified area. This activity starts from ground level and continues up to flight level 120.",
+        "city:en": "Chabahar County",
+        "province:en": "Sistan and Baluchestan",
+        "name:ar": "إشعار للطيران · تحذير ملاحي · جابهار",
+        "description:ar": "سيتم إجراء إطلاق نار مدفعي في المنطقة المحددة. ينطلق هذا النشاط من سطح الأرض ويستمر حتى مستوى الطيران 120.",
+        "city:ar": "مقاطعة جابهار",
+        "province:ar": "سيستان وبلوشستان",
+        "name:he": "הודעת תעופה · אזהרת ניווט · צ'אבהאר",
+        "description:he": "ירי תותחים יבוצע באזור המוגדר. פעילות זו תתחיל מ his גובה פני הקרקע ותגיע עד לרום טיסה 120.",
+        "city:he": "נפת צ'אבהאר",
+        "province:he": "סיסתאן ובלוצ'יסתאן",
+        "name:tr": "Havacılık Duyurusu · Seyrüsefer Uyarısı · Çabahar",
+        "description:tr": "Belirtilen alanda topçu atışı gerçekleştirilecektir. Bu faaliyet yer seviyesinden başlayıp 120 uçuş seviyesine kadar devam edecektir.",
+        "city:tr": "Çabahar",
+        "province:tr": "Sistan ve Belucistan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هشداری ڕێنیشاندانی دەریایی · چابهار",
+        "description:ckb": "تەقەی تۆپخانە لە سنووری دیاریکراودا ئەنجام دەدرێت. ئەم چالاکییە لە ئاستی زەوی دەست پێ دەکات و تا ئاستی فڕینی ١٢٠ بەردەوام دەبێت.",
+        "city:ckb": "چابهار",
+        "province:ckb": "سیستان و بەلووچستان",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDU4NS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDU4NS0yNg",
+        "sourceId": "notam-oiix-b0585-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-06T20:30:00.000Z",
+        "createdAt": "2026-10-31T06:55:54.134Z",
+        "updatedAt": "2026-10-31T06:55:54.134Z"
+      }
     }
   ],
   "metadata": {
-    "total": 17,
+    "total": 18,
     "layerId": 38,
     "clustered": false,
     "simplified": false

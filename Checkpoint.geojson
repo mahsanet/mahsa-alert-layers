@@ -13763,10 +13763,60 @@
         "createdAt": "2026-10-30T21:27:20.666Z",
         "updatedAt": "2026-10-30T21:27:20.666Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115051,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36282607913017,
+          35.6187090065761
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1793432920,
+        "description": "ایست بازرسی دائمی. همیشه نیرو هست ولی همیشه خیابان را نمی‌بندند.",
+        "sources": "",
+        "name:en": "Checkpost",
+        "description:en": "Permanent checkpost. Forces are always present, but they do not always close the street.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش دائمة. تتواجد القوات دائماً ولكنها لا تغلق الشارع باستمرار.",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה קבוע. תמיד יש שם כוחות, אך הם לא תמיד חוסמים את הרחוב.",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Kalıcı kontrol noktası. Her zaman görevliler bulunuyor ancak sokağı her zaman kapatmıyorlar.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنینی هەمیشەیی. هەمیشە هێز لەوێ هەیە بەڵام هەمیشە شەقامەکە ناگرن.",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzk6MjM2NGExYmUwZWYy",
+        "publicId": "Mzk6MjM2NGExYmUwZWYy",
+        "sourceId": "2364a1be0ef2",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T17:00:07.916Z",
+        "updatedAt": "2026-10-31T17:00:07.916Z"
+      }
     }
   ],
   "metadata": {
-    "total": 283,
+    "total": 284,
     "layerId": 39,
     "clustered": false,
     "simplified": false

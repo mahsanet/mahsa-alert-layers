@@ -83421,35 +83421,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          59.488865092476175,
-          36.356702378125576
+          59.488909328125516,
+          36.35680651564044
         ]
       },
       "properties": {
-        "name:fa": "پایگاه",
-        "description": "پایگاه بسیج",
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "کنار ورودی مسجد دو در ورودی دیگر مربوط به پایگاه بسیج و پشتیبانی قرار دارد و ورود عموم ممنوع است.",
         "date": 1772732177,
         "city": "مشهد",
         "province": "استان خراسان رضوی",
-        "name:en": "Base",
-        "description:en": "Basij base",
+        "name:en": "Basij Base",
+        "description:en": "Next to the mosque entrance, there are two other entrances related to the Basij base and logistics, and public entry is prohibited.",
         "city:en": "Mashhad",
         "province:en": "Razavi Khorasan",
-        "name:ar": "قاعدة",
-        "description:ar": "قاعدة البسيج",
+        "name:ar": "قاعدة التعبئة (البسيج)",
+        "description:ar": "بجوار مدخل المسجد يوجد مدخلان آخران تابعان لقاعدة التعبئة (البسيج) والدعم، والدخول عامةً ممنوع.",
         "city:ar": "مشهد",
         "province:ar": "خراسان رضوي",
-        "name:he": "בסיס",
-        "description:he": "בסיס באסיג'",
+        "name:he": "בסיס באסיג'",
+        "description:he": "לצד הכניסה למסגד ישנן שתי כניסות נוספות השייכות לבסיס הבאסיג' ולתמיכה הלוגיסטית, והכניסה לציבור הרחב אסורה.",
         "city:he": "משהד",
         "province:he": "ח'וראסאן רזאווי",
-        "name:tr": "Üs",
-        "description:tr": "Besiç üssü",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Cami girişinin yanında, Besic üssü ve lojistik desteğe ait diğer iki giriş kapısı bulunmaktadır ve halkın girmesi yasaktır.",
         "city:tr": "Meşhed",
         "province:tr": "Razavi Horasan",
-        "name:ckb": "بنکە",
-        "description:ckb": "بنکەی بەسیج",
-        "city:ckb": "مەشھەد",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "لە پاڵ دەرچەی مزگەوتەکەدا دوو دەرچەی تری پەیوەندیدار بە بنکەی بەسیج و پشتگیرییەوە هەن و هاتنەژوورەوەی گشتی قەدەغەیە.",
+        "city:ckb": "مەشهەد",
         "province:ckb": "خوراسانی ڕەزەوی",
         "id": "MTpmNmRkZGJiYWUwMzY",
         "publicId": "MTpmNmRkZGJiYWUwMzY",
@@ -83461,7 +83462,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-03-24T23:45:16.587Z",
-        "updatedAt": "2026-03-26T02:09:21.488Z"
+        "updatedAt": "2026-10-31T17:03:41.340Z"
       }
     },
     {
@@ -105312,10 +105313,60 @@
         "createdAt": "2026-10-30T23:32:07.996Z",
         "updatedAt": "2026-10-30T23:32:07.996Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115053,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.4792084954679,
+          36.35782107509698
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "یکی از پایگاه‌های فعال بسیج شهرک که محل تردد و مجهز کردن نیروهای بسیج و سپاه است.",
+        "date": 1793432427,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Basij Base",
+        "description:en": "One of the active Basij bases in the neighborhood, which serves as a transit and equipment hub for Basij and IRGC forces.",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "قاعدة للبسيج",
+        "description:ar": "إحدى قواعد البسيج النشطة في الحي السكني، والتي تعد نقطة تردد وتجهيز لقوات البسيج والحرس الثوري.",
+        "city:ar": "مشهد",
+        "province:ar": "خراسان رضوي",
+        "name:he": "בסיס באסיג'",
+        "description:he": "אחד מבסיסי הבאסיג' הפעילים בשכונה, המשמש מקום תנועה והצטיידות של כוחות הבאסיג' ומשמרות המהפכה.",
+        "city:he": "משהד",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Şerbek'in Besic güçlerinin geçiş yaptığı ve Besic ile Devrim Muhafızları güçlerinin teçhiz edildiği aktif üslerinden biri.",
+        "city:tr": "Meşhed",
+        "province:tr": "Razavi Horasan",
+        "name:ckb": "بنکەی بسیج",
+        "description:ckb": "یەکێک لە بنکە چالاکەکانی بسیجی شارۆچکەکە کە شوێنی هاتووچۆ و چەکدارکردنی هێزەکانی بسیج و سوپایە.",
+        "city:ckb": "مەشهەد",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "MTo4ZTdkZTRlYWFjMjA",
+        "publicId": "MTo4ZTdkZTRlYWFjMjA",
+        "sourceId": "8e7de4eaac20",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T17:01:52.839Z",
+        "updatedAt": "2026-10-31T17:01:52.839Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2368,
+    "total": 2369,
     "layerId": 1,
     "clustered": false,
     "simplified": false

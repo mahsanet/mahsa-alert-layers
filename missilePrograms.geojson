@@ -22635,10 +22635,60 @@
         "createdAt": "2026-10-30T23:15:59.565Z",
         "updatedAt": "2026-10-30T23:17:19.197Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.672469069501346,
+          33.67501072709712
+        ]
+      },
+      "properties": {
+        "name:fa": "نگهداری لانچر موشکی",
+        "description": "وجود تونل‌های متصل به هم در دل کوه جهت نگهداری و اسکان لانچرهای موشکی",
+        "date": 1793282098,
+        "city": "شهرستان خرم‌آباد",
+        "province": "استان لرستان",
+        "sources": "",
+        "name:en": "Missile launcher storage",
+        "description:en": "Existence of interconnected tunnels inside the mountain for storing and housing missile launchers",
+        "city:en": "Khorramabad County",
+        "province:en": "Lorestan",
+        "name:ar": "تخزين منصات إطلاق الصواريخ",
+        "description:ar": "وجود أنفاق متصلة ببعضها في قلب الجبل لتخزين وإيواء منصات إطلاق الصواريخ",
+        "city:ar": "خرم آباد",
+        "province:ar": "لرستان",
+        "name:he": "אחסון משגרי טילים",
+        "description:he": "קיומן של מנהרות המחוברות זו לזו בלב ההר לצורך אחסון ושיכון של משגרי טילים",
+        "city:he": "ח'ורמאבאד",
+        "province:he": "לורסתאן",
+        "name:tr": "Füze Lançeri Depolama Yeri",
+        "description:tr": "Füze lançerlerini depolamak ve barındırmak amacıyla dağın kalbinde birbirine bağlı tünellerin bulunması",
+        "city:tr": "Hürremâbâd",
+        "province:tr": "Luristan",
+        "name:ckb": "هەڵگرتنی لانچەری مووشەکی",
+        "description:ckb": "بوونی تەنۆکە یان تونێلی بەیەکەوەبەستراو لەناو چیاکەدا بۆ هەڵگرتن و نیشتەجێکردنی لانچەرەکانی مووشەک",
+        "city:ckb": "خوڕماوا",
+        "province:ckb": "لوڕستان",
+        "id": "NzplYWM1NWUwYzQyYTk",
+        "publicId": "NzplYWM1NWUwYzQyYTk",
+        "sourceId": "eac55e0c42a9",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T22:44:20.817Z",
+        "updatedAt": "2026-10-31T22:44:39.154Z"
+      }
     }
   ],
   "metadata": {
-    "total": 210,
+    "total": 211,
     "layerId": 7,
     "clustered": false,
     "simplified": false

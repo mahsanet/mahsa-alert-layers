@@ -92181,10 +92181,108 @@
         "createdAt": "2026-10-30T23:29:42.003Z",
         "updatedAt": "2026-10-30T23:30:27.942Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115065,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.28180624071524,
+              37.139021411569885
+            ],
+            [
+              50.28207156261368,
+              37.1396032051219
+            ],
+            [
+              50.28346391977968,
+              37.139162572625864
+            ],
+            [
+              50.28306886296369,
+              37.138465488210585
+            ],
+            [
+              50.282716981754305,
+              37.13857220278439
+            ],
+            [
+              50.28272561687666,
+              37.138603184406506
+            ],
+            [
+              50.28224636762309,
+              37.13876497711668
+            ],
+            [
+              50.282257431557554,
+              37.138787854131365
+            ],
+            [
+              50.28198902400899,
+              37.13887198443258
+            ],
+            [
+              50.2819536768846,
+              37.13891964570759
+            ],
+            [
+              50.281896120490444,
+              37.138987449802485
+            ],
+            [
+              50.28180624071524,
+              37.139021411569885
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مقر سپاه",
+        "unofficial_name:fa": "",
+        "description": "مقر سپاه معمولا کارهای دفتری انجام میدن - اکثرا برای سربازی جوانهای مردمو میارن اینجا خدمت کنن. قدیمها میگفتن قبلا اینجا استراحتگاه زنده یاد محمدرضاشاه بوده.",
+        "date": "",
+        "city": "رودسر",
+        "province": "استان گیلان",
+        "name:en": "IRGC Headquarters",
+        "description:en": "The IRGC headquarters usually handles office work - mostly bringing in young men for their mandatory military service. In the past, people said it used to be a resort for the late Mohammad Reza Shah.",
+        "city:en": "Rudsar",
+        "province:en": "Gilan",
+        "name:ar": "مقر الحرس الثوري",
+        "description:ar": "عادةً ما يقوم مقر الحرس الثوري بالأعمال المكتبية - وغالباً ما يجلبون شباب الناس إلى هنا لأداء الخدمة العسكرية. في الماضي، كانوا يقولون إن هذا المكان كان مستراحاً للمرحوم محمد رضا شاه.",
+        "city:ar": "رودسر",
+        "province:ar": "جيلان",
+        "name:he": "מפקדת ספאה",
+        "description:he": "במפקדת ספאה מבצעים בדרך כלל עבודות משרדיות - לרוב מביאים לכאן צעירים כדי לשרת את שירות החובה שלהם. בעבר אמרו שמקום זה היה בעבר אתר נופש של מוחמד רזא שאה המנוח.",
+        "city:he": "רודסאר",
+        "province:he": "גילאן",
+        "name:tr": "Sepah Karargahı",
+        "description:tr": "Sepah karargahı genellikle büro işleri yapar; askerlik hizmeti için çoğunlukla genç erkekleri buraya getirirler. Eskiden buranın merhum Muhammed Rıza Şah'ın dinlenme yeri olduğu söylenirdi.",
+        "city:tr": "Rudser",
+        "province:tr": "Gilan",
+        "name:ckb": "مقەڕی سوپا",
+        "description:ckb": "مقەڕی سوپا بە گشتی کارە دفترییەکان ئەنجام دەدەن - زۆربەی جار بۆ سەربازی گەنجانی خەڵک دەهێننە لێرە خزمەت بکەن. لە کۆندا دەیگوت پێشتر لێرە پشوودەگەی خوالێخۆشبوو محەممەدرەزا شاهـ بووە.",
+        "city:ckb": "ڕۆدسەر",
+        "province:ckb": "گیلان",
+        "id": "MTI6ZWNkODcyNDNjZDZh",
+        "publicId": "MTI6ZWNkODcyNDNjZDZh",
+        "sourceId": "ecd87243cd6a",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-31T22:41:41.992Z",
+        "updatedAt": "2026-10-31T22:42:27.516Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1118,
+    "total": 1119,
     "layerId": 12,
     "clustered": false,
     "simplified": false

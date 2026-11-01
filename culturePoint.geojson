@@ -116336,50 +116336,6 @@
     },
     {
       "type": "Feature",
-      "id": 93065,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.869932,
-          38.423254
-        ]
-      },
-      "properties": {
-        "name:fa": "شهرداری آستارا",
-        "description": "",
-        "date": "",
-        "city": "آستارا",
-        "province": "استان گیلان",
-        "name:en": "Astara Municipality",
-        "city:en": "Astara",
-        "province:en": "Gilan",
-        "name:ar": "بلدية آستارا",
-        "city:ar": "آستارا",
-        "province:ar": "جيلان",
-        "name:he": "עיריית אסתארא",
-        "city:he": "אסתארא",
-        "province:he": "גילאן",
-        "name:tr": "Astara Belediyesi",
-        "city:tr": "Astara",
-        "province:tr": "Gilan",
-        "name:ckb": "شارەوانیی ئاستارا",
-        "city:ckb": "ئاستارا",
-        "province:ckb": "گیلان",
-        "id": "MTc6ZDUyMTY1ZTgwZDU4",
-        "publicId": "MTc6ZDUyMTY1ZTgwZDU4",
-        "sourceId": "d52165e80d58",
-        "layerId": 17,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-04-18T02:10:21.399Z",
-        "updatedAt": "2026-04-18T02:10:21.399Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93152,
       "geometry": {
         "type": "Point",
@@ -124049,6 +124005,18 @@
         "description:ar": "مجلس مدينة جهار دانكه - مركز الاجتماعات السرية للبلدية في حالة وجود تهديد",
         "city:ar": "جهار دانكه",
         "province:ar": "طهران",
+        "name:he": "מועצת העיר צ'הארדאנגה",
+        "description:he": "מועצת העיר צ'הארדאנגה - מרכז הישיבות הסודיות של העירייה במקרה של איום",
+        "city:he": "צ'הארדאנגה",
+        "province:he": "טהראן",
+        "name:tr": "Çardange Şehir Konseyi",
+        "description:tr": "Çardange Şehir Konseyi - Tehdit durumunda belediyenin gizli toplantı merkezi",
+        "city:tr": "Çardange",
+        "province:tr": "Tahran",
+        "name:ckb": "شۆڕای شار چەاردەنگە",
+        "description:ckb": "شۆڕای شار چەاردەنگە - ناوەندی کۆبوونەوە نهێنییەکانی شارەوانی لە کاتی هەڕەشەدا",
+        "city:ckb": "چەاردەنگە",
+        "province:ckb": "تاران",
         "id": "MTc6YzZkZjk3YzMxNzIz",
         "publicId": "MTc6YzZkZjk3YzMxNzIz",
         "sourceId": "c6df97c31723",
@@ -124061,10 +124029,313 @@
         "createdAt": "2026-10-31T02:00:14.770Z",
         "updatedAt": "2026-10-31T02:00:14.770Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115044,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.8696909550591,
+              38.423630868927546
+            ],
+            [
+              48.87032567747116,
+              38.42359350289922
+            ],
+            [
+              48.870274411946866,
+              38.42305661204162
+            ],
+            [
+              48.8696439938947,
+              38.423091179090704
+            ],
+            [
+              48.8696909550591,
+              38.423630868927546
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری آستارا",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Astara Municipality",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "بلدية آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "עיריית אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara Belediyesi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "شارەوانیی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTc6NDY3OWFhNWRjYTdh",
+        "publicId": "MTc6NDY3OWFhNWRjYTdh",
+        "sourceId": "4679aa5dca7a",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-31T16:54:25.209Z",
+        "updatedAt": "2026-10-31T16:54:25.209Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115056,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.241969261318445,
+          35.56150972376899
+        ]
+      },
+      "properties": {
+        "name:fa": "بخشداری مرکزی اسلامشهر",
+        "description": "بخشداری مرکزی اسلامشهر، محل جلسات امنیتی",
+        "date": 1793411179,
+        "city": "اسلامشهر",
+        "province": "استان تهران",
+        "name:en": "Central District Bakhshdari of Eslamshahr",
+        "description:en": "Central District Bakhshdari of Eslamshahr, location for security meetings",
+        "city:en": "Eslamshahr",
+        "province:en": "Tehran",
+        "name:ar": "مبنى مديرية مركز إسلام شهر",
+        "description:ar": "مبنى مديرية مركز إسلام شهر، مكان الاجتماعات الأمنية",
+        "city:ar": "إسلام شهر",
+        "province:ar": "طهران",
+        "name:he": "הנהלת מחוז מרכז אסלאמשהר",
+        "description:he": "הנהלת מחוז מרכז אסלאמשהר, מקום כינוס ישיבות ביטחוניות",
+        "city:he": "אסלאמשהר",
+        "province:he": "טהראן",
+        "name:ckb": "بەرێوەبەرایەتیی بخشداریی ناوەندیی ئیسلامشار",
+        "description:ckb": "بەرێوەبەرایەتیی بخشداریی ناوەندیی ئیسلامشار، شوێنی کۆبوونەوە ئەمنییەکان",
+        "city:ckb": "ئیسلامشار",
+        "province:ckb": "تاران",
+        "name:tr": "İslamşehir Merkez Bahriliyi",
+        "description:tr": "İslamşehir Merkez Bahriliyi, güvenlik toplantılarının yapıldığı yerdir",
+        "city:tr": "İslamşehir",
+        "province:tr": "Tahran",
+        "id": "MTc6MjNjMjBjMmFkNWJm",
+        "publicId": "MTc6MjNjMjBjMmFkNWJm",
+        "sourceId": "23c20c2ad5bf",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T17:06:26.935Z",
+        "updatedAt": "2026-10-31T17:06:26.935Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115057,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.24295514076948,
+          35.55835332791048
+        ]
+      },
+      "properties": {
+        "name:fa": "شورای شهر اسلامشهر",
+        "description": "شورای شهر اسلامشهر - محل جلسات امنیتی",
+        "date": 1793411093,
+        "city": "اسلامشهر",
+        "province": "استان تهران",
+        "name:en": "Eslamshahr City Council",
+        "description:en": "Eslamshahr City Council - venue for security meetings",
+        "city:en": "Eslamshahr",
+        "province:en": "Tehran",
+        "name:ar": "مجلس مدينة إسلامشهر",
+        "description:ar": "مجلس مدينة إسلامشهر - مكان الاجتماعات الأمنية",
+        "city:ar": "إسلامشهر",
+        "province:ar": "طهران",
+        "name:he": "מועצת העיר אסלאמשאהר",
+        "description:he": "מועצת העיר אסלאמשאהר - מקום פגישות ביטחוניות",
+        "city:he": "אסלאמשאהר",
+        "province:he": "טהראן",
+        "name:tr": "İslamşehir Şehir Konseyi",
+        "description:tr": "İslamşehir Şehir Konseyi - Güvenlik toplantılarının yapıldığı yer",
+        "city:tr": "İslamşehir",
+        "province:tr": "Tahran",
+        "name:ckb": "شۆڕای شار لە ئیسلامشار",
+        "description:ckb": "شۆڕای شاری ئیسلامشار - شوێنی کۆبوونەوە ئەمنییەکان",
+        "city:ckb": "ئیسلامشار",
+        "province:ckb": "تاران",
+        "id": "MTc6NmY1ZGQwOGMyY2U5",
+        "publicId": "MTc6NmY1ZGQwOGMyY2U5",
+        "sourceId": "6f5dd08c2ce9",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T17:06:55.520Z",
+        "updatedAt": "2026-10-31T17:06:55.520Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115058,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.243440834856386,
+              35.55787755852421
+            ],
+            [
+              51.243813603641115,
+              35.55798624296456
+            ],
+            [
+              51.243964264358624,
+              35.55802541987872
+            ],
+            [
+              51.243958051545064,
+              35.55805069529653
+            ],
+            [
+              51.2442578197755,
+              35.55814042296525
+            ],
+            [
+              51.244719121147085,
+              35.55828449253353
+            ],
+            [
+              51.24470824872458,
+              35.55846773853983
+            ],
+            [
+              51.24399066879744,
+              35.5591918776869
+            ],
+            [
+              51.243889710584654,
+              35.55919440519281
+            ],
+            [
+              51.24290808610343,
+              35.55858776561662
+            ],
+            [
+              51.24292051171065,
+              35.55856754055594
+            ],
+            [
+              51.243440834856386,
+              35.55787755852421
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "شهردای اسلامشهر",
+        "description": "",
+        "date": "",
+        "city": "اسلامشهر",
+        "province": "استان تهران",
+        "name:en": "Eslamshahr Municipality",
+        "city:en": "Eslamshahr",
+        "province:en": "Tehran",
+        "name:ar": "بلدية إسلام شهر",
+        "city:ar": "إسلام شهر",
+        "province:ar": "طهران",
+        "name:he": "עיריית אסלאמשהר",
+        "city:he": "אסלאמשהר",
+        "province:he": "טהראן",
+        "name:tr": "İslamşehir Belediyesi",
+        "city:tr": "İslamşehir",
+        "province:tr": "Tahran",
+        "name:ckb": "شارەوانیی ئیسلامشار",
+        "city:ckb": "ئیسلامشار",
+        "province:ckb": "تاران",
+        "id": "MTc6OWUzMmE4OTc2NmZj",
+        "publicId": "MTc6OWUzMmE4OTc2NmZj",
+        "sourceId": "9e32a89766fc",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-31T17:08:09.155Z",
+        "updatedAt": "2026-10-31T17:08:09.155Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.21690033003688,
+          35.641245948543826
+        ]
+      },
+      "properties": {
+        "name:fa": "بخشداری احمدآباد مستوفی",
+        "description": "بخشداری احمدآباد مستوفی - نهاد حاکمیتی و محل جلسات زیر نظر فرمانداری اسلامشهر",
+        "date": 1793411435,
+        "city": "احمد اباد مستوفی",
+        "province": "استان تهران",
+        "name:en": "Ahmadabad Mostowfi District Administration Office",
+        "description:en": "Ahmadabad Mostowfi District Administration Office - A governmental institution and venue for meetings under the supervision of Eslamshahr Governorate",
+        "city:en": "Ahmadabad Mostowfi",
+        "province:en": "Tehran",
+        "name:ar": "مبنى ناحية أحمد آباد مستوفي",
+        "description:ar": "مبنى ناحية أحمد آباد مستوفي - مؤسسة حكومية ومقر للاجتماعات يخضع لإدارة قضاء إسلامشهر",
+        "city:ar": "أحمد آباد مستوفي",
+        "province:ar": "طهران",
+        "name:he": "מנהלת מחוז משנה אחמדאבאד מוסטופי",
+        "description:he": "מנהלת מחוז משנה אחמדאבאד מוסטופי - מוסד ממשלתי ומקום מפגשים תחת מושלות אסלאמשהר",
+        "city:he": "אחמדאבאד מוסטופי",
+        "province:he": "טהראן",
+        "name:tr": "Ahmetabad Mustufi Bukhdarisi",
+        "description:tr": "Ahmetabad Mustufi Bukhdarisi - İslamşehr Kaymakamlığı'na bağlı yönetim kurumu ve toplantı yeri",
+        "city:tr": "Ahmetabad Mustufi",
+        "province:tr": "Tahran",
+        "name:ckb": "بناوەڕەشەی ئەحمەدابادی مستۆفی",
+        "description:ckb": "بناوەڕەشەی ئەحمەدابادی مستۆفی - دامەزراوەی حوکمڕانی و شوێنی کۆبوونەوەکان لە ژێر چاودێری فرمانداریی ئیسلامشار",
+        "city:ckb": "ئەحمەدابادی مستۆفی",
+        "province:ckb": "تاران",
+        "id": "MTc6YjcyYTdhMjBkZTQ5",
+        "publicId": "MTc6YjcyYTdhMjBkZTQ5",
+        "sourceId": "b72a7a20de49",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T19:57:06.342Z",
+        "updatedAt": "2026-10-31T19:57:35.994Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2444,
+    "total": 2448,
     "layerId": 17,
     "clustered": false,
     "simplified": false

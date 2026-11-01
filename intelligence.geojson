@@ -19827,10 +19827,60 @@
         "createdAt": "2026-10-25T00:46:20.295Z",
         "updatedAt": "2026-10-25T00:53:35.838Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115055,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.536189679056406,
+          36.30825950313731
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "ساختمان حراست دانشگاه فردوسی که به عنوان مرکز کنترل دوربین‌های امنیتی و مرکز هماهنگی نیروهای سپاه و حراست استفاده می‌شود.",
+        "date": 1793432074,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:fa": "حراست دانشگاه فردوسی مشهد",
+        "name:en": "Ferdowsi University Security Office of Mashhad",
+        "description:en": "The Ferdowsi University security building, used as the security camera control center and the coordination center for IRGC and security forces.",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "أمن جامعة فردوسي في مشهد",
+        "description:ar": "مبنى أمن الجامعة الذي يُستخدم كمركز للتحكم بكاميرات المراقبة الأمنية ومركز لتنسيق قوات الحرس الثوري وأمن الجامعة.",
+        "city:ar": "مشهد",
+        "province:ar": "خراسان رضوي",
+        "name:he": "אבטחת אוניברסיטת פילדcallי משהד",
+        "description:he": "בניין האבטחה של אוניברסיטת פילדוסי המשמש כמרכז לבקרת מצלמות אבטחה וכמרכז תיאום עבור כוחות משמרות המהפכה ואנשי האבטחה.",
+        "city:he": "משהד",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:tr": "Meşhed Firdevsi Üniversitesi Koruma Birimi",
+        "description:tr": "Güvenlik kameraları kontrol merkezi ile Devrim Muhafızları ve koruma güçlerinin koordinasyon merkezi olarak kullanılan Firdevsi Üniversitesi Koruma Birimi binası.",
+        "city:tr": "Meşhed",
+        "province:tr": "Razavi Horasan",
+        "name:ckb": "حراستی زانکۆی فیرْدۆوسی مەشهەد",
+        "description:ckb": "بینای حراستی زانکۆی فیرْدۆوسی کە وەک ناوەندی کۆنتڕۆڵی کامێرا ئەمنییەکان و ناوەندی هەماهەنگی هێزەکانی سوپا و حراست بەکاردێت.",
+        "city:ckb": "مەشهەد",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "Mjo2NGFlMWE4ODExZTI",
+        "publicId": "Mjo2NGFlMWE4ODExZTI",
+        "sourceId": "64ae1a8811e2",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T17:05:31.013Z",
+        "updatedAt": "2026-10-31T17:05:31.013Z"
+      }
     }
   ],
   "metadata": {
-    "total": 370,
+    "total": 371,
     "layerId": 2,
     "clustered": false,
     "simplified": false

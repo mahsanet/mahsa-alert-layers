@@ -231540,8 +231540,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          59.4792013,
-          36.3579072
+          59.47931610513871,
+          36.3578453798779
         ]
       },
       "properties": {
@@ -231574,7 +231574,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:53:49.785Z",
-        "updatedAt": "2026-03-11T20:53:49.785Z"
+        "updatedAt": "2026-10-31T17:02:02.132Z"
       }
     },
     {
@@ -249211,10 +249211,416 @@
         "createdAt": "2026-10-30T23:33:48.143Z",
         "updatedAt": "2026-10-30T23:33:48.143Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115045,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84241931140423,
+          38.34678555036214
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه کانرود",
+        "description": "حسینیه کانرود",
+        "date": 1793436952,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Kanrud Hosseiniyeh",
+        "description:en": "Kanrud Hosseiniyeh",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "حسينية كانرود",
+        "description:ar": "حسينية كانرود",
+        "city:ar": "مقاطعة أستارا",
+        "province:ar": "جيلان",
+        "name:he": "חוסייניית כאנרוד",
+        "description:he": "חוסייניית כאנרוד",
+        "city:he": "מחוז אסתארא",
+        "province:he": "גילאן",
+        "name:tr": "Kanrud Hüseyniyesi",
+        "description:tr": "Kanrud Hüseyniyesi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "حوسێنیەی کانڕوود",
+        "description:ckb": "حوسێنیەی کانڕوود",
+        "city:ckb": "آستارا",
+        "province:ckb": "گیلان",
+        "id": "NDplNGRlYzdjZjIzMmI",
+        "publicId": "NDplNGRlYzdjZjIzMmI",
+        "sourceId": "e4dec7cf232b",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T16:55:01.024Z",
+        "updatedAt": "2026-10-31T16:55:01.024Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115046,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.870123161653254,
+              38.310034172578156
+            ],
+            [
+              48.87038874730669,
+              38.31002412779597
+            ],
+            [
+              48.870379947782,
+              38.30987220029385
+            ],
+            [
+              48.870111162301214,
+              38.30987910609622
+            ],
+            [
+              48.870123161653254,
+              38.310034172578156
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع لوندویل",
+        "description": "",
+        "date": "",
+        "city": "لوندویل",
+        "province": "استان گیلان",
+        "name:en": "Lavandevil Jame Mosque",
+        "city:en": "Lavandevil",
+        "province:en": "Gilan",
+        "name:ar": "المسجد الجامع في لوندويل",
+        "city:ar": "لوندويل",
+        "province:ar": "جيلان",
+        "name:he": "המסגד הגדול של לוונדוויל",
+        "city:he": "לוונדוויל",
+        "province:he": "גילאן",
+        "name:tr": "Levandvil Ulu Cami",
+        "city:tr": "Levandvil",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی گەورەی لەوندویل",
+        "city:ckb": "لەوندویل",
+        "province:ckb": "گیلان",
+        "id": "NDoyZTgzNTE0YWQ1YjY",
+        "publicId": "NDoyZTgzNTE0YWQ1YjY",
+        "sourceId": "2e83514ad5b6",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-31T16:55:35.229Z",
+        "updatedAt": "2026-10-31T16:55:35.229Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115047,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.85035055389332,
+              38.30813118442907
+            ],
+            [
+              48.85023719407883,
+              38.30796790530181
+            ],
+            [
+              48.85029320716356,
+              38.30793650542745
+            ],
+            [
+              48.850281718384906,
+              38.30792138329852
+            ],
+            [
+              48.85030806316209,
+              38.30790454733315
+            ],
+            [
+              48.850346827619916,
+              38.30789450482516
+            ],
+            [
+              48.850356989176134,
+              38.307907796379425
+            ],
+            [
+              48.85041607806863,
+              38.30788771135067
+            ],
+            [
+              48.85052785516757,
+              38.308042781628984
+            ],
+            [
+              48.85045032625192,
+              38.30809328941808
+            ],
+            [
+              48.85035055389332,
+              38.30813118442907
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد بابا حسن لوندویل",
+        "description": "",
+        "date": "",
+        "city": "لوندویل",
+        "province": "استان گیلان",
+        "name:en": "Baba Hasan Levandvil Mosque",
+        "city:en": "Levandvil",
+        "province:en": "Gilan",
+        "name:ar": "مسجد بابا حسن لوندويل",
+        "city:ar": "لوندويل",
+        "province:ar": "جيلان",
+        "name:he": "מסגד באבא חסן לוונדוויל",
+        "city:he": "לוונדוויל",
+        "province:he": "גילאן",
+        "name:tr": "Babahan Levendvil Camii",
+        "city:tr": "Levendvil",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی باباحەسەن لەندەویل",
+        "city:ckb": "لەندەویل",
+        "province:ckb": "گیلان",
+        "id": "NDpjZTZmMDcwOGE5MTE",
+        "publicId": "NDpjZTZmMDcwOGE5MTE",
+        "sourceId": "ce6f0708a911",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-31T16:56:32.269Z",
+        "updatedAt": "2026-10-31T16:56:32.269Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115048,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.807629441221536,
+              38.43544880314329
+            ],
+            [
+              48.80769116591483,
+              38.43555579816544
+            ],
+            [
+              48.80796632068751,
+              38.43546469338992
+            ],
+            [
+              48.807906492547176,
+              38.43535451854808
+            ],
+            [
+              48.807629441221536,
+              38.43544880314329
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد عنبران",
+        "description": "",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Anbaran Mosque",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "مسجد عنبران",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסג'ד ענבראן",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Anbaran Mescidi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی عەنبەران",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDozZjViZDJjZDIwNGU",
+        "publicId": "NDozZjViZDJjZDIwNGU",
+        "sourceId": "3f5bd2cd204e",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-31T16:57:05.292Z",
+        "updatedAt": "2026-10-31T16:57:05.292Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115054,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.48869858804568,
+              36.35666824638298
+            ],
+            [
+              59.488818005053645,
+              36.35682905059255
+            ],
+            [
+              59.48894660798362,
+              36.35685124746618
+            ],
+            [
+              59.488971716175314,
+              36.35684384850926
+            ],
+            [
+              59.48902244931216,
+              36.35677590530476
+            ],
+            [
+              59.48896687575305,
+              36.35674865843741
+            ],
+            [
+              59.488995870653525,
+              36.356720438458424
+            ],
+            [
+              59.48899707877533,
+              36.35668540674487
+            ],
+            [
+              59.48887626669156,
+              36.356621181897
+            ],
+            [
+              59.48891251031577,
+              36.35658225772083
+            ],
+            [
+              59.488896804744655,
+              36.356573499778406
+            ],
+            [
+              59.48869858804568,
+              36.35666824638298
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "name:en": "Mosque",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "مسجد",
+        "city:ar": "مشهد",
+        "province:ar": "خراسان رضوي",
+        "name:he": "מסגד",
+        "city:he": "משהד",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:tr": "Cami",
+        "city:tr": "Meşhed",
+        "province:tr": "Razavi Horasan",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "مەشهەد",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "NDphNTA1MzRkZDc3MTU",
+        "publicId": "NDphNTA1MzRkZDc3MTU",
+        "sourceId": "a50534dd7715",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-10-31T17:03:35.794Z",
+        "updatedAt": "2026-10-31T17:03:35.794Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.873372722417116,
+          34.63247713493399
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد صاحب الزمان (مدنی) قم",
+        "description": "مسجد صاحب الزمان معروف به مدنی",
+        "date": 1793244863,
+        "city": "قم",
+        "province": "استان قم",
+        "name:en": "Saheb ol-Zaman Mosque (Madani) Qom",
+        "description:en": "Saheb ol-Zaman Mosque, also known as Madani",
+        "city:en": "Qom",
+        "province:en": "Qom",
+        "name:ar": "مسجد صاحب الزمان (مدني) قم",
+        "description:ar": "مسجد صاحب الزمان المعروف بمدني",
+        "city:ar": "قم",
+        "province:ar": "قم",
+        "name:he": "מסג'ד צאחב אל-זמאן (מדני) קום",
+        "description:he": "מסג'ד צאחב אל-זמאן הידוע כמדני",
+        "city:he": "קום",
+        "province:he": "קום",
+        "name:tr": "Kuddus-ü Zaman (Medeni) Mescidi Kum",
+        "description:tr": "Medeni olarak bilinen Kuddus-ü Zaman Mescidi",
+        "city:tr": "Kum",
+        "province:tr": "Kum",
+        "name:ckb": "مزگەوتی ساحب ئەلزەمان (مەدەنی) قوم",
+        "description:ckb": "مزگەوتی ساحب ئەلزەمان کە بە مەدەنی ناسراوە",
+        "city:ckb": "قوم",
+        "province:ckb": "قوم",
+        "id": "NDpiNDIyOTBiZWVmODI",
+        "publicId": "NDpiNDIyOTBiZWVmODI",
+        "sourceId": "b42290beef82",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-10-31T22:43:36.472Z",
+        "updatedAt": "2026-10-31T22:43:36.472Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5763,
+    "total": 5769,
     "layerId": 4,
     "clustered": false,
     "simplified": false
