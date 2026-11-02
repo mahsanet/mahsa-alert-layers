@@ -93790,10 +93790,118 @@
         "createdAt": "2026-10-30T23:24:44.566Z",
         "updatedAt": "2026-10-30T23:25:28.832Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115092,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84597189724445,
+          38.384846852728856
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "اداره مخابرات روستای عباس آباد، بخش مرکزی، دهستان ویرمونی",
+        "date": 1793520263,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:fa": "اداره مخابرات روستای عباس آباد",
+        "name:en": "Abbasabad Village Telecommunication Office",
+        "description:en": "Abbasabad Village Telecommunication Office, Central District, Virmuni Rural District",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "إدارة الاتصالات بقربة عباس آباد",
+        "description:ar": "إدارة الاتصالات بقرية عباس آباد، الناحية المركزية، قضاء ويرموني",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "משרד התקשורת של הכפר עבאס אבאד",
+        "description:he": "משרד התקשורת של הכפר עבאס אבאד, הנפה המרכזית, המועצה האזורית וירמוני",
+        "city:he": "מחוז אסתארה",
+        "province:he": "גילאן",
+        "name:tr": "Abbasabad Köyü Telekomünikasyon İdaresi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "ڕێوەبەرایەتیی تەلەفۆنی گوندی عەباس‌آباد",
+        "description:ckb": "ڕێوەبەرایەتیی تەلەفۆنی گوندی عەباس‌آباد، بەشی ناوەندی، گوندەواری ڤیرموونی",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzU6ZjU0YTc0NTkzYmU0",
+        "publicId": "MzU6ZjU0YTc0NTkzYmU0",
+        "sourceId": "f54a74593be4",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-01T19:32:54.222Z",
+        "updatedAt": "2026-11-01T19:32:54.222Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115103,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              58.10915670974336,
+              25.689917419309324
+            ],
+            [
+              58.10956534057766,
+              25.69044415221957
+            ],
+            [
+              58.11025114349161,
+              25.69004874588927
+            ],
+            [
+              58.10984251265606,
+              25.689500599203157
+            ],
+            [
+              58.10915670974336,
+              25.689917419309324
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "مرکز مخابرات",
+        "description": "",
+        "date": "",
+        "city": "یکدار",
+        "province": "استان هرمزگان",
+        "city:en": "Yekdar",
+        "province:en": "Hormozgan",
+        "city:ar": "يكدار",
+        "province:ar": "هرمزكان",
+        "city:he": "ייכדאר",
+        "province:he": "הורמוזגאן",
+        "city:tr": "Yekdar",
+        "province:tr": "Hürmüzgan",
+        "city:ckb": "یکدار",
+        "province:ckb": "ھورمزگان",
+        "id": "MzU6OGZhZmMzZTg2NjA1",
+        "publicId": "MzU6OGZhZmMzZTg2NjA1",
+        "sourceId": "8fafc3e86605",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-01T23:08:50.520Z",
+        "updatedAt": "2026-11-01T23:08:50.520Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2027,
+    "total": 2029,
     "layerId": 35,
     "clustered": false,
     "simplified": false

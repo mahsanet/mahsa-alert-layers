@@ -57941,49 +57941,6 @@
     },
     {
       "type": "Feature",
-      "id": 85439,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.5395581,
-          36.6948198
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MjA0MQ",
-        "city": "بهشهر",
-        "osm_id": "",
-        "name:fa": "کلانتری ۱۱ هفت تیر",
-        "province": "استان مازندران",
-        "name:en": "Police Station 11 Haft-e Tir",
-        "city:en": "Behshahr",
-        "province:en": "Mazandaran",
-        "name:ar": "مركز شرطة 11 هفت تير",
-        "city:ar": "بهشهر",
-        "province:ar": "مازندران",
-        "name:he": "תחנת משטרה 11 האפט-א תיר",
-        "city:he": "בהשהר",
-        "province:he": "מאזנדראן",
-        "name:tr": "11 Nolu Haft-e Tir Polis Merkezi",
-        "city:tr": "Behşehir",
-        "province:tr": "Mazenderan",
-        "name:ckb": "بنکەی پۆلیسی 11ی حەوتی تیر",
-        "city:ckb": "بێهشار",
-        "province:ckb": "مازەندەران",
-        "publicId": "Mzo2MjA0MQ",
-        "sourceId": "62041",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.293Z",
-        "updatedAt": "2026-03-13T04:41:06.293Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 85440,
       "geometry": {
         "type": "Point",
@@ -264460,104 +264417,6 @@
     },
     {
       "type": "Feature",
-      "id": 96089,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.87208051979542,
-          38.30412430393855
-        ]
-      },
-      "properties": {
-        "name:fa": "فرماندهی انتظامی",
-        "description": "فرماندهی انتظامی لوندویل محل نیروهای سرکوب",
-        "date": 1791957199,
-        "city": "لوندویل",
-        "province": "استان گیلان",
-        "name:en": "Law Enforcement Command",
-        "description:en": "Lavandvil Law Enforcement Command, a location for suppressive forces",
-        "city:en": "Lavandvil",
-        "province:en": "Gilan",
-        "name:ar": "قيادة الشرطة",
-        "description:ar": "قيادة الشرطة في لوندويل مقر لقوات القمع",
-        "city:ar": "لوندويل",
-        "province:ar": "جيلان",
-        "name:he": "מפקדת המשטרה",
-        "description:he": "מפקדת המשטרה בלונדוויל, מקום כוחות הדיכוי",
-        "city:he": "לונדוויל",
-        "province:he": "גילאן",
-        "name:tr": "Emniyet Komutanlığı",
-        "description:tr": "Lavandevil Emniyet Komutanlığı, baskı güçlerinin bulunduğu yer.",
-        "city:tr": "Lavandevil",
-        "province:tr": "Gilan",
-        "name:ckb": "فەرماندەیی ئینتیزامی",
-        "description:ckb": "فەرماندەیی ئینتیزامیی لەوەندویل، شوێنی هێزەکانی سەرکوتکەر",
-        "city:ckb": "لەوەندویل",
-        "province:ckb": "گیلان",
-        "id": "MzowNTRkN2M1NzNiNGE",
-        "publicId": "MzowNTRkN2M1NzNiNGE",
-        "sourceId": "054d7c573b4a",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-10-14T12:03:10.783Z",
-        "updatedAt": "2026-10-14T12:03:10.783Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 96090,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.872092086821795,
-          38.30420218203648
-        ]
-      },
-      "properties": {
-        "name:fa": "یگان امداد لوندویل",
-        "description": "یگان امداد لوندویل",
-        "date": 1791957219,
-        "city": "لوندویل",
-        "province": "استان گیلان",
-        "name:en": "Lavandevil Relief Unit",
-        "description:en": "Lavandevil Relief Unit",
-        "city:en": "Lavandevil",
-        "province:en": "Gilan",
-        "name:ar": "وحدة الإغاثة لوندويل",
-        "description:ar": "وحدة الإغاثة لوندويل",
-        "city:ar": "لوندويل",
-        "province:ar": "جيلان",
-        "name:he": "יחידת הסיוע לונדוויל",
-        "description:he": "יחידת הסיוע לונדוויל",
-        "city:he": "לונדוויל",
-        "province:he": "גילאן",
-        "name:tr": "Lavandevil İmdat Birliği",
-        "description:tr": "Lavandevil İmdat Birliği",
-        "city:tr": "Lavandevil",
-        "province:tr": "Gilan",
-        "name:ckb": "یەکەی فریاکەوتنی لەوەندەویل",
-        "description:ckb": "یەکەی فریاکەوتنی لەوەندەویل",
-        "city:ckb": "لەوەندەویل",
-        "province:ckb": "گیلان",
-        "id": "MzoyOTQ1ZTdmN2M2ZjU",
-        "publicId": "MzoyOTQ1ZTdmN2M2ZjU",
-        "sourceId": "2945e7f7c6f5",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-10-14T12:03:23.075Z",
-        "updatedAt": "2026-10-14T12:03:23.075Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 96091,
       "geometry": {
         "type": "Polygon",
@@ -266051,10 +265910,163 @@
         "createdAt": "2026-10-31T01:01:49.019Z",
         "updatedAt": "2026-10-31T01:01:49.019Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115080,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.856057561272024,
+              38.36097405856634
+            ],
+            [
+              48.85652685803947,
+              38.36101817305908
+            ],
+            [
+              48.85663936068883,
+              38.36030603582566
+            ],
+            [
+              48.85617970700636,
+              38.36025183748353
+            ],
+            [
+              48.856057561272024,
+              38.36097405856634
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس راه آستارا",
+        "description": "",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Astara Police Road",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "شرطة المرور آستارا",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "משטרת התנועה אסטארה",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara Polis Yolu",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "پۆلیسی ڕێگای ئاستارا",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzoyYmFmMTIzMjUzMmQ",
+        "publicId": "MzoyYmFmMTIzMjUzMmQ",
+        "sourceId": "2baf1232532d",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-01T19:22:51.297Z",
+        "updatedAt": "2026-11-01T19:22:51.297Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115102,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.87186048501519,
+              38.30427376658116
+            ],
+            [
+              48.8719925798807,
+              38.304337365558354
+            ],
+            [
+              48.87216907638367,
+              38.30438789621289
+            ],
+            [
+              48.87224677924709,
+              38.30440183569738
+            ],
+            [
+              48.87244103640407,
+              38.30402808233856
+            ],
+            [
+              48.87204697188608,
+              38.30392092192915
+            ],
+            [
+              48.871980369430815,
+              38.30402895356062
+            ],
+            [
+              48.87193707783683,
+              38.30408122687288
+            ],
+            [
+              48.871891566159235,
+              38.304155280667345
+            ],
+            [
+              48.87186048501519,
+              38.30427376658116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی نیرو انتظامی",
+        "description": "فرماندهی انتظامی لوندویل محل نیروهای سرکوب",
+        "date": "",
+        "city": "لوندویل",
+        "province": "استان گیلان",
+        "name:en": "Law Enforcement Command",
+        "description:en": "Levandevil Law Enforcement Command, location of suppression forces",
+        "city:en": "Levandevil",
+        "province:en": "Gilan",
+        "name:ar": "قيادة قوى الأمن الداخلي",
+        "description:ar": "قيادة قوى الأمن الداخلي في لوندويل، مقر القوات القمعية",
+        "city:ar": "لوندويل",
+        "province:ar": "جيلان",
+        "name:he": "מפקדת כוחות הציבור (נאג'ה)",
+        "description:he": "מפקדת השיטור של לונדוויל, מפקדת כוחות הדיכוי",
+        "city:he": "לונדוויל",
+        "province:he": "גילאן",
+        "name:tr": "Emniyet Müdürlüğü",
+        "description:tr": "Levandvil Emniyet Müdürlüğü, baskı güçlerinin konuşlandığı yerdir",
+        "city:tr": "Levandvil",
+        "province:tr": "Gilan",
+        "name:ckb": "فەرماندەیی هێزی انتظامی",
+        "description:ckb": "فەرماندەیی انتظامیی لەوندویل شوێنی هێزە سەرکوتکەرەکان",
+        "city:ckb": "لەوندویل",
+        "province:ckb": "گیلان",
+        "id": "MzpkMTZjZDg5M2UwYzM",
+        "publicId": "MzpkMTZjZDg5M2UwYzM",
+        "sourceId": "d16cd893e0c3",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-01T23:07:37.537Z",
+        "updatedAt": "2026-11-01T23:07:37.537Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6113,
+    "total": 6112,
     "layerId": 3,
     "clustered": false,
     "simplified": false

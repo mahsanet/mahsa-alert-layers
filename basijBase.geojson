@@ -16423,43 +16423,6 @@
     },
     {
       "type": "Feature",
-      "id": 4314,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          57.0517441,
-          26.7977278
-        ]
-      },
-      "properties": {
-        "id": "MToxMjE2OQ",
-        "city": "شهرستان سیریک",
-        "province": "استان هرمزگان",
-        "unofficial_name:fa": "پایگاه بسیج پالور",
-        "city:en": "Sirik County",
-        "province:en": "Hormozgan",
-        "city:ar": "مقاطعة سيريك",
-        "province:ar": "هرمزكان",
-        "city:he": "נפת סיריכ",
-        "province:he": "הורמוזגאן",
-        "city:tr": "Sirik Şehristanı",
-        "province:tr": "Hürmüzgan",
-        "city:ckb": "شارستانی سیریک",
-        "province:ckb": "ھورمزگان",
-        "publicId": "MToxMjE2OQ",
-        "sourceId": "12169",
-        "layerId": 1,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:52.552Z",
-        "updatedAt": "2026-03-11T20:52:52.552Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 4315,
       "geometry": {
         "type": "Point",
@@ -105363,10 +105326,138 @@
         "createdAt": "2026-10-31T17:01:52.839Z",
         "updatedAt": "2026-10-31T17:01:52.839Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115082,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.05050382252497,
+              26.798423486274103
+            ],
+            [
+              57.052089731457244,
+              26.798433764325836
+            ],
+            [
+              57.0520782185059,
+              26.797439358541098
+            ],
+            [
+              57.05163209167398,
+              26.797436789005218
+            ],
+            [
+              57.051637848149625,
+              26.79725435185196
+            ],
+            [
+              57.0505124572374,
+              26.79726206046982
+            ],
+            [
+              57.05050382252497,
+              26.798423486274103
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج پالور",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج پالور",
+        "date": "",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "name:en": "Palur Basij Base",
+        "description:en": "Palur Basij Base",
+        "city:en": "Sirik",
+        "province:en": "Hormozgan",
+        "name:ar": "قاعدة بسيج بالور",
+        "description:ar": "قاعدة بسيج بالور",
+        "city:ar": "مقاطعة سيريك",
+        "province:ar": "هرمزكان",
+        "name:he": "בסיס באסיג' פאלור",
+        "description:he": "בסיס באסיג' פאלור",
+        "city:he": "מחוז סיריכ",
+        "province:he": "הורמוזגאן",
+        "name:tr": "Palur Besiç Karargahı",
+        "description:tr": "Palur Besiç karargahı",
+        "city:tr": "Sirik",
+        "province:tr": "Hürmüzgan",
+        "name:ckb": "بنکەی بسیجی پالور",
+        "description:ckb": "بنکەی بسیجی پالور",
+        "city:ckb": "شارستانی سیریک",
+        "province:ckb": "ھورمزگان",
+        "id": "MTo0MGFhOTk2ODFmODk",
+        "publicId": "MTo0MGFhOTk2ODFmODk",
+        "sourceId": "40aa99681f89",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-01T19:24:27.958Z",
+        "updatedAt": "2026-11-01T19:24:27.958Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115093,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84010003879666,
+          38.38570767775124
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج عباس‌آباد",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج و نیروهای سرکوب",
+        "date": 1793519760,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Abbasabad Basij Base",
+        "description:en": "Basij base and suppression forces",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "قاعدة التعبئة (البسيج) في عباس آباد",
+        "description:ar": "قاعدة قوات التعبئة (البسيج) وقوات القمع",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "בסיס בסיג' עבאסאבאד",
+        "description:he": "בסיס בסיג' וכוחות דיכוי",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Abbasabat Besic Üssü",
+        "description:tr": "Besic üssü ve baskı güçleri",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بنکەی بسیجی عەباس‌آباد",
+        "description:ckb": "بنکەی بسیج و هێزە سەرکوتکەرەکان",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTpkYWRhNjkwMjIwNzY",
+        "publicId": "MTpkYWRhNjkwMjIwNzY",
+        "sourceId": "dada69022076",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-01T19:33:14.969Z",
+        "updatedAt": "2026-11-01T19:33:14.969Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2369,
+    "total": 2370,
     "layerId": 1,
     "clustered": false,
     "simplified": false

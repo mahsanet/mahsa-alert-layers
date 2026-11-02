@@ -249617,10 +249617,324 @@
         "createdAt": "2026-10-31T22:43:36.472Z",
         "updatedAt": "2026-10-31T22:43:36.472Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115083,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.05038855917499,
+              26.799453275623705
+            ],
+            [
+              57.050524253813165,
+              26.79947823123328
+            ],
+            [
+              57.050514353346614,
+              26.799521383628075
+            ],
+            [
+              57.05062384086517,
+              26.79954010032469
+            ],
+            [
+              57.05063257657173,
+              26.79949278866971
+            ],
+            [
+              57.05066169559231,
+              26.79949850766198
+            ],
+            [
+              57.05067043129887,
+              26.799458994617922
+            ],
+            [
+              57.05064131227826,
+              26.79945535525846
+            ],
+            [
+              57.050676255102644,
+              26.79930770112594
+            ],
+            [
+              57.050433984846904,
+              26.79925467036975
+            ],
+            [
+              57.05038855917499,
+              26.799453275623705
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "name:en": "Mosque",
+        "city:en": "Sirik County",
+        "province:en": "Hormozgan",
+        "name:ar": "مسجد",
+        "city:ar": "مقاطعة سيريك",
+        "province:ar": "هرمزكان",
+        "name:he": "מסגד",
+        "city:he": "נפת סיריק",
+        "province:he": "הורמוזגאן",
+        "name:tr": "Cami",
+        "city:tr": "Sirik",
+        "province:tr": "Hürmüzgan",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "شارستانی سیریک",
+        "province:ckb": "ھورمزگان",
+        "id": "NDoyZjA2OTE0MTc5NzI",
+        "publicId": "NDoyZjA2OTE0MTc5NzI",
+        "sourceId": "2f0691417972",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-01T19:25:09.509Z",
+        "updatedAt": "2026-11-01T19:25:09.509Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115084,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.055216290159706,
+              26.797034044544375
+            ],
+            [
+              57.055329676898964,
+              26.79706830562135
+            ],
+            [
+              57.05535468012815,
+              26.797006012746138
+            ],
+            [
+              57.05524013044874,
+              26.79696915611271
+            ],
+            [
+              57.055216290159706,
+              26.797034044544375
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "زیارتگاه شاه محمد",
+        "description": "",
+        "date": "",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "name:en": "Shah Mohammad Shrine",
+        "city:en": "Sirik County",
+        "province:en": "Hormozgan",
+        "name:ar": "مزار شاه محمد",
+        "city:ar": "مقاطعة سيريك",
+        "province:ar": "هرمزكان",
+        "name:he": "מקדש שאה מוחמד",
+        "city:he": "מחוז סיריק",
+        "province:he": "הורמוזגאן",
+        "name:tr": "Şah Muhammed Ziyaretgâhı",
+        "city:tr": "Sirik",
+        "province:tr": "Hürmüzgan",
+        "name:ckb": "مەزارگەی شا محەمەد",
+        "city:ckb": "شارستانی سیریک",
+        "province:ckb": "ھورمزگان",
+        "id": "NDoxYmEyNGEwN2UyYTY",
+        "publicId": "NDoxYmEyNGEwN2UyYTY",
+        "sourceId": "1ba24a07e2a6",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-01T19:25:36.335Z",
+        "updatedAt": "2026-11-01T19:25:36.335Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115089,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87229107320309,
+          38.42944737775457
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد عباسیه آستارا",
+        "description": "مسجد عباسیه واقع در آستارا",
+        "date": 1793557505,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Abbasieh Mosque of Astara",
+        "description:en": "Abbasieh Mosque located in Astara",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مسجد العباسية في آستارا",
+        "description:ar": "مسجد العباسية الواقع في آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסגד עבאסיה אסטארה",
+        "description:he": "מסגד עבאסיה הממוקם באסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara Abbasiye Camii",
+        "description:tr": "Astara'da bulunan Abbasiye Camii",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی عەباسیەی ئاستارا",
+        "description:ckb": "مزگەوتی عەباسیە کە لە ئاستارا هەڵکەوتووە",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDpmZTkxMjZkYWUyYjc",
+        "publicId": "NDpmZTkxMjZkYWUyYjc",
+        "sourceId": "fe9126dae2b7",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-01T19:31:26.565Z",
+        "updatedAt": "2026-11-01T19:31:26.565Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115090,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.81164649501443,
+          38.43954779832936
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد و دفتر امام جمعه عنبران",
+        "description": "مسجد و دفتر امام جمعه عنبران، کوی مسجد رسول اکرم، بخش مرکزی، دهستان ویرمونی",
+        "date": 1793521673,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Anbaran Mosque and Friday Imam Office",
+        "description:en": "Anbaran Mosque and Friday Imam Office, Rasoul Akram Mosque Alley, Central District, Virmuni Rural District",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "مسجد ومكتب إمام جمعة عنبران",
+        "description:ar": "مسجد ومكتب إمام جمعة عنبران، حي مسجد رسول أكرام، الناحية المركزية، قضاء ويرموني",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסגד ומשרד אימאם שישי של ענבראן",
+        "description:he": "מסגד ומשרד אימאם שישי של ענבראן, שכונת מסגד רסול אכרם, המחוז המרכזי, המועצה האזורית וירמוני",
+        "city:he": "מחוז אסתארא",
+        "province:he": "גילאן",
+        "name:tr": "Anbaran Cami ve Cuma İmamı Ofisi",
+        "description:tr": "Anbaran Cami ve Cuma İmamı Ofisi, Resul-i Ekrem Cami sokağı, Merkez bucağı, Virmuni köyü",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوت و دۆفتر پێشنوێژی هەینی ئەنەبران",
+        "description:ckb": "مزگەوت و دۆفتر پێشنوێژی هەینی ئەنەبران، کۆڵانی مزگەوتی ڕەسوولی ئەکرەم، ناوچەی ناوەندی، دێهستانی ڤیرموونی",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDpmN2I1YmI4ZWY5OTk",
+        "publicId": "NDpmN2I1YmI4ZWY5OTk",
+        "sourceId": "f7b5bb8ef999",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-01T19:31:57.824Z",
+        "updatedAt": "2026-11-01T19:31:57.824Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115091,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.8063036891748,
+              38.43145753602789
+            ],
+            [
+              48.80638910501412,
+              38.43160409882813
+            ],
+            [
+              48.806600173907896,
+              38.43152722252864
+            ],
+            [
+              48.80650699299218,
+              38.431374022752436
+            ],
+            [
+              48.8063036891748,
+              38.43145753602789
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد باب الحوائج عنبران",
+        "description": "",
+        "date": "",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Bab al-Havaiej Mosque of Anbaran",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "مسجد باب الحوائج عنبران",
+        "city:ar": "مقاطعة أستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסגד באב אל-חוואאג' ענבראן",
+        "city:he": "נפת אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Anbaran Babülhavaiç Camisi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی بابولحوائج عەنبەران",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDo2YmFlMzdhZTQ4ZTU",
+        "publicId": "NDo2YmFlMzdhZTQ4ZTU",
+        "sourceId": "6bae37ae48e5",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-01T19:32:25.606Z",
+        "updatedAt": "2026-11-01T19:32:25.606Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5769,
+    "total": 5774,
     "layerId": 4,
     "clustered": false,
     "simplified": false

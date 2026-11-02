@@ -2508,11 +2508,19 @@
     },
     {
       "type": "Feature",
-      "id": 115036,
+      "id": 115069,
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
+            [
+              61.261111,
+              25.175
+            ],
+            [
+              61.243056,
+              25.122222
+            ],
             [
               61.217222,
               25.1375
@@ -2522,65 +2530,58 @@
               25.180556
             ],
             [
-              61.243056,
-              25.122222
-            ],
-            [
               61.261111,
               25.175
-            ],
-            [
-              61.217222,
-              25.1375
             ]
           ]
         ]
       },
       "properties": {
         "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · چابهار",
-        "description": "تیراندازی توپخانه‌ای در محدوده مشخص‌شده انجام خواهد شد. این فعالیت از سطح زمین آغاز شده و تا سطح پرواز ۱۲۰ ادامه دارد.",
-        "notamNumber": "B0585/26",
+        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "B0586/26",
         "fir": "منطقه پروازی تهران (ایران)",
         "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "validFrom": "۱۴۰۵/۰۸/۱۰، ۰۶:۰۰",
+        "validFrom": "۱۴۰۵/۰۸/۱۰، ۰۷:۱۲",
         "validTo": "۱۴۰۵/۰۸/۱۶، ۰۰:۰۰",
         "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
         "notamSource": "FAA NMS-API",
-        "date": 1793500200,
+        "date": 1793504520,
         "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "B0585/26",
         "city": "شهرستان چابهار",
         "province": "استان سیستان و بلوچستان",
         "name:en": "Aeronautical Notice · Navigation Warning · Chabahar",
-        "description:en": "Artillery firing will be conducted in the specified area. This activity starts from ground level and continues up to flight level 120.",
-        "city:en": "Chabahar County",
+        "description:en": "Shooting will take place within the specified area.",
+        "city:en": "Chabahar",
         "province:en": "Sistan and Baluchestan",
-        "name:ar": "إشعار للطيران · تحذير ملاحي · جابهار",
-        "description:ar": "سيتم إجراء إطلاق نار مدفعي في المنطقة المحددة. ينطلق هذا النشاط من سطح الأرض ويستمر حتى مستوى الطيران 120.",
-        "city:ar": "مقاطعة جابهار",
+        "name:ar": "إشعار للطيران · تحذير ملاحي · تشابهار",
+        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
+        "city:ar": "مقاطعة تشابهار",
         "province:ar": "سيستان وبلوشستان",
         "name:he": "הודעת תעופה · אזהרת ניווט · צ'אבהאר",
-        "description:he": "ירי תותחים יבוצע באזור המוגדר. פעילות זו תתחיל מ his גובה פני הקרקע ותגיע עד לרום טיסה 120.",
-        "city:he": "נפת צ'אבהאר",
+        "description:he": "ירי יבוצע באזור המוגדר.",
+        "city:he": "מחוז צ'אבהאר",
         "province:he": "סיסתאן ובלוצ'יסתאן",
         "name:tr": "Havacılık Duyurusu · Seyrüsefer Uyarısı · Çabahar",
-        "description:tr": "Belirtilen alanda topçu atışı gerçekleştirilecektir. Bu faaliyet yer seviyesinden başlayıp 120 uçuş seviyesine kadar devam edecektir.",
+        "description:tr": "Belirtilen alanda atış yapılacaktır.",
         "city:tr": "Çabahar",
         "province:tr": "Sistan ve Belucistan",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · هشداری ڕێنیشاندانی دەریایی · چابهار",
-        "description:ckb": "تەقەی تۆپخانە لە سنووری دیاریکراودا ئەنجام دەدرێت. ئەم چالاکییە لە ئاستی زەوی دەست پێ دەکات و تا ئاستی فڕینی ١٢٠ بەردەوام دەبێت.",
-        "city:ckb": "چابهار",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشداریی ناوبەری · چابەهار",
+        "description:ckb": "تەقەکردن لە سنووری دیاریکراودا ئەنجام دەدرێت.",
+        "city:ckb": "چابەهار",
         "province:ckb": "سیستان و بەلووچستان",
-        "id": "Mzg6bm90YW0tb2lpeC1iMDU4NS0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1iMDU4NS0yNg",
-        "sourceId": "notam-oiix-b0585-26",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDU4Ni0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDU4Ni0yNg",
+        "sourceId": "notam-oiix-b0586-26",
         "layerId": 38,
         "type": "location",
         "status": "active",
         "urgency": null,
         "verificationTag": null,
         "expirationDate": "2026-11-06T20:30:00.000Z",
-        "createdAt": "2026-10-31T06:55:54.134Z",
-        "updatedAt": "2026-10-31T06:55:54.134Z"
+        "createdAt": "2026-11-01T04:01:25.263Z",
+        "updatedAt": "2026-11-01T04:01:25.263Z"
       }
     }
   ],

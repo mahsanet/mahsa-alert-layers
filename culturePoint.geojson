@@ -87003,48 +87003,6 @@
     },
     {
       "type": "Feature",
-      "id": 3514,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.5399302,
-          36.6845919
-        ]
-      },
-      "properties": {
-        "id": "MTc6MTIwMzM",
-        "city": "بهشهر",
-        "name:fa": "فرمانداری بهشهر",
-        "province": "استان مازندران",
-        "name:en": "Behshahr Governorate",
-        "city:en": "Behshahr",
-        "province:en": "Mazandaran",
-        "name:ar": "قائمقامية بهشهر",
-        "city:ar": "بهشهر",
-        "province:ar": "مازندران",
-        "name:he": "מושלות בהשהר",
-        "city:he": "בהשהר",
-        "province:he": "מאזנדראן",
-        "name:tr": "Behşehr Kaymakamlığı",
-        "city:tr": "Behşehr",
-        "province:tr": "Mazenderan",
-        "name:ckb": "فەرمانداریی بەهشەهر",
-        "city:ckb": "بەهشەهر",
-        "province:ckb": "مازەندەران",
-        "publicId": "MTc6MTIwMzM",
-        "sourceId": "12033",
-        "layerId": 17,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:52:43.739Z",
-        "updatedAt": "2026-03-11T20:52:43.739Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 3515,
       "geometry": {
         "type": "Polygon",
@@ -124335,7 +124293,7 @@
     }
   ],
   "metadata": {
-    "total": 2448,
+    "total": 2447,
     "layerId": 17,
     "clustered": false,
     "simplified": false

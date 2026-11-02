@@ -20653,10 +20653,60 @@
         "createdAt": "2026-10-31T23:57:30.099Z",
         "updatedAt": "2026-10-31T23:57:30.099Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.49084724485874,
+          35.68025178881783
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حامیان حکومت",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1793555426,
+        "description": "تجمع حامیان حکومت و پرچم‌گردانی در بلوار ائمه اطهار، ابوذر، منطقه ۱۴ تهران.",
+        "sources": "",
+        "name:en": "Pro-government supporters rally",
+        "description:en": "Pro-government supporters rally and flag-waving on Aemeh Azhar Boulevard, Abouzar, District 14 of Tehran.",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "تجمع مؤيدي الحكومة",
+        "description:ar": "تجمع لمؤيدي الحكومة ورفع الأعلام في شارع أئمة أطهار، أبوذر، المنطقة 14 طهران.",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "עצרת תומכי המשטר",
+        "description:he": "עצרת תומכי המשטר והנפת דגלים בשדרות אימה אטהאר, אבוזר, אזור 14 בטהראן.",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Hükümet Yanlılarının Mitingi",
+        "description:tr": "Tahran'ın 14. Bölgesi, Ebuzer, Eimme-i Etahar Bulvarı'nda hükümet yanlılarının mitingi ve bayrak sallama etkinliği.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "خۆپیشاندانی لایەنگرانی حکوومەت",
+        "description:ckb": "خۆپیشاندانی لایەنگرانی حکوومەت و ئاڵاگێڕان لە بلواری ئەئیممەی ئەتهار، ئەبووزەر، ناوچەی ١٤ی تاران.",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDA6YzNmNmJiMzYyODJi",
+        "publicId": "NDA6YzNmNmJiMzYyODJi",
+        "sourceId": "c3f6bb36282b",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-01T19:23:23.848Z",
+        "updatedAt": "2026-11-01T19:23:23.848Z"
+      }
     }
   ],
   "metadata": {
-    "total": 420,
+    "total": 421,
     "layerId": 40,
     "clustered": false,
     "simplified": false

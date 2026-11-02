@@ -13813,10 +13813,110 @@
         "createdAt": "2026-10-31T17:00:07.916Z",
         "updatedAt": "2026-10-31T17:00:07.916Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32440795004368,
+          31.84777508463175
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "یزد",
+        "province": "استان یزد",
+        "date": 1793557634,
+        "description": "ایست بازرسی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش",
+        "city:ar": "يزد",
+        "province:ar": "يزد",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה",
+        "city:he": "יזד",
+        "province:he": "יזד",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Kontrol noktası",
+        "city:tr": "Yezd",
+        "province:tr": "Yezd",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنین",
+        "city:ckb": "یەزد",
+        "province:ckb": "یەزد",
+        "id": "Mzk6OTAwZmFkZGU4ZmYx",
+        "publicId": "Mzk6OTAwZmFkZGU4ZmYx",
+        "sourceId": "900fadde8ff1",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-01T19:22:09.518Z",
+        "updatedAt": "2026-11-01T19:22:09.518Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41085673123598,
+          35.70123661029798
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1793569499,
+        "description": "تست الکل",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Alcohol test",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "فحص كحول",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מחסום בדיקה",
+        "description:he": "בדיקת אלכוהול",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Alkol testi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "تاقیکردنەوەی مەستبوون",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzk6YWY1ZjY4NGRiNTU1",
+        "publicId": "Mzk6YWY1ZjY4NGRiNTU1",
+        "sourceId": "af5f684db555",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-01T23:02:51.442Z",
+        "updatedAt": "2026-11-01T23:02:51.442Z"
+      }
     }
   ],
   "metadata": {
-    "total": 284,
+    "total": 286,
     "layerId": 39,
     "clustered": false,
     "simplified": false
