@@ -22685,10 +22685,60 @@
         "createdAt": "2026-10-31T22:44:20.817Z",
         "updatedAt": "2026-10-31T22:44:39.154Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.57806469500065,
+          35.92294897679861
+        ]
+      },
+      "properties": {
+        "name:fa": "کارخانه تولید لانچر موشک",
+        "description": "گزارش شده در این کارخانه لانچر موشک‌های دور برد شهر موشکی تولید و تامین می‌شود.",
+        "date": 1793516423,
+        "city": "شهرستان نظرآباد",
+        "province": "استان البرز",
+        "sources": "",
+        "name:en": "Missile Launcher Manufacturing Factory",
+        "description:en": "It has been reported that this factory produces and supplies long-range missile launchers for the missile city.",
+        "city:en": "Nazarabad County",
+        "province:en": "Alborz",
+        "name:ar": "مصنع إنتاج منصات إطلاق الصواريخ",
+        "description:ar": "أفادت التقارير أن هذا المصنع ينتج ويزود منصات إطلاق الصواريخ بعيدة المدى للمدينة الصاروخية.",
+        "city:ar": "مقاطعة نظر أباد",
+        "province:ar": "ألبرز",
+        "name:he": "מפעל לייצור משגרי טילים",
+        "description:he": "דווח כי במפעל זה מיוצרים ומסופקים משגרי טילים לטווח ארוך עבור \"עיר הטילים\".",
+        "city:he": "נזראבאד",
+        "province:he": "אלבורז",
+        "name:tr": "Füze Fırlatıcı Üretim Fabrikası",
+        "description:tr": "Bu fabrikada füze şehrinin uzun menzilli füze fırlatıcılarının üretildiği ve tedarik edildiği bildirilmiştir.",
+        "city:tr": "Nazarabad",
+        "province:tr": "Elburz",
+        "name:ckb": "کارگەی بەرھەمھێنانی لانچەری موشەک",
+        "description:ckb": "ڕاگەیەندراوە کە لەم کارگەیەدا لانچەری موشەکە دوورمەوداکانی شارۆچکەی موشەکی بەرھەم دێت و دابین دەکرێت.",
+        "city:ckb": "شارستانی نەزەرئاباد",
+        "province:ckb": "ئەلبورز",
+        "id": "NzowYzAyODRmNTdlYjE",
+        "publicId": "NzowYzAyODRmNTdlYjE",
+        "sourceId": "0c0284f57eb1",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-02T06:22:07.615Z",
+        "updatedAt": "2026-11-02T06:22:07.615Z"
+      }
     }
   ],
   "metadata": {
-    "total": 211,
+    "total": 212,
     "layerId": 7,
     "clustered": false,
     "simplified": false

@@ -2354,83 +2354,6 @@
     },
     {
       "type": "Feature",
-      "id": 114855,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              60.775556,
-              31.758056
-            ],
-            [
-              60.775556,
-              31.615556
-            ],
-            [
-              60.676667,
-              31.615556
-            ],
-            [
-              60.676667,
-              31.758056
-            ],
-            [
-              60.775556,
-              31.758056
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نهبندان",
-        "description": "عملیات تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
-        "notamNumber": "A2447/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "validFrom": "۱۴۰۵/۰۸/۰۵، ۱۵:۵۴",
-        "validTo": "۱۴۰۵/۰۸/۳۰، ۲۳:۰۰",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamSource": "FAA NMS-API",
-        "date": 1793103840,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "replaces": "A2352/26",
-        "city": "شهرستان نهبندان",
-        "province": "استان خراسان جنوبی",
-        "name:en": "Aviation Notice · Navigation Warning · Nehbandan",
-        "description:en": "Firing operations will be conducted in the specified area.",
-        "city:en": "Nehbandan County",
-        "province:en": "South Khorasan",
-        "name:ar": "إشعار طيران · تحذير ملاحي · نهبندان",
-        "description:ar": "ستُجرى عمليات إطلاق نار في المنطقة المحددة.",
-        "city:ar": "مقاطعة نهبندان",
-        "province:ar": "خراسان الجنوبية",
-        "name:he": "הודעה תעופתית · אזהרת ניווט · נהבנדאן",
-        "description:he": "פעילות ירי תתבצע באזור המוגדר.",
-        "province:he": "ח'וראסאן הדרומית",
-        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Nehbandan",
-        "description:tr": "Belirtilen alanda atış operasyonu gerçekleştirilecektir.",
-        "city:tr": "Nehbandan İlçesi",
-        "province:tr": "Güney Horasan",
-        "name:ckb": "ڕاگەیەندراوی فڕین · ئاگاداریی ڕێناو · نهبەندان",
-        "description:ckb": "کردەی تەقەکردن لە ناوچەی دیاریکراودا ئەنجام دەدرێت.",
-        "city:ckb": "شارستانی نهبەندان",
-        "province:ckb": "خوراسانی باشوور",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjQ0Ny0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQ0Ny0yNg",
-        "sourceId": "notam-oiix-a2447-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-11-21T19:30:00.000Z",
-        "createdAt": "2026-10-27T12:35:51.030Z",
-        "updatedAt": "2026-10-27T12:35:51.030Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 114932,
       "geometry": {
         "type": "Polygon",
@@ -2582,6 +2505,124 @@
         "expirationDate": "2026-11-06T20:30:00.000Z",
         "createdAt": "2026-11-01T04:01:25.263Z",
         "updatedAt": "2026-11-01T04:01:25.263Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115114,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.133333,
+              25.766667
+            ],
+            [
+              56.833333,
+              25.716667
+            ],
+            [
+              57.183333,
+              25.2
+            ],
+            [
+              57.8,
+              24.666667
+            ],
+            [
+              58.8,
+              24.366667
+            ],
+            [
+              59.35,
+              23.983333
+            ],
+            [
+              60.9,
+              22.733333
+            ],
+            [
+              61.383333,
+              20.716667
+            ],
+            [
+              64.2,
+              20.5
+            ],
+            [
+              64.916667,
+              22.733333
+            ],
+            [
+              65.666667,
+              23.433333
+            ],
+            [
+              61.35,
+              24.7
+            ],
+            [
+              61.416667,
+              24.8
+            ],
+            [
+              59.433333,
+              25.133333
+            ],
+            [
+              58.966667,
+              25.116667
+            ],
+            [
+              57.5,
+              25.483333
+            ],
+            [
+              57.133333,
+              25.766667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · تغییر در منطقه پروازی · منطقه پروازی تهران (ایران)",
+        "description": "سازمان هواپیمایی کشوری ایران هشدار ایمنی و امنیتی برای فضای جوی صادر کرده است. وضعیت خطرناکی آب‌های آزاد در محدوده مشخص‌شده را از سطح متوسط دریا تا سطح پرواز ۱۰۰ تهدید می‌کند. این شرایط به دلیل افزایش فعالیت‌های نظامی و نیروی دریایی، جنگ الکترونیک و آمادگی پدافند هوایی ایجاد شده و خطراتی مانند شناسایی اشتباه هواپیماهای مسافربری، اختلال در سامانه ناوبری و ارتباطات، محدودیت‌های ناگهانی و بسته شدن مسیرها را به همراه دارد. به همه بهره‌برداران هوایی ایرانی توصیه شده است که احتیاط کامل را رعایت کنند، ارزیابی‌های ریسک را انجام دهند و دستورالعمل‌های کنترل ترافیک جوی را به سرعت اجرا نمایند.",
+        "notamNumber": "A2462/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "تغییر در منطقه اطلاعات پرواز (FIR)",
+        "validFrom": "۱۴۰۵/۰۸/۰۶، ۱۳:۰۷",
+        "validTo": "۱۴۰۵/۰۸/۳۰، ۰۰:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1793180220,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "A1980/26",
+        "name:en": "Aviation Notice · Change in Flight Zone · Tehran Flight Zone (Iran)",
+        "description:en": "The Civil Aviation Organization of Iran has issued a safety and security warning for the airspace. Hazardous conditions threaten open waters within the specified area from mean sea level up to flight level 100. These conditions are caused by increased military and naval activities, electronic warfare, and air defense readiness, posing risks such as misidentification of passenger aircraft, disruption of navigation and communication systems, sudden restrictions, and route closures. All Iranian aviation operators are advised to exercise extreme caution, conduct risk assessments, and promptly implement air traffic control directives.",
+        "name:he": "הודעת תעופה · שינוי באזור הטיסה · אזור הטיסה טהראן (איראן)",
+        "description:he": "רשות התעופה האזרחית של איראן הוציאה אזהרת בטיחות וביטחון למרחב האווירי. מצב מסוכן במים הבינלאומיים באזור המוגדר מאיים מגובה פני הים ועד לנתיב הטיסה 100. תנאים אלה נוצרו עקב הגברת הפעילות הצבאית והימית, לוחמה אלקטרונית וכושר ספיגה ומוכנות של ההגנה האווירית, והם טומנים בחובם סיכונים כגון זיהוי שגוי של מטוסים אזרחיים, שיבושים במערכות הניווט והתקשורת, הגבלות פתאומיות וחסימת נתיבים. לכל מפעילי התעופה האיראניים מומלץ לנקוט זהירות מרבית, לבצע הערכות סיכונים וליישם במהירות את הנחיות בקרת התנועה האווירית.",
+        "name:tr": "Havacılık Bildirisi · Uçuş Bölgesinde Değişiklik · Tahran Uçuş Bölgesi (İran)",
+        "description:tr": "İran Sivil Havacılık Kurumu, hava sahası için güvenlik ve emniyet uyarısında bulundu. Deniz seviyesinden 100. uçuş seviyesine kadar olan belirtilen alandaki açık suları tehlikeli bir durum tehdit etmektedir. Bu koşullar, artan askeri ve deniz kuvvetleri faaliyetleri, elektronik harp ve hava savunma hazırlığı nedeniyle ortaya çıkmış olup; yolcu uçaklarının yanlış tanımlanması, seyrüsefer ve iletişim sistemlerinde aksama, ani kısıtlamalar ve rotaların kapanması gibi riskleri beraberinde getirmektedir. Tüm İranlı hava işletmecilerine tam bir ihtiyat göstermeleri, risk değerlendirmeleri yapmaları ve hava trafik kontrol talimatlarını acilen uygulamaları tavsiye edilmiştir.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · گۆڕانکاری لە ناوچەی فڕیندا · ناوچەی فڕینی تاران (ئیران)",
+        "description:ckb": "ڕێکخراوی فڕۆکەوانیی مەدەنیی ئیران هۆشدارییەکی سەلامەتی و ئەمنیی بۆ بۆشایی ئاسمانی دەرکردووە. دۆخێکی مەترسیدار ئاوە ئازادەکان لە ناوچەی دیاریکراودا لە ئاستی دەریاوە هەتا ئاستی فڕینی ١٠٠ دەخاتە مەترسییەوە. ئەم دۆخە بەهۆی زیادبوونی چالاکییە سەربازی و دەریاییەکان، جەنگی ئەلیکترۆنی و ئامادەییی پەیڤەنداریی ئاسمانی دروست بووە و مەترسییەکانی وەک ناسینەوەی هەڵەی فڕۆکە گەشتیارییەکان، تێکچوونی سیستەمی ناوبەری و پەیوەندییەکان، سنووردارکردنە لەپڕەکان و داخستنی ڕێڕەوەکان بەدوای خۆیدا دەهێنێت. بە هەموو بەکارهێنەرانەی فڕۆکەوانیی ئیرانی ڕێنمایی دراوە کە تەواوی وریایی بپارێزن، هەڵسەنگاندنی مەترسییەکان ئەنجام بدەن و ڕێنماییەکانی کۆنترۆڵی ترافیکی ئاسمانی بە خێرایی جێبەجێ بکەن.",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "name:ar": "إشعار طيران · تغيير في منطقه الطيران · منطقه طيران طهران (إيران)",
+        "description:ar": "أصدرت سازمان الطيران المدني الإيراني تحذيراً أمنياً وسلامياً للمجال الجوي. يهدد وضع خطير المياه الدولية في المنطقة المحددة من مستوى سطح البحر حتى مستوى الطيران 100. ونشأت هذه الظروف بسبب زيادة النشاطات العسكرية والبحرية، والحرب الإلكترونية، وجاهزية الدفاع الجوي، وتجلب معها مخاطر مثل الخطأ في تحديد هوية طائرات الركاب، والاضطراب في نظام الملاحة والاتصالات، والقيود المفاجئة وإغلاق المسارات. وتُوصى جميع الشركات والمشغلين الجويين الإيرانيين بتوخي الحذر الكامل، وإجراء تقييمات المخاطر، وتنفيذ تعليمات مراقبة الحركة الجوية بسرعة.",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjQ2Mi0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQ2Mi0yNg",
+        "sourceId": "notam-oiix-a2462-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-20T20:30:00.000Z",
+        "createdAt": "2026-11-02T07:35:35.185Z",
+        "updatedAt": "2026-11-02T07:35:35.185Z"
       }
     }
   ],

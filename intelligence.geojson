@@ -19877,10 +19877,69 @@
         "createdAt": "2026-10-31T17:05:31.013Z",
         "updatedAt": "2026-10-31T17:05:31.013Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115104,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.179560354098214,
+              33.72456832836836
+            ],
+            [
+              59.180328789352046,
+              33.724092873941984
+            ],
+            [
+              59.180898235863935,
+              33.7247338563284
+            ],
+            [
+              59.180425370430925,
+              33.72554032707325
+            ],
+            [
+              59.179560354098214,
+              33.72456832836836
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "اداره اطلاعات شهرستان قاینات",
+        "description": "",
+        "date": "",
+        "city": "قاين",
+        "province": "استان خراسان جنوبی",
+        "city:en": "Qaen",
+        "province:en": "South Khorasan",
+        "city:ar": "قائن",
+        "province:ar": "خراسان الجنوبية",
+        "city:he": "קאין",
+        "province:he": "ח'וראסאן הדרומית",
+        "city:tr": "Kain",
+        "province:tr": "Güney Horasan",
+        "city:ckb": "قاین",
+        "province:ckb": "خوراسانی باشوور",
+        "id": "MjpkM2EyZDFkNDY0NmQ",
+        "publicId": "MjpkM2EyZDFkNDY0NmQ",
+        "sourceId": "d3a2d1d4646d",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-02T06:15:17.865Z",
+        "updatedAt": "2026-11-02T06:15:17.865Z"
+      }
     }
   ],
   "metadata": {
-    "total": 371,
+    "total": 372,
     "layerId": 2,
     "clustered": false,
     "simplified": false

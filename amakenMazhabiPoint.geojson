@@ -249931,10 +249931,142 @@
         "createdAt": "2026-11-01T19:32:25.606Z",
         "updatedAt": "2026-11-01T19:32:25.606Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115105,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.17627934315718,
+              33.721582005655236
+            ],
+            [
+              59.1763976864944,
+              33.721708850648184
+            ],
+            [
+              59.17659416677765,
+              33.721547296793204
+            ],
+            [
+              59.17651451260815,
+              33.72146525760999
+            ],
+            [
+              59.176471271773266,
+              33.72146210225567
+            ],
+            [
+              59.17627934315718,
+              33.721582005655236
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "قاين",
+        "province": "استان خراسان جنوبی",
+        "name:en": "Mosque",
+        "city:en": "Qaen",
+        "province:en": "South Khorasan",
+        "name:ar": "مسجد",
+        "city:ar": "قائن",
+        "province:ar": "خراسان الجنوبية",
+        "name:he": "מסגד",
+        "city:he": "קאין",
+        "province:he": "ח'וראסאן הדרומית",
+        "name:tr": "Cami",
+        "city:tr": "Kain",
+        "province:tr": "Güney Horasan",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "قایین",
+        "province:ckb": "خوراسانی باشوور",
+        "id": "NDo2YjE1YWVjNWM3NGM",
+        "publicId": "NDo2YjE1YWVjNWM3NGM",
+        "sourceId": "6b15aec5c74c",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-02T06:15:48.461Z",
+        "updatedAt": "2026-11-02T06:15:48.461Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115112,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.601231558089665,
+              35.95737377634477
+            ],
+            [
+              50.60140725866319,
+              35.95752884989233
+            ],
+            [
+              50.601630501743415,
+              35.95731297404335
+            ],
+            [
+              50.601480294978785,
+              35.95717184558505
+            ],
+            [
+              50.601231558089665,
+              35.95737377634477
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد قمر بنی هاشم",
+        "description": "",
+        "date": "",
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "name:en": "Qamar-e Bani Hashem Mosque",
+        "city:en": "Nazarabad",
+        "province:en": "Alborz",
+        "name:ar": "مسجد قمر بني هاشم",
+        "city:ar": "نَظَر أباد",
+        "province:ar": "ألبرز",
+        "name:he": "מסג'ד קמר בני האשם",
+        "city:he": "נזר אבאד",
+        "province:he": "אלבורז",
+        "name:tr": "Kamer Benu Haşim Mescidi",
+        "city:tr": "Nazarabad",
+        "province:tr": "Elburz",
+        "name:ckb": "مزگەوتی قەمەر بەنی هاشم",
+        "city:ckb": "نەزەرئاباد",
+        "province:ckb": "ئەلبورز",
+        "id": "NDpkNmQwMDA5NjdiYjQ",
+        "publicId": "NDpkNmQwMDA5NjdiYjQ",
+        "sourceId": "d6d000967bb4",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-02T06:25:25.137Z",
+        "updatedAt": "2026-11-02T06:25:25.137Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5774,
+    "total": 5776,
     "layerId": 4,
     "clustered": false,
     "simplified": false

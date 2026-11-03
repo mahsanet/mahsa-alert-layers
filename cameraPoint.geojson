@@ -818638,10 +818638,61 @@
         "createdAt": "2026-11-01T23:06:17.968Z",
         "updatedAt": "2026-11-01T23:06:17.968Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61133448034525,
+          35.96582963396919
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1793514738,
+        "addressDescription": "",
+        "description": "پس از ۱۸ و ۱۹ دی دوربین نظارتی جهت کنترل رفت‌وآمدها و شناسایی مردم در اطراف فرمانداری نظرآباد نصب گردید.",
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "name:en": "Surveillance Camera",
+        "description:en": "Following January 8 and 9, a surveillance camera was installed to control traffic and identify people around the Nazarabad Governor's Office.",
+        "city:en": "Nazarabad",
+        "province:en": "Alborz",
+        "name:ar": "كاميرا مراقبة",
+        "description:ar": "بعد يومي 18 و19 دي (ديسمبر/يناير)، تم تركيب كاميرا مراقبة حول مبنى قائمقامية نظر آباد للتحكم في حركة المرور والتعرف على المواطنين.",
+        "city:ar": "نظر آباد",
+        "province:ar": "ألبرز",
+        "name:he": "מצלמת מעקב",
+        "description:he": "לאחר 18 ו-19 בטר (8 ו-9 בינואר), הותקנה מצלמת מעקב סביב בניין הממשל המקומי (פורמנדארי) בנזר-אבאד לצורך פיקוח על התנועה וזיהוי אנשים.",
+        "city:he": "נזר-אבאד",
+        "province:he": "אלבורז",
+        "name:tr": "Gözetim Kamerası",
+        "description:tr": "18 ve 19 Dey'den sonra, Nazarabad Kaymakamlığı çevresinde geçişleri kontrol etmek ve halkı tespit etmek amacıyla gözetim kamerası monte edildi.",
+        "city:tr": "Nazarabad",
+        "province:tr": "Elburz",
+        "name:ckb": "کامێرای چاودێری",
+        "description:ckb": "دوای ١٨ و ١٩ی دی، کامێرای چاودێری بە مەبەستی کۆنتڕۆڵکردنی هاتوچۆ و ناسینەوەی خەڵک لە دەوروبەری فرمانداریی نەزەڕاوا دانرا.",
+        "city:ckb": "نەزەڕاوا",
+        "province:ckb": "ئەلبورز",
+        "id": "MjA6M2FkNGQxZGViYjM4",
+        "publicId": "MjA6M2FkNGQxZGViYjM4",
+        "sourceId": "3ad4d1debb38",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-02T06:17:07.481Z",
+        "updatedAt": "2026-11-02T06:17:07.481Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18680,
+    "total": 18681,
     "layerId": 20,
     "clustered": false,
     "simplified": false

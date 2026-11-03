@@ -92279,10 +92279,60 @@
         "createdAt": "2026-10-31T22:41:41.992Z",
         "updatedAt": "2026-10-31T22:42:27.516Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.577407553792,
+          35.91916079448747
+        ]
+      },
+      "properties": {
+        "name:fa": "کارخانه اروانوس فوم",
+        "unofficial_name:fa": "",
+        "description": "گزارش شده کارخانه با پوشش تولید فوم، مورد استفاده برای تولیدات مهمات سپاه پاسداران.",
+        "date": 1793516229,
+        "city": "شهرستان نظرآباد",
+        "province": "استان البرز",
+        "name:en": "Arvanus Foam Factory",
+        "description:en": "It is reported that the factory, covered as a foam production facility, is used for the manufacturing of Islamic Revolutionary Guard Corps (IRGC) munitions.",
+        "city:en": "Nazarabad County",
+        "province:en": "Alborz",
+        "name:ar": "مصنع أروانوس فوم",
+        "description:ar": "أُفيد بأنه مصنع تحت غطاء إنتاج الرغوة، يُستخدم لإنتاج الذخائر لصالح الحرس الثوري.",
+        "city:ar": "مقاطعة نظر أباد",
+        "province:ar": "ألبرز",
+        "name:he": "מפעל ארוואנוס פום",
+        "description:he": "דווח כי המפעל פועל תחת כיסוי של ייצור קצף פוליסטירן (פום), אך משמש לייצור תחמושת עבור משמרות המהפכה.",
+        "city:he": "נזראבאד",
+        "province:he": "אלבורז",
+        "name:tr": "Arvanus Köpük Fabrikası",
+        "description:tr": "Köpük üretim tesisi görünümlü fabrikanın, Devrim Muhafızları Ordusu'nun mühimmat üretiminde kullanıldığı bildirildi.",
+        "city:tr": "Nazarabad",
+        "province:tr": "Elburz",
+        "name:ckb": "کارگەی ئەروانۆس فۆم",
+        "description:ckb": "راپۆرت دراوە کە کارگەکە بە ڕووپۆشی بەرھەمھێنانی فۆم، بۆ بەرھەمھێنانی تەقەمەنی سوپای پاسداران بەکار دێت.",
+        "city:ckb": "شارستانی نەزەرئاباد",
+        "province:ckb": "ئەلبورز",
+        "id": "MTI6OGRkZjc3Yjk2MzJm",
+        "publicId": "MTI6OGRkZjc3Yjk2MzJm",
+        "sourceId": "8ddf77b9632f",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-02T06:22:49.303Z",
+        "updatedAt": "2026-11-02T06:22:49.303Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1119,
+    "total": 1120,
     "layerId": 12,
     "clustered": false,
     "simplified": false
