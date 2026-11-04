@@ -88155,48 +88155,6 @@
     },
     {
       "type": "Feature",
-      "id": 45557,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          50.9159734,
-          35.4861864
-        ]
-      },
-      "properties": {
-        "id": "MjU6Mzc2MzE",
-        "city": "شهرجدیدپرند",
-        "name:fa": "بیمارستان مهر ایرانیان",
-        "province": "استان تهران",
-        "name:en": "Mehr Iranian Hospital",
-        "city:en": "Parand New City",
-        "province:en": "Tehran",
-        "name:ar": "مستشفى مهر إيرانيان",
-        "city:ar": "مدينة برند الجديدة",
-        "province:ar": "طهران",
-        "name:he": "בית החולים מהר איראניאן",
-        "city:he": "פארנד החדשה",
-        "province:he": "טהראן",
-        "name:tr": "Mehr-e İranian Hastanesi",
-        "city:tr": "Parand Yeni Şehri",
-        "province:tr": "Tahran",
-        "name:ckb": "نەخۆشخانەی مێهری ئێرانییان",
-        "city:ckb": "شاری نوێی پەڕەند",
-        "province:ckb": "تاران",
-        "publicId": "MjU6Mzc2MzE",
-        "sourceId": "37631",
-        "layerId": 25,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:57:47.337Z",
-        "updatedAt": "2026-03-11T20:57:47.337Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 45558,
       "geometry": {
         "type": "Point",
@@ -148372,7 +148330,7 @@
     }
   ],
   "metadata": {
-    "total": 3534,
+    "total": 3533,
     "layerId": 25,
     "clustered": false,
     "simplified": false

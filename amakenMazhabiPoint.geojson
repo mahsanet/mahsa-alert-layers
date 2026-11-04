@@ -237694,28 +237694,28 @@
       },
       "properties": {
         "name:fa": "مسجد جامع دهستان",
-        "description": "مسجد جامع دهستان ویرمونی",
+        "description": "مسجد جامع دهستان ویرمونی محل اقامه نماز جمعه و تجمع نیروهای حکومتی روستای ویرمونی",
         "date": 1771305919,
         "city": "شهرستان آستارا",
         "province": "استان گیلان",
-        "name:en": "Rural District Jameh Mosque",
-        "description:en": "Jameh Mosque of Virmuni Rural District",
+        "name:en": "Dehestan Jame Mosque",
+        "description:en": "The Jame Mosque of Dehestan in Virmooni is the venue for Friday prayers and the gathering of government forces in the village of Virmooni.",
         "city:en": "Astara County",
         "province:en": "Gilan",
-        "name:ar": "مسجد القرية الجامع",
-        "description:ar": "مسجد قرية ويرموني الجامع",
+        "name:ar": "المسجد الجامع في الناحية",
+        "description:ar": "المسجد الجامع في ناحية ويرموني هو مكان إقامة صلاة الجمعة وتجمع القوات الحكومية في قرية ويرموني.",
         "city:ar": "مقاطعة آستارا",
         "province:ar": "جيلان",
         "name:he": "המסגד הגדול של המועצה האזורית",
-        "description:he": "המסגד הגדול של המועצה האזורית וירמוני",
+        "description:he": "המסגד הגדול של המועצה האזורית וירמוני, מקום קיומן של תפילות יום שישי ומקום התכנסות של כוחות השלטון בכפר וירמוני.",
         "city:he": "מחוז אסטארה",
         "province:he": "גילאן",
-        "name:tr": "Belde Ulu Camii",
-        "description:tr": "Virmuni Beldesi Ulu Camii",
-        "city:tr": "Astara İlçesi",
+        "name:tr": "Dehistan Merkez Camii",
+        "description:tr": "Virmuni köyünün Virmuni Merkez Camii, Cuma namazının kılındığı ve hükümet güçlerinin toplandığı yerdir.",
+        "city:tr": "Astara",
         "province:tr": "Gilan",
-        "name:ckb": "مزگەوتی جامعەی گوندەوار",
-        "description:ckb": "مزگەوتی جامعەی گوندەواری ویرمونی",
+        "name:ckb": "مزگەوتی گەورەی دەهستان",
+        "description:ckb": "مزگەوتی گەورەی دەهستانی ڤیرموونی شوێنی ئەنجامدانی نۆێژی هەینی و کۆبوونەوەی هێزە حکومییەکانی گوندی ڤیرموونییە",
         "city:ckb": "شارستانی ئاستارا",
         "province:ckb": "گیلان",
         "id": "NDo4YjBjMDU5NDA0OWI",
@@ -237728,7 +237728,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-02-17T05:25:19.555Z",
-        "updatedAt": "2026-03-27T22:03:38.322Z"
+        "updatedAt": "2026-11-03T17:31:55.999Z"
       }
     },
     {
@@ -250063,10 +250063,518 @@
         "createdAt": "2026-11-02T06:25:25.137Z",
         "updatedAt": "2026-11-02T06:25:25.137Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115144,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.6295230195048,
+              38.141967187113295
+            ],
+            [
+              45.62978873912087,
+              38.142021517566064
+            ],
+            [
+              45.62988217898584,
+              38.14179271721605
+            ],
+            [
+              45.62959893939424,
+              38.141723082184484
+            ],
+            [
+              45.6295230195048,
+              38.141967187113295
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "شندآباد",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Mosque",
+        "city:en": "Shandabad",
+        "province:en": "East Azerbaijan",
+        "name:ar": "مسجد",
+        "city:ar": "شند آباد",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "מסגד",
+        "city:he": "שנדאבאד",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Cami",
+        "city:tr": "Şendâbâd",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "شەنداباد",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "NDplMDUzNjc1MWE2Y2U",
+        "publicId": "NDplMDUzNjc1MWE2Y2U",
+        "sourceId": "e0536751a6ce",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:37:38.105Z",
+        "updatedAt": "2026-11-03T17:37:38.105Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115145,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.63218165925733,
+              38.14284859728829
+            ],
+            [
+              45.63235924027566,
+              38.14296048295773
+            ],
+            [
+              45.63252170801553,
+              38.1428783014654
+            ],
+            [
+              45.63250281641788,
+              38.14276146496772
+            ],
+            [
+              45.63226100396719,
+              38.142749583279254
+            ],
+            [
+              45.63218165925733,
+              38.14284859728829
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شندآباد",
+        "province": "استان آذربایجان شرقی",
+        "city:en": "Shandabad",
+        "province:en": "East Azerbaijan",
+        "city:ar": "شندآباد",
+        "province:ar": "أذربيجان الشرقية",
+        "city:he": "שנדאבאד",
+        "province:he": "אזרבייג'ן המזרחית",
+        "city:tr": "Şendâbâd",
+        "province:tr": "Doğu Azerbaycan",
+        "city:ckb": "شەنداباد",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "NDo0ODc3OTY4YTIyNzk",
+        "publicId": "NDo0ODc3OTY4YTIyNzk",
+        "sourceId": "4877968a2279",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:38:01.080Z",
+        "updatedAt": "2026-11-03T17:38:01.080Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115146,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.630080830243344,
+              38.142892071351696
+            ],
+            [
+              45.63027352454051,
+              38.1429673218648
+            ],
+            [
+              45.63039946852484,
+              38.142771274313986
+            ],
+            [
+              45.63020299590889,
+              38.14268315175889
+            ],
+            [
+              45.630080830243344,
+              38.142892071351696
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد موسی بن جعفر",
+        "description": "",
+        "date": "",
+        "city": "شندآباد",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Musa al-Kazim Mosque",
+        "city:en": "Shandabad",
+        "province:en": "East Azerbaijan",
+        "name:ar": "مسجد موسى بن جعفر",
+        "city:ar": "شندآباد",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "מסגד מוסא בן ג'עפר",
+        "city:he": "שנדאבאד",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Musa b. Cafer Mescidi",
+        "city:tr": "Şendâbâd",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "مزگەوتی موسای کوڕی جەعفەر",
+        "city:ckb": "شەنداباد",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "NDo3Y2NkYzlhYjZiNjk",
+        "publicId": "NDo3Y2NkYzlhYjZiNjk",
+        "sourceId": "7ccdc9ab6b69",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:38:33.682Z",
+        "updatedAt": "2026-11-03T17:38:33.682Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115147,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.631815139087195,
+              38.14408818136306
+            ],
+            [
+              45.632045212486986,
+              38.144100570043946
+            ],
+            [
+              45.63204416192315,
+              38.143910610041445
+            ],
+            [
+              45.631800431199025,
+              38.14390400272816
+            ],
+            [
+              45.631815139087195,
+              38.14408818136306
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد محله قلی",
+        "description": "",
+        "date": "",
+        "city": "شندآباد",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Qoli Neighborhood Mosque",
+        "city:en": "Shendabad",
+        "province:en": "East Azerbaijan",
+        "name:ar": "مسجد حي قولي",
+        "city:ar": "شند آباد",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "מסגד שכונת קולי",
+        "city:he": "שנדאבאד",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Guli Mahallesi Camii",
+        "city:tr": "Şendabad",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "مزگەوتی گەڕەکی قولی",
+        "city:ckb": "شەنداباد",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "NDpiNDA1NmU4N2M1OTc",
+        "publicId": "NDpiNDA1NmU4N2M1OTc",
+        "sourceId": "b4056e87c597",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:39:03.456Z",
+        "updatedAt": "2026-11-03T17:39:03.456Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115148,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.63509046164563,
+              38.14317897254122
+            ],
+            [
+              45.635260411175665,
+              38.14317070804378
+            ],
+            [
+              45.635231502234376,
+              38.1429124420182
+            ],
+            [
+              45.635206097408144,
+              38.14288833714275
+            ],
+            [
+              45.635127254843155,
+              38.14289591296156
+            ],
+            [
+              45.63510272604435,
+              38.1429289710716
+            ],
+            [
+              45.63509046164563,
+              38.14317897254122
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد ابوذر خدا",
+        "description": "",
+        "date": "",
+        "city": "شندآباد",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Abuzar Khoda Mosque",
+        "city:en": "Shandabad",
+        "province:en": "East Azerbaijan",
+        "name:ar": "مسجد أبو ذر خدا",
+        "city:ar": "شند أباد",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "מסגד אבו זר ח'דא",
+        "city:he": "שנדאבאד",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Huda Ebu Zer Mescidi",
+        "city:tr": "Şendâbâd",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "مسگیدی ئەبوو لە خدا",
+        "city:ckb": "شەندئاباد",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "NDowMjJlOTMyZTNjZGM",
+        "publicId": "NDowMjJlOTMyZTNjZGM",
+        "sourceId": "022e932e3cdc",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:39:39.828Z",
+        "updatedAt": "2026-11-03T17:39:39.828Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115149,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.62408167404149,
+              38.14017968131441
+            ],
+            [
+              45.624282396595646,
+              38.14019841659322
+            ],
+            [
+              45.624304393587465,
+              38.14018112248996
+            ],
+            [
+              45.62432822366253,
+              38.13998296059668
+            ],
+            [
+              45.62410000486824,
+              38.139962063493016
+            ],
+            [
+              45.62408167404149,
+              38.14017968131441
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "شندآباد",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Mosque",
+        "city:en": "Shandabad",
+        "province:en": "East Azerbaijan",
+        "name:ar": "مسجد",
+        "city:ar": "شندآباد",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "מסגד",
+        "city:he": "שנדאבאד",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Cami",
+        "city:tr": "Şendabad",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "شەنداباد",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "NDpjYTZiYjFmMGY3YWQ",
+        "publicId": "NDpjYTZiYjFmMGY3YWQ",
+        "sourceId": "ca6bb1f0f7ad",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:40:02.180Z",
+        "updatedAt": "2026-11-03T17:40:02.180Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115150,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.623963427797946,
+              38.14138864233365
+            ],
+            [
+              45.62398868963365,
+              38.14133975466987
+            ],
+            [
+              45.624178153399214,
+              38.1413894062035
+            ],
+            [
+              45.624055730658085,
+              38.141496347853575
+            ],
+            [
+              45.623963427797946,
+              38.14138864233365
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "شندآباد",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Mosque",
+        "city:en": "Shandabad",
+        "province:en": "East Azerbaijan",
+        "name:ar": "مسجد",
+        "city:ar": "شند آباد",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "מסגד",
+        "city:he": "שנדאבאד",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Cami",
+        "city:tr": "Şendâbâd",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "شەنداباد",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "NDpmMzg2MjU4MzBjMGQ",
+        "publicId": "NDpmMzg2MjU4MzBjMGQ",
+        "sourceId": "f38625830c0d",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:40:22.642Z",
+        "updatedAt": "2026-11-03T17:40:22.642Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.04684296250343,
+          36.58602577157028
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "استفاده از این مسجد به عنوان پشتیبان لجستیکی لشکر ۲۵ کربلا",
+        "date": 1793660277,
+        "city": "ساری",
+        "province": "استان مازندران",
+        "name:en": "Mosque",
+        "description:en": "Use of this mosque as logistical support for the 25th Karbala Division",
+        "city:en": "Sari",
+        "province:en": "Mazandaran",
+        "name:ar": "مسجد",
+        "description:ar": "استخدام هذا المسجد كدعم لوجستي للفرقة 25 كربلاء",
+        "city:ar": "ساري",
+        "province:ar": "مازندران",
+        "name:he": "מסגד",
+        "description:he": "שימוש במסגד זה כגיבוי לוגיסטי של דיוויזיית 25 כרבלא",
+        "city:he": "סארי",
+        "province:he": "מאזנדראן",
+        "name:tr": "Cami",
+        "description:tr": "Bu caminin 25. Kerbela Tümeni için lojistik destek üssü olarak kullanılması",
+        "city:tr": "Sari",
+        "province:tr": "Mazenderan",
+        "name:ckb": "مزگەوت",
+        "description:ckb": "کەڵک‌وەرگرتن لەم مزگەوتە وەک پشتێنەی لۆجۆستیی لەشکری ٢٥ی کەربەلا",
+        "city:ckb": "ساری",
+        "province:ckb": "مازەندەران",
+        "id": "NDo5YThmZmEzNDgwNTU",
+        "publicId": "NDo5YThmZmEzNDgwNTU",
+        "sourceId": "9a8ffa348055",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:44:19.194Z",
+        "updatedAt": "2026-11-03T17:44:19.194Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5776,
+    "total": 5784,
     "layerId": 4,
     "clustered": false,
     "simplified": false

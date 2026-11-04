@@ -20703,10 +20703,109 @@
         "createdAt": "2026-11-01T19:23:23.848Z",
         "updatedAt": "2026-11-01T19:23:23.848Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.976352617144585,
+          35.85180286874137
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای حکومتی",
+        "city": "کرج",
+        "province": "استان البرز",
+        "date": 1793680825,
+        "description": "محل اسکان نیروهای حکومتی و ایستگاه صلواتی. همچنین مسدود کردن خیابان سیزدهم گوهردشت و فلکه اول و تجمع بسیجیان.",
+        "sources": "",
+        "name:en": "Government Forces Gathering",
+        "description:en": "Accommodation location for government forces and a Salavat station. Also, blocking the 13th street of Gohardasht and the first square, and the gathering of Basij forces.",
+        "city:en": "Karaj",
+        "province:en": "Alborz",
+        "name:ar": "تجمع القوات الحكومية",
+        "city:ar": "كرج",
+        "province:ar": "ألبرز",
+        "name:he": "התקהלות כוחות המשטר",
+        "description:he": "מקום הלינה של כוחות המשטר ותחנת חלוקת כיבוד (איסתגאה-יה סלוואתי). כמו כן, חסימת רחוב 13 בגוהרדשת וכיכר אוול (הראשונה) והתקהלות של אנשי הבסיג'.",
+        "city:he": "כרג'",
+        "province:he": "אלבורז",
+        "name:tr": "Hükümet Güçlerinin Toplanması",
+        "description:tr": "Hükümet güçlerinin konaklama yeri ve ikram istasyonu. Ayrıca Gohardaşht 13. caddenin ve Birinci Meydan'ın kapatılması ve Besic milislerinin toplanması.",
+        "city:tr": "Kerec",
+        "province:tr": "Elburz",
+        "name:ckb": "کۆبوونەوەی هێزە حکومییەکان",
+        "description:ckb": "شوێنی نیشتەجێبوونی هێزە حکومییەکان و وێستگەی خێرخوازی (مووکەب). هەروەها داخستنی شەقامی ۱۳ی گوهەردەشت و گۆڕەپانی یەکەم و کۆبوونەوەی بەسیجییەکان.",
+        "city:ckb": "کرەج",
+        "province:ckb": "ئەلبورز",
+        "id": "NDA6OTNkY2RiMWI5MDdj",
+        "publicId": "NDA6OTNkY2RiMWI5MDdj",
+        "sourceId": "93dcdb1b907c",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-03T05:08:34.438Z",
+        "updatedAt": "2026-11-03T05:08:34.438Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.83321958780289,
+          29.465633595789882
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع کامیون‌ها و خودروهای نظامی",
+        "city": "شهرستان سیرجان",
+        "province": "استان کرمان",
+        "date": 1793689173,
+        "description": "تجمع بالغ بر ۲۰ تا ۳۰ کامیون و خودروهای تویوتا مجهز به دوشکا",
+        "sources": "",
+        "name:en": "Assembly of trucks and military vehicles",
+        "description:en": "Assembly of over 20 to 30 trucks and Toyota vehicles equipped with DShK heavy machine guns",
+        "city:en": "Sirjan County",
+        "province:en": "Kerman",
+        "name:ar": "تجمع الشاحنات والمركبات العسكرية",
+        "description:ar": "تجمع أكثر من 20 إلى 30 شاحنة ومركبة تويوتا مزودة بأسلحة دوشكا",
+        "city:ar": "مقاطعة سيرجان",
+        "province:ar": "كرمان",
+        "name:he": "התקהלות משאיות ורכבים צבאיים",
+        "description:he": "התקהלות של יותר מ-20 עד 30 משאיות ורכבי טויוטה מצוידים במקלעי דושקה",
+        "city:he": "סירג'אן",
+        "province:he": "כרמאן",
+        "name:tr": "Kamyon ve askeri araçların toplanması",
+        "description:tr": "Doçka silahlarıyla donatılmış 20 ila 30'u aşkın kamyon ve Toyota aracın toplanması",
+        "city:tr": "Sirican",
+        "province:tr": "Kirman",
+        "name:ckb": "کۆبوونەوەی کامیۆن و ئۆتۆمبێلە سەربازییەکان",
+        "description:ckb": "کۆبوونەوەی زیاتر لە ٢٠ بۆ ٣٠ کامیۆن و ئۆتۆمبێلی تۆیۆتا کە بە دۆشکە ئامێر کرابوون",
+        "city:ckb": "سیرجان",
+        "province:ckb": "کرمان",
+        "id": "NDA6MTIyZmNjZDJkZmEy",
+        "publicId": "NDA6MTIyZmNjZDJkZmEy",
+        "sourceId": "122fccd2dfa2",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:29:56.604Z",
+        "updatedAt": "2026-11-03T17:29:56.604Z"
+      }
     }
   ],
   "metadata": {
-    "total": 421,
+    "total": 423,
     "layerId": 40,
     "clustered": false,
     "simplified": false

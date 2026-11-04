@@ -92329,10 +92329,108 @@
         "createdAt": "2026-11-02T06:22:49.303Z",
         "updatedAt": "2026-11-02T06:22:49.303Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115151,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.99850561217161,
+              36.501884371617805
+            ],
+            [
+              52.99837313726778,
+              36.502569455689724
+            ],
+            [
+              52.998780752356964,
+              36.502659526053165
+            ],
+            [
+              52.999103447637424,
+              36.503213592953585
+            ],
+            [
+              52.999633375978306,
+              36.50362848124186
+            ],
+            [
+              52.99991530974796,
+              36.50334735570321
+            ],
+            [
+              53.00008854616132,
+              36.5030089119532
+            ],
+            [
+              52.999857564277676,
+              36.50289154804935
+            ],
+            [
+              52.999619788808445,
+              36.50235112591679
+            ],
+            [
+              52.999659102929996,
+              36.502325252056906
+            ],
+            [
+              52.999446421290656,
+              36.50209806125589
+            ],
+            [
+              52.99867444437339,
+              36.501885948879504
+            ],
+            [
+              52.99850561217161,
+              36.501884371617805
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "لشکر عملیاتی پیاده ۲۵ کربلا",
+        "date": "",
+        "city": "شهرستان ساری",
+        "province": "استان مازندران",
+        "name:en": "25 Karbala Infantry Operational Division",
+        "description:en": "25 Karbala Infantry Operational Division",
+        "city:en": "Sari",
+        "province:en": "Mazandaran",
+        "description:ar": "فرقة المشاة العملياتية 25 كربلاء",
+        "city:ar": "مقاطعة ساري",
+        "province:ar": "مازندران",
+        "description:tr": "25 No'lu Kerbela Piyade Operasyon Tümeni",
+        "city:tr": "Sari",
+        "province:tr": "Mazenderan",
+        "description:ckb": "لشکری پیاده‌ی عملیاتیی ٢٥ی کەربەلا",
+        "city:ckb": "ساری",
+        "province:ckb": "مازەندەران",
+        "description:he": "דיוויזיית חי''ר מבצעית 25 כרבלא",
+        "city:he": "מחוז סארי",
+        "province:he": "מאזנדראן",
+        "id": "MTI6ODI4N2E2YmNhODI0",
+        "publicId": "MTI6ODI4N2E2YmNhODI0",
+        "sourceId": "8287a6bca824",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:42:18.717Z",
+        "updatedAt": "2026-11-03T17:42:24.465Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1120,
+    "total": 1121,
     "layerId": 12,
     "clustered": false,
     "simplified": false

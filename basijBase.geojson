@@ -105599,10 +105599,110 @@
         "createdAt": "2026-11-02T06:24:50.742Z",
         "updatedAt": "2026-11-02T06:24:50.742Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.80629934370518,
+          38.41956462184132
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج شهرستان آستارا - شهرک هجرت بعد از روستای عنبران",
+        "date": 1793719946,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Basij Base",
+        "description:en": "Basij base in Astara County - Hejrat Town after Anbaran village",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة البسيج في مقاطعة آستارا - مجمع هجرت السكني بعد قرية عنبران",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג' של נפת אסטארה - שיכון הוג'רת, אחרי הכפר ענבראן",
+        "city:he": "נפת אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Besic Karargahı",
+        "description:tr": "Astara Şehristanı Besic Karargahı - Anberan köyünden sonra Hicret Sitesi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "بنکەی بەسیجی شارستانی ئاستارا - شارۆچکەی هێجرت دوای گوندی عەنبەران",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTo2YjllYjZjNjBmMzU",
+        "publicId": "MTo2YjllYjZjNjBmMzU",
+        "sourceId": "6b9eb6c60f35",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:32:35.267Z",
+        "updatedAt": "2026-11-03T17:32:35.267Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.62994545325637,
+          38.144012545837825
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج شهید اصفهانی - محل تجمع نیروهای حامی حکومت",
+        "date": 1793683522,
+        "city": "شندآباد",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Basij Base",
+        "description:en": "Shahid Esfahani Basij Base - gathering place for pro-government forces",
+        "city:en": "Shandabad",
+        "province:en": "East Azerbaijan",
+        "name:ar": "قاعدة التعبئة (البسيج)",
+        "description:ar": "قاعدة الشهيد أصفهاني للتعبئة (البسيج) - مكان تجمع القوات الموالية للحكومة",
+        "city:ar": "شندآباد",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג' שהיד אספהאני - מקום כינוס של כוחות התומכים בממשל",
+        "city:he": "שנדאבאד",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Şehit İsfahani Besic Üssü - Hükümet yanlısı güçlerin toplanma yeri",
+        "city:tr": "Şendâbâd",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "بنکەی بسیج",
+        "description:ckb": "بنکەی بسیجی شەهید ئەسفەهانی - شوێنی کۆبوونەوەی هێزە لایەنگرەکانی حوکمەت",
+        "city:ckb": "شەنداباد",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "MTo4YWM3ZTg0ODUwMDk",
+        "publicId": "MTo4YWM3ZTg0ODUwMDk",
+        "sourceId": "8ac7e8485009",
+        "layerId": 1,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:37:16.240Z",
+        "updatedAt": "2026-11-03T17:37:16.240Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2373,
+    "total": 2375,
     "layerId": 1,
     "clustered": false,
     "simplified": false

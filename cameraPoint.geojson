@@ -818689,10 +818689,61 @@
         "createdAt": "2026-11-02T06:17:07.481Z",
         "updatedAt": "2026-11-02T06:17:07.481Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.83255749940872,
+          38.414084198665364
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1793719655,
+        "addressDescription": "",
+        "description": "نصب دوربین نظارتی در میدان دهستان ویرمونی، شهرستان آستارا",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Surveillance Camera",
+        "description:en": "Installation of a surveillance camera at the square of Virmuni rural district, Astara County",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "كاميرا مراقبة",
+        "description:ar": "تركيب كاميرا مراقبة في ميدان قرية ويرموني، مقاطعة آستارا",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מצלמת מעקב",
+        "description:he": "התקנת מצלמת מעקב בכיכר כפר וירמוני, מחוז אסטארה",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Gözetim Kamerası",
+        "description:tr": "Astara şehristanına bağlı Virmuni köy meydanına gözetim kamerası montajı",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "کامێرای چاودێری",
+        "description:ckb": "دانانی کامێرای چاودێری لە گۆڕەپانی دێهستانی ڤیرموونی، شارستانی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MjA6NzYwZTM0Njc0MzI3",
+        "publicId": "MjA6NzYwZTM0Njc0MzI3",
+        "sourceId": "760e34674327",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-03T17:31:34.187Z",
+        "updatedAt": "2026-11-03T17:31:34.187Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18681,
+    "total": 18682,
     "layerId": 20,
     "clustered": false,
     "simplified": false

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-03T02:00:14.993Z",
-  "serial": 7356,
+  "lastUpdated": "2026-11-04T02:00:16.267Z",
+  "serial": 7429,
   "layers": {
     "40": "2c8342a484e6422ed2d96252d1aeb5403273f825",
     "missilePrograms": "a6c0b005043e3e75aa9c4ce6ac26d03ac61a03cf",
@@ -21,25 +21,25 @@
     "newTargets": "f0a3b78a7d6418299c63c5a6e9d92a9ff2c468c8",
     "javidnam": "942dcc4a447e32b448e503163ffe79204bafbf7c",
     "areowayBase": "04b707d771f955ae1404039ecb84d2009983820b",
-    "basijBase": "8a4b222de43ffa6b91edc802711e33da0a921d5b",
+    "basijBase": "b662a37b472ce40dd543b15cb5de32b869bd18c4",
     "culturePoint": "f2eec3e330ac80fe0dbc67ca941010a3672b4a11",
     "marakezGhazayi": "63a9106ee1e2b3732686b0653cad869d19ba33b7",
-    "unknownBase": "4d06a465d0685739c9e63b2af1e953cb99a56c99",
-    "hospital": "28dc2a435f947460f9db26c86cc954d479ec1653",
-    "citizenReport": "b9aaf68a90a3fdfe56590434ebc7ae80730198b1",
+    "unknownBase": "400fba64eac7c87cfca964c3c7874ba1ae0ed93b",
+    "hospital": "f8a13391b6329db7d95fd2063907d6434ab0811f",
+    "citizenReport": "57816946fc6dee124e740b38629e1928104a2d44",
     "emergencyBase": "06de49a023788508d828e6ce015f788efb13152b",
     "medicalClinic": "0fc42b4101b5cfac6acee852a5c86d9b932bb6bb",
     "marakezEntezami": "b55cbaf24842c4eda8124bc8536d85a83268c4b5",
     "healthCenter": "21ec45fb0e84ef7a9a6da5369bf43c8fcd95b8f4",
     "zirsakht": "ca57389d8f7811fad0cf471fc7410f0ca62c469a",
     "clinic": "0023c0728013251a3475f260055074516cdd1011",
-    "amakenMazhabiPoint": "1eaf443b5d5fb44d86540a8983b122418530ec00",
+    "amakenMazhabiPoint": "21f7d4af59079435c04aa80255f5db535025dd92",
     "chatroom": "ece29e7e2b2491077271fcea54766c68f74b0537",
     "pharmacy": "ae615fb8d9c22c8b3015bcaaff1b992afcba8417",
-    "cameraPoint": "e43b57ca139343190742ab81b06ae8d9fae7ff78",
+    "cameraPoint": "80462ffc218c39d70ae0fccbfc790114a4d4cfdb",
     "MaritimeEvents": "eeb988c92e31b1d83bb7c66e6b663f2960a4b9dc",
     "notam": "9a17ae38bf331d4ae666a891189ba89a51f46dbd",
     "Checkpoint": "f5135f8290b8a84c28a14c76e025e979664cdc70",
-    "regimeGathering": "8166a3b0ebdf8bc76a7dbac0eb24dcc0e43ed73d"
+    "regimeGathering": "74dc54692193e0a1a76cd5a824cdca69c2049b26"
   }
 }
