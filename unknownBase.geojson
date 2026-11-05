@@ -92427,10 +92427,174 @@
         "createdAt": "2026-11-03T17:42:18.717Z",
         "updatedAt": "2026-11-03T17:42:24.465Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115185,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.867831184407066,
+              38.421998491874064
+            ],
+            [
+              48.86881385257564,
+              38.42195582200125
+            ],
+            [
+              48.86891533719759,
+              38.42200431049096
+            ],
+            [
+              48.868947515248976,
+              38.42260556505968
+            ],
+            [
+              48.86841781502713,
+              38.42262689980768
+            ],
+            [
+              48.86843266643447,
+              38.4230031661385
+            ],
+            [
+              48.86898216853521,
+              38.422983771014714
+            ],
+            [
+              48.869004445588985,
+              38.42323398813667
+            ],
+            [
+              48.868959891365165,
+              38.42329605229955
+            ],
+            [
+              48.86778663012322,
+              38.42333484237412
+            ],
+            [
+              48.867709897848016,
+              38.42330962882812
+            ],
+            [
+              48.86765791791959,
+              38.423249504182905
+            ],
+            [
+              48.8676009875233,
+              38.42224871240916
+            ],
+            [
+              48.86765544268471,
+              38.422107126407184
+            ],
+            [
+              48.86773712542964,
+              38.42202178676476
+            ],
+            [
+              48.867831184407066,
+              38.421998491874064
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان نظامی",
+        "unofficial_name:fa": "",
+        "description": "پادگان بسیج و نیروهای سرکوب آستارا",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Military Garrison",
+        "description:en": "Basij garrison and suppression forces of Astara",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "ثكنة عسكرية",
+        "description:ar": "ثكنة البسيج وقوات القمع في آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "בסיס צבאי",
+        "description:he": "בסיס הבסיג' וכוחות הדיכוי באסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Askeri Kışla",
+        "description:tr": "Astara Besic kışlası ve baskı güçleri",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بنکەی سەربازی",
+        "description:ckb": "بنکەی بسیج و هێزە سەرکوتکەرەکانی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTI6ZDA1OTkzYWM4YzNk",
+        "publicId": "MTI6ZDA1OTkzYWM4YzNk",
+        "sourceId": "d05993ac8c3d",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-04T21:43:09.641Z",
+        "updatedAt": "2026-11-04T21:43:09.641Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115192,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.83348621428013,
+          38.41420477901525
+        ]
+      },
+      "properties": {
+        "name:fa": "انبار نیروهای اطلاعاتی و سرکوب",
+        "unofficial_name:fa": "",
+        "description": "پایگاه و انبار نیروهای اطلاعاتی و سرکوب دهستان ویرمونی، محل نگهداری تجهیزات سرکوب مانند سپر، باتوم و کلاه.",
+        "date": 1793798615,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Intelligence and Suppression Forces Warehouse",
+        "description:en": "Base and warehouse of intelligence and suppression forces in Viromuni rural district, used for storing suppression equipment such as shields, batons, and helmets.",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "مستودع قوات الاستخبارات والقمع",
+        "description:ar": "قاعدة ومستودع لقوات الاستخبارات والقمع في ناحية ويرموني، وهو مكان لتخزين معدات القمع مثل الدروع والهراوات والخوذ.",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מחסן כוחות המודיעין והדיכוי",
+        "description:he": "בסיס ומחסן של כוחות המודיעין והדיכוי במועצה האזורית וירמוני, מקום אחסון של ציוד דיכוי כגון מגנים, אלות וקסדות.",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "İstihbarat ve Baskı Kuvvetleri Deposu",
+        "description:tr": "Virmuni kırsal bölgesindeki istihbarat ve baskı kuvvetlerinin üssü ve deposu; kalkan, jop ve miğfer gibi baskı ekipmanlarının saklandığı yer.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "گۆگا و بنکەی هێزە هەواڵگری و سەرکوتکردنەکان",
+        "description:ckb": "بنکە و گۆگای هێزە هەواڵگری و سەرکوتکردنەکانی دێهستانی ڤیرمونی، شوێنی پاراستنی کەرەستەکانی سەرکوتکردن وەکو قەڵغان، باتووم و کڵاوخود.",
+        "city:ckb": "آستارا",
+        "province:ckb": "گیلان",
+        "id": "MTI6ODA3ZWY2OWMxMWJj",
+        "publicId": "MTI6ODA3ZWY2OWMxMWJj",
+        "sourceId": "807ef69c11bc",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-04T21:48:14.292Z",
+        "updatedAt": "2026-11-04T21:48:14.292Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1121,
+    "total": 1123,
     "layerId": 12,
     "clustered": false,
     "simplified": false

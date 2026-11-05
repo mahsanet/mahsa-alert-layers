@@ -2624,10 +2624,161 @@
         "createdAt": "2026-11-02T07:35:35.185Z",
         "updatedAt": "2026-11-02T07:35:35.185Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115164,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.216667,
+              34.95
+            ],
+            [
+              59.216667,
+              34.9
+            ],
+            [
+              59.2,
+              34.916667
+            ],
+            [
+              59.2,
+              34.95
+            ],
+            [
+              59.216667,
+              34.95
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · رشتخوار",
+        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد. این فعالیت از سطح زمین تا ارتفاع نامحدود صورت می‌گیرد.",
+        "notamNumber": "B0592/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۸/۲۳، ۰۷:۰۰",
+        "validTo": "۱۴۰۵/۰۸/۳۰، ۲۲:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1794627000,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "city": "شهرستان رشتخوار",
+        "province": "استان خراسان رضوی",
+        "name:en": "Aeronautical Notice · Navigation Warning · Roshtkhar",
+        "description:en": "Shooting will take place within the specified area. This activity will be conducted from the ground level up to an unlimited altitude.",
+        "city:en": "Roshtkhar County",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "إشعار للطيران · تحذير ملاحي · رشتخوار",
+        "description:ar": "سيتم إجراء إطلاق نار في المنطقة المحددة. ينشط هذا النشاط من سطح الأرض حتى ارتفاع غير محدود.",
+        "city:ar": "مقاطعة رشتخوار",
+        "province:ar": "خراسان رضوي",
+        "name:he": "הודעת תעופה · אזהרת ניווט · רשתח'וואר",
+        "description:he": "ירי יבוצע באזור המוגדר. פעילות זו תתקיים מגובה הקרקע ועד לגובה בלתי מוגבל.",
+        "city:he": "מחוז רשתח'וואר",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:tr": "Havacılık Duyurusu · Seyrüsefer Uyarısı · Reştuhar",
+        "description:tr": "Belirtilen alanda atış faaliyeti gerçekleştirilecektir. Bu faaliyet yerden sınırsız yüksekliğe kadar yapılacaktır.",
+        "city:tr": "Reştuhar",
+        "province:tr": "Razavi Horasan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشداریی ناوبەری · ڕەشتخوار",
+        "description:ckb": "تەقەکردن لە ناوچە دیاریکراوەکەدا ئەنجام دەدرێت. ئەم چالاکییە لە ئاستی زەوییەوە تاوەکو بەرزیی نەسنوور ئەنجام دەدرێت.",
+        "city:ckb": "شارستانی ڕەشتخوار",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDU5Mi0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDU5Mi0yNg",
+        "sourceId": "notam-oiix-b0592-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-21T18:30:00.000Z",
+        "createdAt": "2026-11-04T07:07:24.679Z",
+        "updatedAt": "2026-11-04T07:07:24.679Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115165,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              58.66667,
+              37.33333
+            ],
+            [
+              58.58333,
+              37.33333
+            ],
+            [
+              58.58333,
+              37.28333
+            ],
+            [
+              58.66667,
+              37.26667
+            ],
+            [
+              58.66667,
+              37.33333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · قوچان (OID128)",
+        "description": "منطقه مشخص‌شده فعال شده است.",
+        "notamNumber": "A2513/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۸/۲۳، ۰۶:۰۰",
+        "validTo": "۱۴۰۵/۰۸/۳۰، ۲۰:۰۰",
+        "shapeSource": "منطقه OID128 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1794623400,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "areaCodes": "OID128",
+        "city": "شهرستان قوچان",
+        "province": "استان خراسان رضوی",
+        "name:en": "Aviation Notice · Airspace Restriction · Quchan (OID128)",
+        "description:en": "The specified zone has been activated.",
+        "city:en": "Quchan",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "إشعار الطيران · قيود على المجال الجوي · قوجان (OID128)",
+        "description:ar": "تم تنشيط المنطقة المحددة.",
+        "city:ar": "مقاطعة قوجان",
+        "province:ar": "خراسان رضوي",
+        "name:he": "הודעת תעופה · הגבלת המרחב האווירי · קוצ'אן (OID128)",
+        "description:he": "האזור המסומן הופעל.",
+        "city:he": "נפת קוצ'אן",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشایی ئاسمانی · قوچان (OID128)",
+        "description:ckb": "ناوچە دەستنیشانکراوەکە چالاک کراوە.",
+        "city:ckb": "قوچان",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjUxMy0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjUxMy0yNg",
+        "sourceId": "notam-oiix-a2513-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-21T16:30:00.000Z",
+        "createdAt": "2026-11-04T07:07:31.600Z",
+        "updatedAt": "2026-11-04T07:07:31.600Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18,
+    "total": 20,
     "layerId": 38,
     "clustered": false,
     "simplified": false

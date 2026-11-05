@@ -250571,10 +250571,350 @@
         "createdAt": "2026-11-03T17:44:19.194Z",
         "updatedAt": "2026-11-03T17:44:19.194Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115180,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.506794801775186,
+              38.07821529994837
+            ],
+            [
+              48.50692331592771,
+              38.07836617972174
+            ],
+            [
+              48.506984191051515,
+              38.07832357840542
+            ],
+            [
+              48.507073249104536,
+              38.07823660064116
+            ],
+            [
+              48.50692218860965,
+              38.07813453476575
+            ],
+            [
+              48.50688160519377,
+              38.07817003595599
+            ],
+            [
+              48.506794801775186,
+              38.07821529994837
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد اصفریه هیر",
+        "description": "",
+        "date": "",
+        "city": "هیر",
+        "province": "استان اردبیل",
+        "name:en": "Asfariyeh Mosque of Hir",
+        "city:en": "Hir",
+        "province:en": "Ardabil",
+        "name:ar": "مسجد أصفريه هير",
+        "city:ar": "هير",
+        "province:ar": "أردبيل",
+        "name:he": "מסג'ד אספמריה היר",
+        "city:he": "היר",
+        "province:he": "ארדביל",
+        "name:tr": "Hir Asfariye Mescidi",
+        "city:tr": "Hir",
+        "province:tr": "Erdebil",
+        "name:ckb": "مزگەوتی ئەسفەریەی هیر",
+        "city:ckb": "هیر",
+        "province:ckb": "ئەردەبیل",
+        "id": "NDoyMTFjMjRjMzhhMTg",
+        "publicId": "NDoyMTFjMjRjMzhhMTg",
+        "sourceId": "211c24c38a18",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-04T21:35:58.451Z",
+        "updatedAt": "2026-11-04T21:35:58.451Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115182,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.532744846660194,
+              38.24738785608798
+            ],
+            [
+              48.53277029702696,
+              38.247507798742106
+            ],
+            [
+              48.532805927541176,
+              38.24767172004945
+            ],
+            [
+              48.53293826944872,
+              38.24766272437739
+            ],
+            [
+              48.53307188387467,
+              38.247635737355296
+            ],
+            [
+              48.53300444040241,
+              38.24734987420598
+            ],
+            [
+              48.53286573590282,
+              38.24738085942661
+            ],
+            [
+              48.532744846660194,
+              38.24738785608798
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع مرنی",
+        "description": "",
+        "date": "",
+        "city": "روستای مرنی",
+        "province": "استان اردبیل",
+        "name:en": "Marni Jameh Mosque",
+        "city:en": "Marni",
+        "province:en": "Ardabil",
+        "name:ar": "المسجد الجامع في مرني",
+        "city:ar": "قرية مرني",
+        "province:ar": "أردبيل",
+        "name:he": "מסגד ג'אמע מרני",
+        "city:he": "הכפר מרני",
+        "province:he": "ארדביל",
+        "name:tr": "Marni Cami-i Kebir",
+        "city:tr": "Marni",
+        "province:tr": "Erdebil",
+        "name:ckb": "مزگەوتی جامی مەرنی",
+        "city:ckb": "گوندی مەرنی",
+        "province:ckb": "ئەردەبیل",
+        "id": "NDoxMzVhMWZjZTk4NzE",
+        "publicId": "NDoxMzVhMWZjZTk4NzE",
+        "sourceId": "135a1fce9871",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-04T21:39:23.547Z",
+        "updatedAt": "2026-11-04T21:39:23.547Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115184,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.49673548754444,
+              38.289703844829745
+            ],
+            [
+              48.496873210028895,
+              38.28984112058626
+            ],
+            [
+              48.497038114581784,
+              38.28973514087966
+            ],
+            [
+              48.496902204235454,
+              38.28959999874749
+            ],
+            [
+              48.49673548754444,
+              38.289703844829745
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع جابلو",
+        "description": "",
+        "date": "",
+        "city": "جابلو",
+        "province": "استان اردبیل",
+        "name:en": "Jablo Jameh Mosque",
+        "city:en": "Jablo",
+        "province:en": "Ardabil",
+        "name:ar": "مسجد جابلو الجامع",
+        "city:ar": "جابلو",
+        "province:ar": "أردبيل",
+        "name:he": "המסגד הגדול של ג'אבלו",
+        "city:he": "ג'אבלו",
+        "province:he": "ארדביל",
+        "name:tr": "Cablu Merkez Camii",
+        "city:tr": "Cablu",
+        "province:tr": "Erdebil",
+        "name:ckb": "مسگی جامی جابلۆ",
+        "city:ckb": "جابلۆ",
+        "province:ckb": "ئەردەبیل",
+        "id": "NDo1NGU5ZTQ2ZWFkZGI",
+        "publicId": "NDo1NGU5ZTQ2ZWFkZGI",
+        "sourceId": "54e9e46eaddb",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-04T21:40:26.230Z",
+        "updatedAt": "2026-11-04T21:40:26.230Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115187,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.860114735785544,
+              38.38808895567104
+            ],
+            [
+              48.86048974813113,
+              38.38817295255629
+            ],
+            [
+              48.86054462798654,
+              38.38811456448775
+            ],
+            [
+              48.86023102881296,
+              38.387908669345165
+            ],
+            [
+              48.860114735785544,
+              38.38808895567104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "شهرك عباس آباد",
+        "province": "استان گیلان",
+        "name:en": "Mosque",
+        "city:en": "Abbasabad Town",
+        "province:en": "Gilan",
+        "name:ar": "مسجد",
+        "city:ar": "ضاحية عباس أباد",
+        "province:ar": "جيلان",
+        "name:he": "מסגד",
+        "city:he": "שהרכ עבאס אבאד",
+        "province:he": "גילאן",
+        "name:tr": "Cami",
+        "city:tr": "Abasabad",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "شارکی عەباسئاواد",
+        "province:ckb": "گیلان",
+        "id": "NDpkNjJkMDkxZjM4ZDg",
+        "publicId": "NDpkNjJkMDkxZjM4ZDg",
+        "sourceId": "d62d091f38d8",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-04T21:44:33.249Z",
+        "updatedAt": "2026-11-04T21:44:33.249Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115189,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.65221118970902,
+              38.20379238322454
+            ],
+            [
+              48.65232998551704,
+              38.203901139482696
+            ],
+            [
+              48.65258063161744,
+              38.20378007118464
+            ],
+            [
+              48.65244617042799,
+              38.203660028690905
+            ],
+            [
+              48.65221118970902,
+              38.20379238322454
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد جامع دهستان حور",
+        "description": "",
+        "date": "",
+        "city": "حور",
+        "province": "استان اردبیل",
+        "name:en": "Hour Rural District Jameh Mosque",
+        "city:en": "Hour",
+        "province:en": "Ardabil",
+        "name:ar": "المسجد الجامع في قرية حور",
+        "city:ar": "حور",
+        "province:ar": "أردبيل",
+        "name:he": "המסגד המרכזי של כפר הור",
+        "city:he": "הור",
+        "province:he": "ארדביל",
+        "name:tr": "Hur Dehestanı Cami",
+        "city:tr": "Hur",
+        "province:tr": "Erdebil",
+        "name:ckb": "مزگی جامی دەڤەری حوور",
+        "city:ckb": "حوور",
+        "province:ckb": "ئەردەبیل",
+        "id": "NDo2MWUxMjc2OGEwOTU",
+        "publicId": "NDo2MWUxMjc2OGEwOTU",
+        "sourceId": "61e12768a095",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-04T21:45:33.852Z",
+        "updatedAt": "2026-11-04T21:45:33.852Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5784,
+    "total": 5789,
     "layerId": 4,
     "clustered": false,
     "simplified": false

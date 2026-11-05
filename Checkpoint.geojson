@@ -11832,56 +11832,6 @@
     },
     {
       "type": "Feature",
-      "id": 95961,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.80658835172653,
-          38.44701787553737
-        ]
-      },
-      "properties": {
-        "name:fa": "ایست بازرسی",
-        "city": "شهرستان آستارا",
-        "province": "استان گیلان",
-        "date": 1791801847,
-        "description": "ایست بازرسی و محل تجمع نیروهای حکومتی و سپاهی",
-        "sources": "",
-        "name:he": "מחסום",
-        "description:he": "מחסום ונקודת ריכוז של כוחות הממשל וכוחות משמרות המהפכה",
-        "city:he": "אסתארה",
-        "province:he": "גילאן",
-        "name:tr": "Kontrol Noktası",
-        "description:tr": "Kontrol noktası ve hükümet ile Devrim Muhafızları güçlerinin toplanma yeri",
-        "city:tr": "Astara",
-        "province:tr": "Gilan",
-        "name:ckb": "بازگەی پشکنین",
-        "description:ckb": "بازگەی پشکنین و شوێنی کۆبوونەوەی هێزە حکوومی و سپاهییەکان",
-        "city:ckb": "شارستانی ئاستارا",
-        "province:ckb": "گیلان",
-        "name:en": "Checkpoint",
-        "description:en": "Checkpoint and gathering location for government and IRGC forces",
-        "city:en": "Astara",
-        "province:en": "Gilan",
-        "name:ar": "نقطة تفتيش",
-        "description:ar": "نقطة تفتيش ومكان تجمع للقوات الحكومية وعناصر الحرس الثوري",
-        "city:ar": "مقاطعة أستارا",
-        "province:ar": "جيلان",
-        "id": "Mzk6NDlmZGI1Y2Y2YjQw",
-        "publicId": "Mzk6NDlmZGI1Y2Y2YjQw",
-        "sourceId": "49fdb5cf6b40",
-        "layerId": 39,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-10-12T11:10:03.156Z",
-        "updatedAt": "2026-10-14T11:30:29.750Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 96050,
       "geometry": {
         "type": "Point",
@@ -14012,6 +13962,56 @@
         "expirationDate": null,
         "createdAt": "2026-11-02T20:10:37.734Z",
         "updatedAt": "2026-11-02T20:10:37.734Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.80589420285318,
+          38.44696463146926
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "date": 1793803140,
+        "description": "یگان امداد، محل استقرار نیروهای ایست بازرسی و سرکوب آستارا",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Imdad Unit, location of checkpoint and suppression forces in Astara",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "وحدة الإغاثة، موقع تمركز قوات التفتيش والقمع في آستارا",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מחסום בדיקה",
+        "description:he": "יחידת סיוע, מקום היערכות כוחות מחסום הבדיקה והדיכוי של אסטארא",
+        "city:he": "מחוז אסטארא",
+        "province:he": "גילאן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "İmdat Tugayı, Astara kontrol noktası ve baskı güçlerinin konuşlandığı yer",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "یەکیەی فریاکەوتن، شوێنی جێگیربوونی هێزەکانی خاڵی پشکنین و سەرکوت لە ئاستارا",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "Mzk6ZWU3MzU3NGYzMDU3",
+        "publicId": "Mzk6ZWU3MzU3NGYzMDU3",
+        "sourceId": "ee73574f3057",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-04T21:33:38.948Z",
+        "updatedAt": "2026-11-04T21:33:45.196Z"
       }
     }
   ],
