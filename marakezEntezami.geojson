@@ -264265,7 +264265,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-10-14T11:30:54.516Z",
-        "updatedAt": "2026-10-14T11:30:54.516Z"
+        "updatedAt": "2026-11-05T20:02:49.521Z"
       }
     },
     {
@@ -266063,10 +266063,54 @@
         "createdAt": "2026-11-01T23:07:37.537Z",
         "updatedAt": "2026-11-01T23:07:37.537Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87105622850683,
+          38.410136416487944
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس +10",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Police +10",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "الشرطة +10",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "משטרה +10",
+        "city:he": "אסטרה",
+        "province:he": "גילאן",
+        "name:tr": "Polis +10",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "پۆلیس +١٠",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzozOWM4MGUzOTBlZWE",
+        "publicId": "MzozOWM4MGUzOTBlZWE",
+        "sourceId": "39c80e390eea",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-06T01:05:41.006Z",
+        "updatedAt": "2026-11-06T01:07:08.645Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6112,
+    "total": 6113,
     "layerId": 3,
     "clustered": false,
     "simplified": false

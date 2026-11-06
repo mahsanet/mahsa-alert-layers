@@ -92591,10 +92591,59 @@
         "createdAt": "2026-11-04T21:48:14.292Z",
         "updatedAt": "2026-11-04T21:48:14.292Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.817413076758385,
+          38.29902797415693
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان سپاه",
+        "unofficial_name:fa": "",
+        "description": "ساخت پادگان سپاه در جاده آبشار، بخش لوندویل، دهستان چلوند",
+        "date": 1793910510,
+        "city": "باش محله لوندويل",
+        "province": "استان گیلان",
+        "name:en": "IRGC Barracks",
+        "description:en": "Construction of the IRGC barracks on Abshar Road, Lavandevil District, Chalvand Rural District",
+        "city:en": "Bash Mahleh-ye Lavandevil",
+        "province:en": "Gilan",
+        "name:ar": "معسكر الحرس الثوري",
+        "description:ar": "بناء معسكر للحرس الثوري في طريق آبشار، ناحية لوندويل، قضاء تشلوند",
+        "city:ar": "باش محلة لوندويل",
+        "province:ar": "جيلان",
+        "name:he": "בסיס משמרות המהפכה",
+        "description:he": "בניית בסיס של משמרות המהפכה בכביש אבשאר, נפת לוונדוויל, מחוז כפרי צ'לוונד",
+        "city:he": "באש מחלה לוונדוויל",
+        "province:he": "גילאן",
+        "name:tr": "Sepah Kışlası",
+        "city:tr": "Baş Mahalle Levendvil",
+        "province:tr": "Gilan",
+        "name:ckb": "بنکەی سەپای پاسداران",
+        "description:ckb": "دروستکردنی بنکەی سەپای پاسداران لە ڕێگای ئاوشار، بەشی لۆندویل، گوندەواری چەلوند",
+        "city:ckb": "باش مەحەڵەی لۆندویل",
+        "province:ckb": "گیلان",
+        "id": "MTI6NDNlYzAyYTRlNzYy",
+        "publicId": "MTI6NDNlYzAyYTRlNzYy",
+        "sourceId": "43ec02a4e762",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T01:49:58.946Z",
+        "updatedAt": "2026-11-06T01:49:58.946Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1123,
+    "total": 1124,
     "layerId": 12,
     "clustered": false,
     "simplified": false

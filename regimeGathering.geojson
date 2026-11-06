@@ -21002,10 +21002,110 @@
         "createdAt": "2026-11-04T21:38:50.769Z",
         "updatedAt": "2026-11-04T21:38:54.920Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.59366959705949,
+          29.234886287505773
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سپاه",
+        "city": "بافت",
+        "province": "استان کرمان",
+        "date": 1793924462,
+        "description": "تجمع پاسداران و درجه‌داران سپاه در این ساختمان",
+        "sources": "",
+        "name:en": "IRGC Forces Gathering",
+        "description:en": "Gathering of Guards and IRGC non-commissioned officers in this building",
+        "city:en": "Baft",
+        "province:en": "Kerman",
+        "name:ar": "تجمع قوات الحرس الثوري",
+        "description:ar": "تجمع لأفراد وضباط الحرس الثوري في هذا المبنى",
+        "city:ar": "باَفت",
+        "province:ar": "كرمان",
+        "name:he": "התקהלות כוחות משמרות המהפכה",
+        "description:he": "התקהלות של אנשי משמרות המהפכה ונגדים בבניין זה",
+        "city:he": "באפת",
+        "province:he": "כרמאן",
+        "name:tr": "Sepah Güçlerinin Toplanması",
+        "description:tr": "Bu binada Devrim Muhafızları (Sepah) ve subaylarının toplanması",
+        "city:tr": "Baft",
+        "province:tr": "Kirman",
+        "name:ckb": "کۆبوونەوەی هێزەکانی سوپا",
+        "description:ckb": "کۆبوونەوەی پاسداران و پلەدارانی سوپا لەم باڵەخانەیەدا",
+        "city:ckb": "بافت",
+        "province:ckb": "کرمان",
+        "id": "NDA6MjM1ZmFiOWQ0OTY4",
+        "publicId": "NDA6MjM1ZmFiOWQ0OTY4",
+        "sourceId": "235fab9d4968",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T00:34:23.018Z",
+        "updatedAt": "2026-11-06T00:34:23.018Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8695620931685,
+          38.42323840696983
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حامیان حکومتی",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "date": 1793912712,
+        "description": "محل تجمع نیروهای سرکوب و حامیان حکومت در آستارا، خیابان امام خمینی",
+        "sources": "",
+        "name:en": "Pro-government supporters rally",
+        "description:en": "Gathering location of repressive forces and government supporters in Astara, Imam Khomeini Street",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "تجمع المؤيدين للنظام",
+        "description:ar": "موقع تجمع قوات القمع ومؤيدي النظام في آستارا، شارع الإمام الخميني",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "עצרת תומכי המשטר",
+        "description:he": "מקום התכנסות של כוחות הדיכוי ותומכי המשטר באסטארה, רחוב אימאם חומייני",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Hükümet yanlılarının mitingi",
+        "description:tr": "Astara, İmam Humeyni Caddesi'nde baskı güçlerinin ve hükümet yanlılarının toplandığı yer",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "کۆبوونەوەی لایەنگرانی دەسەڵات",
+        "description:ckb": "شوێنی کۆبوونەوەی هێزەکانی سەرکوت و لایەنگرانی دەسەڵات لە ئاستارا، شەقامی ئیمام خومەینی",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDA6NTEzZjVjMDg1ZWY5",
+        "publicId": "NDA6NTEzZjVjMDg1ZWY5",
+        "sourceId": "513f5c085ef9",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T01:03:06.738Z",
+        "updatedAt": "2026-11-06T01:03:06.738Z"
+      }
     }
   ],
   "metadata": {
-    "total": 427,
+    "total": 429,
     "layerId": 40,
     "clustered": false,
     "simplified": false

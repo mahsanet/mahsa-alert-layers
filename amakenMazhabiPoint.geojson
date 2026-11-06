@@ -250911,10 +250911,220 @@
         "createdAt": "2026-11-04T21:45:33.852Z",
         "updatedAt": "2026-11-04T21:45:33.852Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115212,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.86984840066066,
+              38.43342616170014
+            ],
+            [
+              48.8698399316653,
+              38.433279637142505
+            ],
+            [
+              48.870245737713105,
+              38.433303965769284
+            ],
+            [
+              48.870259852706084,
+              38.43343224384503
+            ],
+            [
+              48.86984840066066,
+              38.43342616170014
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد میرزا",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Mirza Mosque",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مسجد ميرزا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מסגד מירזא",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Mirza Mescidi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی میرزا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NDo0NDMwOTdmMGUzMmU",
+        "publicId": "NDo0NDMwOTdmMGUzMmU",
+        "sourceId": "443097f0e32e",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-06T00:58:33.049Z",
+        "updatedAt": "2026-11-06T00:58:33.049Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.797050416469574,
+          38.30780355807474
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد محمد رسول الله",
+        "description": "مسجد و محل تجمعات نیروهای سرکوب بسیجی روستای کوته کومه لوندویل، جاده آبشار، دهستان چلوند",
+        "date": 1793910681,
+        "city": "Kuteh Kumeh",
+        "province": "Gilan Province",
+        "name:en": "Mohammad Rasoulollah Mosque",
+        "description:en": "Mosque and gathering place for Basij suppression forces in the village of Kuteh Kumeh, Lavandevil, Waterfall Road, Chalvond Rural District",
+        "city:en": "Kuteh Kumeh",
+        "province:en": "Gilan Province",
+        "name:ar": "مسجد محمد رسول الله",
+        "description:ar": "مسجد وموقع لتجمع قوات البسيج القمعية في قرية كوتة كومة لوندويل، طريق الشلال، قضاء تشلوند",
+        "city:ar": "كوتة كومة",
+        "province:ar": "محافظة جيلان",
+        "name:he": "מסגד מוחמד רסול אללה",
+        "description:he": "מסגד ומקום התכנסות של כוחות הדיכוי של הבסיג' בכפר כותה כומה לונדוויל, כביש המפל, מחוז כפרי צ'לונד",
+        "city:he": "כותה כומה",
+        "province:he": "מחוז גילאן",
+        "name:tr": "Muhammed Resulullah Camii",
+        "city:tr": "Kuteh Kume",
+        "province:tr": "Gilan Eyaleti",
+        "name:ckb": "مزگەوتی محەمەد ڕەسوڵوڵڵا",
+        "description:ckb": "مزگەوت و شوێنی کۆبوونەوەی هێزە سەرکوتکەرەکانی بەسیجی گوندی کۆتە کوومەی لەندەویل، ڕێگای تاڤگە، گوندەواری چەلوند",
+        "city:ckb": "کۆتە کوومە",
+        "province:ckb": "پارێزگای گیلان",
+        "id": "NDo0NDIxY2RmZTQxMjA",
+        "publicId": "NDo0NDIxY2RmZTQxMjA",
+        "sourceId": "4421cdfe4120",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T01:51:12.728Z",
+        "updatedAt": "2026-11-06T01:51:12.728Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84247463196516,
+          38.30546558463382
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد باش محله لوندویل",
+        "description": "مسجد باش محله لوندویل، خیابان آبشار",
+        "date": 1793910283,
+        "city": "باش محله لوندويل",
+        "province": "استان گیلان",
+        "name:en": "Bash Mahalleh Lavandvil Mosque",
+        "description:en": "Bash Mahalleh Lavandvil Mosque, Abshar Street",
+        "city:en": "Bash Mahalleh Lavandvil",
+        "province:en": "Gilan",
+        "name:ar": "مسجد باش محلة لوندويل",
+        "description:ar": "مسجد باش محلة لوندويل، شارع آبشار",
+        "city:ar": "باش محلة لوندويل",
+        "province:ar": "جيلان",
+        "name:he": "מסג'ד באש מחלה לוונדוויל",
+        "description:he": "מסג'ד באש מחלה לוונדוויל, רחוב אבשאר",
+        "city:he": "באש מחלה לוונדוויל",
+        "province:he": "גילאן",
+        "name:tr": "Baş Mahalle Levendvil Camisi",
+        "description:tr": "Baş Mahalle Levendvil Camisi, Abşar Caddesi",
+        "city:tr": "Baş Mahalle Levendvil",
+        "province:tr": "Gilan",
+        "name:ckb": "مسگی باش مەحەلەی لەوندویل",
+        "description:ckb": "مسگی باش مەحەلەی لەوندویل، شەقامی ئاوشار",
+        "city:ckb": "لەوندویل",
+        "province:ckb": "گیلان",
+        "id": "NDoxNDA1NTg2MDJhYjU",
+        "publicId": "NDoxNDA1NTg2MDJhYjU",
+        "sourceId": "140558602ab5",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T01:56:32.109Z",
+        "updatedAt": "2026-11-06T01:56:32.109Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84548122063279,
+          38.31274747978287
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد روستای خسرو محله",
+        "description": "مسجد و محل تجمع نیروهای سرکوب در خسرو محله، دهستان و بخش لوندویل",
+        "date": 1793910369,
+        "city": "ديله",
+        "province": "استان گیلان",
+        "name:en": "Khosrow Mahalleh Village Mosque",
+        "description:en": "Mosque and gathering place of repressive forces in Khosrow Mahalleh, rural district and district of Lavandevil",
+        "city:en": "Dileh",
+        "province:en": "Gilan",
+        "name:ar": "مسجد قرية خسرو محلة",
+        "description:ar": "مسجد ومكان تجمع لقوات القمع في خسرو محلة، في بلدة وقسم لوندويل",
+        "city:ar": "ديله",
+        "province:ar": "جيلان",
+        "name:he": "מסגד הכפר ח'סרו מחלה",
+        "description:he": "מסגד ומקום כינוס של כוחות הדיכוי בח'סרו מחלה, תת-מחוז ומועצה אזורית לוואנדביל",
+        "city:he": "דילה",
+        "province:he": "גילאן",
+        "name:tr": "Hüsrev Mahalle Köyü Camii",
+        "description:tr": "Hüsrev Mahalle'de, Levendvil nahiye ve kırsal bölgesinde baskı güçlerinin toplandığı cami ve yer",
+        "city:tr": "Deyle",
+        "province:tr": "Gilan",
+        "name:ckb": "مزگەوتی گوندی خەسرومەحەلە",
+        "description:ckb": "مزگەوت و شوێنی کۆبوونەوەی هێزەکانی سەرکوت لە خەسرومەحەلە، دێستان و بەشی لەوندویل",
+        "city:ckb": "دیلە",
+        "province:ckb": "گیلان",
+        "id": "NDo2NjIxZGFjYzRjZTE",
+        "publicId": "NDo2NjIxZGFjYzRjZTE",
+        "sourceId": "6621dacc4ce1",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T01:57:17.693Z",
+        "updatedAt": "2026-11-06T01:57:17.693Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5789,
+    "total": 5793,
     "layerId": 4,
     "clustered": false,
     "simplified": false

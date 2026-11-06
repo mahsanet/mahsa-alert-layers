@@ -105950,10 +105950,105 @@
         "createdAt": "2026-11-04T21:50:55.819Z",
         "updatedAt": "2026-11-04T21:51:28.896Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86812526732683,
+          38.40834457770427
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج واقع در شهرک فرهنگیان آستارا",
+        "date": 1793911658,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Basij Base",
+        "description:en": "Basij base located in Farhangian township, Astara",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "قاعدة التعبئة (البسيج)",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג' הממוקם בשכונת פרהנגיאן באסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:ckb": "بنکەی بسیج",
+        "description:ckb": "بنکەی بسیج کە دەکەوێتە شارۆچکەی فەرهەنگیانی آستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Astaraca Ferhengiyan kasabasında bulunan Besic üssü",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "id": "MTo3NjU5NzNmOGQzYTg",
+        "publicId": "MTo3NjU5NzNmOGQzYTg",
+        "sourceId": "765973f8d3a8",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T01:49:06.553Z",
+        "updatedAt": "2026-11-06T01:49:06.553Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.84660288691521,
+          38.3465070889379
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج کانرود، محل ثبت نام و تجمع نیروهای حکومتی.",
+        "date": 1793911205,
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة البسيج في كانرود، وهي موقع لتسجيل وتجمع القوات الحكومية.",
+        "city:ar": "مقاطعة آستارا",
+        "province:ar": "جيلان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג' כאנרוד, מקום הרשמה והתכנסות של כוחות השלטון.",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Kanrud Besic üssü, hükümet güçlerinin kayıt ve toplanma yeri.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بنکەی بسیج",
+        "description:ckb": "بنکەی بسیجی کانڕوود، شوێنی تۆمارکردن و کۆبوونەوەی هێزە حکومییەکان.",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MTphYjFlMWU4ZjEyMzU",
+        "publicId": "MTphYjFlMWU4ZjEyMzU",
+        "sourceId": "ab1e1e8f1235",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T01:51:39.606Z",
+        "updatedAt": "2026-11-06T01:51:39.606Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2380,
+    "total": 2382,
     "layerId": 1,
     "clustered": false,
     "simplified": false

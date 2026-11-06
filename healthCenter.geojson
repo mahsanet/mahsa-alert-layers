@@ -287779,10 +287779,78 @@
         "createdAt": "2026-10-09T11:07:31.602Z",
         "updatedAt": "2026-10-09T11:07:31.602Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115211,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.877219700292585,
+              38.43478559156145
+            ],
+            [
+              48.87735320568788,
+              38.435255614469696
+            ],
+            [
+              48.87847303238749,
+              38.43503879045343
+            ],
+            [
+              48.878352464478354,
+              38.434644674493
+            ],
+            [
+              48.87825961332899,
+              38.43460015988313
+            ],
+            [
+              48.877219700292585,
+              38.43478559156145
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره بهداشت و درمان آستارا",
+        "description": "",
+        "date": "",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Astara Health and Treatment Department",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "إدارة الصحة والرعاية الصحية في آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מינהל הבריאות והטיפול של אסטארה",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara Sağlık ve Tedavi İdaresi",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "بەڕێوەبەرایەتیی تەندروستی و دەرمان لە ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzE6MjczZDgzNTEyNDJm",
+        "publicId": "MzE6MjczZDgzNTEyNDJm",
+        "sourceId": "273d8351242f",
+        "layerId": 31,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-06T00:56:54.772Z",
+        "updatedAt": "2026-11-06T00:56:54.772Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6862,
+    "total": 6863,
     "layerId": 31,
     "clustered": false,
     "simplified": false

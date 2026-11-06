@@ -13128,10 +13128,60 @@
         "createdAt": "2026-10-24T14:40:37.970Z",
         "updatedAt": "2026-10-24T14:40:37.970Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.877587765455246,
+          38.43706963749173
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "محل نگهداری زندانیان اعتراضات ۱۸ و ۱۹ دی شهر آستارا، در مجاورت کلانتری و پلیس فتا",
+        "date": 1793829895,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:fa": "محل نگهداری زندانیان آستارا",
+        "name:en": "Astara Detainees Holding Location",
+        "description:en": "Holding location for detainees of the January 8 and 9 protests in the city of Astara, adjacent to the police station and Cyber Police (FATA)",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "مكان احتجاز سجناء آستارا",
+        "description:ar": "مكان احتجاز سجناء احتجاجات 8 و 9 يناير في مدينة آستارا، بالقرب من مركز الشرطة وشرطة الفضاء الإلكتروني (فتا)",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מקום החזקת העצורים באסטארה",
+        "description:he": "מקום החזקת עצורי המחאות ב-18 ו-19 בדיי בעיר אסטארה, בסמוך לתחנת המשטרה ולמשטרת ה-FATA",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Astara Mahpuslarının Tutulduğu Yer",
+        "description:tr": "Astara şehrinde 8 ve 9 Dey ahlak/protesto tutuklularının tutulduğu yer, karakol ve siber polis (Fata) yakınındadır.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "شوێنی ڕاگرتنی زیندانییانی ئاستارا",
+        "description:ckb": "شوێنی ڕاگرتنی زیندانییانی ناڕەزایەتییەکانی 18 و 19ی بەفرانباری شاری ئاستارا، لە نزیک بنکەی پۆلیس و پۆلیسی فەتا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "NTo4ZTA1NTUwMGRhZmE",
+        "publicId": "NTo4ZTA1NTUwMGRhZmE",
+        "sourceId": "8e055500dafa",
+        "layerId": 5,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-05T20:10:27.301Z",
+        "updatedAt": "2026-11-05T20:10:27.301Z"
+      }
     }
   ],
   "metadata": {
-    "total": 188,
+    "total": 189,
     "layerId": 5,
     "clustered": false,
     "simplified": false

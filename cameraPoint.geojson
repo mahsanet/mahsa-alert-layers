@@ -818944,10 +818944,112 @@
         "createdAt": "2026-11-04T21:55:40.559Z",
         "updatedAt": "2026-11-04T21:55:40.559Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86320475488901,
+          38.33376600517545
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1793896618,
+        "addressDescription": "",
+        "description": "نصب دوربین نظارتی در دو سمت جاده زیر پل هوایی عابر در مسیر آستارا به لوندویل، روستای سیبلی.",
+        "city": "شهرستان آستارا",
+        "province": "استان گیلان",
+        "name:en": "Surveillance Camera",
+        "description:en": "Installation of surveillance cameras on both sides of the road under the pedestrian overpass on the Astara to Lavandvil route, Sibli village.",
+        "city:en": "Astara County",
+        "province:en": "Gilan",
+        "name:ar": "كاميرا مراقبة",
+        "description:ar": "تركيب كاميرا مراقبة على جانبي الطريق تحت جسر المشاة في المسار الممتد من أستارا إلى لوندويل، قرية سيبلي.",
+        "city:ar": "مقاطعة أستارا",
+        "province:ar": "جيلان",
+        "name:he": "מצלמת מעקב",
+        "description:he": "התקנת מצלמות מעקב משני צידי הכביש מתחת לגשר הולכי הרגל בדרך מאסטארה ללוונדוויל, בכפר סיבלי.",
+        "city:he": "מחוז אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Gözetim Kamerası",
+        "description:tr": "Astara - Lavandil yolu üzerinde, yaya üst geçidinin altında, Sibli köyü yakınlarında yolun her iki tarafına gözetim kamerası monte edildi.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "کامێرای چاودێری",
+        "description:ckb": "دانانی کامێرای چاودێری لە هەردوو لای ڕێگاکە لەژێر پردی پەڕینەوەی پیادە لە ڕێڕەوی ئاستارا بۆ لەوندویل، گوندی سیبلی.",
+        "city:ckb": "شارستانی ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MjA6NmQ2MjU4NmFlYTMx",
+        "publicId": "MjA6NmQ2MjU4NmFlYTMx",
+        "sourceId": "6d62586aea31",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-05T20:05:31.301Z",
+        "updatedAt": "2026-11-05T20:05:31.301Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.870890624821186,
+          38.30757651236283
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1793896474,
+        "addressDescription": "",
+        "description": "نصب دوربین نظارتی در دو طرف خیابان توسط نیروهای حکومتی در بلوار سلیمانی",
+        "city": "لوندویل",
+        "province": "استان گیلان",
+        "name:en": "Surveillance Camera",
+        "description:en": "Installation of surveillance cameras on both sides of the street by government forces on Soleimani Boulevard",
+        "city:en": "Lunevil",
+        "province:en": "Gilan",
+        "name:ar": "كاميرا مراقبة",
+        "description:ar": "تركيب كاميرات مراقبة على جانبي الشارع من قبل القوات الحكومية في شارع سليماني",
+        "city:ar": "لوندويل",
+        "province:ar": "جيلان",
+        "name:he": "מצלמת אבטחה",
+        "description:he": "התקנת מצלמות אבטחה משני צדי הרחוב על ידי כוחות המשטר בשדרות סלימאני",
+        "city:he": "לאונדוויל",
+        "province:he": "גילאן",
+        "name:tr": "Gözetim Kamerası",
+        "description:tr": "Hükümet güçleri tarafından Süleymani Bulvarı'nda sokağın her iki tarafına gözetim kamerası yerleştirildi.",
+        "city:tr": "Levandevil",
+        "province:tr": "Gilan",
+        "name:ckb": "کامێرای چاودێری",
+        "description:ckb": "دانانی کامێرای چاودێری لە هەردوو لای شەقامەکە لەلایەن هێزەکانی حکوومەتەوە لە بلواری سولەیمانی",
+        "city:ckb": "لەوندویل",
+        "province:ckb": "گیلان",
+        "id": "MjA6ZjY4NzZlZjlmYWI3",
+        "publicId": "MjA6ZjY4NzZlZjlmYWI3",
+        "sourceId": "f6876ef9fab7",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-05T20:06:26.779Z",
+        "updatedAt": "2026-11-05T20:06:26.779Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18686,
+    "total": 18688,
     "layerId": 20,
     "clustered": false,
     "simplified": false
