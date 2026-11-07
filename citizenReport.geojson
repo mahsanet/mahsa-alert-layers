@@ -13741,10 +13741,110 @@
         "createdAt": "2026-11-05T06:57:40.246Z",
         "updatedAt": "2026-11-05T06:58:17.346Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.86926961903853,
+          38.421912654834415
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش فعالیت پدافندی",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "date": 1793994767,
+        "description": "شلیک پدافند آستارا به جسم پرنده (احتمالا پهپاد سفید). گزارش در دست برسی میباشد.",
+        "sources": "",
+        "name:en": "Air defense activity report",
+        "description:en": "Astara air defense fired at a flying object (likely a white drone). The report is under review.",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "تقرير عن نشاط الدفاع الجوي",
+        "description:ar": "إطلاق نار من الدفاع الجوي في آستارا على جسم طائر (يُحتمل أنه طائرة مسيرة بيضاء). التقرير قيد المراجعة والتحقيق.",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "דיווח על פעילות הגנה אווירית",
+        "description:he": "ירי הגנה אווירית באסטארה לעבר עצם מעופף (ככל הנראה כטב\"ם לבן). הדיווח נמצא בבדיקה.",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "Hava savunma faaliyet raporu",
+        "description:tr": "Astara hava savunma sisteminin uçan bir cisme (muhtemelen beyaz bir İHA) ateş açması. Rapor incelenmektedir.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "ڕاپۆرتی چالاکی بەرگری ئاسمانی",
+        "description:ckb": "تەقەکردنی بەرگریی ئاسمانیی ئاستارا لە تەنێکی فڕندە (بە ئەگەری زۆرەوە فڕۆکەی بێفڕۆکەوانی سپی). ڕاپۆرتەکە لەژێر لێکۆڵینەوەدایە.",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzY6ZTI4YmY4OGJhMjk0",
+        "publicId": "MzY6ZTI4YmY4OGJhMjk0",
+        "sourceId": "e28bf88ba294",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T21:32:16.516Z",
+        "updatedAt": "2026-11-06T21:32:27.713Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.879734203219414,
+          38.406869633632994
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش فعالیت پهپادی",
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "date": 1793999065,
+        "description": "گزارش فعالیت پهپاد در محدوده اسکله آستارا.",
+        "sources": "",
+        "name:en": "Drone Activity Report",
+        "description:en": "Report of drone activity in the area of Astara Pier.",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "تقرير عن نشاط طائرات مسيرة",
+        "description:ar": "تقرير عن نشاط طائرات مسيرة في منطقة رصيف أستارا المائي.",
+        "city:ar": "أستارا",
+        "province:ar": "جيلان",
+        "name:he": "דיווח על פעילות כלי טיס בלתי מאויש",
+        "description:he": "דיווח על פעילות כלי טיס בלתי מאויש באזור מזח אסטארה.",
+        "city:he": "אסטארה",
+        "province:he": "גילאן",
+        "name:tr": "İHA Faaliyet Raporu",
+        "description:tr": "Astara İskelesi sınırları içinde İHA faaliyet raporu.",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "ڕاپۆرتی چالاکیی فڕۆکەی بێفڕۆکەوان",
+        "description:ckb": "ڕاپۆرتی چالاکیی فڕۆکەی بێفڕۆکەوان لە ناوچەی پردی ئاستارا.",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzY6NzYzYTFhYjEyNmE2",
+        "publicId": "MzY6NzYzYTFhYjEyNmE2",
+        "sourceId": "763a1ab126a6",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T21:39:38.644Z",
+        "updatedAt": "2026-11-06T21:40:14.888Z"
+      }
     }
   ],
   "metadata": {
-    "total": 282,
+    "total": 284,
     "layerId": 36,
     "clustered": false,
     "simplified": false

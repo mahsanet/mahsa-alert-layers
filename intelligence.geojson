@@ -19936,10 +19936,55 @@
         "createdAt": "2026-11-02T06:15:17.865Z",
         "updatedAt": "2026-11-02T06:15:17.865Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.86542221158743,
+          37.36417078321678
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "محل سرکوب و شکنجه معترضان در دهستان جیرهنده بخش لشت نشاء",
+        "date": 1793958233,
+        "city": "کلانشهر رشت",
+        "province": "استان گیلان",
+        "description:en": "Site of the suppression and torture of protesters in Jirehdeh rural district, Lasht-e Nesha district",
+        "city:en": "Rasht",
+        "province:en": "Gilan",
+        "description:ar": "موقع قمع المعترضين وتعذيبهم في منطقة جيرهنده الريفية التابعة لمركز لشت نغار",
+        "city:ar": "رشت الكبرى",
+        "province:ar": "جيلان",
+        "description:he": "מקום הדיכוי והעינויים של מפגינים במועצה האזורית ג'ירהנדה שבנפת לאשת נשא",
+        "city:he": "רשט",
+        "province:he": "גילאן",
+        "description:tr": "Reşt'in Laşt Neşa ilçesine bağlı Cirende kırsal mahallesinde protestocuların bastırıldığı ve işkence gördüğü yer",
+        "city:tr": "Reşt",
+        "province:tr": "Gilan",
+        "name:ckb": "شوێنی سەرکوت و ئەشکەنجەدانی ناڕازییان لە دێهاتی جیڕەهەندە سەر بە باخچەی لەشت نەشا",
+        "description:ckb": "شوێنی سەرکوت و ئەشکەنجەدانی ناڕازییان لە دێهاتی جیڕەهەندە بەشی لەشت نەشا",
+        "city:ckb": "ڕەشت",
+        "province:ckb": "گیلان",
+        "id": "Mjo2ZGZkNTg0MmI4MDY",
+        "publicId": "Mjo2ZGZkNTg0MmI4MDY",
+        "sourceId": "6dfd5842b806",
+        "layerId": 2,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T21:14:17.918Z",
+        "updatedAt": "2026-11-06T21:14:17.918Z"
+      }
     }
   ],
   "metadata": {
-    "total": 372,
+    "total": 373,
     "layerId": 2,
     "clustered": false,
     "simplified": false

@@ -92640,10 +92640,60 @@
         "createdAt": "2026-11-06T01:49:58.946Z",
         "updatedAt": "2026-11-06T01:49:58.946Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.73292801901698,
+          35.21390139589248
+        ]
+      },
+      "properties": {
+        "name:fa": "سپاه کبودرآهنگ",
+        "unofficial_name:fa": "",
+        "description": "سپاه کبودرآهنگ",
+        "date": 1793738087,
+        "city": "کبودرآهنگ",
+        "province": "استان همدان",
+        "name:en": "Kabudarahang IRGC",
+        "description:en": "Kabudarahang IRGC",
+        "city:en": "Kabudarahang",
+        "province:en": "Hamadan",
+        "name:ar": "الحرس الثوري في كبودرأهنغ",
+        "description:ar": "الحرس الثوري في كبودرأهنغ",
+        "city:ar": "كبودرأهنغ",
+        "province:ar": "همدان",
+        "name:he": "משמרות המהפכה כבודראחנג'",
+        "description:he": "משמרות המהפכה כבודראחנג'",
+        "city:he": "כבודראחנג'",
+        "province:he": "המדאן",
+        "name:tr": "Kabudarahang Devrim Muhafızları (Sepah)",
+        "description:tr": "Kabudarahang Devrim Muhafızları (Sepah)",
+        "city:tr": "Kabudarahang",
+        "province:tr": "Hemedan",
+        "name:ckb": "سپای کەوودەرئاھەنگ",
+        "description:ckb": "سپای کەوودەرئاھەنگ",
+        "city:ckb": "کەوودەرئاھەنگ",
+        "province:ckb": "ھەمەدان",
+        "id": "MTI6MjBlNmFkOTk4MTFi",
+        "publicId": "MTI6MjBlNmFkOTk4MTFi",
+        "sourceId": "20e6ad99811b",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T02:28:48.413Z",
+        "updatedAt": "2026-11-06T02:28:48.413Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1124,
+    "total": 1125,
     "layerId": 12,
     "clustered": false,
     "simplified": false

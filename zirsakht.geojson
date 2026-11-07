@@ -93898,10 +93898,101 @@
         "createdAt": "2026-11-01T23:08:50.520Z",
         "updatedAt": "2026-11-01T23:08:50.520Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115227,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.52352597463101,
+              34.82732997216239
+            ],
+            [
+              48.52367248132731,
+              34.82815098990855
+            ],
+            [
+              48.52346791165692,
+              34.82801444411014
+            ],
+            [
+              48.52304546442889,
+              34.82780586792441
+            ],
+            [
+              48.52278558856969,
+              34.82773281325835
+            ],
+            [
+              48.52260305587549,
+              34.827661809111575
+            ],
+            [
+              48.52259099631257,
+              34.82752799344627
+            ],
+            [
+              48.52291640118415,
+              34.8274713265408
+            ],
+            [
+              48.52303656507621,
+              34.82744708947773
+            ],
+            [
+              48.52340454096159,
+              34.82736243039986
+            ],
+            [
+              48.52352597463101,
+              34.82732997216239
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "انبار تجهیزات شرکت ارتباطات زیرساخت شعبه مدنی",
+        "date": "",
+        "city": "همدان",
+        "province": "استان همدان",
+        "name:en": "Infrastructure Communications Company Equipment Warehouse - Madani Branch",
+        "description:en": "Infrastructure Communications Company equipment warehouse, Madani branch",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "description:ar": "مستودع معدات شركة البنية التحتية للاتصالات فرع مدني",
+        "city:ar": "همدان",
+        "province:ar": "همدان",
+        "description:he": "מחסן הציוד של חברת תשתיות התקשורת, סניף מדני",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "name:tr": "Medeni Şubesi Altyapı İletişim Şirketi Ekipman Deposu",
+        "description:tr": "Medeni şubesi Altyapı İletişim Şirketi ekipman deposu",
+        "city:tr": "Hemedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "انبار تجهیزات شرکت ارتباطات زیرساخت شعبه مدنی",
+        "description:ckb": "گۆڕەپانی ئامێرەکانی کۆمپانیای پەیوەندییەکانی ژێرخانی لقی مەدەنی",
+        "city:ckb": "همەدان",
+        "province:ckb": "ھەمەدان",
+        "id": "MzU6NzM0Y2ExMmY0OGI1",
+        "publicId": "MzU6NzM0Y2ExMmY0OGI1",
+        "sourceId": "734ca12f48b5",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-06T02:33:54.619Z",
+        "updatedAt": "2026-11-06T02:33:54.619Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2029,
+    "total": 2030,
     "layerId": 35,
     "clustered": false,
     "simplified": false

@@ -21102,10 +21102,110 @@
         "createdAt": "2026-11-06T01:03:06.738Z",
         "updatedAt": "2026-11-06T01:03:06.738Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115718,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.362349819391966,
+          35.68708327232366
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای بسیج",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1793982306,
+        "description": "محل تجمع نیروهای سرکوبگر بسیج - خیابان امام خمینی، هاشمی، منطقه ۱۰ تهران",
+        "sources": "",
+        "name:en": "Basij forces gathering",
+        "description:en": "Assembly location of the suppressive Basij forces - Imam Khomeini Street, Hashemi, District 10 of Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "تجمع قوات البسيج",
+        "description:ar": "موقع تجمع قوات القمع التابعة للبسيج - شارع الإمام الخميني، هاشمي، المنطقة 10 في طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "התכנסות כוחות באסיג'",
+        "description:he": "מקום התכנסות של כוחות הדיכוי באסיג' - רחוב אימאם חומייני, האשמי, אזור 10 טהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Besic Güçleri Toplanması",
+        "description:tr": "Baskıcı Besic güçlerinin toplanma yeri - İmam Humeyni Caddesi, Haşemi, Bölge 10 Tahran",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "کۆبوونەوەی هێزەکانی بەسیج",
+        "description:ckb": "شوێنی کۆبوونەوەی هێزە سەرکوتکەرەکانی بەسیج - شەقامی ئیمام خومەینی، هاشمی، ناوچەی ١٠ی تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDA6NjBiMWJjNTVjZTRi",
+        "publicId": "NDA6NjBiMWJjNTVjZTRi",
+        "sourceId": "60b1bc55ce4b",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T21:06:03.031Z",
+        "updatedAt": "2026-11-06T21:06:03.031Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.368930965662,
+          33.516122008050814
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع خودروهای انتظامی",
+        "city": "خرم آباد",
+        "province": "استان لرستان",
+        "date": 1793987405,
+        "description": "تعداد بالای ماشین‌های نیروی انتظامی و اطلاعات",
+        "sources": "",
+        "name:en": "Law Enforcement Vehicles Gathering",
+        "description:en": "High number of law enforcement and intelligence cars",
+        "city:en": "Khorramabad",
+        "province:en": "Lorestan",
+        "name:ar": "تجمع لسيارات الشرطة",
+        "description:ar": "عدد كبير من سيارات قوى الأمن الداخلي والاستخبارات",
+        "city:ar": "خرم آباد",
+        "province:ar": "لرستان",
+        "name:he": "התקהלות רכבי משטרה",
+        "description:he": "מספר רב של מכוניות של כוחות הביטחון והמודיעין",
+        "city:he": "ח'ורמאבאד",
+        "province:he": "לורסתאן",
+        "name:tr": "Kolluk Kuvvetleri Araçlarının Toplanması",
+        "description:tr": "Çok sayıda emniyet ve istihbarat aracı",
+        "city:tr": "Hürremabad",
+        "province:tr": "Luristan",
+        "name:ckb": "کۆبوونەوەی ئۆتۆمبێلە انتظامییەکان",
+        "description:ckb": "ژمارەیەکی زۆر لە ئۆتۆمبێلەکانی هێزی انتظامی و زانیاری",
+        "city:ckb": "خوڕماوا",
+        "province:ckb": "لوڕستان",
+        "id": "NDA6NjFjYjI2Yzg2NzY0",
+        "publicId": "NDA6NjFjYjI2Yzg2NzY0",
+        "sourceId": "61cb26c86764",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T21:10:17.083Z",
+        "updatedAt": "2026-11-06T21:10:17.083Z"
+      }
     }
   ],
   "metadata": {
-    "total": 429,
+    "total": 431,
     "layerId": 40,
     "clustered": false,
     "simplified": false

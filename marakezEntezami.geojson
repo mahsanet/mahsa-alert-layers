@@ -266107,10 +266107,59 @@
         "createdAt": "2026-11-06T01:05:41.006Z",
         "updatedAt": "2026-11-06T01:07:08.645Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.87016256243629,
+          38.42135413315694
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی مرزبانی آستارا",
+        "description": "فرماندهی مرزبانی شهرستان آستارا",
+        "date": 1793912312,
+        "city": "آستارا",
+        "province": "استان گیلان",
+        "name:en": "Astara Border Guard Command",
+        "description:en": "Border Guard Command of Astara County",
+        "city:en": "Astara",
+        "province:en": "Gilan",
+        "name:ar": "قيادة حرس الحدود في آستارا",
+        "description:ar": "قيادة حرس الحدود في مقاطعة آستارا",
+        "city:ar": "آستارا",
+        "province:ar": "جيلان",
+        "name:he": "מפקדת משמר הגבול אסתארא",
+        "description:he": "מפקדת משמר הגבול של מחוז משנה אסתארא",
+        "city:he": "אסתארא",
+        "province:he": "גילאן",
+        "name:tr": "Astara Sınır Muhafız Komutanlığı",
+        "description:tr": "Astara şehri sınır muhafız komutanlığı",
+        "city:tr": "Astara",
+        "province:tr": "Gilan",
+        "name:ckb": "فەرماندەیی سنوورپارێزیی ئاستارا",
+        "description:ckb": "فەرماندەیی سنوورپارێزیی شارستانی ئاستارا",
+        "city:ckb": "ئاستارا",
+        "province:ckb": "گیلان",
+        "id": "MzpkNzMyYTk4MjkxOWI",
+        "publicId": "MzpkNzMyYTk4MjkxOWI",
+        "sourceId": "d732a982919b",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-06T02:22:03.834Z",
+        "updatedAt": "2026-11-06T02:22:09.135Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6113,
+    "total": 6114,
     "layerId": 3,
     "clustered": false,
     "simplified": false
