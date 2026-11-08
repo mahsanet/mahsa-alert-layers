@@ -124290,10 +124290,102 @@
         "createdAt": "2026-10-31T19:57:06.342Z",
         "updatedAt": "2026-10-31T19:57:35.994Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115756,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.544482018125166,
+              32.66968434235015
+            ],
+            [
+              51.544468788188226,
+              32.669633422733995
+            ],
+            [
+              51.54471440391248,
+              32.669388812528595
+            ],
+            [
+              51.545020131102575,
+              32.66910259416839
+            ],
+            [
+              51.54510493133654,
+              32.669041218460094
+            ],
+            [
+              51.54574552460343,
+              32.66931857092089
+            ],
+            [
+              51.54563677857783,
+              32.66958103326226
+            ],
+            [
+              51.54551594966031,
+              32.66961765585329
+            ],
+            [
+              51.54543298046988,
+              32.6696101956972
+            ],
+            [
+              51.54531859579325,
+              32.6699741142686
+            ],
+            [
+              51.54483608236296,
+              32.669868316042596
+            ],
+            [
+              51.544482018125166,
+              32.66968434235015
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرمانداری شهرستان خمینی شهر",
+        "description": "",
+        "date": "",
+        "city": "خمینی شهر",
+        "province": "استان اصفهان",
+        "name:en": "Khomeyni Shahr County Governor's Office",
+        "city:en": "Khomeyni Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "مقر مبنى محافظة خميني شهر",
+        "city:ar": "خميني شهر",
+        "province:ar": "أصفهان",
+        "name:he": "ממשל נפת ח'ומייני שאהר",
+        "city:he": "ח'ומייני שאהר",
+        "province:he": "אספהאן",
+        "name:tr": "Humeynişehr İlçe Kaymakamlığı",
+        "city:tr": "Humeynişehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "فرمانداریی شارستانی خومەینی‌شار",
+        "city:ckb": "خومەینی‌شار",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTc6YzY4YThjMGZkMzBk",
+        "publicId": "MTc6YzY4YThjMGZkMzBk",
+        "sourceId": "c68a8c0fd30d",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-07T21:08:03.464Z",
+        "updatedAt": "2026-11-07T21:08:03.464Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2447,
+    "total": 2448,
     "layerId": 17,
     "clustered": false,
     "simplified": false

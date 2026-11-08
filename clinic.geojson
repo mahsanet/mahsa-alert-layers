@@ -78366,48 +78366,6 @@
     },
     {
       "type": "Feature",
-      "id": 48844,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.7834087,
-          35.1792959
-        ]
-      },
-      "properties": {
-        "id": "MjM6MTg3Mw",
-        "city": "شهرستان کبودرآهنگ",
-        "name:fa": "درمانگاه داقداق آباد",
-        "province": "استان همدان",
-        "name:en": "Daghdagh Abad Clinic",
-        "city:en": "Kabudarahang County",
-        "province:en": "Hamadan",
-        "name:ar": "مستوصف داقداق آباد",
-        "city:ar": "مقاطعة كبودرأهنغ",
-        "province:ar": "همدان",
-        "name:he": "מרפאת דאקדאק אבאד",
-        "city:he": "כבודראהנג",
-        "province:he": "המדאן",
-        "name:tr": "Dagdag Abad Polikliniği",
-        "city:tr": "Kabudrahang İlçesi",
-        "province:tr": "Hemedan",
-        "name:ckb": "دەرمانگەی داقداق ئاباد",
-        "city:ckb": "شارستانی کەبوودەرئاهەنگ",
-        "province:ckb": "ھەمەدان",
-        "publicId": "MjM6MTg3Mw",
-        "sourceId": "1873",
-        "layerId": 23,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:00.380Z",
-        "updatedAt": "2026-03-11T20:58:00.380Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 48845,
       "geometry": {
         "type": "Point",
@@ -226362,7 +226320,7 @@
     }
   ],
   "metadata": {
-    "total": 5394,
+    "total": 5393,
     "layerId": 23,
     "clustered": false,
     "simplified": false

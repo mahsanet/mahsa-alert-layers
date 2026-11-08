@@ -19981,10 +19981,60 @@
         "createdAt": "2026-11-06T21:14:17.918Z",
         "updatedAt": "2026-11-06T21:14:17.918Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115767,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.396918680518866,
+          35.571577857141904
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "اداره اطلاعات",
+        "date": 1794031614,
+        "city": "سمنان",
+        "province": "استان سمنان",
+        "name:fa": "اداره اطلاعات سمنان",
+        "name:en": "Semnan Intelligence Department",
+        "description:en": "Intelligence Department",
+        "city:en": "Semnan",
+        "province:en": "Semnan",
+        "name:ar": "دائرة الاستخبارات في سمنان",
+        "description:ar": "دائرة الاستخبارات",
+        "city:ar": "سمنان",
+        "province:ar": "سمنان",
+        "name:he": "משרד המודיעין של סמנאן",
+        "description:he": "משרד המודיעין",
+        "city:he": "סמנאן",
+        "province:he": "סמנאן",
+        "name:tr": "Semnan İstihbarat Müdürlüğü",
+        "description:tr": "İstihbarat Müdürlüğü",
+        "city:tr": "Semnan",
+        "province:tr": "Simnan",
+        "name:ckb": "بەڕێوەبەرایەتیی زانیاریی سمنان",
+        "description:ckb": "بەڕێوەبەرایەتیی زانیاری",
+        "city:ckb": "سمنان",
+        "province:ckb": "سمنان",
+        "id": "MjozMTY1ZjVlNjdkYzA",
+        "publicId": "MjozMTY1ZjVlNjdkYzA",
+        "sourceId": "3165f5e67dc0",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-07T21:20:30.149Z",
+        "updatedAt": "2026-11-07T21:20:30.149Z"
+      }
     }
   ],
   "metadata": {
-    "total": 373,
+    "total": 374,
     "layerId": 2,
     "clustered": false,
     "simplified": false

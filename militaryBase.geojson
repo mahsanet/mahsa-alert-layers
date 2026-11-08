@@ -359,16 +359,25 @@
         ]
       },
       "properties": {
-        "id": "MTE6ODA1",
+        "name:fa": "",
+        "unofficial_name:fa": "نیروی مقاومت بسیج ساوه",
+        "operator": "",
+        "description": "کل این محدوده بزرگترین ناحیه سپاه استان مرکزی و محل نشان گذاری شده تونل ورودی به زیرزمین محل استقرار حداقل ۸۰ موشک و لانچر و خودروهای زرهی نظامی و سرکوب سکوهای استقرار پدافند هوایی و لانچر موشک در تصویر مشخص میباشد.",
+        "date": "",
         "city": "ساوه",
         "province": "استان مرکزی",
-        "unofficial_name:fa": "نیروی مقاومت بسیج ساوه",
+        "id": "MTE6ODA1",
+        "name:en": "Saveh Military Base Area",
+        "description:en": "This entire large area is the largest IRGC headquarters in Markazi Province. The marked location is the entrance tunnel to an underground facility housing at least 80 missiles, launchers, and military armored vehicles. Air defense deployment platforms and missile launchers for suppression are visible in the image.",
         "city:en": "Saveh",
         "province:en": "Markazi",
-        "city:ar": "ساوة",
+        "description:ar": "تعتبر هذه المنطقة بأكملها أكبر موقع للحرس الثوري في المحافظة المركزية، والنقطة المحددة هي مدخل نفق يؤدي إلى أسفل الأرض حيث يتواجد ما لا يقل عن 80 صاروخا ومنصة إطلاق ومركبات عسكرية ومدرعات قمع، وتظهر في الصورة منصات نشر الدفاع الجوي ومناص إطلاق الصواريخ.",
+        "city:ar": "صاوه",
         "province:ar": "المركزية",
+        "description:he": "כל האזור הזה הוא השטח הגדול ביותר של משמרות המהפכה במחוז מרכזי, והמיקום המסומן הוא מנהרת הכניסה לתת-הקרקע שבו מוצבים לפחות 80 טילים, משגרים ורכבים משוריינים צבאיים ורכבי דיכוי. פלטפורמות הציב של ההגנה האווירית ומשגרי הטילים מוצגים בתמונה.",
         "city:he": "סאווה",
         "province:he": "מרכזי",
+        "description:tr": "Bu bölgenin tamamı Merkezi Eyaleti Devrim Muhafızları'nın en büyük bölgesidir ve işaretlenen yer, en az 80 füze, lançer ve askerî zırhlı aracın bulunduğu bodrum kata açılan giriş tünelidir; görselde hava savunma konuşlandırma platformları ile füze lançerlerinin bastırıldığı görülmektedir.",
         "city:tr": "Save",
         "province:tr": "Merkezi",
         "city:ckb": "ساوە",
@@ -382,7 +391,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:49:49.444Z",
-        "updatedAt": "2026-03-11T20:49:49.444Z"
+        "updatedAt": "2026-11-07T21:21:43.521Z"
       }
     },
     {

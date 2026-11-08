@@ -14162,10 +14162,109 @@
         "createdAt": "2026-11-06T21:41:11.293Z",
         "updatedAt": "2026-11-06T21:41:11.293Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.90983618050814,
+          35.81908169094257
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "کرج",
+        "province": "استان البرز",
+        "date": 1794000893,
+        "description": "ایست بازرسی شبانه در فاز ۳ مهرشهر کرج.",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Nighttime checkpoint in Phase 3 of Mehrshahr, Karaj.",
+        "city:en": "Karaj",
+        "province:en": "Alborz",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش ليلية في المرحلة 3 من مهرشهر، كرج.",
+        "city:ar": "كرج",
+        "province:ar": "ألبرز",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה לילי בפאז 3 של מהרשהר, כרג'.",
+        "city:he": "כרג'",
+        "province:he": "אלבורז",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Kerec'in Mehrşehr 3. fazında gece kontrol noktası.",
+        "city:tr": "Kerec",
+        "province:tr": "Elburz",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنینی شەوانە لە قۆناغی ٣ی مەهرشاری کەرهەج.",
+        "city:ckb": "کەرهەج",
+        "province:ckb": "ئەلبورز",
+        "id": "Mzk6ZDhhM2E3NTc5YWFk",
+        "publicId": "Mzk6ZDhhM2E3NTc5YWFk",
+        "sourceId": "d8a3a7579aad",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-07T20:56:46.720Z",
+        "updatedAt": "2026-11-07T20:56:46.720Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115768,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.628586664795876,
+          36.69657549385893
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "بابلسر",
+        "province": "استان مازندران",
+        "date": 1794086174,
+        "description": "ایست بازرسی در پاسداران، بخش مرکزی شهرستان بابلسر، دهستان بابلرود",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint in Pasdaran, Central District of Babolsar County, Babolrud Rural District",
+        "city:en": "Babolsar",
+        "province:en": "Mazandaran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش في باسباران، الجزء المركزي من مقاطعة بابلسر، قسم بابلرود الريفي",
+        "city:ar": "بابلسر",
+        "province:ar": "مازندران",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה בפאסדאראן, החלק המרכזי של נפת באבולסאר, מחוז כפרי באבולרוד",
+        "city:he": "באבולסאר",
+        "province:he": "מאזנדראן",
+        "name:tr": "Kontrol Noktası",
+        "city:tr": "Babolsar",
+        "province:tr": "Mazenderan",
+        "name:ckb": "خاڵی پشکنیین",
+        "description:ckb": "خاڵی پشکنیین لە پاسداران، بەشی ناوەندی شارستانی بابلسر، دێستانی بابلرود",
+        "city:ckb": "بابلسر",
+        "province:ckb": "مازەندەران",
+        "id": "Mzk6ZWQ3OWU0YTk1ZmI2",
+        "publicId": "Mzk6ZWQ3OWU0YTk1ZmI2",
+        "sourceId": "ed79e4a95fb6",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-07T21:26:06.855Z",
+        "updatedAt": "2026-11-07T21:26:06.855Z"
+      }
     }
   ],
   "metadata": {
-    "total": 291,
+    "total": 293,
     "layerId": 39,
     "clustered": false,
     "simplified": false

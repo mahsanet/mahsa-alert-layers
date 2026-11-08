@@ -148451,10 +148451,74 @@
         "createdAt": "2026-11-06T02:36:45.321Z",
         "updatedAt": "2026-11-06T02:36:45.321Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115764,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.782748015242106,
+              35.18177482504434
+            ],
+            [
+              48.78349899814077,
+              35.182161119123805
+            ],
+            [
+              48.78390514195411,
+              35.18162030689818
+            ],
+            [
+              48.78318225705425,
+              35.18122983405814
+            ],
+            [
+              48.782748015242106,
+              35.18177482504434
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان داق داق آباد",
+        "description": "",
+        "date": "",
+        "city": "داق داق آباد",
+        "province": "استان همدان",
+        "name:en": "Daq Daq Abad Hospital",
+        "city:en": "Daq Daq Abad",
+        "province:en": "Hamadan",
+        "name:ar": "مستشفى داق داق آباد",
+        "city:ar": "داق داق آباد",
+        "province:ar": "همدان",
+        "name:he": "בית החולים דאק דאק אבאד",
+        "city:he": "דאק דאק אבאד",
+        "province:he": "המדאן",
+        "name:tr": "Daq Daq Abad Hastanesi",
+        "city:tr": "Daq Daq Abad",
+        "province:tr": "Hemedan",
+        "name:ckb": "نەخۆشخانەی دەق دەق ئاوا",
+        "city:ckb": "دەق دەق ئاوا",
+        "province:ckb": "ھەمەدان",
+        "id": "MjU6OTFkMjJmY2JlZjlj",
+        "publicId": "MjU6OTFkMjJmY2JlZjlj",
+        "sourceId": "91d22fcbef9c",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-07T21:18:19.535Z",
+        "updatedAt": "2026-11-07T21:18:19.535Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3534,
+    "total": 3535,
     "layerId": 25,
     "clustered": false,
     "simplified": false

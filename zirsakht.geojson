@@ -93989,10 +93989,49 @@
         "createdAt": "2026-11-06T02:33:54.619Z",
         "updatedAt": "2026-11-06T02:33:54.619Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.35055695668672,
+          31.820668498630596
+        ]
+      },
+      "properties": {
+        "name": "دکل",
+        "description": "",
+        "date": "",
+        "city": "یزد",
+        "province": "استان یزد",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "city:ar": "يزد",
+        "province:ar": "يزد",
+        "city:he": "יזד",
+        "province:he": "יזד",
+        "city:tr": "Yezd",
+        "province:tr": "Yezd",
+        "city:ckb": "یزد",
+        "province:ckb": "یەزد",
+        "id": "MzU6NDFlYTFmYTA0MzM1",
+        "publicId": "MzU6NDFlYTFmYTA0MzM1",
+        "sourceId": "41ea1fa04335",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-07T22:50:25.482Z",
+        "updatedAt": "2026-11-07T22:50:25.482Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2030,
+    "total": 2031,
     "layerId": 35,
     "clustered": false,
     "simplified": false
