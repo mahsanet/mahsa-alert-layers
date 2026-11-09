@@ -14185,10 +14185,60 @@
         "createdAt": "2026-11-07T22:33:06.250Z",
         "updatedAt": "2026-11-07T22:33:06.250Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.202604151579465,
+          35.754702238602576
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش فعالیت پدافندی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1794171233,
+        "description": "شنیده شدن صدای فعالیت پدافند",
+        "sources": "",
+        "name:en": "Air Defense Activity Report",
+        "description:en": "Sound of air defense activity heard",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "تقرير عن نشاط الدفاع الجوي",
+        "description:ar": "سماع أصل أصوات نشاط الدفاع الجوي",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "דיווח על פעילות הגנה אווירית",
+        "description:he": "שמיעת קולות של פעילות הגנה אווירית",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Hava savunma faaliyeti raporu",
+        "description:tr": "Hava savunma faaliyetine ait seslerin duyulması",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "ڕاپۆرتی چالاکیی بەرگریی ئاسمانی",
+        "description:ckb": "بیستنی دەنگی چالاکیی بەرگریی ئاسمانی",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MzY6OWVhOWVjYzc0NDE4",
+        "publicId": "MzY6OWVhOWVjYzc0NDE4",
+        "sourceId": "9ea9ecc74418",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-09T01:05:13.151Z",
+        "updatedAt": "2026-11-09T01:05:18.128Z"
+      }
     }
   ],
   "metadata": {
-    "total": 291,
+    "total": 292,
     "layerId": 36,
     "clustered": false,
     "simplified": false

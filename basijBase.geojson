@@ -106149,10 +106149,50 @@
         "createdAt": "2026-11-06T21:09:02.658Z",
         "updatedAt": "2026-11-06T21:09:02.658Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115787,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.54547210782766,
+          32.398997899455296
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج",
+        "date": 1794121730,
+        "city": "",
+        "province": "",
+        "name:en": "Basij Base",
+        "description:en": "Basij Base",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة البسيج",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג'",
+        "name:tr": "Besic Karargahı",
+        "description:tr": "Besic Karargahı",
+        "name:ckb": "بنکەی بسیج",
+        "description:ckb": "بنکەی بسیج",
+        "id": "MToyOGEzYzIzNzhiMmU",
+        "publicId": "MToyOGEzYzIzNzhiMmU",
+        "sourceId": "28a3c2378b2e",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-08T18:52:01.784Z",
+        "updatedAt": "2026-11-08T18:52:01.784Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2384,
+    "total": 2385,
     "layerId": 1,
     "clustered": false,
     "simplified": false

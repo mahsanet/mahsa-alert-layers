@@ -1687,55 +1687,6 @@
     },
     {
       "type": "Feature",
-      "id": 90379,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.308728072110995,
-          35.71233748891794
-        ]
-      },
-      "properties": {
-        "name:fa": "ایست بازرسی",
-        "date": "",
-        "description": "ایست بازرستی ستاری",
-        "city": "تهران",
-        "province": "استان تهران",
-        "name:en": "Checkpoint",
-        "description:en": "Sattari Checkpoint",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "name:ar": "نقطة تفتيش",
-        "description:ar": "نقطة تفتيش ستاري",
-        "city:ar": "طهران",
-        "province:ar": "طهران",
-        "name:he": "מחסום בדיקה",
-        "description:he": "מחסום בדיקה סתארי",
-        "city:he": "טהראן",
-        "province:he": "טהראן",
-        "name:tr": "Kontrol Noktası",
-        "description:tr": "Sattari kontrol noktası",
-        "city:tr": "Tahran",
-        "province:tr": "Tahran",
-        "name:ckb": "بازگەی پشکنین",
-        "description:ckb": "بازگەی پشکنینی سەتاری",
-        "city:ckb": "تاران",
-        "province:ckb": "تاران",
-        "id": "Mzk6YmFlNjVhOTcwMzJk",
-        "publicId": "Mzk6YmFlNjVhOTcwMzJk",
-        "sourceId": "bae65a97032d",
-        "layerId": 39,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "verified",
-        "expirationDate": null,
-        "createdAt": "2026-03-16T22:46:11.186Z",
-        "updatedAt": "2026-10-14T20:26:36.650Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 90382,
       "geometry": {
         "type": "Point",
@@ -14261,10 +14212,110 @@
         "createdAt": "2026-11-07T21:26:06.855Z",
         "updatedAt": "2026-11-07T21:26:06.855Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115783,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.16578146070242,
+          30.50164419765528
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان خرمشهر",
+        "province": "استان خوزستان",
+        "date": 1794153721,
+        "description": "ایست بازرسی سپاه در ورودی خرمشهر از جاده اهواز - خرمشهر",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "IRGC checkpoint at the entrance of Khorramshahr from the Ahvaz - Khorramshahr road",
+        "city:en": "Khorramshahr County",
+        "province:en": "Khuzestan",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش تابعة للحرس الثوري عند مدخل خرمشهر من طريق الأهواز - خرمشهر",
+        "city:ar": "مقاطعة المحمرة",
+        "province:ar": "خوزستان",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה של משמרות המהפכה בכניסה לח'וראמשאהר מכביש אהוואז - ח'וראמשאהר",
+        "city:he": "ח'וראמשאהר",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Ahvaz - Hürremşehr yolu üzerinden Hürremşehr girişindeki Devrim Muhafızları kontrol noktası",
+        "city:tr": "Hürremşehr",
+        "province:tr": "Huzistan",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنینی سوپا لە دەروازەی خوڕدەشار لە ڕێگای ئەهواز - خوڕدەشار",
+        "city:ckb": "خوڕدەشار",
+        "province:ckb": "خووزستان",
+        "id": "Mzk6NmYzZDljMTcyYzY1",
+        "publicId": "Mzk6NmYzZDljMTcyYzY1",
+        "sourceId": "6f3d9c172c65",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-08T18:07:36.039Z",
+        "updatedAt": "2026-11-08T18:07:36.039Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.30876833572984,
+          35.7123717298128
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1794174035,
+        "description": "ایست بازرسی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Kontrol noktası",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنین",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzk6OTQ1OWU3ZTQ1Mjlk",
+        "publicId": "Mzk6OTQ1OWU3ZTQ1Mjlk",
+        "sourceId": "9459e7e4529d",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-09T01:05:57.612Z",
+        "updatedAt": "2026-11-09T01:05:57.612Z"
+      }
     }
   ],
   "metadata": {
-    "total": 293,
+    "total": 294,
     "layerId": 39,
     "clustered": false,
     "simplified": false

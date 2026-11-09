@@ -819046,10 +819046,112 @@
         "createdAt": "2026-11-05T20:06:26.779Z",
         "updatedAt": "2026-11-05T20:06:26.779Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.66286480891023,
+          36.5237172648432
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "lastReport": "",
+        "date": 1794141711,
+        "addressDescription": "",
+        "description": "دوربین امنیتی و ترافیکی",
+        "city": "بابل",
+        "province": "استان مازندران",
+        "name:en": "Camera",
+        "description:en": "Security and traffic camera",
+        "city:en": "Babol",
+        "province:en": "Mazandaran",
+        "name:ar": "كاميرا",
+        "description:ar": "كاميرا أمنية ومراقبة مرورية",
+        "city:ar": "بابل",
+        "province:ar": "مازندران",
+        "name:he": "מצלמה",
+        "description:he": "מצלמת אבטחה ותנועה",
+        "city:he": "באבול",
+        "province:he": "מאזנדראן",
+        "name:tr": "Kamera",
+        "description:tr": "Güvenlik ve trafik kamerası",
+        "city:tr": "Babol",
+        "province:tr": "Mazenderan",
+        "name:ckb": "کامێرا",
+        "description:ckb": "کامێرای ئەمنی و هاتووچۆ",
+        "city:ckb": "بابل",
+        "province:ckb": "مازەندەران",
+        "id": "MjA6NzFjMzlkNWFkOTlh",
+        "publicId": "MjA6NzFjMzlkNWFkOTlh",
+        "sourceId": "71c39d5ad99a",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-08T18:12:14.413Z",
+        "updatedAt": "2026-11-08T18:12:19.861Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.676436202323316,
+          36.53864044393279
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین‌های نظارتی",
+        "lastReport": "",
+        "date": 1794141383,
+        "addressDescription": "",
+        "description": "دوربین‌های نظارتی دور تا دور میدان ولایت",
+        "city": "بابل",
+        "province": "استان مازندران",
+        "name:en": "Surveillance cameras",
+        "description:en": "Surveillance cameras all around Velayat Square",
+        "city:en": "Babol",
+        "province:en": "Mazandaran",
+        "name:ar": "كاميرات المراقبة",
+        "description:ar": "كاميرات المراقبة المحيطة بميدان ولايت",
+        "city:ar": "بابل",
+        "province:ar": "مازندران",
+        "name:he": "מצלמות מעקב",
+        "description:he": "מצלמות מעקב מסביב לכיכר ולאית",
+        "city:he": "באבל",
+        "province:he": "מאזנדראן",
+        "name:tr": "Gözetim Kameraları",
+        "description:tr": "Velayet Meydanı'nın etrafını çevreleyen gözetim kameraları",
+        "city:tr": "Babil",
+        "province:tr": "Mazenderan",
+        "name:ckb": "کامێرا چاودێرییەکان",
+        "description:ckb": "کامێرا چاودێرییەکان لە دەورووبەری مەیدانی وێلاەت",
+        "city:ckb": "بابل",
+        "province:ckb": "مازەندەران",
+        "id": "MjA6YmI4ODhmNjRiNjc4",
+        "publicId": "MjA6YmI4ODhmNjRiNjc4",
+        "sourceId": "bb888f64b678",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-08T19:18:17.376Z",
+        "updatedAt": "2026-11-08T19:18:22.247Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18688,
+    "total": 18690,
     "layerId": 20,
     "clustered": false,
     "simplified": false

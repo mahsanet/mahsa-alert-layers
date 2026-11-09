@@ -99110,49 +99110,6 @@
     },
     {
       "type": "Feature",
-      "id": 86443,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.485375,
-          34.8032853
-        ]
-      },
-      "properties": {
-        "id": "Mzo2MzYzNw",
-        "city": "همدان",
-        "osm_id": "w509695997",
-        "name:fa": "کلانتری ۱۲ مدرس",
-        "province": "استان همدان",
-        "name:en": "Police Station 12 Modarres",
-        "city:en": "Hamadan",
-        "province:en": "Hamadan",
-        "name:he": "תחנת משטרה 12 מדרס",
-        "city:he": "המדאן",
-        "province:he": "המדאן",
-        "name:ar": "مركز شرطة 12 مدرس",
-        "city:ar": "همدان",
-        "province:ar": "همدان",
-        "name:tr": "12 Müderris Polis Merkezi",
-        "city:tr": "Hamedan",
-        "province:tr": "Hemedan",
-        "name:ckb": "بنکەی پۆلیسی 12ی مدرس",
-        "city:ckb": "هەمەدان",
-        "province:ckb": "ھەمەدان",
-        "publicId": "Mzo2MzYzNw",
-        "sourceId": "63637",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:06.745Z",
-        "updatedAt": "2026-03-13T04:41:06.745Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 86444,
       "geometry": {
         "type": "Point",
@@ -130541,49 +130498,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-13T04:41:07.094Z",
         "updatedAt": "2026-03-13T04:41:07.094Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 87192,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.2013465,
-          30.4357841
-        ]
-      },
-      "properties": {
-        "id": "Mzo2NDgwNQ",
-        "city": "خرمشهر",
-        "osm_id": "",
-        "name:fa": "فرماندهی انتظامی شهرستان خرمشهر",
-        "province": "استان خوزستان",
-        "name:en": "Khorramshahr County Law Enforcement Command",
-        "city:en": "Khorramshahr",
-        "province:en": "Khuzestan",
-        "name:ar": "قيادة شرطة مقاطعة خرمشهر",
-        "city:ar": "خرمشهر",
-        "province:ar": "خوزستان",
-        "name:he": "מפקדת המשטרה של נפת ח'ורמשהר",
-        "city:he": "ח'ורמשהר",
-        "province:he": "ח'וזסתאן",
-        "name:tr": "Hürremşehr Şehristanı Emniyet Müdürlüğü",
-        "city:tr": "Hürremşehr",
-        "province:tr": "Huzistan",
-        "name:ckb": "فەرماندەیی ئینتیزامیی شارستانی خۆڕەمشار",
-        "city:ckb": "خۆڕەمشار",
-        "province:ckb": "خووزستان",
-        "publicId": "Mzo2NDgwNQ",
-        "sourceId": "64805",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.095Z",
-        "updatedAt": "2026-03-13T04:41:07.095Z"
       }
     },
     {
@@ -189175,48 +189089,6 @@
         "province:ckb": "کرمان",
         "publicId": "Mzo2Njg2OA",
         "sourceId": "66868",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:07.811Z",
-        "updatedAt": "2026-03-13T04:41:07.811Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 88833,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.1948315,
-          30.4358426
-        ]
-      },
-      "properties": {
-        "id": "Mzo2Njg2OQ",
-        "city": "خرمشهر",
-        "osm_id": "w1004735047",
-        "name:fa": "کلانتری ۱۲ عقیل",
-        "province": "استان خوزستان",
-        "name:en": "Aghil Police Station 12",
-        "city:en": "Khorramshahr",
-        "province:en": "Khuzestan",
-        "name:ar": "مركز شرطة 12 عقيل",
-        "city:ar": "المحمرة",
-        "province:ar": "خوزستان",
-        "name:he": "תחנת משטרה 12 עקיל",
-        "province:he": "ח'וזסתאן",
-        "name:tr": "Akil 12 Nolu Polis Karakolu",
-        "city:tr": "Hürremşehr",
-        "province:tr": "Huzistan",
-        "name:ckb": "بنکەی پۆلیسی 12ی عەقیل",
-        "city:ckb": "خومڕەشەهر",
-        "province:ckb": "خووزستان",
-        "publicId": "Mzo2Njg2OQ",
-        "sourceId": "66869",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -254882,55 +254754,6 @@
     },
     {
       "type": "Feature",
-      "id": 93169,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.194875413399245,
-          30.435716291471934
-        ]
-      },
-      "properties": {
-        "name:fa": "کلانتری ۱۲ عقیل",
-        "description": "کلانتری ۱۲ عقیل",
-        "date": 1777638595,
-        "city": "خرمشهر",
-        "province": "استان خوزستان",
-        "name:en": "Police Station 12 Aghil",
-        "description:en": "Police Station 12 Aghil",
-        "city:en": "Khorramshahr",
-        "province:en": "Khuzestan",
-        "name:ar": "مركز شرطة 12 عقيل",
-        "description:ar": "مركز شرطة 12 عقيل",
-        "city:ar": "المحمرة",
-        "province:ar": "خوزستان",
-        "name:he": "תחנת משטרה 12 עקיל",
-        "description:he": "תחנת משטרה 12 עקיל",
-        "city:he": "ח'וראמשהר",
-        "province:he": "ח'וזסתאן",
-        "name:tr": "12 Akil Polis Karakolu",
-        "description:tr": "12 Akil Polis Karakolu",
-        "city:tr": "Hürremşehir",
-        "province:tr": "Huzistan",
-        "name:ckb": "بنکەی پۆلیسی 12ی عەقیل",
-        "description:ckb": "بنکەی پۆلیسی 12ی عەقیل",
-        "city:ckb": "خورەمشار",
-        "province:ckb": "خووزستان",
-        "id": "MzoyZTNjZGI3ZmQ4Njc",
-        "publicId": "MzoyZTNjZGI3ZmQ4Njc",
-        "sourceId": "2e3cdb7fd867",
-        "layerId": 3,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-05-04T22:39:14.338Z",
-        "updatedAt": "2026-05-04T22:39:14.338Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93170,
       "geometry": {
         "type": "Point",
@@ -266156,10 +265979,154 @@
         "createdAt": "2026-11-06T02:22:03.834Z",
         "updatedAt": "2026-11-06T02:22:09.135Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115806,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.20130400558321,
+              30.438205310591428
+            ],
+            [
+              48.20179356410054,
+              30.43820209623756
+            ],
+            [
+              48.20178983649828,
+              30.43762886801477
+            ],
+            [
+              48.2012766698283,
+              30.437625653641078
+            ],
+            [
+              48.201167326810605,
+              30.437752085580456
+            ],
+            [
+              48.20115987160423,
+              30.437803515475167
+            ],
+            [
+              48.20130400558321,
+              30.438205310591428
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "فرماندهی انتظامی شهرستان خرمشهر",
+        "description": "",
+        "date": "",
+        "city": "خرمشهر",
+        "province": "استان خوزستان",
+        "name:en": "Khorramshahr County Law Enforcement Command",
+        "city:en": "Khorramshahr",
+        "province:en": "Khuzestan",
+        "name:ar": "قيادة شرطة مقاطعة المحمرة",
+        "city:ar": "المحمرة",
+        "province:ar": "خوزستان",
+        "name:he": "מפקדת המשטרה של נפת ח'וראמשהר",
+        "city:he": "ח'וראמשהר",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Hürremşehr İlçe Emniyet Müdürlüğü",
+        "city:tr": "Hürremşehr",
+        "province:tr": "Huzistan",
+        "name:ckb": "فەرماندەیی انتظامیی شارستانی خەرەمشار",
+        "city:ckb": "خەرەمشار",
+        "province:ckb": "خووزستان",
+        "id": "Mzo5OGZlNGZiNTUzMTY",
+        "publicId": "Mzo5OGZlNGZiNTUzMTY",
+        "sourceId": "98fe4fb55316",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-09T01:11:02.897Z",
+        "updatedAt": "2026-11-09T01:11:02.897Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115807,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.19470122789281,
+              30.435653682155902
+            ],
+            [
+              48.194731311534355,
+              30.43589066685965
+            ],
+            [
+              48.19500287737537,
+              30.43586051795036
+            ],
+            [
+              48.194968728377205,
+              30.435591981901723
+            ],
+            [
+              48.19493376630825,
+              30.435601096715146
+            ],
+            [
+              48.194923196380074,
+              30.435585671646166
+            ],
+            [
+              48.19470122789281,
+              30.435653682155902
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری ۱۲ عقیل",
+        "description": "",
+        "date": "",
+        "city": "خرمشهر",
+        "province": "استان خوزستان",
+        "name:en": "Aghil 12th Police Station",
+        "city:en": "Khorramshahr",
+        "province:en": "Khuzestan",
+        "name:ar": "قسمت الشرطة 12 عقيل",
+        "city:ar": "المحمرة",
+        "province:ar": "خوزستان",
+        "name:he": "תחנת משטרה 12 עקיל",
+        "city:he": "ח'וראמשהר",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "12 Nolu Akil Polis Karakolu",
+        "city:tr": "Hürremşehr",
+        "province:tr": "Huzistan",
+        "name:ckb": "بنکەی پۆلیسی ۱۲ عەقیل",
+        "city:ckb": "خووڕەمشەهر",
+        "province:ckb": "خووزستان",
+        "id": "MzphZjgxYTg5MWQ0ZmE",
+        "publicId": "MzphZjgxYTg5MWQ0ZmE",
+        "sourceId": "af81a891d4fa",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-09T01:11:33.959Z",
+        "updatedAt": "2026-11-09T01:11:33.959Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6114,
+    "total": 6112,
     "layerId": 3,
     "clustered": false,
     "simplified": false

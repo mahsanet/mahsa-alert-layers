@@ -251268,10 +251268,64 @@
         "createdAt": "2026-11-06T02:20:49.582Z",
         "updatedAt": "2026-11-06T02:20:49.582Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115788,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.54526889748442,
+              32.3987089354749
+            ],
+            [
+              51.54553031840439,
+              32.39878380327988
+            ],
+            [
+              51.545618478029695,
+              32.39856394999707
+            ],
+            [
+              51.545364049584975,
+              32.39849407739375
+            ],
+            [
+              51.54526889748442,
+              32.3987089354749
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "امامزاده سکینه خاتون",
+        "description": "",
+        "date": "",
+        "city": "",
+        "province": "",
+        "name:en": "Imamzadeh Sakineh Khatoon",
+        "name:ar": "مرقد السيدة سكينة خاتون",
+        "name:he": "אימאמזאדה סכינה ח'אתון",
+        "name:tr": "İmamzade Sekine Hatun",
+        "name:ckb": "امامزاده سەکینە خاتوون",
+        "id": "NDo2MWQxYjcxZWQxNjc",
+        "publicId": "NDo2MWQxYjcxZWQxNjc",
+        "sourceId": "61d1b71ed167",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-08T18:52:30.829Z",
+        "updatedAt": "2026-11-08T18:52:30.829Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5796,
+    "total": 5797,
     "layerId": 4,
     "clustered": false,
     "simplified": false
