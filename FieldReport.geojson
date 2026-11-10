@@ -3,562 +3,426 @@
   "features": [
     {
       "type": "Feature",
-      "id": 115778,
+      "id": 115811,
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              51.089222,
-              35.742927
+              51.521273,
+              32.912116
             ],
             [
-              51.23335,
-              35.683573
+              51.535153,
+              32.828436
             ],
             [
-              51.23729,
-              35.663872
+              51.562431,
+              32.832129
             ],
             [
-              51.313807,
-              35.630538
+              51.60518,
+              32.821052
             ],
             [
-              51.334381,
-              35.610488
+              51.586239,
+              32.856997
             ],
             [
-              51.40025,
-              35.614106
+              51.608652,
+              32.865145
             ],
             [
-              51.417024,
-              35.591103
+              51.5955,
+              32.875591
             ],
             [
-              51.4203,
-              35.571314
+              51.57986,
+              32.865816
             ],
             [
-              51.427569,
-              35.582304
+              51.563284,
+              32.894186
             ],
             [
-              51.45056,
-              35.582354
+              51.567301,
+              32.904693
             ],
             [
-              51.44858,
-              35.577409
+              51.557696,
+              32.895418
             ],
             [
-              51.456489,
-              35.579069
+              51.547963,
+              32.904974
             ],
             [
-              51.466626,
-              35.568207
+              51.549894,
+              32.899396
             ],
             [
-              51.472137,
-              35.569624
+              51.535203,
+              32.89507
             ],
             [
-              51.455254,
-              35.596877
+              51.532575,
+              32.906874
             ],
             [
-              51.456043,
-              35.609325
-            ],
-            [
-              51.472866,
-              35.617994
-            ],
-            [
-              51.502225,
-              35.607557
-            ],
-            [
-              51.498495,
-              35.614021
-            ],
-            [
-              51.512227,
-              35.634363
-            ],
-            [
-              51.501986,
-              35.637114
-            ],
-            [
-              51.50163,
-              35.644561
-            ],
-            [
-              51.513665,
-              35.649116
-            ],
-            [
-              51.523247,
-              35.669126
-            ],
-            [
-              51.505574,
-              35.691108
-            ],
-            [
-              51.494938,
-              35.692922
-            ],
-            [
-              51.512832,
-              35.706469
-            ],
-            [
-              51.512155,
-              35.716726
-            ],
-            [
-              51.550442,
-              35.718098
-            ],
-            [
-              51.569675,
-              35.71113
-            ],
-            [
-              51.564225,
-              35.715112
-            ],
-            [
-              51.598125,
-              35.719331
-            ],
-            [
-              51.587672,
-              35.724762
-            ],
-            [
-              51.606301,
-              35.744033
-            ],
-            [
-              51.579553,
-              35.75212
-            ],
-            [
-              51.557254,
-              35.770124
-            ],
-            [
-              51.52727,
-              35.777302
-            ],
-            [
-              51.530279,
-              35.791882
-            ],
-            [
-              51.539202,
-              35.795987
-            ],
-            [
-              51.534392,
-              35.815931
-            ],
-            [
-              51.52404,
-              35.80889
-            ],
-            [
-              51.463206,
-              35.82847
-            ],
-            [
-              51.450838,
-              35.817215
-            ],
-            [
-              51.426475,
-              35.827591
-            ],
-            [
-              51.417748,
-              35.816467
-            ],
-            [
-              51.382126,
-              35.812571
-            ],
-            [
-              51.37518,
-              35.806478
-            ],
-            [
-              51.386056,
-              35.799798
-            ],
-            [
-              51.382371,
-              35.793017
-            ],
-            [
-              51.36134,
-              35.80375
-            ],
-            [
-              51.344622,
-              35.793022
-            ],
-            [
-              51.337952,
-              35.809996
-            ],
-            [
-              51.335863,
-              35.79354
-            ],
-            [
-              51.308679,
-              35.785343
-            ],
-            [
-              51.302754,
-              35.790331
-            ],
-            [
-              51.298921,
-              35.778939
-            ],
-            [
-              51.267592,
-              35.783798
-            ],
-            [
-              51.262623,
-              35.770749
-            ],
-            [
-              51.232016,
-              35.762519
-            ],
-            [
-              51.177246,
-              35.768057
-            ],
-            [
-              51.109575,
-              35.750668
-            ],
-            [
-              51.094194,
-              35.757769
-            ],
-            [
-              51.089222,
-              35.742927
+              51.521273,
+              32.912116
             ]
           ]
         ]
       },
       "properties": {
         "name:fa": "گزارش میدانی",
-        "description": "انفجار در ورامین\nعلت هنوز مشخص نیست، اما منطقه مسکونی است\n۱۵:۳۰ به وقت تهران | ۱۲:۰۰ به وقت جهانی (UTC)",
-        "date": 1794139793,
-        "city": "تهران",
-        "province": "تهران",
+        "description": "۱۴:۱۸ به وقت محلی / ۱۰:۴۸ به وقت جهانی (UTC)\nشلیک ۳ موشک [آزمایشی] از میمه، شاهین‌شهر، اصفهان.",
+        "date": 1794221280,
+        "city": "شاهین شهر",
+        "province": "اصفهان",
         "name:en": "Field Report",
-        "description:en": "Explosion in Varamin\nThe cause is not yet known, but it is a residential area\n15:30 Tehran time | 12:00 UTC",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
+        "description:en": "14:18 local time / 10:48 UTC\nFiring of 3 [test] missiles from Meymeh, Shahin Shahr, Isfahan.",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
         "name:ar": "تقرير ميداني",
-        "description:ar": "انفجار في ورامين\nالسبب غير معروف بعد، ولكن المنطقة سكنية\n15:30 بتوقيت طهران | 12:00 بتوقيت غرينتش (UTC)",
-        "city:ar": "طهران",
-        "province:ar": "طهران",
+        "description:ar": "14:18 بالتوقيت المحلي / 10:48 بالتوقيت العالمي الموحد (UTC)\nإطلاق 3 صاروخًا [تجريبية] من ميما، شاهين شهر، أصفهان.",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
         "name:he": "דיווח מהשטח",
-        "description:he": "פיצוץ בוראמין\nהסיבה עדיין אינה ברורה, אך מדובר באזור מגורים\n15:30 לפי שעון טהראן | 12:00 לפי השעון הבינלאומי (UTC)",
-        "city:he": "טהראן",
-        "province:he": "טהראן",
+        "description:he": "14:18 לפי שעון מקומי / 10:48 לפי שעון עולמי (UTC)\nשיגור 3 טילים [ניסיוניים] מיימה, שאהין שאהר, אספהאן.",
+        "city:he": "שאהין שאהר",
+        "province:he": "אספהאן",
         "name:tr": "Saha Raporu",
-        "description:tr": "Varamin'de patlama. Nedeni henüz belli değil, ancak burası yerleşim birimidir. Tahran saatiyle 15:30 | Evrensel Saat (UTC) ile 12:00",
-        "city:tr": "Tahran",
-        "province:tr": "Tahran",
+        "description:tr": "Yerel saatle 14:18 / Evrensel Saat ile (UTC) 10:48\nMeymeh, Şahinşehir, İsfahan'dan 3 [deneme] füzesi ateşlendi.",
+        "city:tr": "Şahinşehir",
+        "province:tr": "İsfahan",
         "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "تەقینەوە لە وەرامین\nهۆکارەکەی هێشتا دیار نییە، بەڵام ناوچەیەکی نیشتەجێبوونە\n١٥:٣٠ بە کاتی تاران | ١٢:٠٠ بە کاتی جیهانی (UTC)",
-        "city:ckb": "تاران",
-        "province:ckb": "تاران",
-        "id": "NDI6M2JlNGRmZGVkNDY0",
-        "publicId": "NDI6M2JlNGRmZGVkNDY0",
-        "sourceId": "3be4dfded464",
+        "description:ckb": "١٤:١٨ بە کاتی خۆجێی / ١٠:٤٨ بە کاتی جیهانی (UTC)\nتەقاندنی ٣ مووشکی [تاقیکاری] لە میمە، شاهین‌شار، اصفهان.",
+        "city:ckb": "شاهین‌شار",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDI6MzExNTUxOTZmYzFi",
+        "publicId": "NDI6MzExNTUxOTZmYzFi",
+        "sourceId": "31155196fc1b",
         "layerId": 42,
         "type": "event",
         "status": "active",
         "urgency": null,
         "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T12:11:26.331Z",
-        "createdAt": "2026-11-08T12:11:26.474Z",
-        "updatedAt": "2026-11-08T12:11:26.474Z"
+        "expirationDate": "2026-11-10T10:59:00.205Z",
+        "createdAt": "2026-11-09T10:59:00.314Z",
+        "updatedAt": "2026-11-09T10:59:00.314Z"
       }
     },
     {
       "type": "Feature",
-      "id": 115779,
+      "id": 115812,
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              46.99543,
-              34.315088
+              54.216842,
+              31.890676
             ],
             [
-              47.021745,
-              34.295625
+              54.267826,
+              31.878141
             ],
             [
-              47.019238,
-              34.28077
+              54.251175,
+              31.865312
             ],
             [
-              47.048166,
-              34.27299
+              54.369965,
+              31.798443
             ],
             [
-              47.04647,
-              34.262541
+              54.359794,
+              31.791659
             ],
             [
-              47.054298,
-              34.276393
+              54.364943,
+              31.779548
             ],
             [
-              47.074447,
-              34.279181
+              54.389362,
+              31.796474
             ],
             [
-              47.077139,
-              34.297232
+              54.417,
+              31.799683
             ],
             [
-              47.143214,
-              34.296349
+              54.425239,
+              31.817189
             ],
             [
-              47.155058,
-              34.302624
+              54.413223,
+              31.827399
             ],
             [
-              47.150547,
-              34.311987
+              54.458542,
+              31.835056
             ],
             [
-              47.133181,
-              34.3181
+              54.450645,
+              31.841108
             ],
             [
-              47.126387,
-              34.340446
+              54.453735,
+              31.854232
             ],
             [
-              47.142451,
-              34.357154
+              54.428329,
+              31.865312
             ],
             [
-              47.182614,
-              34.357195
+              54.457662,
+              31.88204
             ],
             [
-              47.189174,
-              34.367528
+              54.390221,
+              31.912682
             ],
             [
-              47.161396,
-              34.387613
+              54.406357,
+              31.927835
             ],
             [
-              47.132661,
-              34.387577
+              54.372539,
+              31.958134
             ],
             [
-              47.125067,
-              34.401396
+              54.364471,
+              31.944879
             ],
             [
-              47.09682,
-              34.39243
+              54.343014,
+              31.961629
             ],
             [
-              47.070405,
-              34.403172
+              54.314107,
+              31.945461
             ],
             [
-              47.070096,
-              34.385855
+              54.280014,
+              31.978668
             ],
             [
-              47.079597,
-              34.387066
+              54.246368,
+              31.924484
             ],
             [
-              47.056815,
-              34.353733
+              54.225058,
+              31.922838
             ],
             [
-              47.064192,
-              34.350969
+              54.232614,
+              31.915232
             ],
             [
-              47.060935,
-              34.346313
-            ],
-            [
-              47.041043,
-              34.351777
-            ],
-            [
-              47.01962,
-              34.338734
-            ],
-            [
-              47.048898,
-              34.325909
-            ],
-            [
-              47.045948,
-              34.321478
-            ],
-            [
-              47.034054,
-              34.307899
-            ],
-            [
-              46.99543,
-              34.315088
+              54.216842,
+              31.890676
             ]
           ]
         ]
       },
       "properties": {
         "name:fa": "گزارش میدانی",
-        "description": "فعالیت پهپادی در پاوه، کرمانشاه",
-        "date": 1794154213,
-        "city": "کرمانشاه",
-        "province": "کرمانشاه",
+        "description": "یک هواپیمای چهار موتوره با فرستنده موقعیت‌یاب خاموش در ساعت ۱۲:۰۸ به وقت جهانی (UTC) بر فراز یزد",
+        "date": 1794226755,
+        "city": "يزد",
+        "province": "یزد",
         "name:en": "Field Report",
-        "description:en": "Drone activity in Paveh, Kermanshah",
-        "city:en": "Kermanshah",
-        "province:en": "Kermanshah",
+        "description:en": "A four-engine aircraft with its transponder turned off at 12:08 UTC over Yazd",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
         "name:ar": "تقرير ميداني",
-        "description:ar": "نشاط للطائرات المسيرة في باوه، كرمانشاه",
-        "city:ar": "كرمانشاه",
-        "province:ar": "كرمانشاه",
+        "description:ar": "طائرة ذات أربعة محركات مع إيقاف تشغيل جهاز إرسال الموقع في الساعة 12:08 بالتوقيت العالمي الموحد (UTC) فوق يزد",
+        "city:ar": "يزد",
+        "province:ar": "يزد",
         "name:he": "דיווח מהשטח",
-        "description:he": "פעילות כלי טיס בלתי מאוישים בפאווה, כרמאנשאה",
-        "city:he": "כרמאנשאה",
-        "province:he": "כרמאנשאה",
+        "description:he": "מטוס ארבע-מנועי עם משדר מיקום (טרנספונדר) כבוי בשעה 12:08 לפי שעון UTC מעל יזד",
+        "city:he": "יזד",
+        "province:he": "יזד",
         "name:tr": "Saha Raporu",
-        "description:tr": "Pave, Kirmanşah'ta dron faaliyeti",
-        "city:tr": "Kirmanşah",
-        "province:tr": "Kirmanşah",
+        "description:tr": "Konum vericisi kapalı dört motorlu bir uçak, Evrensel Koordinatlı Zaman'a (UTC) göre saat 12:08'de Yezd üzerinde uçtu.",
+        "city:tr": "Yezd",
+        "province:tr": "Yezd",
         "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "چالاکی فڕۆکەی بێفڕۆکەوان لە پاوە، کرماشان",
-        "city:ckb": "کرماشان",
-        "province:ckb": "کرماشان",
-        "id": "NDI6NjlkYjg3ZjlkZDFm",
-        "publicId": "NDI6NjlkYjg3ZjlkZDFm",
-        "sourceId": "69db87f9dd1f",
+        "description:ckb": "فڕۆکەیەکی چوار بزوێنەر بە فرۆکەبەخشی شوێنیاکەری کوژاوە لە کاتژمێر ١٢:٠٨ی کاتی جیهانی (UTC) بەسەر یەزددا",
+        "city:ckb": "یەزد",
+        "province:ckb": "یەزد",
+        "id": "NDI6YzYyODg1ZTFiMTNl",
+        "publicId": "NDI6YzYyODg1ZTFiMTNl",
+        "sourceId": "c62885e1b13e",
         "layerId": 42,
         "type": "event",
         "status": "active",
         "urgency": null,
         "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T16:11:46.174Z",
-        "createdAt": "2026-11-08T16:11:46.344Z",
-        "updatedAt": "2026-11-08T16:11:46.344Z"
+        "expirationDate": "2026-11-10T12:20:48.193Z",
+        "createdAt": "2026-11-09T12:20:48.446Z",
+        "updatedAt": "2026-11-09T12:20:48.446Z"
       }
     },
     {
       "type": "Feature",
-      "id": 115780,
+      "id": 115813,
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              56.248718,
-              26.975312
+              54.216842,
+              31.890676
             ],
             [
-              56.242988,
-              26.925531
+              54.267826,
+              31.878141
             ],
             [
-              56.251159,
-              26.925016
+              54.251175,
+              31.865312
             ],
             [
-              56.281757,
-              26.935232
+              54.369965,
+              31.798443
             ],
             [
-              56.288152,
-              26.949158
+              54.359794,
+              31.791659
             ],
             [
-              56.271887,
-              26.969967
+              54.364943,
+              31.779548
             ],
             [
-              56.248718,
-              26.975312
+              54.389362,
+              31.796474
+            ],
+            [
+              54.417,
+              31.799683
+            ],
+            [
+              54.425239,
+              31.817189
+            ],
+            [
+              54.413223,
+              31.827399
+            ],
+            [
+              54.458542,
+              31.835056
+            ],
+            [
+              54.450645,
+              31.841108
+            ],
+            [
+              54.453735,
+              31.854232
+            ],
+            [
+              54.428329,
+              31.865312
+            ],
+            [
+              54.457662,
+              31.88204
+            ],
+            [
+              54.390221,
+              31.912682
+            ],
+            [
+              54.406357,
+              31.927835
+            ],
+            [
+              54.372539,
+              31.958134
+            ],
+            [
+              54.364471,
+              31.944879
+            ],
+            [
+              54.343014,
+              31.961629
+            ],
+            [
+              54.314107,
+              31.945461
+            ],
+            [
+              54.280014,
+              31.978668
+            ],
+            [
+              54.246368,
+              31.924484
+            ],
+            [
+              54.225058,
+              31.922838
+            ],
+            [
+              54.232614,
+              31.915232
+            ],
+            [
+              54.216842,
+              31.890676
             ]
           ]
         ]
       },
       "properties": {
         "name:fa": "گزارش میدانی",
-        "description": "پدافند هوایی در نریمان فعال شد.",
-        "date": 1794157571,
-        "city": "قشم",
-        "province": "هرمزگان",
+        "description": "شلیک موشک بالستیک از پارک کوهستان\nیزد",
+        "date": 1794232357,
+        "city": "يزد",
+        "province": "یزد",
         "name:en": "Field Report",
-        "description:en": "Air defense was activated in Nariman.",
-        "city:en": "Qeshm",
-        "province:en": "Hormozgan",
-        "name:he": "דיווח שטח",
-        "description:he": "הגנה אווירייה הופעלה בנרימאן.",
-        "city:he": "קשם",
-        "province:he": "הורמוזגאן",
-        "name:tr": "Saha Raporu",
-        "description:tr": "Nariman'da hava savunması aktif hale geldi.",
-        "city:tr": "Kişm",
-        "province:tr": "Hürmüzgan",
-        "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "پەداڤندی ئاسمانی لە نەریمان چالاک بوو.",
-        "city:ckb": "قشم",
-        "province:ckb": "ھورمزگان",
+        "description:en": "Ballistic missile launch from Kohestan Park, Yazd",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
         "name:ar": "تقرير ميداني",
-        "description:ar": "تم تفعيل الدفاع الجوي في نريمان.",
-        "city:ar": "قشم",
-        "province:ar": "هرمزكان",
-        "id": "NDI6MTg1YWE4N2M0MTZi",
-        "publicId": "NDI6MTg1YWE4N2M0MTZi",
-        "sourceId": "185aa87c416b",
+        "description:ar": "إطلاق صواريخ باليستية من منتزه كوهستان\nيزد",
+        "city:ar": "يزد",
+        "province:ar": "يزد",
+        "name:he": "דיווח מהשטח",
+        "description:he": "שיגור טיל בליסטי מפארק כוהסתאן\nיזד",
+        "city:he": "יזד",
+        "province:he": "יזד",
+        "name:tr": "Saha Raporu",
+        "description:tr": "Kouhestan Parkı'ndan balistik füze atılması\nYezd",
+        "city:tr": "Yezd",
+        "province:tr": "Yezd",
+        "name:ckb": "ڕاپۆرتی مەیدانی",
+        "description:ckb": "تەقاندنی مووشەکی بالیستیک لە پارکی کووچستان\nیزد",
+        "city:ckb": "یزد",
+        "province:ckb": "یەزد",
+        "id": "NDI6NTA2ZTYxMTdiOGYw",
+        "publicId": "NDI6NTA2ZTYxMTdiOGYw",
+        "sourceId": "506e6117b8f0",
         "layerId": 42,
         "type": "event",
         "status": "active",
         "urgency": null,
         "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T17:07:56.059Z",
-        "createdAt": "2026-11-08T17:07:56.162Z",
-        "updatedAt": "2026-11-08T17:07:56.162Z"
+        "expirationDate": "2026-11-10T13:54:10.096Z",
+        "createdAt": "2026-11-09T13:54:10.261Z",
+        "updatedAt": "2026-11-09T13:54:10.261Z"
       }
     },
     {
       "type": "Feature",
-      "id": 115786,
+      "id": 115814,
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -656,279 +520,42 @@
       },
       "properties": {
         "name:fa": "گزارش میدانی",
-        "description": "پدافند هوایی به مدت یک دقیقه در کوی رمضان اهواز فعال بود.",
-        "date": 1794163710,
+        "description": "۱۷:۲۷ به وقت محلی / ۱۳:۵۷ به وقت جهانی (UTC)\nشلیک موشک در کوی رمضان، اهواز.",
+        "date": 1794232620,
         "city": "شهر اهواز",
         "province": "خوزستان",
         "name:en": "Field Report",
-        "description:en": "Air defense was active for one minute in Kooy-e Ramazan, Ahvaz.",
+        "description:en": "17:27 local time / 13:57 UTC\nMissile launch in Kuy-e Ramezan, Ahvaz.",
         "city:en": "Ahvaz",
         "province:en": "Khuzestan",
-        "name:ar": "تقرير ميداني",
-        "description:ar": "كان الدفاع الجوي نكشطا لمدة دقيقة واحدة في حي رمضان بالأهواز.",
-        "city:ar": "مدينة الأهواز",
-        "province:ar": "خوزستان",
         "name:he": "דיווח מהשטח",
-        "description:he": "הגנה אווירית הייתה פעילה במשך דקה אחת בשכונת כוי רמזאן באהוואז.",
+        "description:he": "17:27 לפי שעון מקומי / 13:57 לפי שעון עולמי (UTC)\nשיגור טיל בכו-יה רמדאן, אהוואז.",
         "city:he": "אהוואז",
         "province:he": "ח'וזסתאן",
         "name:tr": "Saha Raporu",
-        "description:tr": "Ahvaz'ın Kuyu Ramazan mahallesinde bir dakika süreyle hava savunması faaliyete geçti.",
+        "description:tr": "Yerel saatle 17:27 / Evrensel Saat ile (UTC) 13:57\nAhvaz'ın Kuy-e Ramazan mahallesinde füze saldırısı.",
         "city:tr": "Ahvaz",
         "province:tr": "Huzistan",
         "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "پەدافەندی ئاسمانی بۆ ماوەی یەک خولەک لە کوی ڕەمەزانی ئەواز چالاک بوو.",
-        "city:ckb": "ئەواز",
+        "description:ckb": "١٧:٢٧ بە کاتی خۆجێی / ١٣:٥٧ بە کاتی جیهانی (UTC)\nتەقاندنی مووشک لە کۆی ڕەمەزان، ئەهواز.",
+        "city:ckb": "ئەهواز",
         "province:ckb": "خووزستان",
-        "id": "NDI6YzZiNDEyYTFhOTkx",
-        "publicId": "NDI6YzZiNDEyYTFhOTkx",
-        "sourceId": "c6b412a1a991",
+        "id": "NDI6ZDcxOWUyYjZiZjk5",
+        "publicId": "NDI6ZDcxOWUyYjZiZjk5",
+        "sourceId": "d719e2b6bf99",
         "layerId": 42,
         "type": "event",
         "status": "active",
         "urgency": null,
         "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T18:50:04.046Z",
-        "createdAt": "2026-11-08T18:50:04.182Z",
-        "updatedAt": "2026-11-08T18:50:04.182Z"
+        "expirationDate": "2026-11-10T14:00:43.015Z",
+        "createdAt": "2026-11-09T14:00:43.192Z",
+        "updatedAt": "2026-11-09T14:00:43.192Z"
       }
     },
     {
       "type": "Feature",
-      "id": 115789,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              44.978842,
-              37.574549
-            ],
-            [
-              44.993354,
-              37.567756
-            ],
-            [
-              44.981646,
-              37.55055
-            ],
-            [
-              44.99965,
-              37.536528
-            ],
-            [
-              45.003404,
-              37.538999
-            ],
-            [
-              45.016607,
-              37.537879
-            ],
-            [
-              45.008612,
-              37.529455
-            ],
-            [
-              45.02807,
-              37.530858
-            ],
-            [
-              45.029043,
-              37.521253
-            ],
-            [
-              45.015999,
-              37.520015
-            ],
-            [
-              45.019952,
-              37.505702
-            ],
-            [
-              45.030071,
-              37.513455
-            ],
-            [
-              45.03788,
-              37.507787
-            ],
-            [
-              45.035871,
-              37.497667
-            ],
-            [
-              45.051751,
-              37.500207
-            ],
-            [
-              45.055625,
-              37.490767
-            ],
-            [
-              45.066278,
-              37.500708
-            ],
-            [
-              45.057809,
-              37.504997
-            ],
-            [
-              45.070398,
-              37.499666
-            ],
-            [
-              45.078976,
-              37.505984
-            ],
-            [
-              45.07442,
-              37.512741
-            ],
-            [
-              45.08945,
-              37.511425
-            ],
-            [
-              45.082978,
-              37.523605
-            ],
-            [
-              45.075349,
-              37.520344
-            ],
-            [
-              45.07862,
-              37.528675
-            ],
-            [
-              45.120682,
-              37.521461
-            ],
-            [
-              45.112144,
-              37.533013
-            ],
-            [
-              45.128597,
-              37.537863
-            ],
-            [
-              45.112465,
-              37.541773
-            ],
-            [
-              45.115851,
-              37.550361
-            ],
-            [
-              45.103935,
-              37.563431
-            ],
-            [
-              45.122347,
-              37.581797
-            ],
-            [
-              45.098512,
-              37.572995
-            ],
-            [
-              45.093166,
-              37.580764
-            ],
-            [
-              45.070127,
-              37.584652
-            ],
-            [
-              45.072884,
-              37.601428
-            ],
-            [
-              45.059919,
-              37.599854
-            ],
-            [
-              45.050689,
-              37.58778
-            ],
-            [
-              45.061915,
-              37.584859
-            ],
-            [
-              45.056737,
-              37.580302
-            ],
-            [
-              45.062525,
-              37.567714
-            ],
-            [
-              45.033722,
-              37.576824
-            ],
-            [
-              45.026399,
-              37.589432
-            ],
-            [
-              45.024591,
-              37.573253
-            ],
-            [
-              44.992332,
-              37.591106
-            ],
-            [
-              44.978842,
-              37.574549
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "گزارش میدانی",
-        "description": "ساعت ۲۲:۲۷ به وقت محلی / ۱۸:۵۷ به وقت جهانی (UTC)\nفعالیت پهپادی در آسمان ارومیه، استان آذربایجان غربی.",
-        "date": 1794164220,
-        "city": "شهر ارومیه",
-        "province": "آذربایجان غربی",
-        "name:en": "Field Report",
-        "description:en": "22:27 local time / 18:57 UTC\nDrone activity in the skies of Urmia, West Azerbaijan Province.",
-        "city:en": "Urmia",
-        "province:en": "West Azerbaijan",
-        "name:ar": "تقرير ميداني",
-        "description:ar": "الساعة 22:27 بالتوقيت المحلي / 18:57 بتوقيت غرينتش (UTC)\nنشاط لطائرات مسيرة في سماء أورمية، محافظة أذربيجان الغربية.",
-        "city:ar": "مدينة أورمية",
-        "province:ar": "أذربيجان الغربية",
-        "name:he": "דיווח מהשטח",
-        "description:he": "שעה 22:27 לפי השעון המקומי / 18:57 לפי השעון הבינלאומי (UTC)\nפעילות כלי טיס בלתי מאוישים (כטב\"מים) בשמי אורמיה, מחוז מערב אזרבייג'אן.",
-        "city:he": "אורמיה",
-        "province:he": "אזרבייג'ן המערבית",
-        "name:tr": "Saha Raporu",
-        "description:tr": "Yerel saatle 22:27 / Evrensel saatle (UTC) 18:57\nUrmiye semalarında İHA faaliyeti, Batı Azerbaycan eyaleti.",
-        "city:tr": "Urmiye",
-        "province:tr": "Batı Azerbaycan",
-        "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "کاتژمێر ٢٢:٢۷ بە کاتی خۆجێی / ۱۸:۵۷ بە کاتی جیهانی (UTC)\nچالاکی فڕۆکەی بێفڕۆکەوان لە ئاسمانی ورمێ، پارێزگای ئازەربایجانی ڕۆژاوا.",
-        "city:ckb": "ورمێ",
-        "province:ckb": "ئازەربایجانی ڕۆژاوا",
-        "id": "NDI6ODE1ZjFlNTUyNWU2",
-        "publicId": "NDI6ODE1ZjFlNTUyNWU2",
-        "sourceId": "815f1e5525e6",
-        "layerId": 42,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T19:01:22.516Z",
-        "createdAt": "2026-11-08T19:01:22.664Z",
-        "updatedAt": "2026-11-08T19:01:22.664Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 115790,
+      "id": 115815,
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -966,1810 +593,208 @@
       },
       "properties": {
         "name:fa": "گزارش میدانی",
-        "description": "پپهباد از پایگاه هوایی امیدیه شلیک شد",
-        "date": 1794165173,
+        "description": "شلیک [آزمایشی] موشک از امیدیه.",
+        "date": 1794236252,
         "city": "امیدیه",
         "province": "خوزستان",
         "name:en": "Field Report",
-        "description:en": "A drone was fired from the Omidiyeh air base",
+        "description:en": "[Test] missile launch from Omidiyeh.",
         "city:en": "Omidiyeh",
         "province:en": "Khuzestan",
         "name:ar": "تقرير ميداني",
-        "description:ar": "تم إطلاق الطائرة المسيرة من قاعدة أوميدية الجوية",
+        "description:ar": "إطلاق [تجريبي] لصاروخ من أوميدية.",
         "city:ar": "أوميدية",
         "province:ar": "خوزستان",
         "name:he": "דיווח מהשטח",
-        "description:he": "כטב\"ם שוגר מהבסיס האווירי אומידיה",
-        "city:he": "אומידיה",
+        "description:he": "שיגור [ניסיוני] של טיל מאומלחה.",
+        "city:he": "אומדיה",
         "province:he": "ח'וזסתאן",
         "name:tr": "Saha Raporu",
-        "description:tr": "İHA, Omidiye Hava Üssü'nden ateşlendi.",
+        "description:tr": "Ümidiye'den [deneme] füze atışı.",
+        "city:tr": "Ümidiye",
+        "province:tr": "Huzistan",
+        "name:ckb": "ڕاپۆرتی مەیدانی",
+        "description:ckb": "تەقاندنی مووشەک [بە شێوەی تاقیکاری] لە ئومێدییە.",
+        "city:ckb": "ئومێدییە",
+        "province:ckb": "خووزستان",
+        "id": "NDI6ZTZjNzJmYjlmYjBj",
+        "publicId": "NDI6ZTZjNzJmYjlmYjBj",
+        "sourceId": "e6c72fb9fb0c",
+        "layerId": 42,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": "2026-11-10T14:59:08.150Z",
+        "createdAt": "2026-11-09T14:59:08.345Z",
+        "updatedAt": "2026-11-09T14:59:08.345Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115816,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.125226,
+              36.687022
+            ],
+            [
+              45.149988,
+              36.672998
+            ],
+            [
+              45.154514,
+              36.681963
+            ],
+            [
+              45.148886,
+              36.686836
+            ],
+            [
+              45.166917,
+              36.686185
+            ],
+            [
+              45.148314,
+              36.692306
+            ],
+            [
+              45.157112,
+              36.712159
+            ],
+            [
+              45.142564,
+              36.719005
+            ],
+            [
+              45.125226,
+              36.687022
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش میدانی",
+        "description": "۱۹:۱۹ به وقت محلی / ۱۵:۴۹ به وقت جهانی (UTC)\nفعالیت پهپادی بر فراز پیرانشهر، آذربایجان غربی.",
+        "date": 1794239340,
+        "city": "پیرانشهر",
+        "province": "آذربایجان غربی",
+        "name:en": "Field Report",
+        "description:en": "19:19 local time / 15:49 UTC\nDrone activity over Piranshahr, West Azerbaijan.",
+        "city:en": "Piranshahr",
+        "province:en": "West Azerbaijan",
+        "name:ar": "تقرير ميداني",
+        "description:ar": "19:19 بالتوقيت المحلي / 15:49 بتوقيت غرينتش (UTC)\nنشاط لطائرات مسيرة في أجواء بيرانشهر، أذربيجان الغربية.",
+        "city:ar": "بيرانشهر",
+        "province:ar": "أذربيجان الغربية",
+        "name:he": "דיווח מהשטח",
+        "description:he": "19:19 לפי שעון מקומי / 15:49 לפי שעון עולמי (UTC)\nפעילות כלי טיס בלתי מאוישים (כטב\"מים) בשמי פיראנשאהר, מערב אזרבייג'ן.",
+        "city:he": "פיראנשאהר",
+        "province:he": "אזרבייג'ן המערבית",
+        "name:tr": "Saha Raporu",
+        "description:tr": "Yerel saatle 19:19 / Evrensel Saat ile (UTC) 15:49\nPiranşehr, Batı Azerbaycan üzerinde İHA faaliyeti.",
+        "city:tr": "Piranşehr",
+        "province:tr": "Batı Azerbaycan",
+        "name:ckb": "ڕاپۆرتی مەیدانی",
+        "description:ckb": "١٩:١٩ بە کاتی خۆجێی / ١٥:٤٩ بە کاتی جیهانی (UTC)\nچالاکی فڕۆکەی بێفروڕۆکەوان بەسەر پیرانشاردا، ئازەربایجانی ڕۆژاوا.",
+        "city:ckb": "پیرانشار",
+        "province:ckb": "ئازەربایجانی ڕۆژاوا",
+        "id": "NDI6NzZiNDU5Y2VjNjA1",
+        "publicId": "NDI6NzZiNDU5Y2VjNjA1",
+        "sourceId": "76b459cec605",
+        "layerId": 42,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": "2026-11-10T15:54:20.916Z",
+        "createdAt": "2026-11-09T15:54:21.021Z",
+        "updatedAt": "2026-11-09T15:54:21.021Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115817,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.6726,
+              30.770539
+            ],
+            [
+              49.698516,
+              30.73461
+            ],
+            [
+              49.729629,
+              30.750286
+            ],
+            [
+              49.71028,
+              30.781092
+            ],
+            [
+              49.698163,
+              30.770104
+            ],
+            [
+              49.683597,
+              30.777417
+            ],
+            [
+              49.6726,
+              30.770539
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش میدانی",
+        "description": "۱۸:۳۵ به وقت محلی / ۱۵:۰۵ به وقت جهانی (UTC)\n۲ موشک از امیدیه شلیک شد.",
+        "date": 1794244084,
+        "city": "امیدیه",
+        "province": "خوزستان",
+        "name:en": "Field Report",
+        "description:en": "18:35 local time / 15:05 UTC\n2 missiles were fired from Omidiyeh.",
+        "city:en": "Omidiyeh",
+        "province:en": "Khuzestan",
+        "name:ar": "تقرير ميداني",
+        "description:ar": "18:35 بالتوقيت المحلي / 15:05 بالتوقيت العالمي الموحد (UTC)\nتم إطلاق صواريخ عدد 2 من أوميدية.",
+        "city:ar": "أوميدية",
+        "province:ar": "خوزستان",
+        "name:he": "דיווח מהשטח",
+        "description:he": "18:35 לפי שעון מקומי / 15:05 לפי שעון עולמי (UTC)\n2 טילים שוגרו מאומזיה.",
+        "city:he": "אומזיה",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Saha Raporu",
+        "description:tr": "Yerel saatle 18:35 / Evrensel Saat Kordinatına (UTC) göre 15:05\nOmidiye'den 2 füze ateşlendi.",
         "city:tr": "Omidiye",
         "province:tr": "Huzistan",
         "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "فڕۆکەی بێفروکەوان لە بنکەی ئاسمانیی ئومێدییە هەڵدرا",
-        "city:ckb": "ئومێدییە",
+        "description:ckb": "١٨:٣٥ بە کاتی خۆجێی / ١٥:٠٥ بە کاتی جیهانی (UTC)\n٢ مووشەک لە ئۆمیدیە ئاراستە کران.",
+        "city:ckb": "ئۆمیدیە",
         "province:ckb": "خووزستان",
-        "id": "NDI6YTI2MzE5MzEwOGNl",
-        "publicId": "NDI6YTI2MzE5MzEwOGNl",
-        "sourceId": "a263193108ce",
+        "id": "NDI6MTY3MThlNjczZmMx",
+        "publicId": "NDI6MTY3MThlNjczZmMx",
+        "sourceId": "16718e673fc1",
         "layerId": 42,
         "type": "event",
         "status": "active",
         "urgency": null,
         "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T19:14:26.551Z",
-        "createdAt": "2026-11-08T19:14:26.681Z",
-        "updatedAt": "2026-11-08T19:14:26.681Z"
+        "expirationDate": "2026-11-10T17:09:36.513Z",
+        "createdAt": "2026-11-09T17:09:36.695Z",
+        "updatedAt": "2026-11-09T17:09:36.695Z"
       }
     },
     {
       "type": "Feature",
-      "id": 115793,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              56.248718,
-              26.975312
-            ],
-            [
-              56.242988,
-              26.925531
-            ],
-            [
-              56.251159,
-              26.925016
-            ],
-            [
-              56.281757,
-              26.935232
-            ],
-            [
-              56.288152,
-              26.949158
-            ],
-            [
-              56.271887,
-              26.969967
-            ],
-            [
-              56.248718,
-              26.975312
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "گزارش میدانی",
-        "description": "هم‌اکنون ۴ صدای انفجار شدید در قشم شنیده شد",
-        "date": 1794165423,
-        "city": "قشم",
-        "province": "هرمزگان",
-        "name:en": "Field Report",
-        "description:en": "4 loud explosion sounds were just heard in Qeshm",
-        "city:en": "Qeshm",
-        "province:en": "Hormozgan",
-        "name:ar": "تقرير ميداني",
-        "description:ar": "سُمعت الآن 4 أصوات انفجارات قوية في قشم",
-        "city:ar": "قشم",
-        "province:ar": "هرمزكان",
-        "name:he": "דיווח מהשטח",
-        "description:he": "כעת נשמעו 4 קולות נפץ עזים בקשם",
-        "city:he": "קשם",
-        "province:he": "הורמוזגאן",
-        "name:tr": "Saha Raporu",
-        "description:tr": "Şu anda Kaşım'da 4 şiddetli patlama sesi duyuldu",
-        "city:tr": "Kaşım",
-        "province:tr": "Hürmüzgan",
-        "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "لە ئێستادا ٤ دەنگی تەقینەوەی بەهێز لە قشم بیسترا",
-        "city:ckb": "قشم",
-        "province:ckb": "ھورمزگان",
-        "id": "NDI6ZTQxYTFhM2U4MGUy",
-        "publicId": "NDI6ZTQxYTFhM2U4MGUy",
-        "sourceId": "e41a1a3e80e2",
-        "layerId": 42,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T19:18:38.033Z",
-        "createdAt": "2026-11-08T19:18:39.710Z",
-        "updatedAt": "2026-11-08T19:18:39.710Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 115794,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              55.260174,
-              26.654416
-            ],
-            [
-              55.277125,
-              26.610351
-            ],
-            [
-              55.269469,
-              26.567553
-            ],
-            [
-              55.28214,
-              26.542752
-            ],
-            [
-              55.29421,
-              26.537814
-            ],
-            [
-              55.296995,
-              26.548066
-            ],
-            [
-              55.321322,
-              26.546824
-            ],
-            [
-              55.318239,
-              26.553073
-            ],
-            [
-              55.330025,
-              26.571237
-            ],
-            [
-              55.34393,
-              26.572576
-            ],
-            [
-              55.35953,
-              26.561359
-            ],
-            [
-              55.459215,
-              26.595404
-            ],
-            [
-              55.490695,
-              26.589132
-            ],
-            [
-              55.545005,
-              26.622476
-            ],
-            [
-              55.621772,
-              26.642022
-            ],
-            [
-              55.688839,
-              26.685881
-            ],
-            [
-              55.728092,
-              26.684086
-            ],
-            [
-              55.726463,
-              26.677682
-            ],
-            [
-              55.7268,
-              26.676212
-            ],
-            [
-              55.727816,
-              26.6753
-            ],
-            [
-              55.73372,
-              26.674005
-            ],
-            [
-              55.728561,
-              26.683978
-            ],
-            [
-              55.770189,
-              26.685322
-            ],
-            [
-              55.853672,
-              26.734371
-            ],
-            [
-              55.881748,
-              26.732821
-            ],
-            [
-              55.912929,
-              26.709017
-            ],
-            [
-              55.911986,
-              26.717757
-            ],
-            [
-              55.914833,
-              26.691535
-            ],
-            [
-              55.924576,
-              26.685011
-            ],
-            [
-              55.940903,
-              26.68903
-            ],
-            [
-              55.977211,
-              26.712839
-            ],
-            [
-              55.971598,
-              26.720589
-            ],
-            [
-              55.978159,
-              26.719021
-            ],
-            [
-              55.987949,
-              26.732837
-            ],
-            [
-              56.082908,
-              26.780455
-            ],
-            [
-              56.07754,
-              26.781965
-            ],
-            [
-              56.095517,
-              26.809762
-            ],
-            [
-              56.1404,
-              26.841274
-            ],
-            [
-              56.169753,
-              26.908489
-            ],
-            [
-              56.20116,
-              26.922239
-            ],
-            [
-              56.264802,
-              26.928895
-            ],
-            [
-              56.284267,
-              26.938909
-            ],
-            [
-              56.284402,
-              26.942389
-            ],
-            [
-              56.285633,
-              26.943237
-            ],
-            [
-              56.286612,
-              26.944707
-            ],
-            [
-              56.287415,
-              26.948706
-            ],
-            [
-              56.281977,
-              26.942491
-            ],
-            [
-              56.284372,
-              26.953577
-            ],
-            [
-              56.275485,
-              26.966485
-            ],
-            [
-              56.242271,
-              26.981862
-            ],
-            [
-              56.247595,
-              26.97519
-            ],
-            [
-              56.240155,
-              26.977046
-            ],
-            [
-              56.217236,
-              26.993745
-            ],
-            [
-              56.192252,
-              26.991109
-            ],
-            [
-              56.185129,
-              26.999148
-            ],
-            [
-              56.189836,
-              26.990765
-            ],
-            [
-              56.174358,
-              26.988929
-            ],
-            [
-              56.157448,
-              26.999778
-            ],
-            [
-              56.133894,
-              26.98564
-            ],
-            [
-              56.095255,
-              26.983225
-            ],
-            [
-              56.066557,
-              26.965785
-            ],
-            [
-              56.066006,
-              26.971253
-            ],
-            [
-              56.065719,
-              26.971251
-            ],
-            [
-              56.066183,
-              26.965629
-            ],
-            [
-              56.045192,
-              26.96742
-            ],
-            [
-              56.044206,
-              26.959185
-            ],
-            [
-              56.019175,
-              26.949665
-            ],
-            [
-              55.983795,
-              26.949789
-            ],
-            [
-              55.974586,
-              26.93829
-            ],
-            [
-              55.95632,
-              26.934046
-            ],
-            [
-              55.95507,
-              26.924195
-            ],
-            [
-              55.940766,
-              26.924425
-            ],
-            [
-              55.937797,
-              26.914354
-            ],
-            [
-              55.935359,
-              26.926558
-            ],
-            [
-              55.935694,
-              26.913079
-            ],
-            [
-              55.911569,
-              26.905951
-            ],
-            [
-              55.907343,
-              26.91236
-            ],
-            [
-              55.904141,
-              26.902549
-            ],
-            [
-              55.87176,
-              26.897039
-            ],
-            [
-              55.851912,
-              26.90252
-            ],
-            [
-              55.786835,
-              26.945938
-            ],
-            [
-              55.750614,
-              26.951896
-            ],
-            [
-              55.732875,
-              26.943527
-            ],
-            [
-              55.730208,
-              26.928663
-            ],
-            [
-              55.770807,
-              26.881732
-            ],
-            [
-              55.777298,
-              26.834265
-            ],
-            [
-              55.774184,
-              26.82324
-            ],
-            [
-              55.77486,
-              26.83442
-            ],
-            [
-              55.765014,
-              26.824147
-            ],
-            [
-              55.777163,
-              26.81067
-            ],
-            [
-              55.780496,
-              26.812512
-            ],
-            [
-              55.785398,
-              26.812512
-            ],
-            [
-              55.787101,
-              26.817633
-            ],
-            [
-              55.78995,
-              26.820571
-            ],
-            [
-              55.794986,
-              26.82315
-            ],
-            [
-              55.790775,
-              26.80845
-            ],
-            [
-              55.788381,
-              26.817697
-            ],
-            [
-              55.785976,
-              26.812365
-            ],
-            [
-              55.777291,
-              26.809903
-            ],
-            [
-              55.770488,
-              26.79923
-            ],
-            [
-              55.777116,
-              26.791628
-            ],
-            [
-              55.781196,
-              26.792575
-            ],
-            [
-              55.783655,
-              26.791584
-            ],
-            [
-              55.784127,
-              26.795311
-            ],
-            [
-              55.78603,
-              26.797361
-            ],
-            [
-              55.78732,
-              26.798425
-            ],
-            [
-              55.788205,
-              26.798815
-            ],
-            [
-              55.789278,
-              26.798782
-            ],
-            [
-              55.789817,
-              26.797984
-            ],
-            [
-              55.783626,
-              26.791228
-            ],
-            [
-              55.777194,
-              26.791162
-            ],
-            [
-              55.77408,
-              26.785049
-            ],
-            [
-              55.761981,
-              26.784055
-            ],
-            [
-              55.755873,
-              26.792816
-            ],
-            [
-              55.744243,
-              26.785365
-            ],
-            [
-              55.752912,
-              26.780116
-            ],
-            [
-              55.733525,
-              26.774446
-            ],
-            [
-              55.707851,
-              26.779476
-            ],
-            [
-              55.719666,
-              26.782333
-            ],
-            [
-              55.697745,
-              26.807666
-            ],
-            [
-              55.677861,
-              26.781264
-            ],
-            [
-              55.684487,
-              26.778839
-            ],
-            [
-              55.686775,
-              26.776319
-            ],
-            [
-              55.677246,
-              26.780658
-            ],
-            [
-              55.636911,
-              26.766725
-            ],
-            [
-              55.613446,
-              26.73767
-            ],
-            [
-              55.56071,
-              26.711363
-            ],
-            [
-              55.489896,
-              26.699084
-            ],
-            [
-              55.458625,
-              26.681511
-            ],
-            [
-              55.408053,
-              26.672977
-            ],
-            [
-              55.338234,
-              26.642237
-            ],
-            [
-              55.29131,
-              26.64925
-            ],
-            [
-              55.269165,
-              26.661305
-            ],
-            [
-              55.260174,
-              26.654416
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "گزارش میدانی",
-        "description": "۴ انفجار در بندر بهمن، جزیره قشم",
-        "date": 1794165464,
-        "city": "جزیره قشم",
-        "province": "هرمزگان",
-        "name:en": "Field Report",
-        "description:en": "4 explosions at Bahman Port, Qeshm Island",
-        "city:en": "Qeshm Island",
-        "province:en": "Hormozgan",
-        "name:ar": "تقرير ميداني",
-        "description:ar": "4 انفجارات في ميناء بهمن، جزيرة قشم",
-        "city:ar": "جزيرة قشم",
-        "province:ar": "هرمزكان",
-        "name:he": "דיווח מהשטח",
-        "description:he": "4 פיצוצים בנמל בהמן, האי קשם",
-        "city:he": "האי קשם",
-        "province:he": "הורמוזגאן",
-        "name:tr": "Saha Raporu",
-        "description:tr": "Kişm Adası, Bahman Limanı'nda 4 patlama",
-        "city:tr": "Kişm Adası",
-        "province:tr": "Hürmüzgan",
-        "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "٤ تەقینەوە لە بەندەری بەهمەن، دوورگەی قشم",
-        "city:ckb": "قشم",
-        "province:ckb": "ھورمزگان",
-        "id": "NDI6ZDcyN2FlMjBlNWQz",
-        "publicId": "NDI6ZDcyN2FlMjBlNWQz",
-        "sourceId": "d727ae20e5d3",
-        "layerId": 42,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T19:19:19.723Z",
-        "createdAt": "2026-11-08T19:19:20.332Z",
-        "updatedAt": "2026-11-08T19:19:20.332Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 115795,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              56.248718,
-              26.975312
-            ],
-            [
-              56.242988,
-              26.925531
-            ],
-            [
-              56.251159,
-              26.925016
-            ],
-            [
-              56.281757,
-              26.935232
-            ],
-            [
-              56.288152,
-              26.949158
-            ],
-            [
-              56.271887,
-              26.969967
-            ],
-            [
-              56.248718,
-              26.975312
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "گزارش میدانی",
-        "description": "سایت پدافند هوایی نریمان در قشم مورد اصابت قرار گرفت.",
-        "date": 1794165684,
-        "city": "قشم",
-        "province": "هرمزگان",
-        "name:en": "Field Report",
-        "description:en": "Nariman Air Defense Site in Qeshm was hit.",
-        "city:en": "Qeshm",
-        "province:en": "Hormozgan",
-        "name:ar": "تقرير ميداني",
-        "description:ar": "تعرض موقع الدفاع الجوي نريمان في قشم للقصف.",
-        "city:ar": "قشم",
-        "province:ar": "هرمزكان",
-        "name:he": "דיווח שטח",
-        "description:he": "אתר ההגנה האווירית נרימאן בקשם הותקף ונפגע.",
-        "city:he": "קשם",
-        "province:he": "הורמוזגאן",
-        "name:tr": "Saha Raporu",
-        "description:tr": "Kişm'deki Neriman Hava Savunma Üssü vuruldu.",
-        "city:tr": "Kişm",
-        "province:tr": "Hürmüzgan",
-        "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "سایتی پەرژینی ئاسمانیی نەریمان لە قشم پێکرا.",
-        "city:ckb": "قشم",
-        "province:ckb": "ھورمزگان",
-        "id": "NDI6ODBmYzA2YTk1Yzc3",
-        "publicId": "NDI6ODBmYzA2YTk1Yzc3",
-        "sourceId": "80fc06a95c77",
-        "layerId": 42,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T19:22:59.412Z",
-        "createdAt": "2026-11-08T19:23:02.728Z",
-        "updatedAt": "2026-11-08T19:23:02.728Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 115796,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              47.664111,
-              32.048542
-            ],
-            [
-              47.671182,
-              32.032006
-            ],
-            [
-              47.687603,
-              32.029898
-            ],
-            [
-              47.682652,
-              32.018418
-            ],
-            [
-              47.690236,
-              32.013243
-            ],
-            [
-              47.699067,
-              32.022845
-            ],
-            [
-              47.712418,
-              32.018895
-            ],
-            [
-              47.701235,
-              32.013596
-            ],
-            [
-              47.714608,
-              31.999794
-            ],
-            [
-              47.705397,
-              31.994321
-            ],
-            [
-              47.717659,
-              31.986296
-            ],
-            [
-              47.711573,
-              31.970599
-            ],
-            [
-              47.725093,
-              31.962962
-            ],
-            [
-              47.731711,
-              31.939258
-            ],
-            [
-              47.759232,
-              31.912137
-            ],
-            [
-              47.781573,
-              31.90747
-            ],
-            [
-              47.788761,
-              31.88743
-            ],
-            [
-              47.80986,
-              31.881373
-            ],
-            [
-              47.799058,
-              31.864485
-            ],
-            [
-              47.805337,
-              31.842578
-            ],
-            [
-              47.852568,
-              31.818223
-            ],
-            [
-              47.865855,
-              31.783613
-            ],
-            [
-              47.685287,
-              31.394825
-            ],
-            [
-              47.687542,
-              31.000904
-            ],
-            [
-              48.034683,
-              30.997872
-            ],
-            [
-              48.025152,
-              30.477604
-            ],
-            [
-              48.10725,
-              30.454066
-            ],
-            [
-              48.162758,
-              30.427398
-            ],
-            [
-              48.179491,
-              30.403196
-            ],
-            [
-              48.20245,
-              30.321029
-            ],
-            [
-              48.219402,
-              30.317192
-            ],
-            [
-              48.249708,
-              30.340665
-            ],
-            [
-              48.272624,
-              30.334738
-            ],
-            [
-              48.407515,
-              30.202336
-            ],
-            [
-              48.416959,
-              30.185976
-            ],
-            [
-              48.414446,
-              30.167721
-            ],
-            [
-              48.38415,
-              30.132798
-            ],
-            [
-              48.382426,
-              30.121126
-            ],
-            [
-              48.443479,
-              30.064893
-            ],
-            [
-              48.449089,
-              30.009136
-            ],
-            [
-              48.459908,
-              29.993579
-            ],
-            [
-              48.510633,
-              29.963779
-            ],
-            [
-              48.603743,
-              29.938382
-            ],
-            [
-              48.88098,
-              29.815728
-            ],
-            [
-              49.464301,
-              29.789578
-            ],
-            [
-              49.578324,
-              29.66815
-            ],
-            [
-              50.139034,
-              30.175944
-            ],
-            [
-              50.170162,
-              30.219317
-            ],
-            [
-              50.200007,
-              30.294962
-            ],
-            [
-              50.283505,
-              30.241725
-            ],
-            [
-              50.416576,
-              30.18219
-            ],
-            [
-              50.473194,
-              30.167521
-            ],
-            [
-              50.520584,
-              30.165517
-            ],
-            [
-              50.509377,
-              30.22758
-            ],
-            [
-              50.520759,
-              30.390425
-            ],
-            [
-              50.452622,
-              30.432294
-            ],
-            [
-              50.386456,
-              30.524084
-            ],
-            [
-              50.442894,
-              30.533664
-            ],
-            [
-              50.475433,
-              30.526085
-            ],
-            [
-              50.506012,
-              30.530582
-            ],
-            [
-              50.549566,
-              30.563055
-            ],
-            [
-              50.533901,
-              30.599643
-            ],
-            [
-              50.513804,
-              30.620318
-            ],
-            [
-              50.423728,
-              30.665134
-            ],
-            [
-              50.414285,
-              30.682362
-            ],
-            [
-              50.411785,
-              30.717912
-            ],
-            [
-              50.392841,
-              30.731308
-            ],
-            [
-              50.360451,
-              30.727019
-            ],
-            [
-              50.335442,
-              30.708716
-            ],
-            [
-              50.254177,
-              30.755576
-            ],
-            [
-              50.231514,
-              30.790528
-            ],
-            [
-              50.243454,
-              30.832506
-            ],
-            [
-              50.224709,
-              30.871619
-            ],
-            [
-              50.210423,
-              30.932264
-            ],
-            [
-              50.160694,
-              30.903756
-            ],
-            [
-              50.069748,
-              30.829932
-            ],
-            [
-              50.033341,
-              30.871308
-            ],
-            [
-              49.955505,
-              30.877364
-            ],
-            [
-              49.947796,
-              30.891375
-            ],
-            [
-              49.951141,
-              30.929371
-            ],
-            [
-              49.934135,
-              30.938496
-            ],
-            [
-              49.923675,
-              30.927707
-            ],
-            [
-              49.92519,
-              30.933882
-            ],
-            [
-              49.886212,
-              30.96426
-            ],
-            [
-              49.928177,
-              30.991472
-            ],
-            [
-              49.961508,
-              31.00007
-            ],
-            [
-              49.97143,
-              31.012926
-            ],
-            [
-              49.957612,
-              31.0402
-            ],
-            [
-              49.966666,
-              31.050689
-            ],
-            [
-              49.947518,
-              31.074863
-            ],
-            [
-              49.963445,
-              31.07988
-            ],
-            [
-              49.982259,
-              31.099243
-            ],
-            [
-              49.977973,
-              31.104737
-            ],
-            [
-              49.989994,
-              31.125673
-            ],
-            [
-              49.954464,
-              31.185078
-            ],
-            [
-              49.95467,
-              31.211405
-            ],
-            [
-              49.978321,
-              31.215745
-            ],
-            [
-              49.996841,
-              31.232762
-            ],
-            [
-              50.072937,
-              31.254194
-            ],
-            [
-              50.152706,
-              31.251832
-            ],
-            [
-              50.207756,
-              31.286861
-            ],
-            [
-              50.218712,
-              31.285949
-            ],
-            [
-              50.217198,
-              31.299541
-            ],
-            [
-              50.224979,
-              31.306745
-            ],
-            [
-              50.246761,
-              31.306489
-            ],
-            [
-              50.299832,
-              31.358479
-            ],
-            [
-              50.270004,
-              31.383501
-            ],
-            [
-              50.25095,
-              31.426759
-            ],
-            [
-              50.258846,
-              31.445214
-            ],
-            [
-              50.265481,
-              31.453477
-            ],
-            [
-              50.260701,
-              31.42384
-            ],
-            [
-              50.323374,
-              31.46011
-            ],
-            [
-              50.347822,
-              31.492062
-            ],
-            [
-              50.369493,
-              31.546855
-            ],
-            [
-              50.361267,
-              31.552087
-            ],
-            [
-              50.370223,
-              31.569663
-            ],
-            [
-              50.380802,
-              31.568851
-            ],
-            [
-              50.393478,
-              31.596091
-            ],
-            [
-              50.405606,
-              31.595699
-            ],
-            [
-              50.441513,
-              31.618919
-            ],
-            [
-              50.387064,
-              31.686168
-            ],
-            [
-              50.386814,
-              31.73019
-            ],
-            [
-              50.323221,
-              31.77797
-            ],
-            [
-              50.321434,
-              31.791736
-            ],
-            [
-              50.307711,
-              31.80603
-            ],
-            [
-              50.312616,
-              31.822222
-            ],
-            [
-              50.279215,
-              31.850917
-            ],
-            [
-              50.289169,
-              31.86344
-            ],
-            [
-              50.281511,
-              31.880394
-            ],
-            [
-              50.25266,
-              31.905778
-            ],
-            [
-              50.234507,
-              31.946169
-            ],
-            [
-              50.143682,
-              32.00192
-            ],
-            [
-              50.015934,
-              32.10632
-            ],
-            [
-              49.947463,
-              32.17753
-            ],
-            [
-              49.919511,
-              32.267089
-            ],
-            [
-              49.921443,
-              32.303772
-            ],
-            [
-              49.905197,
-              32.325037
-            ],
-            [
-              49.816788,
-              32.386262
-            ],
-            [
-              49.798239,
-              32.42758
-            ],
-            [
-              49.625492,
-              32.573668
-            ],
-            [
-              49.580439,
-              32.632417
-            ],
-            [
-              49.564953,
-              32.63671
-            ],
-            [
-              49.500077,
-              32.703093
-            ],
-            [
-              49.500832,
-              32.716047
-            ],
-            [
-              49.445603,
-              32.751201
-            ],
-            [
-              49.405415,
-              32.814357
-            ],
-            [
-              49.369259,
-              32.843575
-            ],
-            [
-              49.318745,
-              32.839164
-            ],
-            [
-              49.257652,
-              32.861843
-            ],
-            [
-              49.217991,
-              32.852166
-            ],
-            [
-              49.171974,
-              32.883922
-            ],
-            [
-              49.160889,
-              32.871861
-            ],
-            [
-              49.137077,
-              32.869831
-            ],
-            [
-              49.114891,
-              32.888458
-            ],
-            [
-              49.093578,
-              32.885544
-            ],
-            [
-              49.08012,
-              32.898357
-            ],
-            [
-              49.055344,
-              32.905109
-            ],
-            [
-              49.014337,
-              32.897743
-            ],
-            [
-              49.004667,
-              32.90663
-            ],
-            [
-              49.007168,
-              32.915107
-            ],
-            [
-              48.984585,
-              32.912835
-            ],
-            [
-              48.977859,
-              32.901442
-            ],
-            [
-              48.954728,
-              32.892224
-            ],
-            [
-              48.925958,
-              32.897363
-            ],
-            [
-              48.914289,
-              32.885311
-            ],
-            [
-              48.899876,
-              32.884941
-            ],
-            [
-              48.872513,
-              32.9084
-            ],
-            [
-              48.853863,
-              32.910839
-            ],
-            [
-              48.830738,
-              32.948522
-            ],
-            [
-              48.764885,
-              32.968358
-            ],
-            [
-              48.7603,
-              32.952285
-            ],
-            [
-              48.768688,
-              32.922986
-            ],
-            [
-              48.740101,
-              32.897805
-            ],
-            [
-              48.729116,
-              32.902108
-            ],
-            [
-              48.716316,
-              32.891156
-            ],
-            [
-              48.640996,
-              32.954868
-            ],
-            [
-              48.620851,
-              32.937904
-            ],
-            [
-              48.539692,
-              32.98156
-            ],
-            [
-              48.504566,
-              32.96169
-            ],
-            [
-              48.456116,
-              32.968494
-            ],
-            [
-              48.389679,
-              32.965454
-            ],
-            [
-              48.304836,
-              32.993553
-            ],
-            [
-              48.274597,
-              32.996334
-            ],
-            [
-              48.179688,
-              32.900941
-            ],
-            [
-              48.165749,
-              32.901576
-            ],
-            [
-              48.141518,
-              32.919498
-            ],
-            [
-              48.12809,
-              32.912633
-            ],
-            [
-              48.118683,
-              32.899032
-            ],
-            [
-              48.128822,
-              32.870469
-            ],
-            [
-              48.104084,
-              32.845955
-            ],
-            [
-              48.120806,
-              32.830766
-            ],
-            [
-              48.097995,
-              32.806128
-            ],
-            [
-              48.079772,
-              32.800215
-            ],
-            [
-              48.074976,
-              32.80786
-            ],
-            [
-              48.049027,
-              32.805785
-            ],
-            [
-              48.055344,
-              32.786255
-            ],
-            [
-              48.068241,
-              32.788886
-            ],
-            [
-              48.05381,
-              32.772082
-            ],
-            [
-              48.06868,
-              32.764263
-            ],
-            [
-              48.059013,
-              32.759042
-            ],
-            [
-              48.064899,
-              32.744743
-            ],
-            [
-              48.059998,
-              32.740373
-            ],
-            [
-              48.066944,
-              32.730201
-            ],
-            [
-              48.080547,
-              32.731948
-            ],
-            [
-              48.086048,
-              32.719682
-            ],
-            [
-              48.063995,
-              32.708751
-            ],
-            [
-              48.075977,
-              32.70098
-            ],
-            [
-              48.085922,
-              32.704983
-            ],
-            [
-              48.088116,
-              32.689384
-            ],
-            [
-              48.064911,
-              32.674542
-            ],
-            [
-              48.002045,
-              32.674548
-            ],
-            [
-              47.990872,
-              32.655796
-            ],
-            [
-              47.969147,
-              32.65828
-            ],
-            [
-              47.954666,
-              32.635334
-            ],
-            [
-              47.988327,
-              32.611412
-            ],
-            [
-              47.941338,
-              32.610826
-            ],
-            [
-              47.931572,
-              32.599422
-            ],
-            [
-              47.915218,
-              32.602782
-            ],
-            [
-              47.932858,
-              32.582409
-            ],
-            [
-              47.9095,
-              32.579289
-            ],
-            [
-              47.90062,
-              32.568306
-            ],
-            [
-              47.918224,
-              32.553814
-            ],
-            [
-              47.944046,
-              32.561572
-            ],
-            [
-              47.931824,
-              32.547413
-            ],
-            [
-              47.9328,
-              32.53495
-            ],
-            [
-              47.955834,
-              32.535732
-            ],
-            [
-              47.939331,
-              32.521611
-            ],
-            [
-              47.942577,
-              32.51701
-            ],
-            [
-              47.980213,
-              32.525863
-            ],
-            [
-              47.980599,
-              32.536351
-            ],
-            [
-              48.005741,
-              32.533031
-            ],
-            [
-              48.016064,
-              32.523357
-            ],
-            [
-              48.022892,
-              32.456677
-            ],
-            [
-              48.018204,
-              32.418906
-            ],
-            [
-              48.035626,
-              32.355351
-            ],
-            [
-              47.97171,
-              32.327457
-            ],
-            [
-              47.961975,
-              32.294387
-            ],
-            [
-              47.985863,
-              32.27774
-            ],
-            [
-              47.985024,
-              32.263894
-            ],
-            [
-              47.948582,
-              32.24165
-            ],
-            [
-              47.925045,
-              32.212598
-            ],
-            [
-              47.883591,
-              32.185844
-            ],
-            [
-              47.810063,
-              32.116073
-            ],
-            [
-              47.664111,
-              32.048542
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "گزارش میدانی",
-        "description": "شلیک موشک از هفتکل",
-        "date": 1794165766,
-        "city": "Haftkal",
-        "province": "خوزستان",
-        "name:en": "Field Report",
-        "description:en": "Missile launch from Haftkal",
-        "city:en": "Haftkal",
-        "province:en": "Khuzestan",
-        "name:ar": "تقرير ميداني",
-        "description:ar": "إطلاق صواريخ من هفتكل",
-        "city:ar": "هفتكل",
-        "province:ar": "خوزستان",
-        "name:he": "דיווח מהשטח",
-        "description:he": "שיגור טיל מחפתגל",
-        "city:he": "חפתגל",
-        "province:he": "ח'וזסתאן",
-        "name:tr": "Saha Raporu",
-        "description:tr": "Haftkel'den füze atılması",
-        "city:tr": "Haftkel",
-        "province:tr": "Huzistan",
-        "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "تەقاندنی مووشەک لە حەفتکۆل",
-        "city:ckb": "حەفتکۆل",
-        "province:ckb": "خووزستان",
-        "id": "NDI6OTQxZWIxOGU5ZTdi",
-        "publicId": "NDI6OTQxZWIxOGU5ZTdi",
-        "sourceId": "941eb18e9e7b",
-        "layerId": 42,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T19:24:28.061Z",
-        "createdAt": "2026-11-08T19:24:29.393Z",
-        "updatedAt": "2026-11-08T19:24:29.393Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 115797,
+      "id": 115819,
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3555,513 +1580,154 @@
       },
       "properties": {
         "name:fa": "گزارش میدانی",
-        "description": "۲۳:۰۸ به وقت محلی / ۱۹:۳۸ به وقت جهانی (UTC)\nفعالیت پهپادی در امتداد مرز عراق، استان آذربایجان غربی.",
-        "date": 1794166680,
-        "city": "آذربایجان غربی",
+        "description": "۲۱:۲۳ به وقت محلی / ۱۷:۵۳ به وقت جهانی (UTC)\nفعالیت پدافند هوایی در آسمان سیلوانه، آذربایجان غربی.",
+        "date": 1794246780,
+        "city": "Silvaneh",
         "province": "آذربایجان غربی",
         "name:en": "Field Report",
-        "description:en": "23:08 local time / 19:38 UTC\nDrone activity along the Iraq border, West Azerbaijan province.",
-        "city:en": "West Azerbaijan",
+        "description:en": "21:23 local time / 17:53 UTC\nAir defense activity in the skies of Silvaneh, West Azerbaijan.",
+        "city:en": "Silvaneh",
         "province:en": "West Azerbaijan",
-        "name:he": "דיווח שטח",
-        "description:he": "23:08 לפי שעון מקומי / 19:38 לפי שעון עולמי (UTC)\nפעילות כלי טיס בלתי מאוישים (כטב\"ם) לאורך גבול עיראק, מחוז מערב אזרבייג'ן.",
-        "city:he": "מערב אזרבייג'ן",
+        "name:ar": "تقرير ميداني",
+        "description:ar": "21:23 بالتوقيت المحلي / 17:53 بتوقيت عالمي موحد (UTC)\nنشاط للدفاع الجوي في سماء سيلوانه، أذربيجان الغربية.",
+        "province:ar": "أذربيجان الغربية",
+        "name:he": "דיווח מהשטח",
+        "description:he": "21:23 לפי שעון מקומי / 17:53 לפי שעון עולמי (UTC)\nפעלות הגנה אווירית בשמי סילוואנה, אזרבייג'ן המערבית.",
+        "city:he": "סילוואנה",
         "province:he": "אזרבייג'ן המערבית",
         "name:tr": "Saha Raporu",
-        "description:tr": "Yerel saatle 23:08 / Evrensel Saat ile (UTC) 19:38\nIrak sınırı boyunca İHA faaliyeti, Batı Azerbaycan eyaleti.",
-        "city:tr": "Batı Azerbaycan",
+        "description:tr": "Yerel saatle 21:23 / UTC saatle 17:53\nSilvane semalarında hava savunma sistemi faaliyetleri, Batı Azerbaycan.",
+        "city:tr": "Silvane",
         "province:tr": "Batı Azerbaycan",
         "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "23:08 بە کاتی خۆجێی / 19:38 بە کاتی جیهانی (UTC)\nچالاکی فڕۆکەی بێفڕۆکەوان لە درێژایی سنووری عێراق، پارێزگای ئازەربایجانی ڕۆژاوا.",
-        "city:ckb": "ئازەربایجانی ڕۆژاوا",
+        "description:ckb": "٢١:٢٣ بە کاتی خۆجێی / ١٧:٥٣ بە کاتی جیهانی (UTC)\nچالاکیی بەرگریی ئاسمانی لە ئاسمانی سیلێوانە، ئازەربایجانی ڕۆژاوا.",
+        "city:ckb": "سیلێوانە",
         "province:ckb": "ئازەربایجانی ڕۆژاوا",
-        "name:ar": "تقرير ميداني",
-        "description:ar": "23:08 بالتوقيت المحلي / 19:38 بالتوقيت العالمي الموحد (UTC)\nنشاط لطائرات مسيرة على طول الحدود العراقية، محافظة أذربيجان الغربية.",
-        "city:ar": "أذربيجان الغربية",
-        "province:ar": "أذربيجان الغربية",
-        "id": "NDI6NWIyNGQyMTdlNjRi",
-        "publicId": "NDI6NWIyNGQyMTdlNjRi",
-        "sourceId": "5b24d217e64b",
+        "id": "NDI6OThjYWE0ZDU5ZDYx",
+        "publicId": "NDI6OThjYWE0ZDU5ZDYx",
+        "sourceId": "98caa4d59d61",
         "layerId": 42,
         "type": "event",
         "status": "active",
         "urgency": null,
         "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T19:49:54.386Z",
-        "createdAt": "2026-11-08T19:49:54.524Z",
-        "updatedAt": "2026-11-08T19:49:54.524Z"
+        "expirationDate": "2026-11-10T17:58:27.553Z",
+        "createdAt": "2026-11-09T17:58:27.812Z",
+        "updatedAt": "2026-11-09T17:58:27.812Z"
       }
     },
     {
       "type": "Feature",
-      "id": 115798,
+      "id": 115820,
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              49.6726,
-              30.770539
+              48.340175,
+              32.42118
             ],
             [
-              49.698516,
-              30.73461
+              48.376802,
+              32.384216
             ],
             [
-              49.729629,
-              30.750286
+              48.374706,
+              32.361727
             ],
             [
-              49.71028,
-              30.781092
+              48.40295,
+              32.35804
             ],
             [
-              49.698163,
-              30.770104
+              48.416529,
+              32.345186
             ],
             [
-              49.683597,
-              30.777417
+              48.450251,
+              32.352686
             ],
             [
-              49.6726,
-              30.770539
+              48.434066,
+              32.368799
+            ],
+            [
+              48.432487,
+              32.393389
+            ],
+            [
+              48.483741,
+              32.430345
+            ],
+            [
+              48.465766,
+              32.444731
+            ],
+            [
+              48.432899,
+              32.415152
+            ],
+            [
+              48.386364,
+              32.45861
+            ],
+            [
+              48.362107,
+              32.444089
+            ],
+            [
+              48.364921,
+              32.428629
+            ],
+            [
+              48.340175,
+              32.42118
             ]
           ]
         ]
       },
       "properties": {
         "name:fa": "گزارش میدانی",
-        "description": "فعالیت شدید پدافند هوایی در پایگاه پنجم در امیدیه خوزستان، هم‌زمان با صدای یک جت.",
-        "date": 1794167339,
-        "city": "امیدیه",
+        "description": "فعالیت جنگنده‌ها بر فراز دزفول در ساعت ۰۰:۰۵ به وقت محلی | ۲۰:۳۵ به وقت جهانی (UTC)",
+        "date": 1794256721,
+        "city": "شهر دزفول",
         "province": "خوزستان",
         "name:en": "Field Report",
-        "description:en": "Intense air defense activity at the Fifth Base in Omidiyeh, Khuzestan, simultaneously with the sound of a jet.",
-        "city:en": "Omidiyeh",
-        "province:en": "Khuzestan",
-        "name:tr": "Saha Raporu",
-        "description:tr": "Huzistan'ın Umidiye kentindeki 5. üste, bir jet sesiyle aynı anda yoğun hava savunma sistemi faaliyetleri.",
-        "city:tr": "Umidiye",
-        "province:tr": "Huzistan",
-        "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "چالاکیی توندی بەرگریی ئاسمانی لە بنکەی پێنجەم لە ئومێدیەی خووستان، هاوکات لەگەڵ دەنگی جێتێک.",
-        "city:ckb": "ئومێدیە",
-        "province:ckb": "خووزستان",
-        "name:ar": "تقرير ميداني",
-        "description:ar": "نشاط مكثف للدفاع الجوي في القاعدة الخامسة في أوميدية بمحافظة خوزستان، بالتزامن مع سماع صوت طائرة نفاثة.",
-        "city:ar": "أوميدية",
-        "province:ar": "خوزستان",
-        "name:he": "דיווח מהשטח",
-        "description:he": "פעילות נשק נ\"מ אינטנסיבית בבסיס החמישי באומידיה, ח'וזסתאן, במקביל לקול של מטוס סילון.",
-        "city:he": "אומידיה",
-        "province:he": "ח'וזסתאן",
-        "id": "NDI6MTY2MWZhNGMyYmU5",
-        "publicId": "NDI6MTY2MWZhNGMyYmU5",
-        "sourceId": "1661fa4c2be9",
-        "layerId": 42,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T19:50:33.318Z",
-        "createdAt": "2026-11-08T19:50:33.593Z",
-        "updatedAt": "2026-11-08T19:50:33.593Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 115799,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              48.159713,
-              31.549203
-            ],
-            [
-              48.187237,
-              31.5397
-            ],
-            [
-              48.198996,
-              31.544674
-            ],
-            [
-              48.209038,
-              31.565266
-            ],
-            [
-              48.1678,
-              31.566056
-            ],
-            [
-              48.17265,
-              31.55693
-            ],
-            [
-              48.159713,
-              31.549203
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "گزارش میدانی",
-        "description": "شنیده شدن صدای انفجار در سوسنگرد، خوزستان.",
-        "date": 1794168004,
-        "city": "سوسنگرد",
-        "province": "خوزستان",
-        "name:en": "Field Report",
-        "description:en": "The sound of an explosion was heard in Susangerd, Khuzestan.",
-        "city:en": "Susangerd",
+        "description:en": "Fighter jet activity over Dezful at 00:05 local time | 20:35 Universal Time (UTC)",
+        "city:en": "Dezful",
         "province:en": "Khuzestan",
         "name:ar": "تقرير ميداني",
-        "description:ar": "سماع صوت انفجار في الخفاجية (سوسنكرد)، خوزستان.",
-        "city:ar": "الخفاجية",
+        "description:ar": "نشاط الطائرات المقاتلة فوق دزفول في الساعة 00:05 بالتوقيت المحلي | 20:35 بالتوقيت العالمي (UTC)",
+        "city:ar": "مدينة دزفول",
         "province:ar": "خوزستان",
         "name:he": "דיווח מהשטח",
-        "description:he": "שמיעת קול פיצוץ בסוסנגרד, ח'וזסטאן.",
-        "city:he": "סוסנגרד",
+        "description:he": "פעילות מטוסי קרב בשמי דזפול בשעה 00:05 לפי שעון מקומי | 20:35 לפי שעון עולמי (UTC)",
+        "city:he": "דזפול",
         "province:he": "ח'וזסתאן",
         "name:tr": "Saha Raporu",
-        "description:tr": "Susengerd, Huzistan'da patlama sesleri duyuldu.",
-        "city:tr": "Susengerd",
+        "description:tr": "Yerel saatle 00:05 | Evrensel Saat (UTC) ile 20:35'te Dezful üzerinde savaş uçaklarının faaliyeti",
+        "city:tr": "Dezful",
         "province:tr": "Huzistan",
         "name:ckb": "ڕاپۆرتی مەیدانی",
-        "city:ckb": "سوسەنگرد",
+        "description:ckb": "چالاکیی فڕۆکە جەنگییەکان بەسەر دزفول لە کاتژمێر ٠٠:٠٥ی بە کاتی خۆجێی | ٢٠:٣٥ی بە کاتی جیهانی (UTC)",
+        "city:ckb": "دزفول",
         "province:ckb": "خووزستان",
-        "id": "NDI6M2Y5ZTZjMzlkODUx",
-        "publicId": "NDI6M2Y5ZTZjMzlkODUx",
-        "sourceId": "3f9e6c39d851",
+        "id": "NDI6YTNiNTViMWUzZTBk",
+        "publicId": "NDI6YTNiNTViMWUzZTBk",
+        "sourceId": "a3b55b1e3e0d",
         "layerId": 42,
         "type": "event",
         "status": "active",
         "urgency": null,
         "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T20:01:37.170Z",
-        "createdAt": "2026-11-08T20:01:37.284Z",
-        "updatedAt": "2026-11-08T20:01:37.284Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 115800,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              49.14708,
-              31.573892
-            ],
-            [
-              49.152596,
-              31.53443
-            ],
-            [
-              49.185921,
-              31.470454
-            ],
-            [
-              49.206833,
-              31.446499
-            ],
-            [
-              49.306409,
-              31.372109
-            ],
-            [
-              49.330538,
-              31.3626
-            ],
-            [
-              49.405483,
-              31.408784
-            ],
-            [
-              49.430061,
-              31.432276
-            ],
-            [
-              49.44799,
-              31.437783
-            ],
-            [
-              49.503536,
-              31.423816
-            ],
-            [
-              49.50676,
-              31.401928
-            ],
-            [
-              49.547623,
-              31.388854
-            ],
-            [
-              49.588619,
-              31.383798
-            ],
-            [
-              49.625057,
-              31.390585
-            ],
-            [
-              49.635131,
-              31.356925
-            ],
-            [
-              49.68193,
-              31.399396
-            ],
-            [
-              49.70956,
-              31.389422
-            ],
-            [
-              49.711815,
-              31.406029
-            ],
-            [
-              49.685856,
-              31.478346
-            ],
-            [
-              49.683838,
-              31.503646
-            ],
-            [
-              49.664364,
-              31.529706
-            ],
-            [
-              49.607895,
-              31.571503
-            ],
-            [
-              49.534802,
-              31.607043
-            ],
-            [
-              49.503128,
-              31.644027
-            ],
-            [
-              49.473209,
-              31.697238
-            ],
-            [
-              49.450485,
-              31.715403
-            ],
-            [
-              49.355831,
-              31.724963
-            ],
-            [
-              49.237499,
-              31.702587
-            ],
-            [
-              49.183632,
-              31.708386
-            ],
-            [
-              49.164326,
-              31.681753
-            ],
-            [
-              49.189857,
-              31.651968
-            ],
-            [
-              49.196423,
-              31.63128
-            ],
-            [
-              49.14708,
-              31.573892
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "گزارش میدانی",
-        "description": "همین الان دوباره موشکی از هفتکل شلیک شد",
-        "date": 1794168953,
-        "city": "شهرستان هفتکل",
-        "province": "خوزستان",
-        "name:en": "Field Report",
-        "description:en": "A missile was just fired again from Haftgel.",
-        "city:en": "Haftgel",
-        "province:en": "Khuzestan",
-        "name:ar": "تقرير ميداني",
-        "description:ar": "في هذه اللحظة تم إطلاق صاروخ آخر من هفتكل",
-        "city:ar": "مقاطعة هفتكل",
-        "province:ar": "خوزستان",
-        "name:he": "דיווח מהשטח",
-        "description:he": "כרגע שוגר שוב טיל מהפתגל",
-        "city:he": "הפתגל",
-        "province:he": "ח'וזסתאן",
-        "name:tr": "Saha Raporu",
-        "description:tr": "Şu anda Heftkel'den yeniden bir füze ateşlendi",
-        "city:tr": "Heftkel",
-        "province:tr": "Huzistan",
-        "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "هەر ئێستا دیسانەوە مووشەکێک لە حەفتکەلەوە تەقێنرا",
-        "city:ckb": "حەفتکەل",
-        "province:ckb": "خووزستان",
-        "id": "NDI6ODAwMTJmMzMxZDA3",
-        "publicId": "NDI6ODAwMTJmMzMxZDA3",
-        "sourceId": "80012f331d07",
-        "layerId": 42,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T20:17:26.814Z",
-        "createdAt": "2026-11-08T20:17:26.975Z",
-        "updatedAt": "2026-11-08T20:17:26.975Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 115801,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              46.956463,
-              35.321721
-            ],
-            [
-              46.978054,
-              35.307176
-            ],
-            [
-              46.983719,
-              35.2918
-            ],
-            [
-              46.976044,
-              35.262304
-            ],
-            [
-              46.998138,
-              35.25396
-            ],
-            [
-              47.014532,
-              35.260548
-            ],
-            [
-              47.014146,
-              35.277122
-            ],
-            [
-              47.02127,
-              35.274774
-            ],
-            [
-              47.03114,
-              35.292991
-            ],
-            [
-              47.021592,
-              35.30264
-            ],
-            [
-              47.034853,
-              35.307631
-            ],
-            [
-              47.023708,
-              35.32751
-            ],
-            [
-              47.017064,
-              35.321131
-            ],
-            [
-              47.015433,
-              35.350112
-            ],
-            [
-              47.003191,
-              35.355147
-            ],
-            [
-              47.003817,
-              35.342877
-            ],
-            [
-              46.989493,
-              35.340806
-            ],
-            [
-              46.986122,
-              35.349015
-            ],
-            [
-              46.960512,
-              35.342633
-            ],
-            [
-              46.969924,
-              35.332499
-            ],
-            [
-              46.956463,
-              35.321721
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "گزارش میدانی",
-        "description": "شلیک احتمالی موشک از حومه سنندج همراه با صدای بلند.",
-        "date": 1794169296,
-        "city": "شهر سنندج",
-        "province": "کردستان",
-        "name:en": "Field Report",
-        "description:en": "Probable missile launch from the outskirts of Sanandaj accompanied by a loud noise.",
-        "city:en": "Sanandaj",
-        "province:en": "Kurdistan",
-        "name:ar": "تقرير ميداني",
-        "description:ar": "إطلاق صواريخ محتمل من ضواحي سنندج مصحوباً بصوت عالٍ.",
-        "city:ar": "مدينة سنندج",
-        "province:ar": "كردستان",
-        "name:he": "דיווח מהשטח",
-        "description:he": "שיגור טיל ככל הנראה מפרברי סננדג' בליווי קול נפץ עז.",
-        "city:he": "סננדג'",
-        "province:he": "כורדיסטאן",
-        "name:tr": "Saha Raporu",
-        "description:tr": "Sendeç banliyölerinden yüksek sesle birlikte muhtemel füze atışı.",
-        "city:tr": "Sendeç",
-        "province:tr": "Kürdistan",
-        "name:ckb": "ڕاپۆرتی مەیدانی",
-        "description:ckb": "تەقەکردنی ئەگەری مووشەک لە دەوروبەری سنە لەگەڵ دەنگێکی بەرز.",
-        "city:ckb": "سنە",
-        "province:ckb": "کوردستان",
-        "id": "NDI6NDIyMzVhMGEzZDJj",
-        "publicId": "NDI6NDIyMzVhMGEzZDJj",
-        "sourceId": "42235a0a3d2c",
-        "layerId": 42,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": "2026-11-09T20:23:08.580Z",
-        "createdAt": "2026-11-08T20:23:08.750Z",
-        "updatedAt": "2026-11-08T20:23:08.750Z"
+        "expirationDate": "2026-11-10T20:40:13.776Z",
+        "createdAt": "2026-11-09T20:40:13.994Z",
+        "updatedAt": "2026-11-09T20:40:13.994Z"
       }
     }
   ],
   "metadata": {
-    "total": 15,
+    "total": 9,
     "layerId": 42,
     "clustered": false,
     "simplified": false

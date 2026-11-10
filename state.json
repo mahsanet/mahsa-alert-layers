@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-09T02:00:24.690Z",
-  "serial": 8882,
+  "lastUpdated": "2026-11-10T02:00:20.776Z",
+  "serial": 8925,
   "layers": {
     "40": "2c8342a484e6422ed2d96252d1aeb5403273f825",
     "missilePrograms": "20df0b13bc36c9642eca5cf592acdd73d17a6d49",
@@ -33,14 +33,14 @@
     "healthCenter": "a4b183ee6250e308e16e2b1b74e67b3950f0e597",
     "zirsakht": "9e1e56366b6ebe33974cd08f090fe786b725eda2",
     "clinic": "1690ebb79d2f0247bf3b72df80f468398ef40891",
-    "amakenMazhabiPoint": "e314032c51d197e005ee9531ae5a288df3569fef",
+    "amakenMazhabiPoint": "0fa2fe67c3c38ec55bff0ac908e7657896375315",
     "chatroom": "ece29e7e2b2491077271fcea54766c68f74b0537",
     "pharmacy": "9d673b00dc875e02335a125033cabee5ca29e321",
-    "cameraPoint": "fe63e52d77e959594a0c3ed926517c5d6f255308",
+    "cameraPoint": "60c0bcc2a97d0f02f3653ef11c0c58a3d3e0ad95",
     "MaritimeEvents": "4e4bdac72c2e7b794430723237659e677dad7902",
-    "notam": "3f7b313ed59b26c4c4b922cd65b0606e32e9d892",
-    "Checkpoint": "b90ac8f00647835b184ce0be71fd5605132036fd",
-    "regimeGathering": "4ced566a08cecc0510745de9654a1b097ccab028",
-    "FieldReport": "f3f44796917ec044754ff6f54dba45332af5063e"
+    "notam": "bc8bf9fad9f37c3ce8be1be39441f13815e1c19c",
+    "Checkpoint": "8138bda39fde704295c4ed3e1d9785631513a454",
+    "regimeGathering": "034fdce6501084a79e4d0adbe75ce1a7d5755c3c",
+    "FieldReport": "98ced041b1afa13edf8b11a04988fd70a1764d87"
   }
 }

@@ -21681,10 +21681,50 @@
         "createdAt": "2026-11-09T01:04:33.322Z",
         "updatedAt": "2026-11-09T01:04:39.849Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.280669525265694,
+          30.334654814880608
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حامیان حکومت",
+        "city": "",
+        "province": "",
+        "date": 1794202293,
+        "description": "تجمع حامیان حکومت. هر روز از ساعت ۲۰:۳۰ به بعد با یک‌طرفه کردن مسیر و پخش سخنرانی با بلندگو باعث ایجاد مزاحمت و اختلال در تردد مردم می‌شوند.",
+        "sources": "",
+        "name:en": "Government Supporters Gathering",
+        "description:en": "Gathering of government supporters. Every day from 20:30 onwards, by making the route one-way and broadcasting speeches through loudspeakers, they cause nuisance and disruption to people's traffic.",
+        "name:ar": "تجمع مؤيدي النظام",
+        "description:ar": "تجمع لمؤيدي النظام. يقومون يوميا اعتبارا من الساعة 20:30 بجعل الطريق اتجاها واحدا وبث الخطابات عبر مكبرات الصوت، مما يتسبب في إزعاج الناس وعرقلة حركة المرور.",
+        "name:he": "עצרת תומכי המשטר",
+        "description:he": "עצרת תומכי המשטר. מדי יום החל מהשעה 20:30 ואילך, הם חוסמים את התנועה לכיוון אחד ומשמיעים נאומים ברמקולים, ובכך גורמים למטרד ולהפרעה לתנועת התושבים.",
+        "name:tr": "Hükümet Yanlılarının Toplanması",
+        "description:tr": "Hükümet yanlılarının toplanması. Her gün saat 20:30'dan sonra güzergahı tek yönlü hale getirerek ve hoparlörden konuşmalar yayınlayarak halkın ulaşımında rahatsızlık ve aksamalara neden oluyorlar.",
+        "name:ckb": "کۆوبوونەوەی لایەنگرانی حوكمەت",
+        "description:ckb": "کۆوبوونەوەی لایەنگرانی حوكمەت. هەموو ڕۆژێ لە سەعات ٢٠:٣٠ بە دواوە بە یەک‌لایەنە کردنی ڕێگاکە و بڵاوکردنەوەی وتار بە هێدفۆن دەبنە هۆی دروستکردنی بێزاری و تێکچوونی هاتوچۆی خەڵک.",
+        "id": "NDA6ZmI0ZWRiZTQzNThl",
+        "publicId": "NDA6ZmI0ZWRiZTQzNThl",
+        "sourceId": "fb4edbe4358e",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-09T21:13:39.768Z",
+        "updatedAt": "2026-11-09T21:13:39.768Z"
+      }
     }
   ],
   "metadata": {
-    "total": 441,
+    "total": 442,
     "layerId": 40,
     "clustered": false,
     "simplified": false

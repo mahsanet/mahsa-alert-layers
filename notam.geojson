@@ -2599,10 +2599,108 @@
         "createdAt": "2026-11-07T11:32:53.916Z",
         "updatedAt": "2026-11-07T11:32:53.916Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115809,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.833333,
+              30.333333
+            ],
+            [
+              50.166667,
+              30.333333
+            ],
+            [
+              50.166667,
+              30.083333
+            ],
+            [
+              49.833333,
+              30.083333
+            ],
+            [
+              49.833333,
+              30.333333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · منطقه پروازی تهران (ایران)",
+        "description": "تیراندازی نظامی در محدوده مشخص‌شده انجام خواهد شد. این فعالیت از سطح زمین تا ارتفاعات بالاتر اجرا می‌شود.",
+        "notamNumber": "B0603/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۸/۱۸، ۰۹:۱۶",
+        "validTo": "۱۴۰۵/۰۸/۲۳، ۲۲:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1794203160,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "B0600/26",
+        "fir:en": "Tehran FIR (Iran)",
+        "notamCategory:en": "Navigation warning (gunfire, exercise, drone and the like)",
+        "validFrom:en": "2026-11-09 09:16",
+        "validTo:en": "2026-11-14 22:00",
+        "flBand:en": "From ground level to unlimited",
+        "shapeSource:en": "Area with the coordinates stated in the NOTAM",
+        "fir:ar": "منطقة طيران طهران (إيران)",
+        "notamCategory:ar": "تحذير ملاحي (إطلاق نار، مناورات، طائرات مسيّرة وما شابه)",
+        "validFrom:ar": "2026-11-09 09:16",
+        "validTo:ar": "2026-11-14 22:00",
+        "flBand:ar": "من سطح الأرض إلى بلا حد للارتفاع",
+        "shapeSource:ar": "منطقة بالإحداثيات المذكورة في الإشعار",
+        "fir:he": "מרחב הטיסה טהראן (איראן)",
+        "notamCategory:he": "אזהרת ניווט (ירי, תרגיל, כטב\"ם וכדומה)",
+        "validFrom:he": "2026-11-09 09:16",
+        "validTo:he": "2026-11-14 22:00",
+        "flBand:he": "מפני הקרקע עד ללא הגבלת גובה",
+        "shapeSource:he": "אזור לפי הקואורדינטות שבנוטאם",
+        "fir:tr": "Tahran uçuş bölgesi (İran)",
+        "notamCategory:tr": "Seyrüsefer uyarısı (atış, tatbikat, İHA ve benzeri)",
+        "validFrom:tr": "2026-11-09 09:16",
+        "validTo:tr": "2026-11-14 22:00",
+        "flBand:tr": "yer seviyesi ile sınırsız irtifa arası",
+        "shapeSource:tr": "NOTAM'da belirtilen koordinatlara göre alan",
+        "fir:ckb": "ناوچەی فڕینی تاران (ئێران)",
+        "notamCategory:ckb": "ئاگاداری ڕێنیشاندان (تەقەکردن، مانۆڕ، درۆن و هاوشێوەکانی)",
+        "validFrom:ckb": "2026-11-09 09:16",
+        "validTo:ckb": "2026-11-14 22:00",
+        "flBand:ckb": "لە ئاستی زەوی تا بێ سنووری بەرزی",
+        "shapeSource:ckb": "ناوچەیەک بە کۆردیناتە ڕاگەیەنراوەکانی ناو نۆتام",
+        "name:en": "Aviation Notice · Navigation Warning · Tehran Flight Zone (Iran)",
+        "description:en": "Military shooting will take place within the designated area. This activity will be conducted from ground level to higher altitudes.",
+        "name:ar": "إشعار للطيران · تحذير ملاحي · منطقه الطيران في طهران (إيران)",
+        "description:ar": "سيتم إجراء إطلاق نار عسكري ضمن النطاق المحدد. ينفذ هذا النشاط من سطح الأرض حتى ارتفاعات أعلى.",
+        "name:he": "הודעת תעופה · אזהרת ניווט · אזור הטיסה טהראן (איראן)",
+        "description:he": "ירי צבאי יבוצע בתחום המוגדר. פעילות זו תתבצע מפני הקרקע ועד לגבהים רמים יותר.",
+        "name:tr": "Havacılık Duyurusu · Seyrüsefer Uyarısı · Tahran Uçuş Bölgesi (İran)",
+        "description:tr": "Belirtilen alanda askeri atış yapılacaktır. Bu faaliyet yerden daha yüksek rakımlara kadar gerçekleştirilecektir.",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشداریی ناوبەری · ناوچەی فڕینی تاران (ئێران)",
+        "description:ckb": "تەقەکردنی سەربازی لە سنووری دیاریکراودا ئەنجام درێت. ئەم چالاکییە لە ئاستی زەوییەوە تا بەرزاییەکانی سەرووتر بەڕێوە دەچێت.",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDYwMy0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDYwMy0yNg",
+        "sourceId": "notam-oiix-b0603-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-14T18:30:00.000Z",
+        "createdAt": "2026-11-09T08:14:57.634Z",
+        "updatedAt": "2026-11-09T08:14:57.634Z"
+      }
     }
   ],
   "metadata": {
-    "total": 15,
+    "total": 16,
     "layerId": 38,
     "clustered": false,
     "simplified": false

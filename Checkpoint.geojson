@@ -14312,10 +14312,59 @@
         "createdAt": "2026-11-09T01:05:57.612Z",
         "updatedAt": "2026-11-09T01:05:57.612Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.699288100004196,
+          36.76989241825707
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان مهاباد",
+        "province": "استان آذربایجان غربی",
+        "date": 1794232536,
+        "description": "ایست بازرسی بسیج در مسیر مهاباد - پیرانشهر، بخش مرکزی مهاباد، دهستان مکریان غربی",
+        "sources": "",
+        "name:en": "Basij Checkpoint",
+        "city:en": "Mahabad County",
+        "province:en": "West Azerbaijan",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش التابعة للبسيج على طريق مهاباد - بيرانشهر، البخش المركزي لمهاباد، قضاء مكرُيان الغربي",
+        "city:ar": "مقاطعة مهاباد",
+        "province:ar": "أذربيجان الغربية",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה של הבסיג' בנתיב מהאבאד - פיראנשאהר, המחוז המרכזי של מהאבאד, מחוז כפרי מוקריאן המערבית",
+        "city:he": "מחוז מהאבאד",
+        "province:he": "אזרבייג'ן המערבית",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Mahabat - Piranşehr güzergahı üzerinde, Mahabat merkez ilçesi, Batı Mokriyan kırsal kesimi üzerindeki Besic kontrol noktası",
+        "city:tr": "Mahabat",
+        "province:tr": "Batı Azerbaycan",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنینی بەسیج لە ڕێگای مەهاباد - پیرانشار، ناوچەی ناوەندیی مەهاباد، گوندەواری مکریانی ڕۆژاوا",
+        "city:ckb": "مەهاباد",
+        "province:ckb": "ئازەربایجانی ڕۆژاوا",
+        "id": "Mzk6N2E5Y2VhODYzNmI0",
+        "publicId": "Mzk6N2E5Y2VhODYzNmI0",
+        "sourceId": "7a9cea8636b4",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-09T21:13:59.522Z",
+        "updatedAt": "2026-11-09T21:14:04.808Z"
+      }
     }
   ],
   "metadata": {
-    "total": 294,
+    "total": 295,
     "layerId": 39,
     "clustered": false,
     "simplified": false

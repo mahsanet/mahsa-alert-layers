@@ -251322,10 +251322,53 @@
         "createdAt": "2026-11-08T18:52:30.829Z",
         "updatedAt": "2026-11-08T18:52:30.829Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.94180618062464,
+          35.48986792206246
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد حضرت زینب",
+        "description": "",
+        "date": "",
+        "city": "شهرجدیدپرند",
+        "province": "استان تهران",
+        "name:en": "Hazrat Zeynab Mosque",
+        "city:en": "Parand New Town",
+        "province:en": "Tehran",
+        "name:ar": "مسجد السيدة زينب",
+        "province:ar": "طهران",
+        "name:he": "מסגד חזרת זיינב",
+        "city:he": "שהר-י ג'דיד פרנד",
+        "province:he": "טהראן",
+        "name:tr": "Hz. Zeynep Camii",
+        "city:tr": "Yeni Şehir Perand",
+        "province:tr": "Tahran",
+        "name:ckb": "مزگەوتی حەزرەتی زەینەب",
+        "city:ckb": "پەرەند",
+        "province:ckb": "تاران",
+        "id": "NDo1ZmZhMmM2YzVjODQ",
+        "publicId": "NDo1ZmZhMmM2YzVjODQ",
+        "sourceId": "5ffa2c6c5c84",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-09T04:03:54.145Z",
+        "updatedAt": "2026-11-09T04:03:54.145Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5797,
+    "total": 5798,
     "layerId": 4,
     "clustered": false,
     "simplified": false

@@ -819148,10 +819148,61 @@
         "createdAt": "2026-11-08T19:18:17.376Z",
         "updatedAt": "2026-11-08T19:18:22.247Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.30086119012307,
+          35.76372120545879
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "lastReport": "",
+        "date": 1794230589,
+        "addressDescription": "",
+        "description": "دوربین تازه نصب شده در بزرگراه آبشناسان غرب به شرق",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Camera",
+        "description:en": "Newly installed camera on Abshinasan Expressway west to east",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "كاميرا",
+        "description:ar": "كاميرا تم تركيبها مؤخرا في طريق أبشناسان السريع من الغرب إلى الشرق",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מצלמה",
+        "description:he": "מצלמה שהותקנה לאחרונה בכביש המהיר אבסנאסאן ממערב למזרח",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Kamera",
+        "description:tr": "Abşenasan Otoyolu batı-doğu yönünde yeni kurulan kamera",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "کامێرا",
+        "description:ckb": "کامێرای تازە دامەزراو لە خێرایێی ئاوشناسان لە ڕۆژاواوە بۆ ڕۆژهەڵات",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjA6MjhiZGY5ZDcyNDQy",
+        "publicId": "MjA6MjhiZGY5ZDcyNDQy",
+        "sourceId": "28bdf9d72442",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-09T21:14:32.162Z",
+        "updatedAt": "2026-11-09T21:14:37.868Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18690,
+    "total": 18691,
     "layerId": 20,
     "clustered": false,
     "simplified": false
