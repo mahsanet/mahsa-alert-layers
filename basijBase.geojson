@@ -106189,10 +106189,110 @@
         "createdAt": "2026-11-08T18:52:01.784Z",
         "updatedAt": "2026-11-08T18:52:01.784Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115833,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.72339493408799,
+          32.65807699635616
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "بسیج سلمان فارسی",
+        "date": 1794197811,
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "name:en": "Basij Base",
+        "description:en": "Salman Farsi Basij",
+        "city:en": "Isfahan",
+        "province:en": "Isfahan",
+        "name:ar": "قاعدة التعبئة (البسيج)",
+        "description:ar": "تعبئة (بسيج) سلمان الفارسي",
+        "city:ar": "أصفهان",
+        "province:ar": "أصفهان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "באסיג' סלמאן פארסי",
+        "city:he": "אספהאן",
+        "province:he": "אספהאן",
+        "name:tr": "Besic Üssü",
+        "description:tr": "Selman-ı Farsi Besici",
+        "city:tr": "İsfahan",
+        "province:tr": "İsfahan",
+        "name:ckb": "بنکەی بسیج",
+        "description:ckb": "بسیجی سەلمانی فارسی",
+        "city:ckb": "ئیسفەهان",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTo2OGMyOTczODgzYmU",
+        "publicId": "MTo2OGMyOTczODgzYmU",
+        "sourceId": "68c2973883be",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-10T02:39:14.222Z",
+        "updatedAt": "2026-11-10T02:39:14.222Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115853,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39240648597479,
+          35.668227224145966
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج درون مسجد",
+        "date": 1794332237,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Basij Base",
+        "description:en": "Basij base inside the mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة البسيج داخل المسجد",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג' בתוך מסגד",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Besic Karargahı",
+        "description:tr": "Cami içindeki Besic karargahı",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "بنکەی بسیج",
+        "description:ckb": "بنکەی بسیج لە ناو مزگەوتدا",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MToyNDY3MzUzMGRlMzg",
+        "publicId": "MToyNDY3MzUzMGRlMzg",
+        "sourceId": "24673530de38",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-10T20:44:47.507Z",
+        "updatedAt": "2026-11-10T20:44:47.507Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2385,
+    "total": 2387,
     "layerId": 1,
     "clustered": false,
     "simplified": false

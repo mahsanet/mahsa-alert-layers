@@ -251365,10 +251365,74 @@
         "createdAt": "2026-11-09T04:03:54.145Z",
         "updatedAt": "2026-11-09T04:03:54.145Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115854,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.39237971665236,
+              35.668059399177096
+            ],
+            [
+              51.39240045660921,
+              35.668369789494264
+            ],
+            [
+              51.392821181459055,
+              35.668355352761765
+            ],
+            [
+              51.392803404353,
+              35.66803533786148
+            ],
+            [
+              51.39237971665236,
+              35.668059399177096
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مسجد",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מסגד",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Cami",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDo0MGFiYThjZjc2NDQ",
+        "publicId": "NDo0MGFiYThjZjc2NDQ",
+        "sourceId": "40aba8cf7644",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-10T20:45:13.745Z",
+        "updatedAt": "2026-11-10T20:45:13.745Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5798,
+    "total": 5799,
     "layerId": 4,
     "clustered": false,
     "simplified": false

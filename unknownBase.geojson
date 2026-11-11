@@ -93308,10 +93308,128 @@
         "createdAt": "2026-11-07T22:56:10.773Z",
         "updatedAt": "2026-11-07T22:56:10.773Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115828,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.3675965611522,
+              37.22422879044794
+            ],
+            [
+              55.36788269923204,
+              37.224320036025944
+            ],
+            [
+              55.36789621294059,
+              37.22427324343511
+            ],
+            [
+              55.3684543928799,
+              37.22429289634114
+            ],
+            [
+              55.36846380782296,
+              37.2243705049773
+            ],
+            [
+              55.36893208718328,
+              37.22434664077598
+            ],
+            [
+              55.36896536670321,
+              37.22401162456683
+            ],
+            [
+              55.36888369690223,
+              37.22400694529
+            ],
+            [
+              55.36888134669198,
+              37.22403455301922
+            ],
+            [
+              55.368812015493575,
+              37.22402893788883
+            ],
+            [
+              55.36841776772826,
+              37.22384082849844
+            ],
+            [
+              55.36815219398778,
+              37.22374537097684
+            ],
+            [
+              55.36813339230741,
+              37.223740691683474
+            ],
+            [
+              55.36806817397655,
+              37.223867968359286
+            ],
+            [
+              55.368002368094466,
+              37.223851590858246
+            ],
+            [
+              55.36797592823032,
+              37.223872179716324
+            ],
+            [
+              55.36795360120962,
+              37.2239128894997
+            ],
+            [
+              55.3675965611522,
+              37.22422879044794
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پادگان سپاه",
+        "unofficial_name:fa": "",
+        "description": "پایگاه سپاه و انبار تجهیزات و خوابگاه سربازان و پادگان اصلی سپاه مینودشت",
+        "date": "",
+        "city": "",
+        "province": "",
+        "name:en": "IRGC Garrison",
+        "description:en": "IRGC base, equipment warehouse, soldiers' dormitory, and the main IRGC garrison of Minoodasht",
+        "city:en": "Minoodasht",
+        "province:en": "Golestan",
+        "name:ar": "ثكنة الحرس الثوري",
+        "description:ar": "قاعدة الحرس الثوري ومستودع المعدات ومهاجع الجنود والثكنة الرئيسية للحرس الثوري في مينودشت",
+        "name:he": "בסיס משמרות המהפכה",
+        "description:he": "בסיס משמרות המהפכה, מחסן ציוד, מגורי חיילים והבסיס הראשי של משמרות המהפכה במינודשת",
+        "name:tr": "Devrim Muhafızları Kışlası",
+        "description:tr": "Minudeşt'teki ana Devrim Muhafızları üssü, ekipman depoları, asker yatakhaneleri ve kışlası",
+        "city:tr": "Minudeşt",
+        "province:tr": "Gülistan",
+        "name:ckb": "بنکەی سوپا",
+        "description:ckb": "بنکەی سوپا و کۆگای کەرەستە و شوێنی خەوتنی سەربازان و بنکەی سەرەکیی سوپای مینودەشت",
+        "city:ckb": "مینودەشت",
+        "province:ckb": "گوڵستان",
+        "id": "MTI6OTNiNTgyNTZmZjA3",
+        "publicId": "MTI6OTNiNTgyNTZmZjA3",
+        "sourceId": "93b58256ff07",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-10T02:27:04.096Z",
+        "updatedAt": "2026-11-10T02:29:05.190Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1128,
+    "total": 1129,
     "layerId": 12,
     "clustered": false,
     "simplified": false

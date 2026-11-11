@@ -10951,10 +10951,60 @@
         "createdAt": "2026-11-06T02:31:53.562Z",
         "updatedAt": "2026-11-06T02:31:53.562Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115832,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.836497496813536,
+          35.12851401250076
+        ]
+      },
+      "properties": {
+        "name:fa": "پدافند هوایی نیروگاه",
+        "unofficial_name:fa": "",
+        "description": "استقرار تجهیزات پدافند هوایی و ضدهوایی در محدوده نیروگاه و زیرساخت‌های منطقه",
+        "date": 1794257622,
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "name:en": "Power Plant Air Defense",
+        "description:en": "Deployment of air defense and anti-aircraft equipment in the vicinity of the power plant and regional infrastructure",
+        "city:en": "Kabudarahang County",
+        "province:en": "Hamadan",
+        "name:ar": "الدفاع الجوي للمحطة",
+        "description:ar": "نشر معدات الدفاع الجوي والمضادات الجوية في نطاق المحطة والبنى التحتية للمنطقة",
+        "city:ar": "مقاطعة كبودراهنغ",
+        "province:ar": "همدان",
+        "name:he": "הגנה אווירית של תחנת הכוח",
+        "description:he": "פריסת ציוד הגנה אווירית ונגד מטוסים בסביבת תחנת הכוח והתשתיות באזור",
+        "city:he": "מחוז כבודראמנג'",
+        "province:he": "המדאן",
+        "name:tr": "Nükleer Santral Hava Savunması",
+        "description:tr": "Santral sınırları ve bölgenin altyapısı içinde hava savunma ve uçaksavar ekipmanlarının konuşlandırılması",
+        "city:tr": "Kabudarahang",
+        "province:tr": "Hemedan",
+        "name:ckb": "پەدافەندی ئاسمانی وێستگەی کارەبا",
+        "description:ckb": "جێگیرکردنی ئامێر و کەرەستەی پەدافەندی ئاسمانی و دژەئاسمانی لە سنووری وێستگەی کارەبا و ژێرخانی ناوچەکەدا",
+        "city:ckb": "کەوودەراهەنگ",
+        "province:ckb": "ھەمەدان",
+        "id": "ODo5ZjcyNmJiYmJkNjY",
+        "publicId": "ODo5ZjcyNmJiYmJkNjY",
+        "sourceId": "9f726bbbbd66",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-10T02:37:48.095Z",
+        "updatedAt": "2026-11-10T02:37:48.095Z"
+      }
     }
   ],
   "metadata": {
-    "total": 139,
+    "total": 140,
     "layerId": 8,
     "clustered": false,
     "simplified": false

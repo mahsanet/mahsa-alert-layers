@@ -6110,10 +6110,67 @@
         "createdAt": "2026-11-08T11:02:37.920Z",
         "updatedAt": "2026-11-08T11:02:37.920Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115840,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.53333333333333,
+          26.2
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش دریایی · حمله · تنگه هرمز",
+        "description": "گزارشی از وقوع یک حادثه در ۱۹ مایل دریایی شمال شرقی لیما، عمان دریافت شده است. ناخدای یک نفتکش گزارش می‌دهد که مورد اصابت یک پرتابه ناشناس قرار گرفته است. خدمه سالم هستند و هیچ اثر زیست‌محیطی گزارش نشده است. ناخدا ارزیابی خسارت را با روشن شدن هوا انجام خواهد داد.",
+        "incidentKind": "حمله",
+        "vesselType": "نفت‌کش",
+        "date": 1794325800,
+        "area": "تنگه هرمز",
+        "incidentKind:en": "Attack",
+        "vesselType:en": "Tanker",
+        "area:en": "Strait of Hormuz",
+        "incidentKind:ar": "هجوم",
+        "vesselType:ar": "ناقلة",
+        "area:ar": "مضيق هرمز",
+        "incidentKind:he": "תקיפה",
+        "vesselType:he": "מכלית",
+        "area:he": "מצר הורמוז",
+        "incidentKind:tr": "Saldırı",
+        "vesselType:tr": "Tanker",
+        "area:tr": "Hürmüz Boğazı",
+        "incidentKind:ckb": "هێرش",
+        "vesselType:ckb": "تانکەر",
+        "area:ckb": "گەرووی هورمز",
+        "name:en": "Maritime Report · Attack · Strait of Hormuz",
+        "description:en": "A report has been received of an incident 19 nautical miles northeast of Lima, Oman. The master of an oil tanker reports being struck by an unknown projectile. The crew is safe and no environmental impact has been reported. The master will conduct a damage assessment at daylight.",
+        "name:ar": "تقرير بحري ، هجوم ، مضيق هرمز",
+        "description:ar": "تم تلقي تقرير عن وقوع حادث على بعد 19 ميلا بحريا شمال شرق ليما، عمان. أفاد قبطان ناقلة نفط بأنها تعرضت لإصابة بقديفة مجهولة. الطاقم بخير ولم يتم الإبلاغ عن أي أثر بيئي. سيجري القبطان تقييم الأضرار بمجرد حلول الضوء.",
+        "name:he": "דיווח ימי · תקיפה · מצר הורמוז",
+        "description:he": "התקבל דיווח על אירוע במרחק 19 מיל ימי מצפון-מזרח ללימה, עומאן. רב-החובל של מכלית נפט מדווח כי הספינה נפגעה מקציע לא מזוהה. אנשי הצוות בריאים ושלמים ולא דווח על נזק סביבתי. רב-החובל יבצע הערכת נזקים עם אור ראשון.",
+        "name:tr": "Deniz Raporu · Saldırı · Hürmüz Boğazı",
+        "description:tr": "Umman'ın Lima kentinin 19 deniz mili kuzeydoğusunda bir olayın meydana geldiğine dair rapor alınmıştır. Bir petrol tankerinin kaptanı, bilinmeyen bir merminin isabet ettiğini bildirmektedir. Mürettebat sağılktadır ve herhangi bir çevresel etki bildirilmemiştir. Kaptan, gün ağardığında hasar tespitini gerçekleştirecektir.",
+        "name:ckb": "ڕاپۆرتی دەریایی · هێرش · تەنگاوی هورمز",
+        "description:ckb": "ڕاپۆرتێک سەبارەت بە ڕوودانی رووداوێک لە ١٩ مایڵی دەریایی باکووری ڕۆژهەڵاتی لیما، عومان وەگیراوە. کاپیتانی نەوتهەڵگرێک ڕادەگەیەنێت کە کەوتووەتە بەر پەلاماری کەرەستەیەکی هەڵدراوی نەناسراو. ستافەکە سەلامەتن و هیچ کاریگەرییەکی ژینگەیی ڕاگەیەندراوە. کاپیتان هەڵسەنگاندنی زیانەکان لە کاتی ڕۆشناوبوونی هەوادا ئەنجام دەدات.",
+        "city:ckb": "تەنگاوی هورمز",
+        "province:ckb": "هۆرمۆزگان",
+        "id": "Mzc6dWttdG8tdWttdG8tMjAx",
+        "publicId": "Mzc6dWttdG8tdWttdG8tMjAx",
+        "sourceId": "ukmto-ukmto-201",
+        "layerId": 37,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-10T16:04:26.591Z",
+        "updatedAt": "2026-11-10T16:04:26.591Z"
+      }
     }
   ],
   "metadata": {
-    "total": 101,
+    "total": 102,
     "layerId": 37,
     "clustered": false,
     "simplified": false
