@@ -148515,10 +148515,166 @@
         "createdAt": "2026-11-07T21:18:19.535Z",
         "updatedAt": "2026-11-07T21:18:19.535Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39874203130603,
+          35.66500394239398
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان پارسا",
+        "description": "بیمارستان پارسا واقع در خیابان آگاهی، منطقه ۱۱ تهران",
+        "date": 1794367106,
+        "city": "",
+        "province": "",
+        "name:en": "Parsa Hospital",
+        "description:en": "Parsa Hospital located on Agahi Street, District 11 of Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مستشفى بارسا",
+        "description:ar": "مستشفى بارسا الواقع في شارع آغاهي، المنطقة 11 في طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בית החולים פארסא",
+        "description:he": "בית החולים פארסא הממוקם ברחוב אגאהי, רובע 11 בטהראן",
+        "name:tr": "Parsa Hastanesi",
+        "description:tr": "Parsa Hastanesi, Tahran'ın 11. bölgesinde Agahi Caddesi üzerinde yer almaktadır.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "نەخۆشخانەی پارسا",
+        "description:ckb": "نەخۆشخانەی پارسا دەكەوێتە شەقامی ئاگایی، ناوچەی ١١ی تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjU6MmMwZWM1OGE4NTQ0",
+        "publicId": "MjU6MmMwZWM1OGE4NTQ0",
+        "sourceId": "2c0ec58a8544",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:19:16.506Z",
+        "updatedAt": "2026-11-11T03:19:16.506Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36148380115628,
+          35.76533959305404
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان آتیه",
+        "description": "بیمارستان و داروخانه آتیه، گل افشان سوم، ایوانک، تهران",
+        "date": 1794366732,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Atiyeh Hospital",
+        "description:en": "Atiyeh Hospital and Pharmacy, Golafshan Sevom, Eyvanak, Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مستشفى آتيه",
+        "description:ar": "مستشفى وصيدلية آتيه، غل أفتشان الثالث، إيوانك، طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בית החולים עאשיר",
+        "description:he": "בית חולים ובית מרקחת עאשיר, גול אפשאן השלישי, איוואנאכ, טהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Atiye Hastanesi",
+        "description:tr": "Atiye Hastanesi ve Eczanesi, Gül-i Afşan Suvum, Eyvank, Tahran",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "نەخۆشخانەی ئاتیە",
+        "description:ckb": "نەخۆشخانە و دەرمانگای ئاتیە، گولئەفشانی سێیەم، ئێوانەک، تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjU6M2Y2ODUyOWViMjUx",
+        "publicId": "MjU6M2Y2ODUyOWViMjUx",
+        "sourceId": "3f68529eb251",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:25:02.665Z",
+        "updatedAt": "2026-11-11T03:25:02.665Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115871,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.38013136787748,
+              35.765437332426146
+            ],
+            [
+              51.38048805878972,
+              35.7660913688171
+            ],
+            [
+              51.38103823769541,
+              35.76557660576165
+            ],
+            [
+              51.38013136787748,
+              35.765437332426146
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان بهمن",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Bahman Hospital",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مستشفى بهمن",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בית החולים בהמן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Bahman Hastanesi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "نەخۆشخانەی بەهمەن",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjU6ZjllNWI5YTQ3OWE0",
+        "publicId": "MjU6ZjllNWI5YTQ3OWE0",
+        "sourceId": "f9e5b9a479a4",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:25:33.180Z",
+        "updatedAt": "2026-11-11T03:25:33.180Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3535,
+    "total": 3538,
     "layerId": 25,
     "clustered": false,
     "simplified": false

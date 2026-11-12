@@ -22135,10 +22135,190 @@
         "createdAt": "2026-11-10T20:52:02.211Z",
         "updatedAt": "2026-11-10T20:52:02.211Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.502217799425125,
+          33.082020969962386
+        ]
+      },
+      "properties": {
+        "name:fa": "محل اختفای نیروهای سپاه",
+        "city": "شهرستان شاهین‌شهر و میمه",
+        "province": "استان اصفهان",
+        "date": 1794332663,
+        "description": "محل پنهان شدن نیروهای سپاهی ناحیه مقاومت امام علی در زمان جنگ در شهرک طالقانی، شاهین شهر و میمه",
+        "sources": "",
+        "name:en": "IRGC forces hiding place",
+        "description:en": "Hiding place of the IRGC forces of the Imam Ali Resistance Base during the war in Taleghani township, Shahin Shahr and Meymeh",
+        "city:en": "Shahin Shahr and Meymeh County",
+        "province:en": "Isfahan",
+        "name:ar": "مخبأ قوات الحرس الثوري",
+        "description:ar": "مكان اختباء قوات الحرس الثوري التابعة لمنطقة مقاومة إمام علي أثناء الحرب في مجمع طالقاني السكني، شاهين شهر وميمه.",
+        "city:ar": "شاهين شهر وميمه",
+        "province:ar": "أصفهان",
+        "name:he": "מקום המחבוא של כוחות משמרות המהפכה",
+        "description:he": "מקום המחבוא של כוחות משמרות המהפכה (ספאה) מאזור ההתנגדות אימאם עלי בזמן המלחמה בשהרכ-ה טאלקאני, שאהין שאהר ומיימה",
+        "city:he": "נפת שאהין שאהר ומיימה",
+        "province:he": "אספהאן",
+        "name:tr": "Devrim Muhafızları Güçlerinin Saklanma Yeri",
+        "description:tr": "Savaş sırasında Talebani Yerleşkesi'nde, Şahinşehr ve Mime'de İmam Ali Direniş Bölgesi'ne bağlı Devrim Muhafızları güçlerinin saklandığı yer",
+        "city:tr": "Şahinşehr ve Mime",
+        "province:tr": "İsfahan",
+        "name:ckb": "شوێنی خۆشاردنەوەی هێزەکانی سوپا",
+        "description:ckb": "شوێنی خۆشاردنەوەی هێزەکانی سوپای ناوچەی بەرگریی ئیمام عەلی لە کاتی شەڕدا لە شارۆچکەی تاڵقانی، شاهینشار و مێمە",
+        "city:ckb": "شاهینشار و مێمە",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDA6ZmFiZDZhM2U3MjJl",
+        "publicId": "NDA6ZmFiZDZhM2U3MjJl",
+        "sourceId": "fabd6a3e722e",
+        "layerId": 40,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:47:09.154Z",
+        "updatedAt": "2026-11-11T03:47:09.154Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.51249821484089,
+          34.776479310631316
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای حکومتی",
+        "city": "",
+        "province": "",
+        "date": 1794429650,
+        "description": "برگزاری تجمعات شبانه بالای پل بعثت",
+        "sources": "",
+        "name:en": "Gathering of government forces",
+        "description:en": "Holding nighttime gatherings above the Besat bridge",
+        "name:ar": "تجمع القوات الحكومية",
+        "description:ar": "إقامة تجمعات ليلية فوق جسر بعثت",
+        "name:he": "התקהלות כוחות הממשל",
+        "description:he": "קיום התקהלויות לילה מעל גשר בעת'ת",
+        "name:tr": "Hükümet güçlerinin toplanması",
+        "description:tr": "Besat Köprüsü'nün üzerinde gece toplanmaları düzenlenmesi",
+        "name:ckb": "کۆبوونەوەی هێزە حوکومییەکان",
+        "description:ckb": "بەڕێوەچوونی کۆبوونەوەی شەوانە لە سەرووی پردی بەعسەت",
+        "id": "NDA6MWJhYThkMjcxNmU3",
+        "publicId": "NDA6MWJhYThkMjcxNmU3",
+        "sourceId": "1baa8d2716e7",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T22:36:29.948Z",
+        "updatedAt": "2026-11-11T22:36:29.948Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5126668587327,
+          34.79164228133905
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع حامیان حکومت",
+        "city": "همدان",
+        "province": "استان همدان",
+        "date": 1794430339,
+        "description": "برگزاری تجمعات شبانه توسط حامیان حکومت در آرامگاه بوعلی همدان.",
+        "sources": "",
+        "name:en": "Pro-government rally",
+        "description:en": "Holding nighttime rallies by government supporters at the Avicenna Mausoleum in Hamedan.",
+        "city:en": "Hamedan",
+        "province:en": "Hamadan",
+        "name:ar": "تجمع مؤيدي النظام",
+        "description:ar": "تنظيم تجمعات ليلية من قبل مؤيدي النظام في ضريح ابن سينا في همدان.",
+        "city:ar": "همدان",
+        "province:ar": "همدان",
+        "name:he": "עצרת תומכי המשטר",
+        "description:he": "קיום עצרות לילה על ידי תומכי המשטר במאוזוליאום אבו עלי סינא (בו-עלי) בהמדאן.",
+        "city:he": "המדאן",
+        "province:he": "המדאן",
+        "name:tr": "Hükümet yanlılarının mitingi",
+        "description:tr": "Hükümet yanlıları tarafından Hemedan'daki Avicenna Türbesi'nde gece mitingleri düzenlenmesi.",
+        "city:tr": "Hemedan",
+        "province:tr": "Hemedan",
+        "name:ckb": "کۆبوونەوەی لایەنگرانی حوکمەت",
+        "description:ckb": "بڕێوەچوونی کۆبوونەوەی شەوانە لەلایەن لایەنگرانی حوکمەت لە ئارامگەی بۆوعەلی لە همدان.",
+        "city:ckb": "همدان",
+        "province:ckb": "ھەمەدان",
+        "id": "NDA6YjdmYTgxMDI3ODFi",
+        "publicId": "NDA6YjdmYTgxMDI3ODFi",
+        "sourceId": "b7fa8102781b",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T22:58:38.417Z",
+        "updatedAt": "2026-11-11T22:58:38.417Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.52762999385595,
+          29.604443889662562
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمعات نیروهای حکومتی",
+        "city": "",
+        "province": "",
+        "date": 1794432120,
+        "description": "تجمعات شبانه نیروهای حکومتی",
+        "sources": "",
+        "name:en": "Gatherings of government forces",
+        "description:en": "Nighttime gatherings of government forces",
+        "name:ar": "تجمعات القوات الحكومية",
+        "description:ar": "تجمعات ليلية للقوات الحكومية",
+        "name:he": "התקהלויות של כוחות הממשל",
+        "description:he": "התקהלויות ליליות של כוחות הממשל",
+        "name:tr": "Hükümet güçlerinin toplanmaları",
+        "description:tr": "Hükümet güçlerinin gece toplanmaları",
+        "name:ckb": "خۆپیشاندانەکانی هێزەکانی حکوومەت",
+        "description:ckb": "خۆپیشاندانە شەوانەکانی هێزەکانی حکوومەت",
+        "id": "NDA6NTMxNTAzYzVkZThj",
+        "publicId": "NDA6NTMxNTAzYzVkZThj",
+        "sourceId": "531503c5de8c",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T22:59:34.744Z",
+        "updatedAt": "2026-11-11T22:59:34.744Z"
+      }
     }
   ],
   "metadata": {
-    "total": 451,
+    "total": 455,
     "layerId": 40,
     "clustered": false,
     "simplified": false

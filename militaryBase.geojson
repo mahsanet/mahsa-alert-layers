@@ -50128,10 +50128,61 @@
         "createdAt": "2026-10-24T14:58:48.920Z",
         "updatedAt": "2026-10-24T14:58:48.920Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.66005004197359,
+          32.562490810378236
+        ]
+      },
+      "properties": {
+        "name:fa": "سالن تیراندازی سپاهان‌شهر اصفهان",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "سالن ۲۰ خط تمرین تیراندازی ۱۰، ۲۵، ۵۰ و ۱۰۰ متر در منطقه نظام، سپاهان‌شهر اصفهان",
+        "date": 1794330502,
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "name:en": "Sepahan Shahr Isfahan Shooting Range",
+        "description:en": "20-lane shooting practice range for 10, 25, 50, and 100 meters in the military zone, Sepahan Shahr, Isfahan",
+        "city:en": "Isfahan",
+        "province:en": "Isfahan",
+        "name:ar": "صالة الرماية في سيباهان شهر أصفهان",
+        "description:ar": "صالة رماية تحتوي على 20 مساراً للتدريب على مسافات 10 و25 و50 و100 متر في المنطقة العسكرية، سيباهان شهر أصفهان.",
+        "city:ar": "أصفهان",
+        "province:ar": "أصفهان",
+        "name:he": "אולם הירי ספאהאן-שהר אספהאן",
+        "description:he": "אולם אימוני ירי של 20 מסלולים ל-10, 25, 50 ו-100 מטר באזור נזאם, ספאהאן-שהר אספהאן",
+        "city:he": "אספהאן",
+        "province:he": "אספהאן",
+        "name:tr": "İsfahan Sepahanşehir Atıcılık Salonu",
+        "description:tr": "İsfahan'ın Sepahanşehir askeri bölgesinde yer alan 20 hatlı, 10, 25, 50 ve 100 metrelik atıcılık antrenman salonu",
+        "city:tr": "İsfahan",
+        "province:tr": "İsfahan",
+        "name:ckb": "هۆڵی تیرئاوێژیی سەپاهان‌شهری اصفهان",
+        "description:ckb": "هۆڵی ٢٠ هێڵی مەشقکردنی تیرئاوێژیی ١٠، ٢٥، ٥٠ و ١٠٠ مەتری لە ناوچەی سەربازی، سەپاهان‌شهری اصفهان",
+        "city:ckb": "اصفهان",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTE6YWI4NjM5ZTEyMDcx",
+        "publicId": "MTE6YWI4NjM5ZTEyMDcx",
+        "sourceId": "ab8639e12071",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:50:46.043Z",
+        "updatedAt": "2026-11-11T03:50:46.043Z"
+      }
     }
   ],
   "metadata": {
-    "total": 407,
+    "total": 408,
     "layerId": 11,
     "clustered": false,
     "simplified": false

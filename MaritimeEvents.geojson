@@ -6167,10 +6167,67 @@
         "createdAt": "2026-11-10T16:04:26.591Z",
         "updatedAt": "2026-11-10T16:04:26.591Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.416666666666664,
+          26.433333333333334
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش دریایی · فعالیت مشکوک · تنگه هرمز",
+        "description": "گزارشی از وقوع یک حادثه مربوط به یک نفتکش در تنگه هرمز دریافت شده است. وضعیت خدمه، ارزیابی خسارت و تأثیرات محیط‌زیستی در زمان تنظیم این گزارش نامشخص است.",
+        "incidentKind": "فعالیت مشکوک",
+        "vesselType": "نفت‌کش",
+        "date": 1794366300,
+        "area": "تنگه هرمز",
+        "incidentKind:en": "Suspicious activity",
+        "vesselType:en": "Tanker",
+        "area:en": "Strait of Hormuz",
+        "incidentKind:ar": "نشاط مشبوه",
+        "vesselType:ar": "ناقلة",
+        "area:ar": "مضيق هرمز",
+        "incidentKind:he": "פעילות חשודה",
+        "vesselType:he": "מכלית",
+        "area:he": "מצר הורמוז",
+        "incidentKind:tr": "Şüpheli faaliyet",
+        "vesselType:tr": "Tanker",
+        "area:tr": "Hürmüz Boğazı",
+        "incidentKind:ckb": "چالاکی گومانلێکراو",
+        "vesselType:ckb": "تانکەر",
+        "area:ckb": "گەرووی هورمز",
+        "name:en": "Maritime Report · Suspicious Activity · Strait of Hormuz",
+        "description:en": "A report has been received regarding an incident involving an oil tanker in the Strait of Hormuz. The status of the crew, damage assessment, and environmental impacts are unclear at the time of this report.",
+        "name:ar": "تقرير بحري · نشاط مشبوه · مضيق هرمز",
+        "description:ar": "ورَدَ تقرير عن وقوع حادث يتعلق بناقلة نفط في مضيق هرمز. ووضع الطاقم وتقييم الأضرار والتأثيرات البيئية غير معروفة وقت إعداد هذا التقرير.",
+        "name:he": "דיווח ימי · פעילות חשודה · מצר הורמוז",
+        "description:he": "התקבל דיווח על אירוע המעורב בו מכלית נפט במצר הורמוז. מצב הצוות, הערכת הנזק וההשפעות הסביבתיות אינם ידועים בזמן כתיבת דיווח זה.",
+        "name:tr": "Deniz Raporu · Şüpheli Faaliyet · Hürmüz Boğazı",
+        "description:tr": "Hürmüz Boğazı'nda bir petrol tankerini ilgilendiren bir olayın meydana geldiğine dair rapor alınmıştır. Bu raporun düzenlendiği sırada mürettebatın durumu, hasar tespiti ve çevresel etkiler belirsizdir.",
+        "city:tr": "Hürmüz Boğazı",
+        "province:tr": "Hürmüzgan",
+        "name:ckb": "ڕاپۆرتی دەریایی · چالاکیی گوماناوی · تەنگاوی هورمز",
+        "description:ckb": "ڕاپۆرتێک لەبارەی ڕووداوێکی پەیوەندیدار بە نەوتکشێکەوە لە تەنگاوی هورمز وەرگیراوە. دۆخی ستاف، هەڵسەنگاندنی زیانەکان و کاریگەرییە ژینگەیییەکان لە کاتی ئامادەکردنی ئەم ڕاپۆرتەدا نەدیارە.",
+        "id": "Mzc6dWttdG8tdWttdG8tMjAy",
+        "publicId": "Mzc6dWttdG8tdWttdG8tMjAy",
+        "sourceId": "ukmto-ukmto-202",
+        "layerId": 37,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:34:30.907Z",
+        "updatedAt": "2026-11-11T03:34:30.907Z"
+      }
     }
   ],
   "metadata": {
-    "total": 102,
+    "total": 103,
     "layerId": 37,
     "clustered": false,
     "simplified": false

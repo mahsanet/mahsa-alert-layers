@@ -287847,10 +287847,86 @@
         "createdAt": "2026-11-06T00:56:54.772Z",
         "updatedAt": "2026-11-06T00:56:54.772Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115861,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.533774689750345,
+              32.88861343599771
+            ],
+            [
+              51.53355573714717,
+              32.888526158843376
+            ],
+            [
+              51.533541714793245,
+              32.888552109942026
+            ],
+            [
+              51.53336347331185,
+              32.88860135116583
+            ],
+            [
+              51.53324972710374,
+              32.888798315787525
+            ],
+            [
+              51.53357806667404,
+              32.88893816040361
+            ],
+            [
+              51.53371995627472,
+              32.88870771211552
+            ],
+            [
+              51.533774689750345,
+              32.88861343599771
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "خانه بهداشت گلدیس",
+        "description": "",
+        "date": "",
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Goldis Health House",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "مركز غولديس الصحي",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "מרפאת גולדיס",
+        "city:he": "שהין שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Goldis Sağlık Evi",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "خانەی تەندروستیی گۆڵدیس",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "MzE6NWIwMGFlOTQ3MWUw",
+        "publicId": "MzE6NWIwMGFlOTQ3MWUw",
+        "sourceId": "5b00ae9471e0",
+        "layerId": 31,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:16:21.098Z",
+        "updatedAt": "2026-11-11T03:16:21.098Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6863,
+    "total": 6864,
     "layerId": 31,
     "clustered": false,
     "simplified": false

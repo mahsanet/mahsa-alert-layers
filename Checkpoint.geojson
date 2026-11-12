@@ -14361,10 +14361,50 @@
         "createdAt": "2026-11-09T21:13:59.522Z",
         "updatedAt": "2026-11-09T21:14:04.808Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37286927551031,
+          35.781497249825804
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "",
+        "province": "",
+        "date": 1794427574,
+        "description": "مسدود کردن راه توسط دو خودرو همراه با نیروهای مسلح",
+        "sources": "",
+        "name:en": "Checkpost",
+        "description:en": "Blocking the road by two vehicles along with armed forces",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "إغلاق الطريق بواسطة سيارتين برفقة قوات مسلحة",
+        "name:he": "מחסום",
+        "description:he": "חסימת הכביש על ידי שני כלי רכב בליווי כוחות חמושים",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Silahlı personelin bulunduğu iki araçla yolun kapatılması",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "بەندکردنی ڕێگا لەلایەن دوو ئۆتۆمۆبیلەوە لەگەڵ هێزە چەکدارەکان",
+        "id": "Mzk6YTJkNjg5NDA3NzAw",
+        "publicId": "Mzk6YTJkNjg5NDA3NzAw",
+        "sourceId": "a2d689407700",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T22:36:58.262Z",
+        "updatedAt": "2026-11-11T22:36:58.262Z"
+      }
     }
   ],
   "metadata": {
-    "total": 295,
+    "total": 296,
     "layerId": 39,
     "clustered": false,
     "simplified": false

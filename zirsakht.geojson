@@ -94028,10 +94028,199 @@
         "createdAt": "2026-11-07T22:50:25.482Z",
         "updatedAt": "2026-11-07T22:50:25.482Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3132394105196,
+          35.66978209406892
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "مرکز عملیات شبکه (NOC) ایرانسل غرب تهران",
+        "date": 1794276491,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:fa": "مرکز عملیات شبکه ایرانسل (غرب تهران)",
+        "name:en": "MTN Irancell Network Operations Center (West Tehran)",
+        "description:en": "MTN Irancell Network Operations Center (NOC) West Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مركز عمليات شبكة إيرانسل (غرب طهران)",
+        "description:ar": "مركز عمليات الشبكة (NOC) إيرانسل غرب طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מרכז תפעול הרשת של איראנסל (מערב טהראן)",
+        "description:he": "מרכז תפעול הרשת (NOC) של איראנסל במערב טהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "İrancell Şebeke Operasyon Merkezi (Batı Tahran)",
+        "description:tr": "Batı Tahran İrancell Şebeke Operasyon Merkezi (NOC)",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "ناوەندی ئۆپەراسیۆنی تۆڕی ئایرانسیڵ (تارانی ڕۆژاوا)",
+        "description:ckb": "ناوەندی ئۆپەراسیۆنی تۆڕی (NOC) ئایرانسیڵی تارانی ڕۆژاوا",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MzU6ZDQ5OGQ2ZDhjZjFi",
+        "publicId": "MzU6ZDQ5OGQ2ZDhjZjFi",
+        "sourceId": "d498d6d8cf1b",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:26:13.970Z",
+        "updatedAt": "2026-11-11T03:26:13.970Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36024596169591,
+          35.772894033010346
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "مرکز عملیات شبکه (NOC) شرکت نقش اول کیفیت (NAK)",
+        "date": 1794275992,
+        "city": "",
+        "province": "",
+        "name:fa": "مرکز عملیات شبکه NAK",
+        "name:en": "NAK Network Operations Center",
+        "description:en": "Network Operations Center (NOC) of Naqsh-e Avval-e Keyfiyat Company (NAK)",
+        "name:ar": "مركز عمليات شبكة NAK",
+        "description:ar": "مركز عمليات الشبكة (NOC) لشركة نقش أول كيفيت (NAK)",
+        "name:he": "מרכז תפעול רשת NAK",
+        "description:he": "מרכז תפעול רשת (NOC) של חברת נג'ש אוול כפיית (NAK)",
+        "name:tr": "NAK Ağ Operasyon Merkezi",
+        "description:tr": "Nakş-ı Evvel Keyfiyet (NAK) Şirketi Ağ Operasyon Merkezi (NOC)",
+        "name:ckb": "ناوەندی ئۆپەراسیۆنی تۆڕی NAK",
+        "description:ckb": "ناوەندی ئۆپەراسیۆنی تۆڕی (NOC) کۆمپانیای نەقش ئەوەلی کەفییەت (NAK)",
+        "id": "MzU6OTk1MGY3MTM0ZmJm",
+        "publicId": "MzU6OTk1MGY3MTM0ZmJm",
+        "sourceId": "9950f7134fbf",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:26:35.239Z",
+        "updatedAt": "2026-11-11T03:26:35.239Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115875,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.47024944080272,
+              35.75774207221899
+            ],
+            [
+              51.470437071823,
+              35.75849373445028
+            ],
+            [
+              51.47263572250691,
+              35.75818721330705
+            ],
+            [
+              51.47239998096671,
+              35.75741211954232
+            ],
+            [
+              51.47024944080272,
+              35.75774207221899
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "دفتر مرکزی ایرانسل",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MzU6NTQ5MzUzNGQ5NzU0",
+        "publicId": "MzU6NTQ5MzUzNGQ5NzU0",
+        "sourceId": "5493534d9754",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:27:54.497Z",
+        "updatedAt": "2026-11-11T03:27:54.497Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.40588894486427,
+          35.75821880174678
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "مرکز عملیات شبکه (NOC) شرکت نقش اول کیفیت (ناک) وابسته به همراه اول",
+        "date": 1794334332,
+        "city": "",
+        "province": "",
+        "name:fa": "مرکز عملیات شبکه همراه اول (ناک)",
+        "name:en": "Hamrahe Aval Network Operations Center (NOC)",
+        "description:en": "The Network Operations Center (NOC) of Naghshe Aval Keyfiyat Company (Nac) affiliated with Hamrahe Aval",
+        "name:ar": "مركز عمليات شبكة همراه اول (نوك)",
+        "description:ar": "مركز عمليات الشبكة (NOC) لشركة نقش أول كيفيت (نوك) التابعة لشركة همراه اول",
+        "name:he": "מרכז תפעול הרשת של המראָה-אה אוואל (NOC)",
+        "description:he": "מרכז תפעול הרשת (NOC) של חברת נקש-אה אוואל כיפיית (NAK) הילווה להמראָה-אה אוואל",
+        "name:tr": "Hamrah-e Avil Ağ Operasyon Merkezi (NOC)",
+        "description:tr": "Hamrah-e Avil'e bağlı Nakş-e Avval-e Keyfiyat Şirketi'nin Ağ Operasyon Merkezi (NOC).",
+        "name:ckb": "ناوەندی ئۆپەراسیۆنی تۆڕی همراه ئەوەڵ (ناک)",
+        "description:ckb": "ناوەندی ئۆپەراسیۆنی تۆڕی (NOC) کۆمپانیای نەقش ئەوەلی کەفییەت (ناک) کە سەر بە همراه ئەوەڵە",
+        "id": "MzU6ZDA0ZDk5Y2UyZWQy",
+        "publicId": "MzU6ZDA0ZDk5Y2UyZWQy",
+        "sourceId": "d04d99ce2ed2",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:29:59.653Z",
+        "updatedAt": "2026-11-11T03:29:59.653Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2031,
+    "total": 2035,
     "layerId": 35,
     "clustered": false,
     "simplified": false

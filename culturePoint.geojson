@@ -124382,10 +124382,123 @@
         "createdAt": "2026-11-07T21:08:03.464Z",
         "updatedAt": "2026-11-07T21:08:03.464Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.549999341368675,
+          32.85653209223953
+        ]
+      },
+      "properties": {
+        "name:fa": "سازمان اوقاف شاهین‌شهر",
+        "description": "سازمان اوقاف واقع در خیابان مطهری، شاهین‌شهر",
+        "date": 1794356336,
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Endowment Organization of Shahin Shahr",
+        "description:en": "Endowment Organization located on Motahari Street, Shahin Shahr",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "منظمة الأوقاف في شاهين شهر",
+        "description:ar": "منظمة الأوقاف الواقعة في شارع مطهري، شاهين شهر",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "ארגון הווקף של שאהין שהר",
+        "description:he": "ארגון הווקף הממוקם ברחוב מוטהרי, שאהין שהר",
+        "city:he": "שאהין שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Şahinşehir Vakıflar Teşkilatı",
+        "description:tr": "Mütahhari Caddesi üzerinde yer alan Vakıflar Teşkilatı, Şahinşehir",
+        "city:tr": "Şahinşehir",
+        "province:tr": "İsfahan",
+        "name:ckb": "سازمان اوقافی شاهین‌شار",
+        "description:ckb": "سازمان اوقاف کە لە شەقامی موتەهەری، شاهین‌شار هەڵکەوتووە",
+        "city:ckb": "شاهین‌شار",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTc6MGJlOGExYzZhMjVl",
+        "publicId": "MTc6MGJlOGExYzZhMjVl",
+        "sourceId": "0be8a1c6a25e",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:30:39.037Z",
+        "updatedAt": "2026-11-11T03:30:39.037Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115893,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.5615246734061,
+              32.86150918685318
+            ],
+            [
+              51.56169360299606,
+              32.86150352324178
+            ],
+            [
+              51.561728279438825,
+              32.861953890947674
+            ],
+            [
+              51.561558646025816,
+              32.8619657012588
+            ],
+            [
+              51.5615246734061,
+              32.86150918685318
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "شهرداری ناحیه یک شاهین شهر",
+        "description": "",
+        "date": "",
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "District 1 Municipality of Shahin Shahr",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "بلدية المنطقة الأولى في شاهين شهر",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "עיריית אזור 1 שאהין שאהר",
+        "city:he": "שאהין שאהר",
+        "province:he": "אספהאן",
+        "name:tr": "Şahinşehr 1 Numaralı Belediye Bölgesi",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "شارەوانیی ناوچەی یەکی شاهینشار",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTc6MDBlMTllMmYzMDE5",
+        "publicId": "MTc6MDBlMTllMmYzMDE5",
+        "sourceId": "00e19e2f3019",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:40:01.035Z",
+        "updatedAt": "2026-11-11T03:40:01.035Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2448,
+    "total": 2450,
     "layerId": 17,
     "clustered": false,
     "simplified": false

@@ -65838,10 +65838,123 @@
         "createdAt": "2026-10-31T01:59:24.805Z",
         "updatedAt": "2026-10-31T01:59:24.805Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115891,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.56194407757988,
+              32.86138685723404
+            ],
+            [
+              51.56217481701921,
+              32.86137739809389
+            ],
+            [
+              51.562142396418835,
+              32.860924054824935
+            ],
+            [
+              51.561966691922834,
+              32.860932431361945
+            ],
+            [
+              51.561982790744366,
+              32.86115439540417
+            ],
+            [
+              51.56192730819305,
+              32.8611576816331
+            ],
+            [
+              51.56194407757988,
+              32.86138685723404
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "شورای حل اختلاف شاهین شهر",
+        "description": "",
+        "date": "",
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "city:he": "שהין שהר",
+        "province:he": "אספהאן",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "MzQ6OTA0MzhjNzM1NWM4",
+        "publicId": "MzQ6OTA0MzhjNzM1NWM4",
+        "sourceId": "90438c7355c8",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:38:43.052Z",
+        "updatedAt": "2026-11-11T03:38:43.052Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.56199049204588,
+          32.86158968545753
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "دادسرای انقلاب شاهین شهر",
+        "date": 1794338414,
+        "city": "",
+        "province": "",
+        "name:fa": "دادسرای انقلاب شاهین‌شهر",
+        "name:en": "Shahin Shahr Revolutionary Prosecutor's Office",
+        "description:en": "Shahin Shahr Revolutionary Prosecutor's Office",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "محكمة الثورة في شاهين شهر",
+        "description:ar": "محكمة الثورة في شاهين شهر",
+        "name:he": "תובענות המהפכה בשאהין שהר",
+        "description:he": "תובענות המהפכה בשאהין שהר",
+        "name:tr": "Şahinşehr İnkılap Savcılığı",
+        "description:tr": "Şahinşehr İnkılap Savcılığı",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "دادگای شۆڕشی شاهینشار",
+        "description:ckb": "دادگای شۆڕشی شاهینشار",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئیسفەهان",
+        "id": "MzQ6ZDA4OWNmZDI1Mjgy",
+        "publicId": "MzQ6ZDA4OWNmZDI1Mjgy",
+        "sourceId": "d089cfd25282",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:39:12.371Z",
+        "updatedAt": "2026-11-11T03:39:12.371Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1416,
+    "total": 1418,
     "layerId": 34,
     "clustered": false,
     "simplified": false

@@ -230055,10 +230055,98 @@
         "createdAt": "2026-10-24T02:06:16.148Z",
         "updatedAt": "2026-10-24T02:06:16.148Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.360514018332395,
+          35.773933851272346
+        ]
+      },
+      "properties": {
+        "name:fa": "کلینیک",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Clinic",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "عيادة",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מרפאה",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Klinik",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "نەخۆشخانەی بچووک",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjY6NzUxMmRiMWI2NzQ0",
+        "publicId": "MjY6NzUxMmRiMWI2NzQ0",
+        "sourceId": "7512db1b6744",
+        "layerId": 26,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:27:18.410Z",
+        "updatedAt": "2026-11-11T03:27:18.410Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.275634337216616,
+          35.74993224251641
+        ]
+      },
+      "properties": {
+        "name:fa": "زایشگاه مدا",
+        "description": "",
+        "date": 1794366902,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Moda Maternity Hospital",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مستشفى مدا للولادة",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בית חולים ליולדות מדא",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Mada Doğumevi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "نەخۆشخانەی منداڵبوونی مەدا",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjY6YmQ0OGQ3MTdlODA4",
+        "publicId": "MjY6YmQ0OGQ3MTdlODA4",
+        "sourceId": "bd48d717e808",
+        "layerId": 26,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:29:32.034Z",
+        "updatedAt": "2026-11-11T03:29:32.034Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5485,
+    "total": 5487,
     "layerId": 26,
     "clustered": false,
     "simplified": false
