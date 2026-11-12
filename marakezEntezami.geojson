@@ -266123,10 +266123,59 @@
         "createdAt": "2026-11-09T01:11:33.959Z",
         "updatedAt": "2026-11-09T01:11:33.959Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115959,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.46891213953495,
+          33.099818546731726
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه انتظامی",
+        "description": "پاسگاه انتظامی در جاده قدیم اصفهان - نطنز، دهستان مورچه خورت",
+        "date": 1794413734,
+        "city": "شهرستان شاهین‌شهر و میمه",
+        "province": "استان اصفهان",
+        "name:en": "Law Enforcement Outpost",
+        "description:en": "Law Enforcement outpost on the old Isfahan - Natanz road, Murcheh Khvort rural district",
+        "city:en": "Shahin Shahr and Meymeh County",
+        "province:en": "Isfahan",
+        "name:ar": "مركز شرطة",
+        "description:ar": "مركز شرطة على الطريق القديم بين أصفهان ونطنز، قرية مورتشه خورت",
+        "city:ar": "مقاطعة شاهين شهر وميمه",
+        "province:ar": "أصفهان",
+        "name:he": "תחנת משטרה",
+        "description:he": "תחנת משטרה בכביש הישן אספהאן - נתנז, מועצה אזורית מורצ'ה ח'ורת",
+        "city:he": "מחוז שאהין-שהר ומאימה",
+        "province:he": "אספהאן",
+        "name:tr": "Karakol",
+        "description:tr": "İsfahan - Natanz eski yolu üzerinde karakol, Mūrçe Hort kırsal bölgesi",
+        "city:tr": "Şahinşehr ve Mime",
+        "province:tr": "İsfahan",
+        "name:ckb": "بنکەی پۆلیس",
+        "description:ckb": "بنکەی پۆلیس لە ڕێگەی کۆنی اصفهان - نطنز، دێستانی مۆرچەخۆرت",
+        "city:ckb": "شاهینشار و مێمە",
+        "province:ckb": "ئەسفەھان",
+        "id": "MzpjYzAzNTBjZGMzODU",
+        "publicId": "MzpjYzAzNTBjZGMzODU",
+        "sourceId": "cc0350cdc385",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:50:36.306Z",
+        "updatedAt": "2026-11-12T03:50:36.306Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6112,
+    "total": 6113,
     "layerId": 3,
     "clustered": false,
     "simplified": false

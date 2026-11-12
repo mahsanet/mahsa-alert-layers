@@ -287923,10 +287923,123 @@
         "createdAt": "2026-11-11T03:16:21.098Z",
         "updatedAt": "2026-11-11T03:16:21.098Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39553025364876,
+          35.691638041198644
+        ]
+      },
+      "properties": {
+        "name:fa": "انستیتو پاستور تهران",
+        "description": "انستیتو پاستور",
+        "date": 1794413272,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Tehran Pasteur Institute",
+        "description:en": "Pasteur Institute",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ckb": "پەیمانگای پاستوری تاران",
+        "description:ckb": "پەیمانگای پاستور",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "name:he": "מכון פסטר טהראן",
+        "description:he": "מכון פסטר",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Tahran Pasteur Enstitüsü",
+        "description:tr": "Pasteur Enstitüsü",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ar": "معهد باستور في طهران",
+        "description:ar": "معهد باستور",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "id": "MzE6NjU0NzIwOTM4MmFl",
+        "publicId": "MzE6NjU0NzIwOTM4MmFl",
+        "sourceId": "6547209382ae",
+        "layerId": 31,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:35:57.337Z",
+        "updatedAt": "2026-11-12T03:36:02.214Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115939,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.5911774416991,
+              32.82377982572214
+            ],
+            [
+              51.59118536268812,
+              32.8239562837815
+            ],
+            [
+              51.59182556519693,
+              32.823955662451056
+            ],
+            [
+              51.59181743328719,
+              32.823453000935984
+            ],
+            [
+              51.5911774416991,
+              32.82377982572214
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز بهداشت و سلامت",
+        "description": "",
+        "date": "",
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Health and Wellness Center",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "مركز الصحة والسلامة",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "מרכז בריאות ורפואה",
+        "city:he": "שאהין שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Sağlık ve Sıhhat Merkezi",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "ناوەندی تەندروستی و سڵامەتی",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "MzE6MzIyNGIyMmFmNjNk",
+        "publicId": "MzE6MzIyNGIyMmFmNjNk",
+        "sourceId": "3224b22af63d",
+        "layerId": 31,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:37:24.888Z",
+        "updatedAt": "2026-11-12T03:37:24.888Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6864,
+    "total": 6866,
     "layerId": 31,
     "clustered": false,
     "simplified": false

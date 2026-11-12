@@ -230143,10 +230143,103 @@
         "createdAt": "2026-11-11T03:29:32.034Z",
         "updatedAt": "2026-11-11T03:29:32.034Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115926,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36495441198349,
+          35.67379966580407
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز پزشکی سلیمانی - تیموری",
+        "description": "مرکز پزشکی در محدوده ابراهیم حسینی، سلیمانی - تیموری، منطقه ۱۰ تهران",
+        "date": 1794372276,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Soleimani-Teymouri Medical Center",
+        "description:en": "Medical center located in the Ebrahim Hosseini, Soleimani-Teymouri area, District 10 of Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "المركز الطبي سليماني - تيموري",
+        "description:ar": "مركز طبي في منطقة إبراهيم حسيني، سليماني - تيموري، المنطقة 10 في طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "המרכז הרפואי סולימאני - תימורי",
+        "description:he": "מרכז רפואי באזור אבראהים חוסייני, סולימאני - תימורי, אזור 10 בטהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Süleymani - Teymuri Tıp Merkezi",
+        "description:tr": "Tahran 10. bölge, İbrahim Hüseyni, Süleymani - Teymuri sınırları içinde tıp merkezi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "ناوەندی پزیشکی سولەیمانی - تەیمووری",
+        "description:ckb": "ناوەندی پزیشکی لە ناوچەی ئێبراهیم حوسەینی، سولەیمانی - تەیمووری، ناوچەی ١٠ی تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjY6YWY1ZDI4MzAzZTlj",
+        "publicId": "MjY6YWY1ZDI4MzAzZTlj",
+        "sourceId": "af5d28303e9c",
+        "layerId": 26,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:29:36.870Z",
+        "updatedAt": "2026-11-12T03:29:36.870Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115953,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.404747769490314,
+          35.71879087828803
+        ]
+      },
+      "properties": {
+        "name:fa": "درمانگاه خیریه نور",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Noor Charity Clinic",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "عيادة النور الخيرية",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מרפאת הצדקה נור",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Nur Hayır Hastanesi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "بنکەی دەرمانی خێرخوازیی نوور",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjY6MmM5ZjMzYjZlODkw",
+        "publicId": "MjY6MmM5ZjMzYjZlODkw",
+        "sourceId": "2c9f33b6e890",
+        "layerId": 26,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:47:13.994Z",
+        "updatedAt": "2026-11-12T03:47:13.994Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5487,
+    "total": 5489,
     "layerId": 26,
     "clustered": false,
     "simplified": false

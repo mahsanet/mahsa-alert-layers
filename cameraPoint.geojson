@@ -819199,10 +819199,179 @@
         "createdAt": "2026-11-09T21:14:32.162Z",
         "updatedAt": "2026-11-09T21:14:37.868Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39172636941527,
+          35.67299644011183
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "",
+        "city": "",
+        "province": "",
+        "name:en": "Surveillance Camera",
+        "name:ar": "كاميرا مراقبة",
+        "name:he": "מצלמת מעקב",
+        "name:tr": "Gözetim Kamerası",
+        "name:ckb": "کامێرا چاودێری",
+        "id": "MjA6YTE4OWU1NDc5OGYw",
+        "publicId": "MjA6YTE4OWU1NDc5OGYw",
+        "sourceId": "a189e54798f0",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-11T03:24:28.104Z",
+        "updatedAt": "2026-11-11T03:24:32.103Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.133804991841316,
+          35.644317882987565
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1794419626,
+        "addressDescription": "",
+        "description": "شناسایی دوربین نظارتی",
+        "city": "",
+        "province": "",
+        "name:en": "Surveillance Camera",
+        "description:en": "Identification of surveillance camera",
+        "name:ar": "كاميرا مراقبة",
+        "description:ar": "تحديد موقع كاميرا مراقبة",
+        "name:he": "מצלמת מעקב",
+        "description:he": "זיהוי מצלמת מעקב",
+        "name:tr": "Gözetim Kamerası",
+        "description:tr": "Gözetim kamerası tespiti",
+        "name:ckb": "کامێرا چاودێری",
+        "description:ckb": "دیاریکردنی کامێرای چاودێری",
+        "id": "MjA6ODUzNWVmMmFlMjYy",
+        "publicId": "MjA6ODUzNWVmMmFlMjYy",
+        "sourceId": "8535ef2ae262",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:42:11.441Z",
+        "updatedAt": "2026-11-12T03:42:11.441Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4053900539875,
+          35.70126029761019
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1794415107,
+        "addressDescription": "",
+        "description": "دوربین نظارتی در زیرگذر چهارراه ولیعصر تهران",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Surveillance Camera",
+        "description:en": "Surveillance camera in the Valiasr Crossroads underpass, Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "كاميرا مراقبة",
+        "description:ar": "كاميرا مراقبة في الممر السفلي لتقاطع وليعصر في طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מצלמת מעקב",
+        "description:he": "מצלמת מעקב במעבר התחתון של צומת ולי-עסר בטהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Gözetim Kamerası",
+        "description:tr": "Tahran Valiasr Kavşağı alt geçidindeki gözetim kamerası",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "کامێرای چاودێری",
+        "description:ckb": "کامێرای چاودێری لە ژێرزەمینی چوارڕێی ولیعەسری تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjA6ODhjYzg2NTJhNTNk",
+        "publicId": "MjA6ODhjYzg2NTJhNTNk",
+        "sourceId": "88cc8652a53d",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:43:35.053Z",
+        "updatedAt": "2026-11-12T03:43:35.053Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.40535619109869,
+          35.70023220733124
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1794415031,
+        "addressDescription": "",
+        "description": "دوربین نظارتی",
+        "city": "",
+        "province": "",
+        "name:ar": "كاميرا مراقبة",
+        "description:ar": "كاميرا مراقبة",
+        "name:he": "מצלמת אבטחה",
+        "description:he": "מצלמת אבטחה",
+        "name:tr": "Gözetim Kamerası",
+        "description:tr": "Gözetim kamerası",
+        "name:ckb": "کامێرا چاودێری",
+        "description:ckb": "کامێرا چاودێری",
+        "name:en": "Surveillance Camera",
+        "description:en": "Surveillance camera",
+        "id": "MjA6NWUyMTI0OTc0YTgy",
+        "publicId": "MjA6NWUyMTI0OTc0YTgy",
+        "sourceId": "5e2124974a82",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:43:46.537Z",
+        "updatedAt": "2026-11-12T03:43:46.537Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18691,
+    "total": 18695,
     "layerId": 20,
     "clustered": false,
     "simplified": false

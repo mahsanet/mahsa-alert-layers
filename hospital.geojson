@@ -13677,48 +13677,6 @@
     },
     {
       "type": "Feature",
-      "id": 43775,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.4065367,
-          35.7188684
-        ]
-      },
-      "properties": {
-        "id": "MjU6MjIxODI",
-        "city": "تهران",
-        "name:fa": "بیمارستان البرز",
-        "province": "استان تهران",
-        "name:en": "Alborz Hospital",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "name:ar": "مستشفى البرز",
-        "city:ar": "طهران",
-        "province:ar": "طهران",
-        "name:he": "בית החולים אלבורז",
-        "city:he": "טהראן",
-        "province:he": "טהראן",
-        "name:tr": "Alborz Hastanesi",
-        "city:tr": "Tahran",
-        "province:tr": "Tahran",
-        "name:ckb": "نەخۆشخانەی ئەلبورز",
-        "city:ckb": "تاران",
-        "province:ckb": "تاران",
-        "publicId": "MjU6MjIxODI",
-        "sourceId": "22182",
-        "layerId": 25,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:57:46.596Z",
-        "updatedAt": "2026-03-11T20:57:46.596Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 43776,
       "geometry": {
         "type": "Point",
@@ -76964,48 +76922,6 @@
         "expirationDate": null,
         "createdAt": "2026-03-11T20:57:47.217Z",
         "updatedAt": "2026-03-11T20:57:47.217Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 45290,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3932745,
-          35.6735438
-        ]
-      },
-      "properties": {
-        "id": "MjU6MjMzNDA",
-        "city": "تهران",
-        "name:fa": "بیمارستان فارابی",
-        "province": "استان تهران",
-        "name:en": "Farabi Hospital",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "name:ar": "مستشفى الفارابي",
-        "city:ar": "طهران",
-        "province:ar": "طهران",
-        "name:he": "בית החולים פאראבי",
-        "city:he": "טהראן",
-        "province:he": "טהראן",
-        "name:tr": "Farabi Hastanesi",
-        "city:tr": "Tahran",
-        "province:tr": "Tahran",
-        "name:ckb": "نەخۆشخانەی فارابی",
-        "city:ckb": "تاران",
-        "province:ckb": "تاران",
-        "publicId": "MjU6MjMzNDA",
-        "sourceId": "23340",
-        "layerId": 25,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:57:47.218Z",
-        "updatedAt": "2026-03-11T20:57:47.218Z"
       }
     },
     {
@@ -148671,10 +148587,533 @@
         "createdAt": "2026-11-11T03:25:33.180Z",
         "updatedAt": "2026-11-11T03:25:33.180Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115930,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.393278416451636,
+              35.66074544507411
+            ],
+            [
+              51.39302918067739,
+              35.66125569757625
+            ],
+            [
+              51.39411693060447,
+              35.66146136766294
+            ],
+            [
+              51.39425990306398,
+              35.66088988611324
+            ],
+            [
+              51.393278416451636,
+              35.66074544507411
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان بهارلو",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Baharlou Hospital",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مستشفى بهارلو",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בית החולים בהארלו",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Baharlu Hastanesi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "نەخۆشخانەی بەهارلوو",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjU6ODI4ZmQxOGIyMWVj",
+        "publicId": "MjU6ODI4ZmQxOGIyMWVj",
+        "sourceId": "828fd18b21ec",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:30:46.271Z",
+        "updatedAt": "2026-11-12T03:30:46.271Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115933,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.3925241733767,
+              35.67008650681515
+            ],
+            [
+              51.392558651751756,
+              35.67003981644042
+            ],
+            [
+              51.39262377757245,
+              35.670021140282714
+            ],
+            [
+              51.39271955083737,
+              35.670021140282714
+            ],
+            [
+              51.39427873959329,
+              35.67013008447344
+            ],
+            [
+              51.3944358077494,
+              35.670239028515454
+            ],
+            [
+              51.39442431495678,
+              35.67034797240879
+            ],
+            [
+              51.39431321796977,
+              35.6703168455973
+            ],
+            [
+              51.39404888375756,
+              35.67169886433456
+            ],
+            [
+              51.39394544863086,
+              35.67194164893901
+            ],
+            [
+              51.39386499908812,
+              35.67201323913038
+            ],
+            [
+              51.39378071861438,
+              35.6720381400511
+            ],
+            [
+              51.393378470901865,
+              35.672016351746024
+            ],
+            [
+              51.39318980834105,
+              35.67197844181037
+            ],
+            [
+              51.39263042355958,
+              35.671634198596166
+            ],
+            [
+              51.39249472374769,
+              35.67161582258214
+            ],
+            [
+              51.39265153241965,
+              35.67132180578125
+            ],
+            [
+              51.39243893604643,
+              35.67124707633883
+            ],
+            [
+              51.39243893604643,
+              35.671171121751144
+            ],
+            [
+              51.392562573653095,
+              35.67094080740044
+            ],
+            [
+              51.39273144453034,
+              35.67097755973509
+            ],
+            [
+              51.3927848429463,
+              35.67084398203991
+            ],
+            [
+              51.39245614784545,
+              35.6705377115549
+            ],
+            [
+              51.3925241733767,
+              35.67008650681515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان فارابی",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Farabi Hospital",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مستشفى فارابي",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בית החולים פאראבי",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Farabi Hastanesi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "نەخۆشخانەی فارابی",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjU6YjkwN2FhMjY5MWUx",
+        "publicId": "MjU6YjkwN2FhMjY5MWUx",
+        "sourceId": "b907aa2691e1",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:32:20.204Z",
+        "updatedAt": "2026-11-12T03:33:47.279Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115934,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.39252504162957,
+              35.67182199482127
+            ],
+            [
+              51.39253485817832,
+              35.67170501450673
+            ],
+            [
+              51.392615026653914,
+              35.67166380549179
+            ],
+            [
+              51.39271646431726,
+              35.67170634382974
+            ],
+            [
+              51.39316475334624,
+              35.671985501109276
+            ],
+            [
+              51.39336272039856,
+              35.67202006337155
+            ],
+            [
+              51.3936457700498,
+              35.67203867381782
+            ],
+            [
+              51.39393863039959,
+              35.67214900706696
+            ],
+            [
+              51.39392226946248,
+              35.672812348488975
+            ],
+            [
+              51.39357214589165,
+              35.67317789372326
+            ],
+            [
+              51.39342653376127,
+              35.6733281042784
+            ],
+            [
+              51.39308622676154,
+              35.67326695665277
+            ],
+            [
+              51.392914437170134,
+              35.673237712119644
+            ],
+            [
+              51.3927393753971,
+              35.673261639466034
+            ],
+            [
+              51.39265102646419,
+              35.673211126171196
+            ],
+            [
+              51.3925741301704,
+              35.67308484279536
+            ],
+            [
+              51.39246942032412,
+              35.67279505492442
+            ],
+            [
+              51.392431790204455,
+              35.67256241808407
+            ],
+            [
+              51.392489053402045,
+              35.672370997438136
+            ],
+            [
+              51.392526683503206,
+              35.672078548342355
+            ],
+            [
+              51.39251686692697,
+              35.67191104949339
+            ],
+            [
+              51.39252504162957,
+              35.67182199482127
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان فارابی",
+        "description": "",
+        "date": "",
+        "city": "",
+        "province": "",
+        "name:en": "Farabi Hospital",
+        "name:ar": "مستشفى فارابي",
+        "name:he": "בית החולים פאראבי",
+        "name:tr": "Farabi Hastanesi",
+        "name:ckb": "نەخۆشخانەی فارابی",
+        "id": "MjU6NTcyOGFkOTUwNjI3",
+        "publicId": "MjU6NTcyOGFkOTUwNjI3",
+        "sourceId": "5728ad950627",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:33:13.814Z",
+        "updatedAt": "2026-11-12T03:33:13.814Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115935,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.39405121469713,
+              35.67293465562038
+            ],
+            [
+              51.39471537013321,
+              35.67296356368885
+            ],
+            [
+              51.3947479849092,
+              35.67262750674803
+            ],
+            [
+              51.394002292534196,
+              35.672615461670134
+            ],
+            [
+              51.39405121469713,
+              35.67293465562038
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان چشم پزرشکی فارابی",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Farabi Eye Hospital",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مستشفى فارابي لطب العيون",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בית החולים לרפואת עיניים פאראבי",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Farabi Göz Hastanesi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "نەخۆشخانەی چاوپزیشکیی فارابی",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjU6YTA3ZjgyMjg3YmUy",
+        "publicId": "MjU6YTA3ZjgyMjg3YmUy",
+        "sourceId": "a07f82287be2",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:34:17.024Z",
+        "updatedAt": "2026-11-12T03:34:17.024Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115952,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.40465516364188,
+          35.71888102496702
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjU6ZGNlNThmMmQyNGJh",
+        "publicId": "MjU6ZGNlNThmMmQyNGJh",
+        "sourceId": "dce58f2d24ba",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:46:52.680Z",
+        "updatedAt": "2026-11-12T03:46:52.680Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.408902406692505,
+          35.73041839674589
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان محب کوثر",
+        "description": "بیمارستان و داروخانه در منطقه یوسف‌آباد تهران",
+        "date": 1794375744,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Moheb Kowsar Hospital",
+        "description:en": "Hospital and pharmacy in the Yousef Abad district of Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مستشفى محب كوثر",
+        "description:ar": "مستشفى وصيدلية في منطقة يوسف آباد في طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בית החולים מוחב כות'אר",
+        "description:he": "בית חולים ובית מרקחת באזור יוסף אבאד בטהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Muhip Kevser Hastanesi",
+        "description:tr": "Tahran'ın Yusufabad bölgesinde hastane ve eczane",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "نەخۆشخانەی محب کەوسەر",
+        "description:ckb": "نەخۆشخانە و دەرمانخانە لە ناوچەی یوسف ئابادی تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjU6NWUzN2MwZmIyOTRl",
+        "publicId": "MjU6NWUzN2MwZmIyOTRl",
+        "sourceId": "5e37c0fb294e",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:48:37.642Z",
+        "updatedAt": "2026-11-12T03:48:37.642Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115956,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.446066591888666,
+          35.75874335730106
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان اطفال مفید",
+        "description": "بیمارستان در محدوده شریعتی، حسینیه ارشاد - قبا",
+        "date": 1794374117,
+        "city": "",
+        "province": "",
+        "name:en": "Mofid Children's Hospital",
+        "description:en": "Hospital in the vicinity of Shariati, Hosseinieh Ershad - Ghabba",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مستشفى المفيد للأطفال",
+        "description:ar": "مستشفى في منطقة شريعتي، حسينية إرشاد - قبا",
+        "name:he": "בית החולים לילדים מופיר",
+        "description:he": "בית חולים באזור שריעתי, חוסיינייה ארשאד - קבא",
+        "name:tr": "Müfid Çocuk Hastanesi",
+        "description:tr": "Hastane Şeriati, Hüseyniye İrşad - Keba bölgesindedir.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "نەخۆشخانەی منداڵانی موفید",
+        "description:ckb": "نەخۆشخانە لە سنووری شەریعەتی، حوسەینیەی ئێشاد - قەبا",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjU6YWQwZjljMmY3NjZl",
+        "publicId": "MjU6YWQwZjljMmY3NjZl",
+        "sourceId": "ad0f9c2f766e",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:49:04.313Z",
+        "updatedAt": "2026-11-12T03:49:04.313Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3538,
+    "total": 3543,
     "layerId": 25,
     "clustered": false,
     "simplified": false

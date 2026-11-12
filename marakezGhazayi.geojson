@@ -65951,10 +65951,55 @@
         "createdAt": "2026-11-11T03:39:12.371Z",
         "updatedAt": "2026-11-11T03:39:12.371Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.47731767967343,
+          35.77125562106963
+        ]
+      },
+      "properties": {
+        "name": "",
+        "description": "",
+        "date": 1794373185,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:fa": "دادگاه تجدید نظر استان تهران",
+        "name:en": "Tehran Province Court of Appeal",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "محكمة الاستئناف في محافظة طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בית המשפט לערעורים של מחוז טהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Tahran Eyaleti Temyiz Mahkemesi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "دادگای پێداچوونەوەی پارێزگای تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MzQ6YjRhOTAwODE4Nzhk",
+        "publicId": "MzQ6YjRhOTAwODE4Nzhk",
+        "sourceId": "b4a90081878d",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:39:57.182Z",
+        "updatedAt": "2026-11-12T03:39:57.182Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1418,
+    "total": 1419,
     "layerId": 34,
     "clustered": false,
     "simplified": false

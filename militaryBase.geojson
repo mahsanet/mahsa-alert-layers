@@ -50179,10 +50179,104 @@
         "createdAt": "2026-11-11T03:50:46.043Z",
         "updatedAt": "2026-11-11T03:50:46.043Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115918,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.60427222089825,
+              37.26816133289459
+            ],
+            [
+              49.60422744729854,
+              37.268022233998536
+            ],
+            [
+              49.6042520005625,
+              37.268017635683364
+            ],
+            [
+              49.604205782653054,
+              37.267868765083264
+            ],
+            [
+              49.60419495033031,
+              37.26783772638771
+            ],
+            [
+              49.60363672464388,
+              37.2679072760383
+            ],
+            [
+              49.603589784580066,
+              37.26819409582063
+            ],
+            [
+              49.60357967441166,
+              37.26820616636856
+            ],
+            [
+              49.603607116296246,
+              37.26831077770336
+            ],
+            [
+              49.60412923424053,
+              37.268223984792925
+            ],
+            [
+              49.604118401917816,
+              37.26819352103267
+            ],
+            [
+              49.60427222089825,
+              37.26816133289459
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "گردان امام علی",
+        "unofficial_name:fa": "",
+        "operator": "",
+        "description": "",
+        "date": "",
+        "city": "رشت",
+        "province": "استان گیلان",
+        "name:en": "Imam Ali Battalion",
+        "city:en": "Rasht",
+        "province:en": "Gilan",
+        "name:ar": "كتيبة الإمام علي",
+        "city:ar": "رشت",
+        "province:ar": "جيلان",
+        "name:he": "גדוד אימאם עלי",
+        "city:he": "רשת",
+        "province:he": "גילאן",
+        "name:tr": "İmam Ali Taburu",
+        "city:tr": "Reşt",
+        "province:tr": "Gilan",
+        "name:ckb": "گۆڕانی ئیمام عەلی",
+        "city:ckb": "رەشت",
+        "province:ckb": "گیلان",
+        "id": "MTE6NjQwMGRhZGMxZjc0",
+        "publicId": "MTE6NjQwMGRhZGMxZjc0",
+        "sourceId": "6400dadc1f74",
+        "layerId": 11,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:21:20.778Z",
+        "updatedAt": "2026-11-12T03:21:20.778Z"
+      }
     }
   ],
   "metadata": {
-    "total": 408,
+    "total": 409,
     "layerId": 11,
     "clustered": false,
     "simplified": false

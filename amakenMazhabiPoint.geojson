@@ -252739,10 +252739,1099 @@
         "createdAt": "2026-11-11T03:52:44.478Z",
         "updatedAt": "2026-11-11T03:52:44.478Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115924,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.529037367206456,
+              29.608212096479903
+            ],
+            [
+              52.52900709714001,
+              29.60826742566242
+            ],
+            [
+              52.5290052438709,
+              29.608296970358424
+            ],
+            [
+              52.5290416915017,
+              29.608303416472666
+            ],
+            [
+              52.52903798496345,
+              29.608321680461785
+            ],
+            [
+              52.529064548491675,
+              29.608336721391282
+            ],
+            [
+              52.52910902695959,
+              29.608345316206538
+            ],
+            [
+              52.52919180632733,
+              29.60839688508601
+            ],
+            [
+              52.529214045560394,
+              29.608379695462702
+            ],
+            [
+              52.52923628479343,
+              29.608249698839856
+            ],
+            [
+              52.529037367206456,
+              29.608212096479903
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "شیراز",
+        "province": "استان فارس",
+        "name:en": "Mosque",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "name:ar": "مسجد",
+        "city:ar": "شيراز",
+        "province:ar": "فارس",
+        "name:he": "מסגד",
+        "city:he": "שיראז",
+        "province:he": "פארס",
+        "name:tr": "Cami",
+        "city:tr": "Şiraz",
+        "province:tr": "Fars",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "شیراز",
+        "province:ckb": "فارس",
+        "id": "NDoyYTE0YTFhYWJlZTg",
+        "publicId": "NDoyYTE0YTFhYWJlZTg",
+        "sourceId": "2a14a1aabee8",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:28:35.169Z",
+        "updatedAt": "2026-11-12T03:28:35.169Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35964849963784,
+          35.664222446869275
+        ]
+      },
+      "properties": {
+        "name:fa": "امامزاده",
+        "description": "",
+        "date": 1794413522,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Imamzadeh",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "إمام زادة",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "אימאמזאדה",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:ckb": "امامزاده",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDoyYjQ0MjQ0ZTdkMDA",
+        "publicId": "NDoyYjQ0MjQ0ZTdkMDA",
+        "sourceId": "2b44244e7d00",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:29:11.778Z",
+        "updatedAt": "2026-11-12T03:29:11.778Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115929,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39311577286884,
+          35.66314924043385
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مسجد",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מסגד",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Cami",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDozNWY5YWIwZDExMmM",
+        "publicId": "NDozNWY5YWIwZDExMmM",
+        "sourceId": "35f9ab0d112c",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:30:24.664Z",
+        "updatedAt": "2026-11-12T03:30:24.664Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39552053064108,
+          35.66099328291688
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "مسجد",
+        "date": 1794414497,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Mosque",
+        "description:en": "Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مسجد",
+        "description:ar": "مسجد",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מסגד",
+        "description:he": "מסגד",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Cami",
+        "description:tr": "Cami",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "مزگەوت",
+        "description:ckb": "مزگەوت",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDpiYTNhMDM2MWVkODU",
+        "publicId": "NDpiYTNhMDM2MWVkODU",
+        "sourceId": "ba3a0361ed85",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:31:13.690Z",
+        "updatedAt": "2026-11-12T03:31:13.690Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.646537743508816,
+          32.776185656959726
+        ]
+      },
+      "properties": {
+        "name:fa": "امامزاده",
+        "description": "",
+        "date": 1794413018,
+        "city": "",
+        "province": "",
+        "name:en": "Imamzadeh",
+        "name:ar": "إمام زادة",
+        "name:he": "אימאמזאדה",
+        "name:tr": "İmamzade",
+        "name:ckb": "امامزادە",
+        "id": "NDpiMWUxMjc2ODNkNWY",
+        "publicId": "NDpiMWUxMjc2ODNkNWY",
+        "sourceId": "b1e127683d5f",
+        "layerId": 4,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:36:38.158Z",
+        "updatedAt": "2026-11-12T03:36:42.787Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115940,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3838390782783,
+          35.768771300376045
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد دانشگاه امام صادق",
+        "description": "",
+        "date": "",
+        "city": "",
+        "province": "",
+        "name:en": "Imam Sadiq University Mosque",
+        "name:ar": "مسجد جامعة الإمام الصادق",
+        "name:he": "מסגד אוניברסיטת אימאם סאדק",
+        "name:tr": "İmam Sadık Üniversitesi Camisi",
+        "name:ckb": "مزگەوتی زانکۆی ئیمام سادق",
+        "id": "NDo5ZTE0YjY1MmQ0MGQ",
+        "publicId": "NDo5ZTE0YjY1MmQ0MGQ",
+        "sourceId": "9e14b652d40d",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:38:09.554Z",
+        "updatedAt": "2026-11-12T03:38:09.554Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38370355591178,
+          35.69543341517719
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد میثم",
+        "description": "",
+        "date": 1794374314,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Meysam Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مسجد ميثم",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מסג'ד מייסם",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Meysam Mescidi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "مزگەوتی مەیسەم",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDpmNzgxNGEwZmFjMzA",
+        "publicId": "NDpmNzgxNGEwZmFjMzA",
+        "sourceId": "f7814a0fac30",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:42:42.997Z",
+        "updatedAt": "2026-11-12T03:42:42.997Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.409846879541874,
+          35.672842308837346
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "مسجد",
+        "date": 1794413847,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Mosque",
+        "description:en": "Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مسجد",
+        "description:ar": "مسجد",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מסגד",
+        "description:he": "מסגד",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Cami",
+        "description:tr": "Cami",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "مزگەوت",
+        "description:ckb": "مزگەوت",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDpkMGU0ZGU1NmQ4YTI",
+        "publicId": "NDpkMGU0ZGU1NmQ4YTI",
+        "sourceId": "d0e4de56d8a2",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:44:10.655Z",
+        "updatedAt": "2026-11-12T03:44:10.655Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.409427171630256,
+          35.67293041053419
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه بیت العباس",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Beyt-ol-Abbas Hosseiniyeh",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "حسينية بيت العباس",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "חוסייניית בית אל-עבאס",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Beytü'l-Abbas Hüseyniyesi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "حوسێنییەی بەیتوڵعەباس",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDphNGU2NzViYjc3OTA",
+        "publicId": "NDphNGU2NzViYjc3OTA",
+        "sourceId": "a4e675bb7790",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:44:25.552Z",
+        "updatedAt": "2026-11-12T03:44:25.552Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115954,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.40468394975005,
+              35.719393238905084
+            ],
+            [
+              51.40445504520778,
+              35.71932307468717
+            ],
+            [
+              51.40432194743431,
+              35.71913289243568
+            ],
+            [
+              51.40447505578189,
+              35.718975327404394
+            ],
+            [
+              51.40455843160865,
+              35.71893593676654
+            ],
+            [
+              51.40453948255757,
+              35.71890824021345
+            ],
+            [
+              51.404587234166684,
+              35.71884976967952
+            ],
+            [
+              51.4048153807463,
+              35.71910273136389
+            ],
+            [
+              51.404796431695104,
+              35.71913904453244
+            ],
+            [
+              51.40481689667047,
+              35.71915627789495
+            ],
+            [
+              51.40475975591076,
+              35.7192516719775
+            ],
+            [
+              51.40468394975005,
+              35.719393238905084
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد نور",
+        "description": "مسجد نور شبستریان",
+        "date": "",
+        "city": "",
+        "province": "",
+        "name:en": "Noor Mosque",
+        "description:en": "Noor Shebsetarian Mosque",
+        "name:ar": "مسجد نور",
+        "description:ar": "مسجد نور شبستريان",
+        "name:he": "מסגד נור",
+        "description:he": "מסגד נור שבסטריאן",
+        "name:tr": "Nur Camii",
+        "description:tr": "Şebüsteryan Nur Camii",
+        "name:ckb": "مزگەوتی نۆر",
+        "description:ckb": "مزگەوتی نۆری شبستریان",
+        "id": "NDo4OTVjYzcyZWQ2YzE",
+        "publicId": "NDo4OTVjYzcyZWQ2YzE",
+        "sourceId": "895cc72ed6c1",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:47:50.286Z",
+        "updatedAt": "2026-11-12T03:47:50.286Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.391817070543766,
+          35.664469508149594
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد علوی",
+        "description": "مسجد علوی",
+        "date": 1794369314,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Alavi Mosque",
+        "description:en": "Alavi Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مسجد علوي",
+        "description:ar": "مسجد علوي",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מסג'ד עלווי",
+        "description:he": "מסג'ד עלווי",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Alevi Mescidi",
+        "description:tr": "Alevi Mescidi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "مزگەوتی عەلەوی",
+        "description:ckb": "مزگەوتی عەلەوی",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDplMGNlNjk2MTkwMzY",
+        "publicId": "NDplMGNlNjk2MTkwMzY",
+        "sourceId": "e0ce69619036",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:49:27.806Z",
+        "updatedAt": "2026-11-12T03:49:27.806Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5647954121232,
+          32.836858867413625
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد و حسینیه آذری‌ها",
+        "description": "مسجد و حسینیه آذری‌ها",
+        "date": 1794411368,
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Azariha Mosque and Hosseiniyeh",
+        "description:en": "Azariha Mosque and Hosseiniyeh",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "مسجد وحسينية الآذريين",
+        "description:ar": "مسجد وحسينية الآذريين",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "מסגד וחוסיינייה של האזריים",
+        "description:he": "מסגד וחוסיינייה של האזריים",
+        "city:he": "שאהין שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Azeriler Camisi ve Hüseyniyesi",
+        "description:tr": "Azeriler Camisi ve Hüseyniyesi",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "مزگەوت و حوسەینیەی ئازەرییەکان",
+        "description:ckb": "مزگەوت و حوسەینیەی ئازەرییەکان",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDo4MThjYzkwOGEwZjQ",
+        "publicId": "NDo4MThjYzkwOGEwZjQ",
+        "sourceId": "818cc908a0f4",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:50:58.655Z",
+        "updatedAt": "2026-11-12T03:50:58.655Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.56807541847229,
+          32.84129899086818
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد و حسینیه شاهین‌شهر",
+        "description": "مسجد و حسینیه واقع در کوی مهدیه شاهین‌شهر",
+        "date": 1794398770,
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Shahin Shahr Mosque and Hosseinieh",
+        "description:en": "Mosque and Hosseinieh located in Mahdieh district, Shahin Shahr",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "مسجد وحسينية شاهين شهر",
+        "description:ar": "مسجد وحسينية يقعان في حي مهدية بشاهين شهر",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "מסגד וחוסייניה שאהין שהר",
+        "description:he": "מסגד וחוסייניה הממוקמים בשכונת מהדיה בשאהין שהר",
+        "city:he": "שאהין שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Şahinşehr Camii ve Hüseyniyesi",
+        "description:tr": "Şahinşehr'in Mehdiye mahallesinde bulunan cami ve hüseyniye",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "مزگەوت و حسەینیەی شاهینشار",
+        "description:ckb": "مزگەوت و حسەینیە دەکەوێتە گەڕەکی مەهدیەی شاهینشار",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDo1MjEzN2QzOTc4MGQ",
+        "publicId": "NDo1MjEzN2QzOTc4MGQ",
+        "sourceId": "52137d39780d",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:51:12.874Z",
+        "updatedAt": "2026-11-12T03:51:12.874Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.55823841691017,
+          32.84405078689137
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "مسجد",
+        "date": 1794405337,
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Mosque",
+        "description:en": "Mosque",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "مسجد",
+        "description:ar": "مسجد",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "מסגד",
+        "description:he": "מסגד",
+        "city:he": "שהין שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Cami",
+        "description:tr": "Cami",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "مزگەوت",
+        "description:ckb": "مزگەوت",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDpkZTE0NWYzMGJiZGI",
+        "publicId": "NDpkZTE0NWYzMGJiZGI",
+        "sourceId": "de145f30bbdb",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:51:26.033Z",
+        "updatedAt": "2026-11-12T03:51:26.033Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115963,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.547445544980405,
+              32.84673839679658
+            ],
+            [
+              51.54749362799896,
+              32.84670731828436
+            ],
+            [
+              51.54831843672321,
+              32.846795374040695
+            ],
+            [
+              51.54835419076332,
+              32.84683266821767
+            ],
+            [
+              51.548259257621424,
+              32.84748531376778
+            ],
+            [
+              51.547398694857094,
+              32.84739207898316
+            ],
+            [
+              51.547355543430655,
+              32.84734235372434
+            ],
+            [
+              51.547445544980405,
+              32.84673839679658
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Mosque",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "مسجد",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "מסגד",
+        "city:he": "שאהין שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Cami",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDphY2M4ZmQwOGUzNDY",
+        "publicId": "NDphY2M4ZmQwOGUzNDY",
+        "sourceId": "acc8fd08e346",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:51:49.192Z",
+        "updatedAt": "2026-11-12T03:51:49.192Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.57697515562177,
+          32.84252447879233
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "مسجد محبین اباعبدالله در شهرک سایت (مهدیه) شاهین‌شهر",
+        "date": 1794405760,
+        "city": "",
+        "province": "",
+        "name:en": "Mosque",
+        "description:en": "Mohebin Aba Abdollah Mosque in Shahrack-e Site (Mahdiyeh), Shahin Shahr",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "مسجد",
+        "description:ar": "مسجد محبي أبا عبد الله في مجمع سايت (مهديه) السكني في شاهين شهر",
+        "name:he": "מסגד",
+        "description:he": "מסגד מוהבין אבא עבדאללה בשכונת סייט (מהדיה) בשאהין שהר",
+        "name:tr": "Cami",
+        "description:tr": "Şahinşehr, Site (Mehdiyeb) Mahallesi'ndeki Muhibbin Eba Abdullah Camii",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "مزگەوت",
+        "description:ckb": "مزگەوتی موحەبیین ئەبا عەبدوڵڵا لە شارۆچکەی سایت (مەهدییە) لە شاهینشار",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئیسفەهان",
+        "id": "NDpmOWVmMGIzZmIwZTY",
+        "publicId": "NDpmOWVmMGIzZmIwZTY",
+        "sourceId": "f9ef0b3fb0e6",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:52:27.970Z",
+        "updatedAt": "2026-11-12T03:52:27.970Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115965,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.57299202951643,
+              32.83426731901113
+            ],
+            [
+              51.5730460507738,
+              32.834244066334236
+            ],
+            [
+              51.57347558564908,
+              32.834251817226914
+            ],
+            [
+              51.57350720784882,
+              32.834278391712374
+            ],
+            [
+              51.57349403193243,
+              32.834590641318755
+            ],
+            [
+              51.57346636250787,
+              32.83461389390489
+            ],
+            [
+              51.57327794690303,
+              32.83460946484115
+            ],
+            [
+              51.57319230344595,
+              32.83456628145943
+            ],
+            [
+              51.57299202951643,
+              32.83426731901113
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "هیئت ال یاسین",
+        "description": "",
+        "date": "",
+        "city": "",
+        "province": "",
+        "name:en": "Heyat Al Yasin",
+        "name:ar": "هيئة آل ياسين",
+        "name:he": "הייאת אל-יאסין",
+        "name:tr": "Heyet-i Al-i Yasin",
+        "name:ckb": "هەیئەتی ئال یاسین",
+        "id": "NDo2NjQ0MjA3Y2RjZjI",
+        "publicId": "NDo2NjQ0MjA3Y2RjZjI",
+        "sourceId": "6644207cdcf2",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:52:58.245Z",
+        "updatedAt": "2026-11-12T03:52:58.245Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115967,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.47103678435087,
+          33.873487695382934
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه امام خمینی",
+        "description": "حسینیه امام خمینی واقع در دهستان خرم دشت، بخش مرکزی کاشان",
+        "date": 1794372924,
+        "city": "",
+        "province": "",
+        "name:en": "Imam Khomeini Hosseiniyeh",
+        "description:en": "Imam Khomeini Hosseiniyeh located in Khorram Dasht rural district, Kashan central district",
+        "city:en": "Kashan",
+        "province:en": "Isfahan",
+        "name:ar": "حسينية الإمام الخميني",
+        "city:ar": "كاشان",
+        "name:he": "חוסייניית אימאם חומייני",
+        "description:he": "חוסייניית אימאם חומייני הממוקמת במועצה האזורית ח'רם דשת, בנפת קאשאן המרכזית",
+        "city:he": "קאשאן",
+        "province:he": "אספהאן",
+        "name:tr": "İmam Humeyni Hüseyniyesi",
+        "description:tr": "İmam Humeyni Hüseyniyesi, Kaşan merkezî ilçesi Hurremdeşt kırsal bölgesinde yer almaktadır",
+        "city:tr": "Kaşan",
+        "province:tr": "İsfahan",
+        "name:ckb": "حوسێنییەی ئیمام خومەینی",
+        "description:ckb": "حوسێنییەی ئیمام خومەینی دەكەوێتە گوندەواری خورەمدەشت، ناوچەی ناوەندی کاشان",
+        "city:ckb": "کاشان",
+        "province:ckb": "ئیسفەهان",
+        "id": "NDo0OWY5ZTZkMWZjNTA",
+        "publicId": "NDo0OWY5ZTZkMWZjNTA",
+        "sourceId": "49f9e6d1fc50",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:54:52.480Z",
+        "updatedAt": "2026-11-12T03:54:52.480Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115968,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.051827447234245,
+              35.65254385577717
+            ],
+            [
+              52.0519485565863,
+              35.652645925932006
+            ],
+            [
+              52.052093588774,
+              35.65278991753573
+            ],
+            [
+              52.0520986217615,
+              35.65278683998831
+            ],
+            [
+              52.05211990623121,
+              35.65280890478081
+            ],
+            [
+              52.05216029644467,
+              35.652784796951806
+            ],
+            [
+              52.05213580357977,
+              35.652761621869885
+            ],
+            [
+              52.05235322434254,
+              35.65260156590767
+            ],
+            [
+              52.05237338551606,
+              35.652572262191455
+            ],
+            [
+              52.05238501697039,
+              35.65249853023414
+            ],
+            [
+              52.05228808818677,
+              35.65250231136217
+            ],
+            [
+              52.051827447234245,
+              35.65254385577717
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد علی آباد",
+        "description": "",
+        "date": "",
+        "city": "شهرستان دماوند",
+        "province": "استان تهران",
+        "name:en": "Aliabad Mosque",
+        "city:en": "Damavand County",
+        "province:en": "Tehran",
+        "name:ar": "مسجد علي آباد",
+        "city:ar": "مقاطعة دماوند",
+        "province:ar": "طهران",
+        "name:he": "מסגד עלי אבאד",
+        "city:he": "מחוז דמאוונד",
+        "province:he": "טהראן",
+        "name:tr": "Aliabad Mescidi",
+        "city:tr": "Demavend",
+        "province:tr": "Tahran",
+        "name:ckb": "مزگەوتی عەلی ئاوا",
+        "city:ckb": "شارستانی دەماوەند",
+        "province:ckb": "تاران",
+        "id": "NDoyZDUzNGZkOGY3N2Y",
+        "publicId": "NDoyZDUzNGZkOGY3N2Y",
+        "sourceId": "2d534fd8f77f",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:55:34.904Z",
+        "updatedAt": "2026-11-12T03:55:34.904Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115969,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.45143749937415,
+          35.302460577601295
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "مسجد در بخش نوبران، دهستان کوهپایه",
+        "date": 1794359334,
+        "city": "شاه باغی",
+        "province": "استان مرکزی",
+        "name:en": "Mosque",
+        "description:en": "Mosque in Nobaran district, Kuhpayeh rural district",
+        "city:en": "Shah Baghi",
+        "province:en": "Markazi",
+        "name:ar": "مسجد",
+        "description:ar": "مسجد في ناحية نوبران، قضاء كوهبايه",
+        "city:ar": "شاه باغي",
+        "province:ar": "المركزية",
+        "name:he": "מסגד",
+        "description:he": "מסגד בנפת נובראן, במועצה האזורית כוהפאיה",
+        "city:he": "שאה באע'י",
+        "province:he": "מרכזי",
+        "name:tr": "Cami",
+        "description:tr": "Nobaran ilçesi, Kuhpaye kırsal bölgesinde cami",
+        "city:tr": "Şah Baği",
+        "province:tr": "Merkezi",
+        "name:ckb": "مزگەوت",
+        "description:ckb": "مزگەوت لە بەشی نووبەران، گوندەواری کوهپایە",
+        "city:ckb": "شاه باغی",
+        "province:ckb": "مەرکەزی",
+        "id": "NDozMDdlZTY1MjFlN2I",
+        "publicId": "NDozMDdlZTY1MjFlN2I",
+        "sourceId": "307ee6521e7b",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:55:56.356Z",
+        "updatedAt": "2026-11-12T03:55:56.356Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5821,
+    "total": 5841,
     "layerId": 4,
     "clustered": false,
     "simplified": false

@@ -250201,48 +250201,6 @@
     },
     {
       "type": "Feature",
-      "id": 66421,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3949978,
-          35.6722495
-        ]
-      },
-      "properties": {
-        "id": "Mjc6NjAyMQ",
-        "city": "تهران",
-        "name:fa": "داروخانه دکتر اقدس صفری",
-        "province": "استان تهران",
-        "name:en": "Dr. Aghdas Safari Pharmacy",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "name:ar": "صيدلية الدكتورة أقدس صفري",
-        "city:ar": "طهران",
-        "province:ar": "طهران",
-        "name:he": "בית מרקחת ד\"ר אקדס ספרי",
-        "city:he": "טהראן",
-        "province:he": "טהראן",
-        "name:tr": "Dr. Akdas Safari Eczanesi",
-        "city:tr": "Tahran",
-        "province:tr": "Tahran",
-        "name:ckb": "دەرمانخانەی دکتۆر ئەقدەس سەفەری",
-        "city:ckb": "تاران",
-        "province:ckb": "تاران",
-        "publicId": "Mjc6NjAyMQ",
-        "sourceId": "6021",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:48.181Z",
-        "updatedAt": "2026-03-11T20:58:48.181Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 66422,
       "geometry": {
         "type": "Point",
@@ -572543,43 +572501,6 @@
     },
     {
       "type": "Feature",
-      "id": 74141,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.3949708,
-          35.6731908
-        ]
-      },
-      "properties": {
-        "id": "Mjc6MTM3NDE",
-        "city": "تهران",
-        "name:fa": "",
-        "province": "استان تهران",
-        "city:en": "Tehran",
-        "province:en": "Tehran",
-        "city:ar": "طهران",
-        "province:ar": "طهران",
-        "city:he": "טהראן",
-        "province:he": "טהראן",
-        "city:tr": "Tahran",
-        "province:tr": "Tahran",
-        "city:ckb": "تاران",
-        "province:ckb": "تاران",
-        "publicId": "Mjc6MTM3NDE",
-        "sourceId": "13741",
-        "layerId": 27,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:51.404Z",
-        "updatedAt": "2026-03-11T20:58:51.404Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 74142,
       "geometry": {
         "type": "Point",
@@ -651452,10 +651373,195 @@
         "createdAt": "2026-10-30T19:28:47.189Z",
         "updatedAt": "2026-10-30T19:28:50.945Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38919219374657,
+          35.66300524350147
+        ]
+      },
+      "properties": {
+        "name:fa": "داروخانه شهپر",
+        "description": "داروخانه شهپر",
+        "date": 1794369640,
+        "city": "",
+        "province": "",
+        "name:ar": "صيدلية شهبر",
+        "description:ar": "صيدلية شهبر",
+        "name:he": "בית מרקחת שהפר",
+        "description:he": "בית מרקחת שהפר",
+        "name:tr": "Şahpar Eczanesi",
+        "description:tr": "Şahpar Eczanesi",
+        "name:ckb": "دەرمانگەی شەھپەر",
+        "description:ckb": "دەرمانگەی شەھپەر",
+        "name:en": "Shahpar Pharmacy",
+        "description:en": "Shahpar Pharmacy",
+        "id": "Mjc6N2MzNWIxNTllM2I4",
+        "publicId": "Mjc6N2MzNWIxNTllM2I4",
+        "sourceId": "7c35b159e3b8",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:29:53.957Z",
+        "updatedAt": "2026-11-12T03:29:53.957Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115928,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39297013710464,
+          35.66304297072601
+        ]
+      },
+      "properties": {
+        "name:fa": "داروخانه",
+        "description": "داروخانه واقع در انبار نفت، منطقه ۱۱ تهران",
+        "date": 1794369867,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Pharmacy",
+        "description:en": "Pharmacy located in Anbar Naft, District 11 of Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "صيدلية",
+        "description:ar": "صيدلية تقع في أنبار نفت، المنطقة 11 في طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בית מרקחת",
+        "description:he": "בית מרקחת הממוקם באנבאר-א נפט, רובע 11 של טהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Eczane",
+        "description:tr": "Eczane, Tahran 11. Bölge, Anbar Naft'ta yer almaktadır.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "دەرمانخانە",
+        "description:ckb": "دەرمانخانە کە دەكەوێتە انباری نەفت، ناوچەی ١١ی تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mjc6ZjU4NTVjMzBhZDc5",
+        "publicId": "Mjc6ZjU4NTVjMzBhZDc5",
+        "sourceId": "f5855c30ad79",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:30:10.187Z",
+        "updatedAt": "2026-11-12T03:30:15.364Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39431454241276,
+          35.660976529985945
+        ]
+      },
+      "properties": {
+        "name:fa": "داروخانه",
+        "description": "داروخانه واقع در سعید خطیب، انبار نفت، منطقه ۱۱ تهران",
+        "date": 1794370220,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Pharmacy",
+        "description:en": "Pharmacy located in Saeid Khatib, Anbar Naft, District 11 of Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "صيدلية",
+        "description:ar": "صيدلية تقع في سعيد خطيب، أنبار نفت، المنطقة 11، طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בית מרקחת",
+        "description:he": "בית מרקחת הממוקם בסעיד ח'טיב, אנבאר-א נפט, רובע 11 של טהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Eczane",
+        "description:tr": "Said Hatip, Anbar Naft, Tahran 11. Bölge'de bulunan eczane",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "دەرمانخانە",
+        "description:ckb": "دەرمانخانە کە دەكەوێتە سەعید خەتیب، انباری نەفت، ناوچەی ١۱ی تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mjc6ZGQwOGEwYjU2YTc4",
+        "publicId": "Mjc6ZGQwOGEwYjU2YTc4",
+        "sourceId": "dd08a0b56a78",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:31:02.636Z",
+        "updatedAt": "2026-11-12T03:31:02.636Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115966,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.591278538751794,
+          32.82217738880826
+        ]
+      },
+      "properties": {
+        "name:fa": "داروخانه",
+        "description": "داروخانه واقع در مسکن مهر شاهین‌شهر، شهرک پردیس",
+        "date": 1794399969,
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Pharmacy",
+        "description:en": "Pharmacy located in Maskan-e Mehr, Shahin Shahr, Pardis Township",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "صيدلية",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "בית מרקחת",
+        "description:he": "בית מרקחת הממוקם במסכן מהר שאהין שהר, שכונת פרדיס",
+        "city:he": "שאהין שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Eczane",
+        "description:tr": "Şahinşehr Mesken-e Mehr, Perdis Mahallesi'nde bulunan eczane",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "دەرمانگە",
+        "description:ckb": "دەرمانگەی واقع لە مەسکەنی مێهری شاهینشار، شارۆچکەی پەردیس",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "Mjc6YzgwYmQ1ZmIyM2U3",
+        "publicId": "Mjc6YzgwYmQ1ZmIyM2U3",
+        "sourceId": "c80bd5fb23e7",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:53:46.245Z",
+        "updatedAt": "2026-11-12T03:53:50.389Z"
+      }
     }
   ],
   "metadata": {
-    "total": 15601,
+    "total": 15603,
     "layerId": 27,
     "clustered": false,
     "simplified": false

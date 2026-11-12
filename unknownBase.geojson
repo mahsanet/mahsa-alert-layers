@@ -93534,10 +93534,243 @@
         "createdAt": "2026-11-11T03:43:41.523Z",
         "updatedAt": "2026-11-11T03:43:41.523Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115919,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.605399203675375,
+              37.269503203596045
+            ],
+            [
+              49.60528192711328,
+              37.26957841231396
+            ],
+            [
+              49.6052882916768,
+              37.26958537762894
+            ],
+            [
+              49.60506831642812,
+              37.269723417377364
+            ],
+            [
+              49.60510172755093,
+              37.269751600836685
+            ],
+            [
+              49.60507189365575,
+              37.26979370922615
+            ],
+            [
+              49.60538625328556,
+              37.27010922045001
+            ],
+            [
+              49.60538108207649,
+              37.27011491930418
+            ],
+            [
+              49.60541887167631,
+              37.27014879581668
+            ],
+            [
+              49.60546740147862,
+              37.27011206987714
+            ],
+            [
+              49.60545904798846,
+              37.27010035556546
+            ],
+            [
+              49.605539400607825,
+              37.27001677128503
+            ],
+            [
+              49.60558952155009,
+              37.27005349727108
+            ],
+            [
+              49.60564680262817,
+              37.2700785089236
+            ],
+            [
+              49.605853652127166,
+              37.269850554328784
+            ],
+            [
+              49.60574346561003,
+              37.26979039952488
+            ],
+            [
+              49.60573232762192,
+              37.269803063698475
+            ],
+            [
+              49.605529054422504,
+              37.26967610137355
+            ],
+            [
+              49.605521894287904,
+              37.269683066679534
+            ],
+            [
+              49.605454668579654,
+              37.26963810878367
+            ],
+            [
+              49.605482513546946,
+              37.269608347907905
+            ],
+            [
+              49.60544631508833,
+              37.26958017004682
+            ],
+            [
+              49.60544830400991,
+              37.26956402318673
+            ],
+            [
+              49.60543676823741,
+              37.269543760444535
+            ],
+            [
+              49.60542801696158,
+              37.26953616191447
+            ],
+            [
+              49.605399203675375,
+              37.269503203596045
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "رشت",
+        "province": "استان گیلان",
+        "operator": "",
+        "city:en": "Rasht",
+        "province:en": "Gilan",
+        "city:ar": "رشت",
+        "province:ar": "جيلان",
+        "city:he": "רשת",
+        "province:he": "גילאן",
+        "city:tr": "Reşt",
+        "province:tr": "Gilan",
+        "city:ckb": "ڕەشت",
+        "province:ckb": "گیلان",
+        "id": "MTI6ZTYwYTBkZWE3YmZj",
+        "publicId": "MTI6ZTYwYTBkZWE3YmZj",
+        "sourceId": "e60a0dea7bfc",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:22:52.097Z",
+        "updatedAt": "2026-11-12T03:24:03.962Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115943,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.606217635124665,
+              26.96254925149664
+            ],
+            [
+              55.60696958418788,
+              26.96293338091195
+            ],
+            [
+              55.60699526745728,
+              26.96289776631899
+            ],
+            [
+              55.60698242582259,
+              26.96285833586417
+            ],
+            [
+              55.60703664605933,
+              26.962788378571375
+            ],
+            [
+              55.60707945150881,
+              26.962789650522353
+            ],
+            [
+              55.60738765074521,
+              26.962386441282774
+            ],
+            [
+              55.60676269118187,
+              26.96206717994673
+            ],
+            [
+              55.60655579817583,
+              26.962011213722676
+            ],
+            [
+              55.606217635124665,
+              26.96254925149664
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "این محل به‌عنوان یکی از مراکز مرتبط با نهادهای اطلاعات و سپاه شناخته می‌شود. فعالیت‌های داخل این مجموعه می‌تواند شامل امور اطلاعاتی و امنیتی، بررسی و تحلیل اطلاعات، هماهنگی‌های عملیاتی، امور حفاظتی و فعالیت‌های اداری و پشتیبانی باشد. همچنین گفته می‌شود بخش‌هایی از فعالیت‌های این مجموعه در فضاهای زیرزمینی و تونل‌های حفاظتی انجام می‌شود.",
+        "date": "",
+        "city": "کندال",
+        "province": "استان هرمزگان",
+        "name:en": "Kndal Intelligence and IRGC Affiliated Center",
+        "description:en": "This location is known as one of the centers associated with intelligence agencies and the IRGC. Activities inside this complex may include intelligence and security affairs, information analysis, operational coordination, security duties, and administrative and support activities. It is also reported that parts of this complex's activities are conducted in underground spaces and protective tunnels.",
+        "city:en": "Kndal",
+        "province:en": "Hormozgan",
+        "description:ar": "يُعرف هذا الموقع بأنه أحد المراكز المرتبطة بأجهزة الاستخبارات والحرس الثوري. ويمكن أن تشمل الأنشطة داخل هذا المجمع الشؤون الاستخباراتية والأمنية، وفحص المعلومات وتحليلها، والتنسيق Operational، والشؤون الحماية، والأنشطة الإدارية والدعم. كما يُقال إن أجزاءً من أنشطة هذا المجمع تُنفذ في مساحات تحت الأرض وأنفاق حماية.",
+        "city:ar": "كندال",
+        "province:ar": "هرمزكان",
+        "description:he": "מקום זה מוכר כאחד המרכזים הקשורים לגופי המודיעין והמשמרות המהפכה. הפעילות בתוך מתחם זה עשויה לכלול ענייני מודיעין וביטחון, ניתוח והערכת מודיעין, תיאומים מבצעיים, ענייני אבטחה ופעילויות מנהלה ולוגיסטיקה. כמו כן, מדווח כי חלק מהפעילויות של מתחם זה מבוצעות בחללים תת-קרקעיים ובמנהרות מוגנות.",
+        "city:he": "כנדאל",
+        "province:he": "הורמוזגאן",
+        "name:tr": "İstihbarat ve Devrim Muhafızları Merkezi",
+        "description:tr": "Bu mekan, istihbarat ve Devrim Muhafızları kurumlarıyla ilişkili merkezlerden biri olarak bilinmektedir. Bu kompleksin içindeki faaliyetler; istihbarat ve güvenlik işleri, bilgi inceleme ve analizi, operasyonel koordinasyon, koruma işleri ve idari ve destek faaliyetlerini içerebilir. Ayrıca bu kompleksin bazı faaliyetlerinin yeraltı alanlarında ve koruyucu tünellerde yürütüldüğü söylenmektedir.",
+        "city:tr": "Kendal",
+        "province:tr": "Hürmüzgan",
+        "name:ckb": "بنکەی پەیوەندیدار بە ناوەندە هەواڵگرییەکان و سوپا",
+        "description:ckb": "ئەم شوێنە وەک یەکێک لە ناوەندە پەیوەندیدارەکان بە دەزگاکانی هەواڵگری و سوپا دەناسرێت. چالاکییەکانی ناو ئەم کۆمەڵەیە دەکرێت بریتی بن لە کارە هەواڵگری و ئەمنییەکان، لێکۆڵینەوە و شیکاریی زانیاری، هەموئاهەنگییە ئۆپەراسیۆنییەکان، کارە پارێزگارییەکان و چالاکییە کارگێڕی و پشتگیرییەکان. هەروەها دەوترێت بەشێک لە چالاکییەکانی ئەم کۆمەڵەیە لە ناوچە ژێرزەوییەکان و تونێلە پارێزگارییەکاندا ئەنجام دەدرێن.",
+        "city:ckb": "کۆندال",
+        "province:ckb": "ھورمزگان",
+        "id": "MTI6OTA5YTUyYjdjNjJm",
+        "publicId": "MTI6OTA5YTUyYjdjNjJm",
+        "sourceId": "909a52b7c62f",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:41:19.110Z",
+        "updatedAt": "2026-11-12T03:41:19.110Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1130,
+    "total": 1132,
     "layerId": 12,
     "clustered": false,
     "simplified": false

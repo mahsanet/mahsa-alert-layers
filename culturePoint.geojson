@@ -124495,10 +124495,83 @@
         "createdAt": "2026-11-11T03:40:01.035Z",
         "updatedAt": "2026-11-11T03:40:01.035Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.448010453536284,
+          35.75696297128317
+        ]
+      },
+      "properties": {
+        "name:fa": "حسینیه ارشاد",
+        "description": "",
+        "date": "",
+        "city": "",
+        "province": "",
+        "name:en": "Hosseiniyeh Ershad",
+        "name:ar": "حسينية إرشاد",
+        "name:he": "חוסייניה ארשאד",
+        "name:tr": "Hüseyiniye Erşad",
+        "name:ckb": "حوسەینیەی ئێرساد",
+        "id": "MTc6OGQ3MzNhYjY5NDhl",
+        "publicId": "MTc6OGQ3MzNhYjY5NDhl",
+        "sourceId": "8d733ab6948e",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:39:05.925Z",
+        "updatedAt": "2026-11-12T03:39:05.925Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115946,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39459868893027,
+          35.697253910709975
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره گذرنامه و روادید",
+        "description": "اداره گذرنامه و روادید",
+        "date": 1794373726,
+        "city": "",
+        "province": "",
+        "name:en": "Passport and Visa Office",
+        "description:en": "Passport and Visa Office",
+        "name:ar": "دائرة الجوازات والتأشيرات",
+        "description:ar": "دائرة الجوازات والتأشيرات",
+        "name:he": "משרד הדרכונים והאשרות",
+        "description:he": "משרד הדרכונים והאשרות",
+        "name:tr": "Pasaport ve Vize Müdürlüğü",
+        "description:tr": "Pasaport ve Vize Müdürlüğü",
+        "name:ckb": "بەڕێوەبەرایەتیی پاسپۆرت و ویزا",
+        "description:ckb": "بەڕێوەبەرایەتیی پاسپۆرت و ویزا",
+        "id": "MTc6MjljNzc3MzlhMGEx",
+        "publicId": "MTc6MjljNzc3MzlhMGEx",
+        "sourceId": "29c77739a0a1",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T03:42:57.107Z",
+        "updatedAt": "2026-11-12T03:42:57.107Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2450,
+    "total": 2452,
     "layerId": 17,
     "clustered": false,
     "simplified": false
