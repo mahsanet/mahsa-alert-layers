@@ -177108,8 +177108,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.329332,
-          35.7513557
+          51.32934443987642,
+          35.754925622037305
         ]
       },
       "properties": {
@@ -177141,7 +177141,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:58:47.444Z",
-        "updatedAt": "2026-03-11T20:58:47.444Z"
+        "updatedAt": "2026-11-12T14:44:28.929Z"
       }
     },
     {
@@ -590796,8 +590796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.3293114,
-          35.7346436
+          51.329139850110295,
+          35.734875440060634
         ]
       },
       "properties": {
@@ -590824,7 +590824,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:58:51.591Z",
-        "updatedAt": "2026-03-11T20:58:51.591Z"
+        "updatedAt": "2026-11-12T14:45:49.255Z"
       }
     },
     {

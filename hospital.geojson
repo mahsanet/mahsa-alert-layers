@@ -149110,10 +149110,103 @@
         "createdAt": "2026-11-12T03:49:04.313Z",
         "updatedAt": "2026-11-12T03:49:04.313Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115983,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.32713519346993,
+              35.73531500731211
+            ],
+            [
+              51.32706224893366,
+              35.735255787189175
+            ],
+            [
+              51.32698638661563,
+              35.73411401460808
+            ],
+            [
+              51.327657476352044,
+              35.73408085084506
+            ],
+            [
+              51.328208937047634,
+              35.734466970950535
+            ],
+            [
+              51.32828188158504,
+              35.73439590604096
+            ],
+            [
+              51.32845403069061,
+              35.734388799546736
+            ],
+            [
+              51.32857074194979,
+              35.73447881509598
+            ],
+            [
+              51.328850797033084,
+              35.73446077584633
+            ],
+            [
+              51.328912466774625,
+              35.735363821431534
+            ],
+            [
+              51.32885718421295,
+              35.73539856814422
+            ],
+            [
+              51.32828206723917,
+              35.735269715675884
+            ],
+            [
+              51.32713519346993,
+              35.73531500731211
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان پیامبران",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Payambaran Hospital",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:he": "בית החולים פיאמבראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Peyamberan Hastanesi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "نەخۆشخانەی پێغەمبەران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjU6NjQ4Y2YwYjZhODBl",
+        "publicId": "MjU6NjQ4Y2YwYjZhODBl",
+        "sourceId": "648cf0b6a80e",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T14:47:10.299Z",
+        "updatedAt": "2026-11-12T14:47:10.299Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3543,
+    "total": 3544,
     "layerId": 25,
     "clustered": false,
     "simplified": false

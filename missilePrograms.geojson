@@ -22885,10 +22885,40 @@
         "createdAt": "2026-11-07T21:19:30.153Z",
         "updatedAt": "2026-11-07T21:19:30.153Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.139637651258596,
+          33.55690160125074
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "description": "بر اساس ویدیوی منتشرشده در شبکه‌های اجتماعی، یک پرتابگر موشک بالستیک ایران در جریان جنگ ۳۹روزه، بر اثر نقص فنی منفجر شده بود. همچنین، یک موشک بالستیک دیگر از پرتابگری در نزدیکی محل انفجار با موفقیت شلیک شده بود.\n\nزمان دقیق وقوع، علت انفجار و صحت مکان‌یابی به‌طور مستقل تأیید نشده است.",
+        "date": "",
+        "city": "",
+        "province": "",
+        "sources": "https://x.com/BenTzionMacales/status/2120973769691070794",
+        "id": "NzoyM2JmMDZhYjZkMWE",
+        "publicId": "NzoyM2JmMDZhYjZkMWE",
+        "sourceId": "23bf06ab6d1a",
+        "layerId": 7,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-12T21:45:31.545Z",
+        "updatedAt": "2026-11-12T21:45:31.545Z"
+      }
     }
   ],
   "metadata": {
-    "total": 215,
+    "total": 216,
     "layerId": 7,
     "clustered": false,
     "simplified": false

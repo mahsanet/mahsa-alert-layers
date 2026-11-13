@@ -22461,10 +22461,57 @@
         "createdAt": "2026-11-12T03:28:05.354Z",
         "updatedAt": "2026-11-12T03:28:05.354Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.29740700125694,
+          35.63646336454434
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای سپاه",
+        "city": "",
+        "province": "",
+        "date": 1794471061,
+        "description": "محل دپو تسلیحات سپاه و تجمع مخفیانه و جلسات نیروهای سپاه و انبار شخصی از سرکرده‌های نیروهای مخفی سپاه در درختی، بخش چهاردانگه، تهران",
+        "sources": "",
+        "name:en": "IRGC Forces Gathering",
+        "description:en": "IRGC weapons depot location, secret gathering and meetings of IRGC forces, and personal warehouse of one of the leaders of the secret IRGC forces in Derakhti, Chardangeh district, Tehran",
+        "city:en": "Chardangeh",
+        "province:en": "Tehran",
+        "name:ar": "تجمع قوات الحرس الثوري",
+        "name:he": "התכנסות כוחות משמרות המהפכה",
+        "description:he": "אתר אחסון אמצעי לחימה של משמרות המהפכה, מקום התכנסות חשאית ופגישות של כוחות משמרות המהפכה, ומחסן אישי של אחד ממפקדי הכוחות החשאיים של משמרות המהפכה בדרח'תי, נפת צ'הארדאנגה, טהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Devrim Muhafızları Güçleri Toplantısı",
+        "description:tr": "Derhekti, Çardange bölgesi, Tahran'da Devrim Muhafızları'nın silah depolama yeri, gizli toplantı ve güçlerin oturum alanı ile gizli Devrim Muhafızları liderlerinden birinin kişisel deposu",
+        "city:tr": "Çardange",
+        "province:tr": "Tahran",
+        "name:ckb": "کۆبوونەوەی هێزەکانی سوپا",
+        "description:ckb": "شوێنی کۆگاکردنی چەک و تەقەمەنی سوپا و کۆبوونەوەی نهێنی و دانیشتنەکانی هێزەکانی سوپا و کۆگای کەسایەتیی سەرەکیی سەرکردەکانی هێزە نهێنییەکانی سوپا لە دەرهتی، ناوچەی چەهارشانگە، تاران",
+        "city:ckb": "چەهارشانگە",
+        "province:ckb": "تاران",
+        "id": "NDA6YzAwZTJkZjYyOTUy",
+        "publicId": "NDA6YzAwZTJkZjYyOTUy",
+        "sourceId": "c00e2df62952",
+        "layerId": 40,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T14:48:46.136Z",
+        "updatedAt": "2026-11-12T14:48:46.136Z"
+      }
     }
   ],
   "metadata": {
-    "total": 458,
+    "total": 459,
     "layerId": 40,
     "clustered": false,
     "simplified": false

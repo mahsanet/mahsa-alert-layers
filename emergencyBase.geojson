@@ -39698,8 +39698,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.3283302,
-          35.7354778
+          51.32840956040516,
+          35.73497948261921
         ]
       },
       "properties": {
@@ -39731,7 +39731,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-12T19:39:02.766Z",
-        "updatedAt": "2026-03-12T19:39:02.766Z"
+        "updatedAt": "2026-11-12T14:47:15.557Z"
       }
     },
     {

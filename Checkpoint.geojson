@@ -14401,10 +14401,60 @@
         "createdAt": "2026-11-11T22:36:58.262Z",
         "updatedAt": "2026-11-11T22:36:58.262Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 115976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.49224291741848,
+          35.24619711605976
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان کاشمر",
+        "province": "استان خراسان رضوی",
+        "date": 1794464493,
+        "description": "ایست بازرسی شبانه. هر شب نیست. بعضی شب ها.",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Nighttime checkpoint. Not every night. Some nights.",
+        "city:en": "Kashmar",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش ليلية. لا تتواجد كل ليلة، بل في بعض الليالي فقط.",
+        "city:ar": "مقاطعة كاشمر",
+        "province:ar": "خراسان رضوي",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה לילי. לא פועל בכל לילה, אלא בחלק מהלילות.",
+        "city:he": "נפת קאשמר",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Gece kontrol noktası. Her gece değil, bazı geceler kuruluyor.",
+        "city:tr": "Kaşmer",
+        "province:tr": "Razavi Horasan",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنینی شەوانە. هەموو شەوێک نییە. هەندێک شەو.",
+        "city:ckb": "کاشمەر",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "Mzk6ZmVlNGMxZGFiNDNm",
+        "publicId": "Mzk6ZmVlNGMxZGFiNDNm",
+        "sourceId": "fee4c1dab43f",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-12T14:30:42.053Z",
+        "updatedAt": "2026-11-12T14:30:42.053Z"
+      }
     }
   ],
   "metadata": {
-    "total": 296,
+    "total": 297,
     "layerId": 39,
     "clustered": false,
     "simplified": false
