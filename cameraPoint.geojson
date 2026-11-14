@@ -819368,10 +819368,51 @@
         "createdAt": "2026-11-12T03:43:46.537Z",
         "updatedAt": "2026-11-12T03:43:46.537Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.40429789200425,
+          35.70183791190169
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1794580471,
+        "addressDescription": "",
+        "description": "دوربین نظارتی",
+        "city": "",
+        "province": "",
+        "name:en": "Surveillance Camera",
+        "description:en": "Surveillance camera",
+        "name:ar": "كاميرا مراقبة",
+        "description:ar": "كاميرا مراقبة",
+        "name:he": "מצלמת מעקב",
+        "description:he": "מצלמת מעקב",
+        "name:tr": "Gözetim Kamerası",
+        "description:tr": "Gözetim kamerası",
+        "name:ckb": "کامێرا چاودێری",
+        "description:ckb": "کامێرا چاودێری",
+        "id": "MjA6MDBmNDBiYzBmODNi",
+        "publicId": "MjA6MDBmNDBiYzBmODNi",
+        "sourceId": "00f40bc0f83b",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-13T15:03:07.544Z",
+        "updatedAt": "2026-11-13T15:03:07.544Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18695,
+    "total": 18696,
     "layerId": 20,
     "clustered": false,
     "simplified": false

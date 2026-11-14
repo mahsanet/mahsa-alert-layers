@@ -651558,10 +651558,59 @@
         "createdAt": "2026-11-12T03:53:46.245Z",
         "updatedAt": "2026-11-12T03:53:50.389Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.553353779017925,
+          32.862943735426626
+        ]
+      },
+      "properties": {
+        "name:fa": "داروخانه دکتر قربانی",
+        "description": "داروخانه دکتر قربانی واقع در خیابان دهخدا، شاهین‌شهر",
+        "date": 1794500174,
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Dr. Ghorbani Pharmacy",
+        "description:en": "Dr. Ghorbani Pharmacy located on Dehkhoda Street, Shahin Shahr",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "صيدلية الدكتور قرباني",
+        "description:ar": "صيدلية الدكتور قرباني الواقعة في شارع دهخدا، شاهين شهر",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "בית מרקחת ד\"ר גורבאני",
+        "description:he": "בית מרקחת ד\"ר גורבאני הממוקם ברחוב דהח'ודא, שאהין שהר",
+        "city:he": "שאהין שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Dr. Kurbani Eczanesi",
+        "description:tr": "Dr. Kurbani Eczanesi, Dehduh Caddesi, Şahinşehir'de yer almaktadır.",
+        "city:tr": "Şahinşehir",
+        "province:tr": "İsfahan",
+        "name:ckb": "دەرمانگەی دکتۆر قوربانی",
+        "description:ckb": "دەرمانگەی دکتۆر قوربانی دەکەوێتە شەقامی دەخدا، شاهینشار",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "Mjc6MjQ4OTc3MDA3YmY2",
+        "publicId": "Mjc6MjQ4OTc3MDA3YmY2",
+        "sourceId": "248977007bf6",
+        "layerId": 27,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-13T15:17:09.553Z",
+        "updatedAt": "2026-11-13T15:17:09.553Z"
+      }
     }
   ],
   "metadata": {
-    "total": 15603,
+    "total": 15604,
     "layerId": 27,
     "clustered": false,
     "simplified": false

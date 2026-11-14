@@ -106301,31 +106301,31 @@
         ]
       },
       "properties": {
-        "name:fa": "پایگاه بسیج",
+        "name:fa": "پایگاه بسیج شهید اشرفی",
         "unofficial_name:fa": "",
         "description": "سپاه ناحیه و پایگاه بسیج واقع در شهرک گلدیس، شاهین‌شهر",
         "date": 1794337158,
         "city": "شاهین شهر",
         "province": "استان اصفهان",
-        "name:en": "Basij Base",
-        "description:en": "Area IRGC headquarters and Basij base located in Goldis township, Shahin Shahr",
+        "name:en": "Shahid Ashrafi Basij Base",
+        "description:en": "IRGC district headquarters and Basij base located in Goldis township, Shahin Shahr.",
         "city:en": "Shahin Shahr",
         "province:en": "Isfahan",
-        "name:ar": "قاعدة البسيج",
-        "description:ar": "مقر الحرس الثوري وقاعدة البسيج الواقعة في ضاحية غولديس، شاهين شهر",
+        "name:ar": "قاعدة التعبئة (البسيج) الشهيد أشرفي",
+        "description:ar": "مقر الحرس الثوري وقاعدة التعبئة (البسيج) الواقعة في مجمع غولديس السكني، شاهين شهر",
         "city:ar": "شاهين شهر",
         "province:ar": "أصفهان",
-        "name:he": "בסיס באסיג'",
-        "description:he": "מפקדת האזור של משמרות המהפכה ובסיס באסיג' הממוקמים בשכונת גולדיס, שאהין שהר",
+        "name:he": "בסיס באסיג' שהיד אשראפי",
+        "description:he": "מפקדת סיפאה ובסיס באסיג' הממוקמים בשכונת גולדיס, שאהין שהר",
         "city:he": "שאהין שהר",
         "province:he": "אספהאן",
-        "name:tr": "Besic Üssü",
-        "description:tr": "Goldis Mahallesi, Şahinşehr'de bulunan Devrim Muhafızları bölge karargahı ve Besic üssü",
+        "name:tr": "Şehit Eşrefi Besic Üssü",
+        "description:tr": "Goldis Mahallesi, Şahinşehr'de bulunan Devrim Muhafızları Kolordu bölgesi ve Besic üssü",
         "city:tr": "Şahinşehr",
         "province:tr": "İsfahan",
-        "name:ckb": "بنکەی بسیج",
-        "description:ckb": "سوپای ناوچە و بنکەی بسیج کە دەکەوێتە شارۆچکەی گۆڵدیس، شاهینشار",
-        "city:ckb": "شاهینشار",
+        "name:ckb": "بنکەی بسیجی شەهید ئەشرەفی",
+        "description:ckb": "سوپای ناوچە و بنکەی بسیج کە لە شارۆچکەی گۆڵدیس، شاهین‌شار هەڵکەوتووە",
+        "city:ckb": "شاهین‌شار",
         "province:ckb": "ئەسفەھان",
         "id": "MTo0Zjk3NzFkYmEyODI",
         "publicId": "MTo0Zjk3NzFkYmEyODI",
@@ -106337,7 +106337,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-11-11T03:16:52.752Z",
-        "updatedAt": "2026-11-11T03:40:24.752Z"
+        "updatedAt": "2026-11-13T15:14:57.752Z"
       }
     },
     {
@@ -106749,10 +106749,45 @@
         "createdAt": "2026-11-12T03:49:46.337Z",
         "updatedAt": "2026-11-12T03:49:46.337Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5330109000206,
+          32.88873263712965
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه بسیج",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": 1794504530,
+        "city": "",
+        "province": "",
+        "name:en": "Basij Base",
+        "name:ar": "مركز البسيج",
+        "name:he": "בסיס בסיג'",
+        "name:tr": "Besic Karargahı",
+        "name:ckb": "بنکەی بسیج",
+        "id": "MTo0MzhjMDZkOTRkYTk",
+        "publicId": "MTo0MzhjMDZkOTRkYTk",
+        "sourceId": "438c06d94da9",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-13T15:15:39.572Z",
+        "updatedAt": "2026-11-13T15:15:39.572Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2397,
+    "total": 2398,
     "layerId": 1,
     "clustered": false,
     "simplified": false

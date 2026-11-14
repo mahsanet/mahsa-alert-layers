@@ -59405,8 +59405,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.307184,
-          38.0605289
+          46.306859343581806,
+          38.05729170223074
         ]
       },
       "properties": {
@@ -59438,7 +59438,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:57:47.043Z",
-        "updatedAt": "2026-03-11T20:57:47.043Z"
+        "updatedAt": "2026-11-13T15:05:47.693Z"
       }
     },
     {
@@ -149191,6 +149191,9 @@
         "name:ckb": "نەخۆشخانەی پێغەمبەران",
         "city:ckb": "تاران",
         "province:ckb": "تاران",
+        "name:ar": "مستشفى بيامبران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
         "id": "MjU6NjQ4Y2YwYjZhODBl",
         "publicId": "MjU6NjQ4Y2YwYjZhODBl",
         "sourceId": "648cf0b6a80e",

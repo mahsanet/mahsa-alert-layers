@@ -252856,6 +252856,9 @@
         "name:ckb": "امامزاده",
         "city:ckb": "تاران",
         "province:ckb": "تاران",
+        "name:tr": "İmamzade",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
         "id": "NDoyYjQ0MjQ0ZTdkMDA",
         "publicId": "NDoyYjQ0MjQ0ZTdkMDA",
         "sourceId": "2b44244e7d00",
@@ -253828,10 +253831,59 @@
         "createdAt": "2026-11-12T03:55:56.356Z",
         "updatedAt": "2026-11-12T03:55:56.356Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.681091133505106,
+          32.671924135525444
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد آقانور اصفهان",
+        "description": "مسجد آقانور واقع در محله شهشهان، منطقه ۳ اصفهان",
+        "date": 1794502699,
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "name:en": "Agha Nour Mosque of Isfahan",
+        "description:en": "Agha Nour Mosque located in the Shahshahan neighborhood, District 3 of Isfahan",
+        "city:en": "Isfahan",
+        "province:en": "Isfahan",
+        "name:ar": "مسجد آقا نور أصفهان",
+        "description:ar": "مسجد آقا نور الواقع في حي شهشهان، المنطقة 3 في أصفهان",
+        "city:ar": "أصفهان",
+        "province:ar": "أصفهان",
+        "name:he": "מסג'ד אקא נור אספהאן",
+        "description:he": "מסג'ד אקא נור הממוקם בשכונת שהשהאן, אזור 3 באספהאן",
+        "city:he": "אספהאן",
+        "province:he": "אספהאן",
+        "name:tr": "Ağanur Camii İsfahan",
+        "description:tr": "Ağanur Camii, İsfahan'ın 3. bölgesinde Şehşehan mahallesinde yer almaktadır.",
+        "city:tr": "İsfahan",
+        "province:tr": "İsfahan",
+        "name:ckb": "مزگەوتی ئاقانووری سەفاهان",
+        "description:ckb": "مزگەوتی ئاقانوور کە دەكەوێتە گەڕەکی شەهسەهان، ناوچەی ٣ی سەفاهان",
+        "city:ckb": "سەفاهان",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDowOTFmMGVmMDg1YmM",
+        "publicId": "NDowOTFmMGVmMDg1YmM",
+        "sourceId": "091f0ef085bc",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-13T15:16:20.630Z",
+        "updatedAt": "2026-11-13T15:16:20.630Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5841,
+    "total": 5842,
     "layerId": 4,
     "clustered": false,
     "simplified": false

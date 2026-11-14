@@ -14451,10 +14451,59 @@
         "createdAt": "2026-11-12T14:30:42.053Z",
         "updatedAt": "2026-11-12T14:30:42.053Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.30416176277731,
+          38.05962666306178
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "date": 1794556047,
+        "description": "خیابان حافظ بسته شده و عبور و مرور منع شده است.",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Hafez Street is closed and traffic is prohibited.",
+        "city:en": "Tabriz",
+        "province:en": "East Azerbaijan",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "شارع حافظ مغلق وتم منع المرور.",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "מחסום בדיקה",
+        "description:he": "רחוב חאפז נחסם והתנועה בו נאסרה.",
+        "city:he": "תבריז",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Hafız Caddesi kapatılmış ve geçişler yasaklanmıştır.",
+        "city:tr": "Tebriz",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "خاڵێکی پشکنین",
+        "description:ckb": "شەقامی حافز داخراوە و هاتوچۆ قەدەغە کراوە.",
+        "city:ckb": "تبریز",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "Mzk6NWRhMjBhNDQwOGVk",
+        "publicId": "Mzk6NWRhMjBhNDQwOGVk",
+        "sourceId": "5da20a4408ed",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-13T15:04:36.335Z",
+        "updatedAt": "2026-11-13T15:04:42.231Z"
+      }
     }
   ],
   "metadata": {
-    "total": 297,
+    "total": 298,
     "layerId": 39,
     "clustered": false,
     "simplified": false

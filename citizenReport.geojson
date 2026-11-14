@@ -14753,10 +14753,110 @@
         "createdAt": "2026-11-12T16:13:12.824Z",
         "updatedAt": "2026-11-12T16:13:18.410Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.25291217118502,
+          35.72869949922517
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش حمل لانچر موشکی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1794517257,
+        "description": "حمل لانچر و اسکورت توسط ماشین‌های سپاه در بزرگراه مهدوی کنی",
+        "sources": "",
+        "name:en": "Report of missile launcher transport",
+        "description:en": "Transport of a launcher and escort by IRGC vehicles on Mahdavi Kani Expressway",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "تقرير عن نقل منصة إطلاق صواريخ",
+        "description:ar": "نقل منصة إطلاق صواريخ ومرافقتها بواسطة سيارات الحرس الثوري في طريق مهدوي كني السريع",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "דיווח על הובלת משגר טילים",
+        "description:he": "הובלת משגר וליווי על ידי כלי רכב של משמרות המהפכה בכביש המהיר מהדווי כני",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Füze fırlatıcı nakil raporu",
+        "description:tr": "Mehdevi Kani otoyolunda Devrim Muhafızları araçları tarafından fırlatıcı taşınması ve eskortluk edilmesi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "ڕاپۆرتی گواستنەوەی لانچەری مووشەک",
+        "description:ckb": "گواستنەوەی لانچەر و پاسەوانیکردن لەلایەن ئۆتۆمبێلەکانی سوپاوە لە ڕێگەوبانی خێرای مەهدەوی کەنی",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MzY6ZWMxNDhkN2MwYWZi",
+        "publicId": "MzY6ZWMxNDhkN2MwYWZi",
+        "sourceId": "ec148d7c0afb",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-13T15:07:49.509Z",
+        "updatedAt": "2026-11-13T15:08:08.800Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38634067028761,
+          35.68577273927235
+        ]
+      },
+      "properties": {
+        "name:fa": "مشاهده لانچرهای موشکی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1794516172,
+        "description": "مشاهده کامیون‌ها و تریلی‌های سفید رنگ به سبک لانچرهای موشک خرمشهر ۴ در محدوده خیابان حر تهران",
+        "sources": "",
+        "name:en": "Sighting of missile launchers",
+        "description:en": "Sighting of white trucks and trailers styled like Khorramshahr-4 missile launchers in the vicinity of Hor Street, Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "رصد منصات إطلاق الصواريخ",
+        "description:ar": "رصد شاحنات ومقطورات بيضاء اللون على طراز منصات إطلاق صواريخ خرمشهر 4 في نطاق شارع حر بطهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "תצפית על משגרי טילים",
+        "description:he": "תצפית על משאיות ונגררים לבנים בסגנון משגרי הטילים ח'ורמשהר 4 באזור רחוב חור בטהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Füze lançerlerinin görülmesi",
+        "description:tr": "Tahran'ın Hür Caddesi sınırları içinde, Hürremşehr 4 füze lançerleri tarzında beyaz kamyon ve tırların görülmesi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "بینینی لانچەرە دابڕاوەکانی مووشەک",
+        "description:ckb": "بینینی بارهەڵگر و تراکتۆرە سپییەکان بە شێوازی لانچەرەکانی مووشەکی خەرەمشەهر ٤ لە سنووری خیابانی حوری تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MzY6YTQ3ZmZhZDFhOGU5",
+        "publicId": "MzY6YTQ3ZmZhZDFhOGU5",
+        "sourceId": "a47ffad1a8e9",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-13T15:14:04.995Z",
+        "updatedAt": "2026-11-13T15:14:04.995Z"
+      }
     }
   ],
   "metadata": {
-    "total": 303,
+    "total": 305,
     "layerId": 36,
     "clustered": false,
     "simplified": false

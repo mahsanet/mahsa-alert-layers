@@ -124568,10 +124568,59 @@
         "createdAt": "2026-11-12T03:42:57.107Z",
         "updatedAt": "2026-11-12T03:42:57.107Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4205988496542,
+          35.74654382505561
+        ]
+      },
+      "properties": {
+        "name:fa": "وزارت راه و شهرسازی",
+        "description": "وزارت راه و شهرسازی",
+        "date": 1794581314,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Ministry of Roads and Urban Development",
+        "description:en": "Ministry of Roads and Urban Development",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "وزارة الطرق وإعمار المدن",
+        "description:ar": "وزارة الطرق وإعمار المدن",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "משרד הדרכים והבינוי העירוני",
+        "description:he": "משרד הדרכים והבינוי העירוני",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Ulaştırma ve Şehircilik Bakanlığı",
+        "description:tr": "Ulaştırma ve Şehircilik Bakanlığı",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "وەزارەتی ڕێگا و شارسازی",
+        "description:ckb": "وەزارەتی ڕێگا و شارسازی",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MTc6OGQ3YzZlZmU1M2Zl",
+        "publicId": "MTc6OGQ3YzZlZmU1M2Zl",
+        "sourceId": "8d7c6efe53fe",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-13T15:09:49.577Z",
+        "updatedAt": "2026-11-13T15:09:49.577Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2452,
+    "total": 2453,
     "layerId": 17,
     "clustered": false,
     "simplified": false
