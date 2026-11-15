@@ -93767,10 +93767,141 @@
         "createdAt": "2026-11-12T03:41:19.110Z",
         "updatedAt": "2026-11-12T03:41:19.110Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116042,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.10515775769579,
+              26.5419312110766
+            ],
+            [
+              57.10579917236032,
+              26.541773070299996
+            ],
+            [
+              57.10558128609517,
+              26.54107187079589
+            ],
+            [
+              57.104940989217454,
+              26.541230012525176
+            ],
+            [
+              57.10515775769579,
+              26.5419312110766
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "محل استراحت و تجهیزات نیروهای نظامی در دهستان سیریک، بالاشهر طاهرویی",
+        "date": "",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "name:en": "Military Rest and Equipment Area in Taherui Bala Shahr, Sirik Rural District",
+        "description:en": "Rest and equipment location for military forces in Sirik Rural District, Taherui Bala Shahr",
+        "city:en": "Sirik County",
+        "province:en": "Hormozgan",
+        "description:ar": "مكان استراحة وتجهيزات القوات العسكرية في ناحية سيريك، بالاشهر طاهرويي",
+        "city:ar": "مقاطعة سيريك",
+        "province:ar": "هرمزكان",
+        "description:he": "מקום מנוחה וציוד של כוחות צבאיים במועצה האזורית סיריכּ, באלאשהר טאהרואי",
+        "city:he": "מחוז סיריכּ",
+        "province:he": "הורמוזגאן",
+        "description:ckb": "شوێنی حەوانەوە و کەرەستەی هێزە سەربازییەکان لە دەوڵەتی سیریک، باڵاشاری تاەروویی",
+        "city:ckb": "سیریک",
+        "province:ckb": "ھورمزگان",
+        "description:tr": "Sirik kırsalındaki Balaşehr Tahruyi'de askeri güçlerin dinlenme yeri ve teçhizat alanı",
+        "city:tr": "Sirik",
+        "province:tr": "Hürmüzgan",
+        "id": "MTI6NjkyNTE3Yzk5NTRi",
+        "publicId": "MTI6NjkyNTE3Yzk5NTRi",
+        "sourceId": "692517c9954b",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-14T22:00:29.311Z",
+        "updatedAt": "2026-11-14T22:00:29.311Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116043,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.10532686026761,
+              26.5424808453771
+            ],
+            [
+              57.105809306177946,
+              26.54235851067527
+            ],
+            [
+              57.10565034358555,
+              26.541843311069428
+            ],
+            [
+              57.10516345116713,
+              26.541957689560093
+            ],
+            [
+              57.10532686026761,
+              26.5424808453771
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "محل استراحت و تجهیزات نیروهای نظامی",
+        "date": "",
+        "city": "شهرستان سیریک",
+        "province": "استان هرمزگان",
+        "description:en": "Rest area and equipment depot for military forces",
+        "city:en": "Sirik County",
+        "province:en": "Hormozgan",
+        "description:ar": "مكان استراحة وتجهيزات القوات العسكرية",
+        "city:ar": "مقاطعة سيريك",
+        "province:ar": "هرمزكان",
+        "description:he": "מקום מנוחה וציוד של כוחות צבאיים",
+        "city:he": "מחוז סיריכ",
+        "province:he": "הורמוזגאן",
+        "description:tr": "Askeri kuvvetlerin dinlenme yeri ve ekipmanları",
+        "city:tr": "Sirik",
+        "province:tr": "Hürmüzgan",
+        "description:ckb": "شوێنی پشوودان و کەرەستەی هێزە سەربازییەکان",
+        "city:ckb": "شارستانی سیریک",
+        "province:ckb": "ھورمزگان",
+        "id": "MTI6MThlNGM3ZDFlMDJh",
+        "publicId": "MTI6MThlNGM3ZDFlMDJh",
+        "sourceId": "18e4c7d1e02a",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-14T22:00:52.994Z",
+        "updatedAt": "2026-11-14T22:00:52.994Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1132,
+    "total": 1134,
     "layerId": 12,
     "clustered": false,
     "simplified": false

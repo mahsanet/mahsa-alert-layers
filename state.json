@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-14T02:00:19.372Z",
-  "serial": 9423,
+  "lastUpdated": "2026-11-15T02:00:12.760Z",
+  "serial": 9477,
   "layers": {
     "40": "2c8342a484e6422ed2d96252d1aeb5403273f825",
     "missilePrograms": "a9267bd234e8ae84887958ab51fd1589fcf4b7b0",
@@ -24,7 +24,7 @@
     "basijBase": "49ab1e2e88e4c0853c975daa58c24781b0f8bafe",
     "culturePoint": "ca674bd14d97125282a06385ca48915714a75292",
     "marakezGhazayi": "9ff21b6ef3ac0c2cc6a9577d31b30ec8c7220bed",
-    "unknownBase": "8ef629be623f5e4a01bb62d4a8b0938ea021feb9",
+    "unknownBase": "810d9f5111fdca8587bc6c38c0e23e6aed1cd7b4",
     "hospital": "91f84a0ad9f2753b7e1fcdbc8363e82dfcfbd630",
     "citizenReport": "2dbb7ebd84b8236b25d64fc6bb75685798d48f51",
     "emergencyBase": "d246765486bac2a2d59fc4f1201054133576a3c1",
@@ -38,9 +38,9 @@
     "pharmacy": "93414598278ad2dda8e3ebc1370f68e5f7656ef4",
     "cameraPoint": "ab55e70c4e158170c25980319b4de56cb0a8ffe8",
     "MaritimeEvents": "93d6bdb0c4865623c8db4b32e6ac432155daef7e",
-    "notam": "eecbfea456db1d3f651e18f23857093b8a0a35bf",
-    "Checkpoint": "412b7e1b12fc2a369cd22b572f05cac4e570bcc9",
-    "regimeGathering": "7a1bf830bbe2d18c6394eae757b14ca31a802e82",
-    "FieldReport": "43e7fc21cab12b64f8ce5a96f168e7204b9df3f5"
+    "notam": "38e234be2f8f03f4ff8fecc5fb6b7a060eeb25da",
+    "Checkpoint": "9bc263162ab0cc4891c55832f2eb92882ea593e2",
+    "regimeGathering": "970c6c7d57131082e77e5a4ada1b39135173c3ee",
+    "FieldReport": "e3bbd8025cbb8f1efb16666026d41c78938b4b15"
   }
 }

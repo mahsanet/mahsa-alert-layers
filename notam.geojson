@@ -780,115 +780,6 @@
     },
     {
       "type": "Feature",
-      "id": 114850,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              47.76667,
-              37.86667
-            ],
-            [
-              47.88333,
-              37.85
-            ],
-            [
-              47.86667,
-              37.95
-            ],
-            [
-              47.75,
-              37.93333
-            ],
-            [
-              47.76667,
-              37.86667
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · سراب (OID126)",
-        "description": "محدوده مشخص‌شده فعال شده است. برای اطلاعات بیشتر به صفحه ۵.۱.۳-۱۲ نشریه اطلاعات هوانوردی (AIP) ارجاع داده شده است.",
-        "notamNumber": "A2442/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
-        "validFrom": "۱۴۰۵/۰۸/۰۵، ۱۵:۲۸",
-        "validTo": "۱۴۰۵/۰۸/۲۳، ۲۰:۰۰",
-        "shapeSource": "منطقه OID126 طبق AIP ایران",
-        "notamSource": "FAA NMS-API",
-        "date": 1793102280,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "replaces": "A2340/26",
-        "areaCodes": "OID126",
-        "city": "شهرستان سراب",
-        "province": "استان آذربایجان شرقی",
-        "name:en": "Aviation Notice · Airspace Restriction · Sarab (OID126)",
-        "description:en": "The specified area has been activated. For more information, refer to page 5.1.3-12 of the Aeronautical Information Publication (AIP).",
-        "city:en": "Sarab",
-        "province:en": "East Azerbaijan",
-        "name:ar": "إشعار الطيران · قيود المجال الجوي · سراب (OID126)",
-        "description:ar": "تم تفعيل المنطقة المحددة. للحصول على مزيد من المعلومات، تمت الإحالة إلى الصفحة 5.1.3-12 من نشرة معلومات الطيران (AIP).",
-        "city:ar": "مقاطعة سراب",
-        "province:ar": "أذربيجان الشرقية",
-        "name:he": "הודעה לתעופה · הגבלת המרחב האווירי · סראב (OID126)",
-        "description:he": "האזור המוגדר הופעל. למידע נוסף ניתן לעיין בעמוד 5.1.3-12 של פרסום מידע תעופתי (AIP).",
-        "city:he": "סראב",
-        "province:he": "אזרבייג'ן המזרחית",
-        "name:tr": "Havacılık Bildirisi · Hava Sahası Kısıtlaması · Sarab (OID126)",
-        "description:tr": "Belirtilen alan aktif hale getirilmiştir. Daha fazla bilgi için Havacılık Bilgi Yayını'nın (AIP) 5.1.3-12 sayfasına yönlendirme yapılmıştır.",
-        "city:tr": "Sarab",
-        "province:tr": "Doğu Azerbaycan",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشاییی ئاسمانی · سەراب (OID126)",
-        "description:ckb": "ناوچەی دیاریکراو چالاک کراوە. بۆ زانیاریی زیاتر ڕەوانەی پەڕەی 5.1.3-12ی بڵاوکراوەی زانیاریی فڕۆکەوانی (AIP) کراوە.",
-        "city:ckb": "شارستانی سەراب",
-        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
-        "fir:en": "Tehran FIR (Iran)",
-        "notamCategory:en": "Airspace restriction (prohibited, restricted or danger area)",
-        "validFrom:en": "2026-10-27 15:28",
-        "validTo:en": "2026-11-14 20:00",
-        "flBand:en": "From ground level to unlimited",
-        "shapeSource:en": "Area OID126 per Iran AIP",
-        "fir:ar": "منطقة طيران طهران (إيران)",
-        "notamCategory:ar": "تقييد المجال الجوي (منطقة محظورة أو مقيدة أو خطرة)",
-        "validFrom:ar": "2026-10-27 15:28",
-        "validTo:ar": "2026-11-14 20:00",
-        "flBand:ar": "من سطح الأرض إلى بلا حد للارتفاع",
-        "shapeSource:ar": "المنطقة OID126 وفق AIP إيران",
-        "fir:he": "מרחב הטיסה טהראן (איראן)",
-        "notamCategory:he": "הגבלת מרחב אווירי (אזור אסור, מוגבל או מסוכן)",
-        "validFrom:he": "2026-10-27 15:28",
-        "validTo:he": "2026-11-14 20:00",
-        "flBand:he": "מפני הקרקע עד ללא הגבלת גובה",
-        "shapeSource:he": "אזור OID126 לפי AIP איראן",
-        "fir:tr": "Tahran uçuş bölgesi (İran)",
-        "notamCategory:tr": "Hava sahası kısıtlaması (yasak, kısıtlı veya tehlikeli bölge)",
-        "validFrom:tr": "2026-10-27 15:28",
-        "validTo:tr": "2026-11-14 20:00",
-        "flBand:tr": "yer seviyesi ile sınırsız irtifa arası",
-        "shapeSource:tr": "İran AIP'ye göre OID126 bölgesi",
-        "fir:ckb": "ناوچەی فڕینی تاران (ئێران)",
-        "notamCategory:ckb": "سنووردارکردنی بۆشایی ئاسمانی (ناوچەی قەدەغەکراو، سنووردار یان مەترسیدار)",
-        "validFrom:ckb": "2026-10-27 15:28",
-        "validTo:ckb": "2026-11-14 20:00",
-        "flBand:ckb": "لە ئاستی زەوی تا بێ سنووری بەرزی",
-        "shapeSource:ckb": "ناوچەی OID126 بەپێی AIP ئێران",
-        "id": "Mzg6bm90YW0tb2lpeC1hMjQ0Mi0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1hMjQ0Mi0yNg",
-        "sourceId": "notam-oiix-a2442-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-11-14T16:30:00.000Z",
-        "createdAt": "2026-10-27T12:05:51.692Z",
-        "updatedAt": "2026-10-27T12:05:51.692Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 114851,
       "geometry": {
         "type": "Polygon",
@@ -1101,114 +992,6 @@
         "expirationDate": "2026-11-21T11:30:00.000Z",
         "createdAt": "2026-10-27T12:20:43.217Z",
         "updatedAt": "2026-10-27T12:20:43.217Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 114854,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              45.75,
-              37.083333
-            ],
-            [
-              45.5,
-              37
-            ],
-            [
-              45.083333,
-              37
-            ],
-            [
-              45.5,
-              37.166667
-            ],
-            [
-              45.75,
-              37.083333
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · نقده",
-        "description": "تیراندازی در محدوده مشخص‌شده انجام خواهد شد.",
-        "notamNumber": "B0581/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "validFrom": "۱۴۰۵/۰۸/۰۵، ۱۵:۴۰",
-        "validTo": "۱۴۰۵/۰۸/۲۳، ۲۲:۰۰",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamSource": "FAA NMS-API",
-        "date": 1793103000,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "replaces": "B0536/26",
-        "city": "شهرستان نقده",
-        "province": "استان آذربایجان غربی",
-        "name:en": "Aeronautical Notice · Navigation Warning · Naghadeh",
-        "description:en": "Shooting will take place within the specified area.",
-        "city:en": "Naghadeh County",
-        "province:en": "West Azerbaijan",
-        "name:ar": "إشعار طيران · تحذير ملاحي · نقده",
-        "description:ar": "سيتم إطلاق النار في المنطقة المحددة.",
-        "city:ar": "مقاطعة نقده",
-        "province:ar": "أذربيجان الغربية",
-        "name:he": "הודעת תעופה · אזהרת ניווט · נגאדה",
-        "description:he": "ירי יתבצע באזור המוגדר.",
-        "city:he": "נגאדה",
-        "province:he": "אזרבייג'ן המערבית",
-        "name:tr": "Havacılık Bildirimi · Seyir Uyarısı · Nagadeh",
-        "description:tr": "Belirtilen bölgede atış yapılacaktır.",
-        "city:tr": "Nagadeh İlçesi",
-        "province:tr": "Batı Azerbaycan",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشداریی ڕێناوبەری · نەغەدە",
-        "description:ckb": "تەقەکردن لە ناوچەی دیاریکراودا ئەنجام دەدرێت.",
-        "city:ckb": "شارستانی نەغەدە",
-        "province:ckb": "ئازەربایجانی ڕۆژاوا",
-        "fir:en": "Tehran FIR (Iran)",
-        "notamCategory:en": "Navigation warning (gunfire, exercise, drone and the like)",
-        "validFrom:en": "2026-10-27 15:40",
-        "validTo:en": "2026-11-14 22:00",
-        "flBand:en": "From ground level to unlimited",
-        "shapeSource:en": "Area with the coordinates stated in the NOTAM",
-        "fir:ar": "منطقة طيران طهران (إيران)",
-        "notamCategory:ar": "تحذير ملاحي (إطلاق نار، مناورات، طائرات مسيّرة وما شابه)",
-        "validFrom:ar": "2026-10-27 15:40",
-        "validTo:ar": "2026-11-14 22:00",
-        "flBand:ar": "من سطح الأرض إلى بلا حد للارتفاع",
-        "shapeSource:ar": "منطقة بالإحداثيات المذكورة في الإشعار",
-        "fir:he": "מרחב הטיסה טהראן (איראן)",
-        "notamCategory:he": "אזהרת ניווט (ירי, תרגיל, כטב\"ם וכדומה)",
-        "validFrom:he": "2026-10-27 15:40",
-        "validTo:he": "2026-11-14 22:00",
-        "flBand:he": "מפני הקרקע עד ללא הגבלת גובה",
-        "shapeSource:he": "אזור לפי הקואורדינטות שבנוטאם",
-        "fir:tr": "Tahran uçuş bölgesi (İran)",
-        "notamCategory:tr": "Seyrüsefer uyarısı (atış, tatbikat, İHA ve benzeri)",
-        "validFrom:tr": "2026-10-27 15:40",
-        "validTo:tr": "2026-11-14 22:00",
-        "flBand:tr": "yer seviyesi ile sınırsız irtifa arası",
-        "shapeSource:tr": "NOTAM'da belirtilen koordinatlara göre alan",
-        "fir:ckb": "ناوچەی فڕینی تاران (ئێران)",
-        "notamCategory:ckb": "ئاگاداری ڕێنیشاندان (تەقەکردن، مانۆڕ، درۆن و هاوشێوەکانی)",
-        "validFrom:ckb": "2026-10-27 15:40",
-        "validTo:ckb": "2026-11-14 22:00",
-        "flBand:ckb": "لە ئاستی زەوی تا بێ سنووری بەرزی",
-        "shapeSource:ckb": "ناوچەیەک بە کۆردیناتە ڕاگەیەنراوەکانی ناو نۆتام",
-        "id": "Mzg6bm90YW0tb2lpeC1iMDU4MS0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1iMDU4MS0yNg",
-        "sourceId": "notam-oiix-b0581-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-11-14T18:30:00.000Z",
-        "createdAt": "2026-10-27T12:20:58.295Z",
-        "updatedAt": "2026-10-27T12:20:58.295Z"
       }
     },
     {
@@ -1786,104 +1569,6 @@
         "expirationDate": "2026-11-18T18:30:00.000Z",
         "createdAt": "2026-11-07T11:32:53.916Z",
         "updatedAt": "2026-11-07T11:32:53.916Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 115809,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              49.833333,
-              30.333333
-            ],
-            [
-              50.166667,
-              30.333333
-            ],
-            [
-              50.166667,
-              30.083333
-            ],
-            [
-              49.833333,
-              30.083333
-            ],
-            [
-              49.833333,
-              30.333333
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · منطقه پروازی تهران (ایران)",
-        "description": "تیراندازی نظامی در محدوده مشخص‌شده انجام خواهد شد. این فعالیت از سطح زمین تا ارتفاعات بالاتر اجرا می‌شود.",
-        "notamNumber": "B0603/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "validFrom": "۱۴۰۵/۰۸/۱۸، ۰۹:۱۶",
-        "validTo": "۱۴۰۵/۰۸/۲۳، ۲۲:۰۰",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamSource": "FAA NMS-API",
-        "date": 1794203160,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "replaces": "B0600/26",
-        "fir:en": "Tehran FIR (Iran)",
-        "notamCategory:en": "Navigation warning (gunfire, exercise, drone and the like)",
-        "validFrom:en": "2026-11-09 09:16",
-        "validTo:en": "2026-11-14 22:00",
-        "flBand:en": "From ground level to unlimited",
-        "shapeSource:en": "Area with the coordinates stated in the NOTAM",
-        "fir:ar": "منطقة طيران طهران (إيران)",
-        "notamCategory:ar": "تحذير ملاحي (إطلاق نار، مناورات، طائرات مسيّرة وما شابه)",
-        "validFrom:ar": "2026-11-09 09:16",
-        "validTo:ar": "2026-11-14 22:00",
-        "flBand:ar": "من سطح الأرض إلى بلا حد للارتفاع",
-        "shapeSource:ar": "منطقة بالإحداثيات المذكورة في الإشعار",
-        "fir:he": "מרחב הטיסה טהראן (איראן)",
-        "notamCategory:he": "אזהרת ניווט (ירי, תרגיל, כטב\"ם וכדומה)",
-        "validFrom:he": "2026-11-09 09:16",
-        "validTo:he": "2026-11-14 22:00",
-        "flBand:he": "מפני הקרקע עד ללא הגבלת גובה",
-        "shapeSource:he": "אזור לפי הקואורדינטות שבנוטאם",
-        "fir:tr": "Tahran uçuş bölgesi (İran)",
-        "notamCategory:tr": "Seyrüsefer uyarısı (atış, tatbikat, İHA ve benzeri)",
-        "validFrom:tr": "2026-11-09 09:16",
-        "validTo:tr": "2026-11-14 22:00",
-        "flBand:tr": "yer seviyesi ile sınırsız irtifa arası",
-        "shapeSource:tr": "NOTAM'da belirtilen koordinatlara göre alan",
-        "fir:ckb": "ناوچەی فڕینی تاران (ئێران)",
-        "notamCategory:ckb": "ئاگاداری ڕێنیشاندان (تەقەکردن، مانۆڕ، درۆن و هاوشێوەکانی)",
-        "validFrom:ckb": "2026-11-09 09:16",
-        "validTo:ckb": "2026-11-14 22:00",
-        "flBand:ckb": "لە ئاستی زەوی تا بێ سنووری بەرزی",
-        "shapeSource:ckb": "ناوچەیەک بە کۆردیناتە ڕاگەیەنراوەکانی ناو نۆتام",
-        "name:en": "Aviation Notice · Navigation Warning · Tehran Flight Zone (Iran)",
-        "description:en": "Military shooting will take place within the designated area. This activity will be conducted from ground level to higher altitudes.",
-        "name:ar": "إشعار للطيران · تحذير ملاحي · منطقه الطيران في طهران (إيران)",
-        "description:ar": "سيتم إجراء إطلاق نار عسكري ضمن النطاق المحدد. ينفذ هذا النشاط من سطح الأرض حتى ارتفاعات أعلى.",
-        "name:he": "הודעת תעופה · אזהרת ניווט · אזור הטיסה טהראן (איראן)",
-        "description:he": "ירי צבאי יבוצע בתחום המוגדר. פעילות זו תתבצע מפני הקרקע ועד לגבהים רמים יותר.",
-        "name:tr": "Havacılık Duyurusu · Seyrüsefer Uyarısı · Tahran Uçuş Bölgesi (İran)",
-        "description:tr": "Belirtilen alanda askeri atış yapılacaktır. Bu faaliyet yerden daha yüksek rakımlara kadar gerçekleştirilecektir.",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشداریی ناوبەری · ناوچەی فڕینی تاران (ئێران)",
-        "description:ckb": "تەقەکردنی سەربازی لە سنووری دیاریکراودا ئەنجام درێت. ئەم چالاکییە لە ئاستی زەوییەوە تا بەرزاییەکانی سەرووتر بەڕێوە دەچێت.",
-        "city:ckb": "تاران",
-        "province:ckb": "تاران",
-        "id": "Mzg6bm90YW0tb2lpeC1iMDYwMy0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1iMDYwMy0yNg",
-        "sourceId": "notam-oiix-b0603-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-11-14T18:30:00.000Z",
-        "createdAt": "2026-11-09T08:14:57.634Z",
-        "updatedAt": "2026-11-09T08:14:57.634Z"
       }
     },
     {
@@ -2699,10 +2384,443 @@
         "createdAt": "2026-11-10T18:44:57.501Z",
         "updatedAt": "2026-11-10T18:44:57.501Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116024,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.85,
+              35.416667
+            ],
+            [
+              47,
+              35.416667
+            ],
+            [
+              46.85,
+              35.25
+            ],
+            [
+              46.75,
+              35.333333
+            ],
+            [
+              46.85,
+              35.416667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · سنندج",
+        "description": "تیراندازی در یک محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "A2585/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۸/۲۴، ۱۴:۰۰",
+        "validTo": "۱۴۰۵/۰۹/۱۵، ۱۷:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1794738600,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "city": "شهرستان سنندج",
+        "province": "استان کردستان",
+        "fir:en": "Tehran FIR (Iran)",
+        "notamCategory:en": "Navigation warning (gunfire, exercise, drone and the like)",
+        "validFrom:en": "2026-11-15 14:00",
+        "validTo:en": "2026-12-06 17:00",
+        "flBand:en": "From ground level to unlimited",
+        "shapeSource:en": "Area with the coordinates stated in the NOTAM",
+        "fir:ar": "منطقة طيران طهران (إيران)",
+        "notamCategory:ar": "تحذير ملاحي (إطلاق نار، مناورات، طائرات مسيّرة وما شابه)",
+        "validFrom:ar": "2026-11-15 14:00",
+        "validTo:ar": "2026-12-06 17:00",
+        "flBand:ar": "من سطح الأرض إلى بلا حد للارتفاع",
+        "shapeSource:ar": "منطقة بالإحداثيات المذكورة في الإشعار",
+        "fir:he": "מרחב הטיסה טהראן (איראן)",
+        "notamCategory:he": "אזהרת ניווט (ירי, תרגיל, כטב\"ם וכדומה)",
+        "validFrom:he": "2026-11-15 14:00",
+        "validTo:he": "2026-12-06 17:00",
+        "flBand:he": "מפני הקרקע עד ללא הגבלת גובה",
+        "shapeSource:he": "אזור לפי הקואורדינטות שבנוטאם",
+        "fir:tr": "Tahran uçuş bölgesi (İran)",
+        "notamCategory:tr": "Seyrüsefer uyarısı (atış, tatbikat, İHA ve benzeri)",
+        "validFrom:tr": "2026-11-15 14:00",
+        "validTo:tr": "2026-12-06 17:00",
+        "flBand:tr": "yer seviyesi ile sınırsız irtifa arası",
+        "shapeSource:tr": "NOTAM'da belirtilen koordinatlara göre alan",
+        "fir:ckb": "ناوچەی فڕینی تاران (ئێران)",
+        "notamCategory:ckb": "ئاگاداری ڕێنیشاندان (تەقەکردن، مانۆڕ، درۆن و هاوشێوەکانی)",
+        "validFrom:ckb": "2026-11-15 14:00",
+        "validTo:ckb": "2026-12-06 17:00",
+        "flBand:ckb": "لە ئاستی زەوی تا بێ سنووری بەرزی",
+        "shapeSource:ckb": "ناوچەیەک بە کۆردیناتە ڕاگەیەنراوەکانی ناو نۆتام",
+        "name:en": "Aviation Notice · Navigation Warning · Sanandaj",
+        "description:en": "Shooting will be conducted within a designated area.",
+        "city:en": "Sanandaj County",
+        "province:en": "Kurdistan",
+        "name:ar": "إشعار طيران · تحذير ملاحة · سنندج",
+        "description:ar": "سيتم إطلاق النار في منطقة محددة.",
+        "city:ar": "سنندج",
+        "province:ar": "كردستان",
+        "name:he": "הודעת תעופה · אזהרת ניווט · סננדג'",
+        "description:he": "ירי יבוצע באזור מוגדר.",
+        "city:he": "מחוז סננדג'",
+        "province:he": "כורדיסטאן",
+        "name:tr": "Havacılık Duyurusu · Seyir Uyarısı · Sendaj",
+        "description:tr": "Atışlar belirlenmiş bir alanda gerçekleştirilecektir.",
+        "city:tr": "Sendaj",
+        "province:tr": "Kürdistan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشداریی نەویگەیشن · سنە",
+        "description:ckb": "تەقەکردن لە ناوچەیەکی دیاریکراودا ئەنجام دەدرێت.",
+        "city:ckb": "سنە",
+        "province:ckb": "کوردستان",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjU4NS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjU4NS0yNg",
+        "sourceId": "notam-oiix-a2585-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-12-06T13:30:00.000Z",
+        "createdAt": "2026-11-14T08:24:17.881Z",
+        "updatedAt": "2026-11-14T08:24:17.881Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116025,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.751944,
+              35.006111
+            ],
+            [
+              48.756389,
+              34.9675
+            ],
+            [
+              48.645833,
+              34.954722
+            ],
+            [
+              48.640278,
+              34.993889
+            ],
+            [
+              48.751944,
+              35.006111
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · کبودرآهنگ",
+        "description": "تیراندازی در یک محدوده مشخص‌شده انجام خواهد شد.",
+        "notamNumber": "A2598/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۸/۲۴، ۰۷:۰۰",
+        "validTo": "۱۴۰۵/۰۸/۲۵، ۱۸:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1794713400,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "fir:en": "Tehran FIR (Iran)",
+        "notamCategory:en": "Navigation warning (gunfire, exercise, drone and the like)",
+        "validFrom:en": "2026-11-15 07:00",
+        "validTo:en": "2026-11-16 18:00",
+        "flBand:en": "From ground level to unlimited",
+        "shapeSource:en": "Area with the coordinates stated in the NOTAM",
+        "fir:ar": "منطقة طيران طهران (إيران)",
+        "notamCategory:ar": "تحذير ملاحي (إطلاق نار، مناورات، طائرات مسيّرة وما شابه)",
+        "validFrom:ar": "2026-11-15 07:00",
+        "validTo:ar": "2026-11-16 18:00",
+        "flBand:ar": "من سطح الأرض إلى بلا حد للارتفاع",
+        "shapeSource:ar": "منطقة بالإحداثيات المذكورة في الإشعار",
+        "fir:he": "מרחב הטיסה טהראן (איראן)",
+        "notamCategory:he": "אזהרת ניווט (ירי, תרגיל, כטב\"ם וכדומה)",
+        "validFrom:he": "2026-11-15 07:00",
+        "validTo:he": "2026-11-16 18:00",
+        "flBand:he": "מפני הקרקע עד ללא הגבלת גובה",
+        "shapeSource:he": "אזור לפי הקואורדינטות שבנוטאם",
+        "fir:tr": "Tahran uçuş bölgesi (İran)",
+        "notamCategory:tr": "Seyrüsefer uyarısı (atış, tatbikat, İHA ve benzeri)",
+        "validFrom:tr": "2026-11-15 07:00",
+        "validTo:tr": "2026-11-16 18:00",
+        "flBand:tr": "yer seviyesi ile sınırsız irtifa arası",
+        "shapeSource:tr": "NOTAM'da belirtilen koordinatlara göre alan",
+        "fir:ckb": "ناوچەی فڕینی تاران (ئێران)",
+        "notamCategory:ckb": "ئاگاداری ڕێنیشاندان (تەقەکردن، مانۆڕ، درۆن و هاوشێوەکانی)",
+        "validFrom:ckb": "2026-11-15 07:00",
+        "validTo:ckb": "2026-11-16 18:00",
+        "flBand:ckb": "لە ئاستی زەوی تا بێ سنووری بەرزی",
+        "shapeSource:ckb": "ناوچەیەک بە کۆردیناتە ڕاگەیەنراوەکانی ناو نۆتام",
+        "name:en": "Aeronautical Notice · Navigation Warning · Kabudarahang",
+        "description:en": "Shooting will be conducted within a designated area.",
+        "city:en": "Kabudarahang",
+        "province:en": "Hamadan",
+        "name:ar": "إشعار طيران · تحذير ملاحة · كبودراهنغ",
+        "description:ar": "سيتم إطلاق النار في منطقة محددة.",
+        "city:ar": "مقاطعة كبودراهنغ",
+        "province:ar": "همدان",
+        "name:he": "הודעת תעופה · אזהרת ניווט · כאבודראנאג'",
+        "description:he": "ירי יבוצע באזור מוגדר.",
+        "city:he": "מחוז כאבודראנאג'",
+        "province:he": "המדאן",
+        "name:tr": "Havacılık Duyurusu · Seyrüsefer Uyarısı · Kabudarahang",
+        "description:tr": "Belirtilen bir bölgede atış yapılacaktır.",
+        "city:tr": "Kabudarahang",
+        "province:tr": "Hemedan",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشداریی هاتووچۆی دەریایی و ئاسمانی · کەموودرەهەنگ",
+        "description:ckb": "تەقەکردن لە ناوچەیەکی دیاریکراودا ئەنجام دەدرێت.",
+        "city:ckb": "کەموودرەهەنگ",
+        "province:ckb": "ھەمەدان",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjU5OC0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjU5OC0yNg",
+        "sourceId": "notam-oiix-a2598-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-16T14:30:00.000Z",
+        "createdAt": "2026-11-14T09:42:37.741Z",
+        "updatedAt": "2026-11-14T09:42:37.741Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116026,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.99028,
+              34.34528
+            ],
+            [
+              45.99028,
+              34.29167
+            ],
+            [
+              46.02139,
+              34.29167
+            ],
+            [
+              46.02139,
+              34.34528
+            ],
+            [
+              45.99028,
+              34.34528
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · محدودیت فضای هوایی · سرپل ذهاب (OID37)",
+        "description": "پیرو صفحه ENR 5.1.3-4 در کتاب اطلاعات هوانوردی (AIP)، منطقه مشخص‌شده فعال شده است.",
+        "notamNumber": "A2603/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "محدودیت فضای هوایی (منطقه ممنوعه، محدود یا خطر)",
+        "validFrom": "۱۴۰۵/۰۸/۳۰، ۰۸:۰۰",
+        "validTo": "۱۴۰۵/۰۹/۰۵، ۲۲:۰۰",
+        "shapeSource": "منطقه OID37 طبق AIP ایران",
+        "notamSource": "FAA NMS-API",
+        "date": 1795235400,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "areaCodes": "OID37",
+        "city": "شهرستان سرپل ذهاب",
+        "province": "استان کرمانشاه",
+        "fir:en": "Tehran FIR (Iran)",
+        "notamCategory:en": "Airspace restriction (prohibited, restricted or danger area)",
+        "validFrom:en": "2026-11-21 08:00",
+        "validTo:en": "2026-11-26 22:00",
+        "flBand:en": "From ground level to unlimited",
+        "shapeSource:en": "Area OID37 per Iran AIP",
+        "fir:ar": "منطقة طيران طهران (إيران)",
+        "notamCategory:ar": "تقييد المجال الجوي (منطقة محظورة أو مقيدة أو خطرة)",
+        "validFrom:ar": "2026-11-21 08:00",
+        "validTo:ar": "2026-11-26 22:00",
+        "flBand:ar": "من سطح الأرض إلى بلا حد للارتفاع",
+        "shapeSource:ar": "المنطقة OID37 وفق AIP إيران",
+        "fir:he": "מרחב הטיסה טהראן (איראן)",
+        "notamCategory:he": "הגבלת מרחב אווירי (אזור אסור, מוגבל או מסוכן)",
+        "validFrom:he": "2026-11-21 08:00",
+        "validTo:he": "2026-11-26 22:00",
+        "flBand:he": "מפני הקרקע עד ללא הגבלת גובה",
+        "shapeSource:he": "אזור OID37 לפי AIP איראן",
+        "fir:tr": "Tahran uçuş bölgesi (İran)",
+        "notamCategory:tr": "Hava sahası kısıtlaması (yasak, kısıtlı veya tehlikeli bölge)",
+        "validFrom:tr": "2026-11-21 08:00",
+        "validTo:tr": "2026-11-26 22:00",
+        "flBand:tr": "yer seviyesi ile sınırsız irtifa arası",
+        "shapeSource:tr": "İran AIP'ye göre OID37 bölgesi",
+        "fir:ckb": "ناوچەی فڕینی تاران (ئێران)",
+        "notamCategory:ckb": "سنووردارکردنی بۆشایی ئاسمانی (ناوچەی قەدەغەکراو، سنووردار یان مەترسیدار)",
+        "validFrom:ckb": "2026-11-21 08:00",
+        "validTo:ckb": "2026-11-26 22:00",
+        "flBand:ckb": "لە ئاستی زەوی تا بێ سنووری بەرزی",
+        "shapeSource:ckb": "ناوچەی OID37 بەپێی AIP ئێران",
+        "name:en": "Aeronautical Notice · Airspace Restriction · Sarpol-e Zahab (OID37)",
+        "description:en": "Following page ENR 5.1.3-4 in the Aeronautical Information Publication (AIP), the designated area has been activated.",
+        "city:en": "Sarpol-e Zahab County",
+        "province:en": "Kermanshah",
+        "name:ar": "إشعار طيران · قيود على المجال الجوي · سربل ذهاب (OID37)",
+        "description:ar": "وفقاً للصفحة ENR 5.1.3-4 في دليل معلومات الطيران (AIP)، تم تفعيل المنطقة المحمدة.",
+        "city:ar": "مقاطعة سربل ذهاب",
+        "province:ar": "كرمانشاه",
+        "name:he": "הודעת תעופה · הגבלת מרחב אוויר · סרפול-ה זהאב (OID37)",
+        "description:he": "בהמשך לעמוד ENR 5.1.3-4 בספר מידע התעופה (AIP), האזור המסומן הופעל.",
+        "city:he": "נפת סרפול-ה זהאב",
+        "province:he": "כרמאנשאה",
+        "name:tr": "Havacılık Bildirisi · Hava Sahası Kısıtlaması · Serpol-e Zahab (OID37)",
+        "description:tr": "Havacılık Bilgi Yayınındaki (AIP) ENR 5.1.3-4 sayfası uyarınca, belirtilen bölge aktif hale getirilmiştir.",
+        "city:tr": "Serpol-e Zahab",
+        "province:tr": "Kirmanşah",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · سنووردارکردنی بۆشایی ئاسمانی · سەرپێلی زەهاو (OID37)",
+        "description:ckb": "بەپێی پەڕەی ENR 5.1.3-4 لە کتێبی زانیاریی فڕۆکەوانیدا (AIP)، ناوچە دیاریکراوەکە چالاک کراوە.",
+        "city:ckb": "سەرپێلی زەهاو",
+        "province:ckb": "کرماشان",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjYwMy0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjYwMy0yNg",
+        "sourceId": "notam-oiix-a2603-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-11-26T18:30:00.000Z",
+        "createdAt": "2026-11-14T10:42:38.133Z",
+        "updatedAt": "2026-11-14T10:42:38.133Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116027,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.367222,
+              27.912222
+            ],
+            [
+              52.424167,
+              27.861389
+            ],
+            [
+              52.383611,
+              27.825833
+            ],
+            [
+              52.360833,
+              27.842778
+            ],
+            [
+              52.325,
+              27.887222
+            ],
+            [
+              52.367222,
+              27.912222
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · جم",
+        "description": "تیراندازی در یک محدوده مشخص‌شده انجام خواهد شد. این فعالیت از سطح زمین تا ارتفاع نامحدود صورت می‌گیرد.",
+        "notamNumber": "B0607/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
+        "validFrom": "۱۴۰۵/۰۹/۱۸، ۰۸:۰۰",
+        "validTo": "۱۴۰۵/۰۹/۲۰، ۱۵:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1796790600,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "city": "شهرستان جم",
+        "province": "استان بوشهر",
+        "fir:en": "Tehran FIR (Iran)",
+        "notamCategory:en": "Navigation warning (gunfire, exercise, drone and the like)",
+        "validFrom:en": "2026-12-09 08:00",
+        "validTo:en": "2026-12-11 15:00",
+        "flBand:en": "From ground level to unlimited",
+        "shapeSource:en": "Area with the coordinates stated in the NOTAM",
+        "fir:ar": "منطقة طيران طهران (إيران)",
+        "notamCategory:ar": "تحذير ملاحي (إطلاق نار، مناورات، طائرات مسيّرة وما شابه)",
+        "validFrom:ar": "2026-12-09 08:00",
+        "validTo:ar": "2026-12-11 15:00",
+        "flBand:ar": "من سطح الأرض إلى بلا حد للارتفاع",
+        "shapeSource:ar": "منطقة بالإحداثيات المذكورة في الإشعار",
+        "fir:he": "מרחב הטיסה טהראן (איראן)",
+        "notamCategory:he": "אזהרת ניווט (ירי, תרגיל, כטב\"ם וכדומה)",
+        "validFrom:he": "2026-12-09 08:00",
+        "validTo:he": "2026-12-11 15:00",
+        "flBand:he": "מפני הקרקע עד ללא הגבלת גובה",
+        "shapeSource:he": "אזור לפי הקואורדינטות שבנוטאם",
+        "fir:tr": "Tahran uçuş bölgesi (İran)",
+        "notamCategory:tr": "Seyrüsefer uyarısı (atış, tatbikat, İHA ve benzeri)",
+        "validFrom:tr": "2026-12-09 08:00",
+        "validTo:tr": "2026-12-11 15:00",
+        "flBand:tr": "yer seviyesi ile sınırsız irtifa arası",
+        "shapeSource:tr": "NOTAM'da belirtilen koordinatlara göre alan",
+        "fir:ckb": "ناوچەی فڕینی تاران (ئێران)",
+        "notamCategory:ckb": "ئاگاداری ڕێنیشاندان (تەقەکردن، مانۆڕ، درۆن و هاوشێوەکانی)",
+        "validFrom:ckb": "2026-12-09 08:00",
+        "validTo:ckb": "2026-12-11 15:00",
+        "flBand:ckb": "لە ئاستی زەوی تا بێ سنووری بەرزی",
+        "shapeSource:ckb": "ناوچەیەک بە کۆردیناتە ڕاگەیەنراوەکانی ناو نۆتام",
+        "name:en": "Aviation Notice · Navigation Warning · Jam",
+        "description:en": "Shooting will take place in a designated area. This activity will be conducted from the ground level up to an unlimited altitude.",
+        "city:en": "Jam",
+        "province:en": "Bushehr",
+        "name:ar": "إشعار للطيران · تحذير ملاحة · جم",
+        "description:ar": "سيتم إطلاق النار في منطقة محددة. ينشط هذا النشاط من سطح الأرض حتى ارتفاع غير محدود.",
+        "city:ar": "مقاطعة جم",
+        "province:ar": "بوشهر",
+        "name:he": "הודעת תעופה · אזהרת ניווט · ג'ם",
+        "description:he": "ירי יבוצע באזור מוגדר. פעילות זו תתרחש מגובה הקרקע ועד לגובה בלתי מוגבל.",
+        "city:he": "מחוז ג'ם",
+        "province:he": "בושהר",
+        "name:tr": "Havacılık Duyurusu · Seyrüsefer Uyarısı · Cem",
+        "description:tr": "Atışlar belirlenmiş bir alanda gerçekleştirilecektir. Bu faaliyet yer seviyesinden sınırsız yüksekliğe kadar yapılacaktır.",
+        "city:tr": "Cem",
+        "province:tr": "Buşehr",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشداریی هاتووچۆی دەریایی و ئاسمانی · جەم",
+        "description:ckb": "تیرباران لە ناوچەیەکی دیاریکراودا ئەنجام دەدرێت. ئەم چالاکییە لە زەوییەوە تا بەرزاییەکی نادیار بەڕێوە دەچێت.",
+        "city:ckb": "جەم",
+        "province:ckb": "بووشەھر",
+        "id": "Mzg6bm90YW0tb2lpeC1iMDYwNy0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1iMDYwNy0yNg",
+        "sourceId": "notam-oiix-b0607-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-12-11T11:30:00.000Z",
+        "createdAt": "2026-11-14T10:57:37.313Z",
+        "updatedAt": "2026-11-14T10:57:37.313Z"
+      }
     }
   ],
   "metadata": {
-    "total": 16,
+    "total": 17,
     "layerId": 38,
     "clustered": false,
     "simplified": false

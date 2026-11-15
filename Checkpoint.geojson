@@ -9858,55 +9858,6 @@
     },
     {
       "type": "Feature",
-      "id": 93474,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.14769658590586,
-          35.64474931740047
-        ]
-      },
-      "properties": {
-        "name:fa": "ایست بازرسی",
-        "description": "گاهی ایست بازرسی",
-        "date": 1783340442,
-        "city": "شهرستان شهریار",
-        "province": "استان تهران",
-        "name:en": "Checkpoint",
-        "description:en": "Occasional checkpoint",
-        "city:en": "Shahriar County",
-        "province:en": "Tehran",
-        "name:ar": "نقطة تفتيش",
-        "description:ar": "نقطة تفتيش في بعض الأحيان",
-        "city:ar": "قضاء شهريار",
-        "province:ar": "طهران",
-        "name:he": "מחסום בדיקה",
-        "description:he": "לעיתים מחסום בדיקה",
-        "city:he": "שהריאר",
-        "province:he": "טהראן",
-        "name:tr": "Kontrol Noktası",
-        "description:tr": "Bazen kontrol noktası kuruluyor.",
-        "city:tr": "Şehriyar",
-        "province:tr": "Tahran",
-        "name:ckb": "بازگەی پشکنین",
-        "description:ckb": "هەندێک جار بازگەی پشکنین",
-        "city:ckb": "شارستانی شەهریار",
-        "province:ckb": "تاران",
-        "id": "Mzk6MDhmMjNkMGFjNjI0",
-        "publicId": "Mzk6MDhmMjNkMGFjNjI0",
-        "sourceId": "08f23d0ac624",
-        "layerId": 39,
-        "type": "event",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": "not-verified",
-        "expirationDate": null,
-        "createdAt": "2026-07-13T01:17:15.170Z",
-        "updatedAt": "2026-10-14T20:26:36.650Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 93799,
       "geometry": {
         "type": "Point",
@@ -14499,6 +14450,56 @@
         "expirationDate": null,
         "createdAt": "2026-11-13T15:04:36.335Z",
         "updatedAt": "2026-11-13T15:04:42.231Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116041,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.14739004522562,
+          35.64476403864066
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "شهرستان شهریار",
+        "province": "استان تهران",
+        "date": 1794597043,
+        "description": "ایست بازرسی سر دهمویز",
+        "sources": "",
+        "name:en": "Checkpost",
+        "description:en": "Sar Dahmouiz checkpost",
+        "city:en": "Shahriar County",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش سر دهمويز",
+        "city:ar": "مقاطعة شهريار",
+        "province:ar": "طهران",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה סר דהמביז",
+        "city:he": "שהריאר",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Ser Dehmoviz kontrol noktası",
+        "city:tr": "Şehriyar",
+        "province:tr": "Tahran",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنینی سەر دەهۆویز",
+        "city:ckb": "شارستانی شەهریار",
+        "province:ckb": "تاران",
+        "id": "Mzk6NjNmNmQ3OGM2NzI3",
+        "publicId": "Mzk6NjNmNmQ3OGM2NzI3",
+        "sourceId": "63f6d78c6727",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-14T21:59:03.476Z",
+        "updatedAt": "2026-11-14T21:59:24.474Z"
       }
     }
   ],

@@ -22508,10 +22508,110 @@
         "createdAt": "2026-11-12T14:48:46.136Z",
         "updatedAt": "2026-11-12T14:48:46.136Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116039,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.97501713037491,
+          35.25144758913113
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای حکومتی",
+        "city": "بردسكن",
+        "province": "استان خراسان رضوی",
+        "date": 1794608001,
+        "description": "تجمع نیروهای حکومتی",
+        "sources": "",
+        "name:en": "Gathering of government forces",
+        "description:en": "Gathering of government forces",
+        "city:en": "Bardaskan",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "تجمع القوات الحكومية",
+        "description:ar": "تجمع القوات الحكومية",
+        "city:ar": "بردسكن",
+        "province:ar": "خراسان رضوي",
+        "name:he": "התקהלות כוחות השלטון",
+        "description:he": "התקהלות כוחות השלטון",
+        "city:he": "ברדסכן",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:tr": "Hükümet güçlerinin toplanması",
+        "description:tr": "Hükümet güçlerinin toplanması",
+        "city:tr": "Berdeskan",
+        "province:tr": "Razavi Horasan",
+        "name:ckb": "کۆبوونەوەی هێزە حکومییەکان",
+        "description:ckb": "کۆبوونەوەی هێزە حکومییەکان",
+        "city:ckb": "بەردەسکەن",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "NDA6M2NjNTEyNTgyYTA1",
+        "publicId": "NDA6M2NjNTEyNTgyYTA1",
+        "sourceId": "3cc512582a05",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-14T21:58:19.367Z",
+        "updatedAt": "2026-11-14T21:58:19.367Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116040,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.15794587880373,
+          36.507678895929274
+        ]
+      },
+      "properties": {
+        "name:fa": "تجمع نیروهای نظامی",
+        "city": "کلاردشت",
+        "province": "استان مازندران",
+        "date": 1794607546,
+        "description": "حضور و تجمع تعداد زیادی نیرو و سرباز در محل",
+        "sources": "",
+        "name:en": "Gathering of military forces",
+        "description:en": "Presence and gathering of a large number of forces and soldiers at the location",
+        "city:en": "Kelardasht",
+        "province:en": "Mazandaran",
+        "name:ar": "تجمع القوات العسكرية",
+        "description:ar": "وجود وتجمع عدد كبير من القوات والجنود في الموقع",
+        "city:ar": "كلاردشت",
+        "province:ar": "مازندران",
+        "name:he": "התקהלות כוחות צבאיים",
+        "description:he": "נוכחות והתקהלות של מספר רב של כוחות וחיילים במקום",
+        "city:he": "קלארדשת",
+        "province:he": "מאזנדראן",
+        "name:tr": "Askeri kuvvetlerin toplanması",
+        "description:tr": "Bölgede çok sayıda asker ve personelin varlığı ve toplanması",
+        "city:tr": "Kelardüşt",
+        "province:tr": "Mazenderan",
+        "name:ckb": "کۆبوونەوەی هێزە سەربازییەکان",
+        "description:ckb": "ئامادەبوون و کۆبوونەوەی ژمارەیەکی زۆر لە هێز و سەرباز لە شوێنەکەدا",
+        "city:ckb": "کەلاردەشت",
+        "province:ckb": "مازەندەران",
+        "id": "NDA6MTQ1ZDE5ZWJmYTcx",
+        "publicId": "NDA6MTQ1ZDE5ZWJmYTcx",
+        "sourceId": "145d19ebfa71",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-14T21:58:39.739Z",
+        "updatedAt": "2026-11-14T21:58:39.739Z"
+      }
     }
   ],
   "metadata": {
-    "total": 459,
+    "total": 461,
     "layerId": 40,
     "clustered": false,
     "simplified": false
