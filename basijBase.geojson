@@ -106784,10 +106784,60 @@
         "createdAt": "2026-11-13T15:15:39.572Z",
         "updatedAt": "2026-11-13T15:15:39.572Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.54637835919857,
+          32.86973662564047
+        ]
+      },
+      "properties": {
+        "name:fa": "حوزه مقاومت امام محمد باقر",
+        "unofficial_name:fa": "",
+        "description": "حوزه مقاومت امام محمد باقر شاهین‌شهر",
+        "date": 1794607688,
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Imam Mohammad Bagher Resistance Base",
+        "description:en": "Imam Mohammad Bagher Resistance Base in Shahin Shahr",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "مركز مقاومة الإمام محمد الباقر",
+        "description:ar": "مركز مقاومة الإمام محمد الباقر في شاهين شهر",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "אזור התנגדות אימאם מוחמד באקר",
+        "description:he": "אזור התנגדות אימאם מוחמד באקר שאהין שהר",
+        "city:he": "שאהין שהר",
+        "province:he": "אספהאן",
+        "name:tr": "İmam Muhammed Bakır Direniş Üssü",
+        "description:tr": "Şahinşehr İmam Muhammed Bakır Direniş Üssü",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "حەوزی بەرگریی ئیمام محەمەد باقر",
+        "description:ckb": "حەوزی بەرگریی ئیمام محەمەد باقری شاهینشار",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTpjNDRjZjk2YTlhODk",
+        "publicId": "MTpjNDRjZjk2YTlhODk",
+        "sourceId": "c44cf96a9a89",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-15T06:37:12.743Z",
+        "updatedAt": "2026-11-15T06:37:12.743Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2398,
+    "total": 2399,
     "layerId": 1,
     "clustered": false,
     "simplified": false

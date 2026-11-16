@@ -6352,10 +6352,65 @@
         "createdAt": "2026-11-12T14:05:45.895Z",
         "updatedAt": "2026-11-12T14:05:45.895Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116084,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.916666666666664,
+          26.316666666666666
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش دریایی · حمله · جنوب خلیج فارس",
+        "description": "گزارشی از حمله به یک نفتکش در حال عبور از خلیج فارس به سمت شرق، پیش از ورود به تنگه هرمز دریافت شده است. تمامی خدمه سالم و در امان هستند. ارزیابی میزان خسارت و پیامدهای زیست‌محیطی در زمان تنظیم گزارش مشخص نیست.",
+        "incidentKind": "حمله",
+        "vesselType": "نفت‌کش",
+        "date": 1794708000,
+        "area": "جنوب خلیج فارس",
+        "incidentKind:en": "Attack",
+        "vesselType:en": "Tanker",
+        "area:en": "Southern Persian Gulf",
+        "incidentKind:ar": "هجوم",
+        "vesselType:ar": "ناقلة",
+        "area:ar": "جنوب الخليج الفارسي",
+        "incidentKind:he": "תקיפה",
+        "vesselType:he": "מכלית",
+        "area:he": "דרום המפרץ הפרסי",
+        "incidentKind:tr": "Saldırı",
+        "vesselType:tr": "Tanker",
+        "area:tr": "Basra Körfezi'nin güneyi",
+        "incidentKind:ckb": "هێرش",
+        "vesselType:ckb": "تانکەر",
+        "area:ckb": "باشووری کەنداوی فارس",
+        "name:en": "Maritime Report · Attack · Southern Persian Gulf",
+        "description:en": "A report has been received regarding an attack on an oil tanker transiting the Persian Gulf eastward, prior to entering the Strait of Hormuz. All crew members are safe and secure. The extent of damage and environmental consequences are not known at the time of this report.",
+        "name:ar": "تقرير بحري · هجوم · جنوب الخليج العربي",
+        "description:ar": "ورد تقرير عن هجوم استهدف ناقلة نفط أثناء عبورها الخليج العربي باتجاه الشرق، قبل دخولها مضيق هرمز. جميع أفراد الطاقم بخير وفي أمان. ولم يتحدد بعد تقييم حجم الأضرار والآثار البيئية حتى وقت إعداد هذا التقرير.",
+        "name:he": "דיווח ימי · תקיפה · דרום המפרץ הפרסי",
+        "description:he": "התקבל דיווח על תקיפת מכלית נפט שהייתה בדרכה מזרחה במפרץ הפרסי, בטרם כניסתה למצרי הורמוז. כל אנשי הצוות בריאים ושלמים. הערכת היקף הנזק וההשלכות הסביבתיות טרם הושלמה נכון למועד כתיבת הדיווח.",
+        "name:tr": "Deniz Raporu · Saldırı · Basra Körfezi'nin Güneyi",
+        "description:tr": "Hürmüz Boğazı'na girmeden önce Basra Körfezi'nden doğuya doğru seyir halindeki bir petrol tankerine saldırıldığına dair bir rapor alınmıştır. Tüm mürettebat sağ salim ve güvendedir. Hasarın boyutunun ve çevresel etkilerin değerlendirilmesi raporun düzenlendiği sırada bilinmemektedir.",
+        "name:ckb": "ڕاپۆرتی دەریایی · هێرش · باشووری کەنداوی فارس",
+        "description:ckb": "ڕاپۆرتێک سەبارەت بە هێرش بۆ سەر نەوتکێشێک کە لە کەنداوی فارسەوە بەرەو ڕۆژهەڵات تێدەپەڕی، پێش چوونە ناو تەنگەی هورمز پێگەیشتووە. سەرجەم تاقمەکە سەلامەت و لە پارێزیدان. هەڵسەنگاندنی قەبارەی زیانەکان و لێککەوتە ژینگەیییەکان لە کاتی ڕاگەیاندنی ئەم هەواڵەدا دیار نییە.",
+        "id": "Mzc6dWttdG8tdWttdG8tMjA1",
+        "publicId": "Mzc6dWttdG8tdWttdG8tMjA1",
+        "sourceId": "ukmto-ukmto-205",
+        "layerId": 37,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-15T12:07:45.810Z",
+        "updatedAt": "2026-11-15T12:07:45.810Z"
+      }
     }
   ],
   "metadata": {
-    "total": 105,
+    "total": 106,
     "layerId": 37,
     "clustered": false,
     "simplified": false

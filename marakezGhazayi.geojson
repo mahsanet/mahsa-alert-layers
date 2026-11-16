@@ -65996,10 +65996,73 @@
         "createdAt": "2026-11-12T03:39:57.182Z",
         "updatedAt": "2026-11-12T03:39:57.182Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116064,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.79687405550678,
+              32.48045119193701
+            ],
+            [
+              51.79770475800072,
+              32.48057126479149
+            ],
+            [
+              51.797807637652085,
+              32.48003552048114
+            ],
+            [
+              51.797916360069706,
+              32.47951520688933
+            ],
+            [
+              51.79709977117142,
+              32.47939166388555
+            ],
+            [
+              51.79687405550678,
+              32.48045119193701
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "دادگستری بهارستان",
+        "description": "",
+        "date": "",
+        "city": "بهارستان",
+        "province": "استان اصفهان",
+        "city:en": "Baharestan",
+        "province:en": "Isfahan",
+        "city:ar": "بهارستان",
+        "province:ar": "أصفهان",
+        "city:he": "בהארסטאן",
+        "province:he": "אספהאן",
+        "city:tr": "Baharestan",
+        "province:tr": "İsfahan",
+        "city:ckb": "بەهارستان",
+        "province:ckb": "ئەسفەھان",
+        "id": "MzQ6YzE0ZjE1NTdmODEw",
+        "publicId": "MzQ6YzE0ZjE1NTdmODEw",
+        "sourceId": "c14f1557f810",
+        "layerId": 34,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-15T06:24:55.656Z",
+        "updatedAt": "2026-11-15T06:24:55.656Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1419,
+    "total": 1420,
     "layerId": 34,
     "clustered": false,
     "simplified": false

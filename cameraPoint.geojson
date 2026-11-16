@@ -819409,10 +819409,112 @@
         "createdAt": "2026-11-13T15:03:07.544Z",
         "updatedAt": "2026-11-13T15:03:07.544Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116074,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.30307212471962,
+          38.07242510835093
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی سپاه",
+        "lastReport": "",
+        "date": 1794600754,
+        "addressDescription": "",
+        "description": "دوربین نظارتی نصب شده در فروشگاه ورزشی توسط سپاه برای نظارت بر خیابان و تردد ماشین‌ها",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "IRGC Surveillance Camera",
+        "description:en": "Surveillance camera installed in a sports store by the IRGC to monitor the street and vehicle traffic.",
+        "city:en": "Tabriz",
+        "province:en": "East Azerbaijan",
+        "name:ar": "كاميرا مراقبة الحرس الثوري",
+        "description:ar": "كاميرا مراقبة ثبّتها الحرس الثوري في متجر للرياضة لمراقبة الشارع وحركة السيارات",
+        "city:ar": "تبريز",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "מצלמת מעקב של משמרות המהפכה",
+        "description:he": "מצלמת מעקב שהותקנה בחנות ספורט על ידי משמרות המהפכה לצורך פיקוח על הרחוב ותנועת הכלי רכב",
+        "city:he": "תבריז",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Sepah Gözetleme Kamerası",
+        "description:tr": "Caddeyi ve araç trafiğini izlemek amacıyla Sepah tarafından bir spor mağazasına kurulan gözetleme kamerası",
+        "city:tr": "Tebriz",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "کامێرای چاودێریی سوپا",
+        "description:ckb": "کامێرای چاودێریی دامەزراو لە فرۆشگای وەرزشیدا لەلایەن سوپا بۆ چاودێریکردنی شەقام و هاتوچۆی ئۆتۆمبێلەکان",
+        "city:ckb": "تبریز",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "MjA6YzFjMjc0M2JkNWRh",
+        "publicId": "MjA6YzFjMjc0M2JkNWRh",
+        "sourceId": "c1c2743bd5da",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-15T06:39:55.461Z",
+        "updatedAt": "2026-11-15T06:39:55.461Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116075,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.30276434123516,
+          38.0723390638407
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی",
+        "lastReport": "",
+        "date": 1794600497,
+        "addressDescription": "",
+        "description": "دکل دوربین نظارتی انتظامی",
+        "city": "تبریز",
+        "province": "استان آذربایجان شرقی",
+        "name:en": "Surveillance Camera",
+        "description:en": "Law enforcement surveillance camera mast",
+        "city:en": "Tabriz",
+        "province:en": "East Azerbaijan",
+        "name:ar": "كاميرا مراقبة",
+        "description:ar": "برج كاميرا مراقبة للشرطة",
+        "city:ar": "تبريز",
+        "province:ar": "أذربيجان الشرقية",
+        "name:he": "מצלמת מעקב",
+        "description:he": "תורן מצלמת מעקב של המשטרה",
+        "city:he": "תבריז",
+        "province:he": "אזרבייג'ן המזרחית",
+        "name:tr": "Gözetleme Kamerası",
+        "description:tr": "Emniyet gözetleme kamerası direği",
+        "city:tr": "Tebriz",
+        "province:tr": "Doğu Azerbaycan",
+        "name:ckb": "کامێرا چاودێری",
+        "description:ckb": "دگلی کامێرای چاودێریی پۆلیس",
+        "city:ckb": "تەورێز",
+        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
+        "id": "MjA6YmM3MTNlYzc0NTE3",
+        "publicId": "MjA6YmM3MTNlYzc0NTE3",
+        "sourceId": "bc713ec74517",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-15T06:40:13.312Z",
+        "updatedAt": "2026-11-15T06:40:13.312Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18696,
+    "total": 18698,
     "layerId": 20,
     "clustered": false,
     "simplified": false

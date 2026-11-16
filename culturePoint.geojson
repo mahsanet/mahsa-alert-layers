@@ -124617,10 +124617,162 @@
         "createdAt": "2026-11-13T15:09:49.577Z",
         "updatedAt": "2026-11-13T15:09:49.577Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116052,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.66763599961996,
+          32.67025587498151
+        ]
+      },
+      "properties": {
+        "name:fa": "مرکز مشاوره حوزه علمیه",
+        "description": "",
+        "date": 1794639211,
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "name:en": "Seminary Counseling Center",
+        "city:en": "Isfahan",
+        "province:en": "Isfahan",
+        "name:ar": "مركز الاستشارات في الحوزة العلمية",
+        "city:ar": "أصفهان",
+        "province:ar": "أصفهان",
+        "name:he": "מרכז הייעוץ של המדרשה האסלאמית (חווזה)",
+        "city:he": "אספהאן",
+        "province:he": "אספהאן",
+        "name:tr": "İlim Havzası Danışma Merkezi",
+        "city:tr": "İsfahan",
+        "province:tr": "İsfahan",
+        "name:ckb": "ناوەندی ڕاوێژکاریی حەوزی عیرمی",
+        "city:ckb": "ئیسفەهان",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTc6YmNiNGQxNDMxZmE4",
+        "publicId": "MTc6YmNiNGQxNDMxZmE4",
+        "sourceId": "bcb4d1431fa8",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-15T06:16:09.598Z",
+        "updatedAt": "2026-11-15T06:16:09.598Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116056,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.67158521711826,
+          32.66114748681481
+        ]
+      },
+      "properties": {
+        "name:fa": "کنسولگری روسیه",
+        "description": "",
+        "date": 1794637953,
+        "city": "اصفهان",
+        "province": "استان اصفهان",
+        "name:en": "Russian Consulate",
+        "city:en": "Isfahan",
+        "province:en": "Isfahan",
+        "name:ar": "القنصلية الروسية",
+        "city:ar": "أصفهان",
+        "province:ar": "أصفهان",
+        "name:he": "הקונסוליה של רוסיה",
+        "city:he": "אספהאן",
+        "province:he": "אספהאן",
+        "name:tr": "Rusya Konsolosluğu",
+        "city:tr": "İsfahan",
+        "province:tr": "İsfahan",
+        "name:ckb": "کۆنسوڵخانەی ڕووسیا",
+        "city:ckb": "ئیسفەهان",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTc6YzQ5NzJmYTRiMmMx",
+        "publicId": "MTc6YzQ5NzJmYTRiMmMx",
+        "sourceId": "c4972fa4b2c1",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-15T06:21:17.423Z",
+        "updatedAt": "2026-11-15T06:21:17.423Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116065,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.79822995686624,
+              32.48009961641786
+            ],
+            [
+              51.79865232621361,
+              32.48016181031703
+            ],
+            [
+              51.798763895477975,
+              32.47962814083564
+            ],
+            [
+              51.79833256073252,
+              32.479569310935474
+            ],
+            [
+              51.79822995686624,
+              32.48009961641786
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره امور مالیاتی شهر بهارستان",
+        "description": "",
+        "date": "",
+        "city": "بهارستان",
+        "province": "استان اصفهان",
+        "name:en": "Baharestan Tax Affairs Office",
+        "city:en": "Baharestan",
+        "province:en": "Isfahan",
+        "name:ar": "إدارة الشؤون الضريبية في مدينة بهارستان",
+        "city:ar": "بهارستان",
+        "province:ar": "أصفهان",
+        "name:he": "משרד שומת המסים של העיר בהארסטאן",
+        "city:he": "בהארסטאן",
+        "province:he": "אספהאן",
+        "name:tr": "Bahâristan Vergi Dairesi",
+        "city:tr": "Bahâristan",
+        "province:tr": "İsfahan",
+        "name:ckb": "بەرێوەبەرایەتیی کاروباری باجی شاری بەهارستان",
+        "city:ckb": "بەهارستان",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTc6M2UwNDBiOTU5Mjlm",
+        "publicId": "MTc6M2UwNDBiOTU5Mjlm",
+        "sourceId": "3e040b95929f",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-15T06:25:25.744Z",
+        "updatedAt": "2026-11-15T06:25:25.744Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2453,
+    "total": 2456,
     "layerId": 17,
     "clustered": false,
     "simplified": false

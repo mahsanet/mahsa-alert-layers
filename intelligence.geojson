@@ -20031,10 +20031,110 @@
         "createdAt": "2026-11-07T21:20:30.149Z",
         "updatedAt": "2026-11-07T21:20:30.149Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116045,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.44835748523474,
+          37.47592812596082
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "سوپرمارکت چسبیده به خدمات فنی در بندر انزلی که به عنوان محل تجمع نیروهای اطلاعاتی و جمع‌آوری اطلاعات و گزارش به اطلاعات سپاه استفاده می‌شود.",
+        "date": 1794691893,
+        "city": "بندر انزلی",
+        "province": "استان گیلان",
+        "name:fa": "فعالیت نیروهای اطلاعاتی",
+        "name:en": "Intelligence Forces Activity",
+        "description:en": "A supermarket adjacent to the technical services shop in Bandar Anzali used as a gathering place for intelligence forces to collect information and report to the IRGC Intelligence Organization.",
+        "city:en": "Bandar Anzali",
+        "province:en": "Gilan",
+        "name:ar": "نشاط القوات الاستخباراتية",
+        "description:ar": "متجر تموينات (سوبرماركت) ملاصق لمركز الخدمات الفنية في بندر انزلي، يُستخدم كموقع لتجمع القوات الاستخباراتية وجمع المعلومات وتقديم التقارير إلى استخبارات الحرس الثوري.",
+        "city:ar": "بندر انزلي",
+        "province:ar": "جيلان",
+        "name:he": "פעילות כוחות מודיעין",
+        "description:he": "סופרמרקט הצמוד לשירותים טכניים בבנדר אנזאלי, המשמש כמקום התכנסות לכוחות מודיעין ולאיסוף מידע ודיווח למודיעין של משמרות המהפכה.",
+        "city:he": "בנדר אנזאלי",
+        "province:he": "גילאן",
+        "name:tr": "İstihbarat güçlerinin faaliyetleri",
+        "description:tr": "Bandende Anzali'de teknik servis dükkanının bitişiğinde yer alan, istihbarat güçlerinin toplanma yeri, bilgi toplama ve Devrim Muhafızları İstihbaratına rapor verme merkezi olarak kullanılan süpermarket.",
+        "city:tr": "Bandar Anzali",
+        "province:tr": "Gilan",
+        "name:ckb": "چالاکیی هێزە هەواڵگرییەکان",
+        "description:ckb": "سوپەرمارکێتێک کە پڕژاوە بە خزمەتگوزاریی ته‌کنیکی لە بەندەری ئەنزەلی کە وەک شوێنی کۆبوونەوەی هێزە هەواڵگرییەکان و کۆکردنەوەی زانیاری و ڕاپۆرتدان بە هەواڵگریی سوپا بەکاردێت.",
+        "city:ckb": "بەندەری ئەنزەلی",
+        "province:ckb": "گیلان",
+        "id": "MjpjYmQwYzNiZjI3YjQ",
+        "publicId": "MjpjYmQwYzNiZjI3YjQ",
+        "sourceId": "cbd0c3bf27b4",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-15T06:07:44.386Z",
+        "updatedAt": "2026-11-15T06:07:44.386Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116051,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61321269720793,
+          35.9706769525054
+        ]
+      },
+      "properties": {
+        "unofficial_name:fa": "",
+        "description": "ساختمان با کاربری اطلاعاتی و امنیتی بدون تابلو ورودی در خیابان فرمانداری نظرآباد، تحت کنترل شدید با دوربین‌های مراقبتی و محدودیت ورود.",
+        "date": 1794719053,
+        "city": "نظر آباد",
+        "province": "استان البرز",
+        "name:fa": "مرکز امنیتی نظرآباد",
+        "name:en": "Nazarakbad Security Center",
+        "description:en": "A building with intelligence and security usage without an entrance sign on Farmandari Street in Nazarabad, under strict control with surveillance cameras and restricted entry.",
+        "city:en": "Nazarabad",
+        "province:en": "Alborz",
+        "name:ar": "المركز الأمني في نظر آباد",
+        "description:ar": "مبنى ذو استخدام استخباراتي وأمني بدون لوحة مدخل في شارع الفرمانداريه (المحافظة) في نظر آباد، يخضع لمراقبة شديدة بواسطة كاميرات المراقبة وتفرض عليه قيود على الدخول.",
+        "city:ar": "نظر آباد",
+        "province:ar": "ألبرز",
+        "name:he": "מרכז הטיפול והחקירות נזר-אבאד",
+        "description:he": "בניין המשמש למטרות מודיעין וביטחון ללא שלט כניסה ברחוב הממשל (פרמנדארי) בנזר-אבאד, תחת פיקוח הדוק עם מצלמות אבטחה והגבלות כניסה.",
+        "city:he": "נזר-אבאד",
+        "province:he": "אלבורז",
+        "name:tr": "Nazarabad Güvenlik Merkezi",
+        "description:tr": "Nazarabad Kaymakamlığı Sokağı'nda giriş tabelası bulunmayan istihbarat ve güvenlik amaçlı bina; gözetim kameraları ile sıkı kontrol altında tutulmakta olup giriş kısıtlamaları uygulanmaktadır.",
+        "city:tr": "Nazarabad",
+        "province:tr": "Elburz",
+        "name:ckb": "ناوەندی ئەمنیی نەزەرئاباد",
+        "description:ckb": "بینایەکی خاوەن مۆڵەتی هەواڵگری و ئەمنی بێ تابلۆی چوونەژوورەوە لە شەقامی فەرمانداریی نەزەرئاباد، لەژێر کۆنترۆڵی تونددا بە دوربینەکانی چاودێری و سنوردارکردنی چوونەژوورەوە.",
+        "city:ckb": "نەزەرئاباد",
+        "province:ckb": "ئەلبورز",
+        "id": "Mjo0M2MwZWI3MjA2M2Y",
+        "publicId": "Mjo0M2MwZWI3MjA2M2Y",
+        "sourceId": "43c0eb72063f",
+        "layerId": 2,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-15T06:13:35.642Z",
+        "updatedAt": "2026-11-15T06:13:35.642Z"
+      }
     }
   ],
   "metadata": {
-    "total": 374,
+    "total": 376,
     "layerId": 2,
     "clustered": false,
     "simplified": false

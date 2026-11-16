@@ -14501,10 +14501,60 @@
         "createdAt": "2026-11-14T21:59:03.476Z",
         "updatedAt": "2026-11-14T21:59:24.474Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.35193412005901,
+          31.814327083524034
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "یزد",
+        "province": "استان یزد",
+        "date": 1794771208,
+        "description": "ورودی از کمربندی را مسدود کرده و خودروها را به طور کامل بازرسی می‌کنند.",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "The entrance from the beltway is blocked, and vehicles are being thoroughly inspected.",
+        "city:en": "Yazd",
+        "province:en": "Yazd",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "تم إغلاق المدخل من الطريق الدائري، ويتم تفتيش السيارات بالكامل.",
+        "city:ar": "يزد",
+        "province:ar": "يزد",
+        "name:he": "מחסום בדיקה",
+        "description:he": "חוסמים את הכניסה מכביש המעקף ומבצעים בידוק מלא לכלי הרכב.",
+        "city:he": "יזד",
+        "province:he": "יזד",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Çevre yolundan giriş kapatılmış ve araçlar tamamen aranmaktadır.",
+        "city:tr": "Yezd",
+        "province:tr": "Yezd",
+        "name:ckb": "خاڵێکی پشکنتن",
+        "description:ckb": "چوونەژوورەوە لە ڕێگە خێراکەدا داخراوە و ئۆتۆمبێلەکان بە تەواوی دەپشکنن.",
+        "city:ckb": "یەزد",
+        "province:ckb": "یەزد",
+        "id": "Mzk6YTE1ZjVkODBkZjg4",
+        "publicId": "Mzk6YTE1ZjVkODBkZjg4",
+        "sourceId": "a15f5d80df88",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-15T20:17:48.468Z",
+        "updatedAt": "2026-11-15T20:17:48.468Z"
+      }
     }
   ],
   "metadata": {
-    "total": 298,
+    "total": 299,
     "layerId": 39,
     "clustered": false,
     "simplified": false
