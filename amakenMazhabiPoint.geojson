@@ -255041,10 +255041,54 @@
         "createdAt": "2026-11-15T06:46:01.605Z",
         "updatedAt": "2026-11-15T06:46:01.605Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39155387878418,
+          35.676960224072886
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد توتونچی",
+        "description": "",
+        "date": 1794753052,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Totounchi Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مسجد توتونتشي",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מסגד תותונצ'י",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Tütüncü Camii",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "مزگەوتی تووتوونچی",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDplNzVhOTQyNzkyMGU",
+        "publicId": "NDplNzVhOTQyNzkyMGU",
+        "sourceId": "e75a9427920e",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-16T08:44:48.244Z",
+        "updatedAt": "2026-11-16T08:44:48.244Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5860,
+    "total": 5861,
     "layerId": 4,
     "clustered": false,
     "simplified": false

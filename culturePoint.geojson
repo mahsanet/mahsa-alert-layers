@@ -124769,10 +124769,54 @@
         "createdAt": "2026-11-15T06:25:25.744Z",
         "updatedAt": "2026-11-15T06:25:25.744Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39366243034601,
+          35.66607470686647
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد مدیریت بحران",
+        "description": "",
+        "date": 1794753455,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Crisis Management Headquarters",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مقر إدارة الأزمات",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:tr": "Kriz Yönetim Merkezi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "سیمرغی بەڕێوەبردی قەیران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "name:he": "מטה ניהול משברים",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "id": "MTc6NWI5YWEzMjUxZThh",
+        "publicId": "MTc6NWI5YWEzMjUxZThh",
+        "sourceId": "5b9aa3251e8a",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-16T08:46:17.147Z",
+        "updatedAt": "2026-11-16T08:46:17.147Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2456,
+    "total": 2457,
     "layerId": 17,
     "clustered": false,
     "simplified": false

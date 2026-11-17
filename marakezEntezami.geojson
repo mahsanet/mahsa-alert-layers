@@ -266172,10 +266172,59 @@
         "createdAt": "2026-11-12T03:50:36.306Z",
         "updatedAt": "2026-11-12T03:50:36.306Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.38946510851383,
+          35.672757194753174
+        ]
+      },
+      "properties": {
+        "name:fa": "پلیس",
+        "description": "پلیس محدوده هلال احمر، منطقه ۱۱ تهران",
+        "date": 1794753279,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Police",
+        "description:en": "Police in the Helal-e Ahmar area, District 11 of Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "الشرطة",
+        "description:ar": "شرطة منطقة هلال احمر، المنطقة 11 طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "משטרה",
+        "description:he": "משטרה באזור הלאל-אהמר, אזור 11 בטהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Polis",
+        "description:tr": "Hilal Ahmer bölgesi, Tahran 11. Bölge polisi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "پۆلیس",
+        "description:ckb": "پۆلیسی دەوروبەری هیلالی سوور، ناوچەی ١١ی تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzo2MTEzODNjMjNmNTI",
+        "publicId": "Mzo2MTEzODNjMjNmNTI",
+        "sourceId": "611383c23f52",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-16T08:43:58.071Z",
+        "updatedAt": "2026-11-16T08:43:58.071Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6113,
+    "total": 6114,
     "layerId": 3,
     "clustered": false,
     "simplified": false

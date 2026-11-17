@@ -15249,10 +15249,110 @@
         "createdAt": "2026-11-15T20:23:08.194Z",
         "updatedAt": "2026-11-15T20:23:14.730Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.30960363894701,
+          33.64638013969872
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش شلیک موشک",
+        "city": "شهرستان ایلام",
+        "province": "استان ایلام",
+        "date": 1794752980,
+        "description": "شلیک موشک از پایگاه سپاه پاسداران در دهستان ارکوازی، بخش چوار",
+        "sources": "",
+        "name:en": "Missile launch report",
+        "description:en": "Missile launch from the Islamic Revolutionary Guard Corps base in Arkwazi Rural District, Chavar District",
+        "city:en": "Ilam County",
+        "province:en": "Ilam",
+        "name:ar": "تقرير إطلاق صواريخ",
+        "description:ar": "إطلاق صواريخ من قاعدة للحرس الثوري في ناحية أركوازي التابعة لقضاء شوار",
+        "city:ar": "إيلام",
+        "province:ar": "إيلام",
+        "name:he": "דיווח על שיגור טיל",
+        "description:he": "שיגור טיל מבסיס משמרות המהפכה במועצה האזורית ארכואזי, נפת צ'וואר",
+        "city:he": "אילאם",
+        "province:he": "אילאם",
+        "name:tr": "Füze Atışı Raporu",
+        "description:tr": "Çuvar ilçesi Erkovazi kırsalındaki Devrim Muhafızları üssünden füze atıldı.",
+        "city:tr": "İlam",
+        "province:tr": "İlam",
+        "name:ckb": "ڕاپۆرتی هاویشتنی مووشک",
+        "description:ckb": "هاویشتنی مووشک لە بنکەی سوپای پاسداران لە گوندەواری ئەڕکەوازی، ناوچەی چەوار",
+        "city:ckb": "شارستانی ایلام",
+        "province:ckb": "ئیلام",
+        "id": "MzY6MmZiYmNlMDg0NmMz",
+        "publicId": "MzY6MmZiYmNlMDg0NmMz",
+        "sourceId": "2fbbce0846c3",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-16T17:34:57.226Z",
+        "updatedAt": "2026-11-16T17:34:57.226Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.32007050514221,
+          32.60640734242999
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش شلیک موشک",
+        "description": "شلیک آزمایشی دو موشک از قلعه قاسم اندیمشک",
+        "date": 1794741049,
+        "city": "شهرستان اندیمشک",
+        "province": "استان خوزستان",
+        "sources": "",
+        "name:en": "Missile Launch Report",
+        "description:en": "Test firing of two missiles from Qaleh Qasem, Andimeshk",
+        "city:en": "Andimeshk",
+        "province:en": "Khuzestan",
+        "name:ar": "تقرير إطلاق صواريخ",
+        "description:ar": "إطلاق تجريبي لصاروخين من قلعة قاسم في أنديمشك",
+        "city:ar": "مقاطعة أنديمشك",
+        "province:ar": "خوزستان",
+        "name:he": "דיווח על שיגור טיל",
+        "description:he": "שיגור ניסויי של שני טילים מגלעה קאסם באנדימשכ",
+        "city:he": "מחוז אנדמשכ",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Füze Atışı Raporu",
+        "description:tr": "Andimeshk'in Kala Kasım bölgesinden iki füzenin deneme atışı",
+        "city:tr": "Andimeshk",
+        "province:tr": "Huzistan",
+        "name:ckb": "ڕاپۆرتی تەقاندنی مووشەک",
+        "description:ckb": "تەقاندنی تاقیکاریی دوو مووشەک لە قەڵای قاسم لە ئەندیمشک",
+        "city:ckb": "ئەندیمشک",
+        "province:ckb": "خووزستان",
+        "id": "MzY6MGIzODVhMzcyZmEw",
+        "publicId": "MzY6MGIzODVhMzcyZmEw",
+        "sourceId": "0b385a372fa0",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-16T17:36:42.992Z",
+        "updatedAt": "2026-11-16T17:36:50.853Z"
+      }
     }
   ],
   "metadata": {
-    "total": 313,
+    "total": 315,
     "layerId": 36,
     "clustered": false,
     "simplified": false

@@ -149206,10 +149206,59 @@
         "createdAt": "2026-11-12T14:47:10.299Z",
         "updatedAt": "2026-11-12T14:47:10.299Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.372846979647875,
+          35.69446556227578
+        ]
+      },
+      "properties": {
+        "name:fa": "بیمارستان لولاگر",
+        "description": "بیمارستان واقع در خوش، سلسبیل شمالی، منطقه ۱۰ تهران",
+        "date": 1794753756,
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Loolagar Hospital",
+        "description:en": "Hospital located on Khosh, North Salsabil, District 10 of Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مستشفى لولاجر",
+        "description:ar": "مستشفى يقع في خوش، سلسبيل الشمالية، المنطقة 10، طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "בית החולים לולאגר",
+        "description:he": "בית חולים הממוקם בח'וש, סלסביל הצפונית, אזור 10 בטהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Lolagar Hastanesi",
+        "description:tr": "Huş Caddesi üzerinde, Kuzey Selsebil, Tahran 10. Bölge'de yer alan hastane",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "نەخۆشخانەی لۆلاگەر",
+        "description:ckb": "نەخۆشخانەیەکە دەکەوێتە خۆش، سەلسەبیلی باکوور، ناوچەی ١٠ی تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "MjU6YTZkNDgzZGZhYzNm",
+        "publicId": "MjU6YTZkNDgzZGZhYzNm",
+        "sourceId": "a6d483dfac3f",
+        "layerId": 25,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-16T08:45:12.472Z",
+        "updatedAt": "2026-11-16T08:45:12.472Z"
+      }
     }
   ],
   "metadata": {
-    "total": 3544,
+    "total": 3545,
     "layerId": 25,
     "clustered": false,
     "simplified": false

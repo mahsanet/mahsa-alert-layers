@@ -14551,10 +14551,60 @@
         "createdAt": "2026-11-15T20:17:48.468Z",
         "updatedAt": "2026-11-15T20:17:48.468Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.667296819388866,
+          33.408777952963476
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "اليگودرز",
+        "province": "استان لرستان",
+        "date": 1794816702,
+        "description": "ایست بازرسی نیروهای انتظامی و بسیج حدود ۲۰ یا ۳۰ متر قبل از میدان آزادگان در ورودی الیگودرز از سمت ازنا. بازرسی خودروها به‌صورت رندوم یا افراد مشکوک، بیشتر در ساعات ظهر و بعد از ظهر.",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Law enforcement and Basij checkpoint located about 20 to 30 meters before Azadegan Square at the entrance of Aligudarz from the direction of Azna. Random vehicle inspections and checks on suspicious individuals, mostly during noon and afternoon hours.",
+        "city:en": "Aligudarz",
+        "province:en": "Lorestan",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش لقوات الشرطة والبسيج قبل 20 أو 30 متراً تقريباً من ميدان آزاديجان عند مدخل أليغودرز من جهة أزنا. يتم تفتيش السيارات أو الأشخاص المشتبه بهم بشكل عشوائي، وغالباً في ساعات الظهيرة وما بعد الظهيرة.",
+        "city:ar": "أليغودرز",
+        "province:ar": "لرستان",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה של כוחות המשטרה והבסיג' כ-20 או 30 מטרים לפני כיכר אזאדגאן בכניסה לאליגודרז מכיוון אזנא. בדיקת כלי רכב באופן אקראי או של חשודים, בעיקר בשעות הצהריים ואחר הצהריים.",
+        "city:he": "אליגודרז",
+        "province:he": "לורסתאן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Azna yönünden Aliguderz girişinde, Azadegan Meydanı'ndan yaklaşık 20 veya 30 metre önce kolluk kuvvetleri ve Besic kontrol noktası. Araçlar rastgele veya şüpheli şahıslar için çoğunlukla öğle ve öğleden sonra saatlerinde aranmaktadır.",
+        "city:tr": "Aliguderz",
+        "province:tr": "Luristan",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنینی هێزەکانی پۆلیس و بەسیج نزیکەی ٢٠ یان ٣٠ مەتر پێش گۆڕەپانی ئازادگان لە دەروازەی ئەلیگوودەرز لە لای ئەزناوە. پشکنینی ئۆتۆمبێلەکان بە شێوەی هەڕەمەکی یان کەسە گومانلێکراوەکان، زۆرتر لە کاتەکانی نیوەڕۆ و پاشنیوەڕۆدا.",
+        "city:ckb": "ئەلیگوودەرز",
+        "province:ckb": "لوڕستان",
+        "id": "Mzk6N2IxOTUxOGZiNWYz",
+        "publicId": "Mzk6N2IxOTUxOGZiNWYz",
+        "sourceId": "7b19518fb5f3",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-16T08:42:39.629Z",
+        "updatedAt": "2026-11-16T08:42:39.629Z"
+      }
     }
   ],
   "metadata": {
-    "total": 299,
+    "total": 300,
     "layerId": 39,
     "clustered": false,
     "simplified": false
