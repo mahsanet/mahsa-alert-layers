@@ -819511,10 +819511,61 @@
         "createdAt": "2026-11-15T06:40:13.312Z",
         "updatedAt": "2026-11-15T06:40:13.312Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39293755647799,
+          32.62229172781511
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین",
+        "lastReport": "",
+        "date": "",
+        "addressDescription": "",
+        "description": "در زمان جنگ 40 روزه به بعد تعداد دوربین های مداربسته بیرون اداره آبخیزداری افزایش داشته.",
+        "city": "نجف‌ آباد",
+        "province": "استان اصفهان",
+        "name:en": "Camera",
+        "description:en": "Following the 40-day war period, the number of CCTV cameras outside the Watershed Management Office has increased.",
+        "city:en": "Najafabad",
+        "province:en": "Isfahan",
+        "name:ar": "كاميرا",
+        "description:ar": "منذ فترة الحرب التي استمرت 40 يوماً وما بعدها، زاد عدد كاميرات المراقبة خارج إدارة حماية الأحواض المائية.",
+        "city:ar": "نجف أباد",
+        "province:ar": "أصفهان",
+        "name:he": "מצלמה",
+        "description:he": "מאז תקופת המלחמה בת 40 הימים, מספר מצלמות במעגל סגור מחוץ למשרד ניהול אגני הניקוז גדל.",
+        "city:he": "נג'ף אבאד",
+        "province:he": "אספהאן",
+        "name:tr": "Kamera",
+        "description:tr": "40 günlük savaş döneminden sonra Su Havzası Yönetim Dairesi'nin dışarısındaki güvenlik kameralarının sayısı artırılmıştır.",
+        "city:tr": "Necefabad",
+        "province:tr": "İsfahan",
+        "name:ckb": "کامێرای چاودێری",
+        "description:ckb": "لە کاتی جەنگی ٤٠ ڕۆژە بە دواوە، ژمارەی کامێرا چاودێرییەکانی دەرەوەی فەرمانگەی ئاوخۆری زۆر بوون.",
+        "city:ckb": "نەجەفاوا",
+        "province:ckb": "ئەسفەھان",
+        "id": "MjA6MDdiMjkxY2NmYTVh",
+        "publicId": "MjA6MDdiMjkxY2NmYTVh",
+        "sourceId": "07b291ccfa5a",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-17T14:30:36.298Z",
+        "updatedAt": "2026-11-17T14:30:36.298Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18698,
+    "total": 18699,
     "layerId": 20,
     "clustered": false,
     "simplified": false

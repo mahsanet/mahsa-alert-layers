@@ -124813,10 +124813,246 @@
         "createdAt": "2026-11-16T08:46:17.147Z",
         "updatedAt": "2026-11-16T08:46:17.147Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116158,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.39258788871686,
+              32.62255386438909
+            ],
+            [
+              51.39265800057561,
+              32.62255923323099
+            ],
+            [
+              51.39271855172498,
+              32.62255117996769
+            ],
+            [
+              51.39271961402588,
+              32.622503755181285
+            ],
+            [
+              51.39294269721091,
+              32.622503755181285
+            ],
+            [
+              51.392942211017186,
+              32.6222805806774
+            ],
+            [
+              51.39288214606154,
+              32.622278263398044
+            ],
+            [
+              51.39285558853834,
+              32.62226573606
+            ],
+            [
+              51.39282690641494,
+              32.62226842049
+            ],
+            [
+              51.39281203420282,
+              32.62228363225654
+            ],
+            [
+              51.39271111561891,
+              32.62228989592488
+            ],
+            [
+              51.39271012658659,
+              32.62227468416435
+            ],
+            [
+              51.392578737719646,
+              32.6222783127874
+            ],
+            [
+              51.39258788871686,
+              32.62255386438909
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اداره منابع طبیعی نجف آباد",
+        "description": "",
+        "date": "",
+        "city": "نجف‌ آباد",
+        "province": "استان اصفهان",
+        "name:en": "Najafabad Natural Resources Department",
+        "city:en": "Najafabad",
+        "province:en": "Isfahan",
+        "name:ar": "إدارة الموارد الطبيعية في نجف آباد",
+        "city:ar": "نجف آباد",
+        "province:ar": "أصفهان",
+        "name:tr": "Necefabad Doğal Kaynaklar Müdürlüğü",
+        "city:tr": "Necefabad",
+        "province:tr": "İsfahan",
+        "name:ckb": "بەڕێوەبەرایەتیی سەرچاوە سروشتییەکانی نەجەفاباد",
+        "city:ckb": "نەجەفاباد",
+        "province:ckb": "ئەسفەھان",
+        "name:he": "מינהל משאבי הטבע של נג'ף אבאד",
+        "city:he": "נג'ף אבאד",
+        "province:he": "אספהאן",
+        "id": "MTc6NGQxYmY5YjZkMDI2",
+        "publicId": "MTc6NGQxYmY5YjZkMDI2",
+        "sourceId": "4d1bf9b6d026",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-17T14:29:48.029Z",
+        "updatedAt": "2026-11-17T14:29:48.029Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118189,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.55389035191405,
+              32.86039895530523
+            ],
+            [
+              51.55431204651924,
+              32.860377668837984
+            ],
+            [
+              51.554289423417714,
+              32.85993217231902
+            ],
+            [
+              51.5539871787868,
+              32.85994281560676
+            ],
+            [
+              51.55399803787574,
+              32.86020965761523
+            ],
+            [
+              51.553878587901465,
+              32.86021649970759
+            ],
+            [
+              51.55389035191405,
+              32.86039895530523
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "بنیاد شهید",
+        "description": "",
+        "date": "",
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Martyrs Foundation",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "مؤسسة الشهيد",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "קרן השהיד",
+        "city:he": "שהין שאהר",
+        "province:he": "אספהאן",
+        "name:tr": "Şehit Vakfı",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "بنکەی شەهید",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTc6ZWYwZTE1MGNhZGVk",
+        "publicId": "MTc6ZWYwZTE1MGNhZGVk",
+        "sourceId": "ef0e150caded",
+        "layerId": 17,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-17T23:14:38.558Z",
+        "updatedAt": "2026-11-17T23:14:38.558Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118190,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.55606822683433,
+              32.860302773070146
+            ],
+            [
+              51.55639762390058,
+              32.860284128253554
+            ],
+            [
+              51.55636491780828,
+              32.859843520661585
+            ],
+            [
+              51.556040193040445,
+              32.85985824032693
+            ],
+            [
+              51.55606822683433,
+              32.860302773070146
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کمیته امداد شاهین شهر",
+        "description": "",
+        "date": "",
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Imam Khomeini Relief Foundation Shahin Shahr",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "لجنة الإمداد في شاهين شهر",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "ועדת הסיוע שאהין שאהר",
+        "city:he": "שאהין שאהר",
+        "province:he": "אספהאן",
+        "name:tr": "Şahinşehr İmdat Komitesi",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "ژنگەی خێرخوازیی شاینشار",
+        "city:ckb": "شاینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "MTc6ZDljZmUzYThjOGFh",
+        "publicId": "MTc6ZDljZmUzYThjOGFh",
+        "sourceId": "d9cfe3a8c8aa",
+        "layerId": 17,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-17T23:16:28.596Z",
+        "updatedAt": "2026-11-17T23:16:28.596Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2457,
+    "total": 2460,
     "layerId": 17,
     "clustered": false,
     "simplified": false

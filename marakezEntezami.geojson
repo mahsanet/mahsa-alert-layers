@@ -224560,49 +224560,6 @@
     },
     {
       "type": "Feature",
-      "id": 89729,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.455797,
-          34.9729086
-        ]
-      },
-      "properties": {
-        "id": "Mzo2ODI3Nw",
-        "city": "شهرستان سنقر",
-        "osm_id": "",
-        "name:fa": "پاسگاه انتظامی",
-        "province": "استان کرمانشاه",
-        "name:en": "Police Station",
-        "city:en": "Sonqor County",
-        "province:en": "Kermanshah",
-        "name:ar": "مخفر الشرطة",
-        "city:ar": "مقاطعة سنقر",
-        "province:ar": "كرمانشاه",
-        "name:he": "תחנת משטרה",
-        "city:he": "נפת סונקור",
-        "province:he": "כרמאנשאה",
-        "name:tr": "Polis Karakolu",
-        "city:tr": "Sungur Şehristanı",
-        "province:tr": "Kirmanşah",
-        "name:ckb": "بنکەی ئینتیزامی",
-        "city:ckb": "شارستانی سنقڕ",
-        "province:ckb": "کرماشان",
-        "publicId": "Mzo2ODI3Nw",
-        "sourceId": "68277",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:08.179Z",
-        "updatedAt": "2026-03-13T04:41:08.179Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 89730,
       "geometry": {
         "type": "Point",
@@ -226596,49 +226553,6 @@
         "province:ckb": "سمنان",
         "publicId": "Mzo2ODM2Mg",
         "sourceId": "68362",
-        "layerId": 3,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-13T04:41:08.199Z",
-        "updatedAt": "2026-03-13T04:41:08.199Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 89779,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          57.9645795,
-          35.2790629
-        ]
-      },
-      "properties": {
-        "id": "Mzo2ODM2Mw",
-        "city": "شهرستان بردسکن",
-        "osm_id": "",
-        "name:fa": "ستاد فرماندهی نیروی انتظامی (بردسکن)",
-        "province": "استان خراسان رضوی",
-        "name:en": "Law Enforcement Command Headquarters (Bardsakan)",
-        "city:en": "Bardsakan County",
-        "province:en": "Razavi Khorasan",
-        "name:ar": "مقر قيادة قوى الأمن الداخلي (بردسكن)",
-        "city:ar": "مقاطعة بردسكن",
-        "province:ar": "خراسان رضوي",
-        "name:he": "מפקדת כוחות המשטרה (ברדסכן)",
-        "city:he": "ברדסכן",
-        "province:he": "ח'וראסאן רזאווי",
-        "name:tr": "Emniyet Müdürlüğü Karargahı (Bardaskan)",
-        "city:tr": "Bardaskan Şehristanı",
-        "province:tr": "Razavi Horasan",
-        "name:ckb": "بارەگای فەرماندەییی هێزی ئینتزامی (بەردەسکەن)",
-        "city:ckb": "شارستانی بەردەسکەن",
-        "province:ckb": "خوراسانی ڕەزەوی",
-        "publicId": "Mzo2ODM2Mw",
-        "sourceId": "68363",
         "layerId": 3,
         "type": "location",
         "status": "active",
@@ -266221,10 +266135,243 @@
         "createdAt": "2026-11-16T08:43:58.071Z",
         "updatedAt": "2026-11-16T08:43:58.071Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118192,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.699918597065476,
+              31.48030566414657
+            ],
+            [
+              59.700275221281345,
+              31.480507380526262
+            ],
+            [
+              59.700634348124055,
+              31.480070861464
+            ],
+            [
+              59.70028073381542,
+              31.47986519947338
+            ],
+            [
+              59.699918597065476,
+              31.48030566414657
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه چاه داشی",
+        "description": "پاسگاه چاه داشی واقع در بخش مرکزی شهرستان نهبندان، دهستان نه.",
+        "date": "",
+        "city": "شهرستان نهبندان",
+        "province": "استان خراسان جنوبی",
+        "name:en": "Chah Dashi Outpost",
+        "description:en": "Chah Dashi outpost located in the Central District of Nehbandan County, Neh Rural District.",
+        "city:en": "Nehbandan",
+        "province:en": "South Khorasan",
+        "name:he": "תחנת משטרת צ'אה דאשי",
+        "description:he": "תחנת משטרת צ'אה דאשי ממוקמת בחבל המרכזי של מחוז נהבנדאן, במועצה האזורית נה.",
+        "city:he": "מחוז נהבנדאן",
+        "province:he": "ח'וראסאן הדרומית",
+        "name:tr": "Çah Daşi Karakolu",
+        "city:tr": "Nehbendan",
+        "province:tr": "Güney Horasan",
+        "name:ckb": "بنکەی پۆلیسی چاە داشی",
+        "description:ckb": "بنکەی پۆلیسی چاە داشی دەكەوێتە بەشی ناوەندی شارستانی نەھبەندان، گوندەواری نەھ.",
+        "city:ckb": "نەھبەندان",
+        "province:ckb": "خوراسانی باشوور",
+        "name:ar": "مخفر جاه داشي",
+        "description:ar": "مخفر جاه داشي الواقع في الناحية المركزية لتقسيم نهبندان، قسم نه الريفي.",
+        "city:ar": "تقسيم نهبندان",
+        "province:ar": "خراسان الجنوبية",
+        "id": "MzpjODEwMThlYmMzMGQ",
+        "publicId": "MzpjODEwMThlYmMzMGQ",
+        "sourceId": "c81018ebc30d",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-17T23:19:00.033Z",
+        "updatedAt": "2026-11-17T23:19:16.567Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118193,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.455482677252576,
+              34.97337539306251
+            ],
+            [
+              47.45632446685161,
+              34.97336112469492
+            ],
+            [
+              47.45632370988736,
+              34.972828224190195
+            ],
+            [
+              47.456274004754505,
+              34.97228724975581
+            ],
+            [
+              47.45600980999663,
+              34.97230958314532
+            ],
+            [
+              47.45577665244633,
+              34.97232199058111
+            ],
+            [
+              47.45558437316788,
+              34.97232819429834
+            ],
+            [
+              47.45552395137048,
+              34.97264553578346
+            ],
+            [
+              47.45548458713898,
+              34.97287631626648
+            ],
+            [
+              47.45547853109892,
+              34.97291105684201
+            ],
+            [
+              47.455473232063724,
+              34.97299542674838
+            ],
+            [
+              47.455474513083004,
+              34.973168485133456
+            ],
+            [
+              47.455482677252576,
+              34.97337539306251
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "پاسگاه هفت آشیان",
+        "description": "",
+        "date": "",
+        "city": "شهرستان سنقر",
+        "province": "استان کرمانشاه",
+        "name:en": "Hafte Ashiyan Outpost",
+        "city:en": "Songhor",
+        "province:en": "Kermanshah",
+        "name:ar": "مركز شرطة هفت آشيان",
+        "city:ar": "مقاطعة سنقر",
+        "province:ar": "كرمانشاه",
+        "name:he": "תחנת המשטרה הפת אשיאן",
+        "city:he": "נפת סונקור",
+        "province:he": "כרמאנשאה",
+        "name:tr": "Haft Aşiyan Karakolu",
+        "city:tr": "Songur",
+        "province:tr": "Kirmanşah",
+        "name:ckb": "بنکەی پۆلیسی هەفت ئاشیان",
+        "city:ckb": "سنقڕ",
+        "province:ckb": "کرماشان",
+        "id": "MzpmYmRjMDNjYjE0NjE",
+        "publicId": "MzpmYmRjMDNjYjE0NjE",
+        "sourceId": "fbdc03cb1461",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-18T00:50:03.442Z",
+        "updatedAt": "2026-11-18T00:50:03.442Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118197,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.96317085866892,
+              35.2796931136357
+            ],
+            [
+              57.96574444623914,
+              35.279669314799534
+            ],
+            [
+              57.96574028185711,
+              35.278778553315604
+            ],
+            [
+              57.963175023049416,
+              35.2787717535723
+            ],
+            [
+              57.96317085866892,
+              35.2796931136357
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ستاد فرماندهی نیروی انتظامی بردسکن",
+        "description": "تجمع نیروهای سپاه برای سرکوب",
+        "date": "",
+        "city": "شهرستان بردسکن",
+        "province": "استان خراسان رضوی",
+        "name:en": "Bardskan Law Enforcement Command Headquarters",
+        "description:en": "Gathering of IRGC forces for suppression",
+        "city:en": "Bardskan",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "مقر قيادة قوى الأمن الداخلي في بردسكن",
+        "description:ar": "تجمع لقوات الحرس الثوري من أجل القمع",
+        "city:ar": "مقاطعة بردسكن",
+        "province:ar": "خراسان رضوي",
+        "name:he": "מפקדת כוחות האכיפה המשטרתיים של ברדסכן",
+        "description:he": "התכנסות של כוחות משמרות המהפכה לשם דיכוי",
+        "city:he": "מחוז ברדסכן",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:tr": "Berdesken Emniyet Müdürlüğü Komuta Karargahı",
+        "description:tr": "Devrim Muhafızları güçlerinin bastırma amacıyla toplanması",
+        "city:tr": "Berdesket",
+        "province:tr": "Razavi Horasan",
+        "name:ckb": "سناوی فەرماندەییی هێزی ئانتزامیی بەردەسکان",
+        "description:ckb": "خۆپیشاندانی هێزەکانی سوپا بۆ سەرکوت",
+        "city:ckb": "بەردەسکان",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "MzpiNDBmNGMzNTgzMTE",
+        "publicId": "MzpiNDBmNGMzNTgzMTE",
+        "sourceId": "b40f4c358311",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-18T02:13:52.371Z",
+        "updatedAt": "2026-11-18T02:13:52.371Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6114,
+    "total": 6115,
     "layerId": 3,
     "clustered": false,
     "simplified": false

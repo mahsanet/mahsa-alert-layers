@@ -13308,10 +13308,106 @@
         "createdAt": "2026-08-19T17:23:00.237Z",
         "updatedAt": "2026-08-19T17:23:00.237Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 116161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4190566239767,
+          32.9924279371248
+        ]
+      },
+      "properties": {
+        "name:fa": "اعتراضات مردمی در آبدانان",
+        "city": "آبدانان",
+        "province": "استان ایلام",
+        "date": 1794920400,
+        "description": "",
+        "sources": "https://x.com/IranIntl/status/2122692571826643183, https://x.com/IranIntl/status/2122694693066567833, https://x.com/IranIntl/status/2122696403197579494",
+        "name:en": "Public protests in Abdanan",
+        "city:en": "Abdanan",
+        "province:en": "Ilam",
+        "name:ar": "احتجاجات شعبية في آبدانان",
+        "city:ar": "آبدانان",
+        "province:ar": "إيلام",
+        "name:he": "מחאות עממיות באבדנאן",
+        "city:he": "אבדנאן",
+        "province:he": "אילאם",
+        "name:tr": "Abdanan'da Halk Protestoları",
+        "city:tr": "Abdanan",
+        "province:tr": "İlam",
+        "name:ckb": "نیشاندانی ناڕەزایەتی خەڵکی لە آبدانان",
+        "city:ckb": "آبدانان",
+        "province:ckb": "ئیلام",
+        "id": "MTU6ZWZjOWU4ODNmNTg5",
+        "publicId": "MTU6ZWZjOWU4ODNmNTg5",
+        "sourceId": "efc9e883f589",
+        "layerId": 15,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-17T14:36:38.103Z",
+        "updatedAt": "2026-11-17T21:21:45.040Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.41772635794496,
+          32.99534558563312
+        ]
+      },
+      "properties": {
+        "name:fa": "درگیری در آبدانان",
+        "city": "آبدانان",
+        "province": "استان ایلام",
+        "date": 1794861000,
+        "description": "گزارش‌ها حاکی از وقوع درگیری میان نیروهای رژیم و مردم در شهر آبدانان استان ایلام است. بر اساس این گزارش‌ها، نیروهای حکومتی اقدام به شلیک گاز اشک‌آور به سمت مردم کرده‌اند.",
+        "sources": "",
+        "status": "active",
+        "geolocates": "",
+        "name:en": "Clashes in Abdanan",
+        "description:en": "Reports indicate that clashes occurred between regime forces and people in the city of Abdanan, Ilam Province. According to these reports, government forces fired tear gas at the people.",
+        "city:en": "Abdanan",
+        "province:en": "Ilam",
+        "name:ar": "اشتباكات في آبدانان",
+        "description:ar": "تشير التقارير إلى وقوع اشتباكات بين قوات النظام والأهالي في مدينة آبدانان بمحافظة إيلام. وبحسب هذه التقارير، أطلقت القوات الحكومية قنابل الغاز المسيل للدموع باتجاه المواطنين.",
+        "city:ar": "آبدانان",
+        "province:ar": "إيلام",
+        "name:he": "עימותים באבדנאן",
+        "description:he": "דיווחים מצביעים על פרוץ עימותים בין כוחות המשטר לתושבים בעיר אבדנאן שבמחוז אילאם. על פי דיווחים אלה, כוחות הממשל ירו גז מדמיע לעבר האזרחים.",
+        "city:he": "אבדנאן",
+        "province:he": "אילאם",
+        "name:tr": "Abdanan'da çatışma",
+        "description:tr": "Raporlar, İlam eyaletinin Abdanan şehrinde rejim güçleri ile halk arasında çatışma çıktığını gösteriyor. Bu raporlara göre, hükümet güçleri halka karşı göz yaşartıcı gaz kullanmıştır.",
+        "city:tr": "Abdanan",
+        "province:tr": "İlam",
+        "name:ckb": "پێکدادان لە ئاودانان",
+        "description:ckb": "ڕاپۆرتەکان باس لە ڕوودانی پێکدادان لە نێوان هێزەکانی ڕژێم و خەڵک لە شاری ئاودانانی پارێزگای ایلام دەکەن. بە پێی ئەم ڕاپۆرتانە، هێزەکانی حکوومەت گازی اشکێنەریان بەرەو خەڵک تەقاندووە.",
+        "city:ckb": "ئاودانان",
+        "province:ckb": "ئیلام",
+        "id": "MTU6OWNmODZlZWQwZWE5",
+        "publicId": "MTU6OWNmODZlZWQwZWE5",
+        "sourceId": "9cf86eed0ea9",
+        "layerId": 15,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-17T14:45:16.365Z",
+        "updatedAt": "2026-11-17T23:03:21.106Z"
+      }
     }
   ],
   "metadata": {
-    "total": 288,
+    "total": 290,
     "layerId": 15,
     "clustered": false,
     "simplified": false

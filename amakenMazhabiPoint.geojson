@@ -254980,6 +254980,9 @@
         "name:ckb": "ئامامزادە",
         "city:ckb": "شارستانی سەفهان",
         "province:ckb": "ئەسفەھان",
+        "name:tr": "İmamtürbesi",
+        "city:tr": "İsfahan",
+        "province:tr": "İsfahan",
         "id": "NDo0ZjU0YTFhMGVkYTE",
         "publicId": "NDo0ZjU0YTFhMGVkYTE",
         "sourceId": "4f54a1a0eda1",
@@ -255085,10 +255088,234 @@
         "createdAt": "2026-11-16T08:44:48.244Z",
         "updatedAt": "2026-11-16T08:44:48.244Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.51702513760989,
+          35.8113284015878
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد پیامبر",
+        "description": "",
+        "date": "",
+        "city": "تجریش",
+        "province": "استان تهران",
+        "name:en": "Payambar Mosque",
+        "city:en": "Tajrish",
+        "province:en": "Tehran",
+        "name:ar": "مسجد النبي",
+        "city:ar": "تجريش",
+        "province:ar": "طهران",
+        "name:he": "מסגד פאיאמבר",
+        "city:he": "תג'ריש",
+        "province:he": "טהראן",
+        "name:tr": "Peygamber Camii",
+        "city:tr": "Tecriş",
+        "province:tr": "Tahran",
+        "name:ckb": "مزگەوتی پەخمبەر",
+        "city:ckb": "تەجریش",
+        "province:ckb": "تاران",
+        "id": "NDplNGM1YzBkZGRlOGU",
+        "publicId": "NDplNGM1YzBkZGRlOGU",
+        "sourceId": "e4c5c0ddde8e",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-17T23:12:15.370Z",
+        "updatedAt": "2026-11-17T23:12:28.576Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118195,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.88237881613699,
+              26.643755522716916
+            ],
+            [
+              57.88229041824212,
+              26.643956185576172
+            ],
+            [
+              57.882500944807646,
+              26.64400921041765
+            ],
+            [
+              57.882566080098655,
+              26.643960344388304
+            ],
+            [
+              57.88256724322889,
+              26.643814785878178
+            ],
+            [
+              57.88237881613699,
+              26.643755522716916
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد حضرت ابولفضل",
+        "description": "",
+        "date": "",
+        "city": "شهرستان بشاگرد",
+        "province": "استان هرمزگان",
+        "name:en": "Hazrat Abolfazl Mosque",
+        "city:en": "Bashagard County",
+        "province:en": "Hormozgan",
+        "name:ar": "مسجد أبا الفضل",
+        "city:ar": "مقاطعة بشاكرد",
+        "province:ar": "هرمزكان",
+        "name:he": "מסג'ד חזרת אבולפזל",
+        "city:he": "מחוז בשאגרד",
+        "province:he": "הורמוזגאן",
+        "name:tr": "Hazret Ebulfez Mescidi",
+        "city:tr": "Beşagerd",
+        "province:tr": "Hürmüzgan",
+        "name:ckb": "مزگەوتی حەزرەتی ئەبولفەزڵ",
+        "city:ckb": "شارستانی بەشاگەرد",
+        "province:ckb": "ھورمزگان",
+        "id": "NDo0M2FhNzg2ZGQ2ZDI",
+        "publicId": "NDo0M2FhNzg2ZGQ2ZDI",
+        "sourceId": "43aa786dd6d2",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-18T00:54:34.169Z",
+        "updatedAt": "2026-11-18T00:54:34.169Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118223,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.386835290947715,
+              35.733180361438585
+            ],
+            [
+              51.387188801652,
+              35.73322980439252
+            ],
+            [
+              51.38722719794552,
+              35.7330492299764
+            ],
+            [
+              51.386876335261576,
+              35.7329954875117
+            ],
+            [
+              51.386835290947715,
+              35.733180361438585
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد النبی",
+        "description": "",
+        "date": "",
+        "city": "تهران",
+        "province": "استان تهران",
+        "name:en": "Al-Nabi Mosque",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "مسجد النبي",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מסג'ד אל-נבי",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Nebi Mescidi",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "مزگەوتی نەبی",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDpkODMxYjc0MDZmMDA",
+        "publicId": "NDpkODMxYjc0MDZmMDA",
+        "sourceId": "d831b7406f00",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-18T19:13:35.717Z",
+        "updatedAt": "2026-11-18T19:13:35.717Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.49979165640352,
+          32.795034265128834
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "مسجد واقع در نیروگاه، بخش مرکزی شاهین شهر و میمه، دهستان برخوار غربی",
+        "date": 1794954157,
+        "city": "شهرستان شاهین‌شهر و میمه",
+        "province": "استان اصفهان",
+        "name:en": "Mosque",
+        "description:en": "Mosque located in Niroogah, Central District of Shahin Shahr and Mimeh, Borkhar-e Gharbi Rural District",
+        "city:en": "Shahin Shahr and Mimeh County",
+        "province:en": "Isfahan",
+        "name:ar": "مسجد",
+        "city:ar": "شاهين شهر وميمه",
+        "province:ar": "أصفهان",
+        "name:he": "מסגד",
+        "description:he": "מסגד השוכן בתחנת הכוח, החלק המרכזי של שאהין שהר ומאימה, מחוז כפרי ברח'וואר המערבית",
+        "city:he": "נפת שאהין שהר ומאימה",
+        "province:he": "אספהאן",
+        "name:tr": "Cami",
+        "description:tr": "Niroogah'da bulunan cami, Şahinşehr ve Mime merkez ilçesi, Batı Berkhor kırsal bölgesi",
+        "city:tr": "Şahinşehr ve Mime",
+        "province:tr": "İsfahan",
+        "name:ckb": "مزگەوت",
+        "description:ckb": "مزگەوتی واقع لە نیرۆگاک، بەشی ناوەندیی شاهین شەهر و میمە، دێهستانی بەرخواری ڕۆژاوا",
+        "city:ckb": "شاهین شەهر و میمە",
+        "province:ckb": "ئەسفەھان",
+        "id": "NDpmYTM2ODM2Y2MwMDc",
+        "publicId": "NDpmYTM2ODM2Y2MwMDc",
+        "sourceId": "fa36836cc007",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-18T19:14:24.009Z",
+        "updatedAt": "2026-11-18T19:14:29.237Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5861,
+    "total": 5865,
     "layerId": 4,
     "clustered": false,
     "simplified": false

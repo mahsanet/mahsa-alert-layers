@@ -94217,10 +94217,77 @@
         "createdAt": "2026-11-11T03:29:59.653Z",
         "updatedAt": "2026-11-11T03:29:59.653Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118194,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              47.459311423894036,
+              34.96907401764787
+            ],
+            [
+              47.45937550492775,
+              34.969203340000675
+            ],
+            [
+              47.45957139618744,
+              34.96913000781015
+            ],
+            [
+              47.45949703006059,
+              34.968980865788154
+            ],
+            [
+              47.45934104257802,
+              34.9690408199226
+            ],
+            [
+              47.45935042369098,
+              34.9690596229177
+            ],
+            [
+              47.459311423894036,
+              34.96907401764787
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "مخابرات هفت آشیان",
+        "description": "",
+        "date": "",
+        "city": "شهرستان سنقر",
+        "province": "استان کرمانشاه",
+        "city:en": "Songhor",
+        "province:en": "Kermanshah",
+        "city:ar": "مقاطعة سنقر",
+        "province:ar": "كرمانشاه",
+        "city:he": "סונקור",
+        "province:he": "כרמאנשאה",
+        "city:tr": "Sonkur",
+        "province:tr": "Kirmanşah",
+        "city:ckb": "سونقوڕ",
+        "province:ckb": "کرماشان",
+        "id": "MzU6NDBlMDY1MjVjNzYz",
+        "publicId": "MzU6NDBlMDY1MjVjNzYz",
+        "sourceId": "40e06525c763",
+        "layerId": 35,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-18T00:51:56.490Z",
+        "updatedAt": "2026-11-18T00:51:56.490Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2035,
+    "total": 2036,
     "layerId": 35,
     "clustered": false,
     "simplified": false

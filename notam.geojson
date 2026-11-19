@@ -1010,113 +1010,6 @@
     },
     {
       "type": "Feature",
-      "id": 115739,
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              47.474722,
-              39.276389
-            ],
-            [
-              47.516111,
-              39.261944
-            ],
-            [
-              47.368611,
-              39.234444
-            ],
-            [
-              47.359167,
-              39.325556
-            ],
-            [
-              47.474722,
-              39.276389
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name:fa": "اطلاعیه هوانوردی · هشدار ناوبری · کلیبر",
-        "description": "تیراندازی نظامی در محدوده مشخص‌شده انجام خواهد شد.",
-        "notamNumber": "B0602/26",
-        "fir": "منطقه پروازی تهران (ایران)",
-        "notamCategory": "هشدار ناوبری (تیراندازی، رزمایش، پهپاد و مانند آن)",
-        "validFrom": "۱۴۰۵/۰۸/۲۰، ۰۷:۰۰",
-        "validTo": "۱۴۰۵/۰۸/۲۷، ۲۲:۰۰",
-        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
-        "notamSource": "FAA NMS-API",
-        "date": 1794367800,
-        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
-        "city": "شهرستان کلیبر",
-        "province": "استان آذربایجان شرقی",
-        "name:en": "Aeronautical Notice · Navigation Warning · Kalibar",
-        "description:en": "Military shooting will take place within the specified area.",
-        "city:en": "Kalibar County",
-        "province:en": "East Azerbaijan",
-        "name:ar": "إشعار طيران · تحذير ملاحة · كليبر",
-        "description:ar": "سيتم إجراء إطلاق نار عسكري في المنطقة المحددة.",
-        "city:ar": "مقاطعة كليبر",
-        "province:ar": "أذربيجان الشرقية",
-        "name:he": "הודעת תעופה · אזהרת ניווט · כליבר",
-        "description:he": "ירי צבאי יבוצע באזור המוגדר.",
-        "city:he": "מחוז כליבר",
-        "province:he": "אזרבייג'ן המזרחית",
-        "name:tr": "Havacılık Bildirisi · Seyrüsefer Uyarısı · Kaleyber",
-        "description:tr": "Belirtilen alanda askeri atış yapılacaktır.",
-        "city:tr": "Kaleyber",
-        "province:tr": "Doğu Azerbaycan",
-        "name:ckb": "ئاگاداریی فڕۆکەوانی · هۆشداریی هاتووچۆی دەریایی و ئاسمانی · کێلەبەر",
-        "description:ckb": "تیربارانی سەربازی لە سنووری دیاریکراودا ئەنجام دەدرێت.",
-        "city:ckb": "شارستانی کێلەبەر",
-        "province:ckb": "ئازەربایجانی ڕۆژھەڵات",
-        "fir:en": "Tehran FIR (Iran)",
-        "notamCategory:en": "Navigation warning (gunfire, exercise, drone and the like)",
-        "validFrom:en": "2026-11-11 07:00",
-        "validTo:en": "2026-11-18 22:00",
-        "flBand:en": "From ground level to unlimited",
-        "shapeSource:en": "Area with the coordinates stated in the NOTAM",
-        "fir:ar": "منطقة طيران طهران (إيران)",
-        "notamCategory:ar": "تحذير ملاحي (إطلاق نار، مناورات، طائرات مسيّرة وما شابه)",
-        "validFrom:ar": "2026-11-11 07:00",
-        "validTo:ar": "2026-11-18 22:00",
-        "flBand:ar": "من سطح الأرض إلى بلا حد للارتفاع",
-        "shapeSource:ar": "منطقة بالإحداثيات المذكورة في الإشعار",
-        "fir:he": "מרחב הטיסה טהראן (איראן)",
-        "notamCategory:he": "אזהרת ניווט (ירי, תרגיל, כטב\"ם וכדומה)",
-        "validFrom:he": "2026-11-11 07:00",
-        "validTo:he": "2026-11-18 22:00",
-        "flBand:he": "מפני הקרקע עד ללא הגבלת גובה",
-        "shapeSource:he": "אזור לפי הקואורדינטות שבנוטאם",
-        "fir:tr": "Tahran uçuş bölgesi (İran)",
-        "notamCategory:tr": "Seyrüsefer uyarısı (atış, tatbikat, İHA ve benzeri)",
-        "validFrom:tr": "2026-11-11 07:00",
-        "validTo:tr": "2026-11-18 22:00",
-        "flBand:tr": "yer seviyesi ile sınırsız irtifa arası",
-        "shapeSource:tr": "NOTAM'da belirtilen koordinatlara göre alan",
-        "fir:ckb": "ناوچەی فڕینی تاران (ئێران)",
-        "notamCategory:ckb": "ئاگاداری ڕێنیشاندان (تەقەکردن، مانۆڕ، درۆن و هاوشێوەکانی)",
-        "validFrom:ckb": "2026-11-11 07:00",
-        "validTo:ckb": "2026-11-18 22:00",
-        "flBand:ckb": "لە ئاستی زەوی تا بێ سنووری بەرزی",
-        "shapeSource:ckb": "ناوچەیەک بە کۆردیناتە ڕاگەیەنراوەکانی ناو نۆتام",
-        "id": "Mzg6bm90YW0tb2lpeC1iMDYwMi0yNg",
-        "publicId": "Mzg6bm90YW0tb2lpeC1iMDYwMi0yNg",
-        "sourceId": "notam-oiix-b0602-26",
-        "layerId": 38,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": "2026-11-18T18:30:00.000Z",
-        "createdAt": "2026-11-07T11:32:53.916Z",
-        "updatedAt": "2026-11-07T11:32:53.916Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 115846,
       "geometry": {
         "type": "Polygon",
@@ -2472,7 +2365,7 @@
     }
   ],
   "metadata": {
-    "total": 16,
+    "total": 15,
     "layerId": 38,
     "clustered": false,
     "simplified": false
