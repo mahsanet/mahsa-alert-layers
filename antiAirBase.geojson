@@ -11150,10 +11150,178 @@
         "createdAt": "2026-11-13T15:22:05.067Z",
         "updatedAt": "2026-11-13T15:22:05.067Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118260,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.55409963982217,
+              33.76649538943566
+            ],
+            [
+              51.554461054657025,
+              33.7654228127724
+            ],
+            [
+              51.5567806597069,
+              33.76592925183003
+            ],
+            [
+              51.55644034237463,
+              33.766647792355926
+            ],
+            [
+              51.5559217766322,
+              33.7669187404408
+            ],
+            [
+              51.55409963982217,
+              33.76649538943566
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان کاشان",
+        "province": "استان اصفهان",
+        "city:en": "Kashan",
+        "province:en": "Isfahan",
+        "city:ar": "مقاطعة كاشان",
+        "province:ar": "أصفهان",
+        "city:he": "מחוז כאשאן",
+        "province:he": "אספהאן",
+        "city:tr": "Kaşan",
+        "province:tr": "İsfahan",
+        "city:ckb": "کاچان",
+        "province:ckb": "ئەسفەھان",
+        "id": "ODphYWNhOTg3ZTE2MTU",
+        "publicId": "ODphYWNhOTg3ZTE2MTU",
+        "sourceId": "aaca987e1615",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-19T20:16:37.471Z",
+        "updatedAt": "2026-11-19T20:16:37.471Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118261,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.567205521012625,
+              33.77191934808732
+            ],
+            [
+              51.567539552676635,
+              33.77316363473828
+            ],
+            [
+              51.568829831174924,
+              33.77442547758575
+            ],
+            [
+              51.569996827914395,
+              33.775866590338
+            ],
+            [
+              51.570072936406234,
+              33.776580109329686
+            ],
+            [
+              51.56995907326876,
+              33.77775051917315
+            ],
+            [
+              51.57111600797586,
+              33.77939906390182
+            ],
+            [
+              51.572082633552725,
+              33.77916033279426
+            ],
+            [
+              51.571473086502806,
+              33.77668222379049
+            ],
+            [
+              51.57092150489018,
+              33.77444436409789
+            ],
+            [
+              51.57043233687702,
+              33.77245208696165
+            ],
+            [
+              51.57004492288698,
+              33.77087460239342
+            ],
+            [
+              51.56991127087471,
+              33.77061113912865
+            ],
+            [
+              51.569543493277166,
+              33.77036073664833
+            ],
+            [
+              51.56788694075868,
+              33.77096580997538
+            ],
+            [
+              51.567205521012625,
+              33.77191934808732
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "شهرستان کاشان",
+        "province": "استان اصفهان",
+        "city:en": "Kashan County",
+        "province:en": "Isfahan",
+        "city:ar": "مقاطعة كاشان",
+        "province:ar": "أصفهان",
+        "city:he": "מחוז כאשאן",
+        "province:he": "אספהאן",
+        "city:tr": "Kaşan",
+        "province:tr": "İsfahan",
+        "city:ckb": "کاشان",
+        "province:ckb": "ئەسفەھان",
+        "id": "ODoxZWE5OTUxMTE3NjM",
+        "publicId": "ODoxZWE5OTUxMTE3NjM",
+        "sourceId": "1ea995111763",
+        "layerId": 8,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-19T20:17:33.994Z",
+        "updatedAt": "2026-11-19T20:17:33.994Z"
+      }
     }
   ],
   "metadata": {
-    "total": 141,
+    "total": 143,
     "layerId": 8,
     "clustered": false,
     "simplified": false

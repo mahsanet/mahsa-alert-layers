@@ -107042,10 +107042,60 @@
         "createdAt": "2026-11-18T19:15:19.608Z",
         "updatedAt": "2026-11-18T19:15:19.608Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.07748047255933,
+          26.959634413899835
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج درگهان",
+        "unofficial_name:fa": "",
+        "description": "مکان دوم بسیج درگهان اول مجموعه مسکن مهر",
+        "date": 1795105406,
+        "city": "درگهان",
+        "province": "استان هرمزگان",
+        "name:en": "Dargahan Basij Base",
+        "description:en": "Second Basij location in Dargahan, first, the Mehr Housing complex.",
+        "city:en": "Dargahan",
+        "province:en": "Hormozgan",
+        "name:ar": "قاعدة التعبئة (البسيج) في دركهان",
+        "description:ar": "الموقع الثاني للتعبئة (البسيج) في دركهان، أول مجمع مسكن مهر السكني",
+        "city:ar": "دركهان",
+        "province:ar": "هرمزكان",
+        "name:he": "בסיס בסיג' דרגהאן",
+        "description:he": "המיקום השני של הבסיג' בדרגהאן, מול מתחם מסכן מהר",
+        "city:he": "דרגהאן",
+        "province:he": "הורמוזגאן",
+        "name:tr": "Dargehan Besic Üssü",
+        "description:tr": "Dargehan Besic'in ikinci yeri, Mehr Konutları Kompleksi'nin başı",
+        "city:tr": "Dargehan",
+        "province:tr": "Hürmüzgan",
+        "name:ckb": "بنکەی بسیجی دەڕگەهان",
+        "description:ckb": "شوێنی دووەمی بسیجی دەڕگەهان لەسەرەتای کۆمەڵگەی نیشتەجێبوونی مەهر",
+        "city:ckb": "دەڕگەهان",
+        "province:ckb": "ھورمزگان",
+        "id": "MTo3MjdiZmY2MGZhNTk",
+        "publicId": "MTo3MjdiZmY2MGZhNTk",
+        "sourceId": "727bff60fa59",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-19T20:09:37.877Z",
+        "updatedAt": "2026-11-19T20:09:42.620Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2403,
+    "total": 2404,
     "layerId": 1,
     "clustered": false,
     "simplified": false

@@ -14751,10 +14751,60 @@
         "createdAt": "2026-11-18T02:12:43.493Z",
         "updatedAt": "2026-11-18T02:12:43.493Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.47926814854145,
+          35.64088396773752
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1795121547,
+        "description": "ایست بازرسی در بلوار ابوذر",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint on Abouzar Boulevard",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش في شارع أبو ذر",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה בשדרות אבוזר",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Ebu Zer Bulvarı'nda kontrol noktası",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنین لە شەقامەسووری ئەبوذەر",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzk6YmVlMmZkYzFjMWJh",
+        "publicId": "Mzk6YmVlMmZkYzFjMWJh",
+        "sourceId": "bee2fdc1c1ba",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-20T00:29:34.969Z",
+        "updatedAt": "2026-11-20T00:29:34.969Z"
+      }
     }
   ],
   "metadata": {
-    "total": 303,
+    "total": 304,
     "layerId": 39,
     "clustered": false,
     "simplified": false

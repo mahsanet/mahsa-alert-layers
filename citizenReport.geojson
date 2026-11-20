@@ -15899,10 +15899,110 @@
         "createdAt": "2026-11-17T22:56:35.519Z",
         "updatedAt": "2026-11-17T22:56:43.681Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.51898965239525,
+          35.6452607329653
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش فعالیت پدافندی",
+        "city": "شهرستان تهران",
+        "province": "استان تهران",
+        "date": 1795079355,
+        "description": "گزارش شنیده شدن صدای تیر یا پدافند هوایی در دهستان سیاهرود",
+        "sources": "",
+        "name:en": "Air Defense Activity Report",
+        "description:en": "Report of hearing the sound of gunfire or air defense in Siahroud Rural District",
+        "city:en": "Tehran County",
+        "province:en": "Tehran",
+        "name:ar": "تقرير عن نشاط الدفاع الجوي",
+        "description:ar": "تقارير عن سماع أصوات إطلاق نار أو دفاع جوي في ناحية سياهرود الريفية",
+        "city:ar": "مقاطعة طهران",
+        "province:ar": "طهران",
+        "name:he": "דיווח על פעילות הגנה אווירית",
+        "description:he": "דיווח על שמיעת קולות ירי או הגנה אווירית במועצה האזורית סיאהרוד",
+        "city:he": "מחוז טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Savunma Faaliyeti Raporu",
+        "description:tr": "Siyahrood kırsal bölgesinde atış veya hava savunma sistemi seslerinin duyulduğuna dair rapor",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "ڕاپۆرتی چالاکیی بەرگریی",
+        "description:ckb": "ڕاپۆرتی بیستنی دەنگی تەقە یان بەرگریی ئاسمانی لە گوندەواری سیاھروود",
+        "city:ckb": "شارستانی تاران",
+        "province:ckb": "تاران",
+        "id": "MzY6Y2RlZDViMjI3OTcz",
+        "publicId": "MzY6Y2RlZDViMjI3OTcz",
+        "sourceId": "cded5b227973",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-19T20:06:14.465Z",
+        "updatedAt": "2026-11-19T20:06:14.465Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83602983504534,
+          33.99976284534988
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش لانچ موشک",
+        "description": "گزارش پرتاب موشک در محدوده کمربندی نراق، دهستان جوشق در ۲۷ آبان ماه ۱۴۰۵",
+        "date": 1795020106,
+        "city": "شهرستان دلیجان",
+        "province": "استان مرکزی",
+        "sources": "",
+        "name:en": "Missile Launch Report",
+        "description:en": "Report of a missile launch in the area of the Naraq bypass, Joshq rural district, on November 17, 2026.",
+        "city:en": "Delijan County",
+        "province:en": "Markazi",
+        "name:ar": "تقرير إطلاق صواريخ",
+        "description:ar": "تقرير عن إطلاق صاروخ في منطقة الطريق الدائري لنراق، قرية جوشق في 27 أبان 1405",
+        "city:ar": "مقاطعة دليجان",
+        "province:ar": "المركزية",
+        "name:he": "דיווח על שיגור טיל",
+        "description:he": "דיווח על שיגור טיל באזור כביש המעקף של נראק, מועצה אזורית ג'ושק, ב-27 באבאן 1405",
+        "city:he": "מחוז דליג'אן",
+        "province:he": "מרכזי",
+        "name:tr": "Füze Fırlatma Raporu",
+        "description:tr": "27 Kasım 2006 tarihinde Narak çevre yolu ve Cûşak kırsal mahallesinde füze fırlatıldığına dair rapor",
+        "city:tr": "Delican",
+        "province:tr": "Merkezi",
+        "name:ckb": "ڕاپۆرتی هەڵدانی مووشک",
+        "description:ckb": "ڕاپۆرتی هەڵدانی مووشک لە دەوروبەری قەراغڕێی نەراق، گوندەواری جۆشق لە ٢٧ی خەزەڵوەری ١٤٠٥",
+        "city:ckb": "شارستانی دەلیجان",
+        "province:ckb": "مەرکەزی",
+        "id": "MzY6Mjg1NzdiMzRhZjRm",
+        "publicId": "MzY6Mjg1NzdiMzRhZjRm",
+        "sourceId": "28577b34af4f",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-19T20:14:47.100Z",
+        "updatedAt": "2026-11-19T20:14:56.010Z"
+      }
     }
   ],
   "metadata": {
-    "total": 326,
+    "total": 328,
     "layerId": 36,
     "clustered": false,
     "simplified": false

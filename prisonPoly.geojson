@@ -13178,10 +13178,54 @@
         "createdAt": "2026-11-05T20:10:27.301Z",
         "updatedAt": "2026-11-05T20:10:27.301Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54995511099696,
+          36.28072466313532
+        ]
+      },
+      "properties": {
+        "name": "بازداشتگاه سروش",
+        "description": "در مواقع شلوغی و اعتراضات محل بازداشت معترضین و شکنجه‌گاه است. با حضور قاضی، بازداشتی‌ها به زندان منتقل می‌شوند. اداره‌های اطراف از جمله آگاهی، مواد مخدر و یگان ویژه از داخل به این بازداشتگاه متصل هستند.",
+        "date": 1795040508,
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "description:en": "During crowded times and protests, this is a detention center for protesters and a place of torture. With a judge present, detainees are transferred to prison. Surrounding departments including the Criminal Investigation, Anti-Narcotics, and Special Units are connected to this detention facility from the inside.",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "description:ar": "في أوقات الازدحام والاحتجاجات، يُستخدم هذا المكان كمركز لمكافحة الاحتجاجات ومكان للتعذيب. وبحضور القاضي، يتم نقل المعتقلين إلى السجن. وتتصل الإدارات المحيطة، بما في ذلك المباحث الجنائية ومكافحة المخدرات والوحدات الخاصة، بهذا المعتقل من الداخل.",
+        "city:ar": "مشهد",
+        "province:ar": "خراسان رضوي",
+        "description:he": "בעת עומס ומחאות, המקום משמש כמתקן מעצר למפגינים וכמקום עינויים. בנוכחות שופט, העצורים מועברים לכלא. המשרדים המסביב, כולל המשטרה החוקרת (אגאהי), יחידת הסמים והיחידה המיוחדת, מחוברים למתקן מעצר זה מבפנים.",
+        "city:he": "משהד",
+        "province:he": "ח'וראסאן רזאווי",
+        "description:tr": "Kalabalık ve protesto zamanlarında protestocuların gözaltına alındığı ve işkence gördüğü yerdir. Bir hakimin katılımıyla gözaltına alınanlar cezaevine nakledilir. Emniyet müdürlüğü, narkotik şube ve özel harekat dahil çevredeki daireler içeriden bu gözaltı merkezine bağlıdır.",
+        "city:tr": "Meşhed",
+        "province:tr": "Razavi Horasan",
+        "description:ckb": "لە کاتی قەرەباڵغی و ناڕەزایەتییەکاندا، شوێنی دەستبەسەرکردنی ناڕازییان و ئەشکەنجەدانە. بە ئامادەبوونی دادوەر، دەستبەسەرکراوەکان بۆ زیندان دەگوازرێنەوە. فەرمانگە دەوروبەرییەکان لەوانە بنکەی پۆلیسی لێکۆڵینەوە، ماددە هۆشبەرەکان و یەکەی تایبەت لە ناوەوە بەم دەستبەسەرگەیەوە بەستراونەتەوە.",
+        "city:ckb": "مەشهەد",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "NTpkOTUyODFlN2MyZmM",
+        "publicId": "NTpkOTUyODFlN2MyZmM",
+        "sourceId": "d95281e7c2fc",
+        "layerId": 5,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-19T20:13:43.583Z",
+        "updatedAt": "2026-11-19T20:13:43.583Z"
+      }
     }
   ],
   "metadata": {
-    "total": 189,
+    "total": 190,
     "layerId": 5,
     "clustered": false,
     "simplified": false
