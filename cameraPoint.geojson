@@ -819562,10 +819562,61 @@
         "createdAt": "2026-11-17T14:30:36.298Z",
         "updatedAt": "2026-11-17T14:30:36.298Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.527907494455576,
+          32.888704483094784
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین امنیتی",
+        "lastReport": "",
+        "date": 1795162999,
+        "addressDescription": "",
+        "description": "در این ضلع از میدان بانک مسکن گلدیس یک دوربین با پایه بلند امنیتی قرار گرفته است.",
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "Security Camera",
+        "description:en": "In this corner of Goldis Bank Melli Square, a security camera with a tall pole is installed.",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "كاميرا أمنية",
+        "description:ar": "توجد كاميرا أمنية مثبتة على عمود مرتفع في هذا الجانب من ميدان بنك مسكن غلديس.",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "מצלמת אבטחה",
+        "description:he": "בצלע זו של כיכר בנק מסכן גולדיס מוצבת מצלמת אבטחה על עמוד גבוה.",
+        "city:he": "שהין שהר",
+        "province:he": "אספהאן",
+        "name:tr": "Güvenlik Kamerası",
+        "description:tr": "Goldis Bank Melli meydanının bu kenarında uzun ayaklı bir güvenlik kamerası bulunmaktadır.",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "کامێرای ئەمنی",
+        "description:ckb": "لەم لایەی مەیدانی بانکی مەسکەنی گۆڵدیس کامێرایەکی ئەمنی لەگەڵ پایەیەکی بەرزدا دانراوە.",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "MjA6ZGI1YWZmNDIwYzUw",
+        "publicId": "MjA6ZGI1YWZmNDIwYzUw",
+        "sourceId": "db5aff420c50",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-20T09:43:13.583Z",
+        "updatedAt": "2026-11-20T09:43:13.583Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18699,
+    "total": 18700,
     "layerId": 20,
     "clustered": false,
     "simplified": false

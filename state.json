@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-20T02:00:16.571Z",
-  "serial": 10034,
+  "lastUpdated": "2026-11-21T02:00:26.304Z",
+  "serial": 10130,
   "layers": {
     "40": "2c8342a484e6422ed2d96252d1aeb5403273f825",
     "missilePrograms": "a9267bd234e8ae84887958ab51fd1589fcf4b7b0",
@@ -19,14 +19,14 @@
     "protestPoint": "7098172da6ae6d88ac05b9a470d2f2ad9a5f8533",
     "militaryBase": "4aed922270d5b1d8ee5261b6bc99e28f0597159c",
     "newTargets": "f0a3b78a7d6418299c63c5a6e9d92a9ff2c468c8",
-    "javidnam": "e82b9119257b4185b597ccc2031d209285ebd58b",
+    "javidnam": "c0247bbc8b01afb1d0e52a18da350b46a63788d6",
     "areowayBase": "04b707d771f955ae1404039ecb84d2009983820b",
-    "basijBase": "56f7b07d1bea612df5098bbdb2f456c8eefd3f8a",
+    "basijBase": "7eed8aeb0f2467a9d854f6c47dfea83c8271dc18",
     "culturePoint": "faaa93cdf4b7ce6d697a2012ef288ce34799eb85",
     "marakezGhazayi": "d3dc5e5672cc9001ad0035b1672540c7644cb15c",
     "unknownBase": "d35612a72aa452a9e5ff6d3b877a44335786a619",
     "hospital": "6ada194f952177b22beff2d72f7cc52efba4fea4",
-    "citizenReport": "d74bdd1a0bc3dce598be32befd11b240b03d70d1",
+    "citizenReport": "9837bf0ef818c49a1f088c7d10d358288e92a550",
     "emergencyBase": "d246765486bac2a2d59fc4f1201054133576a3c1",
     "medicalClinic": "7c9399f2857463afa1ca5eff5cfbc613d444bd6a",
     "marakezEntezami": "a53502ff0c6230809b72e75842753154173ed9f7",
@@ -35,12 +35,12 @@
     "clinic": "1690ebb79d2f0247bf3b72df80f468398ef40891",
     "amakenMazhabiPoint": "707ca57c170004591072204cd9f439aad002cca9",
     "chatroom": "ece29e7e2b2491077271fcea54766c68f74b0537",
-    "pharmacy": "93414598278ad2dda8e3ebc1370f68e5f7656ef4",
-    "cameraPoint": "c56fea0dd4a607e8bd8f4672cc6d969416d49dff",
-    "MaritimeEvents": "08566d6743206900d19d629c3229c3fd9e0021af",
-    "notam": "8931f84ab7f0f0734cd93395632a219c7dbbf5d5",
+    "pharmacy": "f5924729110c4add6d84b83e176a40146dd6220e",
+    "cameraPoint": "f82de47432f72ef03c8dfdfad3bd521e1282c48a",
+    "MaritimeEvents": "b650076ba972f342c060ab0598a6072e2fd89b46",
+    "notam": "7f3a4ac340517f442f320eee6c69b444b8bb5d19",
     "Checkpoint": "77e3cc2a8f91404d59db8ec3654df525dbf2073e",
-    "regimeGathering": "4ca3b21f97f36a469b15301bf55c9e2016e8e676",
-    "FieldReport": "b9cc74eb701253fd02ea2dcdf733d1c11511f852"
+    "regimeGathering": "9224b5de247bb37ed5d722150ecc0c5d28013d88",
+    "FieldReport": "948c9e515ab0d71256f9732493b45370e8a8a45c"
   }
 }

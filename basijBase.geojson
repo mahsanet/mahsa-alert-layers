@@ -106771,15 +106771,22 @@
       "properties": {
         "name:fa": "حوزه بسیج",
         "unofficial_name:fa": "",
-        "description": "",
+        "description": "حوزه مقاومت بسیج که دارای دو دوربین مدار بسته در خارج از پایگاه است و در انتهای کوچه و در بین بافت مسکونی و نزدیک مدرسه ابتدایی دخترانه قرار گرفته است و یک در آن در کوچه و دو درب آن در پشت کوچه باز می‌شوند. در هر دو‌جنگ دوازده روزه و چهل روزه بالای پشت بام آن افرادی با لباس شخصی نگهبانی می‌دادند.",
         "date": 1794504530,
         "city": "",
         "province": "",
         "name:en": "Basij Base",
-        "name:ar": "مركز البسيج",
-        "name:he": "בסיס בסיג'",
+        "description:en": "The Basij resistance base features two closed-circuit security cameras outside the facility. It is located at the end of an alley within a residential area near a girls' elementary school. One of its doors opens into the alley, while two other doors open into the back alley. During both the twelve-day and forty-day conflicts, individuals in plainclothes stood guard on its rooftop.",
+        "name:ar": "مركز التعبئة (البسيج)",
+        "description:ar": "مركز مقاومة التعبئة (البسيج) الذي يحتوي على كاميرتي مراقبة خارج القاعدة، ويقع في نهاية الزقاق بين المناطق السكنية وبالقرب من مدرسة ابتدائية للبنات. تفتح إحدى أبوابه على الزقاق وبابان في الجزء الخلفي منه. خلال كل من حرب الـ 12 يوما وحرب الـ 40 يوما، كان هناك أفراد بلباس مدني يحرسون أعلى السطح.",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס התנגדות באסיג' המצויד בשתי מצלמות במעגל סגור מחוץ לבסיס. הוא ממוקם בסוף הסמטה, בתוך אזור מגורים ובקרבת בית ספר יסודי לבנות. שער אחד שלו נפתח לסמטה ושני שערים נוספים נפתחים לחלק האחורי של הסמטה. הן במלחמת 12 הימים והן במלחמת 40 הימים עמדו שומרים בלבוש אזרחי על גג המבנה.",
         "name:tr": "Besic Karargahı",
-        "name:ckb": "بنکەی بسیج",
+        "description:tr": "Karargahın dışında iki adet güvenlik kamerası bulunan, sokağın sonunda, yerleşim dokusunun içinde ve kız ilkokulunun yakınında yer alan Besic Direniş Karargahı'nın sokağa açılan bir kapısı ve sokağın arka tarafına açılan iki kapısı bulunmaktadır. Hem on iki günlük hem de kırk günlük savaşlar sırasında çatının üst kısmında sivil kıyafetli kişiler nöbet tutuyordu.",
+        "name:ckb": "بنکەی بەسیج",
+        "description:ckb": "بنکەی خۆڕاگریی بەسیج کە دوو کامێرای چاودێری لە دەرەوەی بنکەکە هەیە و لە کۆتایی کۆڵانێکدا و لە ناوچەیەکی نیشتەجێبوون و نزیک قوتابخانەیەکی سەرەتایی کچان هەڵکەوتووە، دەرگایەکی لە کۆڵانەکەدا و دوو دەرگای لە پشت کۆڵانەکەوە دەکرێنەوە. لە هەردوو شەڕی ١٢ ڕۆژە و ٤٠ ڕۆژەدا لەسەر سەربانەکەی چەند کەسێک بە جلوبەرگی مەدەنییەوە پاسەوانییان دەکرد.",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
         "id": "MTo0MzhjMDZkOTRkYTk",
         "publicId": "MTo0MzhjMDZkOTRkYTk",
         "sourceId": "438c06d94da9",
@@ -106790,7 +106797,7 @@
         "verificationTag": "not-verified",
         "expirationDate": null,
         "createdAt": "2026-11-13T15:15:39.572Z",
-        "updatedAt": "2026-11-13T15:15:39.572Z"
+        "updatedAt": "2026-11-20T09:46:19.450Z"
       }
     },
     {
