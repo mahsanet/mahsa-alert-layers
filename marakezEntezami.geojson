@@ -266368,10 +266368,74 @@
         "createdAt": "2026-11-18T02:13:52.371Z",
         "updatedAt": "2026-11-18T02:13:52.371Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118311,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.55912677837185,
+              29.559432691916356
+            ],
+            [
+              52.55960530569092,
+              29.559598182216604
+            ],
+            [
+              52.55970922405777,
+              29.559345936981074
+            ],
+            [
+              52.55923740114957,
+              29.559174613990592
+            ],
+            [
+              52.55912677837185,
+              29.559432691916356
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "کلانتری",
+        "description": "",
+        "date": "",
+        "city": "شیراز",
+        "province": "استان فارس",
+        "name:en": "Kalantari",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "name:ar": "قسم الشرطة",
+        "city:ar": "شيراز",
+        "province:ar": "فارس",
+        "name:he": "תחנת משטרה",
+        "city:he": "שיראז",
+        "province:he": "פארס",
+        "name:tr": "Karakol",
+        "city:tr": "Şiraz",
+        "province:tr": "Fars",
+        "name:ckb": "بنکەی پۆلیس",
+        "city:ckb": "شیراز",
+        "province:ckb": "فارس",
+        "id": "MzphNjk4ZWNiNjgzOWU",
+        "publicId": "MzphNjk4ZWNiNjgzOWU",
+        "sourceId": "a698ecb6839e",
+        "layerId": 3,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-21T11:20:29.356Z",
+        "updatedAt": "2026-11-21T11:20:29.356Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6115,
+    "total": 6116,
     "layerId": 3,
     "clustered": false,
     "simplified": false

@@ -44524,8 +44524,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.498211,
-          36.682223
+          52.498053282831336,
+          36.68224414410106
         ]
       },
       "properties": {
@@ -44557,7 +44557,7 @@
         "verificationTag": null,
         "expirationDate": null,
         "createdAt": "2026-03-11T20:52:52.879Z",
-        "updatedAt": "2026-03-11T20:52:52.879Z"
+        "updatedAt": "2026-11-21T23:18:27.443Z"
       }
     },
     {
@@ -107099,10 +107099,210 @@
         "createdAt": "2026-11-19T20:09:37.877Z",
         "updatedAt": "2026-11-19T20:09:42.620Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.49287761747837,
+          29.80836419343126
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "یکی از شعبه‌های بسیج مسجدی در محلات",
+        "date": 1795235303,
+        "city": "شهرجدیدصدرا",
+        "province": "استان فارس",
+        "name:en": "Basij Base",
+        "description:en": "One of the mosque-based Basij branches in Mahallat",
+        "city:en": "Sadra New City",
+        "province:en": "Fars",
+        "name:ar": "قاعدة التعبئة (البسيج)",
+        "description:ar": "إحدى شعب التعبئة (البسيج) التابعة لمسجد في محلات.",
+        "city:ar": "شهر جديد صدرا",
+        "province:ar": "فارس",
+        "name:he": "בסיס באסיג'",
+        "description:he": "אחד מסניפי הבאסיג' המסגדיים במחלאת",
+        "city:he": "שהר-י ג'דיד-ה סדרא",
+        "province:he": "פארס",
+        "name:tr": "Besic Karargahı",
+        "description:tr": "Mahallat'taki bir cami besic şubelerinden biri",
+        "city:tr": "Sadra Yeni Kenti",
+        "province:tr": "Fars",
+        "name:ckb": "بنکەی بسیج",
+        "description:ckb": "یەکێک لە لقی بسیجی مزگەوتێک لە مەحەڵات",
+        "city:ckb": "شارەنوێی سەدرا",
+        "province:ckb": "فارس",
+        "id": "MTpiMjY0YjY5OGJiZjQ",
+        "publicId": "MTpiMjY0YjY5OGJiZjQ",
+        "sourceId": "b264b698bbf4",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-21T11:16:25.606Z",
+        "updatedAt": "2026-11-21T11:16:25.606Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.603785283863544,
+          29.553756714591927
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "قبلا محل خاکسپاری مردم بوده و الان به پایگاه بسیج تبدیل شده است.",
+        "date": 1795247755,
+        "city": "شیراز",
+        "province": "استان فارس",
+        "name:en": "Basij Base",
+        "description:en": "It was previously a burial site for people and has now been converted into a Basij base.",
+        "city:en": "Shiraz",
+        "province:en": "Fars",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "كان هذا الموقع سابقاً مكاناً لدفن الموتى، وقد تحول الآن إلى قاعدة للبسيج.",
+        "city:ar": "شيراز",
+        "province:ar": "فارس",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בעבר היה מקום קבורה של אנשים כעת הפך לבסיס באסיג'.",
+        "city:he": "שיראז",
+        "province:he": "פארס",
+        "name:tr": "Besic Karargahı",
+        "description:tr": "Daha önce halkın defnedildiği bir yerdi, şimdi Besic karargahına dönüştürülmüştür.",
+        "city:tr": "Şiraz",
+        "province:tr": "Fars",
+        "name:ckb": "بنکەی بسیج",
+        "description:ckb": "پێشتر شوێنی نێژانی خەڵک بووە و ئێستا بۆ بنکەی بسیج گۆڕدراوە.",
+        "city:ckb": "شیراز",
+        "province:ckb": "فارس",
+        "id": "MToxYzBhODEzNjUyN2M",
+        "publicId": "MToxYzBhODEzNjUyN2M",
+        "sourceId": "1c0a8136527c",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-21T11:18:49.526Z",
+        "updatedAt": "2026-11-21T11:18:49.526Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.52867514332374,
+          36.66784279575268
+        ]
+      },
+      "properties": {
+        "name:fa": "پایگاه بسیج",
+        "unofficial_name:fa": "",
+        "description": "پایگاه بسیج مسجد",
+        "date": 1795214863,
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "name:en": "Basij Base",
+        "description:en": "Mosque Basij base",
+        "city:en": "Zanjan",
+        "province:en": "Zanjan",
+        "name:ar": "قاعدة البسيج",
+        "description:ar": "قاعدة البسيج في المسجد",
+        "city:ar": "زنجان",
+        "province:ar": "زنجان",
+        "name:he": "בסיס באסיג'",
+        "description:he": "בסיס באסיג' של המסגד",
+        "city:he": "זנג'אן",
+        "province:he": "זנג'אן",
+        "name:tr": "Besih Üssü",
+        "description:tr": "Caminin Besih üssü",
+        "city:tr": "Zencan",
+        "province:tr": "Zencan",
+        "name:ckb": "بنکەی بسیجی",
+        "description:ckb": "بنکەی بسیجی مزگەوت",
+        "city:ckb": "زەنجان",
+        "province:ckb": "زەنجان",
+        "id": "MTo2YjQ5OGI0ZjE1NWM",
+        "publicId": "MTo2YjQ5OGI0ZjE1NWM",
+        "sourceId": "6b498b4f155c",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-21T11:22:43.585Z",
+        "updatedAt": "2026-11-21T11:22:48.990Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.86088528571986,
+          32.32944369812344
+        ]
+      },
+      "properties": {
+        "name:fa": "بسیج",
+        "unofficial_name:fa": "",
+        "description": "بسیج",
+        "date": 1795276624,
+        "city": "شهركرد",
+        "province": "استان چهارمحال و بختیاری",
+        "name:en": "Basij",
+        "description:en": "Basij",
+        "city:en": "Shahrekord",
+        "province:en": "Chaharmahal and Bakhtiari",
+        "name:ar": "البسيج",
+        "description:ar": "البسيج",
+        "city:ar": "شهركرد",
+        "province:ar": "جهار محال وبختياري",
+        "name:he": "בסיג'",
+        "description:he": "בסיג'",
+        "city:he": "שהר-א-כורד",
+        "province:he": "צ'הארמחאל ובח'תיארי",
+        "name:tr": "Besic",
+        "description:tr": "Besic",
+        "city:tr": "Şehrekürd",
+        "province:tr": "Çaharmahal ve Bahtiyari",
+        "name:ckb": "بەسیج",
+        "description:ckb": "بەسیج",
+        "city:ckb": "شارکورد",
+        "province:ckb": "چوارمەحاڵ و بەختیاری",
+        "id": "MTo2NjYxMTE0ZTUyOGI",
+        "publicId": "MTo2NjYxMTE0ZTUyOGI",
+        "sourceId": "6661114e528b",
+        "layerId": 1,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-21T23:22:55.616Z",
+        "updatedAt": "2026-11-21T23:23:00.934Z"
+      }
     }
   ],
   "metadata": {
-    "total": 2404,
+    "total": 2408,
     "layerId": 1,
     "clustered": false,
     "simplified": false

@@ -255312,10 +255312,74 @@
         "createdAt": "2026-11-18T19:14:24.009Z",
         "updatedAt": "2026-11-18T19:14:29.237Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118312,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.52859751096571,
+              36.66792760130092
+            ],
+            [
+              48.5289436402619,
+              36.66786276682561
+            ],
+            [
+              48.52882592116208,
+              36.66752097548054
+            ],
+            [
+              48.52849384787751,
+              36.66758862914543
+            ],
+            [
+              48.52859751096571,
+              36.66792760130092
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد امیرالمومنین",
+        "description": "",
+        "date": "",
+        "city": "زنجان",
+        "province": "استان زنجان",
+        "name:en": "Amir ol-Mo'menin Mosque",
+        "city:en": "Zanjan",
+        "province:en": "Zanjan",
+        "name:ar": "مسجد أمير المؤمنين",
+        "city:ar": "زنجان",
+        "province:ar": "زنجان",
+        "name:he": "מסגד אמיר אל-מומנין",
+        "city:he": "זנג'אן",
+        "province:he": "זנג'אן",
+        "name:tr": "Emirülmüminin Mescidi",
+        "city:tr": "Zencan",
+        "province:tr": "Zencan",
+        "name:ckb": "مزگەوتی ئەمیرالموومنین",
+        "city:ckb": "زەنجان",
+        "province:ckb": "زەنجان",
+        "id": "NDo4MzBkYjIxYWRjMDI",
+        "publicId": "NDo4MzBkYjIxYWRjMDI",
+        "sourceId": "830db21adc02",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-21T11:22:17.514Z",
+        "updatedAt": "2026-11-21T11:22:17.514Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5865,
+    "total": 5866,
     "layerId": 4,
     "clustered": false,
     "simplified": false

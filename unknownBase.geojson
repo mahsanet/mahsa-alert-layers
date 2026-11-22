@@ -94128,10 +94128,87 @@
         "createdAt": "2026-11-15T06:32:39.005Z",
         "updatedAt": "2026-11-15T06:32:39.005Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118343,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.498215532704194,
+              36.68220840589092
+            ],
+            [
+              52.4978771213529,
+              36.68215609156273
+            ],
+            [
+              52.4977464506419,
+              36.682131776405726
+            ],
+            [
+              52.497515528175654,
+              36.683224501330585
+            ],
+            [
+              52.49804165132636,
+              36.683290065659435
+            ],
+            [
+              52.49805772148855,
+              36.68327325429847
+            ],
+            [
+              52.49817484212315,
+              36.68247744804518
+            ],
+            [
+              52.498215532704194,
+              36.68220840589092
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "ساختمان اصلی سپاه فریدونکنار",
+        "unofficial_name:fa": "",
+        "description": "",
+        "date": "",
+        "city": "فريدونكنار",
+        "province": "استان مازندران",
+        "name:en": "Fereydunkenar IRGC Main Building",
+        "city:en": "Fereydunkenar",
+        "province:en": "Mazandaran",
+        "name:ar": "المبنى الرئيسي لسباه فريدونكنار",
+        "city:ar": "فريدونكنار",
+        "province:ar": "مازندران",
+        "name:he": "בניין המפקדה הראשי של משמרות המהפכה בפרידונכנאר",
+        "city:he": "פרידונכנאר",
+        "province:he": "מאזנדראן",
+        "name:tr": "Feridunkenar Devrim Muhafızları Ana Binası",
+        "city:tr": "Feridunkenar",
+        "province:tr": "Mazenderan",
+        "name:ckb": "بارەگای سەرەکیی سوپای فریدونکنار",
+        "city:ckb": "فریدونکنار",
+        "province:ckb": "مازەندەران",
+        "id": "MTI6MzVmZTc4MmJlZjY3",
+        "publicId": "MTI6MzVmZTc4MmJlZjY3",
+        "sourceId": "35fe782bef67",
+        "layerId": 12,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-21T23:18:13.479Z",
+        "updatedAt": "2026-11-21T23:18:13.479Z"
+      }
     }
   ],
   "metadata": {
-    "total": 1135,
+    "total": 1136,
     "layerId": 12,
     "clustered": false,
     "simplified": false
