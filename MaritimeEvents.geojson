@@ -6916,10 +6916,65 @@
         "createdAt": "2026-11-21T08:37:22.696Z",
         "updatedAt": "2026-11-21T08:37:22.696Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.916666666666664,
+          24.383333333333333
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش دریایی · اطلاعیه · دریای عمان",
+        "description": "گزارشی از وقوع یک حادثه شامل یک نفتکش و نیروهای نظامی در خلیج عمان دریافت شده است.",
+        "incidentKind": "اطلاعیه",
+        "vesselType": "نفت‌کش",
+        "date": 1795357500,
+        "area": "دریای عمان",
+        "incidentKind:en": "Advisory",
+        "vesselType:en": "Tanker",
+        "area:en": "Gulf of Oman",
+        "incidentKind:ar": "تنبيه",
+        "vesselType:ar": "ناقلة",
+        "area:ar": "خليج عمان",
+        "incidentKind:he": "הודעה",
+        "vesselType:he": "מכלית",
+        "area:he": "מפרץ עומאן",
+        "incidentKind:tr": "Uyarı",
+        "vesselType:tr": "Tanker",
+        "area:tr": "Umman Körfezi",
+        "incidentKind:ckb": "ئاگاداری",
+        "vesselType:ckb": "تانکەر",
+        "area:ckb": "کەنداوی عومان",
+        "name:en": "Marine Report · Notice · Sea of Oman",
+        "description:en": "A report has been received regarding the occurrence of an incident involving an oil tanker and military forces in the Gulf of Oman.",
+        "name:ar": "تقرير بحري · إشعار · بحر عمان",
+        "description:ar": "تم تلقي تقرير عن وقوع حادث يشمل ناقلة نفط وقوات عسكرية في خليج عمان.",
+        "name:he": "דיווח ימי · הודעה · מפרץ עומאן",
+        "description:he": "התקבל דיווח על אירוע המעורב בו מיכלית נפט וכוחות צבאיים במפרץ עומאן.",
+        "name:tr": "Deniz Raporu · Duyuru · Umman Denizi",
+        "description:tr": "Umman Körfezi'nde bir petrol tankerini ve askeri güçleri kapsayan bir olayın meydana geldiğine dair rapor alınmıştır.",
+        "name:ckb": "ڕاپۆرتی دەریایی · ئاگاداری · دەریای عومان",
+        "description:ckb": "ڕاپۆرتێک لە ڕوودانەی ڕووداوێک کە تانکیەرێکی نەوت و هێزە سەربازییەکانی لە خۆ گرتووە لە دەریای عومان وەرگیراوە.",
+        "id": "Mzc6dWttdG8tdWttdG8tMjE3",
+        "publicId": "Mzc6dWttdG8tdWttdG8tMjE3",
+        "sourceId": "ukmto-ukmto-217",
+        "layerId": 37,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-22T16:36:15.564Z",
+        "updatedAt": "2026-11-22T16:36:15.564Z"
+      }
     }
   ],
   "metadata": {
-    "total": 114,
+    "total": 115,
     "layerId": 37,
     "clustered": false,
     "simplified": false

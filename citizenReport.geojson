@@ -16449,10 +16449,60 @@
         "createdAt": "2026-11-21T23:15:04.155Z",
         "updatedAt": "2026-11-21T23:15:04.155Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118354,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.13474577665329,
+          35.64700554143235
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش فعالیت جنگنده",
+        "city": "باغستان",
+        "province": "استان تهران",
+        "date": 1795319767,
+        "description": "شنیده شدن صدای پرواز جنگنده در ساعت ۰۷:۲۲ به وقت تهران به مدت حدود نیم دقیقه در ارتفاع بالا.",
+        "sources": "",
+        "name:en": "Fighter jet activity report",
+        "description:en": "The sound of a fighter jet flying was heard at 07:22 Tehran time for about half a minute at a high altitude.",
+        "city:en": "Baghistan",
+        "province:en": "Tehran",
+        "name:ar": "تقرير نشاط طائرات مقاتلة",
+        "description:ar": "سماع صوت تحليق طائرة مقاتلة في الساعة 07:22 بتوقيت طهران لمدة نصف دقيقة تقريباً على ارتفاع عالٍ.",
+        "city:ar": "باغستان",
+        "province:ar": "طهران",
+        "name:he": "דיווח על פעילות מטוסי קרב",
+        "description:he": "שמיעת קול טיסה של מטוס קרב בשעה 07:22 לפי שעון טהראן במשך כחצי דקה בגובה רב.",
+        "city:he": "באע'סתאן",
+        "province:he": "טהראן",
+        "name:tr": "Savaş Uçağı Faaliyet Raporu",
+        "description:tr": "Tahran saatiyle 07:22'de, yaklaşık yarım dakika süreyle yüksek irtifada savaş uçağı uçuş sesinin duyulması.",
+        "city:tr": "Bağistan",
+        "province:tr": "Tahran",
+        "name:ckb": "ڕاپۆرتی چالاکیی فڕۆکەی جەنگی",
+        "description:ckb": "بیستنی دەنگی فڕینی فڕۆکەی جەنگی لە کاتژمێر ٠٧:٢٢ی کاتی تاران بۆ ماوەی نزیکەی نیو خولەک لە بەرزاییەکی زۆردا.",
+        "city:ckb": "باغستان",
+        "province:ckb": "تاران",
+        "id": "MzY6MGNlMWFjNGU5NmUw",
+        "publicId": "MzY6MGNlMWFjNGU5NmUw",
+        "sourceId": "0ce1ac4e96e0",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-22T04:20:32.690Z",
+        "updatedAt": "2026-11-22T04:20:32.690Z"
+      }
     }
   ],
   "metadata": {
-    "total": 337,
+    "total": 338,
     "layerId": 36,
     "clustered": false,
     "simplified": false
