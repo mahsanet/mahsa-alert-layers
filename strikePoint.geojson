@@ -2120,10 +2120,61 @@
         "createdAt": "2026-09-16T17:06:14.002Z",
         "updatedAt": "2026-09-16T17:06:14.002Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118397,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.59440893546105,
+          31.27216563931492
+        ]
+      },
+      "properties": {
+        "status": "active",
+        "name:fa": "اعتصاب کامیون‌داران شرکت سیمان خوزستان",
+        "date": 1795419824,
+        "sources": "",
+        "geolocates": "",
+        "description": "اعتصاب کامیون‌داران شرکت سیمان خوزستان در رامهرمز، محدوده میدان سلمان فارسی",
+        "city": "رامهرمز",
+        "province": "استان خوزستان",
+        "name:en": "Khuzestan Cement Company Truck Drivers Strike",
+        "description:en": "Strike of Khuzestan Cement Company truck drivers in Ramhormoz, around Salman Farsi Square.",
+        "city:en": "Ramhormoz",
+        "province:en": "Khuzestan",
+        "name:ar": "إضراب سائقي الشاحنات في شركة سيمانت خوزستان",
+        "description:ar": "إضراب سائقي الشاحنات في شركة سيمانت خوزستان في رامهرمز، محيط دوار سلمان الفارسي",
+        "city:ar": "رامهرمز",
+        "province:ar": "خوزستان",
+        "name:he": "שביתת נהגי המשאיות בחברת המלט ח'וזסטאן",
+        "description:he": "שביתת נהגי המשאיות בחברת המלט ח'וזסטאן ברמהורמוז, באזור כיכר סלמאן פרסי",
+        "city:he": "רמהורמוז",
+        "province:he": "ח'וזסתאן",
+        "name:tr": "Huzistan Çimento Şirketi Kamyoncularının Grevi",
+        "description:tr": "Ramhormuz'da Huzistan Çimento Şirketi kamyoncularının grevi, Selman-ı Farsi Meydanı çevresi",
+        "city:tr": "Ramhormuz",
+        "province:tr": "Huzistan",
+        "name:ckb": "مانگرتنی شۆفێرانی کامیونی کۆمپانیای سیمنتی خۆزستان",
+        "description:ckb": "مانگرتنی شۆفێرانی کامیونی کۆمپانیای سیمنتی خۆزستان لە ڕامھۆرمۆز، دەوروبەری مەیدانی سەلمانی فارسی",
+        "city:ckb": "ڕامھۆرمۆز",
+        "province:ckb": "خووزستان",
+        "id": "MTk6NGE4ZDcwNTM0Yjk1",
+        "publicId": "MTk6NGE4ZDcwNTM0Yjk1",
+        "sourceId": "4a8d70534b95",
+        "layerId": 19,
+        "type": "event",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-23T08:50:13.760Z",
+        "updatedAt": "2026-11-23T08:50:19.374Z"
+      }
     }
   ],
   "metadata": {
-    "total": 48,
+    "total": 49,
     "layerId": 19,
     "clustered": false,
     "simplified": false

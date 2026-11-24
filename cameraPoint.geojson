@@ -819969,10 +819969,61 @@
         "createdAt": "2026-11-21T23:27:47.465Z",
         "updatedAt": "2026-11-21T23:27:47.465Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118398,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.564306914806366,
+          32.86086224117507
+        ]
+      },
+      "properties": {
+        "name:fa": "دوربین نظارتی ۳۶۰‌درجه‌",
+        "lastReport": "",
+        "date": 1795356873,
+        "addressDescription": "",
+        "description": "دوربین ۳۶۰‌درجه‌ای اطلاعات",
+        "city": "شاهین شهر",
+        "province": "استان اصفهان",
+        "name:en": "360-degree surveillance camera",
+        "description:en": "360-degree camera information",
+        "city:en": "Shahin Shahr",
+        "province:en": "Isfahan",
+        "name:ar": "كاميرا مراقبة 360 درجة",
+        "description:ar": "كاميرا معلومات 360 درجة",
+        "city:ar": "شاهين شهر",
+        "province:ar": "أصفهان",
+        "name:he": "מצלמת מעקב 360 מעלות",
+        "description:he": "מצלמת 360 מעלות של המודיעין",
+        "city:he": "שהין שאהר",
+        "province:he": "אספהאן",
+        "name:tr": "360 Derece Gözetim Kamerası",
+        "description:tr": "360 derece kamera bilgileri",
+        "city:tr": "Şahinşehr",
+        "province:tr": "İsfahan",
+        "name:ckb": "کامیرای چاودێریی ٣٦٠ پلەیی",
+        "description:ckb": "کامیرای ٣٦٠ پلەیی زانیاری",
+        "city:ckb": "شاهینشار",
+        "province:ckb": "ئەسفەھان",
+        "id": "MjA6Y2U5MjMzZWViNjFl",
+        "publicId": "MjA6Y2U5MjMzZWViNjFl",
+        "sourceId": "ce9233eeb61e",
+        "layerId": 20,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-23T08:53:20.535Z",
+        "updatedAt": "2026-11-23T08:53:20.535Z"
+      }
     }
   ],
   "metadata": {
-    "total": 18707,
+    "total": 18708,
     "layerId": 20,
     "clustered": false,
     "simplified": false

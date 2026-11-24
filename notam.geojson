@@ -1355,10 +1355,158 @@
         "createdAt": "2026-11-16T09:57:38.568Z",
         "updatedAt": "2026-11-16T09:57:38.568Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118391,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.133333,
+              25.766667
+            ],
+            [
+              56.833333,
+              25.716667
+            ],
+            [
+              57.183333,
+              25.2
+            ],
+            [
+              57.8,
+              24.666667
+            ],
+            [
+              58.8,
+              24.366667
+            ],
+            [
+              59.35,
+              23.983333
+            ],
+            [
+              60.9,
+              22.733333
+            ],
+            [
+              61.383333,
+              20.716667
+            ],
+            [
+              64.2,
+              20.5
+            ],
+            [
+              64.916667,
+              22.733333
+            ],
+            [
+              65.666667,
+              23.433333
+            ],
+            [
+              61.35,
+              24.7
+            ],
+            [
+              61.416667,
+              24.8
+            ],
+            [
+              59.433333,
+              25.133333
+            ],
+            [
+              58.966667,
+              25.116667
+            ],
+            [
+              57.5,
+              25.483333
+            ],
+            [
+              57.133333,
+              25.766667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name:fa": "اطلاعیه هوانوردی · تغییر در منطقه پروازی · منطقه پروازی تهران (ایران)",
+        "description": "سازمان هواپیمایی کشوری ایران یک هشدار ایمنی و امنیت فضای هوایی صادر کرده است که بر اساس آن، شرایط خطرناکی در آب‌های آزاد در محدوده مشخص‌شده، از سطح دریا تا سطح پرواز ۱۰۰ وجود دارد. این وضعیت به دلیل افزایش فعالیت‌های نظامی و نیروی دریایی، جنگ الکترونیک و آمادگی پدافند هوایی ایجاد شده و خطراتی مانند تشخیص نادرست هواپیماهای مسافربری، اختلال در سامانه ناوبری و ارتباطات، ایجاد محدودیت‌ها یا تغییر مسیرهای ناگهانی، بسته شدن کوتاه مدت مسیرها و افزایش رهگیری‌های نظامی را به همراه دارد. از این رو به تمامی شرکت‌های هواپیمایی ایرانی توصیه شده است احتیاط کامل را رعایت کرده، ارزیابی‌های خطر را افزایش دهند، اطلاعیه‌های هوانوردی و دستورات کنترل ترافیک جوی را به دقت دنبال نمایند و طرح‌های جایگزین برای شرایط اضطراری در نظر بگیرند.",
+        "notamNumber": "A2641/26",
+        "fir": "منطقه پروازی تهران (ایران)",
+        "notamCategory": "تغییر در منطقه اطلاعات پرواز (FIR)",
+        "validFrom": "۱۴۰۵/۰۸/۳۰، ۱۳:۱۷",
+        "validTo": "۱۴۰۵/۱۰/۰۱، ۰۰:۰۰",
+        "shapeSource": "محدوده‌ای با مختصات اعلام‌شده در نوتام",
+        "notamSource": "FAA NMS-API",
+        "date": 1795254420,
+        "flBand": "از سطح زمین تا بدون محدودیت ارتفاع",
+        "replaces": "A2462/26",
+        "fir:en": "Tehran FIR (Iran)",
+        "notamCategory:en": "Change in the flight information region (FIR)",
+        "validFrom:en": "2026-11-21 13:17",
+        "validTo:en": "2026-12-22 00:00",
+        "flBand:en": "From ground level to unlimited",
+        "shapeSource:en": "Area with the coordinates stated in the NOTAM",
+        "fir:ar": "منطقة طيران طهران (إيران)",
+        "notamCategory:ar": "تغيير في منطقة معلومات الطيران (FIR)",
+        "validFrom:ar": "2026-11-21 13:17",
+        "validTo:ar": "2026-12-22 00:00",
+        "flBand:ar": "من سطح الأرض إلى بلا حد للارتفاع",
+        "shapeSource:ar": "منطقة بالإحداثيات المذكورة في الإشعار",
+        "fir:he": "מרחב הטיסה טהראן (איראן)",
+        "notamCategory:he": "שינוי באזור מידע הטיסה (FIR)",
+        "validFrom:he": "2026-11-21 13:17",
+        "validTo:he": "2026-12-22 00:00",
+        "flBand:he": "מפני הקרקע עד ללא הגבלת גובה",
+        "shapeSource:he": "אזור לפי הקואורדינטות שבנוטאם",
+        "fir:tr": "Tahran uçuş bölgesi (İran)",
+        "notamCategory:tr": "Uçuş bilgi bölgesinde (FIR) değişiklik",
+        "validFrom:tr": "2026-11-21 13:17",
+        "validTo:tr": "2026-12-22 00:00",
+        "flBand:tr": "yer seviyesi ile sınırsız irtifa arası",
+        "shapeSource:tr": "NOTAM'da belirtilen koordinatlara göre alan",
+        "fir:ckb": "ناوچەی فڕینی تاران (ئێران)",
+        "notamCategory:ckb": "گۆڕانکاری لە ناوچەی زانیاری فڕین (FIR)",
+        "validFrom:ckb": "2026-11-21 13:17",
+        "validTo:ckb": "2026-12-22 00:00",
+        "flBand:ckb": "لە ئاستی زەوی تا بێ سنووری بەرزی",
+        "shapeSource:ckb": "ناوچەیەک بە کۆردیناتە ڕاگەیەنراوەکانی ناو نۆتام",
+        "name:en": "Aeronautical Notice · Change in Flight Zone · Tehran Flight Zone (Iran)",
+        "description:en": "The Civil Aviation Organization of Iran has issued a safety and airspace security warning stating that hazardous conditions exist in open waters within the specified area, from sea level up to flight level 100. This situation has arisen due to increased military and naval activities, electronic warfare, and air defense readiness, posing risks such as misidentification of passenger aircraft, disruption of navigation and communication systems, sudden restrictions or route changes, short-term closures of routes, and increased military intercepts. Therefore, all Iranian airlines are advised to exercise extreme caution, enhance risk assessments, closely follow aeronautical notices and air traffic control instructions, and consider contingency plans for emergencies.",
+        "name:ar": "إشعار للطيران · تغيير في منطقة الطيران · منطقة طهران الجوية (إيران)",
+        "description:ar": "أصدرت منظمة الطيران المدني الإيرانية تحذيراً بشأن سلامة وأمن المجال الجوي، مشيرة إلى وجود ظروف خطيرة في المياه الدولية ضمن النطاق المحدد، من مستوى البحر حتى مستوى الطيران 100. ويأتي هذا الوضع نتيجة لزيادة النشاطات العسكرية والبحرية، والحرب الإلكترونية، وجاهزية الدفاع الجوي، مما ينطوي على مخاطر مثل التحديد الخاطئ للطائرات المدنية، والتشويش على أنظمة الملاحة والاتصالات، وفرض قيود أو تغييرات مفاجئة في المسارات، وإغلاق مؤقت للمسارات، وزيادة عمليات الاعتراض العسكري. وبناءً عليه، تُنصح جميع شركات الطيران الإيرانية بتوخي الحذر التام، وزيادة تقييم المخاطر، ومتابعة الإشعارات الملاحية وتوجيهات مراقبة الحركة الجوية بدقة، ووضع خطط بديلة لحالات الطوارئ.",
+        "name:he": "הודעת תעופה · שינוי באזור הטיסה · אזור הטיסה טהראן (איראן)",
+        "description:he": "רשות התעופה האזרחית של איראן הנפיקה אזהרת בטיחות ואבטחה למרחב האווירי, שלפיה קיימים תנאים מסוכנים במים הבינלאומיים באזור המוגדר, מפני הים ועד לגובה טיסה 100. מצב זה נוצר עקב הגברת הפעילות הצבאית והימית, לוחמה אלקטרונית ודריכות של הגנה אווירית, ומציב סיכונים כגון זיהוי שגוי של מטוסים אזרחיים, שיבושים במערכות הניווט והתקשורת, יצירת מגבלות או שינויי נתיב פתאומיים, סגירת נתיבים לטווח קצר והגברת הירוטים הצבאיים. על כן מומלץ לכל חברות התעופה האיראניות לנקוט זהירות מרבית, להגביר את הערכות הסיכון, לעקוב מקרוב אחר הודעות התעופה והוראות בקרת התנועה האווירית, ולשקול תוכניות חלופיות למצבי חירום.",
+        "name:tr": "Havacılık Bildirisi · Uçuş Bölgesinde Değişiklik · Tahran Uçuş Bölgesi (İran)",
+        "description:tr": "İran Sivil Havacılık Kurumu, belirlenen sınırlardaki açık denizlerde deniz seviyesinden 100. uçuş seviyesine kadar tehlikeli koşulların mevcut olduğunu belirten bir hava sahası güvenlik ve emniyet uyarısı yayınladı. Bu durum; artan askeri ve deniz kuvvetleri faaliyetleri, elektronik harp ve hava savunma hazırlığı nedeniyle ortaya çıkmış olup yolcu uçaklarının yanlış tanımlanması, seyrüsefer ve iletişim sistemlerinde aksama, ani kısıtlamalar veya rota değişiklikleri, rotaların kısa süreliğine kapatılması ve askeri önlemelerin artması gibi tehlikeleri beraberinde getirmektedir. Bu nedenle tüm İran havayolu şirketlerine azami dikkat göstermeleri, risk değerlendirmelerini artırmaları, havacılık bildirilerini ve hava trafik kontrol talimatlarını yakından takip etmeleri ve acil durumlar için alternatif planlar göz önünde bulundurmaları tavsiye edilmiştir.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "ئاگاداریی فڕۆکەوانی · گۆڕانکاری لە ناوچەی فڕیندا · ناوچەی فڕینی تاران (ئیران)",
+        "description:ckb": "ڕێکخراوی فڕۆکەوانیی مەدەنیی ئیران هۆشدارییەکی سەلامەتی و ئاسایشی بۆ ئاسمانی وڵات دەرکردووە، بەپێی ئەوەش دۆخێکی مەترسیدار لە ئاوە ئازادەکان لە ناوچەی دیاریکراودا، لە ئاستی دەریاوە هەتا ئاستی فڕینی ١٠٠ بوونی هەیە. ئەم دۆخە بەهۆی زیادبوونی چالاکییە سەربازی و دەریاییەکان، جەنگی ئەلکترۆنی و ئامادەیی بەرگریی ئاسمانییەوە دروست بووە و مەترسییەکی وەک ناسینەوەی هەڵەی فڕۆکە گەشتیارییەکان، تێکچوون لە سیستەمی ئاراستەپێدان و پەیوەندییەکان، دروستبوونی سنووردارکردن یان گۆڕینی لەناکاوى ڕێڕەوەکان، داخستنی کورتخایەنی ڕێڕەوەکان و زیادبوونی بەدواداچوونە سەربازییەکانی بەدوای خۆیدا هێناوە. بۆیە بە هەموو کۆمپانیا فڕۆکەوانییەکانی ئیران ڕێنمایی دراوە کە تەواوی وریاکان بگرنەبەر، هەڵسەنگاندنی مەترسییەکان زیاد بکەن، ئاگادارییە فڕۆکەوانییەکان و فەرمانەکانی کۆنترۆڵی هاتوچۆی ئاسمانی بە وردی پەیڕەو بکەن و پلانگیریی جێگرەوە بۆ دۆخە لەناکاوەکان لە بەرچاو بگرن.",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzg6bm90YW0tb2lpeC1hMjY0MS0yNg",
+        "publicId": "Mzg6bm90YW0tb2lpeC1hMjY0MS0yNg",
+        "sourceId": "notam-oiix-a2641-26",
+        "layerId": 38,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": "2026-12-21T20:30:00.000Z",
+        "createdAt": "2026-11-23T07:35:57.634Z",
+        "updatedAt": "2026-11-23T07:35:57.634Z"
+      }
     }
   ],
   "metadata": {
-    "total": 6,
+    "total": 7,
     "layerId": 38,
     "clustered": false,
     "simplified": false
