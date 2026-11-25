@@ -14801,10 +14801,60 @@
         "createdAt": "2026-11-20T00:29:34.969Z",
         "updatedAt": "2026-11-20T00:29:34.969Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118460,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.654969461262226,
+          36.2890450492864
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "مشهد",
+        "province": "استان خراسان رضوی",
+        "date": 1795543728,
+        "description": "ایست بازرسی نیروهای سرکوبگر بسیجی",
+        "sources": "",
+        "name:en": "Checkpoint",
+        "description:en": "Checkpoint of Basij repressive forces",
+        "city:en": "Mashhad",
+        "province:en": "Razavi Khorasan",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش التابعة لقوات البسيج القمعية",
+        "city:ar": "مشهد",
+        "province:ar": "خراسان رضوي",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה של כוחות הדיכוי של הבסיג'",
+        "city:he": "משהד",
+        "province:he": "ח'וראסאן רזאווי",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Besic baskı güçlerinin kontrol noktası",
+        "city:tr": "Meşhed",
+        "province:tr": "Razavi Horasan",
+        "name:ckb": "خاڵی پشکنیین",
+        "description:ckb": "خاڵی پشکنیینی هێزە سەرکوتکەرەکانی بەسیج",
+        "city:ckb": "مەشهەد",
+        "province:ckb": "خوراسانی ڕەزەوی",
+        "id": "Mzk6YTczOTYyNzE2ODky",
+        "publicId": "Mzk6YTczOTYyNzE2ODky",
+        "sourceId": "a73962716892",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-24T21:09:54.070Z",
+        "updatedAt": "2026-11-24T21:10:41.717Z"
+      }
     }
   ],
   "metadata": {
-    "total": 304,
+    "total": 305,
     "layerId": 39,
     "clustered": false,
     "simplified": false

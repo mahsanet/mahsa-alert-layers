@@ -24103,10 +24103,60 @@
         "createdAt": "2026-11-24T01:10:33.179Z",
         "updatedAt": "2026-11-24T01:10:33.179Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118463,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.89203554391861,
+          39.640902844588965
+        ]
+      },
+      "properties": {
+        "name:fa": "حضور خودروهای سپاه",
+        "city": "پارس آباد",
+        "province": "استان اردبیل",
+        "date": 1795514600,
+        "description": "حضور چند خودروی تویوتا متعلق به سپاه در میدان فوتبال.",
+        "sources": "",
+        "name:en": "Presence of IRGC vehicles",
+        "description:en": "Presence of several Toyota vehicles belonging to the IRGC in the football field.",
+        "city:en": "Parsabad",
+        "province:en": "Ardabil",
+        "name:ar": "تواجد سيارات الحرس الثوري",
+        "description:ar": "تواجد عدة سيارات تويوتا تابعة للحرس الثوري في ملعب لكرة القدم.",
+        "city:ar": "بارس أباد",
+        "province:ar": "أردبيل",
+        "name:he": "נוכחות כלי רכב של משמרות המהפכה",
+        "description:he": "נוכחות של מספר כלי רכב מסוג טויוטה השייכים למשמרות המהפכה במגרש הכדורגל.",
+        "city:he": "פארס אבאד",
+        "province:he": "ארדביל",
+        "name:tr": "Sepah Araçlarının Varlığı",
+        "description:tr": "Futbol sahasında Sepah'a ait birkaç Toyota aracın bulunması.",
+        "city:tr": "Parsabad",
+        "province:tr": "Erdebil",
+        "name:ckb": "ئامادەبوونی ئۆتۆمبێلەکانی سوپا",
+        "description:ckb": "ئامادەبوونی چەند ئۆتۆمبێلێکی تۆیۆتا کە پەیوەندان بە سوپاوە لە یاریگای تۆپی پێدا.",
+        "city:ckb": "پارسئاباد",
+        "province:ckb": "ئەردەبیل",
+        "id": "NDA6ZmI4YTZkOGE0MTk5",
+        "publicId": "NDA6ZmI4YTZkOGE0MTk5",
+        "sourceId": "fb8a6d8a4199",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-24T23:45:06.323Z",
+        "updatedAt": "2026-11-24T23:45:06.323Z"
+      }
     }
   ],
   "metadata": {
-    "total": 491,
+    "total": 492,
     "layerId": 40,
     "clustered": false,
     "simplified": false

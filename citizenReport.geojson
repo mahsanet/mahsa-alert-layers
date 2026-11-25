@@ -16797,10 +16797,110 @@
         "createdAt": "2026-11-23T17:11:49.280Z",
         "updatedAt": "2026-11-23T17:11:49.280Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118459,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.84055170416832,
+          35.93533994168405
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش انفجار در پادگان",
+        "city": "کردان",
+        "province": "استان البرز",
+        "date": 1795529370,
+        "description": "گزارش وقوع انفجار شدید در پادگان خداکرم کردان همراه با صدای زیاد و پرتاب ترکش",
+        "sources": "",
+        "name:en": "Military Base Explosion Report",
+        "description:en": "Report of a severe explosion at the Khodakaram Kordan military base, accompanied by a loud noise and flying shrapnel.",
+        "city:en": "Kordan",
+        "province:en": "Alborz",
+        "name:ar": "تقرير عن انفجار في الثكنة العسكرية",
+        "description:ar": "تقرير عن وقوع انفجار قوي في ثكنة خداكرم في كردان مصحوباً بصوت مدوٍ وتطاير للشظايا.",
+        "city:ar": "كردان",
+        "province:ar": "ألبرز",
+        "name:he": "דיווח על פיצוץ בבסיס צבאי",
+        "description:he": "דיווח על פיצוץ עז בבסיס ח'ודאכרם כרדאן המלווה ברעש חזק ובעופפת רסיסים",
+        "city:he": "כרדאן",
+        "province:he": "אלבורז",
+        "name:tr": "Kışlada Patlama Raporu",
+        "description:tr": "Hüdaçerem Kordan kışlasında yüksek ses ve şarapnel parçalarının yayılmasıyla birlikte şiddetli bir patlama meydana geldiği bildirildi.",
+        "city:tr": "Kordan",
+        "province:tr": "Elburz",
+        "name:ckb": "ڕاپۆرتی تەقینەوە لە سەربازگەدا",
+        "description:ckb": "ڕاپۆرتی ڕوودانی تەقینەوەیەکی توند لە سەربازگەی خوداکەرەم کەردان لەگەڵ دەنگێکی بەرز و فڕێدانی پارچە پچڕاو",
+        "city:ckb": "کەردان",
+        "province:ckb": "ئەلبورز",
+        "id": "MzY6NTBhMDY1N2Y5OGM5",
+        "publicId": "MzY6NTBhMDY1N2Y5OGM5",
+        "sourceId": "50a0657f98c9",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-24T21:09:05.707Z",
+        "updatedAt": "2026-11-24T21:09:05.707Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.777528293430805,
+          35.10466438934668
+        ]
+      },
+      "properties": {
+        "name:fa": "رویت تریلی حمل موشک‌انداز",
+        "city": "شهرستان کبودرآهنگ",
+        "province": "استان همدان",
+        "date": 1795498140,
+        "description": "رویت دو عدد ماشین تریلی اف‌هش حمل موشک‌انداز در بزرگراه قزوین - همدان",
+        "sources": "",
+        "name:en": "Sighting of missile launcher transport trailer",
+        "description:en": "Sighting of two FH truck trailers carrying missile launchers on the Qazvin - Hamadan highway.",
+        "city:en": "Kabudarahang County",
+        "province:en": "Hamadan",
+        "name:ar": "رؤية شاحنة نقل منصات إطلاق الصواريخ",
+        "description:ar": "رؤية شاحنتين من طراز إف-8 تحملان منصات إطلاق صواريخ على الطريق السريع بين قزوين وهمدان",
+        "city:ar": "مقاطعة كبودراهنغ",
+        "province:ar": "همدان",
+        "name:he": "תצפית של מוביל משגרי טילים",
+        "description:he": "תצפית של שתי משאיות סמי-טריילר וולוו FH הנושאות משגרי טילים בכביש המהיר קזווין - המדאן",
+        "city:he": "מחוז כבודראמנג'",
+        "province:he": "המדאן",
+        "name:tr": "Füze Atar Taşıyan Tırın Görülmesi",
+        "description:tr": "Kazvin - Hemedan otoyolunda füze atar taşıyan iki adet FH model tır görüldü.",
+        "city:tr": "Kabudarahang",
+        "province:tr": "Hemedan",
+        "name:ckb": "بینینی تریلی هەڵگری مووشەکهاوێژ",
+        "description:ckb": "بینینی دوو دانە ئۆتۆمبێلی تریلی ئێف‌ئێش کە مووشەکهاوێژیان هەڵگرتبوو لە خێرابڕی قەزوین - هەمەدان",
+        "city:ckb": "کەوودەراهەنگ",
+        "province:ckb": "ھەمەدان",
+        "id": "MzY6MDkyMDc2NDYzMDYy",
+        "publicId": "MzY6MDkyMDc2NDYzMDYy",
+        "sourceId": "092076463062",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-24T21:11:00.914Z",
+        "updatedAt": "2026-11-24T21:11:00.914Z"
+      }
     }
   ],
   "metadata": {
-    "total": 344,
+    "total": 346,
     "layerId": 36,
     "clustered": false,
     "simplified": false
