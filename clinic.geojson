@@ -177116,48 +177116,6 @@
     },
     {
       "type": "Feature",
-      "id": 51200,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.4348754,
-          36.843116
-        ]
-      },
-      "properties": {
-        "id": "MjM6NDIyOQ",
-        "city": "گرگان",
-        "name:fa": "درمانگاه فرهنگیان گرگان",
-        "province": "استان گلستان",
-        "name:en": "Farhangian Clinic of Gorgan",
-        "city:en": "Gorgan",
-        "province:en": "Golestan",
-        "name:ar": "مستوصف المعلمين في جرجان",
-        "city:ar": "جرجان",
-        "province:ar": "كلستان",
-        "name:he": "מרפאת עובדי ההוראה גורגאן",
-        "city:he": "גורגאן",
-        "province:he": "גולסתאן",
-        "name:tr": "Gürgan Farhangian Polikliniği",
-        "city:tr": "Gürgan",
-        "province:tr": "Gülistan",
-        "name:ckb": "دەرمانگەی فەرهەنگیانی گورگان",
-        "city:ckb": "گورگان",
-        "province:ckb": "گوڵستان",
-        "publicId": "MjM6NDIyOQ",
-        "sourceId": "4229",
-        "layerId": 23,
-        "type": "location",
-        "status": "active",
-        "urgency": null,
-        "verificationTag": null,
-        "expirationDate": null,
-        "createdAt": "2026-03-11T20:58:01.211Z",
-        "updatedAt": "2026-03-11T20:58:01.211Z"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 51201,
       "geometry": {
         "type": "Point",
@@ -226369,7 +226327,7 @@
     }
   ],
   "metadata": {
-    "total": 5394,
+    "total": 5393,
     "layerId": 23,
     "clustered": false,
     "simplified": false

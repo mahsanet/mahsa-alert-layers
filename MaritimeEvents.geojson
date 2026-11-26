@@ -7279,10 +7279,65 @@
         "createdAt": "2026-11-24T21:08:05.838Z",
         "updatedAt": "2026-11-24T21:08:05.838Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2,
+          25.416666666666668
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش دریایی · فعالیت مشکوک · جنوب خلیج فارس",
+        "description": "گزارشی از وقوع یک حادثه در ۵۰ مایل دریایی غرب دبی، امارات متحده عربی دریافت شده است. ناخدای یک نفتکش، انفجاری ناش ناشی از یک پرتابه ناشناخته در فاصله بسیار نزدیک به نفتکش را گزارش کرده است. خدمه سالم و همگی تحت نظر هستند و هیچ آسیبی به نفتکش یا خسارت محیط زیستی گزارش نشده است.",
+        "incidentKind": "فعالیت مشکوک",
+        "vesselType": "نفت‌کش",
+        "date": 1795647240,
+        "area": "جنوب خلیج فارس",
+        "incidentKind:en": "Suspicious activity",
+        "vesselType:en": "Tanker",
+        "area:en": "Southern Persian Gulf",
+        "incidentKind:ar": "نشاط مشبوه",
+        "vesselType:ar": "ناقلة",
+        "area:ar": "جنوب الخليج الفارسي",
+        "incidentKind:he": "פעילות חשודה",
+        "vesselType:he": "מכלית",
+        "area:he": "דרום המפרץ הפרסי",
+        "incidentKind:tr": "Şüpheli faaliyet",
+        "vesselType:tr": "Tanker",
+        "area:tr": "Basra Körfezi'nin güneyi",
+        "incidentKind:ckb": "چالاکی گومانلێکراو",
+        "vesselType:ckb": "تانکەر",
+        "area:ckb": "باشووری کەنداوی فارس",
+        "name:en": "Maritime Report · Suspicious Activity · Southern Persian Gulf",
+        "description:en": "A report has been received regarding an incident 50 nautical miles west of Dubai, United Arab Emirates. The captain of an oil tanker reported an explosion caused by an unknown projectile at a very close distance to the tanker. The crew is safe and all are under observation, and no injuries to the tanker or environmental damage have been reported.",
+        "name:ar": "تقرير بحري · نشاط مشبوه · جنوب الخليج العربي",
+        "description:ar": "تم تلقي تقرير عن وقوع حادث على بعد 50 ميلاً بحرياً غرب دبي، الإمارات العربية المتحدة. أفاد ربان ناقلة نفط بوقوع انفجار ناتج عن مقذوف مجهول على مسافة قريبة جداً من الناقلة. الطاقم بخير وجميعهم تحت الملاحظة، ولم يتم الإبلاغ عن أي أضرار بالناقلة أو أضرار بيئية.",
+        "name:he": "דיווח ימי · פעילות חשודה · דרום המפרץ הפרסי",
+        "description:he": "התקבל דיווח על אירוע במרחק 50 מייל ימי ממערב לדובאי, איחוד האמירויות הערביות. רב-החובל של מכלית נפט דיווח על פיצוץ שנגרם כתוצאה מפרסום/קליע לא מזוהה בסמיכות רבה מאוד למכלית. הצוות בטוח וכולם תחת השגחה, ולא דווח על נזק למכלית או על נזק סביבתי.",
+        "name:tr": "Deniz Raporu · Şüpheli Faaliyet · Basra Körfezi'nin Güneyi",
+        "description:tr": "Birleşik Arap Emirlikleri'ne bağlı Dubai'nin 50 deniz mili batısında bir olayın meydana geldiğine dair rapor alınmıştır. Bir petrol tankerinin kaptanı, tankere çok yakın bir mesafede bilinmeyen bir mermiden kaynaklanan bir patlama bildirdi. Mürettebat sağ salim ve hepsi gözetim altında olup, tankere herhangi bir zarar veya çevresel hasar bildirilmemiştir.",
+        "name:ckb": "ڕاپۆرتی دەریایی · چالاکیی گوماناوی · باشووری کەنداوی فارس",
+        "description:ckb": "ڕاپۆرتێک لەسەر ڕوودانی رووداوێک لە ٥٠ مایلی دەریایی ڕۆژئاوای دەبی، میرنشینە یەکگرتووە عەرەبییەکان پێگەیشتووە. کاپتنی نەوتکێشێک، تەقینەوەیەکی ڕاگەیاندووە کە بەهۆی کەرەستەیەکی هەڵدراوی نەناسراوەوە لە مەودایەکی زۆر نزیک لە نەوتکێشەکەدا ڕووی داوە. ستافەکە سەلامەتن و هەموویان لەژێر چاودێریدان و هیچ زیانێک بە نەوتکێشەکە یان زیانی ژینگەیی ڕاگەیەندراو نەتەوە.",
+        "id": "Mzc6dWttdG8tdWttdG8tMjIy",
+        "publicId": "Mzc6dWttdG8tdWttdG8tMjIy",
+        "sourceId": "ukmto-ukmto-222",
+        "layerId": 37,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-25T23:08:17.584Z",
+        "updatedAt": "2026-11-25T23:08:17.584Z"
+      }
     }
   ],
   "metadata": {
-    "total": 120,
+    "total": 121,
     "layerId": 37,
     "clustered": false,
     "simplified": false

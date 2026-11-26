@@ -14851,10 +14851,60 @@
         "createdAt": "2026-11-24T21:09:54.070Z",
         "updatedAt": "2026-11-24T21:10:41.717Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.503312308341265,
+          35.72223455563402
+        ]
+      },
+      "properties": {
+        "name:fa": "ایست بازرسی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1795596909,
+        "description": "ایست بازرسی در بزرگراه باقری",
+        "sources": "",
+        "name:en": "Checkpost",
+        "description:en": "Checkpost on Bagheri Expressway",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "نقطة تفتيش",
+        "description:ar": "نقطة تفتيش في طريق باقري السريع",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "מחסום בדיקה",
+        "description:he": "מחסום בדיקה בכביש המהיר באקרי",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Kontrol Noktası",
+        "description:tr": "Bakıri Otoyolu'nda kontrol noktası",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "خاڵی پشکنین",
+        "description:ckb": "خاڵی پشکنین لە خێرابڕی باقری",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "Mzk6Njc1YzJhZWQ2YjY1",
+        "publicId": "Mzk6Njc1YzJhZWQ2YjY1",
+        "sourceId": "675c2aed6b65",
+        "layerId": 39,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-25T15:50:19.757Z",
+        "updatedAt": "2026-11-25T15:50:19.757Z"
+      }
     }
   ],
   "metadata": {
-    "total": 305,
+    "total": 306,
     "layerId": 39,
     "clustered": false,
     "simplified": false

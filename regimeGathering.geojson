@@ -24153,10 +24153,60 @@
         "createdAt": "2026-11-24T23:45:06.323Z",
         "updatedAt": "2026-11-24T23:45:06.323Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.457270346581936,
+          35.68737437793784
+        ]
+      },
+      "properties": {
+        "name:fa": "تردد نیروهای امنیتی",
+        "city": "تهران",
+        "province": "استان تهران",
+        "date": 1795520098,
+        "description": "گزارش تردد مشکوک در پایگاه بسیج در محدوده جلوه، چهارصد دستگاه، منطقه ۱۴ تهران",
+        "sources": "",
+        "name:en": "Movement of security forces",
+        "description:en": "Report of suspicious movement at the Basij base in the Jalveh and Chaharsad Dastgah area, District 14 of Tehran",
+        "city:en": "Tehran",
+        "province:en": "Tehran",
+        "name:ar": "تحركات القوات الأمنية",
+        "description:ar": "تقارير عن تحركات مشبوهة في قاعدة للبسيج في منطقة جلوه، جهارصد دستكاه، المنطقة 14 طهران",
+        "city:ar": "طهران",
+        "province:ar": "طهران",
+        "name:he": "תנועת כוחות ביטחון",
+        "description:he": "דיווח על תנועה חשודה בבסיס באסיג' באזור ג'לווה, צ'הארסאד דסתגאה, רובע 14 בטהראן",
+        "city:he": "טהראן",
+        "province:he": "טהראן",
+        "name:tr": "Güvenlik kuvvetlerinin geçişi",
+        "description:tr": "Celve, Çaharset Cihaz ve Tahran 14. Bölge sınırları içerisindeki Besic üssünde şüpheli hareketlilik rapor edildi.",
+        "city:tr": "Tahran",
+        "province:tr": "Tahran",
+        "name:ckb": "هاتووچۆی هێزە ئەمنییەکان",
+        "description:ckb": "ڕاپۆرتی هاتووچۆی گوماناوی لە بنکەی بەسیج لە ناوچەی جلوە، چار سەد دەستگای، ناوچەی ١٤ی تاران",
+        "city:ckb": "تاران",
+        "province:ckb": "تاران",
+        "id": "NDA6MDBlM2YyMGEyYjcy",
+        "publicId": "NDA6MDBlM2YyMGEyYjcy",
+        "sourceId": "00e3f20a2b72",
+        "layerId": 40,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-25T06:14:56.822Z",
+        "updatedAt": "2026-11-25T06:14:56.822Z"
+      }
     }
   ],
   "metadata": {
-    "total": 492,
+    "total": 493,
     "layerId": 40,
     "clustered": false,
     "simplified": false
