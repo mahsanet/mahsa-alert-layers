@@ -255376,10 +255376,54 @@
         "createdAt": "2026-11-21T11:22:17.514Z",
         "updatedAt": "2026-11-21T11:22:17.514Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.01074335908521,
+          35.7709840759083
+        ]
+      },
+      "properties": {
+        "name:fa": "مسجد",
+        "description": "",
+        "date": "",
+        "city": "شهرستان فردیس",
+        "province": "استان البرز",
+        "name:en": "Mosque",
+        "city:en": "Fardis County",
+        "province:en": "Alborz",
+        "name:ar": "مسجد",
+        "city:ar": "مقاطعة فرديس",
+        "province:ar": "ألبرز",
+        "name:he": "מסגד",
+        "city:he": "פרדיס",
+        "province:he": "אלבורז",
+        "name:tr": "Cami",
+        "city:tr": "Ferdis",
+        "province:tr": "Elburz",
+        "name:ckb": "مزگەوت",
+        "city:ckb": "فەردیس",
+        "province:ckb": "ئەلبورز",
+        "id": "NDoyODA2ZGYxMzJjNDc",
+        "publicId": "NDoyODA2ZGYxMzJjNDc",
+        "sourceId": "2806df132c47",
+        "layerId": 4,
+        "type": "location",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-26T17:54:55.259Z",
+        "updatedAt": "2026-11-26T17:54:55.259Z"
+      }
     }
   ],
   "metadata": {
-    "total": 5866,
+    "total": 5867,
     "layerId": 4,
     "clustered": false,
     "simplified": false

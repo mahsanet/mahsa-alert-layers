@@ -16897,10 +16897,109 @@
         "createdAt": "2026-11-24T21:11:00.914Z",
         "updatedAt": "2026-11-24T21:11:00.914Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.98775277286768,
+          36.408348011564556
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش فعالیت پدافندی",
+        "city": "شاهرود",
+        "province": "استان سمنان",
+        "date": 1795710282,
+        "description": "حدود ساعت ۱۹:۰۵ از سمت پادگان ارتش صدای شلیک اسلحه و ضدهوایی به مدت یک تا دو دقیقه شنیده شد. همچنین حوالی ساعت ۱۴ همان روز دو فروند هلیکوپتر چندین بار بین این پادگان و پادگان امام رضا رفت و آمد داشتند.",
+        "sources": "",
+        "name:en": "Air Defense Activity Report",
+        "description:en": "Around 19:05, the sound of gunfire and anti-aircraft fire was heard from the direction of the army garrison for one to two minutes. Also, around 14:00 on the same day, two helicopters commuted between this garrison and the Imam Reza garrison several times.",
+        "city:en": "Shahroud",
+        "province:en": "Semnan",
+        "name:ar": "تقرير نشاط الدفاع الجوي",
+        "description:ar": "في حدود الساعة 19:05 أطلقت أعيرة نارية ومضادات طائرات من اتجاه ثكنة الجيش لمدة دقيقة إلى دقيقتين. كما شهدت الفترة المحيطة بالساعة 14 من اليوم نفسه تحرك مروحيتين لعدة مرات بين هذه الثكنة وثكنة الإمام الرضا.",
+        "city:ar": "شاهرود",
+        "province:ar": "سمنان",
+        "name:he": "דיווח על פעילות הגנה אווירית",
+        "description:he": "סביב השעה 19:05 נשמעו מקו בסיס הצבא קולות ירי מנשק קל ומערכות נ",
+        "city:he": "שהרוד",
+        "province:he": "סמנאן",
+        "name:tr": "Hava savunma faaliyet raporu",
+        "description:tr": "Saat 19:05 civarında ordu kışlası yönünden bir ila iki dakika süreyle silah ve uçaksavar atış sesleri duyuldu. Ayrıca aynı gün saat 14:00 sularında iki helikopter bu kışla ile İmam Rıza kışlası arasında defalarca kez gidip geldi.",
+        "city:tr": "Şahrud",
+        "province:tr": "Simnan",
+        "name:ckb": "ڕاپۆرتی چالاکیی بەرگریی ئاسمانی",
+        "description:ckb": "دەوروبەری کاتژمێر ۱۹:۰۵ لە لای بنکەی سوپاوە دەنگی تەقەی چەک و دژەهەوایی بۆ ماوەی یەک تا دوو خولەک بیسترا. هەروەها نزیک کاتژمێر ۱۴ی هەمان ڕۆژ دوو فڕۆکەی هێلیکۆپتەر چەندین جار لە نێوان ئەم بنکەیە و بنکەی ئیمام ڕەضادا هاتووچۆیان هەبوو.",
+        "city:ckb": "شاهرود",
+        "province:ckb": "سمنان",
+        "id": "MzY6MzhjZWUyNDZiM2Qx",
+        "publicId": "MzY6MzhjZWUyNDZiM2Qx",
+        "sourceId": "38cee246b3d1",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-26T17:57:00.639Z",
+        "updatedAt": "2026-11-26T17:57:00.639Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.93967932462692,
+          35.29515738353493
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش لانچ موشک",
+        "city": "شهرستان سرخه",
+        "province": "استان سمنان",
+        "date": 1795710100,
+        "description": "گزارش پرتاب موشک در اطراف سمنان، جاده سابق گرمسار - سمنان، بخش مرکزی سرخه، دهستان لاسگرد",
+        "sources": "",
+        "name:en": "Missile Launch Report",
+        "description:en": "Report of a missile launch around Semnan, former Garmsar - Semnan road, Central District of Sorkheh, Lasgerd Rural District.",
+        "city:en": "Sorkheh County",
+        "province:en": "Semnan",
+        "name:ar": "تقرير إطلاق مواريخ",
+        "city:ar": "مقاطعة سرخه",
+        "province:ar": "سمنان",
+        "name:he": "דיווח על שיגור טיל",
+        "description:he": "דיווח על שיגור טיל בסביבות סמנאן, בכביש הישן גרמסאר - סמנאן, המחוז המרכזי של סורח'ה, אזור כפרי לאסגרד",
+        "city:he": "נפת סורח'ה",
+        "province:he": "סמנאן",
+        "name:tr": "Füze Fırlatma Raporu",
+        "description:tr": "Semnan çevresinde,eski Garmsar - Semnan yolu üzerinde, Surhe merkez ilçesi, Lasgerd kırsal bölgesinde füze fırlatıldığına dair rapor",
+        "city:tr": "Surhe",
+        "province:tr": "Simnan",
+        "name:ckb": "ڕاپۆرتی هاویشتنی مووشک",
+        "description:ckb": "ڕاپۆرتی هاویشتنی مووشک لە دەوروبەری سمنان، ڕێگای پێشووی گەرمسار - سمنان، بەشی ناوەندی سەرخە، دێهاتی لاسگەرد",
+        "city:ckb": "شارستانی سەرخە",
+        "province:ckb": "سمنان",
+        "id": "MzY6YTllNDY1ZTJjNTNi",
+        "publicId": "MzY6YTllNDY1ZTJjNTNi",
+        "sourceId": "a9e465e2c53b",
+        "layerId": 36,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": "not-verified",
+        "expirationDate": null,
+        "createdAt": "2026-11-26T17:58:07.036Z",
+        "updatedAt": "2026-11-26T17:58:07.036Z"
+      }
     }
   ],
   "metadata": {
-    "total": 346,
+    "total": 348,
     "layerId": 36,
     "clustered": false,
     "simplified": false

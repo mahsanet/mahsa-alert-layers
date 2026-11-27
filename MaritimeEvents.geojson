@@ -7334,10 +7334,65 @@
         "createdAt": "2026-11-25T23:08:17.584Z",
         "updatedAt": "2026-11-25T23:08:17.584Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.55,
+          26.1
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش دریایی · حمله · تنگه هرمز",
+        "description": "گزارشی از وقوع یک حادثه در ۱۸ مایل دریایی شرق خصب، عمان دریافت شده است. مقامات محلی گزارش داده‌اند که یک نفتکش در حال خروج، هنگام عبور از تنگه هرمز مورد اصابت یک پرتابه ناشناخته قرار گرفته است. وضع تمام خدمه مشخص است و در حال حاضر هیچ گزارشی از پیامدهای زیست‌محیطی دریافت نشده است.",
+        "incidentKind": "حمله",
+        "vesselType": "سایر (Other)",
+        "date": 1795611600,
+        "area": "تنگه هرمز",
+        "incidentKind:en": "Attack",
+        "vesselType:en": "Other (Other)",
+        "area:en": "Strait of Hormuz",
+        "incidentKind:ar": "هجوم",
+        "vesselType:ar": "أخرى (Other)",
+        "area:ar": "مضيق هرمز",
+        "incidentKind:he": "תקיפה",
+        "vesselType:he": "אחר (Other)",
+        "area:he": "מצר הורמוז",
+        "incidentKind:tr": "Saldırı",
+        "vesselType:tr": "Diğer (Other)",
+        "area:tr": "Hürmüz Boğazı",
+        "incidentKind:ckb": "هێرش",
+        "vesselType:ckb": "هی تر (Other)",
+        "area:ckb": "گەرووی هورمز",
+        "name:en": "Maritime Report · Attack · Strait of Hormuz",
+        "description:en": "A report of an incident has been received 18 nautical miles east of Khasab, Oman. Local authorities have reported that an outbound oil tanker was struck by an unknown projectile while passing through the Strait of Hormuz. The status of all crew members is known, and currently no reports of environmental consequences have been received.",
+        "name:ar": "تقرير بحري · هجوم · مضيق هرمز",
+        "description:ar": "تم تلقي تقرير عن وقوع حادث على بعد 18 ميلا بحريا شرق خصب، عمان. وأفادت السلطات المحلية أن ناقلة نفط كانت في طريق خروجها أصيبت بمقذوف مجهول أثناء عبورها مضيق هرمز. وضع جميع أفراد الطاقم معروف، ولا توجد حاليا أي تقارير عن عواقب بيئية.",
+        "name:he": "דיווח ימי · תקיפה · מצר הורמוז",
+        "description:he": "התקבל דיווח על אירוע במרחק 18 מיל ימי ממזרח לחסב, עומאן. הרשויות המקומיות דיווחו כי מכלית נפט שחלפה במצר הורמוז נפגעה משיגור של קליע לא מזוהה. מצב כל אנשי הצוות ידוע, כעת לא התקבלו דיווחים על נזק סביבתי.",
+        "name:tr": "Deniz Raporu · Saldırı · Hürmüz Boğazı",
+        "description:tr": "Umman'ın Hasab kentinin 18 deniz mili doğusunda bir olayın meydana geldiğine dair rapor alınmıştır. Yerel yetkililer, çıkış yapmakta olan bir petrol tankerinin Hürmüz Boğazı'ndan geçişi sırasında kimliği belirsiz bir merminin isabetine uğradığını bildirmiştir. Tüm mürettebatın durumu bellidir ve şu anda çevresel etkilere dair herhangi bir rapor alınmamıştır.",
+        "name:ckb": "ڕاپۆرتی دەریایی · هێرش · تەنگەی هورمز",
+        "description:ckb": "ڕاپۆرتێک لەبارەی ڕوودانی رووداوێک لە ١٨ میل لە دەریای ڕۆژهەڵاتی خەسب، عومان پێگەیشتووە. بەرپرسانی خۆجێی ڕایانگەیاندووە کە نەوتکێشێک لە کاتی دەرچووندا، لە کاتی پەڕینەوە لە تەنگەی هورمزدا کەوتووەتە بەر پەلاماری مووشەکێکی نەناسراو. باری هەموو ستافەکە دیارە و لە ئێستادا هیچ ڕاپۆرتێک لەسەر دەرئەنجامە ژینگەیییەکان پێنەگەیشتووە.",
+        "id": "Mzc6dWttdG8tdWttdG8tMjIz",
+        "publicId": "Mzc6dWttdG8tdWttdG8tMjIz",
+        "sourceId": "ukmto-ukmto-223",
+        "layerId": 37,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-26T12:37:24.337Z",
+        "updatedAt": "2026-11-26T12:37:24.337Z"
+      }
     }
   ],
   "metadata": {
-    "total": 121,
+    "total": 122,
     "layerId": 37,
     "clustered": false,
     "simplified": false
