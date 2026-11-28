@@ -7389,10 +7389,65 @@
         "createdAt": "2026-11-26T12:37:24.337Z",
         "updatedAt": "2026-11-26T12:37:24.337Z"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 118610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.2,
+          24.716666666666665
+        ]
+      },
+      "properties": {
+        "name:fa": "گزارش دریایی · اطلاعیه · دریای عمان",
+        "description": "گزارشی از وقوع یک حادثه شامل یک کشتی باری و نیروهای نظامی در دریای عمان دریافت شده است.",
+        "incidentKind": "اطلاعیه",
+        "vesselType": "باری",
+        "date": 1795694400,
+        "area": "دریای عمان",
+        "incidentKind:en": "Advisory",
+        "vesselType:en": "Cargo ship",
+        "area:en": "Gulf of Oman",
+        "incidentKind:ar": "تنبيه",
+        "vesselType:ar": "سفينة شحن",
+        "area:ar": "خليج عمان",
+        "incidentKind:he": "הודעה",
+        "vesselType:he": "ספינת משא",
+        "area:he": "מפרץ עומאן",
+        "incidentKind:tr": "Uyarı",
+        "vesselType:tr": "Yük gemisi",
+        "area:tr": "Umman Körfezi",
+        "incidentKind:ckb": "ئاگاداری",
+        "vesselType:ckb": "کەشتی بار",
+        "area:ckb": "کەنداوی عومان",
+        "name:en": "Maritime Report · Announcement · Sea of Oman",
+        "description:en": "A report has been received regarding the occurrence of an incident involving a cargo ship and military forces in the Sea of Oman.",
+        "name:ar": "تقرير بحري · إشعار · بحر عمان",
+        "description:ar": "ورد تقرير عن وقوع حادث يشمل سفينة شحن وقوات عسكرية في بحر عمان.",
+        "name:he": "דיווח ימי · הודעה · ים עומאן",
+        "description:he": "התקבל דיווח על אירוע המעורב בו ספינת משא וכוחות צבאיים בים עומאן.",
+        "name:tr": "Deniz Raporu · Duyuru · Umman Denizi",
+        "description:tr": "Umman Denizi'nde bir yük gemisi ve askeri güçleri içeren bir olayın meydana geldiğine dair bir rapor alınmıştır.",
+        "name:ckb": "ڕاپۆڕتی دەریایی · ئاگاداری · دەریای عومان",
+        "description:ckb": "ڕاپۆڕتێک سەبارەت بە ڕوودانی رووداوێک کە کەشتییەکی بارهەڵگر و هێزە سەربازییەکانی لە دەریای عومان تێدایە، پێگەیشتووە.",
+        "id": "Mzc6dWttdG8tdWttdG8tMjI0",
+        "publicId": "Mzc6dWttdG8tdWttdG8tMjI0",
+        "sourceId": "ukmto-ukmto-224",
+        "layerId": 37,
+        "type": "event",
+        "status": "active",
+        "urgency": null,
+        "verificationTag": null,
+        "expirationDate": null,
+        "createdAt": "2026-11-27T20:35:16.784Z",
+        "updatedAt": "2026-11-27T20:35:16.784Z"
+      }
     }
   ],
   "metadata": {
-    "total": 122,
+    "total": 123,
     "layerId": 37,
     "clustered": false,
     "simplified": false

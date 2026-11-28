@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-27T02:00:08.924Z",
-  "serial": 10897,
+  "lastUpdated": "2026-11-28T02:00:21.790Z",
+  "serial": 11039,
   "layers": {
     "40": "2c8342a484e6422ed2d96252d1aeb5403273f825",
     "missilePrograms": "a9267bd234e8ae84887958ab51fd1589fcf4b7b0",
@@ -37,10 +37,10 @@
     "chatroom": "ece29e7e2b2491077271fcea54766c68f74b0537",
     "pharmacy": "2b3ebb8e677efe67a741d2d3b933b8b1c38648c7",
     "cameraPoint": "5a4899d25f1280e2b6b18dcabdadc3c82d5498e5",
-    "MaritimeEvents": "d03b145e490330d10675c25d1c23bd639f491874",
+    "MaritimeEvents": "e8b326b59f5281e69837188a6dbdfd96ff402808",
     "notam": "7dfd0a919899ceb1a202c6aa9accc9f23c563584",
     "Checkpoint": "b1f3879eec61be2dc54472247f0dbe57a2534a1c",
     "regimeGathering": "c288d2cad46974d58568d09dcb90dedd9d5e402d",
-    "FieldReport": "d33f6c26e6b87a9f2b9fbd683c917c36928dc799"
+    "FieldReport": "7789f57580b5084f719427b24ac617eef13a6185"
   }
 }
